@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Bārah",
+    "region": "North Kordofan",
+    "lat": 13.7,
+    "lon": 30.3667,
+    "population": 47157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kināna",
+    "region": "Sennar",
+    "lat": 14.0361,
+    "lon": 33.1712,
+    "population": 46194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gereida",
+    "region": "South Darfur",
+    "lat": 11.2754,
+    "lon": 25.1403,
+    "population": 45780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merowe",
+    "region": "Northern",
+    "lat": 18.4704,
+    "lon": 31.8113,
+    "population": 45174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tokār",
+    "region": "Red Sea",
+    "lat": 18.4254,
+    "lon": 37.729,
+    "population": 44875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Singa",
+    "region": "Sennar",
+    "lat": 13.1483,
+    "lon": 33.9312,
+    "population": 42955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qadarif",
+    "region": "Al Qadarif",
+    "lat": 14.0349,
+    "lon": 35.3834,
+    "population": 42774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Um Jar Al Gharbiyya",
+    "region": "White Nile",
+    "lat": 13.8013,
+    "lon": 32.4078,
+    "population": 42148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dilling",
+    "region": "South Kordofan",
+    "lat": 12.05,
+    "lon": 29.65,
+    "population": 41634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurmuk",
+    "region": "Blue Nile",
+    "lat": 10.55,
+    "lon": 34.2833,
+    "population": 41258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talodi",
+    "region": "South Kordofan",
+    "lat": 10.6325,
+    "lon": 30.3797,
+    "population": 41026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongola",
+    "region": "Northern",
+    "lat": 19.1816,
+    "lon": 30.4769,
+    "population": 40202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ed Damer",
+    "region": "River Nile",
+    "lat": 17.599,
+    "lon": 33.9721,
+    "population": 40058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karmah an Nuzul",
+    "region": "Northern",
+    "lat": 19.6333,
+    "lon": 30.4167,
+    "population": 39995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hilāliyya",
+    "region": "Al Jazirah",
+    "lat": 14.9398,
+    "lon": 33.234,
+    "population": 39451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kutum",
+    "region": "North Darfur",
+    "lat": 14.2,
+    "lon": 24.6667,
+    "population": 38724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wagar",
+    "region": "Kassala",
+    "lat": 16.1525,
+    "lon": 36.2032,
+    "population": 38369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalqani",
+    "region": "Sennar",
+    "lat": 12.4486,
+    "lon": 34.2186,
+    "population": 37982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marabba",
+    "region": "White Nile",
+    "lat": 12.35,
+    "lon": 32.1833,
+    "population": 37955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dabbah",
+    "region": "Northern",
+    "lat": 18.05,
+    "lon": 30.95,
+    "population": 37194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinnar",
+    "region": "Sennar",
+    "lat": 13.5691,
+    "lon": 33.5672,
+    "population": 36546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kassala",
+    "region": "Kassala",
+    "lat": 15.451,
+    "lon": 36.4,
+    "population": 36525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Ruseris",
+    "region": "Blue Nile",
+    "lat": 11.8659,
+    "lon": 34.3869,
+    "population": 36167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gebeit",
+    "region": "Red Sea",
+    "lat": 21.0667,
+    "lon": 36.3167,
+    "population": 36090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabak",
+    "region": "White Nile",
+    "lat": 13.1809,
+    "lon": 32.74,
+    "population": 35917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khartoum",
+    "region": "Khartoum",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "population": 35242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hasaheisa",
+    "region": "Al Jazirah",
+    "lat": 14.7526,
+    "lon": 33.2984,
+    "population": 34829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shendi",
+    "region": "River Nile",
+    "lat": 16.6915,
+    "lon": 33.4341,
+    "population": 34410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wad Rāwah",
+    "region": "Al Jazirah",
+    "lat": 15.1603,
+    "lon": 33.1397,
+    "population": 34078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abū Zabad",
+    "region": "West Kordofan",
+    "lat": 12.35,
+    "lon": 29.25,
+    "population": 33867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Lagowa",
+    "region": "West Kordofan",
+    "lat": 11.4,
+    "lon": 29.1333,
+    "population": 33658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Fasher",
+    "region": "North Darfur",
+    "lat": 13.6279,
+    "lon": 25.3494,
+    "population": 33643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aroma",
+    "region": "Kassala",
+    "lat": 15.8167,
+    "lon": 36.1333,
+    "population": 31299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wad az Zāki",
+    "region": "White Nile",
+    "lat": 14.4619,
+    "lon": 32.2065,
+    "population": 31083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kawa",
+    "region": "White Nile",
+    "lat": 13.7463,
+    "lon": 32.4996,
+    "population": 30750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyala",
+    "region": "South Darfur",
+    "lat": 12.0489,
+    "lon": 24.8807,
+    "population": 30587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Matama",
+    "region": "River Nile",
+    "lat": 16.7095,
+    "lon": 33.3565,
+    "population": 30202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kiremit al ‘Arakiyyīn",
+    "region": "Al Jazirah",
+    "lat": 14.3476,
+    "lon": 32.9437,
+    "population": 30159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atbara",
+    "region": "River Nile",
+    "lat": 17.7022,
+    "lon": 33.9864,
+    "population": 29969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qiţena",
+    "region": "White Nile",
+    "lat": 14.8648,
+    "lon": 32.3668,
+    "population": 29811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tandaltī",
+    "region": "White Nile",
+    "lat": 13.0167,
+    "lon": 31.8667,
+    "population": 28564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩawātah",
+    "region": "Al Qadarif",
+    "lat": 13.4167,
+    "lon": 34.6333,
+    "population": 27789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mijlad",
+    "region": "West Kordofan",
+    "lat": 11.0333,
+    "lon": 27.7333,
+    "population": 27220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sawākin",
+    "region": "Red Sea",
+    "lat": 19.1059,
+    "lon": 37.3321,
+    "population": 26675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Bauga",
+    "region": "River Nile",
+    "lat": 18.262,
+    "lon": 33.9081,
+    "population": 26606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosti",
+    "region": "White Nile",
+    "lat": 13.1629,
+    "lon": 32.6635,
+    "population": 26226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rahad",
+    "region": "North Kordofan",
+    "lat": 12.7167,
+    "lon": 30.65,
+    "population": 23834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wad Medani",
+    "region": "Al Jazirah",
+    "lat": 14.4012,
+    "lon": 33.5199,
+    "population": 23804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad-Damazin",
+    "region": "Blue Nile",
+    "lat": 11.7891,
+    "lon": 34.3592,
+    "population": 23421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuraymah",
+    "region": "Northern",
+    "lat": 18.55,
+    "lon": 31.85,
+    "population": 22826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maiurno",
+    "region": "Sennar",
+    "lat": 13.4167,
+    "lon": 33.6667,
+    "population": 21827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dindar",
+    "region": "Sennar",
+    "lat": 13.2,
+    "lon": 34.1667,
+    "population": 21194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Douiem",
+    "region": "White Nile",
+    "lat": 14.0012,
+    "lon": 32.3116,
+    "population": 21134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalingei",
+    "region": "Central Darfur",
+    "lat": 12.9092,
+    "lon": 23.4706,
+    "population": 21025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argo",
+    "region": "Northern",
+    "lat": 19.5167,
+    "lon": 30.4167,
+    "population": 20581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadugli",
+    "region": "South Kordofan",
+    "lat": 11.0111,
+    "lon": 29.7183,
+    "population": 20565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sūkī",
+    "region": "Sennar",
+    "lat": 13.3167,
+    "lon": 33.8833,
+    "population": 20058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Manāqil",
+    "region": "Al Jazirah",
+    "lat": 14.2459,
+    "lon": 32.9891,
+    "population": 19243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fūlah",
+    "region": "South Kordofan",
+    "lat": 11.7329,
+    "lon": 28.3579,
+    "population": 18768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omdurman",
+    "region": "Khartoum",
+    "lat": 15.6445,
+    "lon": 32.4777,
+    "population": 17133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Jibeha",
+    "region": "South Kordofan",
+    "lat": 11.4562,
+    "lon": 31.2285,
+    "population": 16737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Nuhūd",
+    "region": "West Kordofan",
+    "lat": 12.7,
+    "lon": 28.4333,
+    "population": 16581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Daein",
+    "region": "East Darfur",
+    "lat": 11.4619,
+    "lon": 26.1258,
+    "population": 16235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Sudan",
+    "region": "Red Sea",
+    "lat": 19.6175,
+    "lon": 37.2164,
+    "population": 15500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Kaddadah",
+    "region": "North Darfur",
+    "lat": 13.6017,
+    "lon": 26.6876,
+    "population": 15223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berber",
+    "region": "River Nile",
+    "lat": 18.0216,
+    "lon": 33.983,
+    "population": 15118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geneina",
+    "region": "West Darfur",
+    "lat": 13.4526,
+    "lon": 22.4473,
+    "population": 14887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Ruwaba",
+    "region": "North Kordofan",
+    "lat": 12.9061,
+    "lon": 31.2158,
+    "population": 14146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Masallamiyya",
+    "region": "Al Jazirah",
+    "lat": 14.5748,
+    "lon": 33.3373,
+    "population": 13163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Obeid",
+    "region": "North Kordofan",
+    "lat": 13.1842,
+    "lon": 30.2167,
+    "population": 12701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doka",
+    "region": "Al Qadarif",
+    "lat": 13.5167,
+    "lon": 35.7667,
+    "population": 11388,
+    "timezone": "UTC"
+  }
+]

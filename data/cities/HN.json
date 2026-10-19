@@ -1,0 +1,4362 @@
+[
+  {
+    "name": "El Ocote",
+    "region": "Yoro Department",
+    "lat": 15.4167,
+    "lon": -86.5667,
+    "population": 49757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinacla",
+    "region": "La Paz Department",
+    "lat": 14.1829,
+    "lon": -87.954,
+    "population": 49497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción de la Barranca",
+    "region": "Copán Department",
+    "lat": 15.1667,
+    "lon": -88.7167,
+    "population": 49340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baracoa",
+    "region": "Cortés Department",
+    "lat": 15.7667,
+    "lon": -87.85,
+    "population": 49166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jícaro Galán",
+    "region": "Valle Department",
+    "lat": 13.5317,
+    "lon": -87.4389,
+    "population": 49039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lepaterique",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0559,
+    "lon": -87.4791,
+    "population": 48783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Intibucá Department",
+    "lat": 14.0473,
+    "lon": -88.3194,
+    "population": 48613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Yoro Department",
+    "lat": 15.3167,
+    "lon": -87.1667,
+    "population": 48589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallecillo",
+    "region": "Francisco Morazán Department",
+    "lat": 14.5131,
+    "lon": -87.4024,
+    "population": 48567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Llano",
+    "region": "Cortés Department",
+    "lat": 15.15,
+    "lon": -87.8833,
+    "population": 48498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petoa",
+    "region": "Santa Bárbara Department",
+    "lat": 15.2667,
+    "lon": -88.2833,
+    "population": 48480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Choluteca",
+    "region": "Choluteca Department",
+    "lat": 13.3003,
+    "lon": -87.1908,
+    "population": 48385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "La Paz Department",
+    "lat": 14.2264,
+    "lon": -87.9624,
+    "population": 48322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catacamas",
+    "region": "Olancho Department",
+    "lat": 14.6038,
+    "lon": -85.5426,
+    "population": 48258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Concepción",
+    "region": "Olancho Department",
+    "lat": 14.7,
+    "lon": -86.2333,
+    "population": 48233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolores",
+    "region": "Copán Department",
+    "lat": 14.8667,
+    "lon": -88.8333,
+    "population": 48190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Vegas, Santa Barbara",
+    "region": "Santa Bárbara Department",
+    "lat": 14.8765,
+    "lon": -88.0747,
+    "population": 48144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Bálsamo",
+    "region": "Yoro Department",
+    "lat": 15.0667,
+    "lon": -87.4667,
+    "population": 48007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuyamel",
+    "region": "Cortés Department",
+    "lat": 15.6667,
+    "lon": -88.2,
+    "population": 47845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jutiapa",
+    "region": "Atlántida Department",
+    "lat": 15.6959,
+    "lon": -86.5041,
+    "population": 47813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Diego",
+    "region": "El Paraíso Department",
+    "lat": 14.05,
+    "lon": -86.4667,
+    "population": 47710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José del Potrero",
+    "region": "Comayagua Department",
+    "lat": 14.862,
+    "lon": -87.2905,
+    "population": 47344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada Larga",
+    "region": "El Paraíso Department",
+    "lat": 14.1,
+    "lon": -86.3667,
+    "population": 47110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arada",
+    "region": "Santa Bárbara Department",
+    "lat": 14.85,
+    "lon": -88.3,
+    "population": 46999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercedes",
+    "region": "Ocotepeque Department",
+    "lat": 14.3167,
+    "lon": -88.9833,
+    "population": 46987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jutiquile",
+    "region": "Olancho Department",
+    "lat": 14.7167,
+    "lon": -86.0833,
+    "population": 46828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oropolí",
+    "region": "El Paraíso Department",
+    "lat": 13.8167,
+    "lon": -86.8167,
+    "population": 46825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Callejones",
+    "region": "Santa Bárbara Department",
+    "lat": 15.1667,
+    "lon": -88.65,
+    "population": 46757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Caminos",
+    "region": "Cortés Department",
+    "lat": 14.95,
+    "lon": -87.9667,
+    "population": 46604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lucas",
+    "region": "El Paraíso Department",
+    "lat": 13.7459,
+    "lon": -86.9516,
+    "population": 46555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambla",
+    "region": "Lempira Department",
+    "lat": 14.2128,
+    "lon": -88.7677,
+    "population": 46333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paujiles",
+    "region": "Yoro Department",
+    "lat": 15.1,
+    "lon": -87.35,
+    "population": 46181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lepaera",
+    "region": "Lempira Department",
+    "lat": 14.7833,
+    "lon": -88.5833,
+    "population": 46177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nacaome",
+    "region": "Valle Department",
+    "lat": 13.5221,
+    "lon": -87.5248,
+    "population": 46146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choloma",
+    "region": "Cortés Department",
+    "lat": 15.64,
+    "lon": -87.92,
+    "population": 46011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco del Valle",
+    "region": "Ocotepeque Department",
+    "lat": 14.4333,
+    "lon": -88.95,
+    "population": 46010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Isidro",
+    "region": "Intibucá Department",
+    "lat": 14.5676,
+    "lon": -88.1174,
+    "population": 45880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Agustín",
+    "region": "Copán Department",
+    "lat": 14.8197,
+    "lon": -88.9303,
+    "population": 45783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valladolid",
+    "region": "Lempira Department",
+    "lat": 14.1471,
+    "lon": -88.7084,
+    "population": 45771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liure",
+    "region": "El Paraíso Department",
+    "lat": 13.5358,
+    "lon": -87.0919,
+    "population": 45746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tornabé",
+    "region": "Atlántida Department",
+    "lat": 15.75,
+    "lon": -87.55,
+    "population": 45697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos de Colón",
+    "region": "Choluteca Department",
+    "lat": 13.4151,
+    "lon": -86.8209,
+    "population": 45652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choluteca",
+    "region": "Choluteca Department",
+    "lat": 13.2826,
+    "lon": -87.2012,
+    "population": 45379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jericó",
+    "region": "Colón Department",
+    "lat": 15.95,
+    "lon": -85.9667,
+    "population": 45330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caridad",
+    "region": "Valle Department",
+    "lat": 13.8156,
+    "lon": -87.6812,
+    "population": 45296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Zumbadora",
+    "region": "Copán Department",
+    "lat": 15.0167,
+    "lon": -88.9,
+    "population": 45098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Cones",
+    "region": "Ocotepeque Department",
+    "lat": 14.5167,
+    "lon": -88.9,
+    "population": 44987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potrerillos",
+    "region": "Cortés Department",
+    "lat": 15.21,
+    "lon": -87.95,
+    "population": 44933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilama",
+    "region": "Santa Bárbara Department",
+    "lat": 15.0667,
+    "lon": -88.2167,
+    "population": 44762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Triunfo de la Cruz",
+    "region": "Atlántida Department",
+    "lat": 15.7667,
+    "lon": -87.4333,
+    "population": 44693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corquín",
+    "region": "Copán Department",
+    "lat": 14.5667,
+    "lon": -88.8667,
+    "population": 44650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Benque",
+    "region": "El Paraíso Department",
+    "lat": 14.0333,
+    "lon": -86.4667,
+    "population": 44620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agualote",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3353,
+    "lon": -88.5531,
+    "population": 44618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Azul",
+    "region": "Cortés Department",
+    "lat": 14.9167,
+    "lon": -87.9667,
+    "population": 44518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Copán",
+    "region": "Copán Department",
+    "lat": 14.8333,
+    "lon": -89.15,
+    "population": 44481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morocelí",
+    "region": "El Paraíso Department",
+    "lat": 14.1167,
+    "lon": -86.8667,
+    "population": 44470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Vegas",
+    "region": "Yoro Department",
+    "lat": 15.0167,
+    "lon": -87.45,
+    "population": 44237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Lima",
+    "region": "Cortés Department",
+    "lat": 15.4333,
+    "lon": -87.9167,
+    "population": 44233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuscarán",
+    "region": "El Paraíso Department",
+    "lat": 13.9571,
+    "lon": -86.8317,
+    "population": 44214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yauyupe",
+    "region": "El Paraíso Department",
+    "lat": 13.7487,
+    "lon": -87.0761,
+    "population": 44195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz de Yojoa",
+    "region": "Cortés Department",
+    "lat": 14.9833,
+    "lon": -87.9,
+    "population": 44164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Abajo",
+    "region": "Francisco Morazán Department",
+    "lat": 14.1667,
+    "lon": -87.2167,
+    "population": 44136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Blanquito",
+    "region": "Cortés Department",
+    "lat": 15.7333,
+    "lon": -87.9,
+    "population": 44042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Travesía",
+    "region": "Cortés Department",
+    "lat": 15.8667,
+    "lon": -87.9,
+    "population": 44040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guanaja",
+    "region": "Bay Islands Department",
+    "lat": 16.4479,
+    "lon": -85.8943,
+    "population": 43785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Río Tinto",
+    "region": "Olancho Department",
+    "lat": 14.9333,
+    "lon": -85.7,
+    "population": 43679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armenia",
+    "region": "Yoro Department",
+    "lat": 15.4667,
+    "lon": -86.3667,
+    "population": 43575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Armenia",
+    "region": "Atlántida Department",
+    "lat": 15.7956,
+    "lon": -86.4985,
+    "population": 43456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Francisco de La Paz",
+    "region": "Olancho Department",
+    "lat": 14.8418,
+    "lon": -86.1182,
+    "population": 43267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langue",
+    "region": "Valle Department",
+    "lat": 13.6208,
+    "lon": -87.6525,
+    "population": 43180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corocito",
+    "region": "Colón Department",
+    "lat": 15.75,
+    "lon": -85.7833,
+    "population": 43129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Copán",
+    "region": "Copán Department",
+    "lat": 14.9,
+    "lon": -88.7167,
+    "population": 43081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cofradía",
+    "region": "Cortés Department",
+    "lat": 15.4,
+    "lon": -88.15,
+    "population": 43060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio del Norte",
+    "region": "La Paz Department",
+    "lat": 13.88,
+    "lon": -87.72,
+    "population": 43057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fraternidad",
+    "region": "Ocotepeque Department",
+    "lat": 14.5809,
+    "lon": -89.0774,
+    "population": 42998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lomitas",
+    "region": "Yoro Department",
+    "lat": 15.1,
+    "lon": -87.2167,
+    "population": 42954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Sarrosa",
+    "region": "Yoro Department",
+    "lat": 15.2333,
+    "lon": -87.8333,
+    "population": 42925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Juncal",
+    "region": "Yoro Department",
+    "lat": 15.45,
+    "lon": -86.4333,
+    "population": 42842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Campa",
+    "region": "Lempira Department",
+    "lat": 14.4728,
+    "lon": -88.5609,
+    "population": 42742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taulabé",
+    "region": "Comayagua Department",
+    "lat": 14.6715,
+    "lon": -87.9869,
+    "population": 42729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coyoles Central",
+    "region": "Yoro Department",
+    "lat": 15.4,
+    "lon": -86.6667,
+    "population": 42715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trujillo",
+    "region": "Colón Department",
+    "lat": 15.9167,
+    "lon": -85.9542,
+    "population": 42579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Elena",
+    "region": "Cortés Department",
+    "lat": 15.3833,
+    "lon": -88.1333,
+    "population": 42477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azacualpa",
+    "region": "Santa Bárbara Department",
+    "lat": 14.7167,
+    "lon": -88.1,
+    "population": 42470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Achiotal",
+    "region": "Lempira Department",
+    "lat": 14.0833,
+    "lon": -88.75,
+    "population": 42461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguas del Padre",
+    "region": "Comayagua Department",
+    "lat": 14.5667,
+    "lon": -87.8833,
+    "population": 42420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olanchito",
+    "region": "Yoro Department",
+    "lat": 15.4813,
+    "lon": -86.5742,
+    "population": 42337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Nicolás",
+    "region": "Olancho Department",
+    "lat": 14.55,
+    "lon": -86.25,
+    "population": 42316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lauterique",
+    "region": "La Paz Department",
+    "lat": 13.8643,
+    "lon": -87.6579,
+    "population": 42241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Corpus",
+    "region": "Copán Department",
+    "lat": 14.7,
+    "lon": -88.9167,
+    "population": 42192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bálsamo Oriental",
+    "region": "Yoro Department",
+    "lat": 15.4833,
+    "lon": -86.3333,
+    "population": 42164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prieta",
+    "region": "Colón Department",
+    "lat": 15.5806,
+    "lon": -86.1366,
+    "population": 42012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Perico",
+    "region": "Cortés Department",
+    "lat": 15.0833,
+    "lon": -88.1,
+    "population": 41983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guantillo",
+    "region": "Francisco Morazán Department",
+    "lat": 14.6,
+    "lon": -87.3,
+    "population": 41968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tránsito",
+    "region": "Ocotepeque Department",
+    "lat": 14.3833,
+    "lon": -88.9167,
+    "population": 41869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Tarros",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3,
+    "lon": -88.7,
+    "population": 41802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Olivar",
+    "region": "Cortés Department",
+    "lat": 15.0833,
+    "lon": -87.8833,
+    "population": 41720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ojo de Agua",
+    "region": "El Paraíso Department",
+    "lat": 14.0167,
+    "lon": -86.35,
+    "population": 41626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3,
+    "lon": -88.4167,
+    "population": 41614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Suyatal",
+    "region": "Francisco Morazán Department",
+    "lat": 14.5167,
+    "lon": -87.2167,
+    "population": 41594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Blanco",
+    "region": "Comayagua Department",
+    "lat": 14.6667,
+    "lon": -87.7833,
+    "population": 41480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Playona",
+    "region": "Copán Department",
+    "lat": 15.1167,
+    "lon": -88.9833,
+    "population": 41442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morazán",
+    "region": "Yoro Department",
+    "lat": 15.3167,
+    "lon": -87.6,
+    "population": 41432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan",
+    "region": "La Paz Department",
+    "lat": 13.9543,
+    "lon": -87.7295,
+    "population": 41376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "Choluteca Department",
+    "lat": 13.2581,
+    "lon": -87.3483,
+    "population": 41319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos",
+    "region": "Ocotepeque Department",
+    "lat": 14.38,
+    "lon": -88.92,
+    "population": 41297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esparta",
+    "region": "Atlántida Department",
+    "lat": 15.6629,
+    "lon": -87.2562,
+    "population": 41270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dulce Nombre",
+    "region": "Copán Department",
+    "lat": 14.8555,
+    "lon": -88.8386,
+    "population": 41185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marcovia",
+    "region": "Choluteca Department",
+    "lat": 13.2881,
+    "lon": -87.3097,
+    "population": 41122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Comayagua Department",
+    "lat": 14.75,
+    "lon": -87.4167,
+    "population": 41084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magdalena",
+    "region": "Intibucá Department",
+    "lat": 13.9245,
+    "lon": -88.3667,
+    "population": 41079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concordia",
+    "region": "Olancho Department",
+    "lat": 14.6167,
+    "lon": -86.65,
+    "population": 41040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Guama",
+    "region": "Cortés Department",
+    "lat": 14.8833,
+    "lon": -87.9333,
+    "population": 41009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Francisco Morazán Department",
+    "lat": 14.1259,
+    "lon": -87.0918,
+    "population": 41004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sulaco",
+    "region": "Yoro Department",
+    "lat": 14.9167,
+    "lon": -87.2667,
+    "population": 40995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Sauce",
+    "region": "Comayagua Department",
+    "lat": 14.5285,
+    "lon": -87.6657,
+    "population": 40897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de la Cuesta",
+    "region": "Comayagua Department",
+    "lat": 14.6333,
+    "lon": -87.6,
+    "population": 40647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coxen Hole",
+    "region": "Bay Islands Department",
+    "lat": 16.3176,
+    "lon": -86.5379,
+    "population": 40616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tular",
+    "region": "Valle Department",
+    "lat": 13.4664,
+    "lon": -87.5153,
+    "population": 40575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pimienta",
+    "region": "Cortés Department",
+    "lat": 15.265,
+    "lon": -87.9667,
+    "population": 40509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Vegas",
+    "region": "Santa Bárbara Department",
+    "lat": 14.8664,
+    "lon": -88.0723,
+    "population": 40491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veracruz",
+    "region": "Copán Department",
+    "lat": 14.8834,
+    "lon": -88.7857,
+    "population": 40487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namasigüe",
+    "region": "Choluteca Department",
+    "lat": 13.2047,
+    "lon": -87.1389,
+    "population": 40263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tablón",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0333,
+    "lon": -87.1667,
+    "population": 40245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Fría",
+    "region": "Valle Department",
+    "lat": 13.4689,
+    "lon": -87.5511,
+    "population": 40156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis de Planes",
+    "region": "Santa Bárbara Department",
+    "lat": 14.9833,
+    "lon": -88.1333,
+    "population": 40147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jorge",
+    "region": "Ocotepeque Department",
+    "lat": 14.637,
+    "lon": -89.1186,
+    "population": 40072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Santa Bárbara Department",
+    "lat": 15.0833,
+    "lon": -88.3833,
+    "population": 40037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Trinidad",
+    "region": "Comayagua Department",
+    "lat": 14.7,
+    "lon": -87.6629,
+    "population": 40012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Rosa",
+    "region": "Yoro Department",
+    "lat": 15.35,
+    "lon": -87.0667,
+    "population": 39871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taragual",
+    "region": "Lempira Department",
+    "lat": 14.75,
+    "lon": -88.4833,
+    "population": 39825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaimitas",
+    "region": "Yoro Department",
+    "lat": 15.5,
+    "lon": -87.7167,
+    "population": 39626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Atlántida Department",
+    "lat": 15.6525,
+    "lon": -87.0174,
+    "population": 39462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Yojoa",
+    "region": "Cortés Department",
+    "lat": 15.0167,
+    "lon": -87.9667,
+    "population": 39455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corpus",
+    "region": "Choluteca Department",
+    "lat": 13.2889,
+    "lon": -87.0347,
+    "population": 39440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "José Santos Guardiola",
+    "region": "Bay Islands Department",
+    "lat": 16.4176,
+    "lon": -86.3063,
+    "population": 39322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Joaquín",
+    "region": "Copán Department",
+    "lat": 15.05,
+    "lon": -88.9,
+    "population": 39132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arenal",
+    "region": "Yoro Department",
+    "lat": 15.35,
+    "lon": -86.8333,
+    "population": 39052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omoa",
+    "region": "Cortés Department",
+    "lat": 15.7667,
+    "lon": -88.0333,
+    "population": 38990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Piedra",
+    "region": "Colón Department",
+    "lat": 15.9,
+    "lon": -85.2833,
+    "population": 38987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tatumbla",
+    "region": "Francisco Morazán Department",
+    "lat": 13.9847,
+    "lon": -87.0698,
+    "population": 38904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Ocotepeque Department",
+    "lat": 14.5238,
+    "lon": -89.1937,
+    "population": 38889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utila",
+    "region": "Bay Islands Department",
+    "lat": 16.1003,
+    "lon": -86.9307,
+    "population": 38802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quimistán",
+    "region": "Santa Bárbara Department",
+    "lat": 15.35,
+    "lon": -88.4,
+    "population": 38680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Araulí",
+    "region": "El Paraíso Department",
+    "lat": 13.95,
+    "lon": -86.55,
+    "population": 38641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Ciruelo",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3,
+    "lon": -88.5,
+    "population": 38595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos de la Sierra",
+    "region": "Intibucá Department",
+    "lat": 14.1324,
+    "lon": -88.2469,
+    "population": 38577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casa Quemada",
+    "region": "Santa Bárbara Department",
+    "lat": 15.2667,
+    "lon": -88.55,
+    "population": 38527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Atlántida Department",
+    "lat": 15.65,
+    "lon": -87.0667,
+    "population": 38076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Corpus",
+    "region": "Choluteca Department",
+    "lat": 13.3046,
+    "lon": -87.0097,
+    "population": 38036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Criba",
+    "region": "Valle Department",
+    "lat": 13.4536,
+    "lon": -87.4133,
+    "population": 38029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guante",
+    "region": "Francisco Morazán Department",
+    "lat": 14.55,
+    "lon": -87.1,
+    "population": 38001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tegucigalpa",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0818,
+    "lon": -87.2068,
+    "population": 37983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Planes",
+    "region": "Copán Department",
+    "lat": 14.9333,
+    "lon": -88.7833,
+    "population": 37619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rancho",
+    "region": "Cortés Department",
+    "lat": 15.6667,
+    "lon": -87.95,
+    "population": 37436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Llanitos",
+    "region": "Choluteca Department",
+    "lat": 13.2869,
+    "lon": -87.3344,
+    "population": 37423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Bonito",
+    "region": "Comayagua Department",
+    "lat": 14.7667,
+    "lon": -87.8833,
+    "population": 37242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción del Norte",
+    "region": "Santa Bárbara Department",
+    "lat": 15.2023,
+    "lon": -88.1373,
+    "population": 37118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Atlántida Department",
+    "lat": 15.6,
+    "lon": -87.15,
+    "population": 37086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Texiguat",
+    "region": "El Paraíso Department",
+    "lat": 13.6637,
+    "lon": -87.0348,
+    "population": 37021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alauca",
+    "region": "El Paraíso Department",
+    "lat": 13.8402,
+    "lon": -86.6953,
+    "population": 37018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Copán Department",
+    "lat": 14.8808,
+    "lon": -88.8792,
+    "population": 36969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Copán Department",
+    "lat": 15.0333,
+    "lon": -88.9667,
+    "population": 36921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Azul Rancho",
+    "region": "Cortés Department",
+    "lat": 14.9,
+    "lon": -87.95,
+    "population": 36884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Seca",
+    "region": "Olancho Department",
+    "lat": 14.7,
+    "lon": -86.1,
+    "population": 36882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Estancia",
+    "region": "Olancho Department",
+    "lat": 15.05,
+    "lon": -86.35,
+    "population": 36670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita, Copan",
+    "region": "Copán Department",
+    "lat": 14.8675,
+    "lon": -89.1,
+    "population": 36537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Choluteca Department",
+    "lat": 13.7142,
+    "lon": -87.4226,
+    "population": 36448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Esperanza",
+    "region": "Colón Department",
+    "lat": 15.6333,
+    "lon": -85.7667,
+    "population": 36339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cofradía",
+    "region": "Francisco Morazán Department",
+    "lat": 14.2167,
+    "lon": -87.1833,
+    "population": 36183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aramecina",
+    "region": "Valle Department",
+    "lat": 13.7422,
+    "lon": -87.7103,
+    "population": 36142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Entrada",
+    "region": "Copán Department",
+    "lat": 15.05,
+    "lon": -88.7333,
+    "population": 36068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punuare",
+    "region": "Olancho Department",
+    "lat": 14.7333,
+    "lon": -85.9667,
+    "population": 36057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebradas",
+    "region": "Francisco Morazán Department",
+    "lat": 14.5,
+    "lon": -87.35,
+    "population": 35644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Copán Department",
+    "lat": 15.04,
+    "lon": -88.88,
+    "population": 35624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceguaca",
+    "region": "Santa Bárbara Department",
+    "lat": 14.8,
+    "lon": -88.2,
+    "population": 35473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente Centenario",
+    "region": "Santa Bárbara Department",
+    "lat": 14.8833,
+    "lon": -88.2833,
+    "population": 35464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alianza",
+    "region": "Valle Department",
+    "lat": 13.4482,
+    "lon": -87.6864,
+    "population": 35453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualcince",
+    "region": "Lempira Department",
+    "lat": 14.1287,
+    "lon": -88.5681,
+    "population": 35333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Lolo",
+    "region": "Francisco Morazán Department",
+    "lat": 14.1167,
+    "lon": -87.2667,
+    "population": 35276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ojos de Agua",
+    "region": "Copán Department",
+    "lat": 14.7,
+    "lon": -88.8167,
+    "population": 35267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rosario",
+    "region": "Comayagua Department",
+    "lat": 14.575,
+    "lon": -87.7431,
+    "population": 35187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Ocotepeque Department",
+    "lat": 14.4167,
+    "lon": -89.2,
+    "population": 35156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Valle Department",
+    "lat": 13.4515,
+    "lon": -87.4074,
+    "population": 35112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonito Oriental",
+    "region": "Colón Department",
+    "lat": 15.7464,
+    "lon": -85.7361,
+    "population": 35056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pimienta Vieja",
+    "region": "Cortés Department",
+    "lat": 15.2333,
+    "lon": -87.9667,
+    "population": 35037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Lindo",
+    "region": "Cortés Department",
+    "lat": 15.0333,
+    "lon": -87.9833,
+    "population": 35011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duyure",
+    "region": "Choluteca Department",
+    "lat": 13.6333,
+    "lon": -86.8167,
+    "population": 34872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Támara",
+    "region": "Francisco Morazán Department",
+    "lat": 14.15,
+    "lon": -87.3333,
+    "population": 34743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potrerillos",
+    "region": "Comayagua Department",
+    "lat": 14.55,
+    "lon": -87.8667,
+    "population": 34662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marale",
+    "region": "Francisco Morazán Department",
+    "lat": 14.9411,
+    "lon": -87.0989,
+    "population": 34613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pespire",
+    "region": "Choluteca Department",
+    "lat": 13.5922,
+    "lon": -87.3617,
+    "population": 34521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Verde",
+    "region": "Santa Bárbara Department",
+    "lat": 15.2,
+    "lon": -88.1667,
+    "population": 34470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mina",
+    "region": "Yoro Department",
+    "lat": 15.3167,
+    "lon": -87.8333,
+    "population": 34265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercedes de Oriente",
+    "region": "La Paz Department",
+    "lat": 13.9094,
+    "lon": -87.778,
+    "population": 34197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dulce Nombre de Culmí",
+    "region": "Olancho Department",
+    "lat": 15.1,
+    "lon": -85.5333,
+    "population": 34189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guata",
+    "region": "Olancho Department",
+    "lat": 15.1513,
+    "lon": -86.3762,
+    "population": 34188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Masica",
+    "region": "Atlántida Department",
+    "lat": 15.5986,
+    "lon": -87.135,
+    "population": 34029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinidad",
+    "region": "Santa Bárbara Department",
+    "lat": 15.1333,
+    "lon": -88.2333,
+    "population": 34016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Opalaca",
+    "region": "Intibucá Department",
+    "lat": 14.5844,
+    "lon": -88.3025,
+    "population": 34004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Opoa",
+    "region": "Copán Department",
+    "lat": 14.7833,
+    "lon": -88.7,
+    "population": 33951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yoro",
+    "region": "Yoro Department",
+    "lat": 15.1375,
+    "lon": -87.1278,
+    "population": 33894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zopilotepe",
+    "region": "Olancho Department",
+    "lat": 14.6,
+    "lon": -86.2667,
+    "population": 33700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Negrito",
+    "region": "Yoro Department",
+    "lat": 15.3167,
+    "lon": -87.7,
+    "population": 33612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loma Alta",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3967,
+    "lon": -88.5597,
+    "population": 33545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Santa Bárbara Department",
+    "lat": 14.9194,
+    "lon": -88.2361,
+    "population": 33445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Lempira",
+    "region": "Gracias a Dios Department",
+    "lat": 15.2667,
+    "lon": -83.7722,
+    "population": 33415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rincón",
+    "region": "Comayagua Department",
+    "lat": 14.5833,
+    "lon": -87.9333,
+    "population": 33367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pinalejo",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3833,
+    "lon": -88.4,
+    "population": 33258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Venta",
+    "region": "Francisco Morazán Department",
+    "lat": 13.7311,
+    "lon": -87.3287,
+    "population": 33171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Labor",
+    "region": "Ocotepeque Department",
+    "lat": 14.4833,
+    "lon": -89,
+    "population": 33163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wampusirpi",
+    "region": "Gracias a Dios Department",
+    "lat": 15.1833,
+    "lon": -84.6167,
+    "population": 33161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gracias",
+    "region": "Lempira Department",
+    "lat": 14.5903,
+    "lon": -88.5819,
+    "population": 33133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Yoro Department",
+    "lat": 15.18,
+    "lon": -87.81,
+    "population": 33133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Zacapa",
+    "region": "Santa Bárbara Department",
+    "lat": 14.75,
+    "lon": -88.1167,
+    "population": 33071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Nicolás",
+    "region": "Santa Bárbara Department",
+    "lat": 14.9191,
+    "lon": -88.3791,
+    "population": 32965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Arcadia",
+    "region": "Copán Department",
+    "lat": 15.08,
+    "lon": -88.69,
+    "population": 32910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Caliente",
+    "region": "Copán Department",
+    "lat": 14.8833,
+    "lon": -88.8167,
+    "population": 32896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Milagro",
+    "region": "Cortés Department",
+    "lat": 15.4,
+    "lon": -87.9667,
+    "population": 32768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "French Harbor",
+    "region": "Bay Islands Department",
+    "lat": 16.35,
+    "lon": -86.4333,
+    "population": 32742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taujica",
+    "region": "Colón Department",
+    "lat": 15.7,
+    "lon": -85.9167,
+    "population": 32711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Copán Ruinas",
+    "region": "Copán Department",
+    "lat": 14.92,
+    "lon": -89.15,
+    "population": 32647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humuya",
+    "region": "Comayagua Department",
+    "lat": 14.25,
+    "lon": -87.6667,
+    "population": 32523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Socorro",
+    "region": "Comayagua Department",
+    "lat": 14.6333,
+    "lon": -87.9167,
+    "population": 32470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silca",
+    "region": "Olancho Department",
+    "lat": 14.7621,
+    "lon": -86.5152,
+    "population": 32458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marcala",
+    "region": "La Paz Department",
+    "lat": 14.1485,
+    "lon": -88.0241,
+    "population": 32452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sambo Creek",
+    "region": "Atlántida Department",
+    "lat": 15.8167,
+    "lon": -86.6833,
+    "population": 32420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arizona",
+    "region": "Atlántida Department",
+    "lat": 15.6333,
+    "lon": -87.3167,
+    "population": 32347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rosario",
+    "region": "Olancho Department",
+    "lat": 14.8872,
+    "lon": -86.6876,
+    "population": 32264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio",
+    "region": "Francisco Morazán Department",
+    "lat": 14.7379,
+    "lon": -87.0476,
+    "population": 32064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sensenti",
+    "region": "Ocotepeque Department",
+    "lat": 14.4833,
+    "lon": -88.9333,
+    "population": 31979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Ocotón",
+    "region": "Copán Department",
+    "lat": 15.0333,
+    "lon": -88.8833,
+    "population": 31943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mata de Plátano",
+    "region": "Francisco Morazán Department",
+    "lat": 14.6,
+    "lon": -87.2833,
+    "population": 31936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "Lempira Department",
+    "lat": 14.3443,
+    "lon": -88.5268,
+    "population": 31828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maraita",
+    "region": "Francisco Morazán Department",
+    "lat": 13.872,
+    "lon": -87.0563,
+    "population": 31733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virginia",
+    "region": "Lempira Department",
+    "lat": 14.0052,
+    "lon": -88.5619,
+    "population": 31648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teupasenti",
+    "region": "El Paraíso Department",
+    "lat": 14.2167,
+    "lon": -86.7,
+    "population": 31405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Lempira Department",
+    "lat": 14.8167,
+    "lon": -88.4,
+    "population": 31275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monterrey",
+    "region": "Cortés Department",
+    "lat": 15.5833,
+    "lon": -87.8833,
+    "population": 31192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesús de Otoro",
+    "region": "Intibucá Department",
+    "lat": 14.4833,
+    "lon": -87.9833,
+    "population": 31154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "Yoro Department",
+    "lat": 15.1001,
+    "lon": -87.5302,
+    "population": 31117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Manuel Colohete",
+    "region": "Lempira Department",
+    "lat": 14.4444,
+    "lon": -88.6705,
+    "population": 31079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Pedernal",
+    "region": "Francisco Morazán Department",
+    "lat": 14.7,
+    "lon": -87.1167,
+    "population": 31075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Escanito",
+    "region": "Francisco Morazán Department",
+    "lat": 14.6667,
+    "lon": -87.1,
+    "population": 31068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Armenia",
+    "region": "Francisco Morazán Department",
+    "lat": 13.75,
+    "lon": -87.1531,
+    "population": 30950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualaco",
+    "region": "Olancho Department",
+    "lat": 15.0252,
+    "lon": -86.0708,
+    "population": 30919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roatán",
+    "region": "Bay Islands Department",
+    "lat": 16.341,
+    "lon": -86.5376,
+    "population": 30898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Guarita",
+    "region": "Lempira Department",
+    "lat": 14.1549,
+    "lon": -88.7748,
+    "population": 30890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Manuel",
+    "region": "Cortés Department",
+    "lat": 15.3728,
+    "lon": -87.9017,
+    "population": 30864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Porvenir",
+    "region": "Cortés Department",
+    "lat": 15.8333,
+    "lon": -87.9333,
+    "population": 30858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chotepe",
+    "region": "Cortés Department",
+    "lat": 15.4167,
+    "lon": -87.9833,
+    "population": 30695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuyalí",
+    "region": "El Paraíso Department",
+    "lat": 13.8833,
+    "lon": -86.55,
+    "population": 30588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Flores",
+    "region": "Lempira Department",
+    "lat": 14.6793,
+    "lon": -88.6504,
+    "population": 30509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "La Paz Department",
+    "lat": 14.0001,
+    "lon": -87.9411,
+    "population": 30485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trojes",
+    "region": "El Paraíso Department",
+    "lat": 14.0597,
+    "lon": -86.0017,
+    "population": 30426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florida",
+    "region": "Copán Department",
+    "lat": 15.0333,
+    "lon": -88.8333,
+    "population": 30345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mapulaca",
+    "region": "Lempira Department",
+    "lat": 14.0429,
+    "lon": -88.6244,
+    "population": 30313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atenas de San Cristóbal",
+    "region": "Atlántida Department",
+    "lat": 15.6833,
+    "lon": -87.3167,
+    "population": 30216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolores Merendón",
+    "region": "Ocotepeque Department",
+    "lat": 14.551,
+    "lon": -89.1249,
+    "population": 30185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naranjito",
+    "region": "Santa Bárbara Department",
+    "lat": 14.95,
+    "lon": -88.6833,
+    "population": 30086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jerónimo",
+    "region": "Choluteca Department",
+    "lat": 13.1767,
+    "lon": -87.1364,
+    "population": 30078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Jutosa",
+    "region": "Cortés Department",
+    "lat": 15.6333,
+    "lon": -88,
+    "population": 30037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomalá",
+    "region": "Lempira Department",
+    "lat": 14.2433,
+    "lon": -88.7314,
+    "population": 30027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rusio",
+    "region": "Olancho Department",
+    "lat": 14.4667,
+    "lon": -86.3667,
+    "population": 30008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabá",
+    "region": "Colón Department",
+    "lat": 15.4667,
+    "lon": -86.25,
+    "population": 29979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalmeca",
+    "region": "Copán Department",
+    "lat": 15.1,
+    "lon": -88.6833,
+    "population": 29951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Puente",
+    "region": "Choluteca Department",
+    "lat": 13.2833,
+    "lon": -87.1167,
+    "population": 29697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oropéndolas",
+    "region": "Cortés Department",
+    "lat": 15.0167,
+    "lon": -87.9333,
+    "population": 29606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Buenaventura",
+    "region": "Cortés Department",
+    "lat": 15.0167,
+    "lon": -88,
+    "population": 29575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de Cortés",
+    "region": "Cortés Department",
+    "lat": 15.1167,
+    "lon": -88.0333,
+    "population": 29538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito Central",
+    "region": "Francisco Morazán Department",
+    "lat": 14.1497,
+    "lon": -87.2481,
+    "population": 29520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trojas",
+    "region": "Yoro Department",
+    "lat": 15.35,
+    "lon": -86.7,
+    "population": 29397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jutiapa",
+    "region": "El Paraíso Department",
+    "lat": 13.9833,
+    "lon": -86.4,
+    "population": 29316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masaguara",
+    "region": "Intibucá Department",
+    "lat": 14.4043,
+    "lon": -87.9825,
+    "population": 29296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apacilagua",
+    "region": "Choluteca Department",
+    "lat": 13.4582,
+    "lon": -87.0112,
+    "population": 29270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle de Ángeles",
+    "region": "Comayagua Department",
+    "lat": 14.5,
+    "lon": -87.6333,
+    "population": 29194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jerónimo",
+    "region": "Comayagua Department",
+    "lat": 14.6404,
+    "lon": -87.5677,
+    "population": 29047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada de Arena",
+    "region": "Colón Department",
+    "lat": 15.7667,
+    "lon": -85.9167,
+    "population": 28922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualala",
+    "region": "Santa Bárbara Department",
+    "lat": 14.98,
+    "lon": -88.17,
+    "population": 28861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candelaria",
+    "region": "Lempira Department",
+    "lat": 14.0607,
+    "lon": -88.5591,
+    "population": 28714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macuelizo",
+    "region": "Santa Bárbara Department",
+    "lat": 15.26,
+    "lon": -88.66,
+    "population": 28595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yarula",
+    "region": "La Paz Department",
+    "lat": 14.1,
+    "lon": -88.08,
+    "population": 28463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guayabito",
+    "region": "Olancho Department",
+    "lat": 14.8333,
+    "lon": -86.0333,
+    "population": 28290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocote Paulino",
+    "region": "Yoro Department",
+    "lat": 15.4167,
+    "lon": -87.6,
+    "population": 28238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Ojuera",
+    "region": "Santa Bárbara Department",
+    "lat": 14.67,
+    "lon": -88.21,
+    "population": 28227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jocón",
+    "region": "Yoro Department",
+    "lat": 15.2833,
+    "lon": -86.9667,
+    "population": 28224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualjoco",
+    "region": "Santa Bárbara Department",
+    "lat": 14.95,
+    "lon": -88.2333,
+    "population": 28125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potrerillos",
+    "region": "El Paraíso Department",
+    "lat": 14.0448,
+    "lon": -86.762,
+    "population": 28117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mojimán",
+    "region": "Yoro Department",
+    "lat": 15.2667,
+    "lon": -87.6,
+    "population": 28014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Blanca Sur",
+    "region": "Yoro Department",
+    "lat": 15.25,
+    "lon": -87.8833,
+    "population": 27915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Terrero",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0667,
+    "lon": -87.0667,
+    "population": 27754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minas de Oro",
+    "region": "Comayagua Department",
+    "lat": 14.8,
+    "lon": -87.35,
+    "population": 27703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atima",
+    "region": "Santa Bárbara Department",
+    "lat": 14.9333,
+    "lon": -88.4833,
+    "population": 27699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Chimbo",
+    "region": "Francisco Morazán Department",
+    "lat": 14.1333,
+    "lon": -87.1167,
+    "population": 27643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Copán",
+    "region": "Copán Department",
+    "lat": 14.7667,
+    "lon": -88.7792,
+    "population": 27604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Marañón",
+    "region": "Cortés Department",
+    "lat": 15.4,
+    "lon": -88.05,
+    "population": 27454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Paraíso",
+    "region": "Copán Department",
+    "lat": 15.0422,
+    "lon": -88.9805,
+    "population": 27407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguelito",
+    "region": "Intibucá Department",
+    "lat": 14.3488,
+    "lon": -88.3398,
+    "population": 27384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Grande",
+    "region": "Francisco Morazán Department",
+    "lat": 13.8167,
+    "lon": -87.25,
+    "population": 27383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Porvenir",
+    "region": "Atlántida Department",
+    "lat": 15.75,
+    "lon": -86.9333,
+    "population": 27325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Esteban",
+    "region": "Colón Department",
+    "lat": 15.8333,
+    "lon": -86.3,
+    "population": 27297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Cortez",
+    "region": "Cortés Department",
+    "lat": 15.8256,
+    "lon": -87.9297,
+    "population": 27130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Sabá",
+    "region": "Colón Department",
+    "lat": 15.4865,
+    "lon": -86.1632,
+    "population": 26941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayape",
+    "region": "Olancho Department",
+    "lat": 14.7167,
+    "lon": -86.8333,
+    "population": 26802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Pino",
+    "region": "Atlántida Department",
+    "lat": 15.7,
+    "lon": -86.9333,
+    "population": 26755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curarén",
+    "region": "Francisco Morazán Department",
+    "lat": 13.83,
+    "lon": -87.57,
+    "population": 26732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamalteca",
+    "region": "Comayagua Department",
+    "lat": 14.7,
+    "lon": -87.5833,
+    "population": 26561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Copán Department",
+    "lat": 14.6935,
+    "lon": -88.9473,
+    "population": 26526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Lempira Department",
+    "lat": 14.5083,
+    "lon": -88.4282,
+    "population": 26361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Matías",
+    "region": "El Paraíso Department",
+    "lat": 13.9597,
+    "lon": -86.6403,
+    "population": 26309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savannah Bight",
+    "region": "Bay Islands Department",
+    "lat": 16.45,
+    "lon": -85.85,
+    "population": 26290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de la Paz",
+    "region": "Olancho Department",
+    "lat": 14.9,
+    "lon": -86.2,
+    "population": 26184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erandique",
+    "region": "Lempira Department",
+    "lat": 14.2333,
+    "lon": -88.4667,
+    "population": 26036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Intibucá Department",
+    "lat": 13.9504,
+    "lon": -88.4649,
+    "population": 25858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zambrano",
+    "region": "Francisco Morazán Department",
+    "lat": 14.2667,
+    "lon": -87.4,
+    "population": 25785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan",
+    "region": "Intibucá Department",
+    "lat": 14.4213,
+    "lon": -88.4195,
+    "population": 25736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sula",
+    "region": "Santa Bárbara Department",
+    "lat": 15.25,
+    "lon": -88.5667,
+    "population": 25613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "El Paraíso Department",
+    "lat": 13.8667,
+    "lon": -86.6333,
+    "population": 25515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael",
+    "region": "Lempira Department",
+    "lat": 14.7333,
+    "lon": -88.4167,
+    "population": 25461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Copán Department",
+    "lat": 14.88,
+    "lon": -89.01,
+    "population": 25446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Frontera",
+    "region": "Santa Bárbara Department",
+    "lat": 15.21,
+    "lon": -88.56,
+    "population": 25430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián",
+    "region": "Lempira Department",
+    "lat": 14.3459,
+    "lon": -88.7349,
+    "population": 25429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tepanguare",
+    "region": "La Paz Department",
+    "lat": 14.3333,
+    "lon": -87.75,
+    "population": 25402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinuapa",
+    "region": "Ocotepeque Department",
+    "lat": 14.45,
+    "lon": -89.1833,
+    "population": 25378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balfate",
+    "region": "Colón Department",
+    "lat": 15.7571,
+    "lon": -86.2905,
+    "population": 25195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Santa Bárbara Department",
+    "lat": 14.7601,
+    "lon": -88.2678,
+    "population": 25143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yarumela",
+    "region": "La Paz Department",
+    "lat": 14.3333,
+    "lon": -87.6333,
+    "population": 25115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bejuco",
+    "region": "Cortés Department",
+    "lat": 15.1333,
+    "lon": -87.9333,
+    "population": 24989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vado Ancho",
+    "region": "El Paraíso Department",
+    "lat": 13.6435,
+    "lon": -86.9555,
+    "population": 24986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campamento",
+    "region": "Olancho Department",
+    "lat": 14.55,
+    "lon": -86.65,
+    "population": 24937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tigre",
+    "region": "Cortés Department",
+    "lat": 14.9333,
+    "lon": -87.9833,
+    "population": 24773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yorito",
+    "region": "Yoro Department",
+    "lat": 15.0667,
+    "lon": -87.2833,
+    "population": 24744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ermita",
+    "region": "Francisco Morazán Department",
+    "lat": 14.4667,
+    "lon": -87.0667,
+    "population": 24667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Guata",
+    "region": "Olancho Department",
+    "lat": 15.0833,
+    "lon": -86.3833,
+    "population": 24660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Ánimas",
+    "region": "El Paraíso Department",
+    "lat": 14.25,
+    "lon": -86.5667,
+    "population": 24582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nombre de Jesús",
+    "region": "Yoro Department",
+    "lat": 15.35,
+    "lon": -86.6833,
+    "population": 24540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elíxir",
+    "region": "Colón Department",
+    "lat": 15.4833,
+    "lon": -86.3,
+    "population": 24508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cololaca",
+    "region": "Lempira Department",
+    "lat": 14.3119,
+    "lon": -88.8772,
+    "population": 24404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamá",
+    "region": "Colón Department",
+    "lat": 15.75,
+    "lon": -85.9667,
+    "population": 24301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tocoa",
+    "region": "Colón Department",
+    "lat": 15.6833,
+    "lon": -86,
+    "population": 24214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villanueva",
+    "region": "Cortés Department",
+    "lat": 15.3167,
+    "lon": -88,
+    "population": 24176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago Puringla",
+    "region": "La Paz Department",
+    "lat": 14.35,
+    "lon": -87.9,
+    "population": 24149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yocón",
+    "region": "Olancho Department",
+    "lat": 14.95,
+    "lon": -86.82,
+    "population": 24149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ojojona",
+    "region": "Francisco Morazán Department",
+    "lat": 13.9339,
+    "lon": -87.2958,
+    "population": 24055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Isidro",
+    "region": "Choluteca Department",
+    "lat": 13.6445,
+    "lon": -87.2609,
+    "population": 24026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabañas",
+    "region": "La Paz Department",
+    "lat": 13.9942,
+    "lon": -88.0286,
+    "population": 23957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quezailica",
+    "region": "Copán Department",
+    "lat": 14.8833,
+    "lon": -88.7333,
+    "population": 23925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Alianza",
+    "region": "Valle Department",
+    "lat": 13.5122,
+    "lon": -87.7244,
+    "population": 23759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baja Mar",
+    "region": "Cortés Department",
+    "lat": 15.8885,
+    "lon": -87.8555,
+    "population": 23431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Tejeras",
+    "region": "Lempira Department",
+    "lat": 14.8,
+    "lon": -88.6,
+    "population": 23407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esquipulas del Norte",
+    "region": "Olancho Department",
+    "lat": 15.2776,
+    "lon": -86.5576,
+    "population": 23295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brus Laguna",
+    "region": "Gracias a Dios Department",
+    "lat": 15.75,
+    "lon": -84.4833,
+    "population": 23042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Triunfo",
+    "region": "Choluteca Department",
+    "lat": 13.0802,
+    "lon": -87.0178,
+    "population": 22937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camasca",
+    "region": "Intibucá Department",
+    "lat": 14,
+    "lon": -88.3833,
+    "population": 22882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rancho",
+    "region": "Comayagua Department",
+    "lat": 14.6833,
+    "lon": -87.5,
+    "population": 22833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Zapotal del Norte",
+    "region": "Cortés Department",
+    "lat": 15.5167,
+    "lon": -88.05,
+    "population": 22684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joconal",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3544,
+    "lon": -88.6356,
+    "population": 22676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Tangos",
+    "region": "Copán Department",
+    "lat": 15.15,
+    "lon": -88.6833,
+    "population": 22658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Texíguat",
+    "region": "El Paraíso Department",
+    "lat": 13.6497,
+    "lon": -87.0225,
+    "population": 22642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cucuyagua",
+    "region": "Copán Department",
+    "lat": 14.65,
+    "lon": -88.8667,
+    "population": 22571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción de María",
+    "region": "Choluteca Department",
+    "lat": 13.2236,
+    "lon": -86.9624,
+    "population": 22533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Mochito",
+    "region": "Santa Bárbara Department",
+    "lat": 14.8667,
+    "lon": -88.0833,
+    "population": 22394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Yoro Department",
+    "lat": 15.3333,
+    "lon": -87.15,
+    "population": 22394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Atlántida Department",
+    "lat": 15.7167,
+    "lon": -87,
+    "population": 22211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villeda Morales",
+    "region": "Gracias a Dios Department",
+    "lat": 15.0847,
+    "lon": -83.3536,
+    "population": 22201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cusuna",
+    "region": "Colón Department",
+    "lat": 15.85,
+    "lon": -85.2333,
+    "population": 22178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada Seca",
+    "region": "Cortés Department",
+    "lat": 15.6667,
+    "lon": -87.95,
+    "population": 21899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Cortés",
+    "region": "Cortés Department",
+    "lat": 15.79,
+    "lon": -87.849,
+    "population": 21898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Copán Department",
+    "lat": 14.9118,
+    "lon": -88.7167,
+    "population": 21817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Plan",
+    "region": "Cortés Department",
+    "lat": 15.2833,
+    "lon": -87.9667,
+    "population": 21755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talanga",
+    "region": "Francisco Morazán Department",
+    "lat": 14.4139,
+    "lon": -87.0694,
+    "population": 21581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiquinlaca",
+    "region": "Intibucá Department",
+    "lat": 14,
+    "lon": -88.35,
+    "population": 21555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colomoncagua",
+    "region": "Intibucá Department",
+    "lat": 13.9725,
+    "lon": -88.2767,
+    "population": 21529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Aguán",
+    "region": "Colón Department",
+    "lat": 15.95,
+    "lon": -85.7167,
+    "population": 21440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lajas",
+    "region": "Comayagua Department",
+    "lat": 14.9,
+    "lon": -87.5833,
+    "population": 21437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Chamelecón",
+    "region": "Cortés Department",
+    "lat": 15.3833,
+    "lon": -88.0167,
+    "population": 21366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Trojes",
+    "region": "El Paraíso Department",
+    "lat": 14.0667,
+    "lon": -85.9833,
+    "population": 21350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manto",
+    "region": "Olancho Department",
+    "lat": 14.9167,
+    "lon": -86.3833,
+    "population": 21141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Progreso",
+    "region": "Yoro Department",
+    "lat": 15.4276,
+    "lon": -87.774,
+    "population": 21140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zamora",
+    "region": "Colón Department",
+    "lat": 15.6333,
+    "lon": -86.0667,
+    "population": 21136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos de Caiquin",
+    "region": "Lempira Department",
+    "lat": 14.4161,
+    "lon": -88.6013,
+    "population": 21128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berlín",
+    "region": "Santa Bárbara Department",
+    "lat": 14.8333,
+    "lon": -88.5,
+    "population": 21113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tela",
+    "region": "Atlántida Department",
+    "lat": 15.7743,
+    "lon": -87.4673,
+    "population": 21039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Ocotepeque",
+    "region": "Ocotepeque Department",
+    "lat": 14.4333,
+    "lon": -89.1833,
+    "population": 20979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camalote",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3333,
+    "lon": -88.3333,
+    "population": 20915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corozal",
+    "region": "Atlántida Department",
+    "lat": 15.8,
+    "lon": -86.7167,
+    "population": 20891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamaní",
+    "region": "Comayagua Department",
+    "lat": 14.2,
+    "lon": -87.6167,
+    "population": 20738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Esperanza",
+    "region": "Yoro Department",
+    "lat": 15.2667,
+    "lon": -87.6,
+    "population": 20656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Alto",
+    "region": "Cortés Department",
+    "lat": 15.7,
+    "lon": -87.8667,
+    "population": 20599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Corozal",
+    "region": "Santa Bárbara Department",
+    "lat": 15.0667,
+    "lon": -88.6167,
+    "population": 20512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Fe",
+    "region": "Colón Department",
+    "lat": 15.8542,
+    "lon": -86.1108,
+    "population": 20428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iralaya",
+    "region": "Gracias a Dios Department",
+    "lat": 15,
+    "lon": -83.2333,
+    "population": 20423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Nicolás",
+    "region": "Copán Department",
+    "lat": 14.98,
+    "lon": -88.73,
+    "population": 20401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Colinas",
+    "region": "Santa Bárbara Department",
+    "lat": 15.0333,
+    "lon": -88.3,
+    "population": 20392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "La Paz Department",
+    "lat": 14.269,
+    "lon": -87.9116,
+    "population": 20309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Níspero",
+    "region": "Santa Bárbara Department",
+    "lat": 14.7596,
+    "lon": -88.3444,
+    "population": 20277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Paraíso",
+    "region": "El Paraíso Department",
+    "lat": 13.8538,
+    "lon": -86.5309,
+    "population": 20256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayapa",
+    "region": "Yoro Department",
+    "lat": 15.1117,
+    "lon": -87.1756,
+    "population": 20249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle de Ángeles",
+    "region": "Francisco Morazán Department",
+    "lat": 14.15,
+    "lon": -87.0333,
+    "population": 20209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Porvenir",
+    "region": "Comayagua Department",
+    "lat": 14.5833,
+    "lon": -87.8833,
+    "population": 20033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "Copán Department",
+    "lat": 15,
+    "lon": -88.75,
+    "population": 19980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de Flores",
+    "region": "El Paraíso Department",
+    "lat": 13.7109,
+    "lon": -86.8423,
+    "population": 19948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarizama",
+    "region": "Olancho Department",
+    "lat": 14.9167,
+    "lon": -86.3333,
+    "population": 19721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "Comayagua Department",
+    "lat": 14.88,
+    "lon": -87.55,
+    "population": 19483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Nueva",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0333,
+    "lon": -87.1333,
+    "population": 19320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monjarás",
+    "region": "Choluteca Department",
+    "lat": 13.2006,
+    "lon": -87.3742,
+    "population": 19197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaguacire",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0167,
+    "lon": -87.2167,
+    "population": 19167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén Gualcho",
+    "region": "Ocotepeque Department",
+    "lat": 14.4833,
+    "lon": -88.8,
+    "population": 19116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carbajales",
+    "region": "Yoro Department",
+    "lat": 15.5167,
+    "lon": -86.35,
+    "population": 19088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés",
+    "region": "Lempira Department",
+    "lat": 14.2197,
+    "lon": -88.5498,
+    "population": 18647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guajiquiro",
+    "region": "La Paz Department",
+    "lat": 14.0698,
+    "lon": -87.7745,
+    "population": 18577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanagrande",
+    "region": "Francisco Morazán Department",
+    "lat": 13.8078,
+    "lon": -87.2592,
+    "population": 18577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaimaca",
+    "region": "Francisco Morazán Department",
+    "lat": 14.5333,
+    "lon": -86.8167,
+    "population": 18457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reitoca",
+    "region": "Francisco Morazán Department",
+    "lat": 13.8258,
+    "lon": -87.4653,
+    "population": 18407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Porvenir",
+    "region": "Francisco Morazán Department",
+    "lat": 14.7201,
+    "lon": -87.2104,
+    "population": 18392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacaleapa",
+    "region": "El Paraíso Department",
+    "lat": 14.0167,
+    "lon": -86.6667,
+    "population": 18353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auas",
+    "region": "Gracias a Dios Department",
+    "lat": 15.4833,
+    "lon": -84.3333,
+    "population": 18346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezapa",
+    "region": "Atlántida Department",
+    "lat": 15.5833,
+    "lon": -87.65,
+    "population": 18346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Planes",
+    "region": "La Paz Department",
+    "lat": 14.05,
+    "lon": -88.0167,
+    "population": 18315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de Oriente",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0386,
+    "lon": -86.9895,
+    "population": 18230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peña Blanca",
+    "region": "Cortés Department",
+    "lat": 15.5333,
+    "lon": -88.05,
+    "population": 18044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toyós",
+    "region": "Yoro Department",
+    "lat": 15.55,
+    "lon": -87.65,
+    "population": 18018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Intibucá Department",
+    "lat": 13.9081,
+    "lon": -88.4157,
+    "population": 17940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arimís",
+    "region": "Olancho Department",
+    "lat": 14.7833,
+    "lon": -86,
+    "population": 17913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Francisco Morazán Department",
+    "lat": 13.94,
+    "lon": -87.21,
+    "population": 17879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morolica",
+    "region": "Choluteca Department",
+    "lat": 13.568,
+    "lon": -86.8882,
+    "population": 17817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orica",
+    "region": "Francisco Morazán Department",
+    "lat": 14.8064,
+    "lon": -86.9576,
+    "population": 17780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolores",
+    "region": "Intibucá Department",
+    "lat": 14.2619,
+    "lon": -88.3579,
+    "population": 17740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Esteban",
+    "region": "Olancho Department",
+    "lat": 15.2947,
+    "lon": -85.6949,
+    "population": 17627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juticalpa",
+    "region": "Olancho Department",
+    "lat": 14.6667,
+    "lon": -86.2194,
+    "population": 17555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cubolero",
+    "region": "Valle Department",
+    "lat": 13.4667,
+    "lon": -87.6667,
+    "population": 17526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ceiba",
+    "region": "Atlántida Department",
+    "lat": 15.7597,
+    "lon": -86.7822,
+    "population": 17510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limón",
+    "region": "Colón Department",
+    "lat": 15.7966,
+    "lon": -85.508,
+    "population": 17485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guacamaya",
+    "region": "Santa Bárbara Department",
+    "lat": 15.0167,
+    "lon": -88.15,
+    "population": 17470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Flores",
+    "region": "Francisco Morazán Department",
+    "lat": 14.2667,
+    "lon": -87.0333,
+    "population": 17424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Flecha",
+    "region": "Santa Bárbara Department",
+    "lat": 15.2833,
+    "lon": -88.4833,
+    "population": 17369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Trinidad",
+    "region": "Yoro Department",
+    "lat": 15.1,
+    "lon": -87.2,
+    "population": 17358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarita",
+    "region": "Lempira Department",
+    "lat": 14.2078,
+    "lon": -88.8516,
+    "population": 17330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Intibucá",
+    "region": "Intibucá Department",
+    "lat": 14.43,
+    "lon": -88.17,
+    "population": 17133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Virtud",
+    "region": "Lempira Department",
+    "lat": 14.0716,
+    "lon": -88.6858,
+    "population": 17035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José del Boquerón",
+    "region": "Cortés Department",
+    "lat": 15.4833,
+    "lon": -87.8667,
+    "population": 16964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Naranjos",
+    "region": "Cortés Department",
+    "lat": 14.9,
+    "lon": -88.05,
+    "population": 16951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguanqueterique",
+    "region": "La Paz Department",
+    "lat": 13.9861,
+    "lon": -87.6462,
+    "population": 16938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talgua",
+    "region": "Lempira Department",
+    "lat": 14.6811,
+    "lon": -88.728,
+    "population": 16934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guapinol",
+    "region": "Francisco Morazán Department",
+    "lat": 13.7667,
+    "lon": -87.4667,
+    "population": 16887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antigua Ocotepeque",
+    "region": "Ocotepeque Department",
+    "lat": 14.4,
+    "lon": -89.2,
+    "population": 16806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción del Sur",
+    "region": "Santa Bárbara Department",
+    "lat": 14.8126,
+    "lon": -88.1532,
+    "population": 16739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaruchel",
+    "region": "Ocotepeque Department",
+    "lat": 14.5333,
+    "lon": -88.8167,
+    "population": 16708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Huesa",
+    "region": "Cortés Department",
+    "lat": 15.5833,
+    "lon": -87.8833,
+    "population": 16600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tepusteca",
+    "region": "Yoro Department",
+    "lat": 15.4167,
+    "lon": -86.3167,
+    "population": 16582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danlí",
+    "region": "El Paraíso Department",
+    "lat": 14.0333,
+    "lon": -86.5833,
+    "population": 16575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piraera",
+    "region": "Lempira Department",
+    "lat": 14.0626,
+    "lon": -88.4632,
+    "population": 16438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Celilac",
+    "region": "Santa Bárbara Department",
+    "lat": 14.9755,
+    "lon": -88.3673,
+    "population": 16397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Brea",
+    "region": "Colón Department",
+    "lat": 15.8,
+    "lon": -85.9667,
+    "population": 16377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mateo",
+    "region": "Francisco Morazán Department",
+    "lat": 14.0833,
+    "lon": -87.3167,
+    "population": 16299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Correderos",
+    "region": "Santa Bárbara Department",
+    "lat": 15.4167,
+    "lon": -88.45,
+    "population": 16268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de Flores",
+    "region": "Choluteca Department",
+    "lat": 13.6415,
+    "lon": -87.3407,
+    "population": 16246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Subirana",
+    "region": "Yoro Department",
+    "lat": 15.2,
+    "lon": -87.45,
+    "population": 16233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Sabana",
+    "region": "Cortés Department",
+    "lat": 15.3667,
+    "lon": -87.9333,
+    "population": 16092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa de San Francisco",
+    "region": "Francisco Morazán Department",
+    "lat": 14.1667,
+    "lon": -86.9667,
+    "population": 16076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lejamaní",
+    "region": "Comayagua Department",
+    "lat": 14.3667,
+    "lon": -87.7,
+    "population": 15920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonaguera",
+    "region": "Colón Department",
+    "lat": 15.64,
+    "lon": -86.26,
+    "population": 15868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armenta",
+    "region": "Cortés Department",
+    "lat": 15.5,
+    "lon": -88.05,
+    "population": 15682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Escaño de Tepale",
+    "region": "Francisco Morazán Department",
+    "lat": 14.75,
+    "lon": -87.0667,
+    "population": 15617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auka",
+    "region": "Gracias a Dios Department",
+    "lat": 14.9409,
+    "lon": -83.8323,
+    "population": 15350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Jigua",
+    "region": "Copán Department",
+    "lat": 15.1,
+    "lon": -88.76,
+    "population": 15333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Copán",
+    "region": "Copán Department",
+    "lat": 14.6167,
+    "lon": -88.8,
+    "population": 15301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Sula",
+    "region": "Cortés Department",
+    "lat": 15.5042,
+    "lon": -88.025,
+    "population": 15299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción de Guasistagua",
+    "region": "Comayagua Department",
+    "lat": 14.6,
+    "lon": -87.65,
+    "population": 15282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naco",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3833,
+    "lon": -88.1833,
+    "population": 15271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "Lempira Department",
+    "lat": 14.8,
+    "lon": -88.5833,
+    "population": 15239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Chiquito",
+    "region": "Cortés Department",
+    "lat": 15.6333,
+    "lon": -88.25,
+    "population": 15196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamá",
+    "region": "Olancho Department",
+    "lat": 14.8105,
+    "lon": -86.62,
+    "population": 15141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguelito",
+    "region": "Francisco Morazán Department",
+    "lat": 13.7457,
+    "lon": -87.4923,
+    "population": 14988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cane",
+    "region": "La Paz Department",
+    "lat": 14.2833,
+    "lon": -87.6667,
+    "population": 14918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Olancho Department",
+    "lat": 15.0976,
+    "lon": -86.6891,
+    "population": 14819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucerna",
+    "region": "Ocotepeque Department",
+    "lat": 14.55,
+    "lon": -88.9333,
+    "population": 14787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "Francisco Morazán Department",
+    "lat": 13.7066,
+    "lon": -87.5042,
+    "population": 14602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teguajinal",
+    "region": "Yoro Department",
+    "lat": 15.3667,
+    "lon": -86.6,
+    "population": 14589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Obraje",
+    "region": "Choluteca Department",
+    "lat": 13.1542,
+    "lon": -87.1308,
+    "population": 14574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jano",
+    "region": "Olancho Department",
+    "lat": 15.079,
+    "lon": -86.5152,
+    "population": 14552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meámbar",
+    "region": "Comayagua Department",
+    "lat": 14.8205,
+    "lon": -87.7842,
+    "population": 14429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iriona",
+    "region": "Colón Department",
+    "lat": 15.5908,
+    "lon": -85.2055,
+    "population": 14413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Jalapa",
+    "region": "Santa Bárbara Department",
+    "lat": 14.9167,
+    "lon": -88.3333,
+    "population": 14405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Iguala",
+    "region": "Lempira Department",
+    "lat": 14.6644,
+    "lon": -88.4636,
+    "population": 14371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Tutule",
+    "region": "La Paz Department",
+    "lat": 14.25,
+    "lon": -87.85,
+    "population": 14355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casa Quemada",
+    "region": "Cortés Department",
+    "lat": 15.1167,
+    "lon": -88.0833,
+    "population": 14325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Agua Dulcita",
+    "region": "Comayagua Department",
+    "lat": 14.7,
+    "lon": -87.75,
+    "population": 14237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Becerra",
+    "region": "Olancho Department",
+    "lat": 14.6333,
+    "lon": -86.1,
+    "population": 14120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siguatepeque",
+    "region": "Comayagua Department",
+    "lat": 14.6,
+    "lon": -87.8333,
+    "population": 14115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabañas",
+    "region": "Copán Department",
+    "lat": 14.76,
+    "lon": -89.06,
+    "population": 14105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinidad de Copán",
+    "region": "Copán Department",
+    "lat": 14.95,
+    "lon": -88.75,
+    "population": 14000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comayagua",
+    "region": "Comayagua Department",
+    "lat": 14.4841,
+    "lon": -87.6006,
+    "population": 13972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Encarnación",
+    "region": "Ocotepeque Department",
+    "lat": 14.6667,
+    "lon": -89.0474,
+    "population": 13947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Francisco Bulnes",
+    "region": "Gracias a Dios Department",
+    "lat": 15.9168,
+    "lon": -84.9099,
+    "population": 13904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patuca",
+    "region": "Olancho Department",
+    "lat": 14.36,
+    "lon": -85.97,
+    "population": 13891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flores",
+    "region": "Comayagua Department",
+    "lat": 14.2833,
+    "lon": -87.5667,
+    "population": 13880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tras Cerros",
+    "region": "Santa Bárbara Department",
+    "lat": 15.3,
+    "lon": -88.6667,
+    "population": 13815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Guacamaya",
+    "region": "Yoro Department",
+    "lat": 15.25,
+    "lon": -87.8,
+    "population": 13516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Ocote",
+    "region": "Yoro Department",
+    "lat": 15.2,
+    "lon": -87.2833,
+    "population": 13435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alubarén",
+    "region": "Francisco Morazán Department",
+    "lat": 13.7823,
+    "lon": -87.4699,
+    "population": 13338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orocuina",
+    "region": "Choluteca Department",
+    "lat": 13.4817,
+    "lon": -87.105,
+    "population": 13180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fernando",
+    "region": "Ocotepeque Department",
+    "lat": 14.6879,
+    "lon": -89.1015,
+    "population": 13096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañaveral",
+    "region": "Cortés Department",
+    "lat": 14.9833,
+    "lon": -88.0167,
+    "population": 12954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Comayagua",
+    "region": "Comayagua Department",
+    "lat": 14.7333,
+    "lon": -88.0333,
+    "population": 12942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Lempira Department",
+    "lat": 14.1243,
+    "lon": -88.3719,
+    "population": 12933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Esperanza",
+    "region": "Intibucá Department",
+    "lat": 14.3111,
+    "lon": -88.1806,
+    "population": 12841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Chichicaste",
+    "region": "El Paraíso Department",
+    "lat": 14.0667,
+    "lon": -86.3,
+    "population": 12728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esquías",
+    "region": "Comayagua Department",
+    "lat": 14.7333,
+    "lon": -87.3667,
+    "population": 12612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cedros",
+    "region": "Francisco Morazán Department",
+    "lat": 14.5046,
+    "lon": -87.2168,
+    "population": 12343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opatoro",
+    "region": "La Paz Department",
+    "lat": 14.0245,
+    "lon": -87.8798,
+    "population": 12238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana de Yusguare",
+    "region": "Choluteca Department",
+    "lat": 13.3006,
+    "lon": -87.1139,
+    "population": 12230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soledad",
+    "region": "El Paraíso Department",
+    "lat": 13.5833,
+    "lon": -87.1167,
+    "population": 12222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián",
+    "region": "Comayagua Department",
+    "lat": 14.2369,
+    "lon": -87.6321,
+    "population": 12212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivana",
+    "region": "Cortés Department",
+    "lat": 15.75,
+    "lon": -87.9833,
+    "population": 12198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agalteca",
+    "region": "Francisco Morazán Department",
+    "lat": 14.45,
+    "lon": -87.2667,
+    "population": 12106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goascorán",
+    "region": "Valle Department",
+    "lat": 13.5833,
+    "lon": -87.6167,
+    "population": 12028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Coray",
+    "region": "Valle Department",
+    "lat": 13.6614,
+    "lon": -87.5328,
+    "population": 11864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Elena",
+    "region": "La Paz Department",
+    "lat": 14.0715,
+    "lon": -88.1544,
+    "population": 11848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Castilla",
+    "region": "Colón Department",
+    "lat": 16.0167,
+    "lon": -85.9667,
+    "population": 11847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinda",
+    "region": "Santa Bárbara Department",
+    "lat": 15.1167,
+    "lon": -88.2,
+    "population": 11697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajuterique",
+    "region": "Comayagua Department",
+    "lat": 14.3833,
+    "lon": -87.7,
+    "population": 11612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Buenaventura",
+    "region": "Francisco Morazán Department",
+    "lat": 13.891,
+    "lon": -87.1855,
+    "population": 11602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María del Real",
+    "region": "Olancho Department",
+    "lat": 14.7667,
+    "lon": -85.95,
+    "population": 11561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Fe",
+    "region": "Ocotepeque Department",
+    "lat": 14.5004,
+    "lon": -89.2732,
+    "population": 11484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ojos de Agua",
+    "region": "Comayagua Department",
+    "lat": 14.795,
+    "lon": -87.6501,
+    "population": 11483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amapala",
+    "region": "Valle Department",
+    "lat": 13.2922,
+    "lon": -87.6539,
+    "population": 11479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Pueblo",
+    "region": "Atlántida Department",
+    "lat": 15.5833,
+    "lon": -87.2333,
+    "population": 11467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa de San Antonio",
+    "region": "Comayagua Department",
+    "lat": 14.3167,
+    "lon": -87.6167,
+    "population": 11331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Las Conchas",
+    "region": "Choluteca Department",
+    "lat": 13.3253,
+    "lon": -87.3956,
+    "population": 11290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mangulile",
+    "region": "Olancho Department",
+    "lat": 15.0667,
+    "lon": -86.8,
+    "population": 11276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Francia",
+    "region": "Colón Department",
+    "lat": 15.85,
+    "lon": -85.5833,
+    "population": 11160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "Cortés Department",
+    "lat": 15.2833,
+    "lon": -88.0167,
+    "population": 11106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahuas",
+    "region": "Gracias a Dios Department",
+    "lat": 15.4692,
+    "lon": -84.3448,
+    "population": 10953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Protección",
+    "region": "Santa Bárbara Department",
+    "lat": 15.0333,
+    "lon": -88.65,
+    "population": 10635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Estancia",
+    "region": "Yoro Department",
+    "lat": 15.2833,
+    "lon": -87.55,
+    "population": 10622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wawina",
+    "region": "Gracias a Dios Department",
+    "lat": 15.4167,
+    "lon": -84.4333,
+    "population": 10600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Obraje",
+    "region": "El Paraíso Department",
+    "lat": 14,
+    "lon": -86.4333,
+    "population": 10531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paptalaya",
+    "region": "Gracias a Dios Department",
+    "lat": 15.5,
+    "lon": -84.3167,
+    "population": 10489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barra Patuca",
+    "region": "Gracias a Dios Department",
+    "lat": 15.8,
+    "lon": -84.2833,
+    "population": 10433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jerónimo",
+    "region": "Copán Department",
+    "lat": 14.9621,
+    "lon": -88.9027,
+    "population": 10417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yamaranguila",
+    "region": "Intibucá Department",
+    "lat": 14.2683,
+    "lon": -88.2465,
+    "population": 10353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Güinope",
+    "region": "El Paraíso Department",
+    "lat": 13.8833,
+    "lon": -86.9333,
+    "population": 10292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandy Bay",
+    "region": "Bay Islands Department",
+    "lat": 16.3292,
+    "lon": -86.5645,
+    "population": 10257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz",
+    "region": "La Paz Department",
+    "lat": 14.3194,
+    "lon": -87.6792,
+    "population": 10115,
+    "timezone": "UTC"
+  }
+]

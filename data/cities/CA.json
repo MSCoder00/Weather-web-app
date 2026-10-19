@@ -1,0 +1,8634 @@
+[
+  {
+    "name": "Wellesley",
+    "region": "Ontario",
+    "lat": 43.4769,
+    "lon": -80.7621,
+    "population": 49974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Saanich",
+    "region": "British Columbia",
+    "lat": 48.6663,
+    "lon": -123.4193,
+    "population": 49949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamilton",
+    "region": "Ontario",
+    "lat": 43.2501,
+    "lon": -79.8496,
+    "population": 49947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Thomas",
+    "region": "Quebec",
+    "lat": 46.0168,
+    "lon": -73.3491,
+    "population": 49914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. John's",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.5649,
+    "lon": -52.7093,
+    "population": 49889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pont Rouge",
+    "region": "Quebec",
+    "lat": 48.8833,
+    "lon": -72.0825,
+    "population": 49885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjoa Haven",
+    "region": "Nunavut",
+    "lat": 68.626,
+    "lon": -95.8784,
+    "population": 49848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nicolet",
+    "region": "Quebec",
+    "lat": 46.2168,
+    "lon": -72.6158,
+    "population": 49772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Marc-des-Carrières",
+    "region": "Quebec",
+    "lat": 46.6833,
+    "lon": -72.0491,
+    "population": 49734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grande Cache",
+    "region": "Alberta",
+    "lat": 53.8834,
+    "lon": -119.1359,
+    "population": 49711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carignan",
+    "region": "Quebec",
+    "lat": 45.4501,
+    "lon": -73.2992,
+    "population": 49688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brownsburg-Chatham",
+    "region": "Quebec",
+    "lat": 45.6834,
+    "lon": -74.4159,
+    "population": 49680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Antoine",
+    "region": "New Brunswick",
+    "lat": 46.3629,
+    "lon": -64.7498,
+    "population": 49616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferme-Neuve",
+    "region": "Quebec",
+    "lat": 46.7001,
+    "lon": -75.4493,
+    "population": 49609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouctouche",
+    "region": "New Brunswick",
+    "lat": 46.4684,
+    "lon": -64.7391,
+    "population": 49599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niverville",
+    "region": "Manitoba",
+    "lat": 49.6056,
+    "lon": -97.0423,
+    "population": 49539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lower Sackville",
+    "region": "Nova Scotia",
+    "lat": 44.776,
+    "lon": -63.6786,
+    "population": 49538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duck Lake",
+    "region": "British Columbia",
+    "lat": 50.0088,
+    "lon": -119.3967,
+    "population": 49533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Pie",
+    "region": "Quebec",
+    "lat": 45.5028,
+    "lon": -72.9089,
+    "population": 49488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winkler",
+    "region": "Manitoba",
+    "lat": 49.1817,
+    "lon": -97.941,
+    "population": 49470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yellowknife",
+    "region": "Northwest Territories",
+    "lat": 62.4541,
+    "lon": -114.3725,
+    "population": 49390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Hippolyte",
+    "region": "Quebec",
+    "lat": 45.9334,
+    "lon": -74.0159,
+    "population": 49320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waskaganish",
+    "region": "Quebec",
+    "lat": 51.4833,
+    "lon": -78.75,
+    "population": 49299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niagara Falls",
+    "region": "Ontario",
+    "lat": 43.1001,
+    "lon": -79.0663,
+    "population": 49235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langenburg",
+    "region": "Saskatchewan",
+    "lat": 50.85,
+    "lon": -101.7176,
+    "population": 49226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seaforth",
+    "region": "Ontario",
+    "lat": 43.5501,
+    "lon": -81.3998,
+    "population": 49216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Albert",
+    "region": "Alberta",
+    "lat": 53.6334,
+    "lon": -113.6353,
+    "population": 49201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stoney Point",
+    "region": "Ontario",
+    "lat": 44.2668,
+    "lon": -79.5329,
+    "population": 49164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Owen Sound",
+    "region": "Ontario",
+    "lat": 44.5672,
+    "lon": -80.9435,
+    "population": 49161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laurel",
+    "region": "Alberta",
+    "lat": 53.4467,
+    "lon": -113.382,
+    "population": 49151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terrebonne",
+    "region": "Quebec",
+    "lat": 45.7,
+    "lon": -73.6473,
+    "population": 49121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dollard-Des Ormeaux",
+    "region": "Quebec",
+    "lat": 45.4945,
+    "lon": -73.8242,
+    "population": 49085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kugluktuk",
+    "region": "Nunavut",
+    "lat": 67.8274,
+    "lon": -115.0965,
+    "population": 49066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Killam",
+    "region": "Alberta",
+    "lat": 52.7834,
+    "lon": -111.8517,
+    "population": 49055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Croix",
+    "region": "Quebec",
+    "lat": 45.1337,
+    "lon": -72.8008,
+    "population": 49006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Airdrie",
+    "region": "Alberta",
+    "lat": 51.3001,
+    "lon": -114.0353,
+    "population": 48979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metcalfe",
+    "region": "Ontario",
+    "lat": 45.2334,
+    "lon": -75.466,
+    "population": 48933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Martine",
+    "region": "Quebec",
+    "lat": 45.2501,
+    "lon": -73.7992,
+    "population": 48904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oxford",
+    "region": "Nova Scotia",
+    "lat": 45.7334,
+    "lon": -63.8654,
+    "population": 48893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mississauga",
+    "region": "Ontario",
+    "lat": 43.5789,
+    "lon": -79.6583,
+    "population": 48864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taber",
+    "region": "Alberta",
+    "lat": 49.787,
+    "lon": -112.146,
+    "population": 48801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paris",
+    "region": "Ontario",
+    "lat": 43.2,
+    "lon": -80.3833,
+    "population": 48774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cowansville",
+    "region": "Quebec",
+    "lat": 45.2001,
+    "lon": -72.7491,
+    "population": 48757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dorval",
+    "region": "Quebec",
+    "lat": 45.4473,
+    "lon": -73.7533,
+    "population": 48750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foam Lake",
+    "region": "Saskatchewan",
+    "lat": 51.65,
+    "lon": -103.5343,
+    "population": 48745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grunthal",
+    "region": "Manitoba",
+    "lat": 49.4067,
+    "lon": -96.8587,
+    "population": 48702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oka",
+    "region": "Quebec",
+    "lat": 45.4649,
+    "lon": -74.0889,
+    "population": 48694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unity",
+    "region": "Saskatchewan",
+    "lat": 52.4501,
+    "lon": -109.1682,
+    "population": 48652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Adèle",
+    "region": "Quebec",
+    "lat": 45.9501,
+    "lon": -74.1325,
+    "population": 48649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Coquitlam",
+    "region": "British Columbia",
+    "lat": 49.2664,
+    "lon": -122.7693,
+    "population": 48622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kincardine",
+    "region": "Ontario",
+    "lat": 44.1834,
+    "lon": -81.6331,
+    "population": 48579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamont",
+    "region": "Alberta",
+    "lat": 53.7669,
+    "lon": -112.802,
+    "population": 48527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrolia",
+    "region": "Ontario",
+    "lat": 42.8668,
+    "lon": -82.1498,
+    "population": 48517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esterhazy",
+    "region": "Saskatchewan",
+    "lat": 50.65,
+    "lon": -102.0843,
+    "population": 48486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitimat",
+    "region": "British Columbia",
+    "lat": 54.0524,
+    "lon": -128.6534,
+    "population": 48469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Westminster",
+    "region": "British Columbia",
+    "lat": 49.2068,
+    "lon": -122.9109,
+    "population": 48454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tobermory",
+    "region": "Ontario",
+    "lat": 45.2501,
+    "lon": -81.6665,
+    "population": 48243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salmo",
+    "region": "British Columbia",
+    "lat": 49.1999,
+    "lon": -117.2689,
+    "population": 48189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crabtree",
+    "region": "Quebec",
+    "lat": 45.9668,
+    "lon": -73.4659,
+    "population": 48135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parc-Boutin",
+    "region": "Quebec",
+    "lat": 45.2921,
+    "lon": -73.2615,
+    "population": 48133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Anne-des-Monts",
+    "region": "Quebec",
+    "lat": 49.124,
+    "lon": -66.4924,
+    "population": 48126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Haute-Saint-Charles",
+    "region": "Quebec",
+    "lat": 46.8903,
+    "lon": -71.3722,
+    "population": 48094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leblanc",
+    "region": "Quebec",
+    "lat": 48.2668,
+    "lon": -74.3491,
+    "population": 48090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burgeo",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.6167,
+    "lon": -57.6152,
+    "population": 48046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contrecoeur",
+    "region": "Quebec",
+    "lat": 45.8501,
+    "lon": -73.2325,
+    "population": 48006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "White City",
+    "region": "Saskatchewan",
+    "lat": 50.4334,
+    "lon": -104.3678,
+    "population": 47979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greater Lakeburn",
+    "region": "New Brunswick",
+    "lat": 46.0765,
+    "lon": -64.6682,
+    "population": 47961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flin Flon",
+    "region": "Manitoba",
+    "lat": 54.767,
+    "lon": -101.8743,
+    "population": 47850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hornby Island",
+    "region": "British Columbia",
+    "lat": 49.5345,
+    "lon": -124.6692,
+    "population": 47766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Joseph-de-Beauce",
+    "region": "Quebec",
+    "lat": 46.3,
+    "lon": -70.8667,
+    "population": 47703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thessalon",
+    "region": "Ontario",
+    "lat": 46.2501,
+    "lon": -83.5666,
+    "population": 47581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matagami",
+    "region": "Quebec",
+    "lat": 49.7502,
+    "lon": -77.6328,
+    "population": 47567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Témiscaming",
+    "region": "Quebec",
+    "lat": 46.7212,
+    "lon": -79.0971,
+    "population": 47450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Glasgow",
+    "region": "Nova Scotia",
+    "lat": 45.5834,
+    "lon": -62.6486,
+    "population": 47391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wingham",
+    "region": "Ontario",
+    "lat": 43.8879,
+    "lon": -81.3114,
+    "population": 47362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cape Breton County",
+    "region": "Nova Scotia",
+    "lat": 46.0001,
+    "lon": -60.3152,
+    "population": 47325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okanagan Falls",
+    "region": "British Columbia",
+    "lat": 49.35,
+    "lon": -119.5667,
+    "population": 47312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Franklin",
+    "region": "Quebec",
+    "lat": 45.0334,
+    "lon": -73.9159,
+    "population": 47291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papineauville",
+    "region": "Quebec",
+    "lat": 45.6168,
+    "lon": -75.016,
+    "population": 47258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Westlake",
+    "region": "Alberta",
+    "lat": 55.2223,
+    "lon": -118.8042,
+    "population": 47228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarvis",
+    "region": "Ontario",
+    "lat": 42.8834,
+    "lon": -80.0996,
+    "population": 47169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stonewall",
+    "region": "Manitoba",
+    "lat": 50.1344,
+    "lon": -97.3268,
+    "population": 47114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Essex",
+    "region": "Ontario",
+    "lat": 42.1751,
+    "lon": -82.8248,
+    "population": 47051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Williams Lake",
+    "region": "British Columbia",
+    "lat": 52.1415,
+    "lon": -122.1445,
+    "population": 46959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parry Sound",
+    "region": "Ontario",
+    "lat": 45.3473,
+    "lon": -80.0353,
+    "population": 46864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burns Lake",
+    "region": "British Columbia",
+    "lat": 54.2297,
+    "lon": -125.7608,
+    "population": 46753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humboldt",
+    "region": "Saskatchewan",
+    "lat": 52.2,
+    "lon": -105.1255,
+    "population": 46698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goulds",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.4553,
+    "lon": -52.7755,
+    "population": 46667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Adolphe",
+    "region": "Manitoba",
+    "lat": 49.6744,
+    "lon": -97.1112,
+    "population": 46650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Laurent",
+    "region": "Quebec",
+    "lat": 45.5001,
+    "lon": -73.6659,
+    "population": 46556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Châteauguay",
+    "region": "Quebec",
+    "lat": 45.3834,
+    "lon": -73.7492,
+    "population": 46554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prince Rupert",
+    "region": "British Columbia",
+    "lat": 54.3151,
+    "lon": -130.321,
+    "population": 46466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Channel-Port aux Basques",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.5729,
+    "lon": -59.1381,
+    "population": 46397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amherstburg",
+    "region": "Ontario",
+    "lat": 42.1001,
+    "lon": -83.0999,
+    "population": 46386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shippagan",
+    "region": "New Brunswick",
+    "lat": 47.7442,
+    "lon": -64.708,
+    "population": 46312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Three Hills",
+    "region": "Alberta",
+    "lat": 51.7001,
+    "lon": -113.2686,
+    "population": 46297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keswick Ridge",
+    "region": "New Brunswick",
+    "lat": 46.0001,
+    "lon": -66.8822,
+    "population": 46234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saguenay",
+    "region": "Quebec",
+    "lat": 48.4168,
+    "lon": -71.0657,
+    "population": 46132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spruce Grove",
+    "region": "Alberta",
+    "lat": 53.5334,
+    "lon": -113.9187,
+    "population": 46119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Pacôme",
+    "region": "Quebec",
+    "lat": 47.4046,
+    "lon": -69.9502,
+    "population": 46034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Hamburg",
+    "region": "Ontario",
+    "lat": 43.3834,
+    "lon": -80.6997,
+    "population": 46033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plattsville",
+    "region": "Ontario",
+    "lat": 43.3001,
+    "lon": -80.6164,
+    "population": 46010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kensington",
+    "region": "Prince Edward Island",
+    "lat": 46.4334,
+    "lon": -63.6487,
+    "population": 46000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morrisburg",
+    "region": "Ontario",
+    "lat": 44.9001,
+    "lon": -75.1826,
+    "population": 45933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upper Island Cove",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.6499,
+    "lon": -53.2148,
+    "population": 45887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Disraeli",
+    "region": "Quebec",
+    "lat": 45.9001,
+    "lon": -71.3491,
+    "population": 45882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fallingbrook",
+    "region": "Prince Edward Island",
+    "lat": 45.4756,
+    "lon": -75.484,
+    "population": 45850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ronge",
+    "region": "Saskatchewan",
+    "lat": 55.1001,
+    "lon": -105.2842,
+    "population": 45703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Revelstoke",
+    "region": "British Columbia",
+    "lat": 50.9971,
+    "lon": -118.1953,
+    "population": 45688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lacombe",
+    "region": "Alberta",
+    "lat": 52.4668,
+    "lon": -113.7353,
+    "population": 45584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West St. Paul",
+    "region": "Manitoba",
+    "lat": 49.9994,
+    "lon": -97.1628,
+    "population": 45572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wells",
+    "region": "New Brunswick",
+    "lat": 45.3927,
+    "lon": -65.9231,
+    "population": 45528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Princeton",
+    "region": "British Columbia",
+    "lat": 49.458,
+    "lon": -120.5108,
+    "population": 45522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plantagenet",
+    "region": "Ontario",
+    "lat": 45.5326,
+    "lon": -74.9937,
+    "population": 45502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoriaville",
+    "region": "Quebec",
+    "lat": 46.0501,
+    "lon": -71.9658,
+    "population": 45475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edmonton",
+    "region": "Alberta",
+    "lat": 53.5501,
+    "lon": -113.4687,
+    "population": 45472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shediac Bridge-Shediac River",
+    "region": "New Brunswick",
+    "lat": 46.2689,
+    "lon": -64.6005,
+    "population": 45439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Logan Lake",
+    "region": "British Columbia",
+    "lat": 50.4998,
+    "lon": -120.8025,
+    "population": 45422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alberton",
+    "region": "Prince Edward Island",
+    "lat": 46.8169,
+    "lon": -64.0654,
+    "population": 45413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parry Sound District",
+    "region": "Ontario",
+    "lat": 45.7501,
+    "lon": -79.833,
+    "population": 45386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brussels",
+    "region": "Ontario",
+    "lat": 43.7334,
+    "lon": -81.2498,
+    "population": 45347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selkirk",
+    "region": "Manitoba",
+    "lat": 50.1436,
+    "lon": -96.8845,
+    "population": 45347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonaventure",
+    "region": "Quebec",
+    "lat": 48.0457,
+    "lon": -65.4926,
+    "population": 45315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mill Woods Town Centre",
+    "region": "Alberta",
+    "lat": 53.4564,
+    "lon": -113.4275,
+    "population": 45204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vernon",
+    "region": "British Columbia",
+    "lat": 50.2673,
+    "lon": -119.2734,
+    "population": 45181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minnedosa",
+    "region": "Manitoba",
+    "lat": 50.2453,
+    "lon": -99.8436,
+    "population": 45169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Lazare",
+    "region": "Quebec",
+    "lat": 45.4001,
+    "lon": -74.1326,
+    "population": 45144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Élisabeth",
+    "region": "Quebec",
+    "lat": 46.095,
+    "lon": -73.3518,
+    "population": 45136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mistissini",
+    "region": "Quebec",
+    "lat": 50.4167,
+    "lon": -73.8833,
+    "population": 45132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Vancouver",
+    "region": "British Columbia",
+    "lat": 49.3164,
+    "lon": -123.0693,
+    "population": 45046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cole Harbour",
+    "region": "Nova Scotia",
+    "lat": 44.6724,
+    "lon": -63.4751,
+    "population": 45045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greenstone",
+    "region": "Ontario",
+    "lat": 49.7334,
+    "lon": -87.1667,
+    "population": 45003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lively",
+    "region": "Ontario",
+    "lat": 46.4334,
+    "lon": -81.1497,
+    "population": 44988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaspésie-Îles-de-la-Madeleine",
+    "region": "Quebec",
+    "lat": 48.8755,
+    "lon": -65.4071,
+    "population": 44965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanceville",
+    "region": "British Columbia",
+    "lat": 51.9192,
+    "lon": -123.0446,
+    "population": 44952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dowling",
+    "region": "Ontario",
+    "lat": 46.5911,
+    "lon": -81.3392,
+    "population": 44950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mont-Joli",
+    "region": "Quebec",
+    "lat": 48.5839,
+    "lon": -68.1921,
+    "population": 44873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amherst",
+    "region": "Nova Scotia",
+    "lat": 45.8334,
+    "lon": -64.1987,
+    "population": 44846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Honoré",
+    "region": "Quebec",
+    "lat": 48.5334,
+    "lon": -71.0824,
+    "population": 44827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L'Ange-Gardien",
+    "region": "Quebec",
+    "lat": 46.9198,
+    "lon": -71.0825,
+    "population": 44803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steinbach",
+    "region": "Manitoba",
+    "lat": 49.5258,
+    "lon": -96.6845,
+    "population": 44770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skatepark",
+    "region": "Ontario",
+    "lat": 44.2512,
+    "lon": -76.9442,
+    "population": 44757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okotoks",
+    "region": "Alberta",
+    "lat": 50.7289,
+    "lon": -113.9828,
+    "population": 44657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hérouxville",
+    "region": "Quebec",
+    "lat": 46.6662,
+    "lon": -72.6251,
+    "population": 44631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Sophie",
+    "region": "Quebec",
+    "lat": 45.8168,
+    "lon": -73.8992,
+    "population": 44618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Pierre-les-Becquets",
+    "region": "Quebec",
+    "lat": 46.5001,
+    "lon": -72.1991,
+    "population": 44608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumbler Ridge",
+    "region": "British Columbia",
+    "lat": 55.1303,
+    "lon": -120.9942,
+    "population": 44557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harriston",
+    "region": "Ontario",
+    "lat": 43.9001,
+    "lon": -80.883,
+    "population": 44541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montréal-Est",
+    "region": "Quebec",
+    "lat": 45.632,
+    "lon": -73.5075,
+    "population": 44529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Ambroise",
+    "region": "Quebec",
+    "lat": 48.5501,
+    "lon": -71.3324,
+    "population": 44507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Gwillimbury",
+    "region": "Ontario",
+    "lat": 44.1009,
+    "lon": -79.4378,
+    "population": 44487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mont-Saint-Grégoire",
+    "region": "Quebec",
+    "lat": 45.3334,
+    "lon": -73.1659,
+    "population": 44482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte Catherine de la Jacques Cartier",
+    "region": "Quebec",
+    "lat": 46.8524,
+    "lon": -71.6206,
+    "population": 44471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Digby County",
+    "region": "Nova Scotia",
+    "lat": 44.3668,
+    "lon": -65.6988,
+    "population": 44455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saltair",
+    "region": "British Columbia",
+    "lat": 48.9496,
+    "lon": -123.7694,
+    "population": 44442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cantley",
+    "region": "Quebec",
+    "lat": 45.5668,
+    "lon": -75.7827,
+    "population": 44425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanna",
+    "region": "Alberta",
+    "lat": 51.6334,
+    "lon": -111.9018,
+    "population": 44390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sundre",
+    "region": "Alberta",
+    "lat": 51.8001,
+    "lon": -114.6353,
+    "population": 44390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weymontachie",
+    "region": "Quebec",
+    "lat": 47.8994,
+    "lon": -73.7772,
+    "population": 44367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Deer",
+    "region": "Alberta",
+    "lat": 52.2668,
+    "lon": -113.802,
+    "population": 44165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oxbow",
+    "region": "Saskatchewan",
+    "lat": 49.2334,
+    "lon": -102.1676,
+    "population": 44107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melville",
+    "region": "Saskatchewan",
+    "lat": 50.9167,
+    "lon": -102.801,
+    "population": 44076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Bruno-de-Montarville",
+    "region": "Quebec",
+    "lat": 45.5334,
+    "lon": -73.3492,
+    "population": 44058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Kelowna",
+    "region": "British Columbia",
+    "lat": 49.8625,
+    "lon": -119.5833,
+    "population": 44040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "High River",
+    "region": "Alberta",
+    "lat": 50.5834,
+    "lon": -113.8687,
+    "population": 44019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burlington",
+    "region": "Ontario",
+    "lat": 43.3862,
+    "lon": -79.8371,
+    "population": 44017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Godefroy",
+    "region": "Quebec",
+    "lat": 51.7501,
+    "lon": -68.0821,
+    "population": 43991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasadena",
+    "region": "Newfoundland and Labrador",
+    "lat": 49.0167,
+    "lon": -57.5984,
+    "population": 43789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bay Roberts",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.5999,
+    "lon": -53.2648,
+    "population": 43780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oshawa",
+    "region": "Ontario",
+    "lat": 43.9001,
+    "lon": -78.8496,
+    "population": 43769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Digby",
+    "region": "Nova Scotia",
+    "lat": 44.6219,
+    "lon": -65.7586,
+    "population": 43685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chetwynd",
+    "region": "British Columbia",
+    "lat": 55.6999,
+    "lon": -121.6363,
+    "population": 43655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baie-Saint-Paul",
+    "region": "Quebec",
+    "lat": 47.4411,
+    "lon": -70.4986,
+    "population": 43644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Léonard",
+    "region": "New Brunswick",
+    "lat": 47.1632,
+    "lon": -67.9246,
+    "population": 43607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perth",
+    "region": "Ontario",
+    "lat": 44.9001,
+    "lon": -76.2494,
+    "population": 43560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Isidore",
+    "region": "Quebec",
+    "lat": 47.4335,
+    "lon": -79.2996,
+    "population": 43438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huntsville",
+    "region": "Ontario",
+    "lat": 45.3334,
+    "lon": -79.2163,
+    "population": 43395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Welcome Beach",
+    "region": "British Columbia",
+    "lat": 49.4796,
+    "lon": -123.8924,
+    "population": 43371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slave Lake",
+    "region": "Alberta",
+    "lat": 55.2834,
+    "lon": -114.769,
+    "population": 43366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peel",
+    "region": "Ontario",
+    "lat": 43.7501,
+    "lon": -79.7829,
+    "population": 43331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fall River",
+    "region": "Nova Scotia",
+    "lat": 44.8169,
+    "lon": -63.6154,
+    "population": 43303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Black Diamond",
+    "region": "Alberta",
+    "lat": 50.7001,
+    "lon": -114.2353,
+    "population": 43301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boucherville",
+    "region": "Quebec",
+    "lat": 45.591,
+    "lon": -73.436,
+    "population": 43301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medicine Hat",
+    "region": "Alberta",
+    "lat": 50.0393,
+    "lon": -110.6766,
+    "population": 43285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smoky Lake",
+    "region": "Alberta",
+    "lat": 54.1169,
+    "lon": -112.4686,
+    "population": 43200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lunenburg",
+    "region": "Nova Scotia",
+    "lat": 44.3785,
+    "lon": -64.3166,
+    "population": 43196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sooke",
+    "region": "British Columbia",
+    "lat": 48.3746,
+    "lon": -123.7276,
+    "population": 43131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raymond",
+    "region": "Alberta",
+    "lat": 49.45,
+    "lon": -112.6518,
+    "population": 43105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pohénégamook",
+    "region": "Quebec",
+    "lat": 47.4631,
+    "lon": -69.2267,
+    "population": 43102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Renfrew",
+    "region": "Ontario",
+    "lat": 45.4668,
+    "lon": -76.6827,
+    "population": 43099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hudson Bay",
+    "region": "Saskatchewan",
+    "lat": 52.85,
+    "lon": -102.3842,
+    "population": 43098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haldimand County",
+    "region": "Ontario",
+    "lat": 42.9834,
+    "lon": -79.8663,
+    "population": 43083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tottenham",
+    "region": "Ontario",
+    "lat": 44.0244,
+    "lon": -79.8055,
+    "population": 43072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonavista",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.6499,
+    "lon": -53.1147,
+    "population": 42971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Didsbury",
+    "region": "Alberta",
+    "lat": 51.6668,
+    "lon": -114.1353,
+    "population": 42941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandeville",
+    "region": "Quebec",
+    "lat": 46.3668,
+    "lon": -73.3491,
+    "population": 42930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moosomin",
+    "region": "Saskatchewan",
+    "lat": 50.1333,
+    "lon": -101.6677,
+    "population": 42921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maple Ridge",
+    "region": "Alberta",
+    "lat": 53.5017,
+    "lon": -113.3627,
+    "population": 42912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baie-D'Urfé",
+    "region": "Quebec",
+    "lat": 45.414,
+    "lon": -73.9159,
+    "population": 42751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cochrane District",
+    "region": "Ontario",
+    "lat": 50.0002,
+    "lon": -82.9998,
+    "population": 42736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stratford",
+    "region": "Ontario",
+    "lat": 43.3668,
+    "lon": -80.9497,
+    "population": 42633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florenceville-Bristol",
+    "region": "New Brunswick",
+    "lat": 46.4435,
+    "lon": -67.6154,
+    "population": 42624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Angus",
+    "region": "Quebec",
+    "lat": 45.4834,
+    "lon": -71.6658,
+    "population": 42535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landmark",
+    "region": "Manitoba",
+    "lat": 49.6717,
+    "lon": -96.8223,
+    "population": 42367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort St. John",
+    "region": "British Columbia",
+    "lat": 56.2499,
+    "lon": -120.8529,
+    "population": 42249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Tite",
+    "region": "Quebec",
+    "lat": 46.7334,
+    "lon": -72.5658,
+    "population": 42245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Andrews",
+    "region": "New Brunswick",
+    "lat": 45.0737,
+    "lon": -67.0531,
+    "population": 42239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Sauveur",
+    "region": "Quebec",
+    "lat": 45.8869,
+    "lon": -74.1794,
+    "population": 42135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harrison Brook",
+    "region": "New Brunswick",
+    "lat": 47.213,
+    "lon": -67.9285,
+    "population": 42124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fruitvale",
+    "region": "British Columbia",
+    "lat": 49.1165,
+    "lon": -117.5522,
+    "population": 42107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stephenville Crossing",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.5,
+    "lon": -58.4318,
+    "population": 42107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carberry",
+    "region": "Manitoba",
+    "lat": 49.8689,
+    "lon": -99.3602,
+    "population": 42106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norman Wells",
+    "region": "Northwest Territories",
+    "lat": 65.282,
+    "lon": -126.8329,
+    "population": 42021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Sauveur-des-Monts",
+    "region": "Quebec",
+    "lat": 45.9001,
+    "lon": -74.1659,
+    "population": 42021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huntingdon",
+    "region": "Quebec",
+    "lat": 45.0834,
+    "lon": -74.1659,
+    "population": 41986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marystown",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.1666,
+    "lon": -55.1483,
+    "population": 41970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miramichi",
+    "region": "New Brunswick",
+    "lat": 47.029,
+    "lon": -65.5019,
+    "population": 41927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sherbrooke",
+    "region": "Quebec",
+    "lat": 45.4001,
+    "lon": -71.8991,
+    "population": 41856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blackfalds",
+    "region": "Alberta",
+    "lat": 52.3834,
+    "lon": -113.7853,
+    "population": 41841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Les Escoumins",
+    "region": "Quebec",
+    "lat": 48.3519,
+    "lon": -69.4072,
+    "population": 41809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Englehart",
+    "region": "Ontario",
+    "lat": 47.8169,
+    "lon": -79.8664,
+    "population": 41801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neuville",
+    "region": "Quebec",
+    "lat": 46.6982,
+    "lon": -71.5828,
+    "population": 41770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Gédéon",
+    "region": "Quebec",
+    "lat": 48.5001,
+    "lon": -71.7658,
+    "population": 41770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cap-Santé",
+    "region": "Quebec",
+    "lat": 46.6716,
+    "lon": -71.7881,
+    "population": 41730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Donat-de-Montcalm",
+    "region": "Quebec",
+    "lat": 46.3187,
+    "lon": -74.2217,
+    "population": 41722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapuskasing",
+    "region": "Ontario",
+    "lat": 49.4169,
+    "lon": -82.4331,
+    "population": 41684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lantz",
+    "region": "Nova Scotia",
+    "lat": 44.9834,
+    "lon": -63.482,
+    "population": 41644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelican Narrows",
+    "region": "Saskatchewan",
+    "lat": 55.1668,
+    "lon": -102.9341,
+    "population": 41642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Jérôme",
+    "region": "Quebec",
+    "lat": 45.7804,
+    "lon": -74.0036,
+    "population": 41625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luceville",
+    "region": "Quebec",
+    "lat": 48.545,
+    "lon": -68.3966,
+    "population": 41610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cardston",
+    "region": "Alberta",
+    "lat": 49.2,
+    "lon": -113.3019,
+    "population": 41576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Raymond",
+    "region": "Quebec",
+    "lat": 45.467,
+    "lon": -73.6095,
+    "population": 41486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verchères",
+    "region": "Quebec",
+    "lat": 45.7834,
+    "lon": -73.3492,
+    "population": 41483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colchester",
+    "region": "Nova Scotia",
+    "lat": 45.3334,
+    "lon": -63.2487,
+    "population": 41419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fossambault-sur-le-Lac",
+    "region": "Quebec",
+    "lat": 46.8766,
+    "lon": -71.6154,
+    "population": 41413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adstock",
+    "region": "Quebec",
+    "lat": 46.0501,
+    "lon": -71.0824,
+    "population": 41334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitchener",
+    "region": "Ontario",
+    "lat": 43.4254,
+    "lon": -80.5112,
+    "population": 41333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quesnel",
+    "region": "British Columbia",
+    "lat": 52.9784,
+    "lon": -122.4931,
+    "population": 41330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houston",
+    "region": "British Columbia",
+    "lat": 54.3998,
+    "lon": -126.6701,
+    "population": 41310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lavaltrie",
+    "region": "Quebec",
+    "lat": 45.8834,
+    "lon": -73.2824,
+    "population": 41294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Alexandre",
+    "region": "Quebec",
+    "lat": 45.5001,
+    "lon": -75.7494,
+    "population": 41179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nelson",
+    "region": "British Columbia",
+    "lat": 49.4999,
+    "lon": -117.2855,
+    "population": 41165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Nelson",
+    "region": "British Columbia",
+    "lat": 58.8053,
+    "lon": -122.7002,
+    "population": 41163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Germain-de-Grantham",
+    "region": "Quebec",
+    "lat": 45.8334,
+    "lon": -72.5658,
+    "population": 41126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mauricie",
+    "region": "Quebec",
+    "lat": 47.5501,
+    "lon": -73.4158,
+    "population": 41103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plessisville",
+    "region": "Quebec",
+    "lat": 46.2186,
+    "lon": -71.762,
+    "population": 41093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Léonard-d'Aston",
+    "region": "Quebec",
+    "lat": 46.1001,
+    "lon": -72.3658,
+    "population": 41075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint John",
+    "region": "New Brunswick",
+    "lat": 45.2727,
+    "lon": -66.0677,
+    "population": 41054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shediac",
+    "region": "New Brunswick",
+    "lat": 46.2198,
+    "lon": -64.5411,
+    "population": 40966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pembroke",
+    "region": "Ontario",
+    "lat": 45.8168,
+    "lon": -77.1162,
+    "population": 40958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pierreville",
+    "region": "Quebec",
+    "lat": 46.0703,
+    "lon": -72.8113,
+    "population": 40956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Bruno",
+    "region": "Quebec",
+    "lat": 48.4668,
+    "lon": -71.6491,
+    "population": 40931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimli",
+    "region": "Manitoba",
+    "lat": 50.6336,
+    "lon": -96.9907,
+    "population": 40903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Côte-Nord",
+    "region": "Quebec",
+    "lat": 50.8668,
+    "lon": -65.8154,
+    "population": 40867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Le Bic",
+    "region": "Quebec",
+    "lat": 48.3755,
+    "lon": -68.6941,
+    "population": 40858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sacré-Coeur",
+    "region": "Quebec",
+    "lat": 48.2297,
+    "lon": -69.8006,
+    "population": 40848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Regina",
+    "region": "Saskatchewan",
+    "lat": 50.4501,
+    "lon": -104.6178,
+    "population": 40824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melita",
+    "region": "Manitoba",
+    "lat": 49.2681,
+    "lon": -100.9967,
+    "population": 40818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tracadie-Sheila",
+    "region": "New Brunswick",
+    "lat": 47.5144,
+    "lon": -64.9181,
+    "population": 40804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosetown",
+    "region": "Saskatchewan",
+    "lat": 51.5501,
+    "lon": -108.0014,
+    "population": 40757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Oyster/Yellow Point",
+    "region": "British Columbia",
+    "lat": 49.0481,
+    "lon": -123.834,
+    "population": 40715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enderby",
+    "region": "British Columbia",
+    "lat": 50.5498,
+    "lon": -119.1523,
+    "population": 40702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lambton Shores",
+    "region": "Ontario",
+    "lat": 43.1668,
+    "lon": -81.9331,
+    "population": 40700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golden",
+    "region": "Ontario",
+    "lat": 51.0592,
+    "lon": -93.7357,
+    "population": 40657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notre-Dame-du-Lac",
+    "region": "Quebec",
+    "lat": 46.7501,
+    "lon": -79.0496,
+    "population": 40627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawson City",
+    "region": "Yukon",
+    "lat": 64.0601,
+    "lon": -139.4333,
+    "population": 40574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bourget",
+    "region": "Ontario",
+    "lat": 45.4334,
+    "lon": -75.1493,
+    "population": 40570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac-Connelly",
+    "region": "Quebec",
+    "lat": 45.8979,
+    "lon": -73.9723,
+    "population": 40563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebel-sur-Quévillon",
+    "region": "Quebec",
+    "lat": 49.0502,
+    "lon": -76.9827,
+    "population": 40538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Picton",
+    "region": "Ontario",
+    "lat": 44.0001,
+    "lon": -77.1328,
+    "population": 40524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mannville",
+    "region": "Alberta",
+    "lat": 53.3376,
+    "lon": -111.1775,
+    "population": 40517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salisbury",
+    "region": "New Brunswick",
+    "lat": 46.0391,
+    "lon": -65.0463,
+    "population": 40439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marieville",
+    "region": "Quebec",
+    "lat": 45.4334,
+    "lon": -73.1659,
+    "population": 40382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pictou County",
+    "region": "Nova Scotia",
+    "lat": 45.5001,
+    "lon": -62.5819,
+    "population": 40356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Félix-de-Valois",
+    "region": "Quebec",
+    "lat": 46.1698,
+    "lon": -73.4253,
+    "population": 40355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wembley",
+    "region": "Alberta",
+    "lat": 55.1499,
+    "lon": -119.136,
+    "population": 40308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weyburn",
+    "region": "Saskatchewan",
+    "lat": 49.6668,
+    "lon": -103.8511,
+    "population": 40300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Thomas",
+    "region": "Ontario",
+    "lat": 42.7736,
+    "lon": -81.1804,
+    "population": 40289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oakville",
+    "region": "Ontario",
+    "lat": 43.4501,
+    "lon": -79.6829,
+    "population": 40276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rossland",
+    "region": "British Columbia",
+    "lat": 49.0831,
+    "lon": -117.8022,
+    "population": 40205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weedon Centre",
+    "region": "Quebec",
+    "lat": 45.708,
+    "lon": -71.4599,
+    "population": 40179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Princeville",
+    "region": "Quebec",
+    "lat": 46.1716,
+    "lon": -71.8746,
+    "population": 40127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cross Lake 19A",
+    "region": "Manitoba",
+    "lat": 54.6514,
+    "lon": -97.7685,
+    "population": 40057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac-Lapierre",
+    "region": "Quebec",
+    "lat": 45.8984,
+    "lon": -73.7731,
+    "population": 40055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rouyn-Noranda",
+    "region": "Quebec",
+    "lat": 48.2366,
+    "lon": -79.0231,
+    "population": 40016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarnia",
+    "region": "Ontario",
+    "lat": 42.9787,
+    "lon": -82.4041,
+    "population": 39884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lillooet",
+    "region": "British Columbia",
+    "lat": 50.6856,
+    "lon": -121.942,
+    "population": 39869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Damase",
+    "region": "Quebec",
+    "lat": 45.5334,
+    "lon": -72.9991,
+    "population": 39826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athabasca",
+    "region": "Alberta",
+    "lat": 54.7169,
+    "lon": -113.2854,
+    "population": 39792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elmvale",
+    "region": "Ontario",
+    "lat": 44.5834,
+    "lon": -79.8664,
+    "population": 39786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Windsor",
+    "region": "Quebec",
+    "lat": 45.5668,
+    "lon": -71.9991,
+    "population": 39768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edmundston",
+    "region": "New Brunswick",
+    "lat": 47.3737,
+    "lon": -68.3251,
+    "population": 39764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Césaire",
+    "region": "Quebec",
+    "lat": 45.4168,
+    "lon": -72.9991,
+    "population": 39749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Temiskaming Shores",
+    "region": "Ontario",
+    "lat": 47.4938,
+    "lon": -79.7153,
+    "population": 39703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ellison",
+    "region": "British Columbia",
+    "lat": 49.9331,
+    "lon": -119.3691,
+    "population": 39692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acton Vale",
+    "region": "Quebec",
+    "lat": 45.6501,
+    "lon": -72.5658,
+    "population": 39674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belfast",
+    "region": "Prince Edward Island",
+    "lat": 46.0834,
+    "lon": -62.882,
+    "population": 39599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chambord",
+    "region": "Quebec",
+    "lat": 48.4334,
+    "lon": -72.0658,
+    "population": 39537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sylvan Lake",
+    "region": "Alberta",
+    "lat": 52.311,
+    "lon": -114.0837,
+    "population": 39485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capreol",
+    "region": "Ontario",
+    "lat": 46.7063,
+    "lon": -80.9211,
+    "population": 39424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macklin",
+    "region": "Saskatchewan",
+    "lat": 52.3334,
+    "lon": -109.9348,
+    "population": 39395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bow Island",
+    "region": "Alberta",
+    "lat": 49.8668,
+    "lon": -111.3684,
+    "population": 39332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Michel",
+    "region": "Quebec",
+    "lat": 45.5676,
+    "lon": -73.6217,
+    "population": 39296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baie-Comeau",
+    "region": "Quebec",
+    "lat": 49.2168,
+    "lon": -68.1489,
+    "population": 39285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hay River",
+    "region": "Northwest Territories",
+    "lat": 60.8156,
+    "lon": -115.7999,
+    "population": 39243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gravelbourg",
+    "region": "Saskatchewan",
+    "lat": 49.8834,
+    "lon": -106.5512,
+    "population": 39232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warman",
+    "region": "Saskatchewan",
+    "lat": 52.3168,
+    "lon": -106.5679,
+    "population": 39205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fairwinds",
+    "region": "British Columbia",
+    "lat": 49.2759,
+    "lon": -124.1278,
+    "population": 39150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beauharnois",
+    "region": "Quebec",
+    "lat": 45.3134,
+    "lon": -73.8725,
+    "population": 39070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gibbons",
+    "region": "Alberta",
+    "lat": 53.8334,
+    "lon": -113.3353,
+    "population": 39041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vineland",
+    "region": "Ontario",
+    "lat": 43.1501,
+    "lon": -79.3996,
+    "population": 39011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berthierville",
+    "region": "Quebec",
+    "lat": 46.0834,
+    "lon": -73.1825,
+    "population": 38993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chambly",
+    "region": "Quebec",
+    "lat": 45.4501,
+    "lon": -73.2825,
+    "population": 38985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swan River",
+    "region": "Manitoba",
+    "lat": 52.1058,
+    "lon": -101.2676,
+    "population": 38947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cranbrook",
+    "region": "British Columbia",
+    "lat": 49.4999,
+    "lon": -115.7688,
+    "population": 38912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Agathe-des-Monts",
+    "region": "Quebec",
+    "lat": 46.0501,
+    "lon": -74.2825,
+    "population": 38906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayes Subdivision",
+    "region": "Nova Scotia",
+    "lat": 45.0552,
+    "lon": -64.588,
+    "population": 38869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Scarborough",
+    "region": "Ontario",
+    "lat": 43.7722,
+    "lon": -79.2567,
+    "population": 38852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumsden",
+    "region": "Saskatchewan",
+    "lat": 50.6501,
+    "lon": -104.8678,
+    "population": 38848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Joseph-du-Lac",
+    "region": "Quebec",
+    "lat": 45.5334,
+    "lon": -73.9992,
+    "population": 38839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Denman Island",
+    "region": "British Columbia",
+    "lat": 49.5329,
+    "lon": -124.8195,
+    "population": 38796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brantford",
+    "region": "Ontario",
+    "lat": 43.1334,
+    "lon": -80.2664,
+    "population": 38790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senneterre",
+    "region": "Quebec",
+    "lat": 48.393,
+    "lon": -77.2395,
+    "population": 38789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shawville",
+    "region": "Quebec",
+    "lat": 45.6001,
+    "lon": -76.4827,
+    "population": 38778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dauphin",
+    "region": "Manitoba",
+    "lat": 51.1494,
+    "lon": -100.0502,
+    "population": 38760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kenora",
+    "region": "Ontario",
+    "lat": 49.7674,
+    "lon": -94.4899,
+    "population": 38741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haliburton Village",
+    "region": "Ontario",
+    "lat": 45.0515,
+    "lon": -78.5225,
+    "population": 38729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grande-Digue",
+    "region": "New Brunswick",
+    "lat": 46.3001,
+    "lon": -64.5655,
+    "population": 38684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Powell River",
+    "region": "British Columbia",
+    "lat": 49.8328,
+    "lon": -124.5237,
+    "population": 38675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sackville",
+    "region": "New Brunswick",
+    "lat": 45.9188,
+    "lon": -64.3846,
+    "population": 38625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thunder Bay District",
+    "region": "Ontario",
+    "lat": 49.5001,
+    "lon": -88.5,
+    "population": 38597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virden",
+    "region": "Manitoba",
+    "lat": 49.8508,
+    "lon": -100.9326,
+    "population": 38515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chandler",
+    "region": "Quebec",
+    "lat": 48.3494,
+    "lon": -64.6793,
+    "population": 38450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Conception",
+    "region": "Quebec",
+    "lat": 46.1501,
+    "lon": -74.6993,
+    "population": 38379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Powassan",
+    "region": "Ontario",
+    "lat": 46.0334,
+    "lon": -79.3496,
+    "population": 38311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimberley",
+    "region": "British Columbia",
+    "lat": 49.6707,
+    "lon": -115.9776,
+    "population": 38301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guelph",
+    "region": "Ontario",
+    "lat": 43.5459,
+    "lon": -80.256,
+    "population": 38286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakusp",
+    "region": "British Columbia",
+    "lat": 50.2499,
+    "lon": -117.8023,
+    "population": 38196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Julie",
+    "region": "Quebec",
+    "lat": 45.5834,
+    "lon": -73.3325,
+    "population": 38167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lincoln",
+    "region": "New Brunswick",
+    "lat": 45.9001,
+    "lon": -66.5822,
+    "population": 38156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West End",
+    "region": "British Columbia",
+    "lat": 49.2833,
+    "lon": -123.1333,
+    "population": 38150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Joseph-de-Coleraine",
+    "region": "Quebec",
+    "lat": 45.9668,
+    "lon": -71.3658,
+    "population": 38084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okanagan",
+    "region": "British Columbia",
+    "lat": 50.3639,
+    "lon": -119.35,
+    "population": 38029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morin-Heights",
+    "region": "Quebec",
+    "lat": 45.9001,
+    "lon": -74.2492,
+    "population": 37962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shelburne",
+    "region": "Nova Scotia",
+    "lat": 43.7632,
+    "lon": -65.3235,
+    "population": 37869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Canut",
+    "region": "Quebec",
+    "lat": 45.715,
+    "lon": -74.0838,
+    "population": 37862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laval",
+    "region": "Quebec",
+    "lat": 45.5699,
+    "lon": -73.692,
+    "population": 37861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilliwack",
+    "region": "British Columbia",
+    "lat": 49.1664,
+    "lon": -121.9526,
+    "population": 37820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lake Cowichan",
+    "region": "British Columbia",
+    "lat": 48.825,
+    "lon": -124.0546,
+    "population": 37750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dieppe",
+    "region": "New Brunswick",
+    "lat": 46.0784,
+    "lon": -64.6873,
+    "population": 37749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosthern",
+    "region": "Saskatchewan",
+    "lat": 52.6668,
+    "lon": -106.3345,
+    "population": 37727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metro Vancouver Regional District",
+    "region": "British Columbia",
+    "lat": 49.333,
+    "lon": -123.0026,
+    "population": 37712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajax",
+    "region": "Ontario",
+    "lat": 43.8501,
+    "lon": -79.0329,
+    "population": 37592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bromont",
+    "region": "Quebec",
+    "lat": 45.3168,
+    "lon": -72.6491,
+    "population": 37551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Béatrix",
+    "region": "Quebec",
+    "lat": 46.2001,
+    "lon": -73.6159,
+    "population": 37461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swan Hills",
+    "region": "Alberta",
+    "lat": 54.7168,
+    "lon": -115.4023,
+    "population": 37455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stirling",
+    "region": "Ontario",
+    "lat": 44.3001,
+    "lon": -77.5495,
+    "population": 37286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winnipeg",
+    "region": "Manitoba",
+    "lat": 49.8844,
+    "lon": -97.147,
+    "population": 37268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Pascal",
+    "region": "Quebec",
+    "lat": 47.5181,
+    "lon": -69.803,
+    "population": 37164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sioux Lookout",
+    "region": "Ontario",
+    "lat": 50.0668,
+    "lon": -91.9836,
+    "population": 37141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hinton",
+    "region": "Alberta",
+    "lat": 53.4001,
+    "lon": -117.5857,
+    "population": 37120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albanel",
+    "region": "Quebec",
+    "lat": 48.8832,
+    "lon": -72.4487,
+    "population": 36972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirabel",
+    "region": "Quebec",
+    "lat": 45.6501,
+    "lon": -74.0825,
+    "population": 36960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wawa",
+    "region": "Ontario",
+    "lat": 47.9888,
+    "lon": -84.7741,
+    "population": 36904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puntledge",
+    "region": "British Columbia",
+    "lat": 49.6617,
+    "lon": -125.0569,
+    "population": 36899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virgil",
+    "region": "Ontario",
+    "lat": 43.2168,
+    "lon": -79.1329,
+    "population": 36891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Zotique",
+    "region": "Quebec",
+    "lat": 45.2501,
+    "lon": -74.2492,
+    "population": 36871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magog",
+    "region": "Quebec",
+    "lat": 45.2668,
+    "lon": -72.1491,
+    "population": 36842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bells Corners",
+    "region": "Ontario",
+    "lat": 45.3159,
+    "lon": -75.8301,
+    "population": 36840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaconsfield",
+    "region": "Quebec",
+    "lat": 45.4334,
+    "lon": -73.8659,
+    "population": 36780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cambridge",
+    "region": "Ontario",
+    "lat": 43.3601,
+    "lon": -80.3127,
+    "population": 36766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peachland",
+    "region": "British Columbia",
+    "lat": 49.7665,
+    "lon": -119.7357,
+    "population": 36744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walpole Island",
+    "region": "Ontario",
+    "lat": 42.6152,
+    "lon": -82.514,
+    "population": 36589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duncan",
+    "region": "British Columbia",
+    "lat": 48.7829,
+    "lon": -123.7027,
+    "population": 36484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Princeville",
+    "region": "Nova Scotia",
+    "lat": 45.7668,
+    "lon": -61.2985,
+    "population": 36453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort-Coulonge",
+    "region": "Quebec",
+    "lat": 45.8501,
+    "lon": -76.7327,
+    "population": 36441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portage la Prairie",
+    "region": "Manitoba",
+    "lat": 49.9728,
+    "lon": -98.2926,
+    "population": 36433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delta",
+    "region": "British Columbia",
+    "lat": 49.144,
+    "lon": -122.9068,
+    "population": 36407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parrsboro",
+    "region": "Nova Scotia",
+    "lat": 45.4057,
+    "lon": -64.3259,
+    "population": 36398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Cowichan",
+    "region": "British Columbia",
+    "lat": 48.8413,
+    "lon": -123.686,
+    "population": 36360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corunna",
+    "region": "Ontario",
+    "lat": 42.8834,
+    "lon": -82.4331,
+    "population": 36347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sechelt",
+    "region": "British Columbia",
+    "lat": 49.4751,
+    "lon": -123.759,
+    "population": 36269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Jean-Baptiste",
+    "region": "Quebec",
+    "lat": 45.3806,
+    "lon": -74.0121,
+    "population": 36253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Marthe-sur-le-Lac",
+    "region": "Quebec",
+    "lat": 45.5334,
+    "lon": -73.9325,
+    "population": 36248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devon",
+    "region": "Alberta",
+    "lat": 53.3668,
+    "lon": -113.7353,
+    "population": 36228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac-Mégantic",
+    "region": "Quebec",
+    "lat": 45.5834,
+    "lon": -70.8823,
+    "population": 36165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smiths Falls",
+    "region": "Ontario",
+    "lat": 44.9045,
+    "lon": -76.0233,
+    "population": 36161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thurso",
+    "region": "Quebec",
+    "lat": 45.6001,
+    "lon": -75.2493,
+    "population": 36120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orillia",
+    "region": "Ontario",
+    "lat": 44.6087,
+    "lon": -79.4207,
+    "population": 36078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montréal-Ouest",
+    "region": "Quebec",
+    "lat": 45.4529,
+    "lon": -73.6492,
+    "population": 36033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vancouver",
+    "region": "British Columbia",
+    "lat": 49.2497,
+    "lon": -123.1193,
+    "population": 35978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valley East",
+    "region": "Ontario",
+    "lat": 46.6677,
+    "lon": -81.0003,
+    "population": 35923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dartmouth",
+    "region": "Nova Scotia",
+    "lat": 44.6713,
+    "lon": -63.5772,
+    "population": 35849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterford",
+    "region": "Ontario",
+    "lat": 42.9334,
+    "lon": -80.283,
+    "population": 35769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlegar",
+    "region": "British Columbia",
+    "lat": 49.3232,
+    "lon": -117.6583,
+    "population": 35746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabano",
+    "region": "Quebec",
+    "lat": 47.6806,
+    "lon": -68.8781,
+    "population": 35647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Napanee Downtown",
+    "region": "Ontario",
+    "lat": 44.2483,
+    "lon": -76.9507,
+    "population": 35627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chemainus",
+    "region": "British Columbia",
+    "lat": 48.9163,
+    "lon": -123.7194,
+    "population": 35538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elk Point",
+    "region": "Alberta",
+    "lat": 53.9002,
+    "lon": -110.9017,
+    "population": 35535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breakeyville",
+    "region": "Quebec",
+    "lat": 46.6804,
+    "lon": -71.2233,
+    "population": 35451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calmar",
+    "region": "Alberta",
+    "lat": 53.2668,
+    "lon": -113.8187,
+    "population": 35420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Vancouver",
+    "region": "British Columbia",
+    "lat": 49.3667,
+    "lon": -123.1665,
+    "population": 35408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sicamous",
+    "region": "British Columbia",
+    "lat": 50.8331,
+    "lon": -118.9857,
+    "population": 35377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Saskatchewan",
+    "region": "Alberta",
+    "lat": 53.7168,
+    "lon": -113.2187,
+    "population": 35333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melocheville",
+    "region": "Quebec",
+    "lat": 45.3173,
+    "lon": -73.9371,
+    "population": 35305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Philippe-de-La Prairie",
+    "region": "Quebec",
+    "lat": 45.3572,
+    "lon": -73.4771,
+    "population": 35289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Napanee",
+    "region": "Ontario",
+    "lat": 44.2501,
+    "lon": -76.9494,
+    "population": 35181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrie",
+    "region": "Ontario",
+    "lat": 44.4001,
+    "lon": -79.6663,
+    "population": 35135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altona",
+    "region": "Manitoba",
+    "lat": 49.1047,
+    "lon": -97.5596,
+    "population": 35125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bas-Saint-Laurent",
+    "region": "Quebec",
+    "lat": 48.0503,
+    "lon": -68.0227,
+    "population": 35113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L'Ascension-de-Notre-Seigneur",
+    "region": "Quebec",
+    "lat": 48.6834,
+    "lon": -71.6658,
+    "population": 35076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malartic",
+    "region": "Quebec",
+    "lat": 48.1335,
+    "lon": -78.1328,
+    "population": 35067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chapais",
+    "region": "Quebec",
+    "lat": 49.7834,
+    "lon": -74.8492,
+    "population": 35061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-André-Avellin",
+    "region": "Quebec",
+    "lat": 45.7168,
+    "lon": -75.066,
+    "population": 34957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "De Salaberry",
+    "region": "Manitoba",
+    "lat": 49.4,
+    "lon": -97.0089,
+    "population": 34914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanaimo",
+    "region": "British Columbia",
+    "lat": 49.1664,
+    "lon": -123.94,
+    "population": 34906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Smith",
+    "region": "Northwest Territories",
+    "lat": 60.0044,
+    "lon": -111.8887,
+    "population": 34896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Michel-des-Saints",
+    "region": "Quebec",
+    "lat": 46.677,
+    "lon": -73.9188,
+    "population": 34896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bois-des-Filion",
+    "region": "Quebec",
+    "lat": 45.6668,
+    "lon": -73.7492,
+    "population": 34850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L'Orignal",
+    "region": "Ontario",
+    "lat": 45.6198,
+    "lon": -74.6915,
+    "population": 34794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souris",
+    "region": "Prince Edward Island",
+    "lat": 46.3501,
+    "lon": -62.2486,
+    "population": 34779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campbellton",
+    "region": "New Brunswick",
+    "lat": 48.0075,
+    "lon": -66.6727,
+    "population": 34697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peterborough",
+    "region": "Ontario",
+    "lat": 44.3001,
+    "lon": -78.3162,
+    "population": 34688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cedar",
+    "region": "British Columbia",
+    "lat": 49.1163,
+    "lon": -123.8527,
+    "population": 34681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silver Berry",
+    "region": "Alberta",
+    "lat": 53.4579,
+    "lon": -113.3817,
+    "population": 34654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Augustin",
+    "region": "Quebec",
+    "lat": 51.226,
+    "lon": -58.6502,
+    "population": 34624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumberland",
+    "region": "British Columbia",
+    "lat": 49.6163,
+    "lon": -125.0361,
+    "population": 34580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dryden",
+    "region": "Ontario",
+    "lat": 49.7833,
+    "lon": -92.7503,
+    "population": 34471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort McPherson",
+    "region": "Northwest Territories",
+    "lat": 67.4386,
+    "lon": -134.8854,
+    "population": 34445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Elzéar",
+    "region": "Quebec",
+    "lat": 45.6034,
+    "lon": -73.727,
+    "population": 34402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Siméon",
+    "region": "Quebec",
+    "lat": 47.8443,
+    "lon": -69.8784,
+    "population": 34365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Repentigny",
+    "region": "Quebec",
+    "lat": 45.7422,
+    "lon": -73.4501,
+    "population": 34289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Lorne",
+    "region": "Ontario",
+    "lat": 42.6001,
+    "lon": -81.5998,
+    "population": 34269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lethbridge",
+    "region": "Alberta",
+    "lat": 49.7,
+    "lon": -112.8186,
+    "population": 34195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charlemagne",
+    "region": "Quebec",
+    "lat": 45.7168,
+    "lon": -73.4825,
+    "population": 34176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bridgewater",
+    "region": "Nova Scotia",
+    "lat": 44.3786,
+    "lon": -64.5188,
+    "population": 34175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Windsor",
+    "region": "Nova Scotia",
+    "lat": 44.9834,
+    "lon": -64.132,
+    "population": 34168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Norbert",
+    "region": "Quebec",
+    "lat": 46.1695,
+    "lon": -73.3149,
+    "population": 34094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angus",
+    "region": "Ontario",
+    "lat": 44.3168,
+    "lon": -79.8829,
+    "population": 34084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greater Napanee",
+    "region": "Ontario",
+    "lat": 44.2501,
+    "lon": -76.9494,
+    "population": 34083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Pocatière",
+    "region": "Quebec",
+    "lat": 47.3673,
+    "lon": -70.0348,
+    "population": 34044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brockville",
+    "region": "Ontario",
+    "lat": 44.5913,
+    "lon": -75.687,
+    "population": 33937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casselman",
+    "region": "Ontario",
+    "lat": 45.3168,
+    "lon": -75.0826,
+    "population": 33918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queenswood Heights",
+    "region": "Ontario",
+    "lat": 45.4708,
+    "lon": -75.5056,
+    "population": 33893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inuvik",
+    "region": "Northwest Territories",
+    "lat": 68.3499,
+    "lon": -133.7218,
+    "population": 33868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brampton",
+    "region": "Ontario",
+    "lat": 43.6834,
+    "lon": -79.7663,
+    "population": 33835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deseronto",
+    "region": "Ontario",
+    "lat": 44.2001,
+    "lon": -77.0494,
+    "population": 33772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montmagny",
+    "region": "Quebec",
+    "lat": 46.9804,
+    "lon": -70.5549,
+    "population": 33764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warwick",
+    "region": "Quebec",
+    "lat": 45.9501,
+    "lon": -71.9824,
+    "population": 33585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neebing",
+    "region": "Ontario",
+    "lat": 48.1668,
+    "lon": -89.4168,
+    "population": 33508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milton",
+    "region": "Ontario",
+    "lat": 43.5168,
+    "lon": -79.8829,
+    "population": 33428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Eustache",
+    "region": "Quebec",
+    "lat": 45.565,
+    "lon": -73.9055,
+    "population": 33422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Listowel",
+    "region": "Ontario",
+    "lat": 43.7334,
+    "lon": -80.9497,
+    "population": 33395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanata",
+    "region": "Ontario",
+    "lat": 45.3001,
+    "lon": -75.9161,
+    "population": 33387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halton",
+    "region": "Ontario",
+    "lat": 43.5001,
+    "lon": -79.8829,
+    "population": 33386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaupré",
+    "region": "Quebec",
+    "lat": 47.0443,
+    "lon": -70.8953,
+    "population": 33380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osoyoos",
+    "region": "British Columbia",
+    "lat": 49.0331,
+    "lon": -119.4524,
+    "population": 33325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iroquois Falls",
+    "region": "Ontario",
+    "lat": 48.7669,
+    "lon": -80.6831,
+    "population": 33258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camrose",
+    "region": "Alberta",
+    "lat": 53.0168,
+    "lon": -112.8353,
+    "population": 33254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oromocto",
+    "region": "New Brunswick",
+    "lat": 45.8351,
+    "lon": -66.4792,
+    "population": 33204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Happy Valley-Goose Bay",
+    "region": "Newfoundland and Labrador",
+    "lat": 53.3038,
+    "lon": -60.3258,
+    "population": 33128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bathurst",
+    "region": "New Brunswick",
+    "lat": 47.6181,
+    "lon": -65.6511,
+    "population": 33108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irricana",
+    "region": "Alberta",
+    "lat": 51.3237,
+    "lon": -113.6047,
+    "population": 33046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Westmount",
+    "region": "Quebec",
+    "lat": 45.4834,
+    "lon": -73.5992,
+    "population": 33019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Lake",
+    "region": "Ontario",
+    "lat": 51.0168,
+    "lon": -93.8274,
+    "population": 32997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aldergrove East",
+    "region": "British Columbia",
+    "lat": 49.0559,
+    "lon": -122.423,
+    "population": 32974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drayton Valley",
+    "region": "Alberta",
+    "lat": 53.2168,
+    "lon": -114.9854,
+    "population": 32962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaunavon",
+    "region": "Saskatchewan",
+    "lat": 49.6501,
+    "lon": -108.4181,
+    "population": 32914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ladner",
+    "region": "British Columbia",
+    "lat": 49.0894,
+    "lon": -123.0824,
+    "population": 32772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hearst",
+    "region": "Ontario",
+    "lat": 49.6835,
+    "lon": -83.6665,
+    "population": 32757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaumont",
+    "region": "Alberta",
+    "lat": 53.3501,
+    "lon": -113.4187,
+    "population": 32746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merritt",
+    "region": "British Columbia",
+    "lat": 50.1123,
+    "lon": -120.7942,
+    "population": 32740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pincourt",
+    "region": "Quebec",
+    "lat": 45.3834,
+    "lon": -73.9825,
+    "population": 32716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asbestos",
+    "region": "Quebec",
+    "lat": 45.7668,
+    "lon": -71.9324,
+    "population": 32662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ottawa",
+    "region": "Ontario",
+    "lat": 45.4112,
+    "lon": -75.6981,
+    "population": 32644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jasper Park Lodge",
+    "region": "Alberta",
+    "lat": 52.8863,
+    "lon": -118.0563,
+    "population": 32610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Léonard",
+    "region": "Quebec",
+    "lat": 45.5877,
+    "lon": -73.595,
+    "population": 32591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carbonear",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.7332,
+    "lon": -53.2148,
+    "population": 32521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanoraie",
+    "region": "Quebec",
+    "lat": 45.9668,
+    "lon": -73.2159,
+    "population": 32505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torbay",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.6666,
+    "lon": -52.7313,
+    "population": 32372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yorkton",
+    "region": "Saskatchewan",
+    "lat": 51.2167,
+    "lon": -102.4677,
+    "population": 32357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mission",
+    "region": "British Columbia",
+    "lat": 49.133,
+    "lon": -122.3026,
+    "population": 32331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bancroft",
+    "region": "Ontario",
+    "lat": 45.0575,
+    "lon": -77.857,
+    "population": 32322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Minerve",
+    "region": "Quebec",
+    "lat": 46.2501,
+    "lon": -74.9326,
+    "population": 32316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wadena",
+    "region": "Saskatchewan",
+    "lat": 51.95,
+    "lon": -103.801,
+    "population": 32273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huron East",
+    "region": "Ontario",
+    "lat": 43.6168,
+    "lon": -81.2998,
+    "population": 32204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chester",
+    "region": "Nova Scotia",
+    "lat": 44.5423,
+    "lon": -64.2389,
+    "population": 32193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Augustin-de-Desmaures",
+    "region": "Quebec",
+    "lat": 46.7406,
+    "lon": -71.4513,
+    "population": 32178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capitale-Nationale",
+    "region": "Quebec",
+    "lat": 47.376,
+    "lon": -71.1234,
+    "population": 32134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barraute",
+    "region": "Quebec",
+    "lat": 48.4335,
+    "lon": -77.6328,
+    "population": 32110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swift Current",
+    "region": "Saskatchewan",
+    "lat": 50.2834,
+    "lon": -107.8013,
+    "population": 32079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Boniface",
+    "region": "Quebec",
+    "lat": 46.5001,
+    "lon": -75.9826,
+    "population": 32014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anmore",
+    "region": "British Columbia",
+    "lat": 49.3164,
+    "lon": -122.8526,
+    "population": 31993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lachute",
+    "region": "Quebec",
+    "lat": 45.6501,
+    "lon": -74.3325,
+    "population": 31960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penhold",
+    "region": "Alberta",
+    "lat": 52.1334,
+    "lon": -113.8687,
+    "population": 31909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Amable",
+    "region": "Quebec",
+    "lat": 45.6501,
+    "lon": -73.2992,
+    "population": 31833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roblin",
+    "region": "Manitoba",
+    "lat": 51.23,
+    "lon": -101.3565,
+    "population": 31813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac du Bonnet",
+    "region": "Manitoba",
+    "lat": 50.2536,
+    "lon": -96.0612,
+    "population": 31770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gibsons",
+    "region": "British Columbia",
+    "lat": 49.3954,
+    "lon": -123.5055,
+    "population": 31769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cacouna",
+    "region": "Quebec",
+    "lat": 47.9166,
+    "lon": -69.5005,
+    "population": 31766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Anne-des-Plaines",
+    "region": "Quebec",
+    "lat": 45.7647,
+    "lon": -73.8116,
+    "population": 31743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whitehorse",
+    "region": "Yukon",
+    "lat": 60.7161,
+    "lon": -135.0538,
+    "population": 31640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayerthorpe",
+    "region": "Alberta",
+    "lat": 53.9502,
+    "lon": -115.1355,
+    "population": 31588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notre-Dame-de-l'Île-Perrot",
+    "region": "Quebec",
+    "lat": 45.3668,
+    "lon": -73.9325,
+    "population": 31500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cornwall",
+    "region": "Prince Edward Island",
+    "lat": 46.2265,
+    "lon": -63.2181,
+    "population": 31331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orangeville",
+    "region": "Ontario",
+    "lat": 43.9168,
+    "lon": -80.0997,
+    "population": 31295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biggar",
+    "region": "Saskatchewan",
+    "lat": 52.0668,
+    "lon": -108.0014,
+    "population": 31289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsawwassen",
+    "region": "British Columbia",
+    "lat": 49.0167,
+    "lon": -123.0833,
+    "population": 31280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mont-Saint-Hilaire",
+    "region": "Quebec",
+    "lat": 45.5652,
+    "lon": -73.1868,
+    "population": 31190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort McMurray",
+    "region": "Alberta",
+    "lat": 56.7268,
+    "lon": -111.381,
+    "population": 31180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port McNeill",
+    "region": "British Columbia",
+    "lat": 50.5872,
+    "lon": -127.0805,
+    "population": 31149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamsack",
+    "region": "Saskatchewan",
+    "lat": 51.5667,
+    "lon": -101.9009,
+    "population": 31144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Marie",
+    "region": "Quebec",
+    "lat": 46.434,
+    "lon": -71.0117,
+    "population": 31127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cow Bay",
+    "region": "Nova Scotia",
+    "lat": 44.6314,
+    "lon": -63.4322,
+    "population": 31095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Welland",
+    "region": "Ontario",
+    "lat": 42.9834,
+    "lon": -79.2496,
+    "population": 31070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osgoode",
+    "region": "Ontario",
+    "lat": 45.1489,
+    "lon": -75.5978,
+    "population": 31006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elkford",
+    "region": "British Columbia",
+    "lat": 50.0501,
+    "lon": -114.8854,
+    "population": 30963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Willowdale",
+    "region": "Ontario",
+    "lat": 43.7667,
+    "lon": -79.3991,
+    "population": 30880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Barnabé-Sud",
+    "region": "Quebec",
+    "lat": 45.7298,
+    "lon": -72.9224,
+    "population": 30863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donnacona",
+    "region": "Quebec",
+    "lat": 46.6804,
+    "lon": -71.7239,
+    "population": 30841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fermont",
+    "region": "Quebec",
+    "lat": 52.7835,
+    "lon": -67.082,
+    "population": 30724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canmore",
+    "region": "Alberta",
+    "lat": 51.0834,
+    "lon": -115.3521,
+    "population": 30665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hauterive",
+    "region": "Quebec",
+    "lat": 49.1957,
+    "lon": -68.2581,
+    "population": 30624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burford",
+    "region": "Ontario",
+    "lat": 43.1029,
+    "lon": -80.4287,
+    "population": 30604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanton",
+    "region": "Alberta",
+    "lat": 50.3501,
+    "lon": -113.7687,
+    "population": 30604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farnham",
+    "region": "Quebec",
+    "lat": 45.2834,
+    "lon": -72.9824,
+    "population": 30600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "White Rock",
+    "region": "British Columbia",
+    "lat": 49.0164,
+    "lon": -122.8026,
+    "population": 30549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Huron",
+    "region": "Ontario",
+    "lat": 43.3168,
+    "lon": -81.5165,
+    "population": 30519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mont-Laurier",
+    "region": "Quebec",
+    "lat": 46.5501,
+    "lon": -75.4993,
+    "population": 30484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montague",
+    "region": "Prince Edward Island",
+    "lat": 46.1668,
+    "lon": -62.6487,
+    "population": 30462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaughan",
+    "region": "Ontario",
+    "lat": 43.8361,
+    "lon": -79.4983,
+    "population": 30412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chatham",
+    "region": "Ontario",
+    "lat": 42.4122,
+    "lon": -82.1849,
+    "population": 30378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaudreuil-Dorion",
+    "region": "Quebec",
+    "lat": 45.4001,
+    "lon": -74.0325,
+    "population": 30319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moncton",
+    "region": "New Brunswick",
+    "lat": 46.0945,
+    "lon": -64.7965,
+    "population": 30304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Regina Beach",
+    "region": "Saskatchewan",
+    "lat": 50.7834,
+    "lon": -105.0011,
+    "population": 30266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nord-du-Québec",
+    "region": "Quebec",
+    "lat": 51.962,
+    "lon": -74.8961,
+    "population": 30185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterloo",
+    "region": "Ontario",
+    "lat": 43.4668,
+    "lon": -80.5164,
+    "population": 30137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Denman Island Trust Area",
+    "region": "British Columbia",
+    "lat": 49.5519,
+    "lon": -124.7988,
+    "population": 30131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nackawic",
+    "region": "New Brunswick",
+    "lat": 45.9967,
+    "lon": -67.2403,
+    "population": 30119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rawdon",
+    "region": "Quebec",
+    "lat": 46.0501,
+    "lon": -73.7159,
+    "population": 30056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaverlodge",
+    "region": "Alberta",
+    "lat": 55.2166,
+    "lon": -119.436,
+    "population": 30050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brooks",
+    "region": "Alberta",
+    "lat": 50.5834,
+    "lon": -111.8851,
+    "population": 30032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Nazaire",
+    "region": "Quebec",
+    "lat": 48.5894,
+    "lon": -71.5525,
+    "population": 29981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fredericton",
+    "region": "New Brunswick",
+    "lat": 45.9454,
+    "lon": -66.6656,
+    "population": 29950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calgary",
+    "region": "Alberta",
+    "lat": 51.0501,
+    "lon": -114.0853,
+    "population": 29909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morden",
+    "region": "Manitoba",
+    "lat": 49.1919,
+    "lon": -98.1014,
+    "population": 29883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blainville",
+    "region": "Quebec",
+    "lat": 45.6668,
+    "lon": -73.8825,
+    "population": 29844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanier",
+    "region": "Ontario",
+    "lat": 45.4399,
+    "lon": -75.665,
+    "population": 29827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manitouwadge",
+    "region": "Ontario",
+    "lat": 49.1215,
+    "lon": -85.8403,
+    "population": 29810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Anne-de-Bellevue",
+    "region": "Quebec",
+    "lat": 45.4062,
+    "lon": -73.9456,
+    "population": 29774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilot Butte",
+    "region": "Saskatchewan",
+    "lat": 50.4668,
+    "lon": -104.4178,
+    "population": 29682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clyde River",
+    "region": "Nunavut",
+    "lat": 70.4723,
+    "lon": -68.5899,
+    "population": 29548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langford",
+    "region": "British Columbia",
+    "lat": 48.4496,
+    "lon": -123.5026,
+    "population": 29548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Tuque",
+    "region": "Quebec",
+    "lat": 47.4334,
+    "lon": -72.7824,
+    "population": 29482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morinville",
+    "region": "Alberta",
+    "lat": 53.8001,
+    "lon": -113.652,
+    "population": 29453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "British Columbia",
+    "lat": 48.4359,
+    "lon": -123.3516,
+    "population": 29451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prince Albert",
+    "region": "Saskatchewan",
+    "lat": 53.2001,
+    "lon": -105.7677,
+    "population": 29448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oak Bay",
+    "region": "British Columbia",
+    "lat": 48.4496,
+    "lon": -123.3026,
+    "population": 29380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winchester",
+    "region": "Ontario",
+    "lat": 45.0834,
+    "lon": -75.3493,
+    "population": 29371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prince George",
+    "region": "British Columbia",
+    "lat": 53.9166,
+    "lon": -122.753,
+    "population": 29351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otterburn Park",
+    "region": "Quebec",
+    "lat": 45.5334,
+    "lon": -73.2159,
+    "population": 29319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North York",
+    "region": "Ontario",
+    "lat": 43.7668,
+    "lon": -79.4163,
+    "population": 29316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sudbury",
+    "region": "Ontario",
+    "lat": 47.1668,
+    "lon": -81.9998,
+    "population": 29304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "McEwen",
+    "region": "New Brunswick",
+    "lat": 46.1452,
+    "lon": -64.7862,
+    "population": 29281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fernie",
+    "region": "British Columbia",
+    "lat": 49.5,
+    "lon": -115.0687,
+    "population": 29280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vermilion",
+    "region": "Alberta",
+    "lat": 53.3541,
+    "lon": -110.8585,
+    "population": 29259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parkhill",
+    "region": "Ontario",
+    "lat": 43.1599,
+    "lon": -81.6846,
+    "population": 29176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kentville",
+    "region": "Nova Scotia",
+    "lat": 45.0771,
+    "lon": -64.496,
+    "population": 29151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colwood",
+    "region": "British Columbia",
+    "lat": 48.4329,
+    "lon": -123.4859,
+    "population": 29116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ladysmith",
+    "region": "British Columbia",
+    "lat": 48.9902,
+    "lon": -123.817,
+    "population": 29115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durham",
+    "region": "Ontario",
+    "lat": 44.2001,
+    "lon": -78.9996,
+    "population": 29002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hampstead",
+    "region": "Quebec",
+    "lat": 45.4806,
+    "lon": -73.6631,
+    "population": 28981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitt Meadows",
+    "region": "British Columbia",
+    "lat": 49.2212,
+    "lon": -122.6897,
+    "population": 28921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maniwaki",
+    "region": "Quebec",
+    "lat": 46.3834,
+    "lon": -75.966,
+    "population": 28917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Centre",
+    "region": "Alberta",
+    "lat": 54.4163,
+    "lon": -110.213,
+    "population": 28907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Thècle",
+    "region": "Quebec",
+    "lat": 46.8168,
+    "lon": -72.4991,
+    "population": 28881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashcroft",
+    "region": "British Columbia",
+    "lat": 50.7237,
+    "lon": -121.2821,
+    "population": 28871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pincher Creek",
+    "region": "Alberta",
+    "lat": 49.4833,
+    "lon": -113.9519,
+    "population": 28808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Summerside",
+    "region": "Prince Edward Island",
+    "lat": 46.3959,
+    "lon": -63.7876,
+    "population": 28660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prescott",
+    "region": "Ontario",
+    "lat": 44.7168,
+    "lon": -75.516,
+    "population": 28647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surrey",
+    "region": "British Columbia",
+    "lat": 49.1063,
+    "lon": -122.8251,
+    "population": 28557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rankin Inlet",
+    "region": "Nunavut",
+    "lat": 62.8091,
+    "lon": -92.0853,
+    "population": 28553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "le Plateau",
+    "region": "Quebec",
+    "lat": 45.4351,
+    "lon": -75.7803,
+    "population": 28533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deep River",
+    "region": "Ontario",
+    "lat": 46.1001,
+    "lon": -77.4995,
+    "population": 28493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elliot Lake",
+    "region": "Ontario",
+    "lat": 46.3834,
+    "lon": -82.6332,
+    "population": 28402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baie Ste. Anne",
+    "region": "New Brunswick",
+    "lat": 47.0523,
+    "lon": -64.9536,
+    "population": 28382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fairview",
+    "region": "Alberta",
+    "lat": 56.0667,
+    "lon": -118.3861,
+    "population": 28357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunham",
+    "region": "Quebec",
+    "lat": 45.1334,
+    "lon": -72.7991,
+    "population": 28351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carleton",
+    "region": "Quebec",
+    "lat": 48.0984,
+    "lon": -66.1004,
+    "population": 28334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sexsmith",
+    "region": "Alberta",
+    "lat": 55.35,
+    "lon": -118.786,
+    "population": 28333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ange-Gardien",
+    "region": "Quebec",
+    "lat": 45.3501,
+    "lon": -72.9324,
+    "population": 28315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Creston",
+    "region": "British Columbia",
+    "lat": 49.0999,
+    "lon": -116.5021,
+    "population": 28274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Québec",
+    "region": "Quebec",
+    "lat": 46.8123,
+    "lon": -71.2145,
+    "population": 28242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond Hill",
+    "region": "Ontario",
+    "lat": 43.8711,
+    "lon": -79.4373,
+    "population": 28215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sparwood",
+    "region": "British Columbia",
+    "lat": 49.7333,
+    "lon": -114.8853,
+    "population": 28131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yarmouth",
+    "region": "Nova Scotia",
+    "lat": 43.8334,
+    "lon": -66.1156,
+    "population": 28114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolbeau-Mistassini",
+    "region": "Quebec",
+    "lat": 48.8786,
+    "lon": -72.2314,
+    "population": 27994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "London",
+    "region": "Ontario",
+    "lat": 42.9834,
+    "lon": -81.233,
+    "population": 27933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centre-du-Québec",
+    "region": "Quebec",
+    "lat": 46.0198,
+    "lon": -71.9824,
+    "population": 27896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Broughton",
+    "region": "Quebec",
+    "lat": 46.2136,
+    "lon": -71.0767,
+    "population": 27886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nepean",
+    "region": "Ontario",
+    "lat": 45.3522,
+    "lon": -75.7398,
+    "population": 27886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moosonee",
+    "region": "Ontario",
+    "lat": 51.2793,
+    "lon": -80.6345,
+    "population": 27758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boissevain",
+    "region": "Manitoba",
+    "lat": 49.2306,
+    "lon": -100.0559,
+    "population": 27730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coalhurst",
+    "region": "Alberta",
+    "lat": 49.7464,
+    "lon": -112.9325,
+    "population": 27730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Venise-en-Québec",
+    "region": "Quebec",
+    "lat": 45.0834,
+    "lon": -73.1325,
+    "population": 27613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shilo",
+    "region": "Manitoba",
+    "lat": 49.8051,
+    "lon": -99.6317,
+    "population": 27574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "English Corner",
+    "region": "Nova Scotia",
+    "lat": 44.7334,
+    "lon": -63.782,
+    "population": 27572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campbell River",
+    "region": "British Columbia",
+    "lat": 50.0163,
+    "lon": -125.2446,
+    "population": 27557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L'Épiphanie",
+    "region": "Quebec",
+    "lat": 45.8501,
+    "lon": -73.4825,
+    "population": 27504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goderich",
+    "region": "Ontario",
+    "lat": 43.7417,
+    "lon": -81.7134,
+    "population": 27429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quinte West",
+    "region": "Ontario",
+    "lat": 44.1834,
+    "lon": -77.5662,
+    "population": 27406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rideau Park",
+    "region": "Alberta",
+    "lat": 53.479,
+    "lon": -113.5047,
+    "population": 27399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bedford",
+    "region": "Quebec",
+    "lat": 45.1168,
+    "lon": -72.9824,
+    "population": 27373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingston",
+    "region": "Ontario",
+    "lat": 44.2298,
+    "lon": -76.481,
+    "population": 27366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pictou",
+    "region": "Nova Scotia",
+    "lat": 45.6788,
+    "lon": -62.7094,
+    "population": 27312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bassano",
+    "region": "Alberta",
+    "lat": 50.7834,
+    "lon": -112.4685,
+    "population": 27258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamarack",
+    "region": "Alberta",
+    "lat": 53.4644,
+    "lon": -113.3624,
+    "population": 27257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Truro",
+    "region": "Nova Scotia",
+    "lat": 45.3668,
+    "lon": -63.2654,
+    "population": 27247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alliston",
+    "region": "Ontario",
+    "lat": 44.1501,
+    "lon": -79.8663,
+    "population": 27235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clarenville-Shoal Harbour",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.1805,
+    "lon": -53.9698,
+    "population": 27195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hornepayne",
+    "region": "Ontario",
+    "lat": 49.2145,
+    "lon": -84.7762,
+    "population": 27152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stephenville",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.55,
+    "lon": -58.5818,
+    "population": 27151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Outlook",
+    "region": "Saskatchewan",
+    "lat": 51.5001,
+    "lon": -107.0513,
+    "population": 27143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Félicien",
+    "region": "Quebec",
+    "lat": 48.6501,
+    "lon": -72.4491,
+    "population": 27142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ear Falls",
+    "region": "Ontario",
+    "lat": 50.6395,
+    "lon": -93.2353,
+    "population": 27073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antigonish",
+    "region": "Nova Scotia",
+    "lat": 45.6168,
+    "lon": -61.9986,
+    "population": 27038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cookshire-Eaton",
+    "region": "Quebec",
+    "lat": 45.4168,
+    "lon": -71.6324,
+    "population": 27023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Val-d'Or",
+    "region": "Quebec",
+    "lat": 48.0974,
+    "lon": -77.7974,
+    "population": 27014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Charles",
+    "region": "Quebec",
+    "lat": 45.7029,
+    "lon": -73.5542,
+    "population": 27002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concord",
+    "region": "Ontario",
+    "lat": 43.8001,
+    "lon": -79.4829,
+    "population": 26969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mattawa",
+    "region": "Ontario",
+    "lat": 46.3168,
+    "lon": -78.6996,
+    "population": 26956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cap-Chat",
+    "region": "Quebec",
+    "lat": 49.1001,
+    "lon": -66.6821,
+    "population": 26927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballantrae",
+    "region": "Ontario",
+    "lat": 44.0334,
+    "lon": -79.2996,
+    "population": 26909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brant",
+    "region": "Ontario",
+    "lat": 43.1334,
+    "lon": -80.3497,
+    "population": 26906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East York",
+    "region": "Ontario",
+    "lat": 43.6905,
+    "lon": -79.3279,
+    "population": 26817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markham",
+    "region": "Ontario",
+    "lat": 43.8668,
+    "lon": -79.2663,
+    "population": 26817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rigaud",
+    "region": "Quebec",
+    "lat": 45.4793,
+    "lon": -74.3024,
+    "population": 26767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bécancour",
+    "region": "Quebec",
+    "lat": 46.3411,
+    "lon": -72.4322,
+    "population": 26693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vegreville",
+    "region": "Alberta",
+    "lat": 53.5001,
+    "lon": -112.0518,
+    "population": 26687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souris",
+    "region": "Manitoba",
+    "lat": 49.6172,
+    "lon": -100.2612,
+    "population": 26667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labelle",
+    "region": "Quebec",
+    "lat": 46.2834,
+    "lon": -74.7326,
+    "population": 26651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercier",
+    "region": "Quebec",
+    "lat": 45.3168,
+    "lon": -73.7492,
+    "population": 26617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watford",
+    "region": "Ontario",
+    "lat": 42.9501,
+    "lon": -81.8831,
+    "population": 26582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watrous",
+    "region": "Saskatchewan",
+    "lat": 51.6668,
+    "lon": -105.4679,
+    "population": 26451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaspé",
+    "region": "Quebec",
+    "lat": 48.8334,
+    "lon": -64.4819,
+    "population": 26362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bluewater",
+    "region": "Ontario",
+    "lat": 43.4668,
+    "lon": -81.5998,
+    "population": 26309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fogo Island",
+    "region": "Newfoundland and Labrador",
+    "lat": 49.7165,
+    "lon": -54.1698,
+    "population": 26258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond",
+    "region": "Quebec",
+    "lat": 45.6668,
+    "lon": -72.1491,
+    "population": 26222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mississauga Beach",
+    "region": "Ontario",
+    "lat": 43.2668,
+    "lon": -79.0829,
+    "population": 26117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macamic",
+    "region": "Quebec",
+    "lat": 48.7502,
+    "lon": -78.9996,
+    "population": 25977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norwood",
+    "region": "Ontario",
+    "lat": 44.3834,
+    "lon": -77.9828,
+    "population": 25964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivière-du-Loup",
+    "region": "Quebec",
+    "lat": 47.827,
+    "lon": -69.5424,
+    "population": 25936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gananoque",
+    "region": "Ontario",
+    "lat": 44.3334,
+    "lon": -76.1661,
+    "population": 25933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond",
+    "region": "British Columbia",
+    "lat": 49.17,
+    "lon": -123.1368,
+    "population": 25911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanderhoof",
+    "region": "British Columbia",
+    "lat": 54.0166,
+    "lon": -124.0198,
+    "population": 25845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trois-Rivières",
+    "region": "Quebec",
+    "lat": 46.3451,
+    "lon": -72.5477,
+    "population": 25832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wilkie",
+    "region": "Saskatchewan",
+    "lat": 52.4168,
+    "lon": -108.7014,
+    "population": 25752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whistler",
+    "region": "British Columbia",
+    "lat": 50.1182,
+    "lon": -122.954,
+    "population": 25701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moose Factory",
+    "region": "Ontario",
+    "lat": 51.2669,
+    "lon": -80.6162,
+    "population": 25630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buckingham",
+    "region": "Quebec",
+    "lat": 45.5856,
+    "lon": -75.4208,
+    "population": 25549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cochrane",
+    "region": "Alberta",
+    "lat": 51.1834,
+    "lon": -114.4687,
+    "population": 25468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dorchester",
+    "region": "Ontario",
+    "lat": 42.9834,
+    "lon": -81.0664,
+    "population": 25429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keswick",
+    "region": "Ontario",
+    "lat": 44.2501,
+    "lon": -79.4663,
+    "population": 25428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aldergrove",
+    "region": "British Columbia",
+    "lat": 49.058,
+    "lon": -122.4709,
+    "population": 25390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rayside-Balfour",
+    "region": "Ontario",
+    "lat": 46.6087,
+    "lon": -81.2076,
+    "population": 25323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Outaouais",
+    "region": "Quebec",
+    "lat": 46.2668,
+    "lon": -76.3161,
+    "population": 25297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "King",
+    "region": "Ontario",
+    "lat": 43.9651,
+    "lon": -79.5901,
+    "population": 25273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thetford-Mines",
+    "region": "Quebec",
+    "lat": 46.0937,
+    "lon": -71.3054,
+    "population": 25137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Bank",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.0999,
+    "lon": -55.765,
+    "population": 25091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Jean-sur-Richelieu",
+    "region": "Quebec",
+    "lat": 45.3071,
+    "lon": -73.2626,
+    "population": 25028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neepawa",
+    "region": "Manitoba",
+    "lat": 50.2289,
+    "lon": -99.4664,
+    "population": 25018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moose Jaw",
+    "region": "Saskatchewan",
+    "lat": 50.4001,
+    "lon": -105.5345,
+    "population": 24997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langham",
+    "region": "Saskatchewan",
+    "lat": 52.3668,
+    "lon": -106.9679,
+    "population": 24948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St-Jean-Port-Joli",
+    "region": "Quebec",
+    "lat": 47.2142,
+    "lon": -70.2697,
+    "population": 24936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beauceville",
+    "region": "Quebec",
+    "lat": 46.2178,
+    "lon": -70.7787,
+    "population": 24868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac-Alouette",
+    "region": "Quebec",
+    "lat": 45.817,
+    "lon": -73.9592,
+    "population": 24779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vulcan",
+    "region": "Alberta",
+    "lat": 50.4001,
+    "lon": -113.2519,
+    "population": 24769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arnprior",
+    "region": "Ontario",
+    "lat": 45.4334,
+    "lon": -76.3494,
+    "population": 24739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Bruno-de-Guigues",
+    "region": "Quebec",
+    "lat": 47.4669,
+    "lon": -79.433,
+    "population": 24714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saskatoon",
+    "region": "Saskatchewan",
+    "lat": 52.1324,
+    "lon": -106.6689,
+    "population": 24641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maria",
+    "region": "Quebec",
+    "lat": 48.1749,
+    "lon": -65.986,
+    "population": 24564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peace River Regional District",
+    "region": "British Columbia",
+    "lat": 56.6665,
+    "lon": -122.753,
+    "population": 24551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clarence-Rockland",
+    "region": "Ontario",
+    "lat": 45.5501,
+    "lon": -75.291,
+    "population": 24465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bath",
+    "region": "Ontario",
+    "lat": 44.1834,
+    "lon": -76.7827,
+    "population": 24456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candiac",
+    "region": "Quebec",
+    "lat": 45.3834,
+    "lon": -73.5159,
+    "population": 24440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golden",
+    "region": "British Columbia",
+    "lat": 51.3,
+    "lon": -116.9689,
+    "population": 24424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkland Lake",
+    "region": "Ontario",
+    "lat": 48.1446,
+    "lon": -80.0377,
+    "population": 24424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carman",
+    "region": "Manitoba",
+    "lat": 49.4992,
+    "lon": -98.0016,
+    "population": 24369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lorette",
+    "region": "Manitoba",
+    "lat": 49.7392,
+    "lon": -96.8723,
+    "population": 24299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wainwright",
+    "region": "Alberta",
+    "lat": 52.8348,
+    "lon": -110.8534,
+    "population": 24251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maple Creek",
+    "region": "Saskatchewan",
+    "lat": 49.9168,
+    "lon": -109.4848,
+    "population": 24210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trail",
+    "region": "British Columbia",
+    "lat": 49.0998,
+    "lon": -117.7022,
+    "population": 24154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rocky Mountain House",
+    "region": "Alberta",
+    "lat": 52.3668,
+    "lon": -114.9188,
+    "population": 24118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Joseph",
+    "region": "Quebec",
+    "lat": 45.9582,
+    "lon": -73.2202,
+    "population": 24035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viking",
+    "region": "Alberta",
+    "lat": 53.1001,
+    "lon": -111.7684,
+    "population": 24012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Windsor",
+    "region": "Ontario",
+    "lat": 42.3001,
+    "lon": -83.0165,
+    "population": 24008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gambo",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.7832,
+    "lon": -54.2148,
+    "population": 23966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delson",
+    "region": "Quebec",
+    "lat": 45.3668,
+    "lon": -73.5492,
+    "population": 23927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valleyview",
+    "region": "Alberta",
+    "lat": 55.0667,
+    "lon": -117.2858,
+    "population": 23854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Annapolis County",
+    "region": "Nova Scotia",
+    "lat": 44.5834,
+    "lon": -65.1655,
+    "population": 23820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atikokan",
+    "region": "Ontario",
+    "lat": 48.7567,
+    "lon": -91.6241,
+    "population": 23783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charlottetown",
+    "region": "Prince Edward Island",
+    "lat": 46.239,
+    "lon": -63.1341,
+    "population": 23722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langley",
+    "region": "British Columbia",
+    "lat": 49.1011,
+    "lon": -122.6588,
+    "population": 23717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pointe-Claire",
+    "region": "Quebec",
+    "lat": 45.4487,
+    "lon": -73.8167,
+    "population": 23663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hantsport",
+    "region": "Nova Scotia",
+    "lat": 45.0669,
+    "lon": -64.1654,
+    "population": 23656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Broquerie",
+    "region": "Manitoba",
+    "lat": 49.5169,
+    "lon": -96.5003,
+    "population": 23646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shannon",
+    "region": "Quebec",
+    "lat": 46.8803,
+    "lon": -71.5146,
+    "population": 23608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Moody",
+    "region": "British Columbia",
+    "lat": 49.2812,
+    "lon": -122.8246,
+    "population": 23595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gravenhurst",
+    "region": "Ontario",
+    "lat": 44.9168,
+    "lon": -79.3663,
+    "population": 23588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prince Edward",
+    "region": "Ontario",
+    "lat": 44.0001,
+    "lon": -77.2495,
+    "population": 23516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Pearl",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.5166,
+    "lon": -52.7814,
+    "population": 23508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heritage Pointe",
+    "region": "Alberta",
+    "lat": 50.8421,
+    "lon": -114.0049,
+    "population": 23498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chertsey",
+    "region": "Quebec",
+    "lat": 46.0711,
+    "lon": -73.891,
+    "population": 23489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Liboire",
+    "region": "Quebec",
+    "lat": 45.6507,
+    "lon": -72.7635,
+    "population": 23441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Jacques-le-Mineur",
+    "region": "Quebec",
+    "lat": 45.2834,
+    "lon": -73.4159,
+    "population": 23407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timiskaming District",
+    "region": "Ontario",
+    "lat": 47.7502,
+    "lon": -80.333,
+    "population": 23389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grimshaw",
+    "region": "Alberta",
+    "lat": 56.1834,
+    "lon": -117.6027,
+    "population": 23381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "The Pas",
+    "region": "Manitoba",
+    "lat": 53.8251,
+    "lon": -101.2541,
+    "population": 23370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pangnirtung",
+    "region": "Nunavut",
+    "lat": 66.1464,
+    "lon": -65.7,
+    "population": 23320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parksville",
+    "region": "British Columbia",
+    "lat": 49.3195,
+    "lon": -124.3157,
+    "population": 23283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marathon",
+    "region": "Ontario",
+    "lat": 48.7501,
+    "lon": -86.4332,
+    "population": 23247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kindersley",
+    "region": "Saskatchewan",
+    "lat": 51.4668,
+    "lon": -109.1682,
+    "population": 23137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leduc",
+    "region": "Alberta",
+    "lat": 53.2668,
+    "lon": -113.552,
+    "population": 23103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lappe",
+    "region": "Ontario",
+    "lat": 48.5668,
+    "lon": -89.3501,
+    "population": 23073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wakefield",
+    "region": "Quebec",
+    "lat": 45.6668,
+    "lon": -75.8327,
+    "population": 23059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montréal",
+    "region": "Quebec",
+    "lat": 45.5001,
+    "lon": -73.6825,
+    "population": 23058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Springdale",
+    "region": "Newfoundland and Labrador",
+    "lat": 49.4999,
+    "lon": -56.0649,
+    "population": 23034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Les Coteaux",
+    "region": "Quebec",
+    "lat": 45.2834,
+    "lon": -74.2325,
+    "population": 22965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mackenzie",
+    "region": "British Columbia",
+    "lat": 55.3364,
+    "lon": -123.0937,
+    "population": 22957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Bay",
+    "region": "Ontario",
+    "lat": 46.3168,
+    "lon": -79.4663,
+    "population": 22912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varennes",
+    "region": "Quebec",
+    "lat": 45.6834,
+    "lon": -73.4325,
+    "population": 22848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pickering",
+    "region": "Ontario",
+    "lat": 43.9001,
+    "lon": -79.1329,
+    "population": 22846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iqaluit",
+    "region": "Nunavut",
+    "lat": 63.747,
+    "lon": -68.5173,
+    "population": 22793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Lambert-de-Lauzon",
+    "region": "Quebec",
+    "lat": 46.5862,
+    "lon": -71.2089,
+    "population": 22781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alma",
+    "region": "Quebec",
+    "lat": 48.5501,
+    "lon": -71.6491,
+    "population": 22756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Normandin",
+    "region": "Quebec",
+    "lat": 48.8333,
+    "lon": -72.5321,
+    "population": 22744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spirit River",
+    "region": "Alberta",
+    "lat": 55.7833,
+    "lon": -118.8361,
+    "population": 22690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watson Lake",
+    "region": "Yukon",
+    "lat": 60.0635,
+    "lon": -128.7089,
+    "population": 22673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omemee",
+    "region": "Ontario",
+    "lat": 44.299,
+    "lon": -78.5599,
+    "population": 22638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penticton",
+    "region": "British Columbia",
+    "lat": 49.4806,
+    "lon": -119.5858,
+    "population": 22581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wild Rose",
+    "region": "Alberta",
+    "lat": 53.4708,
+    "lon": -113.3812,
+    "population": 22542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salluit",
+    "region": "Quebec",
+    "lat": 62.2041,
+    "lon": -75.6434,
+    "population": 22531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South River",
+    "region": "Ontario",
+    "lat": 45.8334,
+    "lon": -79.3829,
+    "population": 22498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sherwood Park",
+    "region": "Alberta",
+    "lat": 53.5168,
+    "lon": -113.3187,
+    "population": 22497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valcourt",
+    "region": "Quebec",
+    "lat": 45.5001,
+    "lon": -72.3158,
+    "population": 22494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brandon",
+    "region": "Manitoba",
+    "lat": 49.8469,
+    "lon": -99.9531,
+    "population": 22433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodstock",
+    "region": "Ontario",
+    "lat": 43.1334,
+    "lon": -80.7497,
+    "population": 22358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Havre-Saint-Pierre",
+    "region": "Quebec",
+    "lat": 50.2434,
+    "lon": -63.6026,
+    "population": 22354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olds",
+    "region": "Alberta",
+    "lat": 51.7834,
+    "lon": -114.102,
+    "population": 22332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Williams",
+    "region": "Nova Scotia",
+    "lat": 45.1001,
+    "lon": -64.4155,
+    "population": 22305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drummondville",
+    "region": "Quebec",
+    "lat": 45.8834,
+    "lon": -72.4824,
+    "population": 22285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pointe-du-Lac",
+    "region": "Quebec",
+    "lat": 48.5001,
+    "lon": -71.7824,
+    "population": 22217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coaldale",
+    "region": "Alberta",
+    "lat": 49.7167,
+    "lon": -112.6185,
+    "population": 22136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roberval",
+    "region": "Quebec",
+    "lat": 48.5168,
+    "lon": -72.2324,
+    "population": 22109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richelieu",
+    "region": "Quebec",
+    "lat": 45.4434,
+    "lon": -73.246,
+    "population": 21996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markdale",
+    "region": "Ontario",
+    "lat": 44.3168,
+    "lon": -80.6497,
+    "population": 21995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strathmore",
+    "region": "Alberta",
+    "lat": 51.0501,
+    "lon": -113.3852,
+    "population": 21966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Espanola",
+    "region": "Ontario",
+    "lat": 46.2584,
+    "lon": -81.7665,
+    "population": 21944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chatham-Kent",
+    "region": "Ontario",
+    "lat": 42.4001,
+    "lon": -82.1831,
+    "population": 21890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canora",
+    "region": "Saskatchewan",
+    "lat": 51.6333,
+    "lon": -102.4343,
+    "population": 21874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shawinigan",
+    "region": "Quebec",
+    "lat": 46.5667,
+    "lon": -72.7491,
+    "population": 21846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Millet",
+    "region": "Alberta",
+    "lat": 53.1001,
+    "lon": -113.4687,
+    "population": 21839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coquitlam",
+    "region": "British Columbia",
+    "lat": 49.2846,
+    "lon": -122.7822,
+    "population": 21810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lorraine",
+    "region": "Quebec",
+    "lat": 45.6834,
+    "lon": -73.7825,
+    "population": 21791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bon Accord",
+    "region": "Alberta",
+    "lat": 53.8334,
+    "lon": -113.4187,
+    "population": 21786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanover",
+    "region": "Ontario",
+    "lat": 44.1501,
+    "lon": -81.033,
+    "population": 21755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belleville",
+    "region": "Ontario",
+    "lat": 44.1668,
+    "lon": -77.3828,
+    "population": 21739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rougemont",
+    "region": "Quebec",
+    "lat": 45.4334,
+    "lon": -73.0491,
+    "population": 21681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rimouski",
+    "region": "Quebec",
+    "lat": 48.4488,
+    "lon": -68.524,
+    "population": 21675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanigan",
+    "region": "Saskatchewan",
+    "lat": 51.8501,
+    "lon": -105.0344,
+    "population": 21660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Madeleine",
+    "region": "Quebec",
+    "lat": 45.6001,
+    "lon": -73.0991,
+    "population": 21659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Stanley",
+    "region": "Ontario",
+    "lat": 42.6668,
+    "lon": -81.2164,
+    "population": 21638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalmeny",
+    "region": "Saskatchewan",
+    "lat": 52.3334,
+    "lon": -106.7679,
+    "population": 21615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manning",
+    "region": "Alberta",
+    "lat": 56.9168,
+    "lon": -117.6195,
+    "population": 21365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nipissing District",
+    "region": "Ontario",
+    "lat": 46.0001,
+    "lon": -78.9996,
+    "population": 21251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glencoe",
+    "region": "Ontario",
+    "lat": 42.7501,
+    "lon": -81.7165,
+    "population": 21228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banff",
+    "region": "Alberta",
+    "lat": 51.1762,
+    "lon": -115.5698,
+    "population": 21212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danville",
+    "region": "Quebec",
+    "lat": 45.7834,
+    "lon": -72.0158,
+    "population": 21131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constance Bay",
+    "region": "Ontario",
+    "lat": 45.5001,
+    "lon": -76.0827,
+    "population": 21106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longueuil",
+    "region": "Quebec",
+    "lat": 45.5312,
+    "lon": -73.5181,
+    "population": 21078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sydney Mines",
+    "region": "Nova Scotia",
+    "lat": 46.2367,
+    "lon": -60.2177,
+    "population": 20971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Métabetchouan",
+    "region": "Quebec",
+    "lat": 48.3668,
+    "lon": -72.0158,
+    "population": 20777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amqui",
+    "region": "Quebec",
+    "lat": 48.4638,
+    "lon": -67.4313,
+    "population": 20741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Little Current",
+    "region": "Ontario",
+    "lat": 45.9793,
+    "lon": -81.9248,
+    "population": 20708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wendover",
+    "region": "Ontario",
+    "lat": 45.5727,
+    "lon": -75.1276,
+    "population": 20672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Frances",
+    "region": "Ontario",
+    "lat": 48.6167,
+    "lon": -93.4003,
+    "population": 20608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Anthony",
+    "region": "Newfoundland and Labrador",
+    "lat": 51.3704,
+    "lon": -55.5974,
+    "population": 20605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Napierville",
+    "region": "Quebec",
+    "lat": 45.1865,
+    "lon": -73.4047,
+    "population": 20562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joliette",
+    "region": "Quebec",
+    "lat": 46.0164,
+    "lon": -73.4236,
+    "population": 20545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carstairs",
+    "region": "Alberta",
+    "lat": 51.5668,
+    "lon": -114.102,
+    "population": 20385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daveluyville",
+    "region": "Quebec",
+    "lat": 46.2001,
+    "lon": -72.1324,
+    "population": 20382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Victor",
+    "region": "Quebec",
+    "lat": 45.6112,
+    "lon": -73.5153,
+    "population": 20373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosemère",
+    "region": "Quebec",
+    "lat": 45.6334,
+    "lon": -73.7992,
+    "population": 20312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uxbridge",
+    "region": "Ontario",
+    "lat": 44.1001,
+    "lon": -79.1163,
+    "population": 20296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martensville",
+    "region": "Saskatchewan",
+    "lat": 52.2834,
+    "lon": -106.6679,
+    "population": 20226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maple Ridge",
+    "region": "British Columbia",
+    "lat": 49.2194,
+    "lon": -122.6019,
+    "population": 20209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Val-des-Monts",
+    "region": "Quebec",
+    "lat": 45.6501,
+    "lon": -75.666,
+    "population": 20197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Regional Municipality of Waterloo",
+    "region": "Ontario",
+    "lat": 43.5001,
+    "lon": -80.4997,
+    "population": 20185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Carlisle",
+    "region": "Quebec",
+    "lat": 48.0096,
+    "lon": -65.3362,
+    "population": 20125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beloeil",
+    "region": "Quebec",
+    "lat": 45.5684,
+    "lon": -73.2057,
+    "population": 20121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Central Coast Regional District",
+    "region": "British Columbia",
+    "lat": 52.1664,
+    "lon": -127.0032,
+    "population": 20015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Basile-le-Grand",
+    "region": "Quebec",
+    "lat": 45.5334,
+    "lon": -73.2825,
+    "population": 19975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingersoll",
+    "region": "Ontario",
+    "lat": 43.0334,
+    "lon": -80.883,
+    "population": 19876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hudson",
+    "region": "Quebec",
+    "lat": 45.4501,
+    "lon": -74.1492,
+    "population": 19785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterloo",
+    "region": "Quebec",
+    "lat": 45.3501,
+    "lon": -72.5158,
+    "population": 19778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pointe-Calumet",
+    "region": "Quebec",
+    "lat": 45.5001,
+    "lon": -73.9659,
+    "population": 19714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Falls-Windsor",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.9332,
+    "lon": -55.6649,
+    "population": 19685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morris",
+    "region": "Manitoba",
+    "lat": 49.355,
+    "lon": -97.3657,
+    "population": 19676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kawartha Lakes",
+    "region": "Ontario",
+    "lat": 44.5834,
+    "lon": -78.8329,
+    "population": 19673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tofino",
+    "region": "British Columbia",
+    "lat": 49.1531,
+    "lon": -125.9074,
+    "population": 19605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eskasoni 3",
+    "region": "Nova Scotia",
+    "lat": 45.9452,
+    "lon": -60.6162,
+    "population": 19573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brossard",
+    "region": "Quebec",
+    "lat": 45.4501,
+    "lon": -73.4658,
+    "population": 19557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rockwood",
+    "region": "Ontario",
+    "lat": 43.619,
+    "lon": -80.1444,
+    "population": 19556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ville-Marie",
+    "region": "Quebec",
+    "lat": 47.3334,
+    "lon": -79.433,
+    "population": 19517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ridgetown",
+    "region": "Ontario",
+    "lat": 42.4334,
+    "lon": -81.8998,
+    "population": 19497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L'Assomption",
+    "region": "Quebec",
+    "lat": 45.8232,
+    "lon": -73.4294,
+    "population": 19482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrière",
+    "region": "British Columbia",
+    "lat": 51.1831,
+    "lon": -120.1192,
+    "population": 19385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Brydges",
+    "region": "Ontario",
+    "lat": 42.9001,
+    "lon": -81.4831,
+    "population": 19354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Innisfil",
+    "region": "Ontario",
+    "lat": 44.3001,
+    "lon": -79.6496,
+    "population": 19246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Raphaël",
+    "region": "Quebec",
+    "lat": 46.2501,
+    "lon": -76.0161,
+    "population": 19226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucan",
+    "region": "Ontario",
+    "lat": 43.1834,
+    "lon": -81.3998,
+    "population": 19133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arbutus Ridge",
+    "region": "British Columbia",
+    "lat": 49.2497,
+    "lon": -123.1693,
+    "population": 19123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deer Lake",
+    "region": "Newfoundland and Labrador",
+    "lat": 49.1667,
+    "lon": -57.4316,
+    "population": 19105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Courtenay",
+    "region": "British Columbia",
+    "lat": 49.6866,
+    "lon": -124.9936,
+    "population": 19102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amigo Beach",
+    "region": "Ontario",
+    "lat": 44.7001,
+    "lon": -79.3996,
+    "population": 19077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chute-aux-Outardes",
+    "region": "Quebec",
+    "lat": 49.1168,
+    "lon": -68.399,
+    "population": 19074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deloraine",
+    "region": "Manitoba",
+    "lat": 49.1908,
+    "lon": -100.4948,
+    "population": 19051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middleton",
+    "region": "Nova Scotia",
+    "lat": 44.9428,
+    "lon": -65.0702,
+    "population": 19050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midland",
+    "region": "Ontario",
+    "lat": 44.7501,
+    "lon": -79.883,
+    "population": 19039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amos",
+    "region": "Quebec",
+    "lat": 48.5669,
+    "lon": -78.1162,
+    "population": 19026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deux-Montagnes",
+    "region": "Quebec",
+    "lat": 45.5346,
+    "lon": -73.9017,
+    "population": 19006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lions Bay",
+    "region": "British Columbia",
+    "lat": 49.4522,
+    "lon": -123.2376,
+    "population": 18982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greenwood",
+    "region": "Nova Scotia",
+    "lat": 44.9741,
+    "lon": -64.9317,
+    "population": 18907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noonan",
+    "region": "New Brunswick",
+    "lat": 45.9668,
+    "lon": -66.5322,
+    "population": 18898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sept-Îles",
+    "region": "Quebec",
+    "lat": 50.2001,
+    "lon": -66.3821,
+    "population": 18843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estevan",
+    "region": "Saskatchewan",
+    "lat": 49.1334,
+    "lon": -102.9842,
+    "population": 18801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newmarket",
+    "region": "Ontario",
+    "lat": 44.0501,
+    "lon": -79.4663,
+    "population": 18705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thunder Bay",
+    "region": "Ontario",
+    "lat": 48.382,
+    "lon": -89.2502,
+    "population": 18693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Royston",
+    "region": "British Columbia",
+    "lat": 49.647,
+    "lon": -124.9467,
+    "population": 18588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivière-Rouge",
+    "region": "Quebec",
+    "lat": 46.4168,
+    "lon": -74.866,
+    "population": 18540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salaberry-de-Valleyfield",
+    "region": "Quebec",
+    "lat": 45.2501,
+    "lon": -74.1325,
+    "population": 18527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkland",
+    "region": "Quebec",
+    "lat": 45.4501,
+    "lon": -73.8659,
+    "population": 18499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wynyard",
+    "region": "Saskatchewan",
+    "lat": 51.7667,
+    "lon": -104.1844,
+    "population": 18490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Val-Morin",
+    "region": "Quebec",
+    "lat": 46.0001,
+    "lon": -74.1825,
+    "population": 18477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Perth",
+    "region": "Ontario",
+    "lat": 43.7251,
+    "lon": -80.9672,
+    "population": 18476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Côme-Linière",
+    "region": "Quebec",
+    "lat": 46.0668,
+    "lon": -70.5157,
+    "population": 18458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notre-Dame-de-Grâce",
+    "region": "Quebec",
+    "lat": 45.4768,
+    "lon": -73.6143,
+    "population": 18328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ormstown",
+    "region": "Quebec",
+    "lat": 45.1334,
+    "lon": -73.9992,
+    "population": 18292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richibucto",
+    "region": "New Brunswick",
+    "lat": 46.6807,
+    "lon": -64.8804,
+    "population": 18277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Botwood",
+    "region": "Newfoundland and Labrador",
+    "lat": 49.1499,
+    "lon": -55.3482,
+    "population": 18264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peace River",
+    "region": "Alberta",
+    "lat": 56.2371,
+    "lon": -117.2918,
+    "population": 18247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madoc",
+    "region": "Ontario",
+    "lat": 44.5084,
+    "lon": -77.4745,
+    "population": 18230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labrador City",
+    "region": "Newfoundland and Labrador",
+    "lat": 52.9463,
+    "lon": -66.9114,
+    "population": 18220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Headingley",
+    "region": "Manitoba",
+    "lat": 49.8753,
+    "lon": -97.409,
+    "population": 18156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catalina",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.5166,
+    "lon": -53.0814,
+    "population": 18155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wetaskiwin",
+    "region": "Alberta",
+    "lat": 52.9668,
+    "lon": -113.3687,
+    "population": 18139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jonquière",
+    "region": "Quebec",
+    "lat": 48.4165,
+    "lon": -71.2488,
+    "population": 18115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crossfield",
+    "region": "Alberta",
+    "lat": 51.4334,
+    "lon": -114.0353,
+    "population": 18105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berwick",
+    "region": "Nova Scotia",
+    "lat": 45.0502,
+    "lon": -64.7321,
+    "population": 18046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Rémi-de-Tingwick",
+    "region": "Quebec",
+    "lat": 45.8668,
+    "lon": -71.8158,
+    "population": 18046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armstrong",
+    "region": "British Columbia",
+    "lat": 50.4498,
+    "lon": -119.2023,
+    "population": 18016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Julienne",
+    "region": "Quebec",
+    "lat": 45.9668,
+    "lon": -73.7159,
+    "population": 17994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrhead",
+    "region": "Alberta",
+    "lat": 54.1335,
+    "lon": -114.4021,
+    "population": 17902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aurora",
+    "region": "Ontario",
+    "lat": 44.0001,
+    "lon": -79.4663,
+    "population": 17818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port-Cartier",
+    "region": "Quebec",
+    "lat": 50.0334,
+    "lon": -66.8654,
+    "population": 17805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sydney",
+    "region": "Nova Scotia",
+    "lat": 46.1351,
+    "lon": -60.1831,
+    "population": 17725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haines Junction",
+    "region": "Yukon",
+    "lat": 60.7522,
+    "lon": -137.5108,
+    "population": 17688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac-Brome",
+    "region": "Quebec",
+    "lat": 45.2168,
+    "lon": -72.5158,
+    "population": 17634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fraser Valley Regional District",
+    "region": "British Columbia",
+    "lat": 49.583,
+    "lon": -121.8359,
+    "population": 17606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manawan",
+    "region": "Quebec",
+    "lat": 47.2203,
+    "lon": -74.3861,
+    "population": 17557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lloydminster",
+    "region": "Alberta",
+    "lat": 53.2724,
+    "lon": -110.0226,
+    "population": 17522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Forks",
+    "region": "British Columbia",
+    "lat": 49.0331,
+    "lon": -118.4356,
+    "population": 17511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fundy Bay",
+    "region": "New Brunswick",
+    "lat": 44.741,
+    "lon": -66.7604,
+    "population": 17465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prévost",
+    "region": "Quebec",
+    "lat": 45.8668,
+    "lon": -74.0825,
+    "population": 17459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Prairie",
+    "region": "Quebec",
+    "lat": 45.4168,
+    "lon": -73.4992,
+    "population": 17454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aylmer",
+    "region": "Ontario",
+    "lat": 42.7668,
+    "lon": -80.983,
+    "population": 17417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedmont",
+    "region": "Quebec",
+    "lat": 45.9001,
+    "lon": -74.1325,
+    "population": 17393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rock Forest",
+    "region": "Quebec",
+    "lat": 45.357,
+    "lon": -71.9968,
+    "population": 17392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonnyville",
+    "region": "Alberta",
+    "lat": 54.2668,
+    "lon": -110.7351,
+    "population": 17388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sussex",
+    "region": "New Brunswick",
+    "lat": 45.7227,
+    "lon": -65.5066,
+    "population": 17384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Picture Butte",
+    "region": "Alberta",
+    "lat": 49.8833,
+    "lon": -112.7852,
+    "population": 17316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thorold",
+    "region": "Ontario",
+    "lat": 43.1168,
+    "lon": -79.1996,
+    "population": 17264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Behchokǫ̀",
+    "region": "Northwest Territories",
+    "lat": 62.8025,
+    "lon": -116.0464,
+    "population": 17245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cobourg",
+    "region": "Ontario",
+    "lat": 43.9598,
+    "lon": -78.1651,
+    "population": 17233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salt Spring Island",
+    "region": "British Columbia",
+    "lat": 48.8185,
+    "lon": -123.4906,
+    "population": 17218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Côte-Saint-Luc",
+    "region": "Quebec",
+    "lat": 45.4654,
+    "lon": -73.6659,
+    "population": 17212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Hyacinthe",
+    "region": "Quebec",
+    "lat": 45.6308,
+    "lon": -72.957,
+    "population": 17196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "York",
+    "region": "Ontario",
+    "lat": 44.0001,
+    "lon": -79.4663,
+    "population": 17191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Two Hills",
+    "region": "Alberta",
+    "lat": 53.7169,
+    "lon": -111.7518,
+    "population": 17103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bay St. George South",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.2278,
+    "lon": -58.8416,
+    "population": 17099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larkspur",
+    "region": "Alberta",
+    "lat": 53.4794,
+    "lon": -113.3814,
+    "population": 16977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mont-Royal",
+    "region": "Quebec",
+    "lat": 45.5168,
+    "lon": -73.6492,
+    "population": 16952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutton",
+    "region": "Quebec",
+    "lat": 45.1001,
+    "lon": -72.6158,
+    "population": 16939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burnaby",
+    "region": "British Columbia",
+    "lat": 49.2664,
+    "lon": -122.9526,
+    "population": 16923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumby",
+    "region": "British Columbia",
+    "lat": 50.2498,
+    "lon": -118.969,
+    "population": 16922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maskinongé",
+    "region": "Quebec",
+    "lat": 46.2286,
+    "lon": -73.0192,
+    "population": 16902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melfort",
+    "region": "Saskatchewan",
+    "lat": 52.8667,
+    "lon": -104.6177,
+    "population": 16896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerrobert",
+    "region": "Saskatchewan",
+    "lat": 51.9168,
+    "lon": -109.1348,
+    "population": 16894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Regional District of Alberni-Clayoquot",
+    "region": "British Columbia",
+    "lat": 49.2496,
+    "lon": -125.3362,
+    "population": 16889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Russell",
+    "region": "Ontario",
+    "lat": 45.2501,
+    "lon": -75.366,
+    "population": 16854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Summerland",
+    "region": "British Columbia",
+    "lat": 49.5998,
+    "lon": -119.6691,
+    "population": 16799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waswanipi",
+    "region": "Quebec",
+    "lat": 49.7335,
+    "lon": -76.166,
+    "population": 16775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Rémi",
+    "region": "Quebec",
+    "lat": 45.2668,
+    "lon": -73.6159,
+    "population": 16766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Millbrook",
+    "region": "Ontario",
+    "lat": 44.1501,
+    "lon": -78.4495,
+    "population": 16737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Sarre",
+    "region": "Quebec",
+    "lat": 48.8002,
+    "lon": -79.1996,
+    "population": 16628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linière",
+    "region": "Quebec",
+    "lat": 46.0001,
+    "lon": -70.4157,
+    "population": 16461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tweed",
+    "region": "Ontario",
+    "lat": 44.4751,
+    "lon": -77.3162,
+    "population": 16443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L'Île-Perrot",
+    "region": "Quebec",
+    "lat": 45.3834,
+    "lon": -73.9492,
+    "population": 16412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Killarney",
+    "region": "Manitoba",
+    "lat": 49.1833,
+    "lon": -99.6636,
+    "population": 16379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carleton-sur-Mer",
+    "region": "Quebec",
+    "lat": 48.1075,
+    "lon": -66.128,
+    "population": 16279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Édouard",
+    "region": "Quebec",
+    "lat": 45.2334,
+    "lon": -73.5159,
+    "population": 16279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lévis",
+    "region": "Quebec",
+    "lat": 46.8033,
+    "lon": -71.1779,
+    "population": 16265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boisbriand",
+    "region": "Quebec",
+    "lat": 45.6168,
+    "lon": -73.8325,
+    "population": 16249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Erie",
+    "region": "Ontario",
+    "lat": 42.9001,
+    "lon": -78.9329,
+    "population": 16209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hawkesbury",
+    "region": "Ontario",
+    "lat": 45.6001,
+    "lon": -74.6159,
+    "population": 16172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smithers",
+    "region": "British Columbia",
+    "lat": 54.7804,
+    "lon": -127.1743,
+    "population": 16083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Louiseville",
+    "region": "Quebec",
+    "lat": 46.2559,
+    "lon": -72.9415,
+    "population": 16064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greater Sudbury",
+    "region": "Ontario",
+    "lat": 46.49,
+    "lon": -80.99,
+    "population": 15908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac La Biche",
+    "region": "Alberta",
+    "lat": 54.7669,
+    "lon": -111.9686,
+    "population": 15897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binbrook",
+    "region": "Ontario",
+    "lat": 43.1213,
+    "lon": -79.811,
+    "population": 15859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delaware",
+    "region": "Ontario",
+    "lat": 42.9168,
+    "lon": -81.4165,
+    "population": 15819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camlachie",
+    "region": "Ontario",
+    "lat": 43.036,
+    "lon": -82.1616,
+    "population": 15773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lake Echo",
+    "region": "Nova Scotia",
+    "lat": 44.7334,
+    "lon": -63.382,
+    "population": 15725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Rowan",
+    "region": "Ontario",
+    "lat": 42.6168,
+    "lon": -80.4664,
+    "population": 15725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metchosin",
+    "region": "British Columbia",
+    "lat": 48.3829,
+    "lon": -123.5359,
+    "population": 15706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cornwall",
+    "region": "Ontario",
+    "lat": 45.0181,
+    "lon": -74.7281,
+    "population": 15682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nipawin",
+    "region": "Saskatchewan",
+    "lat": 53.3668,
+    "lon": -104.0009,
+    "population": 15681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yamachiche",
+    "region": "Quebec",
+    "lat": 46.2668,
+    "lon": -72.8324,
+    "population": 15656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maliotenam",
+    "region": "Quebec",
+    "lat": 50.2112,
+    "lon": -66.1816,
+    "population": 15641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Val-David",
+    "region": "Quebec",
+    "lat": 46.0334,
+    "lon": -74.2159,
+    "population": 15616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walnut Grove",
+    "region": "British Columbia",
+    "lat": 49.1647,
+    "lon": -122.6404,
+    "population": 15575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thompson",
+    "region": "Manitoba",
+    "lat": 55.7435,
+    "lon": -97.8558,
+    "population": 15573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paisley",
+    "region": "Ontario",
+    "lat": 44.3064,
+    "lon": -81.2726,
+    "population": 15526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond",
+    "region": "Ontario",
+    "lat": 45.1834,
+    "lon": -75.8327,
+    "population": 15515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coteau-du-Lac",
+    "region": "Quebec",
+    "lat": 45.3001,
+    "lon": -74.1825,
+    "population": 15500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Collingwood",
+    "region": "Ontario",
+    "lat": 44.4834,
+    "lon": -80.2164,
+    "population": 15493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chase",
+    "region": "British Columbia",
+    "lat": 50.8165,
+    "lon": -119.6857,
+    "population": 15462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falher",
+    "region": "Alberta",
+    "lat": 55.7334,
+    "lon": -117.2026,
+    "population": 15441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Preeceville",
+    "region": "Saskatchewan",
+    "lat": 51.95,
+    "lon": -102.6677,
+    "population": 15418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corner Brook",
+    "region": "Newfoundland and Labrador",
+    "lat": 48.95,
+    "lon": -57.952,
+    "population": 15401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Etobicoke",
+    "region": "Ontario",
+    "lat": 43.6542,
+    "lon": -79.5671,
+    "population": 15336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terrasse-des-Pins",
+    "region": "Quebec",
+    "lat": 45.8645,
+    "lon": -74.0663,
+    "population": 15268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portneuf",
+    "region": "Quebec",
+    "lat": 46.6906,
+    "lon": -71.8901,
+    "population": 15198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fox Creek",
+    "region": "Alberta",
+    "lat": 54.4001,
+    "lon": -116.8024,
+    "population": 15192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hope",
+    "region": "British Columbia",
+    "lat": 49.383,
+    "lon": -121.4414,
+    "population": 15188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tofield",
+    "region": "Alberta",
+    "lat": 53.3668,
+    "lon": -112.6686,
+    "population": 15158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cookstown",
+    "region": "Ontario",
+    "lat": 44.1834,
+    "lon": -79.6996,
+    "population": 15156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magrath",
+    "region": "Alberta",
+    "lat": 49.4167,
+    "lon": -112.8686,
+    "population": 15127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Westlock",
+    "region": "Alberta",
+    "lat": 54.1502,
+    "lon": -113.8688,
+    "population": 15121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cold Lake",
+    "region": "Alberta",
+    "lat": 54.4652,
+    "lon": -110.1815,
+    "population": 15116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leamington",
+    "region": "Ontario",
+    "lat": 42.0501,
+    "lon": -82.5998,
+    "population": 15083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shelburne",
+    "region": "Ontario",
+    "lat": 44.0787,
+    "lon": -80.2041,
+    "population": 15058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. George",
+    "region": "Ontario",
+    "lat": 43.245,
+    "lon": -80.2514,
+    "population": 15046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terrace",
+    "region": "British Columbia",
+    "lat": 54.5163,
+    "lon": -128.6035,
+    "population": 14946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assiniboia",
+    "region": "Saskatchewan",
+    "lat": 49.6334,
+    "lon": -105.9845,
+    "population": 14920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindsay",
+    "region": "Ontario",
+    "lat": 44.3501,
+    "lon": -78.7329,
+    "population": 14916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moose Lake",
+    "region": "Manitoba",
+    "lat": 49.2056,
+    "lon": -95.3063,
+    "population": 14779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawson Creek",
+    "region": "British Columbia",
+    "lat": 55.7598,
+    "lon": -120.2403,
+    "population": 14742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bracebridge",
+    "region": "Ontario",
+    "lat": 45.0334,
+    "lon": -79.3163,
+    "population": 14735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granby",
+    "region": "Quebec",
+    "lat": 45.4001,
+    "lon": -72.7324,
+    "population": 14713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metabetchouan-Lac-a-la-Croix",
+    "region": "Quebec",
+    "lat": 48.41,
+    "lon": -71.78,
+    "population": 14678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coaticook",
+    "region": "Quebec",
+    "lat": 45.1334,
+    "lon": -71.7991,
+    "population": 14666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forestville",
+    "region": "Quebec",
+    "lat": 48.7381,
+    "lon": -69.0848,
+    "population": 14656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lutes Mountain",
+    "region": "New Brunswick",
+    "lat": 46.1354,
+    "lon": -64.905,
+    "population": 14558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Éphrem-de-Beauce",
+    "region": "Quebec",
+    "lat": 46.0668,
+    "lon": -70.949,
+    "population": 14538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Pender Harbour",
+    "region": "British Columbia",
+    "lat": 49.622,
+    "lon": -124.0248,
+    "population": 14538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salmon Arm",
+    "region": "British Columbia",
+    "lat": 50.6998,
+    "lon": -119.3024,
+    "population": 14497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petawawa",
+    "region": "Ontario",
+    "lat": 45.8945,
+    "lon": -77.2801,
+    "population": 14465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whitecourt",
+    "region": "Alberta",
+    "lat": 54.1501,
+    "lon": -115.6855,
+    "population": 14456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abbotsford",
+    "region": "British Columbia",
+    "lat": 49.058,
+    "lon": -122.2526,
+    "population": 14391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mascouche",
+    "region": "Quebec",
+    "lat": 45.7497,
+    "lon": -73.5996,
+    "population": 14327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timmins",
+    "region": "Ontario",
+    "lat": 48.4669,
+    "lon": -81.3331,
+    "population": 14322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tisdale",
+    "region": "Saskatchewan",
+    "lat": 52.85,
+    "lon": -104.051,
+    "population": 14246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Claresholm",
+    "region": "Alberta",
+    "lat": 50.0333,
+    "lon": -113.5852,
+    "population": 14217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gatineau",
+    "region": "Quebec",
+    "lat": 45.4772,
+    "lon": -75.7016,
+    "population": 14172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simcoe",
+    "region": "Ontario",
+    "lat": 42.8334,
+    "lon": -80.2997,
+    "population": 14137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ucluelet",
+    "region": "British Columbia",
+    "lat": 48.9415,
+    "lon": -125.5464,
+    "population": 14020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grande Prairie",
+    "region": "Alberta",
+    "lat": 55.1667,
+    "lon": -118.8027,
+    "population": 13994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakefield",
+    "region": "Ontario",
+    "lat": 44.4334,
+    "lon": -78.2662,
+    "population": 13987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Denis-sur-Richelieu",
+    "region": "Quebec",
+    "lat": 45.7834,
+    "lon": -73.1492,
+    "population": 13942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Hope",
+    "region": "Ontario",
+    "lat": 44.0168,
+    "lon": -78.3995,
+    "population": 13908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ponoka",
+    "region": "Alberta",
+    "lat": 52.6768,
+    "lon": -113.5815,
+    "population": 13796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sorel-Tracy",
+    "region": "Quebec",
+    "lat": 46.0418,
+    "lon": -73.1136,
+    "population": 13767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Prime",
+    "region": "Quebec",
+    "lat": 48.5834,
+    "lon": -72.3324,
+    "population": 13749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Wellington",
+    "region": "British Columbia",
+    "lat": 49.1739,
+    "lon": -124.0174,
+    "population": 13708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Catharines",
+    "region": "Ontario",
+    "lat": 43.1713,
+    "lon": -79.2427,
+    "population": 13594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Henri",
+    "region": "Quebec",
+    "lat": 46.6931,
+    "lon": -71.0693,
+    "population": 13541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Springhill",
+    "region": "Nova Scotia",
+    "lat": 45.6501,
+    "lon": -64.0487,
+    "population": 13535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Invermere",
+    "region": "British Columbia",
+    "lat": 50.5167,
+    "lon": -116.0354,
+    "population": 13472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Hawkesbury",
+    "region": "Nova Scotia",
+    "lat": 45.6168,
+    "lon": -61.3485,
+    "population": 13433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manitoulin District",
+    "region": "Ontario",
+    "lat": 45.7501,
+    "lon": -82.4998,
+    "population": 13405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Anselme",
+    "region": "Quebec",
+    "lat": 46.6292,
+    "lon": -70.9734,
+    "population": 13402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toronto",
+    "region": "Ontario",
+    "lat": 43.7001,
+    "lon": -79.4163,
+    "population": 13395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agassiz",
+    "region": "British Columbia",
+    "lat": 49.233,
+    "lon": -121.7693,
+    "population": 13275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Colborne",
+    "region": "Ontario",
+    "lat": 42.9001,
+    "lon": -79.2329,
+    "population": 13249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hampton",
+    "region": "New Brunswick",
+    "lat": 45.5288,
+    "lon": -65.8535,
+    "population": 13247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Starlight Village",
+    "region": "New Brunswick",
+    "lat": 45.8831,
+    "lon": -66.769,
+    "population": 13170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ancaster",
+    "region": "Ontario",
+    "lat": 43.2181,
+    "lon": -79.9872,
+    "population": 13165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cookshire",
+    "region": "Quebec",
+    "lat": 45.4154,
+    "lon": -71.6296,
+    "population": 13123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toronto county",
+    "region": "Ontario",
+    "lat": 43.6966,
+    "lon": -79.4291,
+    "population": 12924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ile des Chênes",
+    "region": "Manitoba",
+    "lat": 49.7106,
+    "lon": -96.9889,
+    "population": 12894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelowna",
+    "region": "British Columbia",
+    "lat": 49.8831,
+    "lon": -119.4857,
+    "population": 12790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belmont",
+    "region": "Ontario",
+    "lat": 42.8834,
+    "lon": -81.083,
+    "population": 12786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stony Plain",
+    "region": "Alberta",
+    "lat": 53.5334,
+    "lon": -114.002,
+    "population": 12762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Six Mile",
+    "region": "British Columbia",
+    "lat": 48.4577,
+    "lon": -123.4609,
+    "population": 12734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wabana",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.6332,
+    "lon": -52.9481,
+    "population": 12732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivers",
+    "region": "Manitoba",
+    "lat": 50.0308,
+    "lon": -100.2403,
+    "population": 12689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halifax",
+    "region": "Nova Scotia",
+    "lat": 44.6453,
+    "lon": -63.5724,
+    "population": 12679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Lin-Laurentides",
+    "region": "Quebec",
+    "lat": 45.8501,
+    "lon": -73.7659,
+    "population": 12669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beausejour",
+    "region": "Manitoba",
+    "lat": 50.0622,
+    "lon": -96.5167,
+    "population": 12547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oliver",
+    "region": "British Columbia",
+    "lat": 49.1831,
+    "lon": -119.5524,
+    "population": 12535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "High Level",
+    "region": "Alberta",
+    "lat": 58.5169,
+    "lon": -117.136,
+    "population": 12519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lewisporte",
+    "region": "Newfoundland and Labrador",
+    "lat": 49.2499,
+    "lon": -55.0482,
+    "population": 12477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Thérèse",
+    "region": "Quebec",
+    "lat": 45.6392,
+    "lon": -73.8276,
+    "population": 12451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chibougamau",
+    "region": "Quebec",
+    "lat": 49.9168,
+    "lon": -74.3659,
+    "population": 12399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Maryland",
+    "region": "New Brunswick",
+    "lat": 45.8793,
+    "lon": -66.6683,
+    "population": 12357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Attawapiskat",
+    "region": "Ontario",
+    "lat": 52.9277,
+    "lon": -82.4167,
+    "population": 12249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Les Cèdres",
+    "region": "Quebec",
+    "lat": 45.3001,
+    "lon": -74.0492,
+    "population": 12205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meadow Lake",
+    "region": "Saskatchewan",
+    "lat": 54.1335,
+    "lon": -108.4347,
+    "population": 12200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Catherine",
+    "region": "Quebec",
+    "lat": 45.4001,
+    "lon": -73.5825,
+    "population": 12193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bowen Island",
+    "region": "British Columbia",
+    "lat": 49.3847,
+    "lon": -123.3362,
+    "population": 12160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notre-Dame-des-Prairies",
+    "region": "Quebec",
+    "lat": 46.0501,
+    "lon": -73.4325,
+    "population": 12098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pemberton",
+    "region": "British Columbia",
+    "lat": 50.3164,
+    "lon": -122.8027,
+    "population": 12080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pont-Rouge",
+    "region": "Quebec",
+    "lat": 46.7547,
+    "lon": -71.6957,
+    "population": 12045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rainy River District",
+    "region": "Ontario",
+    "lat": 48.4998,
+    "lon": -92.5003,
+    "population": 12026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New-Richmond",
+    "region": "Quebec",
+    "lat": 48.1606,
+    "lon": -65.8582,
+    "population": 11987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Regional District of Central Okanagan",
+    "region": "British Columbia",
+    "lat": 49.9998,
+    "lon": -119.4191,
+    "population": 11972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Château-Richer",
+    "region": "Quebec",
+    "lat": 46.9603,
+    "lon": -71.0322,
+    "population": 11894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamloops",
+    "region": "British Columbia",
+    "lat": 50.6665,
+    "lon": -120.3192,
+    "population": 11847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cowichan Bay",
+    "region": "British Columbia",
+    "lat": 48.7337,
+    "lon": -123.6174,
+    "population": 11818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notre-Dame-du-Mont-Carmel",
+    "region": "Quebec",
+    "lat": 46.0168,
+    "lon": -75.0826,
+    "population": 11818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Constant",
+    "region": "Quebec",
+    "lat": 45.3668,
+    "lon": -73.5659,
+    "population": 11805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tavistock",
+    "region": "Ontario",
+    "lat": 43.3168,
+    "lon": -80.833,
+    "population": 11805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Mathieu",
+    "region": "Quebec",
+    "lat": 45.3168,
+    "lon": -73.5159,
+    "population": 11782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac-Simon",
+    "region": "Quebec",
+    "lat": 46.157,
+    "lon": -74.7413,
+    "population": 11747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sault Ste. Marie",
+    "region": "Ontario",
+    "lat": 46.5168,
+    "lon": -84.3333,
+    "population": 11742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Conception Bay South",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.4999,
+    "lon": -52.9981,
+    "population": 11678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matane",
+    "region": "Quebec",
+    "lat": 48.8286,
+    "lon": -67.522,
+    "population": 11606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Gabriel",
+    "region": "Quebec",
+    "lat": 46.3001,
+    "lon": -73.3825,
+    "population": 11604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carlyle",
+    "region": "Saskatchewan",
+    "lat": 49.6333,
+    "lon": -102.2677,
+    "population": 11590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Battleford",
+    "region": "Saskatchewan",
+    "lat": 52.7797,
+    "lon": -108.2967,
+    "population": 11548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harbour Breton",
+    "region": "Newfoundland and Labrador",
+    "lat": 47.4832,
+    "lon": -55.7983,
+    "population": 11539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lacolle",
+    "region": "Quebec",
+    "lat": 45.0834,
+    "lon": -73.3658,
+    "population": 11521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rimbey",
+    "region": "Alberta",
+    "lat": 52.6334,
+    "lon": -114.2353,
+    "population": 11484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wasaga Beach",
+    "region": "Ontario",
+    "lat": 44.5168,
+    "lon": -80.0164,
+    "population": 11405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norfolk County",
+    "region": "Ontario",
+    "lat": 42.8334,
+    "lon": -80.383,
+    "population": 11375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallée-Jonction",
+    "region": "Quebec",
+    "lat": 46.3744,
+    "lon": -70.9188,
+    "population": 11344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Springbrook",
+    "region": "Alberta",
+    "lat": 52.1792,
+    "lon": -113.8798,
+    "population": 11322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stettler",
+    "region": "Alberta",
+    "lat": 52.3168,
+    "lon": -112.7186,
+    "population": 11315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Algoma",
+    "region": "Ontario",
+    "lat": 47.8836,
+    "lon": -84.4241,
+    "population": 11299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingsey Falls",
+    "region": "Quebec",
+    "lat": 45.8501,
+    "lon": -72.0658,
+    "population": 11205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glace Bay",
+    "region": "Nova Scotia",
+    "lat": 46.197,
+    "lon": -59.957,
+    "population": 11150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Malbaie",
+    "region": "Quebec",
+    "lat": 47.654,
+    "lon": -70.1527,
+    "population": 11133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Macleod",
+    "region": "Alberta",
+    "lat": 49.7167,
+    "lon": -113.4186,
+    "population": 11085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abitibi-Témiscamingue",
+    "region": "Quebec",
+    "lat": 48.1002,
+    "lon": -77.7828,
+    "population": 11049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cache Creek",
+    "region": "British Columbia",
+    "lat": 50.8101,
+    "lon": -121.3246,
+    "population": 10906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edson",
+    "region": "Alberta",
+    "lat": 53.5834,
+    "lon": -116.4356,
+    "population": 10875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Antoine-de-Tilly",
+    "region": "Quebec",
+    "lat": 46.6635,
+    "lon": -71.5734,
+    "population": 10860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Georges",
+    "region": "Quebec",
+    "lat": 46.1135,
+    "lon": -70.6653,
+    "population": 10831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mildmay",
+    "region": "Ontario",
+    "lat": 44.0501,
+    "lon": -81.1164,
+    "population": 10809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Cyrille-de-Wendover",
+    "region": "Quebec",
+    "lat": 45.9334,
+    "lon": -72.4324,
+    "population": 10788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaudière-Appalaches",
+    "region": "Quebec",
+    "lat": 46.555,
+    "lon": -70.8308,
+    "population": 10714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azilda",
+    "region": "Ontario",
+    "lat": 46.5501,
+    "lon": -81.0998,
+    "population": 10669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carleton Place",
+    "region": "Ontario",
+    "lat": 45.1334,
+    "lon": -76.1494,
+    "population": 10645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provost",
+    "region": "Alberta",
+    "lat": 52.3501,
+    "lon": -110.2683,
+    "population": 10540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coombs",
+    "region": "British Columbia",
+    "lat": 49.2996,
+    "lon": -124.4195,
+    "population": 10536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L'Ancienne-Lorette",
+    "region": "Quebec",
+    "lat": 46.7939,
+    "lon": -71.3519,
+    "population": 10514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Indian Head",
+    "region": "Saskatchewan",
+    "lat": 50.5334,
+    "lon": -103.6677,
+    "population": 10465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limoges",
+    "region": "Ontario",
+    "lat": 45.3334,
+    "lon": -75.2493,
+    "population": 10437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Albert",
+    "region": "Ontario",
+    "lat": 44.1334,
+    "lon": -79.3163,
+    "population": 10398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "High Prairie",
+    "region": "Alberta",
+    "lat": 55.4334,
+    "lon": -116.4858,
+    "population": 10363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Alberni",
+    "region": "British Columbia",
+    "lat": 49.2413,
+    "lon": -124.8028,
+    "population": 10350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meaford",
+    "region": "Ontario",
+    "lat": 44.6073,
+    "lon": -80.6108,
+    "population": 10315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "French Creek",
+    "region": "British Columbia",
+    "lat": 49.3412,
+    "lon": -124.3554,
+    "population": 10312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chestermere",
+    "region": "Alberta",
+    "lat": 51.0334,
+    "lon": -113.8187,
+    "population": 10222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Adolphe-d'Howard",
+    "region": "Quebec",
+    "lat": 45.9668,
+    "lon": -74.3325,
+    "population": 10149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shellbrook",
+    "region": "Saskatchewan",
+    "lat": 53.2168,
+    "lon": -106.4011,
+    "population": 10147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wolfville",
+    "region": "Nova Scotia",
+    "lat": 45.0834,
+    "lon": -64.3655,
+    "population": 10079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mont-Tremblant",
+    "region": "Quebec",
+    "lat": 46.2127,
+    "lon": -74.5844,
+    "population": 10078,
+    "timezone": "UTC"
+  }
+]

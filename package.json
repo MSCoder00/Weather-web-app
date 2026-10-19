@@ -1,0 +1,18 @@
+{
+  "name": "real-time-weather-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aura Weather — Real-Time Live Weather Forecast",
+  "scripts": {
+    "dev": "vite --open",
+    "start": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "country-state-city": "^3.2.1",
+    "flag-icons": "^7.6.0",
+    "sharp": "^0.35.5",
+    "vite": "^6.2.0"
+  }
+}

@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Attapeu",
+    "region": "Attapeu Province",
+    "lat": 14.8107,
+    "lon": 106.8318,
+    "population": 49554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Không",
+    "region": "Champasak Province",
+    "lat": 14.147,
+    "lon": 105.9594,
+    "population": 49505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Atsaphan",
+    "region": "Savannakhet Province",
+    "lat": 16.9474,
+    "lon": 105.4029,
+    "population": 49445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Soukhouma",
+    "region": "Champasak Province",
+    "lat": 14.6256,
+    "lon": 105.6752,
+    "population": 48150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamam",
+    "region": "Sekong Province",
+    "lat": 15.417,
+    "lon": 106.6946,
+    "population": 47683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Songkhon",
+    "region": "Savannakhet Province",
+    "lat": 16.1712,
+    "lon": 105.3073,
+    "population": 47500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ban Houayxay",
+    "region": "Bokeo Province",
+    "lat": 20.27,
+    "lon": 100.4178,
+    "population": 47406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Tônpheung",
+    "region": "Bokeo Province",
+    "lat": 20.5346,
+    "lon": 100.2962,
+    "population": 46660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Alsaphangthong",
+    "region": "Savannakhet Province",
+    "lat": 16.7264,
+    "lon": 105.3933,
+    "population": 46026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Paktha",
+    "region": "Bokeo Province",
+    "lat": 20.0911,
+    "lon": 100.5994,
+    "population": 45987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Xanasômboun",
+    "region": "Champasak Province",
+    "lat": 15.3411,
+    "lon": 105.737,
+    "population": 45692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vangviang",
+    "region": "Vientiane Province",
+    "lat": 18.9235,
+    "lon": 102.4478,
+    "population": 45078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Phônthong",
+    "region": "Champasak Province",
+    "lat": 15.1067,
+    "lon": 105.6489,
+    "population": 44664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Louang Namtha",
+    "region": "Luang Namtha Province",
+    "lat": 21.0042,
+    "lon": 101.4479,
+    "population": 44627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salavan",
+    "region": "Salavan Province",
+    "lat": 15.7165,
+    "lon": 106.4174,
+    "population": 43889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Thapangthong",
+    "region": "Savannakhet Province",
+    "lat": 16.0913,
+    "lon": 105.8104,
+    "population": 43765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Thatèng",
+    "region": "Sekong Province",
+    "lat": 15.4275,
+    "lon": 106.4815,
+    "population": 43713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Khôngxédôn",
+    "region": "Salavan Province",
+    "lat": 15.5463,
+    "lon": 105.7705,
+    "population": 43697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Samouay",
+    "region": "Salavan Province",
+    "lat": 16.3587,
+    "lon": 106.8748,
+    "population": 43236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Samakhixai",
+    "region": "Attapeu Province",
+    "lat": 14.8054,
+    "lon": 106.7816,
+    "population": 42887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Ta-Ôy",
+    "region": "Salavan Province",
+    "lat": 16.0776,
+    "lon": 106.703,
+    "population": 42513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vientiane",
+    "region": "Vientiane Prefecture",
+    "lat": 17.9667,
+    "lon": 102.6,
+    "population": 40824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Toumlan",
+    "region": "Salavan Province",
+    "lat": 16.0224,
+    "lon": 106.2384,
+    "population": 40486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Dakchung",
+    "region": "Sekong Province",
+    "lat": 15.382,
+    "lon": 107.3185,
+    "population": 40084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Pakxong",
+    "region": "Champasak Province",
+    "lat": 15.0981,
+    "lon": 106.434,
+    "population": 39613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Xay",
+    "region": "Oudomxay Province",
+    "lat": 20.6923,
+    "lon": 101.9837,
+    "population": 39037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Mounlapamôk",
+    "region": "Champasak Province",
+    "lat": 14.2892,
+    "lon": 105.5683,
+    "population": 38916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ban Thatèng",
+    "region": "Sekong Province",
+    "lat": 15.4332,
+    "lon": 106.3827,
+    "population": 38856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakxan",
+    "region": "Bolikhamsai Province",
+    "lat": 18.3942,
+    "lon": 103.6611,
+    "population": 37228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Phin",
+    "region": "Savannakhet Province",
+    "lat": 16.4432,
+    "lon": 106.0302,
+    "population": 35525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakxong",
+    "region": "Champasak Province",
+    "lat": 15.1815,
+    "lon": 106.2304,
+    "population": 35023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xam Neua",
+    "region": "Houaphanh Province",
+    "lat": 20.4076,
+    "lon": 104.0656,
+    "population": 34380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Meung",
+    "region": "Bokeo Province",
+    "lat": 20.6759,
+    "lon": 100.5264,
+    "population": 34193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakse",
+    "region": "Champasak Province",
+    "lat": 15.1202,
+    "lon": 105.799,
+    "population": 33745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Phônsavan",
+    "region": "Xiangkhouang Province",
+    "lat": 19.4494,
+    "lon": 103.1917,
+    "population": 31976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thaphalanxay",
+    "region": "Savannakhet Province",
+    "lat": 16.7,
+    "lon": 105.6,
+    "population": 31041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Outhoumphon",
+    "region": "Savannakhet Province",
+    "lat": 16.6667,
+    "lon": 105.05,
+    "population": 30952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Nong",
+    "region": "Savannakhet Province",
+    "lat": 16.3846,
+    "lon": 106.5042,
+    "population": 30443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Vapi",
+    "region": "Salavan Province",
+    "lat": 15.75,
+    "lon": 105.9553,
+    "population": 28607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savannakhet",
+    "region": "Savannakhet Province",
+    "lat": 16.5703,
+    "lon": 104.7622,
+    "population": 28601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Saravan",
+    "region": "Salavan Province",
+    "lat": 15.7159,
+    "lon": 106.3616,
+    "population": 27964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anouvong district",
+    "region": "Xaisomboun Province",
+    "lat": 18.8973,
+    "lon": 103.0927,
+    "population": 27821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Champhon",
+    "region": "Savannakhet Province",
+    "lat": 16.4936,
+    "lon": 105.2202,
+    "population": 26949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xam Nua",
+    "region": "Houaphanh Province",
+    "lat": 20.4164,
+    "lon": 104.045,
+    "population": 26463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luang Namtha",
+    "region": "Luang Namtha Province",
+    "lat": 20.9486,
+    "lon": 101.4019,
+    "population": 25566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Pakxé",
+    "region": "Champasak Province",
+    "lat": 15.1314,
+    "lon": 105.8161,
+    "population": 25546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Vilabouli",
+    "region": "Savannakhet Province",
+    "lat": 16.9407,
+    "lon": 105.9368,
+    "population": 23996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Phouvong",
+    "region": "Attapeu Province",
+    "lat": 14.5682,
+    "lon": 107.0109,
+    "population": 23700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Xayphoothong",
+    "region": "Savannakhet Province",
+    "lat": 16.3737,
+    "lon": 105.0216,
+    "population": 22980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Laman",
+    "region": "Sekong Province",
+    "lat": 15.4127,
+    "lon": 106.8171,
+    "population": 22813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Champasak",
+    "region": "Champasak Province",
+    "lat": 14.892,
+    "lon": 105.8779,
+    "population": 22075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Sanamxai",
+    "region": "Attapeu Province",
+    "lat": 14.7381,
+    "lon": 106.4133,
+    "population": 22053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ban Houakhoua",
+    "region": "Bokeo Province",
+    "lat": 20.2467,
+    "lon": 100.454,
+    "population": 21337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainyabuli",
+    "region": "Sainyabuli Province",
+    "lat": 19.2576,
+    "lon": 101.7103,
+    "population": 20934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Xaibouli",
+    "region": "Savannakhet Province",
+    "lat": 16.9443,
+    "lon": 104.9231,
+    "population": 20631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Lakhonphéng",
+    "region": "Salavan Province",
+    "lat": 15.8331,
+    "lon": 105.5974,
+    "population": 20519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longchaeng",
+    "region": "Xaisomboun Province",
+    "lat": 18.8939,
+    "lon": 103.1427,
+    "population": 19593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Houayxay",
+    "region": "Bokeo Province",
+    "lat": 20.3876,
+    "lon": 100.6269,
+    "population": 19365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Bachiangchaleunsook",
+    "region": "Champasak Province",
+    "lat": 15.2443,
+    "lon": 105.9672,
+    "population": 18984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Longxan",
+    "region": "Xaisomboun Province",
+    "lat": 18.6178,
+    "lon": 102.8808,
+    "population": 17055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Khaleum",
+    "region": "Sekong Province",
+    "lat": 15.7989,
+    "lon": 107.0453,
+    "population": 16858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Pha Oudôm",
+    "region": "Bokeo Province",
+    "lat": 20.1874,
+    "lon": 100.926,
+    "population": 16589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luang Prabang",
+    "region": "Luang Prabang Province",
+    "lat": 19.886,
+    "lon": 102.135,
+    "population": 16419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Xaiséttha",
+    "region": "Attapeu Province",
+    "lat": 14.9059,
+    "lon": 106.9789,
+    "population": 16139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Laongam",
+    "region": "Salavan Province",
+    "lat": 15.4774,
+    "lon": 106.1411,
+    "population": 15872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thakhèk",
+    "region": "Khammouane Province",
+    "lat": 17.4103,
+    "lon": 104.8307,
+    "population": 15811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Thathôm",
+    "region": "Xaisomboun Province",
+    "lat": 19.0013,
+    "lon": 103.6157,
+    "population": 15643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phôngsali",
+    "region": "Phongsaly Province",
+    "lat": 21.6808,
+    "lon": 102.1003,
+    "population": 15530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaysone Phomvihane",
+    "region": "Savannakhet Province",
+    "lat": 16.5494,
+    "lon": 104.8234,
+    "population": 14670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Pathoumphon",
+    "region": "Champasak Province",
+    "lat": 14.6845,
+    "lon": 106.0636,
+    "population": 14395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Champasak",
+    "region": "Champasak Province",
+    "lat": 14.857,
+    "lon": 105.7533,
+    "population": 13851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Thakhèk",
+    "region": "Khammouane Province",
+    "lat": 17.4088,
+    "lon": 104.8264,
+    "population": 13671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ban Nahin",
+    "region": "Bolikhamsai Province",
+    "lat": 18.2425,
+    "lon": 104.2128,
+    "population": 12998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Sanxai",
+    "region": "Attapeu Province",
+    "lat": 15.0294,
+    "lon": 107.2316,
+    "population": 12509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Xônbouli",
+    "region": "Savannakhet Province",
+    "lat": 16.4004,
+    "lon": 105.5739,
+    "population": 11405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muang Phôn-Hông",
+    "region": "Vientiane Province",
+    "lat": 18.4953,
+    "lon": 102.4153,
+    "population": 10500,
+    "timezone": "UTC"
+  }
+]

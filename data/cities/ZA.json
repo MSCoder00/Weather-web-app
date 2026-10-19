@@ -1,0 +1,2514 @@
+[
+  {
+    "name": "John Taolo Gaetsewe District Municipality",
+    "region": "Northern Cape",
+    "lat": -27.0455,
+    "lon": 23.0471,
+    "population": 49878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piet Retief",
+    "region": "Mpumalanga",
+    "lat": -27.0071,
+    "lon": 30.8132,
+    "population": 49446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hermanus",
+    "region": "Western Cape",
+    "lat": -34.4187,
+    "lon": 19.2345,
+    "population": 49436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whittlesea",
+    "region": "Eastern Cape",
+    "lat": -32.1759,
+    "lon": 26.8244,
+    "population": 49371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soweto",
+    "region": "Gauteng",
+    "lat": -26.2678,
+    "lon": 27.8585,
+    "population": 48900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boksburg",
+    "region": "Gauteng",
+    "lat": -26.212,
+    "lon": 28.2596,
+    "population": 48891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Alfred",
+    "region": "Eastern Cape",
+    "lat": -33.586,
+    "lon": 26.8833,
+    "population": 48699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alice",
+    "region": "Eastern Cape",
+    "lat": -32.7875,
+    "lon": 26.8344,
+    "population": 48622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paarl",
+    "region": "Western Cape",
+    "lat": -33.7338,
+    "lon": 18.9752,
+    "population": 48594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marquard",
+    "region": "Free State",
+    "lat": -28.6645,
+    "lon": 27.4305,
+    "population": 48240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahikeng",
+    "region": "North West",
+    "lat": -25.8652,
+    "lon": 25.6442,
+    "population": 47894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riversdale",
+    "region": "Western Cape",
+    "lat": -34.0934,
+    "lon": 21.2572,
+    "population": 47848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frances Baard District Municipality",
+    "region": "Northern Cape",
+    "lat": -28.3,
+    "lon": 24.3819,
+    "population": 47753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cacadu District Municipality",
+    "region": "Eastern Cape",
+    "lat": -33.0658,
+    "lon": 24.7758,
+    "population": 47592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diepsloot",
+    "region": "Gauteng",
+    "lat": -25.9331,
+    "lon": 28.0121,
+    "population": 47584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kathu",
+    "region": "Northern Cape",
+    "lat": -27.6957,
+    "lon": 23.0493,
+    "population": 47557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colesberg",
+    "region": "Northern Cape",
+    "lat": -30.72,
+    "lon": 25.0972,
+    "population": 47411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ga-Rankuwa",
+    "region": "North West",
+    "lat": -25.6169,
+    "lon": 27.9947,
+    "population": 47148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Secunda",
+    "region": "Mpumalanga",
+    "lat": -26.55,
+    "lon": 29.1667,
+    "population": 46823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bothaville",
+    "region": "Free State",
+    "lat": -27.3887,
+    "lon": 26.617,
+    "population": 46687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruisfontein",
+    "region": "Eastern Cape",
+    "lat": -34.0033,
+    "lon": 24.7314,
+    "population": 46596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middelburg",
+    "region": "Eastern Cape",
+    "lat": -31.4929,
+    "lon": 25.0063,
+    "population": 46459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brakpan",
+    "region": "Gauteng",
+    "lat": -26.2366,
+    "lon": 28.3694,
+    "population": 46434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retreat",
+    "region": "Western Cape",
+    "lat": -34.0551,
+    "lon": 18.4762,
+    "population": 46183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ladybrand",
+    "region": "Free State",
+    "lat": -29.1945,
+    "lon": 27.4574,
+    "population": 46060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "uThungulu District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -28.7005,
+    "lon": 31.5153,
+    "population": 46042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tzaneen",
+    "region": "Limpopo",
+    "lat": -23.8332,
+    "lon": 30.1635,
+    "population": 45946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carletonville",
+    "region": "Gauteng",
+    "lat": -26.3609,
+    "lon": 27.3977,
+    "population": 45937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durban",
+    "region": "KwaZulu-Natal",
+    "lat": -29.8579,
+    "lon": 31.0292,
+    "population": 45643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centurion",
+    "region": "Gauteng",
+    "lat": -25.8589,
+    "lon": 28.1858,
+    "population": 45512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "eMkhomazi",
+    "region": "KwaZulu-Natal",
+    "lat": -30.2067,
+    "lon": 30.7978,
+    "population": 45357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East London",
+    "region": "Eastern Cape",
+    "lat": -33.0153,
+    "lon": 27.9116,
+    "population": 45349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Scottburgh",
+    "region": "KwaZulu-Natal",
+    "lat": -30.2867,
+    "lon": 30.7532,
+    "population": 45342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kroonstad",
+    "region": "Free State",
+    "lat": -27.6504,
+    "lon": 27.2349,
+    "population": 45260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phuthaditjhaba",
+    "region": "Free State",
+    "lat": -28.5242,
+    "lon": 28.8158,
+    "population": 45135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saldanha",
+    "region": "Western Cape",
+    "lat": -33.0117,
+    "lon": 17.9442,
+    "population": 44974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "uMkhanyakude District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -27.6224,
+    "lon": 32.3295,
+    "population": 44923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benoni",
+    "region": "Gauteng",
+    "lat": -26.1885,
+    "lon": 28.3208,
+    "population": 44893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delmas",
+    "region": "Mpumalanga",
+    "lat": -26.1466,
+    "lon": 28.6832,
+    "population": 44737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kutloanong",
+    "region": "Free State",
+    "lat": -27.8333,
+    "lon": 26.75,
+    "population": 44734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Driefontein",
+    "region": "Mpumalanga",
+    "lat": -27.0177,
+    "lon": 30.4498,
+    "population": 44729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bethlehem",
+    "region": "Free State",
+    "lat": -28.2308,
+    "lon": 28.3071,
+    "population": 44703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dordrecht",
+    "region": "Eastern Cape",
+    "lat": -31.372,
+    "lon": 27.0488,
+    "population": 44646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fezile Dabi District Municipality",
+    "region": "Free State",
+    "lat": -27.3392,
+    "lon": 27.7193,
+    "population": 44588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Howick",
+    "region": "KwaZulu-Natal",
+    "lat": -29.4779,
+    "lon": 30.2306,
+    "population": 44518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xhariep District Municipality",
+    "region": "Free State",
+    "lat": -29.8431,
+    "lon": 25.8329,
+    "population": 44409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimberley",
+    "region": "Northern Cape",
+    "lat": -28.7323,
+    "lon": 24.7623,
+    "population": 44220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virginia",
+    "region": "Free State",
+    "lat": -28.1039,
+    "lon": 26.8659,
+    "population": 44210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuruman",
+    "region": "Northern Cape",
+    "lat": -27.4524,
+    "lon": 23.4325,
+    "population": 44209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Rand District Municipality",
+    "region": "Gauteng",
+    "lat": -26.2457,
+    "lon": 27.5554,
+    "population": 44100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "City of Cape Town",
+    "region": "Western Cape",
+    "lat": -33.9167,
+    "lon": 18.4167,
+    "population": 43858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grahamstown",
+    "region": "Eastern Cape",
+    "lat": -33.3042,
+    "lon": 26.5328,
+    "population": 43784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hendrina",
+    "region": "Mpumalanga",
+    "lat": -26.1588,
+    "lon": 29.7153,
+    "population": 42956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Springs",
+    "region": "Gauteng",
+    "lat": -26.25,
+    "lon": 28.4,
+    "population": 42887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dr Ruth Segomotsi Mompati District Municipality",
+    "region": "North West",
+    "lat": -26.6377,
+    "lon": 24.2746,
+    "population": 42591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brandvlei",
+    "region": "Northern Cape",
+    "lat": -30.4653,
+    "lon": 20.4866,
+    "population": 42504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zastron",
+    "region": "Free State",
+    "lat": -30.3023,
+    "lon": 27.084,
+    "population": 42450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knysna",
+    "region": "Western Cape",
+    "lat": -34.0363,
+    "lon": 23.0471,
+    "population": 42314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkwood",
+    "region": "Eastern Cape",
+    "lat": -33.3983,
+    "lon": 25.4428,
+    "population": 42252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Overberg District Municipality",
+    "region": "Western Cape",
+    "lat": -34.2613,
+    "lon": 19.9398,
+    "population": 41907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malmesbury",
+    "region": "Western Cape",
+    "lat": -33.4608,
+    "lon": 18.7271,
+    "population": 41853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Volksrust",
+    "region": "Mpumalanga",
+    "lat": -27.3654,
+    "lon": 29.8818,
+    "population": 41843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brits",
+    "region": "North West",
+    "lat": -25.6347,
+    "lon": 27.7802,
+    "population": 41757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kenhardt",
+    "region": "Northern Cape",
+    "lat": -29.3457,
+    "lon": 21.1579,
+    "population": 41608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richards Bay",
+    "region": "KwaZulu-Natal",
+    "lat": -28.783,
+    "lon": 32.0377,
+    "population": 41571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nelspruit",
+    "region": "Mpumalanga",
+    "lat": -25.4745,
+    "lon": 30.9703,
+    "population": 41423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prince Albert",
+    "region": "Western Cape",
+    "lat": -33.2248,
+    "lon": 22.0267,
+    "population": 41382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chris Hani District Municipality",
+    "region": "Eastern Cape",
+    "lat": -31.7903,
+    "lon": 26.4397,
+    "population": 41136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reitz",
+    "region": "Free State",
+    "lat": -27.8014,
+    "lon": 28.4273,
+    "population": 40932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swellendam",
+    "region": "Western Cape",
+    "lat": -34.0226,
+    "lon": 20.4417,
+    "population": 40722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balfour",
+    "region": "Mpumalanga",
+    "lat": -26.6633,
+    "lon": 28.5902,
+    "population": 40646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "OR Tambo District Municipality",
+    "region": "Eastern Cape",
+    "lat": -31.4674,
+    "lon": 29.0525,
+    "population": 40341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sekhukhune District Municipality",
+    "region": "Limpopo",
+    "lat": -24.8281,
+    "lon": 29.838,
+    "population": 40283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokstad",
+    "region": "KwaZulu-Natal",
+    "lat": -30.5472,
+    "lon": 29.4241,
+    "population": 40202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pixley ka Seme District Municipality",
+    "region": "Northern Cape",
+    "lat": -30.2892,
+    "lon": 23.2582,
+    "population": 40165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mthatha",
+    "region": "Eastern Cape",
+    "lat": -31.5889,
+    "lon": 28.7844,
+    "population": 40158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noupoort",
+    "region": "Northern Cape",
+    "lat": -31.1874,
+    "lon": 24.9499,
+    "population": 40123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elliot",
+    "region": "Eastern Cape",
+    "lat": -31.3333,
+    "lon": 27.85,
+    "population": 40082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Witbank",
+    "region": "Mpumalanga",
+    "lat": -25.8713,
+    "lon": 29.2332,
+    "population": 40070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clanwilliam",
+    "region": "Western Cape",
+    "lat": -32.1817,
+    "lon": 18.8922,
+    "population": 40067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Van Wyksvlei",
+    "region": "Northern Cape",
+    "lat": -30.351,
+    "lon": 21.825,
+    "population": 39928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newcastle",
+    "region": "KwaZulu-Natal",
+    "lat": -27.758,
+    "lon": 29.9318,
+    "population": 39176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndwedwe",
+    "region": "KwaZulu-Natal",
+    "lat": -29.5169,
+    "lon": 30.9269,
+    "population": 38978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middelburg",
+    "region": "Mpumalanga",
+    "lat": -25.7751,
+    "lon": 29.4648,
+    "population": 38920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampierstad",
+    "region": "Northern Cape",
+    "lat": -27.7832,
+    "lon": 24.6877,
+    "population": 38881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lejweleputswa District Municipality",
+    "region": "Free State",
+    "lat": -28.2398,
+    "lon": 26.1265,
+    "population": 38754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunset Beach",
+    "region": "Western Cape",
+    "lat": -33.8539,
+    "lon": 18.4923,
+    "population": 38327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Graaff-Reinet",
+    "region": "Eastern Cape",
+    "lat": -32.2522,
+    "lon": 24.5308,
+    "population": 38242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ladismith",
+    "region": "Western Cape",
+    "lat": -33.4933,
+    "lon": 21.2675,
+    "population": 38182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nigel",
+    "region": "Gauteng",
+    "lat": -26.4314,
+    "lon": 28.4771,
+    "population": 37931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schweizer-Reneke",
+    "region": "North West",
+    "lat": -27.1887,
+    "lon": 25.3293,
+    "population": 37862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugu District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -30.5436,
+    "lon": 30.2748,
+    "population": 37859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Claremont",
+    "region": "Western Cape",
+    "lat": -33.9806,
+    "lon": 18.4653,
+    "population": 37752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bredasdorp",
+    "region": "Western Cape",
+    "lat": -34.5322,
+    "lon": 20.0403,
+    "population": 37734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Springbok",
+    "region": "Northern Cape",
+    "lat": -29.6643,
+    "lon": 17.8865,
+    "population": 37503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midstream",
+    "region": "Gauteng",
+    "lat": -25.9185,
+    "lon": 28.1988,
+    "population": 37306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senekal",
+    "region": "Free State",
+    "lat": -28.3197,
+    "lon": 27.6208,
+    "population": 37064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Allanridge",
+    "region": "Free State",
+    "lat": -27.7543,
+    "lon": 26.6438,
+    "population": 36955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekuvukeni",
+    "region": "KwaZulu-Natal",
+    "lat": -28.4675,
+    "lon": 30.1551,
+    "population": 36889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lichtenburg",
+    "region": "North West",
+    "lat": -26.152,
+    "lon": 26.1597,
+    "population": 36579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkowakowa",
+    "region": "Limpopo",
+    "lat": -23.8878,
+    "lon": 30.2871,
+    "population": 36490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hardys Memories of Africa",
+    "region": "Western Cape",
+    "lat": -33.9054,
+    "lon": 20.7169,
+    "population": 36487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adelaide",
+    "region": "Eastern Cape",
+    "lat": -32.7075,
+    "lon": 26.2956,
+    "population": 36396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robertson",
+    "region": "Western Cape",
+    "lat": -33.8034,
+    "lon": 19.8854,
+    "population": 36366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calitzdorp",
+    "region": "Western Cape",
+    "lat": -33.5275,
+    "lon": 21.6762,
+    "population": 36104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vereeniging",
+    "region": "Gauteng",
+    "lat": -26.6731,
+    "lon": 27.9261,
+    "population": 35970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dr Kenneth Kaunda District Municipality",
+    "region": "North West",
+    "lat": -26.8068,
+    "lon": 26.5693,
+    "population": 35922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zululand District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -27.8114,
+    "lon": 31.2943,
+    "population": 35866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arniston",
+    "region": "Western Cape",
+    "lat": -34.6674,
+    "lon": 20.2309,
+    "population": 35840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpophomeni",
+    "region": "KwaZulu-Natal",
+    "lat": -29.5682,
+    "lon": 30.1862,
+    "population": 35806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wolmaransstad",
+    "region": "North West",
+    "lat": -27.1974,
+    "lon": 25.9831,
+    "population": 35691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molteno",
+    "region": "Eastern Cape",
+    "lat": -31.3968,
+    "lon": 26.3625,
+    "population": 35647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cullinan",
+    "region": "Gauteng",
+    "lat": -25.6709,
+    "lon": 28.5236,
+    "population": 35381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kraaifontein",
+    "region": "Western Cape",
+    "lat": -33.8481,
+    "lon": 18.7172,
+    "population": 35375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berea",
+    "region": "KwaZulu-Natal",
+    "lat": -29.8518,
+    "lon": 30.9934,
+    "population": 35274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heilbron",
+    "region": "Free State",
+    "lat": -27.2812,
+    "lon": 27.9709,
+    "population": 35026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carnarvon",
+    "region": "Northern Cape",
+    "lat": -30.9683,
+    "lon": 22.133,
+    "population": 34942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brandfort",
+    "region": "Free State",
+    "lat": -28.7001,
+    "lon": 26.4597,
+    "population": 34933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ventersburg",
+    "region": "Free State",
+    "lat": -28.0856,
+    "lon": 27.1381,
+    "population": 34900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capricorn District Municipality",
+    "region": "Limpopo",
+    "lat": -23.4816,
+    "lon": 29.1835,
+    "population": 34716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stutterheim",
+    "region": "Eastern Cape",
+    "lat": -32.5708,
+    "lon": 27.424,
+    "population": 34664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orkney",
+    "region": "North West",
+    "lat": -26.9802,
+    "lon": 26.6727,
+    "population": 34482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaufort West",
+    "region": "Western Cape",
+    "lat": -32.3567,
+    "lon": 22.583,
+    "population": 34411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eshowe",
+    "region": "KwaZulu-Natal",
+    "lat": -28.8865,
+    "lon": 31.4699,
+    "population": 34332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ga-Kgapane",
+    "region": "Limpopo",
+    "lat": -23.6438,
+    "lon": 30.2232,
+    "population": 34327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hluhluwe",
+    "region": "KwaZulu-Natal",
+    "lat": -28.019,
+    "lon": 32.2676,
+    "population": 34140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lansdowne",
+    "region": "Western Cape",
+    "lat": -33.9873,
+    "lon": 18.4975,
+    "population": 34135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maile",
+    "region": "North West",
+    "lat": -25.4415,
+    "lon": 27.2816,
+    "population": 34123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ermelo",
+    "region": "Mpumalanga",
+    "lat": -26.5333,
+    "lon": 29.9833,
+    "population": 34065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tembisa",
+    "region": "Gauteng",
+    "lat": -25.9964,
+    "lon": 28.2268,
+    "population": 33735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mopani District Municipality",
+    "region": "Limpopo",
+    "lat": -23.7666,
+    "lon": 30.836,
+    "population": 33691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "uMzinyathi District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -28.5857,
+    "lon": 30.5588,
+    "population": 33555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bloemfontein",
+    "region": "Free State",
+    "lat": -29.1211,
+    "lon": 26.214,
+    "population": 33233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Standerton",
+    "region": "Mpumalanga",
+    "lat": -26.9337,
+    "lon": 29.2415,
+    "population": 33219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Willowmore",
+    "region": "Eastern Cape",
+    "lat": -33.2927,
+    "lon": 23.4895,
+    "population": 33208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Shepstone",
+    "region": "KwaZulu-Natal",
+    "lat": -30.7414,
+    "lon": 30.455,
+    "population": 33194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winburg",
+    "region": "Free State",
+    "lat": -28.518,
+    "lon": 27.0093,
+    "population": 33193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roodepoort",
+    "region": "Gauteng",
+    "lat": -26.1625,
+    "lon": 27.8725,
+    "population": 32972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gert Sibande District Municipality",
+    "region": "Mpumalanga",
+    "lat": -26.671,
+    "lon": 29.9295,
+    "population": 32886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanderbijlpark",
+    "region": "Gauteng",
+    "lat": -26.7117,
+    "lon": 27.8379,
+    "population": 32877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newlands",
+    "region": "Western Cape",
+    "lat": -33.9785,
+    "lon": 18.4481,
+    "population": 32859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "City of Tshwane Metropolitan Municipality",
+    "region": "Gauteng",
+    "lat": -25.6598,
+    "lon": 28.4434,
+    "population": 32829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plettenberg Bay",
+    "region": "Western Cape",
+    "lat": -34.0527,
+    "lon": 23.3716,
+    "population": 32793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glencoe",
+    "region": "KwaZulu-Natal",
+    "lat": -28.1783,
+    "lon": 30.147,
+    "population": 32574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrede",
+    "region": "Free State",
+    "lat": -27.4257,
+    "lon": 29.1658,
+    "population": 32547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "De Rust",
+    "region": "Western Cape",
+    "lat": -33.4903,
+    "lon": 22.5352,
+    "population": 32508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mankoeng",
+    "region": "Limpopo",
+    "lat": -23.9,
+    "lon": 29.8167,
+    "population": 32487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vryburg",
+    "region": "North West",
+    "lat": -26.9566,
+    "lon": 24.7284,
+    "population": 32467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Botshabelo",
+    "region": "Free State",
+    "lat": -29.2674,
+    "lon": 26.726,
+    "population": 32373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barkly West",
+    "region": "Northern Cape",
+    "lat": -28.5354,
+    "lon": 24.5215,
+    "population": 32253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potchefstroom",
+    "region": "North West",
+    "lat": -26.7167,
+    "lon": 27.1,
+    "population": 32130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sisonke District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -30.1108,
+    "lon": 29.6601,
+    "population": 32098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lydenburg",
+    "region": "Mpumalanga",
+    "lat": -25.096,
+    "lon": 30.4439,
+    "population": 31788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mondlo",
+    "region": "KwaZulu-Natal",
+    "lat": -27.983,
+    "lon": 30.7177,
+    "population": 31658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modderfontein",
+    "region": "Gauteng",
+    "lat": -26.0891,
+    "lon": 28.1653,
+    "population": 31647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "eThekwini Metropolitan Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -29.8667,
+    "lon": 31.0167,
+    "population": 31647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bojanala Platinum District Municipality",
+    "region": "North West",
+    "lat": -25.4261,
+    "lon": 27.2243,
+    "population": 31625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upington",
+    "region": "Northern Cape",
+    "lat": -28.4478,
+    "lon": 21.2561,
+    "population": 31562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mossel Bay",
+    "region": "Western Cape",
+    "lat": -34.1831,
+    "lon": 22.146,
+    "population": 31497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butterworth",
+    "region": "Eastern Cape",
+    "lat": -32.3308,
+    "lon": 28.1498,
+    "population": 31495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thabazimbi",
+    "region": "Limpopo",
+    "lat": -24.5917,
+    "lon": 27.4115,
+    "population": 31093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giyani",
+    "region": "Limpopo",
+    "lat": -23.3025,
+    "lon": 30.7187,
+    "population": 31036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alberton",
+    "region": "Gauteng",
+    "lat": -26.2679,
+    "lon": 28.1223,
+    "population": 31026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warrenton",
+    "region": "Northern Cape",
+    "lat": -28.114,
+    "lon": 24.8475,
+    "population": 30793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queensdale",
+    "region": "Eastern Cape",
+    "lat": -31.871,
+    "lon": 26.9786,
+    "population": 30767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vhembe District Municipality",
+    "region": "Limpopo",
+    "lat": -22.7547,
+    "lon": 30.1936,
+    "population": 30676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkangala District Municipality",
+    "region": "Mpumalanga",
+    "lat": -25.7122,
+    "lon": 29.4243,
+    "population": 30506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sedibeng District Municipality",
+    "region": "Gauteng",
+    "lat": -26.5669,
+    "lon": 28.1828,
+    "population": 30333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thulamahashi",
+    "region": "Limpopo",
+    "lat": -24.7246,
+    "lon": 31.1994,
+    "population": 30220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mmabatho",
+    "region": "North West",
+    "lat": -25.85,
+    "lon": 25.6333,
+    "population": 30026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hennenman",
+    "region": "Free State",
+    "lat": -27.9765,
+    "lon": 27.0242,
+    "population": 30005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johannesburg",
+    "region": "Gauteng",
+    "lat": -26.2023,
+    "lon": 28.0436,
+    "population": 29863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergvliet",
+    "region": "Western Cape",
+    "lat": -34.0475,
+    "lon": 18.4525,
+    "population": 29746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frankfort",
+    "region": "Free State",
+    "lat": -27.2789,
+    "lon": 28.497,
+    "population": 29556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Postmasburg",
+    "region": "Northern Cape",
+    "lat": -28.3339,
+    "lon": 23.0654,
+    "population": 29471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amajuba District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -27.7356,
+    "lon": 30.1354,
+    "population": 29426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heidelberg",
+    "region": "Gauteng",
+    "lat": -26.5048,
+    "lon": 28.3592,
+    "population": 29353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fraserburg",
+    "region": "Northern Cape",
+    "lat": -31.9157,
+    "lon": 21.5133,
+    "population": 29324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viljoenskroon",
+    "region": "Free State",
+    "lat": -27.2084,
+    "lon": 26.9486,
+    "population": 29141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atlantis",
+    "region": "Western Cape",
+    "lat": -33.5667,
+    "lon": 18.4834,
+    "population": 29134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orange Farm",
+    "region": "Gauteng",
+    "lat": -26.4833,
+    "lon": 27.8667,
+    "population": 29017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greytown",
+    "region": "KwaZulu-Natal",
+    "lat": -29.0642,
+    "lon": 30.5928,
+    "population": 28874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harrismith",
+    "region": "Free State",
+    "lat": -28.2728,
+    "lon": 29.1295,
+    "population": 28796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calvinia",
+    "region": "Northern Cape",
+    "lat": -31.4707,
+    "lon": 19.776,
+    "population": 28755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vredendal",
+    "region": "Western Cape",
+    "lat": -31.6683,
+    "lon": 18.5012,
+    "population": 28547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Coast District Municipality",
+    "region": "Western Cape",
+    "lat": -32.0951,
+    "lon": 18.627,
+    "population": 28456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piketberg",
+    "region": "Western Cape",
+    "lat": -32.9032,
+    "lon": 18.757,
+    "population": 28417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breyten",
+    "region": "Mpumalanga",
+    "lat": -26.3018,
+    "lon": 29.987,
+    "population": 28340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "White River",
+    "region": "Mpumalanga",
+    "lat": -25.3318,
+    "lon": 31.0117,
+    "population": 28296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buffalo City Metropolitan Municipality",
+    "region": "Eastern Cape",
+    "lat": -32.9514,
+    "lon": 27.6116,
+    "population": 28249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wesselsbron",
+    "region": "Free State",
+    "lat": -27.8549,
+    "lon": 26.3658,
+    "population": 28121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballito",
+    "region": "KwaZulu-Natal",
+    "lat": -29.539,
+    "lon": 31.2144,
+    "population": 27985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellington",
+    "region": "Western Cape",
+    "lat": -33.6398,
+    "lon": 19.0112,
+    "population": 27903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jan Kempdorp",
+    "region": "North West",
+    "lat": -27.9225,
+    "lon": 24.8305,
+    "population": 27682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daniëlskuil",
+    "region": "Northern Cape",
+    "lat": -28.1887,
+    "lon": 23.5395,
+    "population": 27638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Central Karoo District Municipality",
+    "region": "Western Cape",
+    "lat": -32.6281,
+    "lon": 22.2119,
+    "population": 27501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uitenhage",
+    "region": "Eastern Cape",
+    "lat": -33.7576,
+    "lon": 25.3971,
+    "population": 27437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterberg District Municipality",
+    "region": "Limpopo",
+    "lat": -24.2051,
+    "lon": 27.9787,
+    "population": 27360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komatipoort",
+    "region": "Mpumalanga",
+    "lat": -25.4332,
+    "lon": 31.9548,
+    "population": 27265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stilfontein",
+    "region": "North West",
+    "lat": -26.8449,
+    "lon": 26.7683,
+    "population": 27011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mooirivier",
+    "region": "KwaZulu-Natal",
+    "lat": -29.2082,
+    "lon": 29.9946,
+    "population": 26940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villiers",
+    "region": "Free State",
+    "lat": -27.0303,
+    "lon": 28.6006,
+    "population": 26898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vredefort",
+    "region": "Free State",
+    "lat": -27.0081,
+    "lon": 27.3646,
+    "population": 26886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alfred Nzo District Municipality",
+    "region": "Eastern Cape",
+    "lat": -30.668,
+    "lon": 29.1549,
+    "population": 26847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parys",
+    "region": "Free State",
+    "lat": -26.9033,
+    "lon": 27.4573,
+    "population": 26802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edenvale",
+    "region": "Gauteng",
+    "lat": -26.141,
+    "lon": 28.1525,
+    "population": 26649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bethal",
+    "region": "Mpumalanga",
+    "lat": -26.4579,
+    "lon": 29.4655,
+    "population": 26352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cape Town",
+    "region": "Western Cape",
+    "lat": -33.9258,
+    "lon": 18.4232,
+    "population": 26260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekangala",
+    "region": "Gauteng",
+    "lat": -25.6962,
+    "lon": 28.7492,
+    "population": 26007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utrecht",
+    "region": "KwaZulu-Natal",
+    "lat": -27.6586,
+    "lon": 30.3217,
+    "population": 25755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krugersdorp",
+    "region": "Gauteng",
+    "lat": -26.0858,
+    "lon": 27.7752,
+    "population": 25641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilinge",
+    "region": "Eastern Cape",
+    "lat": -31.9768,
+    "lon": 27.0427,
+    "population": 25461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Christiana",
+    "region": "North West",
+    "lat": -27.914,
+    "lon": 25.1611,
+    "population": 25312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Beaufort",
+    "region": "Eastern Cape",
+    "lat": -32.7748,
+    "lon": 26.6338,
+    "population": 25272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "City of Johannesburg Metropolitan Municipality",
+    "region": "Gauteng",
+    "lat": -26.1767,
+    "lon": 27.9635,
+    "population": 25148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Saint John’s",
+    "region": "Eastern Cape",
+    "lat": -31.6229,
+    "lon": 29.5448,
+    "population": 25023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barberton",
+    "region": "Mpumalanga",
+    "lat": -25.7884,
+    "lon": 31.0532,
+    "population": 24942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nelson Mandela Bay Metropolitan Municipality",
+    "region": "Eastern Cape",
+    "lat": -33.804,
+    "lon": 25.4921,
+    "population": 24569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Theunissen",
+    "region": "Free State",
+    "lat": -28.411,
+    "lon": 26.7011,
+    "population": 24481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "eSikhaleni",
+    "region": "KwaZulu-Natal",
+    "lat": -28.871,
+    "lon": 31.8996,
+    "population": 24428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constantia",
+    "region": "Western Cape",
+    "lat": -34.0314,
+    "lon": 18.4183,
+    "population": 24414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Margate",
+    "region": "KwaZulu-Natal",
+    "lat": -30.8636,
+    "lon": 30.3705,
+    "population": 24162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moorreesburg",
+    "region": "Western Cape",
+    "lat": -33.1539,
+    "lon": 18.6603,
+    "population": 23712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caledon",
+    "region": "Western Cape",
+    "lat": -34.23,
+    "lon": 19.4265,
+    "population": 23617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fochville",
+    "region": "North West",
+    "lat": -26.4886,
+    "lon": 27.4939,
+    "population": 23305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceres",
+    "region": "Western Cape",
+    "lat": -33.3689,
+    "lon": 19.3109,
+    "population": 23222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phalaborwa",
+    "region": "Limpopo",
+    "lat": -23.943,
+    "lon": 31.1411,
+    "population": 23197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warmbaths",
+    "region": "Limpopo",
+    "lat": -24.8833,
+    "lon": 28.2833,
+    "population": 23048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bloemhof",
+    "region": "North West",
+    "lat": -27.6469,
+    "lon": 25.607,
+    "population": 22852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musina",
+    "region": "Limpopo",
+    "lat": -22.3488,
+    "lon": 30.0407,
+    "population": 22617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eastleigh",
+    "region": "Gauteng",
+    "lat": -26.1297,
+    "lon": 28.1554,
+    "population": 22580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somerset East",
+    "region": "Eastern Cape",
+    "lat": -32.7217,
+    "lon": 25.588,
+    "population": 22259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stellenbosch",
+    "region": "Western Cape",
+    "lat": -33.9346,
+    "lon": 18.8668,
+    "population": 22245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Empangeni",
+    "region": "KwaZulu-Natal",
+    "lat": -28.762,
+    "lon": 31.8933,
+    "population": 22200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clocolan",
+    "region": "Free State",
+    "lat": -28.9137,
+    "lon": 27.5656,
+    "population": 22128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "eMbalenhle",
+    "region": "Mpumalanga",
+    "lat": -26.5333,
+    "lon": 29.0667,
+    "population": 22088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rondebosch",
+    "region": "Western Cape",
+    "lat": -33.9633,
+    "lon": 18.4764,
+    "population": 22034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Elizabeth",
+    "region": "Eastern Cape",
+    "lat": -33.9611,
+    "lon": 25.6149,
+    "population": 22033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burgersdorp",
+    "region": "Eastern Cape",
+    "lat": -30.9977,
+    "lon": 26.3286,
+    "population": 21966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albertina",
+    "region": "Western Cape",
+    "lat": -34.2054,
+    "lon": 21.58,
+    "population": 21880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koppies",
+    "region": "Free State",
+    "lat": -27.2418,
+    "lon": 27.5742,
+    "population": 21781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Randburg",
+    "region": "Gauteng",
+    "lat": -26.0941,
+    "lon": 28.0012,
+    "population": 21742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Worcester",
+    "region": "Western Cape",
+    "lat": -33.6465,
+    "lon": 19.4485,
+    "population": 21732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekurhuleni Metropolitan Municipality",
+    "region": "Gauteng",
+    "lat": -26.1989,
+    "lon": 28.3126,
+    "population": 21714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montagu",
+    "region": "Western Cape",
+    "lat": -33.7866,
+    "lon": 20.1211,
+    "population": 21679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mangaung Metropolitan Municipality",
+    "region": "Free State",
+    "lat": -29.1563,
+    "lon": 26.3512,
+    "population": 21173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Randfontein",
+    "region": "Gauteng",
+    "lat": -26.1844,
+    "lon": 27.702,
+    "population": 21128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amathole District Municipality",
+    "region": "Eastern Cape",
+    "lat": -32.559,
+    "lon": 27.4592,
+    "population": 21109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lady Frere",
+    "region": "Eastern Cape",
+    "lat": -31.7031,
+    "lon": 27.2329,
+    "population": 21042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtubatuba",
+    "region": "KwaZulu-Natal",
+    "lat": -28.4179,
+    "lon": 32.1848,
+    "population": 20944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grabouw",
+    "region": "Western Cape",
+    "lat": -34.1515,
+    "lon": 19.0151,
+    "population": 20370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ehlanzeni District",
+    "region": "Mpumalanga",
+    "lat": -25.351,
+    "lon": 31.361,
+    "population": 20241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "De Aar",
+    "region": "Northern Cape",
+    "lat": -30.6497,
+    "lon": 24.0123,
+    "population": 20037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bochum",
+    "region": "Limpopo",
+    "lat": -23.2861,
+    "lon": 29.1396,
+    "population": 19940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Westonaria",
+    "region": "Gauteng",
+    "lat": -26.3191,
+    "lon": 27.6486,
+    "population": 19897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polokwane",
+    "region": "Limpopo",
+    "lat": -23.9045,
+    "lon": 29.4688,
+    "population": 19703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oudtshoorn",
+    "region": "Western Cape",
+    "lat": -33.6005,
+    "lon": 22.1995,
+    "population": 19451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deneysville",
+    "region": "Free State",
+    "lat": -26.8908,
+    "lon": 28.0971,
+    "population": 19343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eden Glen Ext 60",
+    "region": "Gauteng",
+    "lat": -26.1259,
+    "lon": 28.165,
+    "population": 19037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindley",
+    "region": "Free State",
+    "lat": -27.8791,
+    "lon": 27.9135,
+    "population": 18964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zoar",
+    "region": "Western Cape",
+    "lat": -33.4956,
+    "lon": 21.4437,
+    "population": 17788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aliwal North",
+    "region": "Eastern Cape",
+    "lat": -30.6937,
+    "lon": 26.7114,
+    "population": 17738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "uThukela District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -28.7192,
+    "lon": 29.658,
+    "population": 17688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modimolle",
+    "region": "Limpopo",
+    "lat": -24.7,
+    "lon": 28.4,
+    "population": 17433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhisho",
+    "region": "Eastern Cape",
+    "lat": -32.8472,
+    "lon": 27.4422,
+    "population": 17336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prieska",
+    "region": "Northern Cape",
+    "lat": -29.668,
+    "lon": 22.7425,
+    "population": 17045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thohoyandou",
+    "region": "Limpopo",
+    "lat": -22.9456,
+    "lon": 30.485,
+    "population": 17007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpumalanga",
+    "region": "KwaZulu-Natal",
+    "lat": -29.8129,
+    "lon": 30.6365,
+    "population": 16793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pietermaritzburg",
+    "region": "KwaZulu-Natal",
+    "lat": -29.6168,
+    "lon": 30.3928,
+    "population": 16686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muldersdriseloop",
+    "region": "Gauteng",
+    "lat": -26.0367,
+    "lon": 27.838,
+    "population": 16664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "George",
+    "region": "Western Cape",
+    "lat": -33.963,
+    "lon": 22.4617,
+    "population": 16544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "KwaDukuza",
+    "region": "KwaZulu-Natal",
+    "lat": -29.3282,
+    "lon": 31.2895,
+    "population": 16492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cape Winelands District Municipality",
+    "region": "Western Cape",
+    "lat": -33.3225,
+    "lon": 19.69,
+    "population": 16487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carolina",
+    "region": "Mpumalanga",
+    "lat": -26.0693,
+    "lon": 30.1149,
+    "population": 16398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulundi",
+    "region": "KwaZulu-Natal",
+    "lat": -28.3352,
+    "lon": 31.4162,
+    "population": 16017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bronkhorstspruit",
+    "region": "Gauteng",
+    "lat": -25.8102,
+    "lon": 28.7425,
+    "population": 15971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sasolburg",
+    "region": "Free State",
+    "lat": -26.8136,
+    "lon": 27.8169,
+    "population": 15376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokopane",
+    "region": "Limpopo",
+    "lat": -24.1944,
+    "lon": 29.0097,
+    "population": 15322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vryheid",
+    "region": "KwaZulu-Natal",
+    "lat": -27.7695,
+    "lon": 30.7917,
+    "population": 15305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond",
+    "region": "KwaZulu-Natal",
+    "lat": -29.872,
+    "lon": 30.2723,
+    "population": 15298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pretoria",
+    "region": "Gauteng",
+    "lat": -25.7449,
+    "lon": 28.1878,
+    "population": 15235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duiwelskloof",
+    "region": "Limpopo",
+    "lat": -23.6934,
+    "lon": 30.14,
+    "population": 15048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midrand",
+    "region": "Gauteng",
+    "lat": -25.9895,
+    "lon": 28.1284,
+    "population": 14807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "uMgungundlovu District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -29.5093,
+    "lon": 30.1984,
+    "population": 14557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siyanda District Municipality",
+    "region": "Northern Cape",
+    "lat": -28.0001,
+    "lon": 21.1846,
+    "population": 14346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sundumbili",
+    "region": "KwaZulu-Natal",
+    "lat": -29.1337,
+    "lon": 31.3975,
+    "population": 14142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klerksdorp",
+    "region": "North West",
+    "lat": -26.8521,
+    "lon": 26.6667,
+    "population": 13960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dundee",
+    "region": "KwaZulu-Natal",
+    "lat": -28.1668,
+    "lon": 30.2337,
+    "population": 13954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mabopane",
+    "region": "Gauteng",
+    "lat": -25.4977,
+    "lon": 28.1007,
+    "population": 13953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vredenburg",
+    "region": "Western Cape",
+    "lat": -32.9072,
+    "lon": 17.99,
+    "population": 13908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thabo Mofutsanyana District Municipality",
+    "region": "Free State",
+    "lat": -28.2438,
+    "lon": 28.3408,
+    "population": 13713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zeerust",
+    "region": "North West",
+    "lat": -25.537,
+    "lon": 26.0751,
+    "population": 13632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Welkom",
+    "region": "Free State",
+    "lat": -27.9774,
+    "lon": 26.7351,
+    "population": 13253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thaba Nchu",
+    "region": "Free State",
+    "lat": -29.2093,
+    "lon": 26.839,
+    "population": 13188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngaka Modiri Molema District Municipality",
+    "region": "North West",
+    "lat": -25.9556,
+    "lon": 25.8078,
+    "population": 13174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pofadder",
+    "region": "Northern Cape",
+    "lat": -29.1283,
+    "lon": 19.3949,
+    "population": 12388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belfast",
+    "region": "Mpumalanga",
+    "lat": -25.6899,
+    "lon": 30.035,
+    "population": 12245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koster",
+    "region": "North West",
+    "lat": -25.863,
+    "lon": 26.8976,
+    "population": 12086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rustenburg",
+    "region": "North West",
+    "lat": -25.6676,
+    "lon": 27.2421,
+    "population": 11996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queenstown",
+    "region": "Eastern Cape",
+    "lat": -31.8976,
+    "lon": 26.8753,
+    "population": 11826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebowakgomo",
+    "region": "Limpopo",
+    "lat": -24.2,
+    "lon": 29.5,
+    "population": 11801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cradock",
+    "region": "Eastern Cape",
+    "lat": -32.1642,
+    "lon": 25.6192,
+    "population": 11709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Louis Trichardt",
+    "region": "Limpopo",
+    "lat": -23.0438,
+    "lon": 29.9032,
+    "population": 11618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosebank",
+    "region": "Western Cape",
+    "lat": -33.9556,
+    "lon": 18.4742,
+    "population": 11424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "iLembe District Municipality",
+    "region": "KwaZulu-Natal",
+    "lat": -29.2733,
+    "lon": 31.1425,
+    "population": 11190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eden Glen",
+    "region": "Gauteng",
+    "lat": -26.1323,
+    "lon": 28.1686,
+    "population": 11084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eden District Municipality",
+    "region": "Western Cape",
+    "lat": -33.8214,
+    "lon": 22.0126,
+    "population": 11052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ritchie",
+    "region": "Northern Cape",
+    "lat": -29.038,
+    "lon": 24.6028,
+    "population": 10503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kriel",
+    "region": "Mpumalanga",
+    "lat": -26.2739,
+    "lon": 29.2253,
+    "population": 10360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joe Gqabi District Municipality",
+    "region": "Eastern Cape",
+    "lat": -30.9418,
+    "lon": 27.0605,
+    "population": 10137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orania",
+    "region": "Northern Cape",
+    "lat": -29.8138,
+    "lon": 24.4121,
+    "population": 10117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoopstad",
+    "region": "Free State",
+    "lat": -27.8327,
+    "lon": 25.9083,
+    "population": 10065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namakwa District Municipality",
+    "region": "Northern Cape",
+    "lat": -30.5356,
+    "lon": 19.4289,
+    "population": 10038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siyabuswa",
+    "region": "Mpumalanga",
+    "lat": -25.1132,
+    "lon": 29.0445,
+    "population": 10027,
+    "timezone": "UTC"
+  }
+]

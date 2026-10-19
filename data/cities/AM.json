@@ -1,0 +1,2466 @@
+[
+  {
+    "name": "Noyakert",
+    "region": "Ararat Province",
+    "lat": 39.8307,
+    "lon": 44.6695,
+    "population": 49964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musalerr",
+    "region": "Armavir Region",
+    "lat": 40.1557,
+    "lon": 44.3779,
+    "population": 49914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aygestan",
+    "region": "Ararat Province",
+    "lat": 40.0029,
+    "lon": 44.5583,
+    "population": 49820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vardenik",
+    "region": "Gegharkunik Province",
+    "lat": 40.1335,
+    "lon": 45.4431,
+    "population": 49801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abovyan",
+    "region": "Kotayk Region",
+    "lat": 40.2737,
+    "lon": 44.6335,
+    "population": 49791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arshaluys",
+    "region": "Armavir Region",
+    "lat": 40.1695,
+    "lon": 44.2139,
+    "population": 49695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karchaghbyur",
+    "region": "Gegharkunik Province",
+    "lat": 40.1705,
+    "lon": 45.5778,
+    "population": 49657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parravak’ar",
+    "region": "Tavush Region",
+    "lat": 40.9825,
+    "lon": 45.367,
+    "population": 49622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalar",
+    "region": "Ararat Province",
+    "lat": 39.9765,
+    "lon": 44.5265,
+    "population": 49357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarrit’ap’",
+    "region": "Vayots Dzor Region",
+    "lat": 39.6389,
+    "lon": 45.5111,
+    "population": 48978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nizami",
+    "region": "Ararat Province",
+    "lat": 40.0917,
+    "lon": 44.4057,
+    "population": 48970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dsegh",
+    "region": "Lori Region",
+    "lat": 40.9617,
+    "lon": 44.65,
+    "population": 48945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goght’",
+    "region": "Kotayk Region",
+    "lat": 40.1347,
+    "lon": 44.7833,
+    "population": 48774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lchashen",
+    "region": "Gegharkunik Province",
+    "lat": 40.5195,
+    "lon": 44.9305,
+    "population": 48590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tandzut",
+    "region": "Armavir Region",
+    "lat": 40.0695,
+    "lon": 44.0779,
+    "population": 48295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myasnikyan",
+    "region": "Armavir Region",
+    "lat": 40.1805,
+    "lon": 43.9195,
+    "population": 48164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Areni",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7167,
+    "lon": 45.1833,
+    "population": 48146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akner",
+    "region": "Syunik Province",
+    "lat": 39.5349,
+    "lon": 46.3073,
+    "population": 47973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Getashen",
+    "region": "Armavir Region",
+    "lat": 40.0445,
+    "lon": 43.9417,
+    "population": 47952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prroshyan",
+    "region": "Kotayk Region",
+    "lat": 40.2473,
+    "lon": 44.4195,
+    "population": 47844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "T’alin",
+    "region": "Aragatsotn Region",
+    "lat": 40.3917,
+    "lon": 43.8779,
+    "population": 47841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aygezard",
+    "region": "Ararat Province",
+    "lat": 39.9544,
+    "lon": 44.6023,
+    "population": 47784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrind",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7611,
+    "lon": 45.1779,
+    "population": 47769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghavnadzor",
+    "region": "Kotayk Region",
+    "lat": 40.5819,
+    "lon": 44.6958,
+    "population": 47708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noramarg",
+    "region": "Ararat Province",
+    "lat": 40.0223,
+    "lon": 44.4251,
+    "population": 47612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Step’anavan",
+    "region": "Lori Region",
+    "lat": 41.01,
+    "lon": 44.3853,
+    "population": 47566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeghegnut",
+    "region": "Armavir Region",
+    "lat": 40.0889,
+    "lon": 44.1667,
+    "population": 47470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chochkan",
+    "region": "Lori Region",
+    "lat": 41.1812,
+    "lon": 44.8322,
+    "population": 47460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armash",
+    "region": "Ararat Province",
+    "lat": 39.7667,
+    "lon": 44.8111,
+    "population": 47195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verin Getashen",
+    "region": "Gegharkunik Province",
+    "lat": 40.1307,
+    "lon": 45.2529,
+    "population": 47161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lerrnants’k’",
+    "region": "Lori Region",
+    "lat": 40.7953,
+    "lon": 44.2743,
+    "population": 47054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ptghunk’",
+    "region": "Armavir Region",
+    "lat": 40.1639,
+    "lon": 44.3639,
+    "population": 47041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasakh",
+    "region": "Aragatsotn Region",
+    "lat": 40.537,
+    "lon": 44.4105,
+    "population": 46944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjni",
+    "region": "Kotayk Region",
+    "lat": 40.4583,
+    "lon": 44.6501,
+    "population": 46857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fantan",
+    "region": "Kotayk Region",
+    "lat": 40.3945,
+    "lon": 44.6861,
+    "population": 46799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spandaryan",
+    "region": "Shirak Region",
+    "lat": 40.6611,
+    "lon": 44.0155,
+    "population": 46418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahumyan",
+    "region": "Lori Region",
+    "lat": 40.7748,
+    "lon": 44.546,
+    "population": 46189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeghegnut",
+    "region": "Lori Region",
+    "lat": 40.903,
+    "lon": 44.6315,
+    "population": 46136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lerrnakert",
+    "region": "Shirak Region",
+    "lat": 40.5625,
+    "lon": 43.9389,
+    "population": 46122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mets Masrik",
+    "region": "Gegharkunik Province",
+    "lat": 40.2195,
+    "lon": 45.7639,
+    "population": 46064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeghvard",
+    "region": "Kotayk Region",
+    "lat": 40.3251,
+    "lon": 44.4861,
+    "population": 46064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voskevaz",
+    "region": "Aragatsotn Region",
+    "lat": 40.2751,
+    "lon": 44.3001,
+    "population": 46054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nor Gyugh",
+    "region": "Kotayk Region",
+    "lat": 40.2667,
+    "lon": 44.6583,
+    "population": 46016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzit’hank’ov",
+    "region": "Shirak Region",
+    "lat": 40.5085,
+    "lon": 43.8209,
+    "population": 45640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goravan",
+    "region": "Ararat Province",
+    "lat": 39.9083,
+    "lon": 44.7333,
+    "population": 45583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsovasar",
+    "region": "Gegharkunik Province",
+    "lat": 40.1382,
+    "lon": 45.191,
+    "population": 45366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayisyan",
+    "region": "Shirak Region",
+    "lat": 40.8471,
+    "lon": 43.8394,
+    "population": 45257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agarak",
+    "region": "Syunik Province",
+    "lat": 39.2068,
+    "lon": 46.5446,
+    "population": 45117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeghegis",
+    "region": "Vayots Dzor Region",
+    "lat": 39.8723,
+    "lon": 45.3501,
+    "population": 44869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chambarak",
+    "region": "Gegharkunik Province",
+    "lat": 40.5966,
+    "lon": 45.355,
+    "population": 44765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gladzor",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7807,
+    "lon": 45.3473,
+    "population": 44749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gmbet’",
+    "region": "Armavir Region",
+    "lat": 40.2237,
+    "lon": 44.2541,
+    "population": 44681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marmashen",
+    "region": "Shirak Region",
+    "lat": 40.8349,
+    "lon": 43.7779,
+    "population": 44649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ijevan",
+    "region": "Tavush Region",
+    "lat": 40.8788,
+    "lon": 45.1485,
+    "population": 44577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arevshat",
+    "region": "Shirak Region",
+    "lat": 40.6534,
+    "lon": 44.0442,
+    "population": 44500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ararat",
+    "region": "Ararat Province",
+    "lat": 39.8307,
+    "lon": 44.7057,
+    "population": 44444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aygavan",
+    "region": "Ararat Province",
+    "lat": 39.8733,
+    "lon": 44.6698,
+    "population": 44220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrgashat",
+    "region": "Armavir Region",
+    "lat": 40.1307,
+    "lon": 44.0807,
+    "population": 43916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tashir",
+    "region": "Lori Region",
+    "lat": 41.1207,
+    "lon": 44.2846,
+    "population": 43734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aralez",
+    "region": "Ararat Province",
+    "lat": 39.9001,
+    "lon": 44.6557,
+    "population": 43719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byureghavan",
+    "region": "Kotayk Region",
+    "lat": 40.3142,
+    "lon": 44.5933,
+    "population": 43678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odzun",
+    "region": "Lori Region",
+    "lat": 41.0532,
+    "lon": 44.6134,
+    "population": 43524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aknashen",
+    "region": "Armavir Region",
+    "lat": 40.0955,
+    "lon": 44.286,
+    "population": 43492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malishka",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7473,
+    "lon": 45.4057,
+    "population": 43438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shenavan",
+    "region": "Aragatsotn Region",
+    "lat": 40.4833,
+    "lon": 44.3835,
+    "population": 43397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doghs",
+    "region": "Armavir Region",
+    "lat": 40.2223,
+    "lon": 44.2723,
+    "population": 43171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsovagyugh",
+    "region": "Gegharkunik Province",
+    "lat": 40.6335,
+    "lon": 44.9611,
+    "population": 43087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artsvaberd",
+    "region": "Tavush Region",
+    "lat": 40.8395,
+    "lon": 45.4703,
+    "population": 42975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lichk’",
+    "region": "Gegharkunik Province",
+    "lat": 40.1593,
+    "lon": 45.2347,
+    "population": 42780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gandzak",
+    "region": "Gegharkunik Province",
+    "lat": 40.3147,
+    "lon": 45.1114,
+    "population": 42757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vardenis",
+    "region": "Gegharkunik Province",
+    "lat": 40.1833,
+    "lon": 45.7305,
+    "population": 42533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vosketap’",
+    "region": "Ararat Province",
+    "lat": 39.8811,
+    "lon": 44.6492,
+    "population": 42530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darpas",
+    "region": "Lori Region",
+    "lat": 40.8367,
+    "lon": 44.4249,
+    "population": 42499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agarakavan",
+    "region": "Aragatsotn Region",
+    "lat": 40.3307,
+    "lon": 44.0723,
+    "population": 42457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aragats",
+    "region": "Aragatsotn Region",
+    "lat": 40.4889,
+    "lon": 44.3529,
+    "population": 42348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marmarashen",
+    "region": "Ararat Province",
+    "lat": 40.0583,
+    "lon": 44.4723,
+    "population": 42182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arevabuyr",
+    "region": "Ararat Province",
+    "lat": 40.0361,
+    "lon": 44.4695,
+    "population": 42136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalarik",
+    "region": "Armavir Region",
+    "lat": 40.2279,
+    "lon": 43.8779,
+    "population": 41870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gugark’",
+    "region": "Lori Region",
+    "lat": 40.8046,
+    "lon": 44.5403,
+    "population": 41833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haykavan",
+    "region": "Shirak Region",
+    "lat": 40.8031,
+    "lon": 43.7517,
+    "population": 41664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goris",
+    "region": "Syunik Province",
+    "lat": 39.5111,
+    "lon": 46.3417,
+    "population": 41479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saramej",
+    "region": "Lori Region",
+    "lat": 40.7749,
+    "lon": 44.2222,
+    "population": 41433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsaghkunk’",
+    "region": "Armavir Region",
+    "lat": 40.1805,
+    "lon": 44.2723,
+    "population": 41432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayakovski",
+    "region": "Kotayk Region",
+    "lat": 40.2529,
+    "lon": 44.6389,
+    "population": 41283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Getap’",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7639,
+    "lon": 45.3083,
+    "population": 41255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zangakatun",
+    "region": "Ararat Province",
+    "lat": 39.8223,
+    "lon": 45.0417,
+    "population": 41236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ushi",
+    "region": "Aragatsotn Region",
+    "lat": 40.3473,
+    "lon": 44.3751,
+    "population": 41174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Griboyedov",
+    "region": "Armavir Region",
+    "lat": 40.1131,
+    "lon": 44.2717,
+    "population": 41025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norashen",
+    "region": "Lori Region",
+    "lat": 41.1889,
+    "lon": 44.3334,
+    "population": 40963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arak’s",
+    "region": "Armavir Region",
+    "lat": 40.0555,
+    "lon": 44.3029,
+    "population": 40929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeraskhahun",
+    "region": "Armavir Region",
+    "lat": 40.0723,
+    "lon": 44.2195,
+    "population": 40633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsovak",
+    "region": "Gegharkunik Province",
+    "lat": 40.1825,
+    "lon": 45.6329,
+    "population": 40580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hovtashat",
+    "region": "Ararat Province",
+    "lat": 40.0973,
+    "lon": 44.3445,
+    "population": 40570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayat’-Nova",
+    "region": "Ararat Province",
+    "lat": 40.0751,
+    "lon": 44.4001,
+    "population": 40390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhuryan",
+    "region": "Shirak Region",
+    "lat": 40.78,
+    "lon": 43.9003,
+    "population": 40331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anushavan",
+    "region": "Shirak Region",
+    "lat": 40.6501,
+    "lon": 43.9805,
+    "population": 39938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaghashen",
+    "region": "Gegharkunik Province",
+    "lat": 40.1361,
+    "lon": 45.3307,
+    "population": 39920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrgavet",
+    "region": "Ararat Province",
+    "lat": 40.0279,
+    "lon": 44.4833,
+    "population": 39901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berdavan",
+    "region": "Tavush Region",
+    "lat": 41.205,
+    "lon": 44.9997,
+    "population": 39598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haghartsin",
+    "region": "Tavush Region",
+    "lat": 40.7761,
+    "lon": 44.9685,
+    "population": 39541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nalbandyan",
+    "region": "Armavir Region",
+    "lat": 40.0639,
+    "lon": 43.9889,
+    "population": 39512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geghamavan",
+    "region": "Gegharkunik Province",
+    "lat": 40.5625,
+    "lon": 44.8889,
+    "population": 39477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sevan",
+    "region": "Gegharkunik Province",
+    "lat": 40.5473,
+    "lon": 44.9417,
+    "population": 39356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maralik",
+    "region": "Shirak Region",
+    "lat": 40.5751,
+    "lon": 43.8723,
+    "population": 39349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basen",
+    "region": "Shirak Region",
+    "lat": 40.7577,
+    "lon": 43.9927,
+    "population": 39316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hovtashen",
+    "region": "Ararat Province",
+    "lat": 40.0251,
+    "lon": 44.4501,
+    "population": 39190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lorut",
+    "region": "Lori Region",
+    "lat": 40.9372,
+    "lon": 44.7714,
+    "population": 38969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghavnadzor",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7861,
+    "lon": 45.2279,
+    "population": 38954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norashen",
+    "region": "Ararat Province",
+    "lat": 40.0013,
+    "lon": 44.593,
+    "population": 38929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urrut",
+    "region": "Lori Region",
+    "lat": 41.0678,
+    "lon": 44.3963,
+    "population": 38912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vardadzor",
+    "region": "Yerevan",
+    "lat": 40.187,
+    "lon": 45.1921,
+    "population": 38644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamo",
+    "region": "Shirak Region",
+    "lat": 40.8257,
+    "lon": 43.9507,
+    "population": 38365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yerazgavors",
+    "region": "Shirak Region",
+    "lat": 40.6951,
+    "lon": 43.7472,
+    "population": 38318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nshavan",
+    "region": "Ararat Province",
+    "lat": 40.0279,
+    "lon": 44.5256,
+    "population": 38166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hats’avan",
+    "region": "Syunik Province",
+    "lat": 39.4641,
+    "lon": 45.9705,
+    "population": 38160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arevshat",
+    "region": "Ararat Province",
+    "lat": 40.0396,
+    "lon": 44.5418,
+    "population": 38129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byurakan",
+    "region": "Aragatsotn Region",
+    "lat": 40.3389,
+    "lon": 44.2728,
+    "population": 38076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanjaghbyur",
+    "region": "Gegharkunik Province",
+    "lat": 40.2695,
+    "lon": 45.1445,
+    "population": 37923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyulagarak",
+    "region": "Lori Region",
+    "lat": 40.9671,
+    "lon": 44.4714,
+    "population": 37617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aygehovit",
+    "region": "Tavush Region",
+    "lat": 40.9795,
+    "lon": 45.2503,
+    "population": 37451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hnaberd",
+    "region": "Aragatsotn Region",
+    "lat": 40.6372,
+    "lon": 44.1406,
+    "population": 37070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shirakamut",
+    "region": "Lori Region",
+    "lat": 40.8606,
+    "lon": 44.1528,
+    "population": 37068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garrni",
+    "region": "Kotayk Region",
+    "lat": 40.1193,
+    "lon": 44.7344,
+    "population": 36895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghukasavan",
+    "region": "Ararat Province",
+    "lat": 40.1279,
+    "lon": 44.4167,
+    "population": 36874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buzhakan",
+    "region": "Kotayk Region",
+    "lat": 40.4557,
+    "lon": 44.5195,
+    "population": 36839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsaghkadzor",
+    "region": "Kotayk Region",
+    "lat": 40.5326,
+    "lon": 44.7203,
+    "population": 36547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dilijan",
+    "region": "Tavush Region",
+    "lat": 40.7417,
+    "lon": 44.8501,
+    "population": 36471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrazdan",
+    "region": "Kotayk Region",
+    "lat": 40.4975,
+    "lon": 44.7662,
+    "population": 36078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astghadzor",
+    "region": "Gegharkunik Province",
+    "lat": 40.1223,
+    "lon": 45.3555,
+    "population": 35760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bazum",
+    "region": "Lori Region",
+    "lat": 40.8676,
+    "lon": 44.4398,
+    "population": 35742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nerk’in Getashen",
+    "region": "Gegharkunik Province",
+    "lat": 40.1417,
+    "lon": 45.2709,
+    "population": 35563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varser",
+    "region": "Gegharkunik Province",
+    "lat": 40.5555,
+    "lon": 44.9083,
+    "population": 35547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenughi",
+    "region": "Armavir Region",
+    "lat": 40.1251,
+    "lon": 43.9639,
+    "population": 35390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahan",
+    "region": "Gegharkunik Province",
+    "lat": 40.5755,
+    "lon": 45.3977,
+    "population": 35281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aygepat",
+    "region": "Ararat Province",
+    "lat": 39.9584,
+    "lon": 44.5998,
+    "population": 35162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agarak",
+    "region": "Lori Region",
+    "lat": 41.0107,
+    "lon": 44.4684,
+    "population": 35139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geghanist",
+    "region": "Armavir Region",
+    "lat": 40.1459,
+    "lon": 44.4305,
+    "population": 35127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drakhtik",
+    "region": "Gegharkunik Province",
+    "lat": 40.565,
+    "lon": 45.2367,
+    "population": 34948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zorak",
+    "region": "Ararat Province",
+    "lat": 40.0917,
+    "lon": 44.3945,
+    "population": 34833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voskehat",
+    "region": "Armavir Region",
+    "lat": 40.1417,
+    "lon": 44.3307,
+    "population": 34743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pemzashen",
+    "region": "Shirak Region",
+    "lat": 40.5861,
+    "lon": 43.9431,
+    "population": 34718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lerrnapat",
+    "region": "Lori Region",
+    "lat": 40.8154,
+    "lon": 44.3934,
+    "population": 34566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mets Mant’ash",
+    "region": "Shirak Region",
+    "lat": 40.6438,
+    "lon": 44.0565,
+    "population": 34368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shatin",
+    "region": "Vayots Dzor Region",
+    "lat": 39.8361,
+    "lon": 45.3029,
+    "population": 33980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapan",
+    "region": "Syunik Province",
+    "lat": 39.2075,
+    "lon": 46.4058,
+    "population": 33884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vagharshapat",
+    "region": "Armavir Region",
+    "lat": 40.1656,
+    "lon": 44.2946,
+    "population": 33859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeghegnadzor",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7639,
+    "lon": 45.3324,
+    "population": 33846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarigyugh",
+    "region": "Tavush Region",
+    "lat": 41.0353,
+    "lon": 45.1449,
+    "population": 33811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosesgegh",
+    "region": "Tavush Region",
+    "lat": 40.9053,
+    "lon": 45.4884,
+    "population": 33724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aramus",
+    "region": "Kotayk Region",
+    "lat": 40.251,
+    "lon": 44.6635,
+    "population": 33706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abovyan",
+    "region": "Ararat Province",
+    "lat": 40.0485,
+    "lon": 44.5474,
+    "population": 33613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norabats’",
+    "region": "Ararat Province",
+    "lat": 40.1055,
+    "lon": 44.4333,
+    "population": 33530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zoravan",
+    "region": "Kotayk Region",
+    "lat": 40.3555,
+    "lon": 44.5223,
+    "population": 33483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aparan",
+    "region": "Aragatsotn Region",
+    "lat": 40.5932,
+    "lon": 44.3589,
+    "population": 33408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaputan",
+    "region": "Kotayk Region",
+    "lat": 40.3251,
+    "lon": 44.7001,
+    "population": 33123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayisyan",
+    "region": "Armavir Region",
+    "lat": 40.157,
+    "lon": 44.0919,
+    "population": 33021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surenavan",
+    "region": "Ararat Province",
+    "lat": 39.7945,
+    "lon": 44.7751,
+    "population": 32956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ddmashen",
+    "region": "Gegharkunik Province",
+    "lat": 40.5703,
+    "lon": 44.8229,
+    "population": 32930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dimitrov",
+    "region": "Ararat Province",
+    "lat": 40.0085,
+    "lon": 44.4917,
+    "population": 32813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gagarin",
+    "region": "Gegharkunik Province",
+    "lat": 40.5403,
+    "lon": 44.8696,
+    "population": 32802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merdzavan",
+    "region": "Armavir Region",
+    "lat": 40.1814,
+    "lon": 44.4003,
+    "population": 32785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alaverdi",
+    "region": "Lori Region",
+    "lat": 41.0977,
+    "lon": 44.6732,
+    "population": 32753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nor Yerznka",
+    "region": "Aragatsotn Region",
+    "lat": 40.3001,
+    "lon": 44.3889,
+    "population": 32693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metsavan",
+    "region": "Lori Region",
+    "lat": 41.2016,
+    "lon": 44.2288,
+    "population": 32538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arabkir",
+    "region": "Yerevan",
+    "lat": 40.2055,
+    "lon": 44.507,
+    "population": 32428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Margara",
+    "region": "Armavir Region",
+    "lat": 40.0333,
+    "lon": 44.1805,
+    "population": 32286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aknalich",
+    "region": "Armavir Region",
+    "lat": 40.1473,
+    "lon": 44.1667,
+    "population": 32160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taronik",
+    "region": "Armavir Region",
+    "lat": 40.1337,
+    "lon": 44.1996,
+    "population": 32069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrgashen",
+    "region": "Kotayk Region",
+    "lat": 40.2861,
+    "lon": 44.5445,
+    "population": 31941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apaga",
+    "region": "Armavir Region",
+    "lat": 40.0973,
+    "lon": 44.2529,
+    "population": 31642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsovazard",
+    "region": "Gegharkunik Province",
+    "lat": 40.4751,
+    "lon": 45.0501,
+    "population": 31522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dashtavan",
+    "region": "Ararat Province",
+    "lat": 40.1001,
+    "lon": 44.3917,
+    "population": 31505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukashin",
+    "region": "Armavir Region",
+    "lat": 40.1873,
+    "lon": 44.0039,
+    "population": 31139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nor Armavir",
+    "region": "Armavir Region",
+    "lat": 40.0861,
+    "lon": 43.9945,
+    "population": 31067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geghakert",
+    "region": "Armavir Region",
+    "lat": 40.1852,
+    "lon": 44.2433,
+    "population": 31012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voskehask",
+    "region": "Shirak Region",
+    "lat": 40.7643,
+    "lon": 43.7747,
+    "population": 30960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeranos",
+    "region": "Gegharkunik Province",
+    "lat": 40.2043,
+    "lon": 45.1921,
+    "population": 30930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avshar",
+    "region": "Ararat Province",
+    "lat": 39.8555,
+    "lon": 44.6583,
+    "population": 30921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argavand",
+    "region": "Armavir Region",
+    "lat": 40.0611,
+    "lon": 44.0945,
+    "population": 30743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarukhan",
+    "region": "Gegharkunik Province",
+    "lat": 40.2917,
+    "lon": 45.1307,
+    "population": 30656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voskevan",
+    "region": "Tavush Region",
+    "lat": 41.1208,
+    "lon": 45.0638,
+    "population": 30334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsiatsan",
+    "region": "Armavir Region",
+    "lat": 40.1861,
+    "lon": 44.2695,
+    "population": 30250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fioletovo",
+    "region": "Lori Region",
+    "lat": 40.7224,
+    "lon": 44.7177,
+    "population": 30168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarahart’",
+    "region": "Lori Region",
+    "lat": 40.8704,
+    "lon": 44.2141,
+    "population": 30135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darakert",
+    "region": "Ararat Province",
+    "lat": 40.1055,
+    "lon": 44.4139,
+    "population": 29726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horrom",
+    "region": "Shirak Region",
+    "lat": 40.6597,
+    "lon": 43.8903,
+    "population": 29713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Margahovit",
+    "region": "Lori Region",
+    "lat": 40.7338,
+    "lon": 44.6847,
+    "population": 29409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vardablur",
+    "region": "Lori Region",
+    "lat": 40.9708,
+    "lon": 44.5089,
+    "population": 29228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geghamasar",
+    "region": "Gegharkunik Province",
+    "lat": 40.3109,
+    "lon": 45.6792,
+    "population": 29138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vedi",
+    "region": "Ararat Province",
+    "lat": 39.9139,
+    "lon": 44.7251,
+    "population": 28912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sardarapat",
+    "region": "Armavir Region",
+    "lat": 40.1321,
+    "lon": 44.0097,
+    "population": 28856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nor Geghi",
+    "region": "Kotayk Region",
+    "lat": 40.3223,
+    "lon": 44.5833,
+    "population": 28250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meghrashen",
+    "region": "Shirak Region",
+    "lat": 40.6723,
+    "lon": 43.9583,
+    "population": 28226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karbi",
+    "region": "Aragatsotn Region",
+    "lat": 40.3307,
+    "lon": 44.3779,
+    "population": 27855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "P’ok’r Mant’ash",
+    "region": "Shirak Region",
+    "lat": 40.6403,
+    "lon": 44.0467,
+    "population": 27828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aygek",
+    "region": "Armavir Region",
+    "lat": 40.1889,
+    "lon": 44.3861,
+    "population": 27656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artimet",
+    "region": "Armavir Region",
+    "lat": 40.1501,
+    "lon": 44.2667,
+    "population": 27326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aygeshat",
+    "region": "Armavir Region",
+    "lat": 40.0751,
+    "lon": 44.0611,
+    "population": 27287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Getazat",
+    "region": "Ararat Province",
+    "lat": 40.0384,
+    "lon": 44.5637,
+    "population": 27285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jrashen",
+    "region": "Lori Region",
+    "lat": 40.7903,
+    "lon": 44.1866,
+    "population": 27236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amasia",
+    "region": "Shirak Region",
+    "lat": 40.9544,
+    "lon": 43.7872,
+    "population": 27179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyumri",
+    "region": "Shirak Region",
+    "lat": 40.7942,
+    "lon": 43.8453,
+    "population": 27078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ptghni",
+    "region": "Kotayk Region",
+    "lat": 40.2557,
+    "lon": 44.5861,
+    "population": 27072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martuni",
+    "region": "Gegharkunik Province",
+    "lat": 40.0833,
+    "lon": 45.25,
+    "population": 26787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "K’anak’erravan",
+    "region": "Yerevan",
+    "lat": 40.2474,
+    "lon": 44.5351,
+    "population": 26747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metsamor",
+    "region": "Armavir Region",
+    "lat": 40.1445,
+    "lon": 44.1167,
+    "population": 26741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yerevan",
+    "region": "Yerevan",
+    "lat": 40.1811,
+    "lon": 44.5136,
+    "population": 26628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeghegnavan",
+    "region": "Ararat Province",
+    "lat": 39.8389,
+    "lon": 44.6195,
+    "population": 26284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lchap’",
+    "region": "Gegharkunik Province",
+    "lat": 40.4557,
+    "lon": 45.0751,
+    "population": 26038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Archis",
+    "region": "Tavush Region",
+    "lat": 41.1635,
+    "lon": 44.8763,
+    "population": 25829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brrnakot’",
+    "region": "Syunik Province",
+    "lat": 39.4974,
+    "lon": 45.9724,
+    "population": 25630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azatan",
+    "region": "Shirak Region",
+    "lat": 40.7196,
+    "lon": 43.8273,
+    "population": 25624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alashkert",
+    "region": "Armavir Region",
+    "lat": 40.1071,
+    "lon": 44.0511,
+    "population": 25420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armavir",
+    "region": "Armavir Region",
+    "lat": 40.1545,
+    "lon": 44.0382,
+    "population": 24999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verin Dvin",
+    "region": "Ararat Province",
+    "lat": 40.0243,
+    "lon": 44.5904,
+    "population": 24878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosh",
+    "region": "Aragatsotn Region",
+    "lat": 40.3001,
+    "lon": 44.1611,
+    "population": 24857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahagni",
+    "region": "Lori Region",
+    "lat": 40.907,
+    "lon": 44.6087,
+    "population": 24826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arevashogh",
+    "region": "Lori Region",
+    "lat": 40.8604,
+    "lon": 44.2744,
+    "population": 24611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shinuhayr",
+    "region": "Syunik Province",
+    "lat": 39.4367,
+    "lon": 46.3179,
+    "population": 24550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verin Artashat",
+    "region": "Ararat Province",
+    "lat": 39.9973,
+    "lon": 44.5889,
+    "population": 24542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arteni",
+    "region": "Aragatsotn Region",
+    "lat": 40.2973,
+    "lon": 43.7667,
+    "population": 24242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lusarrat",
+    "region": "Ararat Province",
+    "lat": 39.874,
+    "lon": 44.5868,
+    "population": 24224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arevashat",
+    "region": "Armavir Region",
+    "lat": 40.1445,
+    "lon": 44.3751,
+    "population": 24103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azatamut",
+    "region": "Tavush Region",
+    "lat": 40.982,
+    "lon": 45.1855,
+    "population": 24043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghavnatun",
+    "region": "Armavir Region",
+    "lat": 40.2333,
+    "lon": 44.2529,
+    "population": 24013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzorastan",
+    "region": "Syunik Province",
+    "lat": 39.2706,
+    "lon": 46.3572,
+    "population": 23894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagratashen",
+    "region": "Tavush Region",
+    "lat": 41.2436,
+    "lon": 44.8174,
+    "population": 23858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arzni",
+    "region": "Kotayk Region",
+    "lat": 40.2973,
+    "lon": 44.5987,
+    "population": 23633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akunk’",
+    "region": "Gegharkunik Province",
+    "lat": 40.1589,
+    "lon": 45.7257,
+    "population": 23488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vostan",
+    "region": "Ararat Province",
+    "lat": 39.9652,
+    "lon": 44.5594,
+    "population": 23360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spitak",
+    "region": "Lori Region",
+    "lat": 40.8322,
+    "lon": 44.2673,
+    "population": 23279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byuravan",
+    "region": "Ararat Province",
+    "lat": 40.016,
+    "lon": 44.5189,
+    "population": 23059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotayk’",
+    "region": "Kotayk Region",
+    "lat": 40.2779,
+    "lon": 44.6639,
+    "population": 23054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arbat’",
+    "region": "Armavir Region",
+    "lat": 40.1389,
+    "lon": 44.4029,
+    "population": 22963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argel",
+    "region": "Kotayk Region",
+    "lat": 40.3779,
+    "lon": 44.6001,
+    "population": 22844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrganush",
+    "region": "Ararat Province",
+    "lat": 40.0286,
+    "lon": 44.5583,
+    "population": 22584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arevik",
+    "region": "Armavir Region",
+    "lat": 40.1001,
+    "lon": 44.0945,
+    "population": 22209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norakert",
+    "region": "Armavir Region",
+    "lat": 40.1973,
+    "lon": 44.3501,
+    "population": 21644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hovtamej",
+    "region": "Armavir Region",
+    "lat": 40.1833,
+    "lon": 44.2585,
+    "population": 21307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzoraghbyur",
+    "region": "Kotayk Region",
+    "lat": 40.2041,
+    "lon": 44.6415,
+    "population": 20955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lerrnanist",
+    "region": "Kotayk Region",
+    "lat": 40.4668,
+    "lon": 44.7925,
+    "population": 20918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saratak",
+    "region": "Shirak Region",
+    "lat": 40.6709,
+    "lon": 43.8723,
+    "population": 20568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khndzoresk",
+    "region": "Syunik Province",
+    "lat": 39.5057,
+    "lon": 46.4361,
+    "population": 20189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jrashen",
+    "region": "Yerevan",
+    "lat": 40.0528,
+    "lon": 44.5126,
+    "population": 20080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vayk’",
+    "region": "Vayots Dzor Region",
+    "lat": 39.6889,
+    "lon": 45.4667,
+    "population": 19815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sis",
+    "region": "Ararat Province",
+    "lat": 40.0583,
+    "lon": 44.3889,
+    "population": 19805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaghat",
+    "region": "Syunik Province",
+    "lat": 39.557,
+    "lon": 45.9073,
+    "population": 19594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angeghakot’",
+    "region": "Syunik Province",
+    "lat": 39.5695,
+    "lon": 45.9445,
+    "population": 19367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oshakan",
+    "region": "Aragatsotn Region",
+    "lat": 40.2639,
+    "lon": 44.3167,
+    "population": 19268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khasht’arrak",
+    "region": "Tavush Region",
+    "lat": 40.9367,
+    "lon": 45.1821,
+    "population": 18952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gogaran",
+    "region": "Lori Region",
+    "lat": 40.8925,
+    "lon": 44.1992,
+    "population": 18866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arzakan",
+    "region": "Kotayk Region",
+    "lat": 40.4501,
+    "lon": 44.6083,
+    "population": 18783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsaghkahovit",
+    "region": "Aragatsotn Region",
+    "lat": 40.6343,
+    "lon": 44.2224,
+    "population": 18439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haykashen",
+    "region": "Armavir Region",
+    "lat": 40.0723,
+    "lon": 44.3083,
+    "population": 18404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sisavan",
+    "region": "Ararat Province",
+    "lat": 39.908,
+    "lon": 44.6672,
+    "population": 18255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shenavan",
+    "region": "Armavir Region",
+    "lat": 40.0555,
+    "lon": 43.9305,
+    "population": 17936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanadzor",
+    "region": "Lori Region",
+    "lat": 40.8046,
+    "lon": 44.4939,
+    "population": 17843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "P’shatavan",
+    "region": "Armavir Region",
+    "lat": 40.0389,
+    "lon": 44.0667,
+    "population": 17820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noratus",
+    "region": "Gegharkunik Province",
+    "lat": 40.3779,
+    "lon": 45.1805,
+    "population": 17695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akht’ala",
+    "region": "Lori Region",
+    "lat": 41.1684,
+    "lon": 44.7581,
+    "population": 17657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baghramyan",
+    "region": "Armavir Region",
+    "lat": 40.1945,
+    "lon": 44.3695,
+    "population": 17491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lerrnavan",
+    "region": "Lori Region",
+    "lat": 40.7882,
+    "lon": 44.1602,
+    "population": 17257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tegh",
+    "region": "Syunik Province",
+    "lat": 39.5583,
+    "lon": 46.4805,
+    "population": 17112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashnak",
+    "region": "Aragatsotn Region",
+    "lat": 40.3307,
+    "lon": 43.9167,
+    "population": 16931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vernashen",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7924,
+    "lon": 45.3639,
+    "population": 16925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashtarak",
+    "region": "Aragatsotn Region",
+    "lat": 40.2991,
+    "lon": 44.362,
+    "population": 16895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meghri",
+    "region": "Syunik Province",
+    "lat": 38.9029,
+    "lon": 46.2446,
+    "population": 16781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berk’anush",
+    "region": "Ararat Province",
+    "lat": 39.9779,
+    "lon": 44.5167,
+    "population": 16403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zovuni",
+    "region": "Aragatsotn Region",
+    "lat": 40.5111,
+    "lon": 44.4389,
+    "population": 16279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balahovit",
+    "region": "Kotayk Region",
+    "lat": 40.2515,
+    "lon": 44.6083,
+    "population": 16206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artashat",
+    "region": "Ararat Province",
+    "lat": 39.9614,
+    "lon": 44.5445,
+    "population": 16175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gay",
+    "region": "Armavir Region",
+    "lat": 40.0844,
+    "lon": 44.3053,
+    "population": 16023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayanist",
+    "region": "Ararat Province",
+    "lat": 40.1223,
+    "lon": 44.3779,
+    "population": 16018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bardzrashen",
+    "region": "Ararat Province",
+    "lat": 40.0853,
+    "lon": 44.5796,
+    "population": 15850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karanlukh",
+    "region": "Gegharkunik Province",
+    "lat": 40.1044,
+    "lon": 45.2897,
+    "population": 15714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambakashat",
+    "region": "Armavir Region",
+    "lat": 40.1083,
+    "lon": 44.0195,
+    "population": 15633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agarakadzor",
+    "region": "Vayots Dzor Region",
+    "lat": 39.7361,
+    "lon": 45.3555,
+    "population": 15594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meghradzor",
+    "region": "Kotayk Region",
+    "lat": 40.6061,
+    "lon": 44.6515,
+    "population": 15457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shnogh",
+    "region": "Lori Region",
+    "lat": 41.1469,
+    "lon": 44.8404,
+    "population": 14946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsaghkaber",
+    "region": "Lori Region",
+    "lat": 40.7985,
+    "lon": 44.1014,
+    "population": 14651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argavand",
+    "region": "Yerevan",
+    "lat": 40.1529,
+    "lon": 44.4389,
+    "population": 14575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arazap’",
+    "region": "Armavir Region",
+    "lat": 40.0417,
+    "lon": 44.1473,
+    "population": 14454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noyemberyan",
+    "region": "Tavush Region",
+    "lat": 41.1724,
+    "lon": 44.9992,
+    "population": 14390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sasunik",
+    "region": "Aragatsotn Region",
+    "lat": 40.2501,
+    "lon": 44.3445,
+    "population": 14367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madina",
+    "region": "Gegharkunik Province",
+    "lat": 40.0764,
+    "lon": 45.2551,
+    "population": 14317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masis",
+    "region": "Ararat Province",
+    "lat": 40.0654,
+    "lon": 44.4162,
+    "population": 14020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burastan",
+    "region": "Ararat Province",
+    "lat": 39.9916,
+    "lon": 44.4968,
+    "population": 13873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shirak",
+    "region": "Shirak Region",
+    "lat": 40.8404,
+    "lon": 43.9158,
+    "population": 13701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mets Parni",
+    "region": "Lori Region",
+    "lat": 40.8347,
+    "lon": 44.1111,
+    "population": 13626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzoragyugh",
+    "region": "Gegharkunik Province",
+    "lat": 40.1696,
+    "lon": 45.1834,
+    "population": 13513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akunk’",
+    "region": "Kotayk Region",
+    "lat": 40.2667,
+    "lon": 44.6861,
+    "population": 13510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janfida",
+    "region": "Armavir Region",
+    "lat": 40.0445,
+    "lon": 44.0279,
+    "population": 13284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berd",
+    "region": "Tavush Region",
+    "lat": 40.8813,
+    "lon": 45.389,
+    "population": 13027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arevik",
+    "region": "Shirak Region",
+    "lat": 40.7417,
+    "lon": 43.9043,
+    "population": 12889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrgavan",
+    "region": "Ararat Province",
+    "lat": 39.9725,
+    "lon": 44.5356,
+    "population": 12641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsovinar",
+    "region": "Gegharkunik Province",
+    "lat": 40.1596,
+    "lon": 45.4679,
+    "population": 12438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dvin",
+    "region": "Ararat Province",
+    "lat": 40.0198,
+    "lon": 44.5838,
+    "population": 12433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jrahovit",
+    "region": "Ararat Province",
+    "lat": 40.0473,
+    "lon": 44.4751,
+    "population": 12153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jermuk",
+    "region": "Vayots Dzor Region",
+    "lat": 39.8417,
+    "lon": 45.6695,
+    "population": 12100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahumyan",
+    "region": "Ararat Province",
+    "lat": 39.9417,
+    "lon": 44.5723,
+    "population": 11870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarr",
+    "region": "Kotayk Region",
+    "lat": 40.2585,
+    "lon": 44.7333,
+    "population": 11660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gavarr",
+    "region": "Gegharkunik Province",
+    "lat": 40.354,
+    "lon": 45.1239,
+    "population": 11317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrap’i",
+    "region": "Shirak Region",
+    "lat": 40.7828,
+    "lon": 43.8058,
+    "population": 11259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Navur",
+    "region": "Tavush Region",
+    "lat": 40.867,
+    "lon": 45.3418,
+    "population": 10660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khoronk’",
+    "region": "Armavir Region",
+    "lat": 40.1361,
+    "lon": 44.2473,
+    "population": 10556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solak",
+    "region": "Kotayk Region",
+    "lat": 40.4625,
+    "lon": 44.7071,
+    "population": 10490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zovaber",
+    "region": "Kotayk Region",
+    "lat": 40.5667,
+    "lon": 44.7903,
+    "population": 10189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verishen",
+    "region": "Syunik Province",
+    "lat": 39.5354,
+    "lon": 46.3206,
+    "population": 10141,
+    "timezone": "UTC"
+  }
+]

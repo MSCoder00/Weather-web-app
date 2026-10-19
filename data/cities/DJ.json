@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Dorra",
+    "region": "Tadjourah Region",
+    "lat": 12.1503,
+    "lon": 42.4762,
+    "population": 48371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holhol",
+    "region": "Ali Sabieh Region",
+    "lat": 11.3103,
+    "lon": 42.9294,
+    "population": 37784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dikhil",
+    "region": "Dikhil Region",
+    "lat": 11.1045,
+    "lon": 42.3697,
+    "population": 31490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goubétto",
+    "region": "Ali Sabieh Region",
+    "lat": 11.4239,
+    "lon": 43.0003,
+    "population": 31440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "'Ali Sabieh",
+    "region": "Ali Sabieh Region",
+    "lat": 11.1558,
+    "lon": 42.7125,
+    "population": 31410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arta",
+    "region": "Arta Region",
+    "lat": 11.5264,
+    "lon": 42.8519,
+    "population": 26587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tadjourah",
+    "region": "Tadjourah Region",
+    "lat": 11.7878,
+    "lon": 42.8822,
+    "population": 21424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djibouti",
+    "region": "Djibouti",
+    "lat": 11.589,
+    "lon": 43.145,
+    "population": 19429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alaïli Ḏaḏḏa‘",
+    "region": "Obock Region",
+    "lat": 12.4217,
+    "lon": 42.8956,
+    "population": 17170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gâlâfi",
+    "region": "Dikhil Region",
+    "lat": 11.7158,
+    "lon": 41.8361,
+    "population": 13244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loyada",
+    "region": "Djibouti",
+    "lat": 11.4611,
+    "lon": 43.2528,
+    "population": 10625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obock",
+    "region": "Obock Region",
+    "lat": 11.9669,
+    "lon": 43.2884,
+    "population": 10532,
+    "timezone": "UTC"
+  }
+]

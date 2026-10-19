@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Sawla-Tuna-Kalba",
+    "region": "Savannah",
+    "lat": 9.3911,
+    "lon": -2.7061,
+    "population": 49852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aboso",
+    "region": "Western",
+    "lat": 5.3607,
+    "lon": -1.9486,
+    "population": 49585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Mamprusi",
+    "region": "North East",
+    "lat": 10.2991,
+    "lon": -1.3675,
+    "population": 49178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tano South",
+    "region": "Ahafo",
+    "lat": 7.1954,
+    "lon": -2.1259,
+    "population": 49150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nungua",
+    "region": "Greater Accra",
+    "lat": 5.601,
+    "lon": -0.0771,
+    "population": 49046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Mamprusi",
+    "region": "North East",
+    "lat": 10.4293,
+    "lon": -0.5308,
+    "population": 48952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadjebi",
+    "region": "Oti",
+    "lat": 7.5263,
+    "lon": 0.467,
+    "population": 48830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yunyoo-Nasuan",
+    "region": "North East",
+    "lat": 10.484,
+    "lon": -0.009,
+    "population": 48018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dome",
+    "region": "Greater Accra",
+    "lat": 5.65,
+    "lon": -0.2361,
+    "population": 47973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tafo",
+    "region": "Ashanti",
+    "lat": 6.7316,
+    "lon": -1.6137,
+    "population": 46539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkoranza North",
+    "region": "Bono East",
+    "lat": 7.566,
+    "lon": -1.7237,
+    "population": 45850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foso",
+    "region": "Central",
+    "lat": 5.7012,
+    "lon": -1.2866,
+    "population": 45631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aflao",
+    "region": "Volta",
+    "lat": 6.1198,
+    "lon": 1.1901,
+    "population": 45395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cape Coast",
+    "region": "Central",
+    "lat": 5.1053,
+    "lon": -1.2466,
+    "population": 45010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atsiaman",
+    "region": "Greater Accra",
+    "lat": 5.6978,
+    "lon": -0.3282,
+    "population": 45003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bia East",
+    "region": "Western North",
+    "lat": 6.7686,
+    "lon": -3.333,
+    "population": 44735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mumford",
+    "region": "Central",
+    "lat": 5.2618,
+    "lon": -0.759,
+    "population": 44675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savelugu",
+    "region": "Northern",
+    "lat": 9.6244,
+    "lon": -0.8253,
+    "population": 44205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pru East",
+    "region": "Bono East",
+    "lat": 8.2262,
+    "lon": -0.6536,
+    "population": 43867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jasikan",
+    "region": "Oti",
+    "lat": 7.4094,
+    "lon": 0.443,
+    "population": 43794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibi",
+    "region": "Eastern",
+    "lat": 6.1649,
+    "lon": -0.5538,
+    "population": 43415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asutifi North",
+    "region": "Ahafo",
+    "lat": 6.9477,
+    "lon": -2.7676,
+    "population": 43332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Gonja",
+    "region": "Savannah",
+    "lat": 9.5413,
+    "lon": -1.3977,
+    "population": 43171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konongo",
+    "region": "Ashanti",
+    "lat": 6.6167,
+    "lon": -1.2167,
+    "population": 42833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apam",
+    "region": "Central",
+    "lat": 5.2848,
+    "lon": -0.7371,
+    "population": 42485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Accra",
+    "region": "Greater Accra",
+    "lat": 5.556,
+    "lon": -0.1969,
+    "population": 42059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anloga",
+    "region": "Volta",
+    "lat": 5.7947,
+    "lon": 0.8973,
+    "population": 41950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krachi West",
+    "region": "Oti",
+    "lat": 7.9828,
+    "lon": -0.3489,
+    "population": 41813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunkwa",
+    "region": "Central",
+    "lat": 5.96,
+    "lon": -1.7779,
+    "population": 41393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asutifi South",
+    "region": "Ahafo",
+    "lat": 6.648,
+    "lon": -2.6887,
+    "population": 40441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aburi",
+    "region": "Eastern",
+    "lat": 5.848,
+    "lon": -0.1745,
+    "population": 39001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dormaa Central",
+    "region": "Bono",
+    "lat": 7.2775,
+    "lon": -2.8783,
+    "population": 38780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kpandu",
+    "region": "Volta",
+    "lat": 6.9954,
+    "lon": 0.2931,
+    "population": 38593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mamprugu-Moagduri",
+    "region": "North East",
+    "lat": 10.2329,
+    "lon": -1.2836,
+    "population": 38416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bia West",
+    "region": "Western North",
+    "lat": 6.7686,
+    "lon": -3.333,
+    "population": 38415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kpandae",
+    "region": "Northern",
+    "lat": 8.4688,
+    "lon": -0.0113,
+    "population": 38315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tano North",
+    "region": "Ahafo",
+    "lat": 7.226,
+    "lon": -2.3046,
+    "population": 37647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Gonja",
+    "region": "Savannah",
+    "lat": 8.7257,
+    "lon": -1.0714,
+    "population": 37407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bibiani-Anhwiaso-Bekwai",
+    "region": "Western North",
+    "lat": 6.3021,
+    "lon": -2.3568,
+    "population": 37207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kintampo North",
+    "region": "Bono East",
+    "lat": 8.3964,
+    "lon": -1.82,
+    "population": 36927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bodi",
+    "region": "Western North",
+    "lat": 6.2224,
+    "lon": -2.7662,
+    "population": 36722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumasi",
+    "region": "Ashanti",
+    "lat": 6.6885,
+    "lon": -1.6244,
+    "population": 35241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kintampo South",
+    "region": "Bono East",
+    "lat": 7.9897,
+    "lon": -2.0071,
+    "population": 34992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bawku",
+    "region": "Upper East",
+    "lat": 11.0616,
+    "lon": -0.2417,
+    "population": 34925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaman South",
+    "region": "Bono",
+    "lat": 7.7084,
+    "lon": -3.075,
+    "population": 34815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banda",
+    "region": "Bono",
+    "lat": 8.1496,
+    "lon": -2.3664,
+    "population": 34438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asamankese",
+    "region": "Eastern",
+    "lat": 5.8601,
+    "lon": -0.6635,
+    "population": 34330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolgatanga",
+    "region": "Upper East",
+    "lat": 10.7856,
+    "lon": -0.8514,
+    "population": 34189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akim Oda",
+    "region": "Eastern",
+    "lat": 5.9267,
+    "lon": -0.9858,
+    "population": 34017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saltpond",
+    "region": "Central",
+    "lat": 5.2091,
+    "lon": -1.0606,
+    "population": 33651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dormaa West",
+    "region": "Bono",
+    "lat": 7.0167,
+    "lon": -3.05,
+    "population": 33108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kete Krachi",
+    "region": "Volta",
+    "lat": 7.7939,
+    "lon": -0.0498,
+    "population": 32993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medina Estates",
+    "region": "Greater Accra",
+    "lat": 5.6658,
+    "lon": -0.1631,
+    "population": 32701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpraeso",
+    "region": "Eastern",
+    "lat": 6.5932,
+    "lon": -0.7346,
+    "population": 32131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agogo",
+    "region": "Ashanti",
+    "lat": 6.8,
+    "lon": -1.0819,
+    "population": 32115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bole",
+    "region": "Savannah",
+    "lat": 9.03,
+    "lon": -2.5069,
+    "population": 31609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gbawe",
+    "region": "Greater Accra",
+    "lat": 5.5769,
+    "lon": -0.3104,
+    "population": 31524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akwatia",
+    "region": "Eastern",
+    "lat": 6.0402,
+    "lon": -0.8088,
+    "population": 30997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tema",
+    "region": "Greater Accra",
+    "lat": 5.6698,
+    "lon": -0.0166,
+    "population": 30877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ejura",
+    "region": "Ashanti",
+    "lat": 7.3856,
+    "lon": -1.3562,
+    "population": 30200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunyani",
+    "region": "Bono",
+    "lat": 7.338,
+    "lon": -2.3487,
+    "population": 29045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krachi Nchumuru",
+    "region": "Oti",
+    "lat": 8.1485,
+    "lon": -0.1635,
+    "population": 28546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teshi Old Town",
+    "region": "Greater Accra",
+    "lat": 5.5836,
+    "lon": -0.1072,
+    "population": 28495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shama Junction",
+    "region": "Western",
+    "lat": 5.0181,
+    "lon": -1.6644,
+    "population": 28403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atebubu-Amantin",
+    "region": "Bono East",
+    "lat": 7.7024,
+    "lon": -1.2198,
+    "population": 27904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asunafo North",
+    "region": "Ahafo",
+    "lat": 6.8197,
+    "lon": -2.8077,
+    "population": 27494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Begoro",
+    "region": "Eastern",
+    "lat": 6.3871,
+    "lon": -0.3774,
+    "population": 27128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prestea",
+    "region": "Western",
+    "lat": 5.4338,
+    "lon": -2.1429,
+    "population": 26946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akropong",
+    "region": "Eastern",
+    "lat": 5.9746,
+    "lon": -0.0854,
+    "population": 26901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bekwai",
+    "region": "Ashanti",
+    "lat": 6.452,
+    "lon": -1.5787,
+    "population": 25909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dormaa East",
+    "region": "Bono",
+    "lat": 7.3,
+    "lon": -2.7,
+    "population": 25453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Central Gonja",
+    "region": "Savannah",
+    "lat": 8.9278,
+    "lon": -1.9537,
+    "population": 25358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Axim",
+    "region": "Western",
+    "lat": 4.8664,
+    "lon": -2.2418,
+    "population": 25293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berekum East",
+    "region": "Bono",
+    "lat": 7.5112,
+    "lon": -2.76,
+    "population": 24884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Techiman North",
+    "region": "Bono East",
+    "lat": 7.7043,
+    "lon": -2.0814,
+    "population": 24441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sekondi-Takoradi",
+    "region": "Western",
+    "lat": 4.9268,
+    "lon": -1.7577,
+    "population": 23590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takoradi",
+    "region": "Western",
+    "lat": 4.8982,
+    "lon": -1.7603,
+    "population": 23547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hohoe",
+    "region": "Volta",
+    "lat": 7.1518,
+    "lon": 0.4736,
+    "population": 23501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asunafo South",
+    "region": "Ahafo",
+    "lat": 6.648,
+    "lon": -2.6887,
+    "population": 23483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pru West",
+    "region": "Bono East",
+    "lat": 8.0736,
+    "lon": -1.2906,
+    "population": 23308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Navrongo",
+    "region": "Upper East",
+    "lat": 10.8956,
+    "lon": -1.0921,
+    "population": 23264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biakoye",
+    "region": "Oti",
+    "lat": 7.117,
+    "lon": 0.3232,
+    "population": 23105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sefwi-Akontombra",
+    "region": "Western North",
+    "lat": 6.0429,
+    "lon": -2.8813,
+    "population": 22610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunyani West",
+    "region": "Bono",
+    "lat": 7.3566,
+    "lon": -2.4462,
+    "population": 22520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarkwa",
+    "region": "Western",
+    "lat": 5.3038,
+    "lon": -1.9896,
+    "population": 22201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obuase",
+    "region": "Ashanti",
+    "lat": 6.2023,
+    "lon": -1.668,
+    "population": 21038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aowin",
+    "region": "Western North",
+    "lat": 5.7531,
+    "lon": -3.0752,
+    "population": 21006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mampong",
+    "region": "Ashanti",
+    "lat": 7.0627,
+    "lon": -1.4001,
+    "population": 20397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salaga",
+    "region": "Northern",
+    "lat": 8.5508,
+    "lon": -0.5188,
+    "population": 20345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tain",
+    "region": "Bono",
+    "lat": 8.1811,
+    "lon": -2.8649,
+    "population": 19955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keta",
+    "region": "Volta",
+    "lat": 5.9179,
+    "lon": 0.9879,
+    "population": 19804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elmina",
+    "region": "Central",
+    "lat": 5.0847,
+    "lon": -1.3509,
+    "population": 19583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkwanta South",
+    "region": "Oti",
+    "lat": 8.2593,
+    "lon": 0.5019,
+    "population": 19547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bibiani",
+    "region": "Western",
+    "lat": 6.4635,
+    "lon": -2.3194,
+    "population": 19021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkoranza South",
+    "region": "Bono East",
+    "lat": 7.6241,
+    "lon": -1.7997,
+    "population": 18681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkwanta North",
+    "region": "Oti",
+    "lat": 8.3518,
+    "lon": 0.1222,
+    "population": 18463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suhum",
+    "region": "Eastern",
+    "lat": 6.0409,
+    "lon": -0.45,
+    "population": 18066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krachi East",
+    "region": "Oti",
+    "lat": 7.772,
+    "lon": -0.0776,
+    "population": 18016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North East Gonja",
+    "region": "Savannah",
+    "lat": 9.1175,
+    "lon": -0.5558,
+    "population": 17977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swedru",
+    "region": "Central",
+    "lat": 5.5371,
+    "lon": -0.6998,
+    "population": 17823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenchi",
+    "region": "Bono",
+    "lat": 7.7406,
+    "lon": -2.1227,
+    "population": 17632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bunkpurugu-Nyakpanduri",
+    "region": "North East",
+    "lat": 10.4661,
+    "lon": -0.2271,
+    "population": 17545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winneba",
+    "region": "Central",
+    "lat": 5.3511,
+    "lon": -0.6231,
+    "population": 17207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juaboso",
+    "region": "Western North",
+    "lat": 6.3333,
+    "lon": -2.8421,
+    "population": 16788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Gonja",
+    "region": "Savannah",
+    "lat": 9.5751,
+    "lon": -2.2644,
+    "population": 15719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasoa",
+    "region": "Central",
+    "lat": 5.5345,
+    "lon": -0.4168,
+    "population": 15089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chereponi",
+    "region": "North East",
+    "lat": 10.1383,
+    "lon": 0.2824,
+    "population": 14755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suaman",
+    "region": "Western North",
+    "lat": 5.7531,
+    "lon": -3.0752,
+    "population": 14674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sefwi-Wiawso",
+    "region": "Western North",
+    "lat": 6.2197,
+    "lon": -2.5006,
+    "population": 14561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koforidua",
+    "region": "Eastern",
+    "lat": 6.0941,
+    "lon": -0.2591,
+    "population": 14548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yendi",
+    "region": "Northern",
+    "lat": 9.4427,
+    "lon": -0.0099,
+    "population": 14445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berekum West",
+    "region": "Bono",
+    "lat": 7.5112,
+    "lon": -2.76,
+    "population": 14436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wa",
+    "region": "Upper West",
+    "lat": 10.0607,
+    "lon": -2.5019,
+    "population": 13952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sene West",
+    "region": "Bono East",
+    "lat": 7.7342,
+    "lon": -0.6818,
+    "population": 13802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ho",
+    "region": "Volta",
+    "lat": 6.6008,
+    "lon": 0.4713,
+    "population": 13688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akim Swedru",
+    "region": "Eastern",
+    "lat": 5.8938,
+    "lon": -1.0164,
+    "population": 12429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamale",
+    "region": "Northern",
+    "lat": 9.4008,
+    "lon": -0.8393,
+    "population": 12221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sene East",
+    "region": "Bono East",
+    "lat": 7.783,
+    "lon": -0.217,
+    "population": 12170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaman North",
+    "region": "Bono",
+    "lat": 7.9883,
+    "lon": -2.9686,
+    "population": 11371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nsawam",
+    "region": "Eastern",
+    "lat": 5.8089,
+    "lon": -0.3503,
+    "population": 10771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Techiman",
+    "region": "Bono East",
+    "lat": 7.5897,
+    "lon": -1.9512,
+    "population": 10468,
+    "timezone": "UTC"
+  }
+]

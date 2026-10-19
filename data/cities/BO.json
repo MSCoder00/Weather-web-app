@@ -1,0 +1,1826 @@
+[
+  {
+    "name": "Pailón",
+    "region": "Santa Cruz Department",
+    "lat": -17.65,
+    "lon": -62.75,
+    "population": 49937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colquechaca",
+    "region": "Potosí Department",
+    "lat": -18.7003,
+    "lon": -66.004,
+    "population": 49871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Chaparé",
+    "region": "Cochabamba Department",
+    "lat": -16.5,
+    "lon": -65.5,
+    "population": 49539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Nor Lípez",
+    "region": "Potosí Department",
+    "lat": -20.5,
+    "lon": -67.8333,
+    "population": 48655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urubichá",
+    "region": "Santa Cruz Department",
+    "lat": -15.3929,
+    "lon": -62.9466,
+    "population": 48647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia O’Connor",
+    "region": "Tarija Department",
+    "lat": -21.5833,
+    "lon": -64.1667,
+    "population": 48272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Hernando Siles",
+    "region": "Chuquisaca Department",
+    "lat": -20.1667,
+    "lon": -64.25,
+    "population": 48127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "Santa Cruz Department",
+    "lat": -18.2833,
+    "lon": -59.8167,
+    "population": 48125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio de Velasco",
+    "region": "Santa Cruz Department",
+    "lat": -16.3667,
+    "lon": -60.95,
+    "population": 48092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Potosí Department",
+    "lat": -20.9167,
+    "lon": -66.05,
+    "population": 48057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bermejo",
+    "region": "Tarija Department",
+    "lat": -22.7321,
+    "lon": -64.3372,
+    "population": 48021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punata",
+    "region": "Cochabamba Department",
+    "lat": -17.5423,
+    "lon": -65.8347,
+    "population": 47969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto de Mejillones",
+    "region": "Oruro Department",
+    "lat": -18.9927,
+    "lon": -68.6845,
+    "population": 47791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Ñuflo de Chávez",
+    "region": "Santa Cruz Department",
+    "lat": -15.9167,
+    "lon": -62.5,
+    "population": 47726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Pacajes",
+    "region": "La Paz Department",
+    "lat": -17.5,
+    "lon": -69,
+    "population": 47593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coroico",
+    "region": "La Paz Department",
+    "lat": -16.1939,
+    "lon": -67.73,
+    "population": 47587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Mamoré",
+    "region": "Beni Department",
+    "lat": -13,
+    "lon": -64.9167,
+    "population": 47487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Bélgica",
+    "region": "Santa Cruz Department",
+    "lat": -17.55,
+    "lon": -63.2167,
+    "population": 46937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Iturralde",
+    "region": "La Paz Department",
+    "lat": -13,
+    "lon": -68,
+    "population": 46900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiraque Province",
+    "region": "Cochabamba Department",
+    "lat": -17.3333,
+    "lon": -65.9167,
+    "population": 46858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz",
+    "region": "La Paz Department",
+    "lat": -16.5,
+    "lon": -68.15,
+    "population": 46814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sacaba",
+    "region": "Cochabamba Department",
+    "lat": -17.398,
+    "lon": -66.0383,
+    "population": 46565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Sud Lípez",
+    "region": "Potosí Department",
+    "lat": -22,
+    "lon": -67.5,
+    "population": 46395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Abuná",
+    "region": "Pando Department",
+    "lat": -10.5,
+    "lon": -66.5,
+    "population": 46191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irpa Irpa",
+    "region": "Cochabamba Department",
+    "lat": -17.7167,
+    "lon": -66.2667,
+    "population": 46082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riberalta",
+    "region": "Beni Department",
+    "lat": -11.0065,
+    "lon": -66.0631,
+    "population": 46029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villazón",
+    "region": "Potosí Department",
+    "lat": -22.0866,
+    "lon": -65.5942,
+    "population": 45823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Avilez",
+    "region": "Tarija Department",
+    "lat": -21.6667,
+    "lon": -65,
+    "population": 45702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Arani",
+    "region": "Cochabamba Department",
+    "lat": -17.5,
+    "lon": -65.5,
+    "population": 45697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sucre",
+    "region": "Chuquisaca Department",
+    "lat": -19.0333,
+    "lon": -65.2627,
+    "population": 45457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batallas",
+    "region": "La Paz Department",
+    "lat": -16.3,
+    "lon": -68.5333,
+    "population": 44804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capinota",
+    "region": "Cochabamba Department",
+    "lat": -17.7111,
+    "lon": -66.2608,
+    "population": 44499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cotoca",
+    "region": "Santa Cruz Department",
+    "lat": -17.8167,
+    "lon": -63.05,
+    "population": 44428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Nor Cinti",
+    "region": "Chuquisaca Department",
+    "lat": -20.3333,
+    "lon": -65,
+    "population": 44379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Madre de Dios",
+    "region": "Pando Department",
+    "lat": -11.5833,
+    "lon": -67,
+    "population": 43921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Cercado",
+    "region": "Cochabamba Department",
+    "lat": -17.3333,
+    "lon": -66.1667,
+    "population": 43897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Yacuma",
+    "region": "Beni Department",
+    "lat": -13.5,
+    "lon": -66,
+    "population": 42980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Sud Chichas",
+    "region": "Potosí Department",
+    "lat": -21.5,
+    "lon": -66,
+    "population": 42936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sebastian Pagador Province",
+    "region": "Oruro Department",
+    "lat": -19.2167,
+    "lon": -66.2167,
+    "population": 42515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arani",
+    "region": "Cochabamba Department",
+    "lat": -17.5685,
+    "lon": -65.7688,
+    "population": 42505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atocha",
+    "region": "Potosí Department",
+    "lat": -20.9352,
+    "lon": -66.2214,
+    "population": 42310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mapiri",
+    "region": "La Paz Department",
+    "lat": -15.25,
+    "lon": -68.1667,
+    "population": 42184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Tomás Frías",
+    "region": "Potosí Department",
+    "lat": -19.3333,
+    "lon": -66,
+    "population": 42046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Franz Tamayo",
+    "region": "La Paz Department",
+    "lat": -14.5,
+    "lon": -68.3333,
+    "population": 41649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Negros",
+    "region": "Santa Cruz Department",
+    "lat": -17.7333,
+    "lon": -63.4333,
+    "population": 41087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Chayanta",
+    "region": "Potosí Department",
+    "lat": -18.9167,
+    "lon": -66,
+    "population": 40637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cochabamba",
+    "region": "Cochabamba Department",
+    "lat": -17.3895,
+    "lon": -66.1568,
+    "population": 40419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Challapata",
+    "region": "Oruro Department",
+    "lat": -18.9021,
+    "lon": -66.7705,
+    "population": 40191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia San Pedro de Totora",
+    "region": "Oruro Department",
+    "lat": -17.8333,
+    "lon": -68.2,
+    "population": 40006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colomi",
+    "region": "Cochabamba Department",
+    "lat": -17.35,
+    "lon": -65.8667,
+    "population": 39980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Ángel Sandoval",
+    "region": "Santa Cruz Department",
+    "lat": -17.5,
+    "lon": -58.5,
+    "population": 39912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padilla",
+    "region": "Chuquisaca Department",
+    "lat": -19.3088,
+    "lon": -64.3027,
+    "population": 39754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poopó",
+    "region": "Oruro Department",
+    "lat": -18.3803,
+    "lon": -66.9669,
+    "population": 39704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan del Surutú",
+    "region": "Santa Cruz Department",
+    "lat": -17.4833,
+    "lon": -63.7,
+    "population": 39178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "José Manuel Pando",
+    "region": "La Paz Department",
+    "lat": -16.1897,
+    "lon": -67.7266,
+    "population": 39140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ascensión",
+    "region": "Santa Cruz Department",
+    "lat": -15.7,
+    "lon": -63.0833,
+    "population": 39064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinidad",
+    "region": "Beni Department",
+    "lat": -14.8333,
+    "lon": -64.9,
+    "population": 38873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Zudáñez",
+    "region": "Chuquisaca Department",
+    "lat": -18.9167,
+    "lon": -64.8333,
+    "population": 38690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "Beni Department",
+    "lat": -14.1667,
+    "lon": -66.8833,
+    "population": 38670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colchani",
+    "region": "Potosí Department",
+    "lat": -20.3,
+    "lon": -66.9333,
+    "population": 38482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camiri",
+    "region": "Santa Cruz Department",
+    "lat": -20.0385,
+    "lon": -63.5183,
+    "population": 38458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colquiri",
+    "region": "La Paz Department",
+    "lat": -17.3892,
+    "lon": -67.1267,
+    "population": 38394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Germán Jordán",
+    "region": "Cochabamba Department",
+    "lat": -17.5833,
+    "lon": -65.9167,
+    "population": 37981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Punata",
+    "region": "Cochabamba Department",
+    "lat": -17.5,
+    "lon": -65.9167,
+    "population": 37936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Nor Chichas",
+    "region": "Potosí Department",
+    "lat": -20.6667,
+    "lon": -66,
+    "population": 37903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Julian",
+    "region": "Santa Cruz Department",
+    "lat": -17.7833,
+    "lon": -62.8667,
+    "population": 37773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Achacachi",
+    "region": "La Paz Department",
+    "lat": -16.05,
+    "lon": -68.6833,
+    "population": 37713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cliza",
+    "region": "Cochabamba Department",
+    "lat": -17.5878,
+    "lon": -65.9325,
+    "population": 37624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cobija",
+    "region": "Pando Department",
+    "lat": -11.0267,
+    "lon": -68.7692,
+    "population": 37583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huatajata",
+    "region": "La Paz Department",
+    "lat": -16.2,
+    "lon": -68.6833,
+    "population": 37533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Moxos",
+    "region": "Beni Department",
+    "lat": -15.1667,
+    "lon": -65.5,
+    "population": 37383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarayos",
+    "region": "Santa Cruz Department",
+    "lat": -15.8213,
+    "lon": -63.2428,
+    "population": 37326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Daniel Campos",
+    "region": "Potosí Department",
+    "lat": -20.25,
+    "lon": -68.25,
+    "population": 37148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Ayopaya",
+    "region": "Cochabamba Department",
+    "lat": -16.5,
+    "lon": -66.5833,
+    "population": 37068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Muñecas",
+    "region": "La Paz Department",
+    "lat": -15.3333,
+    "lon": -68.6667,
+    "population": 37034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aiquile",
+    "region": "Cochabamba Department",
+    "lat": -18.2041,
+    "lon": -65.1807,
+    "population": 36965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Sabaya",
+    "region": "Oruro Department",
+    "lat": -19,
+    "lon": -68.5833,
+    "population": 36836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Sara",
+    "region": "Santa Cruz Department",
+    "lat": -16.8333,
+    "lon": -63.9167,
+    "population": 36600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Yapacaní",
+    "region": "Santa Cruz Department",
+    "lat": -17.4,
+    "lon": -63.8333,
+    "population": 36077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montero",
+    "region": "Santa Cruz Department",
+    "lat": -17.3387,
+    "lon": -63.2505,
+    "population": 35877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Linares",
+    "region": "Potosí Department",
+    "lat": -19.8333,
+    "lon": -65.5,
+    "population": 35719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villamontes",
+    "region": "Tarija Department",
+    "lat": -21.2624,
+    "lon": -63.469,
+    "population": 35528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mizque",
+    "region": "Cochabamba Department",
+    "lat": -17.941,
+    "lon": -65.3402,
+    "population": 34985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Arque",
+    "region": "Cochabamba Department",
+    "lat": -17.75,
+    "lon": -66.6667,
+    "population": 34786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Inquisivi",
+    "region": "La Paz Department",
+    "lat": -17,
+    "lon": -67.0833,
+    "population": 34630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jorochito",
+    "region": "Santa Cruz Department",
+    "lat": -18.0551,
+    "lon": -63.4282,
+    "population": 34564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Nor Yungas",
+    "region": "La Paz Department",
+    "lat": -16,
+    "lon": -67.5,
+    "population": 33949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarabuco",
+    "region": "Chuquisaca Department",
+    "lat": -19.1817,
+    "lon": -64.9152,
+    "population": 33878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enrique Baldivieso",
+    "region": "Potosí Department",
+    "lat": -21.3832,
+    "lon": -67.6037,
+    "population": 33625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chulumani",
+    "region": "La Paz Department",
+    "lat": -16.4086,
+    "lon": -67.5294,
+    "population": 33521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machacamarca",
+    "region": "Oruro Department",
+    "lat": -18.1725,
+    "lon": -67.021,
+    "population": 33349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarija",
+    "region": "Tarija Department",
+    "lat": -21.5355,
+    "lon": -64.7296,
+    "population": 33312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charagua",
+    "region": "Santa Cruz Department",
+    "lat": -19.7915,
+    "lon": -63.1986,
+    "population": 33283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lahuachaca",
+    "region": "La Paz Department",
+    "lat": -17.3705,
+    "lon": -67.675,
+    "population": 33163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Yamparáez",
+    "region": "Chuquisaca Department",
+    "lat": -19.1667,
+    "lon": -64.9167,
+    "population": 32932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Omasuyos",
+    "region": "La Paz Department",
+    "lat": -15.9167,
+    "lon": -68.8333,
+    "population": 32688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oruro",
+    "region": "Oruro Department",
+    "lat": -17.9833,
+    "lon": -67.15,
+    "population": 32413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Independencia",
+    "region": "Cochabamba Department",
+    "lat": -17.0839,
+    "lon": -66.818,
+    "population": 31868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Los Andes",
+    "region": "La Paz Department",
+    "lat": -16.3333,
+    "lon": -68.5,
+    "population": 31650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Avaroa",
+    "region": "Oruro Department",
+    "lat": -19,
+    "lon": -66.6667,
+    "population": 31586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roboré",
+    "region": "Santa Cruz Department",
+    "lat": -18.3347,
+    "lon": -59.7614,
+    "population": 31537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mineros",
+    "region": "Santa Cruz Department",
+    "lat": -17.1188,
+    "lon": -63.231,
+    "population": 31199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viloco",
+    "region": "La Paz Department",
+    "lat": -16.95,
+    "lon": -67.55,
+    "population": 31183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Camacho",
+    "region": "La Paz Department",
+    "lat": -15.5,
+    "lon": -69,
+    "population": 30844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huarina",
+    "region": "La Paz Department",
+    "lat": -16.2,
+    "lon": -68.6333,
+    "population": 30802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Cercado",
+    "region": "Beni Department",
+    "lat": -14.5,
+    "lon": -64.3333,
+    "population": 30617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Quillacollo",
+    "region": "Cochabamba Department",
+    "lat": -17.5,
+    "lon": -66.5,
+    "population": 30576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Murillo",
+    "region": "La Paz Department",
+    "lat": -16.3333,
+    "lon": -68,
+    "population": 30446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limoncito",
+    "region": "Santa Cruz Department",
+    "lat": -18.031,
+    "lon": -63.4052,
+    "population": 30282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Entre Ríos",
+    "region": "Tarija Department",
+    "lat": -21.5266,
+    "lon": -64.173,
+    "population": 29936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Rafael Bustillo",
+    "region": "Potosí Department",
+    "lat": -18.3333,
+    "lon": -66.5,
+    "population": 29687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Iténez",
+    "region": "Beni Department",
+    "lat": -13.4167,
+    "lon": -63.5,
+    "population": 29493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rurrenabaque",
+    "region": "Beni Department",
+    "lat": -14.4413,
+    "lon": -67.5278,
+    "population": 28962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia General Bilbao",
+    "region": "Potosí Department",
+    "lat": -18.0833,
+    "lon": -66,
+    "population": 28659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Cercado",
+    "region": "Tarija Department",
+    "lat": -21.5833,
+    "lon": -64.5833,
+    "population": 28557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Tomina",
+    "region": "Chuquisaca Department",
+    "lat": -19.5,
+    "lon": -64.1667,
+    "population": 28541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Betanzos",
+    "region": "Potosí Department",
+    "lat": -19.5529,
+    "lon": -65.454,
+    "population": 28535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Modesto Omiste",
+    "region": "Potosí Department",
+    "lat": -21.9167,
+    "lon": -65.5833,
+    "population": 28513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Gran Chaco",
+    "region": "Tarija Department",
+    "lat": -21.6667,
+    "lon": -63,
+    "population": 28374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia General José Ballivián",
+    "region": "Beni Department",
+    "lat": -14,
+    "lon": -67.0833,
+    "population": 28018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Larecaja",
+    "region": "La Paz Department",
+    "lat": -15.5,
+    "lon": -68.3333,
+    "population": 27976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Chiquitos",
+    "region": "Santa Cruz Department",
+    "lat": -18,
+    "lon": -60,
+    "population": 27713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Vaca Diez",
+    "region": "Beni Department",
+    "lat": -11.6667,
+    "lon": -66,
+    "population": 27691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Santa Cruz Department",
+    "lat": -17.9667,
+    "lon": -63.35,
+    "population": 27670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Esteban Arce",
+    "region": "Cochabamba Department",
+    "lat": -17.6667,
+    "lon": -66,
+    "population": 27649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abapó",
+    "region": "Santa Cruz Department",
+    "lat": -18.8828,
+    "lon": -63.3803,
+    "population": 27645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Loayza",
+    "region": "La Paz Department",
+    "lat": -17,
+    "lon": -67.6667,
+    "population": 27473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Manuripi",
+    "region": "Pando Department",
+    "lat": -11.3333,
+    "lon": -67.5,
+    "population": 26972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarata",
+    "region": "Cochabamba Department",
+    "lat": -17.609,
+    "lon": -66.0213,
+    "population": 26669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Santa Cruz Department",
+    "lat": -16.4333,
+    "lon": -60.9,
+    "population": 26623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana de Yacuma",
+    "region": "Beni Department",
+    "lat": -13.7441,
+    "lon": -65.4269,
+    "population": 26514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "La Paz Department",
+    "lat": -16.2167,
+    "lon": -68.8333,
+    "population": 26500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Alonzo de Ibáñez",
+    "region": "Potosí Department",
+    "lat": -18.5,
+    "lon": -66.3333,
+    "population": 26466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Ichilo",
+    "region": "Santa Cruz Department",
+    "lat": -17,
+    "lon": -64,
+    "population": 26219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Cordillera",
+    "region": "Santa Cruz Department",
+    "lat": -19,
+    "lon": -61.5,
+    "population": 26193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amarete",
+    "region": "La Paz Department",
+    "lat": -15.2368,
+    "lon": -68.9846,
+    "population": 25981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uyuni",
+    "region": "Potosí Department",
+    "lat": -20.4597,
+    "lon": -66.825,
+    "population": 25867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz de la Sierra",
+    "region": "Santa Cruz Department",
+    "lat": -17.7863,
+    "lon": -63.1812,
+    "population": 25481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayaramerín",
+    "region": "Beni Department",
+    "lat": -10.8258,
+    "lon": -65.3581,
+    "population": 25426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Santa Cruz Department",
+    "lat": -17.4,
+    "lon": -63.75,
+    "population": 25412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Warnes",
+    "region": "Santa Cruz Department",
+    "lat": -17.3333,
+    "lon": -63,
+    "population": 25054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia General Federico Román",
+    "region": "Pando Department",
+    "lat": -10.3333,
+    "lon": -65.8833,
+    "population": 25013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yumani",
+    "region": "La Paz Department",
+    "lat": -16.0357,
+    "lon": -69.1484,
+    "population": 24694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Tomás Barron",
+    "region": "Oruro Department",
+    "lat": -17.8333,
+    "lon": -68.25,
+    "population": 24648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comarapa",
+    "region": "Santa Cruz Department",
+    "lat": -17.9154,
+    "lon": -64.5316,
+    "population": 24562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Ingavi",
+    "region": "La Paz Department",
+    "lat": -16.8333,
+    "lon": -68.6667,
+    "population": 24152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Carrasco",
+    "region": "Cochabamba Department",
+    "lat": -17.5,
+    "lon": -65,
+    "population": 24102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "German Busch",
+    "region": "Santa Cruz Department",
+    "lat": -17.7732,
+    "lon": -63.1909,
+    "population": 24037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llallagua",
+    "region": "Potosí Department",
+    "lat": -18.4243,
+    "lon": -66.5839,
+    "population": 23695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guanay",
+    "region": "La Paz Department",
+    "lat": -15.4976,
+    "lon": -67.8833,
+    "population": 23694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "La Paz Department",
+    "lat": -16.2372,
+    "lon": -68.8506,
+    "population": 23282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanuni",
+    "region": "Oruro Department",
+    "lat": -18.289,
+    "lon": -66.8358,
+    "population": 23036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Oropeza",
+    "region": "Chuquisaca Department",
+    "lat": -18.6667,
+    "lon": -65.1667,
+    "population": 22683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Litoral de Atacama",
+    "region": "Oruro Department",
+    "lat": -18.7607,
+    "lon": -68.2429,
+    "population": 22380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Campero",
+    "region": "Cochabamba Department",
+    "lat": -18.3333,
+    "lon": -65,
+    "population": 22287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Totora",
+    "region": "Cochabamba Department",
+    "lat": -17.7266,
+    "lon": -65.1932,
+    "population": 21930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buena Vista",
+    "region": "Santa Cruz Department",
+    "lat": -17.4583,
+    "lon": -63.6713,
+    "population": 21761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Sajama",
+    "region": "Oruro Department",
+    "lat": -18.2,
+    "lon": -68.55,
+    "population": 21718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portachuelo",
+    "region": "Santa Cruz Department",
+    "lat": -17.3517,
+    "lon": -63.3928,
+    "population": 21708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Santiesteban",
+    "region": "Santa Cruz Department",
+    "lat": -16.5,
+    "lon": -63.5,
+    "population": 21622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Azurduy",
+    "region": "Chuquisaca Department",
+    "lat": -20,
+    "lon": -64.5,
+    "population": 21552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Quijarro",
+    "region": "Santa Cruz Department",
+    "lat": -17.7833,
+    "lon": -57.7667,
+    "population": 21505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Totoral",
+    "region": "Oruro Department",
+    "lat": -18.4959,
+    "lon": -66.8738,
+    "population": 21497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolivar",
+    "region": "Cochabamba Department",
+    "lat": -17.9667,
+    "lon": -66.5333,
+    "population": 21303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sud Carangas Province",
+    "region": "Oruro Department",
+    "lat": -18.5,
+    "lon": -68.25,
+    "population": 21240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Matías",
+    "region": "Santa Cruz Department",
+    "lat": -16.3667,
+    "lon": -58.4,
+    "population": 21018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Velasco",
+    "region": "Santa Cruz Department",
+    "lat": -15.5,
+    "lon": -61,
+    "population": 20956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Saavedra",
+    "region": "Potosí Department",
+    "lat": -19.25,
+    "lon": -65.5,
+    "population": 20754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Gualberto Villarroel",
+    "region": "La Paz Department",
+    "lat": -17.5833,
+    "lon": -68,
+    "population": 20274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Manuel María Caballero",
+    "region": "Santa Cruz Department",
+    "lat": -17.8333,
+    "lon": -64.4167,
+    "population": 20245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quime",
+    "region": "La Paz Department",
+    "lat": -16.9833,
+    "lon": -67.2167,
+    "population": 20044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Charcas",
+    "region": "Potosí Department",
+    "lat": -18.3333,
+    "lon": -65.8333,
+    "population": 19885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eucaliptus",
+    "region": "La Paz Department",
+    "lat": -17.5833,
+    "lon": -67.5167,
+    "population": 19774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Belisario Boeto",
+    "region": "Chuquisaca Department",
+    "lat": -18.9167,
+    "lon": -64.3333,
+    "population": 19060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boyuibe",
+    "region": "Santa Cruz Department",
+    "lat": -20.4323,
+    "lon": -63.2815,
+    "population": 19055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Florida",
+    "region": "Santa Cruz Department",
+    "lat": -18,
+    "lon": -63.9167,
+    "population": 18610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Méndez",
+    "region": "Tarija Department",
+    "lat": -21.1667,
+    "lon": -64.9167,
+    "population": 18570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caranavi",
+    "region": "La Paz Department",
+    "lat": -15.8365,
+    "lon": -67.569,
+    "population": 18560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reyes",
+    "region": "Beni Department",
+    "lat": -14.2952,
+    "lon": -67.3362,
+    "population": 18459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa del Sara",
+    "region": "Santa Cruz Department",
+    "lat": -17.1092,
+    "lon": -63.5951,
+    "population": 18276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Cercado",
+    "region": "Oruro Department",
+    "lat": -17.9167,
+    "lon": -67.0833,
+    "population": 18241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Bautista Saavedra",
+    "region": "La Paz Department",
+    "lat": -15,
+    "lon": -68.9167,
+    "population": 18105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Quijarro",
+    "region": "Potosí Department",
+    "lat": -20,
+    "lon": -66.3333,
+    "population": 18096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiahuanaco",
+    "region": "La Paz Department",
+    "lat": -16.5523,
+    "lon": -68.6795,
+    "population": 18017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Luis Calvo",
+    "region": "Chuquisaca Department",
+    "lat": -20.6667,
+    "lon": -63.5,
+    "population": 17839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Tapacarí",
+    "region": "Cochabamba Department",
+    "lat": -17.5115,
+    "lon": -66.6196,
+    "population": 17833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Carangas",
+    "region": "Oruro Department",
+    "lat": -18.3333,
+    "lon": -67.75,
+    "population": 17805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Manco Kapac",
+    "region": "La Paz Department",
+    "lat": -16,
+    "lon": -69.1667,
+    "population": 17451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Andrés Ibáñez",
+    "region": "Santa Cruz Department",
+    "lat": -17.75,
+    "lon": -63.25,
+    "population": 16894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camargo",
+    "region": "Chuquisaca Department",
+    "lat": -20.6406,
+    "lon": -65.2089,
+    "population": 16810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Mizque",
+    "region": "Cochabamba Department",
+    "lat": -17.9065,
+    "lon": -65.3944,
+    "population": 16114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warnes",
+    "region": "Santa Cruz Department",
+    "lat": -17.5163,
+    "lon": -63.1678,
+    "population": 15972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Ladislao Cabrera",
+    "region": "Oruro Department",
+    "lat": -19.5,
+    "lon": -67.6667,
+    "population": 15866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mairana",
+    "region": "Santa Cruz Department",
+    "lat": -18.1192,
+    "lon": -63.9597,
+    "population": 15825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallegrande",
+    "region": "Santa Cruz Department",
+    "lat": -18.4892,
+    "lon": -64.1061,
+    "population": 15438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Poopó",
+    "region": "Oruro Department",
+    "lat": -18.5,
+    "lon": -66.9167,
+    "population": 15289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Arce",
+    "region": "Tarija Department",
+    "lat": -22.1667,
+    "lon": -64.3333,
+    "population": 15178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Vallegrande",
+    "region": "Santa Cruz Department",
+    "lat": -18.5,
+    "lon": -64.1667,
+    "population": 15066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sipe Sipe",
+    "region": "Cochabamba Department",
+    "lat": -17.45,
+    "lon": -66.3833,
+    "population": 15009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago del Torno",
+    "region": "Santa Cruz Department",
+    "lat": -17.9867,
+    "lon": -63.3812,
+    "population": 14951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samaipata",
+    "region": "Santa Cruz Department",
+    "lat": -18.1801,
+    "lon": -63.8755,
+    "population": 14936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Aroma",
+    "region": "La Paz Department",
+    "lat": -17.5,
+    "lon": -68,
+    "population": 14860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Borja",
+    "region": "Beni Department",
+    "lat": -14.8167,
+    "lon": -66.85,
+    "population": 14737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coripata",
+    "region": "La Paz Department",
+    "lat": -16.3,
+    "lon": -67.6,
+    "population": 14703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiquipaya",
+    "region": "Cochabamba Department",
+    "lat": -17.338,
+    "lon": -66.2158,
+    "population": 14593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ascención de Guarayos",
+    "region": "Santa Cruz Department",
+    "lat": -15.893,
+    "lon": -63.1885,
+    "population": 14526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paurito",
+    "region": "Santa Cruz Department",
+    "lat": -17.8833,
+    "lon": -62.9667,
+    "population": 14482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sorata",
+    "region": "La Paz Department",
+    "lat": -15.773,
+    "lon": -68.6497,
+    "population": 14454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quillacollo",
+    "region": "Cochabamba Department",
+    "lat": -17.3923,
+    "lon": -66.2784,
+    "population": 13568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Marbán",
+    "region": "Beni Department",
+    "lat": -15.6667,
+    "lon": -64.3333,
+    "population": 13121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Pantaleón Dalence",
+    "region": "Oruro Department",
+    "lat": -18.3333,
+    "lon": -66.9167,
+    "population": 13045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Saucari",
+    "region": "Oruro Department",
+    "lat": -18.25,
+    "lon": -67.4167,
+    "population": 12747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monteagudo",
+    "region": "Chuquisaca Department",
+    "lat": -19.7999,
+    "lon": -63.9546,
+    "population": 12714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patacamaya",
+    "region": "La Paz Department",
+    "lat": -17.2358,
+    "lon": -67.9217,
+    "population": 12671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curahuara de Carangas",
+    "region": "La Paz Department",
+    "lat": -17.8667,
+    "lon": -68.4333,
+    "population": 12584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colchani",
+    "region": "Cochabamba Department",
+    "lat": -17.3167,
+    "lon": -66.7167,
+    "population": 12134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Sud Cinti",
+    "region": "Chuquisaca Department",
+    "lat": -20.9167,
+    "lon": -64.9167,
+    "population": 11956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Sud Yungas",
+    "region": "La Paz Department",
+    "lat": -16.5,
+    "lon": -67.5,
+    "population": 11862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okinawa Número Uno",
+    "region": "Santa Cruz Department",
+    "lat": -17.2333,
+    "lon": -62.8167,
+    "population": 11443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yacuiba",
+    "region": "Tarija Department",
+    "lat": -22.0164,
+    "lon": -63.6775,
+    "population": 11301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Capinota",
+    "region": "Cochabamba Department",
+    "lat": -17.8333,
+    "lon": -66.1667,
+    "population": 11300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tupiza",
+    "region": "Potosí Department",
+    "lat": -21.4434,
+    "lon": -65.7188,
+    "population": 11287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puesto de Pailas",
+    "region": "Santa Cruz Department",
+    "lat": -17.65,
+    "lon": -62.8,
+    "population": 11206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ramón",
+    "region": "Beni Department",
+    "lat": -13.2833,
+    "lon": -64.7167,
+    "population": 10813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimoré",
+    "region": "Cochabamba Department",
+    "lat": -16.9942,
+    "lon": -65.1533,
+    "population": 10538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nor Carangas Province",
+    "region": "Oruro Department",
+    "lat": -17.8375,
+    "lon": -67.9433,
+    "population": 10505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia Nicolás Suárez",
+    "region": "Pando Department",
+    "lat": -11.3333,
+    "lon": -68.5,
+    "population": 10338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potosí",
+    "region": "Potosí Department",
+    "lat": -19.5836,
+    "lon": -65.7531,
+    "population": 10330,
+    "timezone": "UTC"
+  }
+]

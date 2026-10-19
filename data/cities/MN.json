@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Tsengel",
+    "region": "Khövsgöl Province",
+    "lat": 49.4783,
+    "lon": 100.8894,
+    "population": 49732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Möst",
+    "region": "Khovd Province",
+    "lat": 46.6771,
+    "lon": 92.7852,
+    "population": 49189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanhongor",
+    "region": "Ömnögovi Province",
+    "lat": 43.7734,
+    "lon": 104.48,
+    "population": 49033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hovd",
+    "region": "Övörkhangai Province",
+    "lat": 44.6702,
+    "lon": 102.1749,
+    "population": 48083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzuunmod",
+    "region": "Töv Province",
+    "lat": 47.7069,
+    "lon": 106.9528,
+    "population": 46729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalandzadgad",
+    "region": "Ömnögovi Province",
+    "lat": 43.5708,
+    "lon": 104.425,
+    "population": 44942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choibalsan",
+    "region": "Dornod Province",
+    "lat": 48.0726,
+    "lon": 114.5326,
+    "population": 42719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baruun-Urt",
+    "region": "Sükhbaatar Province",
+    "lat": 46.6806,
+    "lon": 113.2792,
+    "population": 42319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turt",
+    "region": "Khövsgöl Province",
+    "lat": 51.5072,
+    "lon": 100.6626,
+    "population": 40690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altai",
+    "region": "Govi-Altai Province",
+    "lat": 46.3722,
+    "lon": 96.2583,
+    "population": 38217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kharkhorin",
+    "region": "Övörkhangai Province",
+    "lat": 47.1925,
+    "lon": 102.8135,
+    "population": 37133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erdenet",
+    "region": "Orkhon Province",
+    "lat": 49.0333,
+    "lon": 104.0833,
+    "population": 36170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ölgii",
+    "region": "Bayan-Ölgii Province",
+    "lat": 48.9683,
+    "lon": 89.9625,
+    "population": 35543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khovd",
+    "region": "Khovd Province",
+    "lat": 48.0056,
+    "lon": 91.6419,
+    "population": 35458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Undurkhaan",
+    "region": "Khentii Province",
+    "lat": 47.3194,
+    "lon": 110.6556,
+    "population": 34232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulaangom",
+    "region": "Uvs Province",
+    "lat": 49.9811,
+    "lon": 92.0667,
+    "population": 33140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayanhongor",
+    "region": "Bayankhongor Province",
+    "lat": 46.1944,
+    "lon": 100.7181,
+    "population": 32585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzüünharaa",
+    "region": "Selenge Province",
+    "lat": 48.8523,
+    "lon": 106.4579,
+    "population": 31084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulgan",
+    "region": "Bulgan Province",
+    "lat": 48.8125,
+    "lon": 103.5347,
+    "population": 26042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Зуунмод",
+    "region": "Töv Province",
+    "lat": 47.7069,
+    "lon": 106.9528,
+    "population": 25075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanh",
+    "region": "Khövsgöl Province",
+    "lat": 51.5027,
+    "lon": 100.6639,
+    "population": 24545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arvayheer",
+    "region": "Övörkhangai Province",
+    "lat": 46.2639,
+    "lon": 102.775,
+    "population": 23510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsengel",
+    "region": "Bayan-Ölgii Province",
+    "lat": 48.9431,
+    "lon": 89.1436,
+    "population": 22583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandalgovi",
+    "region": "Dundgovi Province",
+    "lat": 45.7625,
+    "lon": 106.2708,
+    "population": 21259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sühbaatar",
+    "region": "Selenge Province",
+    "lat": 50.2314,
+    "lon": 106.2078,
+    "population": 20661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulaanhudag",
+    "region": "Töv Province",
+    "lat": 47.3333,
+    "lon": 104.5,
+    "population": 18347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomgon Sum",
+    "region": "Ömnögovi Province",
+    "lat": 42.4146,
+    "lon": 105.0564,
+    "population": 16999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ereencav",
+    "region": "Dornod Province",
+    "lat": 49.8807,
+    "lon": 115.7253,
+    "population": 15811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nariynteel",
+    "region": "Övörkhangai Province",
+    "lat": 45.9595,
+    "lon": 101.4598,
+    "population": 15219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Üyönch",
+    "region": "Khovd Province",
+    "lat": 46.0479,
+    "lon": 92.0261,
+    "population": 15206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsetserleg",
+    "region": "Arkhangai Province",
+    "lat": 47.475,
+    "lon": 101.4542,
+    "population": 15155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harhorin",
+    "region": "Övörkhangai Province",
+    "lat": 47.1975,
+    "lon": 102.8238,
+    "population": 14348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choyr",
+    "region": "Govisümber Province",
+    "lat": 46.3611,
+    "lon": 108.3611,
+    "population": 13992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altay",
+    "region": "Bayan-Ölgii Province",
+    "lat": 48.2936,
+    "lon": 89.5149,
+    "population": 13544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murun-kuren",
+    "region": "Khövsgöl Province",
+    "lat": 49.6342,
+    "lon": 100.1625,
+    "population": 12659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darhan",
+    "region": "Darkhan-Uul Province",
+    "lat": 49.4867,
+    "lon": 105.9228,
+    "population": 11000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uliastay",
+    "region": "Zavkhan Province",
+    "lat": 47.7417,
+    "lon": 96.8444,
+    "population": 10895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Möngönmorĭt",
+    "region": "Töv Province",
+    "lat": 48.195,
+    "lon": 108.483,
+    "population": 10834,
+    "timezone": "UTC"
+  }
+]

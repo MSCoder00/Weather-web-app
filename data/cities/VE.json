@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Caucagüito",
+    "region": "Miranda",
+    "lat": 10.4867,
+    "lon": -66.738,
+    "population": 49604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Pampanito",
+    "region": "Trujillo",
+    "lat": 9.4115,
+    "lon": -70.4959,
+    "population": 49236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Miranda",
+    "region": "Falcón",
+    "lat": 11.3167,
+    "lon": -69.8667,
+    "population": 49215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ejido",
+    "region": "Mérida",
+    "lat": 8.5466,
+    "lon": -71.2409,
+    "population": 48193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cagua",
+    "region": "Aragua",
+    "lat": 10.1863,
+    "lon": -67.4594,
+    "population": 47281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Padre Pedro Chien",
+    "region": "Bolívar",
+    "lat": 8.0245,
+    "lon": -61.8819,
+    "population": 46893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Vigía",
+    "region": "Mérida",
+    "lat": 8.6135,
+    "lon": -71.657,
+    "population": 46507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maiquetía",
+    "region": "La Guaira",
+    "lat": 10.5945,
+    "lon": -66.9562,
+    "population": 46110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Limón",
+    "region": "Aragua",
+    "lat": 10.3059,
+    "lon": -67.6321,
+    "population": 45804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baruta",
+    "region": "Miranda",
+    "lat": 10.4342,
+    "lon": -66.8756,
+    "population": 45708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tocuyito",
+    "region": "Carabobo",
+    "lat": 10.1135,
+    "lon": -68.0678,
+    "population": 45682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle de La Pascua",
+    "region": "Guárico",
+    "lat": 9.2155,
+    "lon": -66.0073,
+    "population": 45034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Uracoa",
+    "region": "Monagas",
+    "lat": 8.9996,
+    "lon": -62.3516,
+    "population": 44937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocumare del Tuy",
+    "region": "Miranda",
+    "lat": 10.1182,
+    "lon": -66.7751,
+    "population": 44792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrizal",
+    "region": "Miranda",
+    "lat": 10.3498,
+    "lon": -66.9863,
+    "population": 44658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altagracia de Orituco",
+    "region": "Guárico",
+    "lat": 9.86,
+    "lon": -66.3814,
+    "population": 44558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onoto",
+    "region": "Anzoátegui",
+    "lat": 9.5971,
+    "lon": -65.1935,
+    "population": 44402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Autónomo Alto Orinoco",
+    "region": "Amazonas",
+    "lat": 2.7346,
+    "lon": -64.8303,
+    "population": 44112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Villa del Rosario",
+    "region": "Zulia",
+    "lat": 10.3258,
+    "lon": -72.3134,
+    "population": 43949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mérida",
+    "region": "Mérida",
+    "lat": 8.5897,
+    "lon": -71.1561,
+    "population": 43604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maturín",
+    "region": "Monagas",
+    "lat": 9.7457,
+    "lon": -63.1832,
+    "population": 43597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Valdez",
+    "region": "Sucre",
+    "lat": 10.5794,
+    "lon": -62.3003,
+    "population": 43428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaraza",
+    "region": "Guárico",
+    "lat": 9.3503,
+    "lon": -65.3245,
+    "population": 43160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morón",
+    "region": "Carabobo",
+    "lat": 10.4871,
+    "lon": -68.2008,
+    "population": 42918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Rastrojos",
+    "region": "Lara",
+    "lat": 10.0259,
+    "lon": -69.2417,
+    "population": 42787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catia La Mar",
+    "region": "La Guaira",
+    "lat": 10.6054,
+    "lon": -67.0324,
+    "population": 42137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cafetal",
+    "region": "Miranda",
+    "lat": 10.4654,
+    "lon": -66.8295,
+    "population": 42062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Píritu",
+    "region": "Anzoátegui",
+    "lat": 10.059,
+    "lon": -65.037,
+    "population": 42009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos del Zulia",
+    "region": "Zulia",
+    "lat": 9.001,
+    "lon": -71.9268,
+    "population": 41917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio del Táchira",
+    "region": "Táchira",
+    "lat": 7.8145,
+    "lon": -72.4431,
+    "population": 41804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Joaquín",
+    "region": "Carabobo",
+    "lat": 10.2606,
+    "lon": -67.7935,
+    "population": 40179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabimas",
+    "region": "Zulia",
+    "lat": 10.3991,
+    "lon": -71.4521,
+    "population": 40131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Barinas",
+    "region": "Barinas",
+    "lat": 8.615,
+    "lon": -70.1985,
+    "population": 40100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carora",
+    "region": "Lara",
+    "lat": 10.1728,
+    "lon": -70.081,
+    "population": 39994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guacara",
+    "region": "Carabobo",
+    "lat": 10.2261,
+    "lon": -67.877,
+    "population": 39967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tigre",
+    "region": "Anzoátegui",
+    "lat": 8.889,
+    "lon": -64.2527,
+    "population": 38515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivacoa",
+    "region": "Yaracuy",
+    "lat": 10.1595,
+    "lon": -68.8945,
+    "population": 38407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chichiriviche",
+    "region": "Falcón",
+    "lat": 10.9287,
+    "lon": -68.2728,
+    "population": 38290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Bolívar",
+    "region": "Bolívar",
+    "lat": 8.1292,
+    "lon": -63.5409,
+    "population": 38189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chacao",
+    "region": "Miranda",
+    "lat": 10.4958,
+    "lon": -66.8537,
+    "population": 37078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Güiria",
+    "region": "Sucre",
+    "lat": 10.5772,
+    "lon": -62.2984,
+    "population": 36748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaritagua",
+    "region": "Yaracuy",
+    "lat": 10.0808,
+    "lon": -69.1242,
+    "population": 36555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tocuyo",
+    "region": "Lara",
+    "lat": 9.7871,
+    "lon": -69.7929,
+    "population": 36160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barinas",
+    "region": "Barinas",
+    "lat": 8.6226,
+    "lon": -70.2075,
+    "population": 35542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Maturín",
+    "region": "Monagas",
+    "lat": 9.4,
+    "lon": -63.0333,
+    "population": 35511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petare",
+    "region": "Miranda",
+    "lat": 10.4768,
+    "lon": -66.8079,
+    "population": 35387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Guayos",
+    "region": "Carabobo",
+    "lat": 10.1893,
+    "lon": -67.9383,
+    "population": 35130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Bruzual",
+    "region": "Portuguesa",
+    "lat": 9.3319,
+    "lon": -69.1197,
+    "population": 35080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Teresa del Tuy",
+    "region": "Miranda",
+    "lat": 10.2329,
+    "lon": -66.6647,
+    "population": 34880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anaco",
+    "region": "Anzoátegui",
+    "lat": 9.4296,
+    "lon": -64.4643,
+    "population": 34339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acarigua",
+    "region": "Portuguesa",
+    "lat": 9.5545,
+    "lon": -69.1956,
+    "population": 34298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barquisimeto",
+    "region": "Lara",
+    "lat": 10.0647,
+    "lon": -69.357,
+    "population": 33801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valera",
+    "region": "Trujillo",
+    "lat": 9.3178,
+    "lon": -70.6036,
+    "population": 33704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio José Gregorio Monagas",
+    "region": "Anzoátegui",
+    "lat": 7.7387,
+    "lon": -64.7188,
+    "population": 33474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cantaura",
+    "region": "Anzoátegui",
+    "lat": 9.3057,
+    "lon": -64.3584,
+    "population": 33385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palo Negro",
+    "region": "Aragua",
+    "lat": 10.1739,
+    "lon": -67.5419,
+    "population": 32869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Zulia",
+    "lat": 10.5364,
+    "lon": -71.511,
+    "population": 32769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Ayacucho",
+    "region": "Amazonas",
+    "lat": 5.6605,
+    "lon": -67.5834,
+    "population": 32614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porlamar",
+    "region": "Nueva Esparta",
+    "lat": 10.9577,
+    "lon": -63.8697,
+    "population": 32532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calabozo",
+    "region": "Guárico",
+    "lat": 8.9242,
+    "lon": -67.4293,
+    "population": 31927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto La Cruz",
+    "region": "Anzoátegui",
+    "lat": 10.2138,
+    "lon": -64.6328,
+    "population": 31755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Dolorita",
+    "region": "Miranda",
+    "lat": 10.4883,
+    "lon": -66.7861,
+    "population": 31546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barcelona",
+    "region": "Anzoátegui",
+    "lat": 10.1363,
+    "lon": -64.6862,
+    "population": 31390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valencia",
+    "region": "Carabobo",
+    "lat": 10.162,
+    "lon": -68.0076,
+    "population": 30656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio San Rafael de Carvajal",
+    "region": "Trujillo",
+    "lat": 9.3076,
+    "lon": -70.5897,
+    "population": 30214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mucumpiz",
+    "region": "Mérida",
+    "lat": 8.4167,
+    "lon": -71.1333,
+    "population": 29784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quíbor",
+    "region": "Lara",
+    "lat": 9.9287,
+    "lon": -69.6201,
+    "population": 29755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariara",
+    "region": "Carabobo",
+    "lat": 10.2953,
+    "lon": -67.7177,
+    "population": 29739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charallave",
+    "region": "Miranda",
+    "lat": 10.2425,
+    "lon": -66.8572,
+    "population": 29593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos de Río Negro",
+    "region": "Amazonas",
+    "lat": 1.9203,
+    "lon": -67.0609,
+    "population": 29027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinaquillo",
+    "region": "Cojedes",
+    "lat": 9.9186,
+    "lon": -68.3047,
+    "population": 28451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Guayana",
+    "region": "Bolívar",
+    "lat": 8.3512,
+    "lon": -62.641,
+    "population": 28278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maracaibo",
+    "region": "Zulia",
+    "lat": 10.6666,
+    "lon": -71.6124,
+    "population": 28191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Elena de Uairén",
+    "region": "Bolívar",
+    "lat": 4.6023,
+    "lon": -61.1103,
+    "population": 27951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Dos Caminos",
+    "region": "Miranda",
+    "lat": 10.4939,
+    "lon": -66.8286,
+    "population": 27927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coro",
+    "region": "Falcón",
+    "lat": 11.4045,
+    "lon": -69.6734,
+    "population": 27623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Ojeda",
+    "region": "Zulia",
+    "lat": 10.2016,
+    "lon": -71.3148,
+    "population": 27152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabudare",
+    "region": "Lara",
+    "lat": 10.0266,
+    "lon": -69.262,
+    "population": 26938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal",
+    "region": "Táchira",
+    "lat": 7.7669,
+    "lon": -72.225,
+    "population": 26055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Mateo",
+    "region": "Aragua",
+    "lat": 10.213,
+    "lon": -67.4236,
+    "population": 25702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fernando de Atabapo",
+    "region": "Amazonas",
+    "lat": 4.0456,
+    "lon": -67.6993,
+    "population": 25206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Libertador",
+    "region": "Mérida",
+    "lat": 8.3333,
+    "lon": -71.1167,
+    "population": 25186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Aragua",
+    "lat": 10.2054,
+    "lon": -67.5595,
+    "population": 25050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caracas",
+    "region": "Distrito Capital",
+    "lat": 10.5,
+    "lon": -66.9333,
+    "population": 24884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa de Cura",
+    "region": "Aragua",
+    "lat": 10.0386,
+    "lon": -67.4894,
+    "population": 24838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barinitas",
+    "region": "Barinas",
+    "lat": 8.7617,
+    "lon": -70.412,
+    "population": 24299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Teques",
+    "region": "Miranda",
+    "lat": 10.3445,
+    "lon": -67.0433,
+    "population": 24287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Fría",
+    "region": "Táchira",
+    "lat": 8.2152,
+    "lon": -72.2489,
+    "population": 24228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boconó",
+    "region": "Trujillo",
+    "lat": 9.2538,
+    "lon": -70.2511,
+    "population": 23945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Independencia",
+    "region": "Yaracuy",
+    "lat": 10.3347,
+    "lon": -68.7555,
+    "population": 23707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trujillo",
+    "region": "Trujillo",
+    "lat": 9.3658,
+    "lon": -70.4369,
+    "population": 23325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maracay",
+    "region": "Aragua",
+    "lat": 10.2354,
+    "lon": -67.5911,
+    "population": 23144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upata",
+    "region": "Bolívar",
+    "lat": 8.0162,
+    "lon": -62.4056,
+    "population": 23072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caripito",
+    "region": "Monagas",
+    "lat": 10.1113,
+    "lon": -63.0999,
+    "population": 22697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de los Morros",
+    "region": "Guárico",
+    "lat": 9.9115,
+    "lon": -67.3538,
+    "population": 22558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarenas",
+    "region": "Miranda",
+    "lat": 10.4703,
+    "lon": -66.6193,
+    "population": 21844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Cojedes",
+    "lat": 9.6612,
+    "lon": -68.5827,
+    "population": 21742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tucacas",
+    "region": "Falcón",
+    "lat": 10.7901,
+    "lon": -68.3256,
+    "population": 21157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatire",
+    "region": "Miranda",
+    "lat": 10.474,
+    "lon": -66.5424,
+    "population": 21145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de Los Altos",
+    "region": "Miranda",
+    "lat": 10.3885,
+    "lon": -66.9518,
+    "population": 20922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Araure",
+    "region": "Portuguesa",
+    "lat": 9.5814,
+    "lon": -69.2385,
+    "population": 20711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Cardón",
+    "region": "Falcón",
+    "lat": 11.6581,
+    "lon": -70.215,
+    "population": 20345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carúpano",
+    "region": "Sucre",
+    "lat": 10.6652,
+    "lon": -63.2539,
+    "population": 20072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cúa",
+    "region": "Miranda",
+    "lat": 10.1624,
+    "lon": -66.8825,
+    "population": 19503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nirgua",
+    "region": "Yaracuy",
+    "lat": 10.1504,
+    "lon": -68.5648,
+    "population": 19242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Felipe",
+    "region": "Yaracuy",
+    "lat": 10.3399,
+    "lon": -68.7425,
+    "population": 19086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Guanipa",
+    "region": "Anzoátegui",
+    "lat": 8.8872,
+    "lon": -64.1651,
+    "population": 19070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rubio",
+    "region": "Táchira",
+    "lat": 7.7013,
+    "lon": -72.3557,
+    "population": 18718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hatillo",
+    "region": "Miranda",
+    "lat": 10.4241,
+    "lon": -66.8258,
+    "population": 18445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Victoria",
+    "region": "Aragua",
+    "lat": 10.2268,
+    "lon": -67.3312,
+    "population": 16994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón",
+    "region": "Táchira",
+    "lat": 8.0313,
+    "lon": -72.2605,
+    "population": 16779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumaná",
+    "region": "Sucre",
+    "lat": 10.454,
+    "lon": -64.1826,
+    "population": 16744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacarigua",
+    "region": "Carabobo",
+    "lat": 10.0862,
+    "lon": -67.9198,
+    "population": 16640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio Los Taques",
+    "region": "Falcón",
+    "lat": 11.8231,
+    "lon": -70.2535,
+    "population": 16381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maroa",
+    "region": "Amazonas",
+    "lat": 2.7188,
+    "lon": -67.5605,
+    "population": 15871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Tejerías",
+    "region": "Aragua",
+    "lat": 10.2542,
+    "lon": -67.1733,
+    "population": 15417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tucupita",
+    "region": "Delta Amacuro",
+    "lat": 9.0581,
+    "lon": -62.05,
+    "population": 15309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machiques",
+    "region": "Zulia",
+    "lat": 10.0608,
+    "lon": -72.5521,
+    "population": 15305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio José María Vargas",
+    "region": "Táchira",
+    "lat": 8.0351,
+    "lon": -72.0567,
+    "population": 15010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Manapiare",
+    "region": "Amazonas",
+    "lat": 5.3266,
+    "lon": -66.054,
+    "population": 14978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Güigüe",
+    "region": "Carabobo",
+    "lat": 10.0834,
+    "lon": -67.778,
+    "population": 14320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punto Fijo",
+    "region": "Falcón",
+    "lat": 11.6915,
+    "lon": -70.1992,
+    "population": 14008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guanare",
+    "region": "Portuguesa",
+    "lat": 9.0418,
+    "lon": -69.7421,
+    "population": 13965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagunillas",
+    "region": "Zulia",
+    "lat": 10.1301,
+    "lon": -71.2595,
+    "population": 13886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Asunción",
+    "region": "Nueva Esparta",
+    "lat": 11.0333,
+    "lon": -63.8628,
+    "population": 13527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aragua de Barcelona",
+    "region": "Anzoátegui",
+    "lat": 9.4559,
+    "lon": -64.8293,
+    "population": 13446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Cabello",
+    "region": "Carabobo",
+    "lat": 10.4731,
+    "lon": -68.0125,
+    "population": 13408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turmero",
+    "region": "Aragua",
+    "lat": 10.2286,
+    "lon": -67.4742,
+    "population": 13102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Táriba",
+    "region": "Táchira",
+    "lat": 7.8188,
+    "lon": -72.2243,
+    "population": 12968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Grita",
+    "region": "Táchira",
+    "lat": 8.1332,
+    "lon": -71.9839,
+    "population": 12940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caraballeda",
+    "region": "La Guaira",
+    "lat": 10.6122,
+    "lon": -66.8519,
+    "population": 12011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Guaira",
+    "region": "La Guaira",
+    "lat": 10.6016,
+    "lon": -66.9329,
+    "population": 11684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caucaguita",
+    "region": "Miranda",
+    "lat": 10.3578,
+    "lon": -66.8025,
+    "population": 11505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Griego",
+    "region": "Nueva Esparta",
+    "lat": 11.0817,
+    "lon": -63.9655,
+    "population": 11230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto Barinas",
+    "region": "Barinas",
+    "lat": 8.5931,
+    "lon": -70.2261,
+    "population": 10440,
+    "timezone": "UTC"
+  }
+]

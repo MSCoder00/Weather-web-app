@@ -1,0 +1,5314 @@
+[
+  {
+    "name": "Kuršanec",
+    "region": "Međimurje County",
+    "lat": 46.3303,
+    "lon": 16.4017,
+    "population": 49933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrinja",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.4375,
+    "lon": 16.29,
+    "population": 49916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Novi Marof",
+    "region": "Karlovac County",
+    "lat": 46.1667,
+    "lon": 16.3333,
+    "population": 49870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlatar",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0942,
+    "lon": 16.0708,
+    "population": 49865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Križ Začretje",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0822,
+    "lon": 15.907,
+    "population": 49593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Vukovar",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3333,
+    "lon": 19,
+    "population": 49556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marčelji",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3961,
+    "lon": 14.3894,
+    "population": 49554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klis",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5594,
+    "lon": 16.5194,
+    "population": 49539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čeminac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6864,
+    "lon": 18.6675,
+    "population": 49495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bobota",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.4211,
+    "lon": 18.8539,
+    "population": 49439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaptol",
+    "region": "Požega-Slavonia County",
+    "lat": 45.4347,
+    "lon": 17.7261,
+    "population": 49368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marinići",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.365,
+    "lon": 14.3939,
+    "population": 49324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lonjica",
+    "region": "Zagreb County",
+    "lat": 45.855,
+    "lon": 16.33,
+    "population": 49297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zadar",
+    "region": "Zadar County",
+    "lat": 44.1197,
+    "lon": 15.2422,
+    "population": 49213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lučko",
+    "region": "Zagreb",
+    "lat": 45.7611,
+    "lon": 15.8703,
+    "population": 49148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pojezerje",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 43.1574,
+    "lon": 17.4515,
+    "population": 49144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slobodnica",
+    "region": "Brod-Posavina County",
+    "lat": 45.1622,
+    "lon": 17.9328,
+    "population": 49055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omiš",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4447,
+    "lon": 16.6886,
+    "population": 49051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Postira",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3755,
+    "lon": 16.6309,
+    "population": 48982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marija Bistrica",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0061,
+    "lon": 16.1111,
+    "population": 48976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zrinski Topolovac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 46.0212,
+    "lon": 16.7551,
+    "population": 48959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sigetec",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1883,
+    "lon": 16.9358,
+    "population": 48877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donji Vinjani",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4461,
+    "lon": 17.2406,
+    "population": 48823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dugopolje",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5806,
+    "lon": 16.6028,
+    "population": 48756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrijanec",
+    "region": "Karlovac County",
+    "lat": 46.3492,
+    "lon": 16.225,
+    "population": 48738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrsar",
+    "region": "Istria County",
+    "lat": 45.1492,
+    "lon": 13.6053,
+    "population": 48711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laslovo",
+    "region": "Osijek-Baranja County",
+    "lat": 45.415,
+    "lon": 18.6961,
+    "population": 48709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grubišno Polje",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.7021,
+    "lon": 17.1727,
+    "population": 48427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gola",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1958,
+    "lon": 17.0581,
+    "population": 48366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marčana",
+    "region": "Istria County",
+    "lat": 44.9553,
+    "lon": 13.9539,
+    "population": 48347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Njivice",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.1581,
+    "lon": 14.5386,
+    "population": 48335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bistrinci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6917,
+    "lon": 18.3986,
+    "population": 48329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poličnik",
+    "region": "Zadar County",
+    "lat": 44.1781,
+    "lon": 15.3756,
+    "population": 48275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vis",
+    "region": "Split-Dalmatia County",
+    "lat": 43.0619,
+    "lon": 16.1831,
+    "population": 48272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Varaždin",
+    "region": "Karlovac County",
+    "lat": 46.3035,
+    "lon": 16.3344,
+    "population": 48260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasinja",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1839,
+    "lon": 16.7067,
+    "population": 48256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Lovreč",
+    "region": "Istria County",
+    "lat": 45.1777,
+    "lon": 13.7432,
+    "population": 48243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fažana",
+    "region": "Istria County",
+    "lat": 44.9275,
+    "lon": 13.8036,
+    "population": 48237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Velika Gorica",
+    "region": "Zagreb County",
+    "lat": 45.7,
+    "lon": 16.0833,
+    "population": 48212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karanac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.7606,
+    "lon": 18.6844,
+    "population": 48113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Valpovo",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6667,
+    "lon": 18.4167,
+    "population": 48094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bregana",
+    "region": "Zagreb County",
+    "lat": 45.8401,
+    "lon": 15.6879,
+    "population": 48071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Orahovica",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.5333,
+    "lon": 17.9,
+    "population": 48053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Makarska",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3,
+    "lon": 17.0333,
+    "population": 47938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštelir-Labinci",
+    "region": "Istria County",
+    "lat": 45.3028,
+    "lon": 13.6884,
+    "population": 47924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Sveti Ivan Zelina",
+    "region": "Zagreb County",
+    "lat": 45.9667,
+    "lon": 16.25,
+    "population": 47887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trpinja",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.4192,
+    "lon": 18.8992,
+    "population": 47760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senj",
+    "region": "Lika-Senj County",
+    "lat": 44.9894,
+    "lon": 14.9058,
+    "population": 47759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Josipovac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5828,
+    "lon": 18.5814,
+    "population": 47706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sesvete",
+    "region": "Zagreb",
+    "lat": 45.8333,
+    "lon": 16.1333,
+    "population": 47675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Juraj na Bregu",
+    "region": "Međimurje County",
+    "lat": 46.4285,
+    "lon": 16.3852,
+    "population": 47664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viškovci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.345,
+    "lon": 18.4622,
+    "population": 47530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Beli Manastir",
+    "region": "Osijek-Baranja County",
+    "lat": 45.7722,
+    "lon": 18.6108,
+    "population": 47440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marjanci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6669,
+    "lon": 18.2922,
+    "population": 47435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirač",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.5233,
+    "lon": 17.255,
+    "population": 47409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rab",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.7577,
+    "lon": 14.7591,
+    "population": 47397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pučišća",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3478,
+    "lon": 16.7339,
+    "population": 47380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rovinj-Rovigno",
+    "region": "Istria County",
+    "lat": 45.0819,
+    "lon": 13.6397,
+    "population": 47352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orebić",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9856,
+    "lon": 17.1747,
+    "population": 47295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Bjelovar",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.9017,
+    "lon": 16.8452,
+    "population": 47139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Preko",
+    "region": "Zadar County",
+    "lat": 44.0811,
+    "lon": 15.1875,
+    "population": 46936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đelekovec",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.2499,
+    "lon": 16.8701,
+    "population": 46897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tar",
+    "region": "Istria County",
+    "lat": 45.3008,
+    "lon": 13.6253,
+    "population": 46851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viškovo",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3757,
+    "lon": 14.384,
+    "population": 46825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Čabar",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.5833,
+    "lon": 14.5833,
+    "population": 46817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šodolovci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4,
+    "lon": 18.6203,
+    "population": 46694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Semeljci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.3606,
+    "lon": 18.5436,
+    "population": 46656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanovec",
+    "region": "Međimurje County",
+    "lat": 46.3683,
+    "lon": 16.4767,
+    "population": 46602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Košute",
+    "region": "Split-Dalmatia County",
+    "lat": 43.6308,
+    "lon": 16.695,
+    "population": 46570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pribislavec",
+    "region": "Međimurje County",
+    "lat": 46.3925,
+    "lon": 16.4825,
+    "population": 46487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Privlaka",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.1947,
+    "lon": 18.8375,
+    "population": 46449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pojatno",
+    "region": "Zagreb County",
+    "lat": 45.905,
+    "lon": 15.8006,
+    "population": 46286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Privlaka",
+    "region": "Zadar County",
+    "lat": 44.2667,
+    "lon": 15.1333,
+    "population": 46223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nedeljanec",
+    "region": "Karlovac County",
+    "lat": 46.2878,
+    "lon": 16.2833,
+    "population": 46201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jankomir",
+    "region": "Zagreb",
+    "lat": 45.7917,
+    "lon": 15.9,
+    "population": 46199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plitvička Jezera",
+    "region": "Lika-Senj County",
+    "lat": 44.8805,
+    "lon": 15.6212,
+    "population": 46129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Široko Polje",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4053,
+    "lon": 18.4725,
+    "population": 46071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Višnjevac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5686,
+    "lon": 18.6139,
+    "population": 46062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tučepi",
+    "region": "Split-Dalmatia County",
+    "lat": 43.2722,
+    "lon": 17.0544,
+    "population": 46028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peteranec",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1922,
+    "lon": 16.8917,
+    "population": 46020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rogoznica",
+    "region": "Šibenik-Knin County",
+    "lat": 43.5247,
+    "lon": 15.97,
+    "population": 45982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solin",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5432,
+    "lon": 16.4931,
+    "population": 45844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Kopanica",
+    "region": "Brod-Posavina County",
+    "lat": 45.1561,
+    "lon": 18.3931,
+    "population": 45580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradec",
+    "region": "Zagreb County",
+    "lat": 45.9111,
+    "lon": 16.4828,
+    "population": 45553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šenkovec",
+    "region": "Međimurje County",
+    "lat": 46.4089,
+    "lon": 16.4217,
+    "population": 45456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đakovo",
+    "region": "Osijek-Baranja County",
+    "lat": 45.3083,
+    "lon": 18.4106,
+    "population": 45440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novoselec",
+    "region": "Zagreb County",
+    "lat": 45.6525,
+    "lon": 16.5364,
+    "population": 45417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đurmanec",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.1971,
+    "lon": 15.8379,
+    "population": 45416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Zaprešić",
+    "region": "Zagreb County",
+    "lat": 45.8667,
+    "lon": 15.8,
+    "population": 45324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turjaci",
+    "region": "Split-Dalmatia County",
+    "lat": 43.65,
+    "lon": 16.6692,
+    "population": 45265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Šibenik",
+    "region": "Šibenik-Knin County",
+    "lat": 43.7358,
+    "lon": 15.896,
+    "population": 45228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Biograd na Moru",
+    "region": "Zadar County",
+    "lat": 43.9333,
+    "lon": 15.4333,
+    "population": 45223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okučani",
+    "region": "Brod-Posavina County",
+    "lat": 45.2603,
+    "lon": 17.1992,
+    "population": 45209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andrijaševci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2247,
+    "lon": 18.7381,
+    "population": 45208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cernik",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3436,
+    "lon": 14.5022,
+    "population": 45163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donji Miholjac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.7608,
+    "lon": 18.1672,
+    "population": 45137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Križevci",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.0333,
+    "lon": 16.5667,
+    "population": 45034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Koprivnica",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1667,
+    "lon": 16.8333,
+    "population": 44999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valpovo",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6608,
+    "lon": 18.4186,
+    "population": 44987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradska četvrt Gornji Grad - Medvescak",
+    "region": "Zagreb",
+    "lat": 45.8282,
+    "lon": 15.9794,
+    "population": 44922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buzdohanj",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3453,
+    "lon": 14.4883,
+    "population": 44897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrsi",
+    "region": "Zadar County",
+    "lat": 44.2647,
+    "lon": 15.2325,
+    "population": 44794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seget",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5431,
+    "lon": 16.2122,
+    "population": 44792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orahovica",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.54,
+    "lon": 17.8847,
+    "population": 44768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštel Novi",
+    "region": "Split-Dalmatia County",
+    "lat": 43.55,
+    "lon": 16.3333,
+    "population": 44731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hlebine",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1569,
+    "lon": 16.9628,
+    "population": 44690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podturen",
+    "region": "Međimurje County",
+    "lat": 46.4647,
+    "lon": 16.5431,
+    "population": 44596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovas",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2264,
+    "lon": 19.1711,
+    "population": 44412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piškorevci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.2553,
+    "lon": 18.4042,
+    "population": 44193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Vrbovsko",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3754,
+    "lon": 15.0786,
+    "population": 44161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donji Andrijevci",
+    "region": "Brod-Posavina County",
+    "lat": 45.1883,
+    "lon": 18.2997,
+    "population": 44068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perušić",
+    "region": "Lika-Senj County",
+    "lat": 44.6494,
+    "lon": 15.3833,
+    "population": 44052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oriovac",
+    "region": "Brod-Posavina County",
+    "lat": 45.1661,
+    "lon": 17.76,
+    "population": 43954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalžabet",
+    "region": "Karlovac County",
+    "lat": 46.2608,
+    "lon": 16.475,
+    "population": 43927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukavec",
+    "region": "Zagreb County",
+    "lat": 45.7044,
+    "lon": 15.99,
+    "population": 43870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Ploče",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 43.0667,
+    "lon": 17.4333,
+    "population": 43861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Kutina",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.5,
+    "lon": 16.75,
+    "population": 43755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đurđenovac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5433,
+    "lon": 18.0458,
+    "population": 43737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Đurđ",
+    "region": "Karlovac County",
+    "lat": 46.2833,
+    "lon": 16.6044,
+    "population": 43675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Gradiška",
+    "region": "Brod-Posavina County",
+    "lat": 45.255,
+    "lon": 17.3831,
+    "population": 43592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buzet",
+    "region": "Istria County",
+    "lat": 45.4094,
+    "lon": 13.9667,
+    "population": 43468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Selo Rok",
+    "region": "Međimurje County",
+    "lat": 46.4284,
+    "lon": 16.4622,
+    "population": 43431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pregrada",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.1642,
+    "lon": 15.7508,
+    "population": 43430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ražanac",
+    "region": "Zadar County",
+    "lat": 44.2819,
+    "lon": 15.3481,
+    "population": 43316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slivno",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9586,
+    "lon": 17.5443,
+    "population": 43282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Osijek",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5833,
+    "lon": 18.6667,
+    "population": 43207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ližnjan-Lisignano",
+    "region": "Istria County",
+    "lat": 44.8276,
+    "lon": 13.9603,
+    "population": 43150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarvaš",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5272,
+    "lon": 18.8375,
+    "population": 43057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brodski Varoš",
+    "region": "Brod-Posavina County",
+    "lat": 45.1811,
+    "lon": 17.9786,
+    "population": 42975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ladimirevci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6256,
+    "lon": 18.4486,
+    "population": 42909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retkovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2333,
+    "lon": 18.6531,
+    "population": 42892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koška",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5453,
+    "lon": 18.2858,
+    "population": 42865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrlika",
+    "region": "Split-Dalmatia County",
+    "lat": 43.911,
+    "lon": 16.3993,
+    "population": 42848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika",
+    "region": "Požega-Slavonia County",
+    "lat": 45.4544,
+    "lon": 17.6614,
+    "population": 42813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Slatina",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.7,
+    "lon": 17.7,
+    "population": 42785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kutjevo",
+    "region": "Požega-Slavonia County",
+    "lat": 45.4261,
+    "lon": 17.8825,
+    "population": 42747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bedekovčina",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0411,
+    "lon": 15.9964,
+    "population": 42647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarmina",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3181,
+    "lon": 18.7292,
+    "population": 42643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rovinj",
+    "region": "Istria County",
+    "lat": 45.08,
+    "lon": 13.64,
+    "population": 42514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peklenica",
+    "region": "Međimurje County",
+    "lat": 46.4953,
+    "lon": 16.4761,
+    "population": 42380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjelovar",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.8986,
+    "lon": 16.8489,
+    "population": 42371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Supetarska Draga",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.7975,
+    "lon": 14.7247,
+    "population": 42288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greda",
+    "region": "Split-Dalmatia County",
+    "lat": 43.6153,
+    "lon": 16.6936,
+    "population": 42249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunja",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3685,
+    "lon": 16.567,
+    "population": 42177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Hvar",
+    "region": "Split-Dalmatia County",
+    "lat": 43.1726,
+    "lon": 16.4455,
+    "population": 42157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorjani",
+    "region": "Osijek-Baranja County",
+    "lat": 45.3989,
+    "lon": 18.3722,
+    "population": 42153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumbarda",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9228,
+    "lon": 17.1672,
+    "population": 42051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voćin",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.6178,
+    "lon": 17.5478,
+    "population": 41881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cestica",
+    "region": "Karlovac County",
+    "lat": 46.3717,
+    "lon": 16.1253,
+    "population": 41874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matulji",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3617,
+    "lon": 14.325,
+    "population": 41765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stari Grad",
+    "region": "Split-Dalmatia County",
+    "lat": 43.1847,
+    "lon": 16.5953,
+    "population": 41728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milna",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3267,
+    "lon": 16.4508,
+    "population": 41660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Davor",
+    "region": "Brod-Posavina County",
+    "lat": 45.1153,
+    "lon": 17.5164,
+    "population": 41617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lokvičići",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4643,
+    "lon": 17.0914,
+    "population": 41610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brezovac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.8675,
+    "lon": 16.8408,
+    "population": 41503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brtonigla",
+    "region": "Istria County",
+    "lat": 45.3814,
+    "lon": 13.6294,
+    "population": 41447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrkopalj",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3156,
+    "lon": 14.8553,
+    "population": 41374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okrug",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4964,
+    "lon": 16.2673,
+    "population": 41318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otočac",
+    "region": "Lika-Senj County",
+    "lat": 44.8694,
+    "lon": 15.2375,
+    "population": 41276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mičevec",
+    "region": "Zagreb County",
+    "lat": 45.75,
+    "lon": 16.0667,
+    "population": 41238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zdenci Brdovečki",
+    "region": "Zagreb County",
+    "lat": 45.8667,
+    "lon": 15.75,
+    "population": 41149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Krapina",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.1597,
+    "lon": 15.8726,
+    "population": 41111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virje",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.0672,
+    "lon": 16.99,
+    "population": 41105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rovišće",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.9447,
+    "lon": 16.735,
+    "population": 41066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belica",
+    "region": "Međimurje County",
+    "lat": 46.4042,
+    "lon": 16.5183,
+    "population": 40906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Trogir",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5206,
+    "lon": 16.2514,
+    "population": 40770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stari Perkovci",
+    "region": "Brod-Posavina County",
+    "lat": 45.2175,
+    "lon": 18.3486,
+    "population": 40729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belišće",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6803,
+    "lon": 18.4058,
+    "population": 40621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Starigrad",
+    "region": "Zadar County",
+    "lat": 44.296,
+    "lon": 15.4387,
+    "population": 40523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prelog",
+    "region": "Međimurje County",
+    "lat": 46.335,
+    "lon": 16.6156,
+    "population": 40433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lastovo",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.7676,
+    "lon": 16.8971,
+    "population": 40405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nerežišća",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3296,
+    "lon": 16.5774,
+    "population": 40320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornja Rijeka",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1098,
+    "lon": 16.3908,
+    "population": 40304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Požega",
+    "region": "Požega-Slavonia County",
+    "lat": 45.3333,
+    "lon": 17.6667,
+    "population": 40153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duće",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4428,
+    "lon": 16.6683,
+    "population": 40151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trogir",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5125,
+    "lon": 16.2517,
+    "population": 40010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umag-Umago",
+    "region": "Istria County",
+    "lat": 45.4346,
+    "lon": 13.5259,
+    "population": 39999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podhum",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3872,
+    "lon": 14.4794,
+    "population": 39943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odra",
+    "region": "Zagreb",
+    "lat": 45.7298,
+    "lon": 15.9924,
+    "population": 39935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prigorje Brdovečko",
+    "region": "Zagreb County",
+    "lat": 45.8794,
+    "lon": 15.7381,
+    "population": 39893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vođinci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2756,
+    "lon": 18.6097,
+    "population": 39854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagvozd",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3975,
+    "lon": 17.0569,
+    "population": 39851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogdanovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3408,
+    "lon": 18.9308,
+    "population": 39750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borovo Selo",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.4053,
+    "lon": 18.9758,
+    "population": 39725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smokvica",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9306,
+    "lon": 16.8964,
+    "population": 39655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benkovac",
+    "region": "Zadar County",
+    "lat": 44.0344,
+    "lon": 15.6128,
+    "population": 39599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrsar-Orsera",
+    "region": "Istria County",
+    "lat": 45.1507,
+    "lon": 13.6056,
+    "population": 39581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darda",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6281,
+    "lon": 18.6997,
+    "population": 39311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budaševo",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.4747,
+    "lon": 16.4367,
+    "population": 39301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornje Vratno",
+    "region": "Karlovac County",
+    "lat": 46.3592,
+    "lon": 16.1544,
+    "population": 39178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenja",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4981,
+    "lon": 18.7472,
+    "population": 39115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galižana",
+    "region": "Istria County",
+    "lat": 44.9317,
+    "lon": 13.8686,
+    "population": 39113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hodošan",
+    "region": "Međimurje County",
+    "lat": 46.3953,
+    "lon": 16.6439,
+    "population": 39073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlatar Bistrica",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0479,
+    "lon": 16.0853,
+    "population": 39002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baška",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.9703,
+    "lon": 14.7533,
+    "population": 38995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Hrvatska Kostajnica",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.25,
+    "lon": 16.5667,
+    "population": 38977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brdovec",
+    "region": "Zagreb County",
+    "lat": 45.8667,
+    "lon": 15.771,
+    "population": 38959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lipovljani",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3967,
+    "lon": 16.8897,
+    "population": 38937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vidovec",
+    "region": "Karlovac County",
+    "lat": 46.2833,
+    "lon": 16.2411,
+    "population": 38692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bijelo Brdo",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5172,
+    "lon": 18.8708,
+    "population": 38650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umag",
+    "region": "Istria County",
+    "lat": 45.4314,
+    "lon": 13.5239,
+    "population": 38472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makarska",
+    "region": "Split-Dalmatia County",
+    "lat": 43.2969,
+    "lon": 17.0178,
+    "population": 38457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamen",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5142,
+    "lon": 16.5147,
+    "population": 38454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Supetar",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3844,
+    "lon": 16.5553,
+    "population": 38420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labin",
+    "region": "Istria County",
+    "lat": 45.095,
+    "lon": 14.1197,
+    "population": 38198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Severin",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.8415,
+    "lon": 16.9695,
+    "population": 38171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baška Voda",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3569,
+    "lon": 16.9503,
+    "population": 38097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tkon",
+    "region": "Zadar County",
+    "lat": 43.92,
+    "lon": 15.4164,
+    "population": 38020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gračac",
+    "region": "Zadar County",
+    "lat": 44.2992,
+    "lon": 15.8475,
+    "population": 37870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sikirevci",
+    "region": "Brod-Posavina County",
+    "lat": 45.1089,
+    "lon": 18.4644,
+    "population": 37764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sukošan",
+    "region": "Zadar County",
+    "lat": 44.047,
+    "lon": 15.3139,
+    "population": 37716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Zlatar",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.092,
+    "lon": 16.077,
+    "population": 37683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zabok",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0294,
+    "lon": 15.915,
+    "population": 37679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lopatinec",
+    "region": "Međimurje County",
+    "lat": 46.4333,
+    "lon": 16.3833,
+    "population": 37320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crnac",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.6961,
+    "lon": 17.9372,
+    "population": 37272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Opatija",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3333,
+    "lon": 14.2667,
+    "population": 37205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesenice",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4616,
+    "lon": 16.602,
+    "population": 37133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čakovec",
+    "region": "Međimurje County",
+    "lat": 46.3844,
+    "lon": 16.4339,
+    "population": 37103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rokovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2311,
+    "lon": 18.7439,
+    "population": 37035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vodice",
+    "region": "Šibenik-Knin County",
+    "lat": 43.7608,
+    "lon": 15.7828,
+    "population": 36945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Motovun-Montona",
+    "region": "Istria County",
+    "lat": 45.3363,
+    "lon": 13.8298,
+    "population": 36935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinj",
+    "region": "Split-Dalmatia County",
+    "lat": 43.7036,
+    "lon": 16.6394,
+    "population": 36830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breznica",
+    "region": "Karlovac County",
+    "lat": 46.0711,
+    "lon": 16.2711,
+    "population": 36746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batrina",
+    "region": "Brod-Posavina County",
+    "lat": 45.1894,
+    "lon": 17.6664,
+    "population": 36654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukovlje",
+    "region": "Brod-Posavina County",
+    "lat": 45.1853,
+    "lon": 18.07,
+    "population": 36488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferdinandovac",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.05,
+    "lon": 17.2,
+    "population": 36316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muć",
+    "region": "Split-Dalmatia County",
+    "lat": 43.6933,
+    "lon": 16.4727,
+    "population": 36290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Bukovica",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.6647,
+    "lon": 17.7669,
+    "population": 36259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradići",
+    "region": "Zagreb County",
+    "lat": 45.7,
+    "lon": 16.05,
+    "population": 36220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Sinj",
+    "region": "Split-Dalmatia County",
+    "lat": 43.7229,
+    "lon": 16.6582,
+    "population": 36174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mljet",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.7444,
+    "lon": 17.5364,
+    "population": 36119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilje",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6069,
+    "lon": 18.7439,
+    "population": 36065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Popovača",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.5697,
+    "lon": 16.625,
+    "population": 35990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ludbreg",
+    "region": "Karlovac County",
+    "lat": 46.2519,
+    "lon": 16.6147,
+    "population": 35887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Križevci",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.0219,
+    "lon": 16.5425,
+    "population": 35713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strahoninec",
+    "region": "Međimurje County",
+    "lat": 46.3689,
+    "lon": 16.415,
+    "population": 35617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cres",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.9611,
+    "lon": 14.4084,
+    "population": 35575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brnaze",
+    "region": "Split-Dalmatia County",
+    "lat": 43.68,
+    "lon": 16.6497,
+    "population": 35431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orešje",
+    "region": "Zagreb County",
+    "lat": 45.8162,
+    "lon": 15.8025,
+    "population": 35357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubešćica",
+    "region": "Karlovac County",
+    "lat": 46.1667,
+    "lon": 16.3833,
+    "population": 35176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubrava",
+    "region": "Zagreb",
+    "lat": 45.8336,
+    "lon": 16.0636,
+    "population": 35158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ježdovec",
+    "region": "Zagreb",
+    "lat": 45.7833,
+    "lon": 15.85,
+    "population": 35138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Crikvenica",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.1667,
+    "lon": 14.7,
+    "population": 35101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centar",
+    "region": "Zagreb",
+    "lat": 45.8131,
+    "lon": 15.9775,
+    "population": 35075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punat",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.0147,
+    "lon": 14.6289,
+    "population": 35034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reka",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1303,
+    "lon": 16.7669,
+    "population": 34966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dekanovec",
+    "region": "Međimurje County",
+    "lat": 46.4486,
+    "lon": 16.5847,
+    "population": 34938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nedelišće",
+    "region": "Međimurje County",
+    "lat": 46.3758,
+    "lon": 16.3875,
+    "population": 34873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gala",
+    "region": "Split-Dalmatia County",
+    "lat": 43.715,
+    "lon": 16.7269,
+    "population": 34817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luka",
+    "region": "Zagreb County",
+    "lat": 45.9579,
+    "lon": 15.8195,
+    "population": 34780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žrnovnica",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5211,
+    "lon": 16.5592,
+    "population": 34665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koprivnica",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1628,
+    "lon": 16.8275,
+    "population": 34658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mačkovec",
+    "region": "Međimurje County",
+    "lat": 46.4242,
+    "lon": 16.4336,
+    "population": 34640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jelsa",
+    "region": "Split-Dalmatia County",
+    "lat": 43.1614,
+    "lon": 16.6931,
+    "population": 34563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drenovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 44.9194,
+    "lon": 18.9028,
+    "population": 34542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rezovac",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.7833,
+    "lon": 17.4167,
+    "population": 34271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruševo",
+    "region": "Zadar County",
+    "lat": 44.1833,
+    "lon": 15.65,
+    "population": 34268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galovac",
+    "region": "Zadar County",
+    "lat": 44.0714,
+    "lon": 15.3933,
+    "population": 34218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samobor",
+    "region": "Zagreb County",
+    "lat": 45.8031,
+    "lon": 15.7181,
+    "population": 34082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turanj",
+    "region": "Zadar County",
+    "lat": 43.9711,
+    "lon": 15.4114,
+    "population": 34070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dvor",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.0731,
+    "lon": 16.3708,
+    "population": 34067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stobreč",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5025,
+    "lon": 16.5222,
+    "population": 34037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Omiš",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4667,
+    "lon": 16.7,
+    "population": 33978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lužani",
+    "region": "Brod-Posavina County",
+    "lat": 45.1681,
+    "lon": 17.7069,
+    "population": 33919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivankovo",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2886,
+    "lon": 18.6839,
+    "population": 33902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pazin",
+    "region": "Istria County",
+    "lat": 45.2403,
+    "lon": 13.9367,
+    "population": 33896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pula",
+    "region": "Istria County",
+    "lat": 44.8683,
+    "lon": 13.8481,
+    "population": 33868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otok",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.1467,
+    "lon": 18.8839,
+    "population": 33851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vižinada-Visinada",
+    "region": "Istria County",
+    "lat": 45.3313,
+    "lon": 13.7594,
+    "population": 33746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampor",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.775,
+    "lon": 14.7186,
+    "population": 33710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lepoglava",
+    "region": "Karlovac County",
+    "lat": 46.2106,
+    "lon": 16.0356,
+    "population": 33705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mraclin",
+    "region": "Zagreb County",
+    "lat": 45.6667,
+    "lon": 16.0956,
+    "population": 33693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Donji Miholjac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.75,
+    "lon": 18.1667,
+    "population": 33577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rešetari",
+    "region": "Brod-Posavina County",
+    "lat": 45.2623,
+    "lon": 17.4235,
+    "population": 33519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bibinje",
+    "region": "Zadar County",
+    "lat": 44.0732,
+    "lon": 15.2829,
+    "population": 33499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Runovići",
+    "region": "Split-Dalmatia County",
+    "lat": 43.387,
+    "lon": 17.2389,
+    "population": 33384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Virovitica",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.8317,
+    "lon": 17.3848,
+    "population": 33367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveta Nedelja",
+    "region": "Zagreb County",
+    "lat": 45.7962,
+    "lon": 15.7797,
+    "population": 33342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krk",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.0274,
+    "lon": 14.5754,
+    "population": 33291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Nova Gradiška",
+    "region": "Brod-Posavina County",
+    "lat": 45.2667,
+    "lon": 17.4,
+    "population": 33272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilok",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2222,
+    "lon": 19.3769,
+    "population": 33188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brestovac",
+    "region": "Požega-Slavonia County",
+    "lat": 45.3306,
+    "lon": 17.5969,
+    "population": 33141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antunovac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4908,
+    "lon": 18.675,
+    "population": 32798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovreć",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4876,
+    "lon": 16.9863,
+    "population": 32746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Općina Lastovo",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.75,
+    "lon": 16.9,
+    "population": 32732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Samobor",
+    "region": "Zagreb County",
+    "lat": 45.8,
+    "lon": 15.7,
+    "population": 32714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštel Kambelovac",
+    "region": "Split-Dalmatia County",
+    "lat": 43.55,
+    "lon": 16.3833,
+    "population": 32697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Petrinja",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.4333,
+    "lon": 16.2667,
+    "population": 32677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Korčula",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9569,
+    "lon": 17.1318,
+    "population": 32308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Ludbreg",
+    "region": "Karlovac County",
+    "lat": 46.25,
+    "lon": 16.6333,
+    "population": 32275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opuzen",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 43.0153,
+    "lon": 17.5656,
+    "population": 32186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Bogićevci",
+    "region": "Brod-Posavina County",
+    "lat": 45.2557,
+    "lon": 17.2345,
+    "population": 32173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strmec",
+    "region": "Zagreb",
+    "lat": 45.7084,
+    "lon": 15.9167,
+    "population": 31971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Draž",
+    "region": "Osijek-Baranja County",
+    "lat": 45.8422,
+    "lon": 18.7886,
+    "population": 31950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sisak",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.4661,
+    "lon": 16.3783,
+    "population": 31948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrijevci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6128,
+    "lon": 18.5353,
+    "population": 31947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Čakovec",
+    "region": "Međimurje County",
+    "lat": 46.3858,
+    "lon": 16.4333,
+    "population": 31930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Pisanica",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.8016,
+    "lon": 17.0655,
+    "population": 31917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Sisak",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.5,
+    "lon": 16.3667,
+    "population": 31847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metković",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 43.0542,
+    "lon": 17.6483,
+    "population": 31770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đurđevac",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.0397,
+    "lon": 17.0717,
+    "population": 31762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Požega",
+    "region": "Požega-Slavonia County",
+    "lat": 45.3403,
+    "lon": 17.6853,
+    "population": 31759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakov Potok",
+    "region": "Zagreb County",
+    "lat": 45.7381,
+    "lon": 15.7972,
+    "population": 31753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donji Stupnik",
+    "region": "Zagreb County",
+    "lat": 45.7397,
+    "lon": 15.8598,
+    "population": 31719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zadvorsko",
+    "region": "Zagreb",
+    "lat": 45.7198,
+    "lon": 15.9088,
+    "population": 31686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erdut",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5264,
+    "lon": 19.0603,
+    "population": 31638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marijanci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6664,
+    "lon": 18.2928,
+    "population": 31558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Općina Dubrava",
+    "region": "Zagreb County",
+    "lat": 45.8376,
+    "lon": 16.5368,
+    "population": 31545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Promina",
+    "region": "Šibenik-Knin County",
+    "lat": 43.958,
+    "lon": 16.0974,
+    "population": 31398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubrovačko primorje",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.7899,
+    "lon": 17.8624,
+    "population": 31390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slavonski Brod",
+    "region": "Brod-Posavina County",
+    "lat": 45.1603,
+    "lon": 18.0156,
+    "population": 31246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kali",
+    "region": "Zadar County",
+    "lat": 44.0628,
+    "lon": 15.2056,
+    "population": 31188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Buzet",
+    "region": "Istria County",
+    "lat": 45.4167,
+    "lon": 13.9667,
+    "population": 31154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molve",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1092,
+    "lon": 17.0317,
+    "population": 30983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viljevo",
+    "region": "Osijek-Baranja County",
+    "lat": 45.7514,
+    "lon": 18.0631,
+    "population": 30907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jakovlje",
+    "region": "Zagreb County",
+    "lat": 45.9361,
+    "lon": 15.8556,
+    "population": 30864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuševac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.3478,
+    "lon": 18.4289,
+    "population": 30814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martinska Ves",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.5867,
+    "lon": 16.3746,
+    "population": 30731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brijest",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5206,
+    "lon": 18.6719,
+    "population": 30713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osijek",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5511,
+    "lon": 18.6939,
+    "population": 30629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karojba",
+    "region": "Istria County",
+    "lat": 45.3008,
+    "lon": 13.8231,
+    "population": 30575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opatija",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3377,
+    "lon": 14.3051,
+    "population": 30485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuštar",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3325,
+    "lon": 18.8414,
+    "population": 30437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradište",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.1481,
+    "lon": 18.7067,
+    "population": 30415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mursko Središće",
+    "region": "Međimurje County",
+    "lat": 46.5094,
+    "lon": 16.4411,
+    "population": 30300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Špišić Bukovica",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.8574,
+    "lon": 17.3009,
+    "population": 30238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murter",
+    "region": "Šibenik-Knin County",
+    "lat": 43.8204,
+    "lon": 15.5899,
+    "population": 30206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murter-Kornati",
+    "region": "Šibenik-Knin County",
+    "lat": 43.8096,
+    "lon": 15.6002,
+    "population": 30169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novigrad-Cittanova",
+    "region": "Istria County",
+    "lat": 45.3167,
+    "lon": 13.5616,
+    "population": 30068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanska",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.7789,
+    "lon": 16.8119,
+    "population": 30036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lopar",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.8325,
+    "lon": 14.7303,
+    "population": 29940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vuka",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4339,
+    "lon": 18.505,
+    "population": 29899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Končanica",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.6361,
+    "lon": 17.1664,
+    "population": 29791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Vrbovec",
+    "region": "Zagreb County",
+    "lat": 45.8667,
+    "lon": 16.4333,
+    "population": 29732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markovac Našički",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4939,
+    "lon": 18.1256,
+    "population": 29663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crikvenica",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.1772,
+    "lon": 14.6928,
+    "population": 29654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalkovec",
+    "region": "Karlovac County",
+    "lat": 46.2808,
+    "lon": 16.3197,
+    "population": 29596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Klanjec",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0498,
+    "lon": 15.7462,
+    "population": 29595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalj",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4844,
+    "lon": 18.9861,
+    "population": 29402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Čiče",
+    "region": "Zagreb County",
+    "lat": 45.7,
+    "lon": 16.1167,
+    "population": 29400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinkovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2883,
+    "lon": 18.8047,
+    "population": 29381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breznički Hum",
+    "region": "Karlovac County",
+    "lat": 46.1072,
+    "lon": 16.2767,
+    "population": 29336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rogoznica Općina",
+    "region": "Šibenik-Knin County",
+    "lat": 43.5362,
+    "lon": 15.9709,
+    "population": 29130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drenova",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.35,
+    "lon": 14.4303,
+    "population": 29115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banjol",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.75,
+    "lon": 14.7833,
+    "population": 29083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grožnjan-Grisignana",
+    "region": "Istria County",
+    "lat": 45.3773,
+    "lon": 13.7215,
+    "population": 29062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Županja",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.0723,
+    "lon": 18.6951,
+    "population": 29034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klanjec",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0498,
+    "lon": 15.7442,
+    "population": 28996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ždralovi",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.8764,
+    "lon": 16.875,
+    "population": 28903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komletinci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.1497,
+    "lon": 18.9492,
+    "population": 28860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotoriba",
+    "region": "Međimurje County",
+    "lat": 46.355,
+    "lon": 16.8181,
+    "population": 28851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mače",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0947,
+    "lon": 16.0353,
+    "population": 28817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biograd na Moru",
+    "region": "Zadar County",
+    "lat": 43.9433,
+    "lon": 15.4519,
+    "population": 28785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novalja",
+    "region": "Lika-Senj County",
+    "lat": 44.5578,
+    "lon": 14.8867,
+    "population": 28769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zažablje",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 43.0111,
+    "lon": 17.6568,
+    "population": 28757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brckovljani",
+    "region": "Zagreb County",
+    "lat": 45.8333,
+    "lon": 16.3,
+    "population": 28720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komin",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 43.0408,
+    "lon": 17.5369,
+    "population": 28595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knin",
+    "region": "Šibenik-Knin County",
+    "lat": 44.0406,
+    "lon": 16.1966,
+    "population": 28389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skrad",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.4278,
+    "lon": 14.9111,
+    "population": 28365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Škrljevo",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3205,
+    "lon": 14.5327,
+    "population": 28351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poreč",
+    "region": "Istria County",
+    "lat": 45.2257,
+    "lon": 13.5951,
+    "population": 28339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Popovača",
+    "region": "Lika-Senj County",
+    "lat": 44.6392,
+    "lon": 15.1792,
+    "population": 28225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Supetar",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3842,
+    "lon": 16.5508,
+    "population": 28218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Satnica Đakovačka",
+    "region": "Osijek-Baranja County",
+    "lat": 45.3537,
+    "lon": 18.3773,
+    "population": 28184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varaždin",
+    "region": "Karlovac County",
+    "lat": 46.3044,
+    "lon": 16.3378,
+    "population": 28102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pleternica",
+    "region": "Požega-Slavonia County",
+    "lat": 45.2886,
+    "lon": 17.8064,
+    "population": 28024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horvati",
+    "region": "Zagreb",
+    "lat": 45.7,
+    "lon": 15.8167,
+    "population": 27702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petlovac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.7583,
+    "lon": 18.5281,
+    "population": 27611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pag",
+    "region": "Zadar County",
+    "lat": 44.445,
+    "lon": 15.0575,
+    "population": 27561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donja Zdenčina",
+    "region": "Zagreb County",
+    "lat": 45.6667,
+    "lon": 15.7667,
+    "population": 27468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veliki Grđevac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.7503,
+    "lon": 17.0475,
+    "population": 27429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Runović",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3767,
+    "lon": 17.2367,
+    "population": 27403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podvinje",
+    "region": "Brod-Posavina County",
+    "lat": 45.1903,
+    "lon": 18.0269,
+    "population": 27400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oprtalj-Portole",
+    "region": "Istria County",
+    "lat": 45.3823,
+    "lon": 13.8241,
+    "population": 27345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradska četvrt Podsljeme",
+    "region": "Zagreb",
+    "lat": 45.861,
+    "lon": 15.98,
+    "population": 27324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obrovac",
+    "region": "Zadar County",
+    "lat": 44.2006,
+    "lon": 15.6822,
+    "population": 27311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farkaševac",
+    "region": "Zagreb County",
+    "lat": 45.879,
+    "lon": 16.6347,
+    "population": 27265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Općina Dvor",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.1,
+    "lon": 16.3,
+    "population": 27248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strizivojna",
+    "region": "Osijek-Baranja County",
+    "lat": 45.2261,
+    "lon": 18.4239,
+    "population": 27219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornja Bistra",
+    "region": "Zagreb County",
+    "lat": 45.9167,
+    "lon": 15.9,
+    "population": 27055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveta Nedjelja",
+    "region": "Zagreb County",
+    "lat": 45.7983,
+    "lon": 15.7806,
+    "population": 26906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buje-Buie",
+    "region": "Istria County",
+    "lat": 45.4079,
+    "lon": 13.6591,
+    "population": 26855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrbnik",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.0758,
+    "lon": 14.6725,
+    "population": 26830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goričan",
+    "region": "Međimurje County",
+    "lat": 46.3842,
+    "lon": 16.6808,
+    "population": 26797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Repušnica",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.4928,
+    "lon": 16.7308,
+    "population": 26761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Posedarje",
+    "region": "Zadar County",
+    "lat": 44.2136,
+    "lon": 15.4767,
+    "population": 26724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mihovljan",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.1331,
+    "lon": 15.9722,
+    "population": 26696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brela",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3689,
+    "lon": 16.9342,
+    "population": 26648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Dubrovnik",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.6486,
+    "lon": 18.094,
+    "population": 26596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kneževi Vinogradi",
+    "region": "Osijek-Baranja County",
+    "lat": 45.7503,
+    "lon": 18.7331,
+    "population": 26515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daruvar",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.5906,
+    "lon": 17.225,
+    "population": 26472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suhopolje",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.7997,
+    "lon": 17.4992,
+    "population": 26462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seget Vranjica",
+    "region": "Split-Dalmatia County",
+    "lat": 43.51,
+    "lon": 16.187,
+    "population": 26397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrbovec",
+    "region": "Zagreb County",
+    "lat": 45.8833,
+    "lon": 16.4217,
+    "population": 26178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donja Bistra",
+    "region": "Zagreb County",
+    "lat": 45.9078,
+    "lon": 15.8544,
+    "population": 25944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bale-Valle",
+    "region": "Istria County",
+    "lat": 45.0409,
+    "lon": 13.7857,
+    "population": 25900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Dugo Selo",
+    "region": "Zagreb County",
+    "lat": 45.809,
+    "lon": 16.2412,
+    "population": 25794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibinj",
+    "region": "Brod-Posavina County",
+    "lat": 45.1917,
+    "lon": 17.9081,
+    "population": 25775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kašina",
+    "region": "Zagreb",
+    "lat": 45.9113,
+    "lon": 16.1244,
+    "population": 25743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitomača",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.9506,
+    "lon": 17.2294,
+    "population": 25732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jadranovo",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.2311,
+    "lon": 14.6183,
+    "population": 25589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlobag",
+    "region": "Lika-Senj County",
+    "lat": 44.5275,
+    "lon": 15.0739,
+    "population": 25403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mihotići",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3612,
+    "lon": 14.3055,
+    "population": 25380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raša",
+    "region": "Istria County",
+    "lat": 45.0803,
+    "lon": 14.0789,
+    "population": 25353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čačinci",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.6039,
+    "lon": 17.8703,
+    "population": 25103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruševica",
+    "region": "Brod-Posavina County",
+    "lat": 45.0775,
+    "lon": 18.4828,
+    "population": 24875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradska četvrt Donji grad",
+    "region": "Zagreb",
+    "lat": 45.8083,
+    "lon": 15.9695,
+    "population": 24758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grubine",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4299,
+    "lon": 17.1629,
+    "population": 24743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lupoglav",
+    "region": "Istria County",
+    "lat": 45.352,
+    "lon": 14.1085,
+    "population": 24707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hvar",
+    "region": "Split-Dalmatia County",
+    "lat": 43.1725,
+    "lon": 16.4428,
+    "population": 24647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slatina",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.7033,
+    "lon": 17.7028,
+    "population": 24529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sračinec",
+    "region": "Karlovac County",
+    "lat": 46.3294,
+    "lon": 16.2789,
+    "population": 24484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradina",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.8542,
+    "lon": 17.5111,
+    "population": 24456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bizovac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5928,
+    "lon": 18.4589,
+    "population": 24438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaprešić",
+    "region": "Zagreb County",
+    "lat": 45.8564,
+    "lon": 15.8078,
+    "population": 24429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čepin",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5236,
+    "lon": 18.5633,
+    "population": 24416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stari Grad",
+    "region": "Zadar County",
+    "lat": 44.43,
+    "lon": 15.0622,
+    "population": 24281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donja Lomnica",
+    "region": "Zagreb County",
+    "lat": 45.7119,
+    "lon": 16.0269,
+    "population": 24211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podravska Moslavina",
+    "region": "Osijek-Baranja County",
+    "lat": 45.7846,
+    "lon": 17.9841,
+    "population": 24170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podgorač",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4586,
+    "lon": 18.2228,
+    "population": 24094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bribir",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.1611,
+    "lon": 14.7647,
+    "population": 24082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrvatska Kostajnica",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.2317,
+    "lon": 16.5392,
+    "population": 23993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštel Stari",
+    "region": "Split-Dalmatia County",
+    "lat": 43.55,
+    "lon": 16.35,
+    "population": 23905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hercegovac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.6586,
+    "lon": 17.0136,
+    "population": 23874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tordinci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3703,
+    "lon": 18.795,
+    "population": 23653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nijemci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.1403,
+    "lon": 19.0356,
+    "population": 23635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gundinci",
+    "region": "Brod-Posavina County",
+    "lat": 45.1583,
+    "lon": 18.4914,
+    "population": 23513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Kneginec",
+    "region": "Karlovac County",
+    "lat": 46.2505,
+    "lon": 16.3756,
+    "population": 23417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đulovac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.6659,
+    "lon": 17.4298,
+    "population": 23384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinodolska općina",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.2222,
+    "lon": 14.6894,
+    "population": 23310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budinščina",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.1279,
+    "lon": 16.2041,
+    "population": 23303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mala Subotica",
+    "region": "Međimurje County",
+    "lat": 46.3762,
+    "lon": 16.5289,
+    "population": 23257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brtonigla-Verteneglio",
+    "region": "Istria County",
+    "lat": 45.3792,
+    "lon": 13.6255,
+    "population": 23244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Donja Stubica",
+    "region": "Krapina-Zagorje County",
+    "lat": 45.9796,
+    "lon": 15.9707,
+    "population": 23233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Slavonski Brod",
+    "region": "Brod-Posavina County",
+    "lat": 45.1627,
+    "lon": 18.0306,
+    "population": 23227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Vis",
+    "region": "Split-Dalmatia County",
+    "lat": 43.0532,
+    "lon": 16.187,
+    "population": 23142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lupoglav",
+    "region": "Zagreb County",
+    "lat": 45.7964,
+    "lon": 16.3464,
+    "population": 23038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jablanovec",
+    "region": "Zagreb County",
+    "lat": 45.8758,
+    "lon": 15.8536,
+    "population": 23016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Našice",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4886,
+    "lon": 18.0878,
+    "population": 22964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ernestinovo",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4519,
+    "lon": 18.6592,
+    "population": 22938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštel Gomilica",
+    "region": "Split-Dalmatia County",
+    "lat": 43.55,
+    "lon": 16.4,
+    "population": 22900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jakšić",
+    "region": "Požega-Slavonia County",
+    "lat": 45.3576,
+    "lon": 17.765,
+    "population": 22856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stupnik",
+    "region": "Zagreb County",
+    "lat": 45.7531,
+    "lon": 15.8408,
+    "population": 22831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pušća",
+    "region": "Zagreb County",
+    "lat": 45.9157,
+    "lon": 15.7805,
+    "population": 22775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vodnjan-Dignano",
+    "region": "Istria County",
+    "lat": 44.9619,
+    "lon": 13.8504,
+    "population": 22710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tisno",
+    "region": "Šibenik-Knin County",
+    "lat": 43.8042,
+    "lon": 15.6433,
+    "population": 22664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orehovica",
+    "region": "Međimurje County",
+    "lat": 46.3317,
+    "lon": 16.5069,
+    "population": 22607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanec",
+    "region": "Karlovac County",
+    "lat": 46.2231,
+    "lon": 16.12,
+    "population": 22501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapela",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.9854,
+    "lon": 16.8517,
+    "population": 22427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokošica",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.6756,
+    "lon": 18.0903,
+    "population": 22341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumrovec",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0775,
+    "lon": 15.6756,
+    "population": 22265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Ivanec",
+    "region": "Karlovac County",
+    "lat": 46.2333,
+    "lon": 16.1333,
+    "population": 22254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krapina",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.1608,
+    "lon": 15.8789,
+    "population": 22232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cavtat",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.5811,
+    "lon": 18.2181,
+    "population": 22121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Mlaka",
+    "region": "Zagreb County",
+    "lat": 45.7364,
+    "lon": 16.0311,
+    "population": 22110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martin",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4922,
+    "lon": 18.0667,
+    "population": 22083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slatine",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4994,
+    "lon": 16.3333,
+    "population": 22008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kistanje",
+    "region": "Šibenik-Knin County",
+    "lat": 43.9828,
+    "lon": 15.965,
+    "population": 21926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bošnjaci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.0503,
+    "lon": 18.7556,
+    "population": 21858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Funtana-Fontane",
+    "region": "Istria County",
+    "lat": 45.1748,
+    "lon": 13.6063,
+    "population": 21853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mravince",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5333,
+    "lon": 16.5219,
+    "population": 21832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Vrgorac",
+    "region": "Split-Dalmatia County",
+    "lat": 43.2,
+    "lon": 17.3667,
+    "population": 21770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrvace",
+    "region": "Split-Dalmatia County",
+    "lat": 43.7633,
+    "lon": 16.615,
+    "population": 21701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žminj",
+    "region": "Istria County",
+    "lat": 45.1428,
+    "lon": 13.9089,
+    "population": 21645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malinska-Dubašnica",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.1228,
+    "lon": 14.5287,
+    "population": 21618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Virje",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.0983,
+    "lon": 17.1521,
+    "population": 21618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Križ",
+    "region": "Zagreb County",
+    "lat": 45.665,
+    "lon": 16.5233,
+    "population": 21463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rijeka",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3267,
+    "lon": 14.4424,
+    "population": 21372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Pakrac",
+    "region": "Požega-Slavonia County",
+    "lat": 45.4333,
+    "lon": 17.2,
+    "population": 21270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gudovac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.8803,
+    "lon": 16.7808,
+    "population": 21174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vodnjan",
+    "region": "Istria County",
+    "lat": 44.9594,
+    "lon": 13.8517,
+    "population": 21136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medulin",
+    "region": "Istria County",
+    "lat": 44.8225,
+    "lon": 13.935,
+    "population": 21135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podstrana",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4867,
+    "lon": 16.5501,
+    "population": 21089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bale",
+    "region": "Istria County",
+    "lat": 45.0406,
+    "lon": 13.7836,
+    "population": 20985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radoboj",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.1664,
+    "lon": 15.9236,
+    "population": 20859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hreljin",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.2825,
+    "lon": 14.5992,
+    "population": 20835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Karin",
+    "region": "Zadar County",
+    "lat": 44.136,
+    "lon": 15.6342,
+    "population": 20603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magadenovac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6616,
+    "lon": 18.1868,
+    "population": 20442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klana",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.4469,
+    "lon": 14.3769,
+    "population": 20416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrašćica",
+    "region": "Karlovac County",
+    "lat": 46.3249,
+    "lon": 16.2943,
+    "population": 20285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Feričanci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5289,
+    "lon": 17.9758,
+    "population": 20266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zdenci",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.5892,
+    "lon": 17.9503,
+    "population": 20100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glina",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3381,
+    "lon": 16.0881,
+    "population": 20096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velimirovac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5236,
+    "lon": 18.1094,
+    "population": 20085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sopje",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.8011,
+    "lon": 17.7425,
+    "population": 20065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Štitar",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.0956,
+    "lon": 18.6403,
+    "population": 20013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srinjine",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4833,
+    "lon": 16.6,
+    "population": 19872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinica",
+    "region": "Karlovac County",
+    "lat": 46.3361,
+    "lon": 16.1494,
+    "population": 19872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakar",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3086,
+    "lon": 14.5303,
+    "population": 19817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novigrad",
+    "region": "Istria County",
+    "lat": 45.315,
+    "lon": 13.5581,
+    "population": 19817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Motovun",
+    "region": "Istria County",
+    "lat": 45.3367,
+    "lon": 13.8286,
+    "population": 19813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuče",
+    "region": "Zagreb County",
+    "lat": 45.6769,
+    "lon": 16.145,
+    "population": 19811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalinovac",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.0294,
+    "lon": 17.1156,
+    "population": 19756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Predavac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.9358,
+    "lon": 16.7833,
+    "population": 19742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Gorica",
+    "region": "Zagreb County",
+    "lat": 45.7125,
+    "lon": 16.0756,
+    "population": 19641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Primošten",
+    "region": "Šibenik-Knin County",
+    "lat": 43.5863,
+    "lon": 15.923,
+    "population": 19608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otok",
+    "region": "Split-Dalmatia County",
+    "lat": 43.6866,
+    "lon": 16.7349,
+    "population": 19587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštel Štafilić",
+    "region": "Split-Dalmatia County",
+    "lat": 43.55,
+    "lon": 16.3333,
+    "population": 19538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koprivnički Ivanec",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.1991,
+    "lon": 16.8163,
+    "population": 19500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Legrad",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.2975,
+    "lon": 16.8567,
+    "population": 19362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bestovje",
+    "region": "Zagreb County",
+    "lat": 45.8083,
+    "lon": 15.8167,
+    "population": 19240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Delnice",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3981,
+    "lon": 14.8011,
+    "population": 19157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bršadin",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3628,
+    "lon": 18.9111,
+    "population": 19098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korčula",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9604,
+    "lon": 17.1352,
+    "population": 19051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beretinec",
+    "region": "Karlovac County",
+    "lat": 46.25,
+    "lon": 16.3,
+    "population": 19016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradac",
+    "region": "Split-Dalmatia County",
+    "lat": 43.1058,
+    "lon": 17.3417,
+    "population": 18992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Krk",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.0283,
+    "lon": 14.5723,
+    "population": 18987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valbandon",
+    "region": "Istria County",
+    "lat": 44.9188,
+    "lon": 13.8134,
+    "population": 18914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garešnica",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.5744,
+    "lon": 16.9414,
+    "population": 18902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žrnovo",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9511,
+    "lon": 17.1142,
+    "population": 18763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omišalj",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.2113,
+    "lon": 14.5549,
+    "population": 18755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beli Manastir",
+    "region": "Osijek-Baranja County",
+    "lat": 45.77,
+    "lon": 18.6036,
+    "population": 18697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesenje",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.2072,
+    "lon": 15.8819,
+    "population": 18571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borovo",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3764,
+    "lon": 18.9669,
+    "population": 18533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stari Jankovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2619,
+    "lon": 18.9144,
+    "population": 18513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jasenice",
+    "region": "Zadar County",
+    "lat": 44.2297,
+    "lon": 15.5751,
+    "population": 18417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Vinkovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2804,
+    "lon": 18.8048,
+    "population": 18386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domašinec",
+    "region": "Međimurje County",
+    "lat": 46.4325,
+    "lon": 16.6,
+    "population": 18365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cernik",
+    "region": "Brod-Posavina County",
+    "lat": 45.2886,
+    "lon": 17.3819,
+    "population": 18351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Glina",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3333,
+    "lon": 16.1,
+    "population": 18290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bol",
+    "region": "Split-Dalmatia County",
+    "lat": 43.2619,
+    "lon": 16.655,
+    "population": 18275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skradin",
+    "region": "Šibenik-Knin County",
+    "lat": 43.8203,
+    "lon": 15.9236,
+    "population": 18243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polača",
+    "region": "Zadar County",
+    "lat": 44.0183,
+    "lon": 15.5175,
+    "population": 18063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ližnjan",
+    "region": "Istria County",
+    "lat": 44.8283,
+    "lon": 13.9569,
+    "population": 18006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fužine",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3053,
+    "lon": 14.7156,
+    "population": 17874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okrug Gornji",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4947,
+    "lon": 16.2653,
+    "population": 17863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selce",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.1564,
+    "lon": 14.7211,
+    "population": 17832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vratišinec",
+    "region": "Međimurje County",
+    "lat": 46.4781,
+    "lon": 16.4578,
+    "population": 17811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštel Lukšić",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5553,
+    "lon": 16.3675,
+    "population": 17805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oroslavje",
+    "region": "Krapina-Zagorje County",
+    "lat": 45.9967,
+    "lon": 15.9151,
+    "population": 17791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaštela",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5386,
+    "lon": 16.3074,
+    "population": 17745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gvozd",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3531,
+    "lon": 15.8656,
+    "population": 17675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lipik",
+    "region": "Požega-Slavonia County",
+    "lat": 45.4114,
+    "lon": 17.1522,
+    "population": 17590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krasica",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3097,
+    "lon": 14.5556,
+    "population": 17489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čađavica",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.7442,
+    "lon": 17.8547,
+    "population": 17465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pridraga",
+    "region": "Zadar County",
+    "lat": 44.1667,
+    "lon": 15.5667,
+    "population": 17435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrpolje",
+    "region": "Brod-Posavina County",
+    "lat": 45.2106,
+    "lon": 18.4056,
+    "population": 17291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markušica",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3739,
+    "lon": 18.7058,
+    "population": 17287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mali Lošinj",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 44.5306,
+    "lon": 14.4686,
+    "population": 17236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garčin",
+    "region": "Brod-Posavina County",
+    "lat": 45.1828,
+    "lon": 18.1831,
+    "population": 17171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Općina Lanišće",
+    "region": "Istria County",
+    "lat": 45.4352,
+    "lon": 14.082,
+    "population": 17092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komiža",
+    "region": "Split-Dalmatia County",
+    "lat": 43.0431,
+    "lon": 16.0931,
+    "population": 17071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selca",
+    "region": "Split-Dalmatia County",
+    "lat": 43.2972,
+    "lon": 16.8508,
+    "population": 16854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinež",
+    "region": "Istria County",
+    "lat": 45.0981,
+    "lon": 14.1069,
+    "population": 16789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podgora",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.8486,
+    "lon": 17.8364,
+    "population": 16582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drnje",
+    "region": "Koprivnica-Križevci County",
+    "lat": 46.2069,
+    "lon": 16.9169,
+    "population": 16552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruščica",
+    "region": "Brod-Posavina County",
+    "lat": 45.1467,
+    "lon": 18.0794,
+    "population": 16489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rude",
+    "region": "Zagreb County",
+    "lat": 45.7667,
+    "lon": 15.6667,
+    "population": 16372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virovitica",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.8319,
+    "lon": 17.3839,
+    "population": 16335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jagodnjak",
+    "region": "Osijek-Baranja County",
+    "lat": 45.6992,
+    "lon": 18.5769,
+    "population": 16312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kraljevica",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.2739,
+    "lon": 14.5683,
+    "population": 16295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oprisavci",
+    "region": "Brod-Posavina County",
+    "lat": 45.1511,
+    "lon": 18.2297,
+    "population": 16247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delnice",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.4008,
+    "lon": 14.7997,
+    "population": 16211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrbanja",
+    "region": "Vukovar-Syrmia County",
+    "lat": 44.9808,
+    "lon": 18.9272,
+    "population": 16119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jelisavac",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5289,
+    "lon": 18.1561,
+    "population": 16097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakoštane",
+    "region": "Zadar County",
+    "lat": 43.9122,
+    "lon": 15.5089,
+    "population": 16066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vukovar",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3516,
+    "lon": 19.0023,
+    "population": 16002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šolta",
+    "region": "Split-Dalmatia County",
+    "lat": 43.3871,
+    "lon": 16.2887,
+    "population": 15987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Pazin",
+    "region": "Istria County",
+    "lat": 45.2333,
+    "lon": 13.9333,
+    "population": 15882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerna",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.1819,
+    "lon": 18.6894,
+    "population": 15879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Preseka",
+    "region": "Zagreb County",
+    "lat": 45.9746,
+    "lon": 16.387,
+    "population": 15753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veliki Drvenik",
+    "region": "Split-Dalmatia County",
+    "lat": 43.45,
+    "lon": 16.15,
+    "population": 15727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenjevec",
+    "region": "Zagreb",
+    "lat": 45.8085,
+    "lon": 15.8825,
+    "population": 15563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korenica",
+    "region": "Brod-Posavina County",
+    "lat": 45.2247,
+    "lon": 18.1656,
+    "population": 15549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novska",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3406,
+    "lon": 16.9769,
+    "population": 15525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remetinec",
+    "region": "Karlovac County",
+    "lat": 46.1853,
+    "lon": 16.3278,
+    "population": 15450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vladislavci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.4594,
+    "lon": 18.5742,
+    "population": 15419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voloder",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.5481,
+    "lon": 16.6789,
+    "population": 15413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jastrebarsko",
+    "region": "Zagreb County",
+    "lat": 45.6683,
+    "lon": 15.6486,
+    "population": 15410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagreb",
+    "region": "Zagreb",
+    "lat": 45.8144,
+    "lon": 15.978,
+    "population": 15326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osljak",
+    "region": "Zadar County",
+    "lat": 44.0767,
+    "lon": 15.2072,
+    "population": 15317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Župa dubrovačka",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.6268,
+    "lon": 18.1947,
+    "population": 15261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Rijeka",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3269,
+    "lon": 14.4376,
+    "population": 15238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Split",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5089,
+    "lon": 16.4392,
+    "population": 15224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrgorac",
+    "region": "Split-Dalmatia County",
+    "lat": 43.2058,
+    "lon": 17.3711,
+    "population": 15211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šibenik",
+    "region": "Šibenik-Knin County",
+    "lat": 43.7272,
+    "lon": 15.9058,
+    "population": 15148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klenovnik",
+    "region": "Karlovac County",
+    "lat": 46.2703,
+    "lon": 16.07,
+    "population": 15127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Funtana",
+    "region": "Istria County",
+    "lat": 45.1747,
+    "lon": 13.605,
+    "population": 15084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Filip i Jakov",
+    "region": "Zadar County",
+    "lat": 43.9647,
+    "lon": 15.43,
+    "population": 15035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gospić",
+    "region": "Lika-Senj County",
+    "lat": 44.5461,
+    "lon": 15.3747,
+    "population": 15034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerić",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.3114,
+    "lon": 18.8561,
+    "population": 14831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Našice",
+    "region": "Osijek-Baranja County",
+    "lat": 45.5,
+    "lon": 18.1,
+    "population": 14826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Garešnica",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.5667,
+    "lon": 16.9333,
+    "population": 14819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Drniš",
+    "region": "Šibenik-Knin County",
+    "lat": 43.8333,
+    "lon": 16.1667,
+    "population": 14735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunja",
+    "region": "Vukovar-Syrmia County",
+    "lat": 44.88,
+    "lon": 18.8533,
+    "population": 14722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donje Ladanje",
+    "region": "Karlovac County",
+    "lat": 46.3,
+    "lon": 16.1667,
+    "population": 14700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveta Nedelja",
+    "region": "Istria County",
+    "lat": 45.1493,
+    "lon": 14.0989,
+    "population": 14490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Škabrnja",
+    "region": "Zadar County",
+    "lat": 44.0895,
+    "lon": 15.4515,
+    "population": 14470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vela Luka",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.9633,
+    "lon": 16.7225,
+    "population": 14459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dicmo",
+    "region": "Split-Dalmatia County",
+    "lat": 43.6368,
+    "lon": 16.5898,
+    "population": 14440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vranjic",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5333,
+    "lon": 16.4667,
+    "population": 14340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trilj",
+    "region": "Split-Dalmatia County",
+    "lat": 43.6183,
+    "lon": 16.7242,
+    "population": 14331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dežanovac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.5706,
+    "lon": 17.0867,
+    "population": 14312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buje",
+    "region": "Istria County",
+    "lat": 45.41,
+    "lon": 13.6619,
+    "population": 14292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugljan",
+    "region": "Zadar County",
+    "lat": 44.1308,
+    "lon": 15.1031,
+    "population": 14248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rubeši",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3669,
+    "lon": 14.3481,
+    "population": 14180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Županja",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.0775,
+    "lon": 18.6975,
+    "population": 14150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vir",
+    "region": "Zadar County",
+    "lat": 44.3,
+    "lon": 15.0866,
+    "population": 14054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šandrovac",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.9056,
+    "lon": 17.0211,
+    "population": 13711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babina Greda",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.1172,
+    "lon": 18.5369,
+    "population": 13696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nin",
+    "region": "Zadar County",
+    "lat": 44.2414,
+    "lon": 15.1783,
+    "population": 13643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tužno",
+    "region": "Karlovac County",
+    "lat": 46.2567,
+    "lon": 16.235,
+    "population": 13634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čavle",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3519,
+    "lon": 14.4839,
+    "population": 13484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mihovljan",
+    "region": "Međimurje County",
+    "lat": 46.4086,
+    "lon": 16.4481,
+    "population": 13452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zmijavci",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4108,
+    "lon": 17.2056,
+    "population": 13396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanfanar",
+    "region": "Istria County",
+    "lat": 45.1219,
+    "lon": 13.8392,
+    "population": 13381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imotski",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4467,
+    "lon": 17.2167,
+    "population": 13319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Labin",
+    "region": "Istria County",
+    "lat": 45.0833,
+    "lon": 14.1333,
+    "population": 13234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Jastrebarsko",
+    "region": "Zagreb County",
+    "lat": 45.6667,
+    "lon": 15.6667,
+    "population": 13229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gračec",
+    "region": "Zagreb County",
+    "lat": 45.8333,
+    "lon": 16.3167,
+    "population": 13205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabac",
+    "region": "Istria County",
+    "lat": 45.0794,
+    "lon": 14.1575,
+    "population": 13188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bistra",
+    "region": "Zagreb County",
+    "lat": 45.9066,
+    "lon": 15.8509,
+    "population": 13175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tovarnik",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.165,
+    "lon": 19.1519,
+    "population": 13122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirovac",
+    "region": "Šibenik-Knin County",
+    "lat": 43.8192,
+    "lon": 15.6728,
+    "population": 13086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budrovci",
+    "region": "Osijek-Baranja County",
+    "lat": 45.2711,
+    "lon": 18.4486,
+    "population": 13060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tar-Vabriga-Torre Abrega",
+    "region": "Istria County",
+    "lat": 45.2995,
+    "lon": 13.6249,
+    "population": 12973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brodarica",
+    "region": "Šibenik-Knin County",
+    "lat": 43.68,
+    "lon": 15.9197,
+    "population": 12895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brezovica",
+    "region": "Zagreb",
+    "lat": 45.7292,
+    "lon": 15.9107,
+    "population": 12782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negoslavci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2794,
+    "lon": 18.9967,
+    "population": 12719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dugi Rat Općina",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4492,
+    "lon": 16.6474,
+    "population": 12695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakitje",
+    "region": "Zagreb County",
+    "lat": 45.7939,
+    "lon": 15.8222,
+    "population": 12649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novigrad Općina",
+    "region": "Zadar County",
+    "lat": 44.1942,
+    "lon": 15.5567,
+    "population": 12637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grabovci",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4928,
+    "lon": 17.2011,
+    "population": 12421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirkovci",
+    "region": "Vukovar-Syrmia County",
+    "lat": 45.2697,
+    "lon": 18.8511,
+    "population": 12384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sali",
+    "region": "Zadar County",
+    "lat": 43.9397,
+    "lon": 15.1633,
+    "population": 12371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Imotski",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4333,
+    "lon": 17.1667,
+    "population": 12342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Proložac",
+    "region": "Split-Dalmatia County",
+    "lat": 43.4669,
+    "lon": 17.1551,
+    "population": 12332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konavle",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.5401,
+    "lon": 18.3394,
+    "population": 12292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Grubišno Polje",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.7,
+    "lon": 17.1667,
+    "population": 12223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrbovsko",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3686,
+    "lon": 15.0783,
+    "population": 12116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Čazma",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.75,
+    "lon": 16.6167,
+    "population": 11947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Novska",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3333,
+    "lon": 17,
+    "population": 11894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lički Osik",
+    "region": "Lika-Senj County",
+    "lat": 44.6039,
+    "lon": 15.4247,
+    "population": 11765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soljani",
+    "region": "Vukovar-Syrmia County",
+    "lat": 44.9503,
+    "lon": 18.9703,
+    "population": 11699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Zagreb",
+    "region": "Zagreb",
+    "lat": 45.7833,
+    "lon": 15.9833,
+    "population": 11666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konjščina",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0543,
+    "lon": 16.1776,
+    "population": 11404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ston",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.8386,
+    "lon": 17.6964,
+    "population": 11388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Zabok",
+    "region": "Krapina-Zagorje County",
+    "lat": 46.0281,
+    "lon": 15.9085,
+    "population": 11313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drniš",
+    "region": "Šibenik-Knin County",
+    "lat": 43.8625,
+    "lon": 16.1556,
+    "population": 11236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastav",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3753,
+    "lon": 14.3486,
+    "population": 11174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fažana-Fasana",
+    "region": "Istria County",
+    "lat": 44.9282,
+    "lon": 13.8055,
+    "population": 11145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Split",
+    "region": "Split-Dalmatia County",
+    "lat": 43.5,
+    "lon": 16.5,
+    "population": 11142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Općina Gvozd",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.3333,
+    "lon": 15.9,
+    "population": 11077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikleuš",
+    "region": "Virovitica-Podravina County",
+    "lat": 45.6186,
+    "lon": 17.8039,
+    "population": 11012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lekenik",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.5856,
+    "lon": 16.2114,
+    "population": 10978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stubičke Toplice",
+    "region": "Krapina-Zagorje County",
+    "lat": 45.9759,
+    "lon": 15.9324,
+    "population": 10971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Ostrna",
+    "region": "Zagreb County",
+    "lat": 45.7875,
+    "lon": 16.2814,
+    "population": 10933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad Daruvar",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.6,
+    "lon": 17.2333,
+    "population": 10922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poreč-Parenzo",
+    "region": "Istria County",
+    "lat": 45.2272,
+    "lon": 13.5965,
+    "population": 10891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Vinodolski",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.1281,
+    "lon": 14.7889,
+    "population": 10886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kućan Marof",
+    "region": "Karlovac County",
+    "lat": 46.2894,
+    "lon": 16.3722,
+    "population": 10796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakrac",
+    "region": "Požega-Slavonia County",
+    "lat": 45.4364,
+    "lon": 17.1889,
+    "population": 10755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čibača",
+    "region": "Dubrovnik-Neretva County",
+    "lat": 42.6289,
+    "lon": 18.1711,
+    "population": 10589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tribunj",
+    "region": "Šibenik-Knin County",
+    "lat": 43.7555,
+    "lon": 15.7444,
+    "population": 10542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pula-Pola",
+    "region": "Istria County",
+    "lat": 44.8671,
+    "lon": 13.8488,
+    "population": 10523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovran",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.2919,
+    "lon": 14.2742,
+    "population": 10502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kutina",
+    "region": "Sisak-Moslavina County",
+    "lat": 45.475,
+    "lon": 16.7819,
+    "population": 10402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čazma",
+    "region": "Bjelovar-Bilogora County",
+    "lat": 45.7482,
+    "lon": 16.6139,
+    "population": 10351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grožnjan",
+    "region": "Istria County",
+    "lat": 45.3789,
+    "lon": 13.7239,
+    "population": 10291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brinje",
+    "region": "Lika-Senj County",
+    "lat": 45.0025,
+    "lon": 15.1339,
+    "population": 10272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Višnjan-Visignano",
+    "region": "Istria County",
+    "lat": 45.2761,
+    "lon": 13.7213,
+    "population": 10260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dražice",
+    "region": "Primorje-Gorski Kotar County",
+    "lat": 45.3908,
+    "lon": 14.4703,
+    "population": 10194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vidovci",
+    "region": "Požega-Slavonia County",
+    "lat": 45.3325,
+    "lon": 17.7147,
+    "population": 10157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerestinec",
+    "region": "Zagreb County",
+    "lat": 45.7701,
+    "lon": 15.8086,
+    "population": 10064,
+    "timezone": "UTC"
+  }
+]

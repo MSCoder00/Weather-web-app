@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Singapore",
+    "region": "Central Singapore Community Development Council",
+    "lat": 1.2897,
+    "lon": 103.8501,
+    "population": 34854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodlands",
+    "region": "North West Community Development Council",
+    "lat": 1.438,
+    "lon": 103.7888,
+    "population": 21382,
+    "timezone": "UTC"
+  }
+]

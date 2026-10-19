@@ -1,0 +1,738 @@
+[
+  {
+    "name": "Dori",
+    "region": "Sahel Region",
+    "lat": 14.0354,
+    "lon": -0.0345,
+    "population": 49867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokologo",
+    "region": "Centre-Ouest Region",
+    "lat": 12.1939,
+    "lon": -1.8769,
+    "population": 49375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Yagha",
+    "region": "Sahel Region",
+    "lat": 13.4167,
+    "lon": 0.5833,
+    "population": 49122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pô",
+    "region": "Centre-Sud Region",
+    "lat": 11.1697,
+    "lon": -1.145,
+    "population": 49003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogandé",
+    "region": "Est Region",
+    "lat": 12.9704,
+    "lon": -0.1495,
+    "population": 48451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province des Banwa",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.1667,
+    "lon": -4.1667,
+    "population": 47746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Mouhoun",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.25,
+    "lon": -3.4167,
+    "population": 47388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toma",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.7584,
+    "lon": -2.8988,
+    "population": 46813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Léo",
+    "region": "Centre-Ouest Region",
+    "lat": 11.1003,
+    "lon": -2.1065,
+    "population": 46550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Sourou",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 13.25,
+    "lon": -3,
+    "population": 46183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Ioba",
+    "region": "Sud-Ouest Region",
+    "lat": 11.0833,
+    "lon": -3.0833,
+    "population": 45581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fada N'gourma",
+    "region": "Est Region",
+    "lat": 12.0616,
+    "lon": 0.3584,
+    "population": 45443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Sissili",
+    "region": "Centre-Ouest Region",
+    "lat": 11.3333,
+    "lon": -2.25,
+    "population": 44980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diébougou",
+    "region": "Sud-Ouest Region",
+    "lat": 10.9621,
+    "lon": -3.2497,
+    "population": 44033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zoundweogo Province",
+    "region": "Centre-Sud Region",
+    "lat": 11.5833,
+    "lon": -1,
+    "population": 43745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Bam",
+    "region": "Centre-Nord Region",
+    "lat": 13.4667,
+    "lon": -1.5833,
+    "population": 43155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gnagna Province",
+    "region": "Est Region",
+    "lat": 12.9188,
+    "lon": 0.0392,
+    "population": 42855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sapouy",
+    "region": "Centre-Ouest Region",
+    "lat": 11.5544,
+    "lon": -1.7736,
+    "population": 42338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Komandjoari",
+    "region": "Est Region",
+    "lat": 12.6667,
+    "lon": 0.6667,
+    "population": 41981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Kossi",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.9167,
+    "lon": -3.8333,
+    "population": 41862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boulsa",
+    "region": "Centre-Nord Region",
+    "lat": 12.6666,
+    "lon": -0.5747,
+    "population": 41758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koudougou",
+    "region": "Centre-Ouest Region",
+    "lat": 12.2526,
+    "lon": -2.3627,
+    "population": 41685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitmoaga",
+    "region": "Centre-Ouest Region",
+    "lat": 12.2456,
+    "lon": -1.8815,
+    "population": 41401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bazega Province",
+    "region": "Centre-Sud Region",
+    "lat": 11.9167,
+    "lon": -1.5,
+    "population": 41325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kouritenga Province",
+    "region": "Centre-Est Region",
+    "lat": 12.2,
+    "lon": -0.3,
+    "population": 41295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Comoé",
+    "region": "Cascades Region",
+    "lat": 10.3333,
+    "lon": -4.4167,
+    "population": 40699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Soum",
+    "region": "Sahel Region",
+    "lat": 14.3333,
+    "lon": -1.25,
+    "population": 40141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kombissiri",
+    "region": "Centre-Sud Region",
+    "lat": 12.0688,
+    "lon": -1.3364,
+    "population": 39970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gourcy",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 13.2078,
+    "lon": -2.3589,
+    "population": 38983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Boulkiemdé",
+    "region": "Centre-Ouest Region",
+    "lat": 12.3333,
+    "lon": -2.1667,
+    "population": 38868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de l’Oudalan",
+    "region": "Sahel Region",
+    "lat": 14.6667,
+    "lon": -0.3333,
+    "population": 37763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Kourwéogo",
+    "region": "Plateau-Central Region",
+    "lat": 12.5833,
+    "lon": -1.7667,
+    "population": 36941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goulouré",
+    "region": "Centre-Ouest Region",
+    "lat": 12.2348,
+    "lon": -1.9339,
+    "population": 36533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manga",
+    "region": "Centre-Sud Region",
+    "lat": 11.6636,
+    "lon": -1.0731,
+    "population": 36319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banfora",
+    "region": "Cascades Region",
+    "lat": 10.6333,
+    "lon": -4.7667,
+    "population": 36217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salanso",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.1742,
+    "lon": -4.0848,
+    "population": 36123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djibo",
+    "region": "Sahel Region",
+    "lat": 14.0994,
+    "lon": -1.6255,
+    "population": 36041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batié",
+    "region": "Sud-Ouest Region",
+    "lat": 9.8833,
+    "lon": -2.9167,
+    "population": 35153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pama",
+    "region": "Est Region",
+    "lat": 11.2497,
+    "lon": 0.7075,
+    "population": 33175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gayéri",
+    "region": "Est Region",
+    "lat": 12.6482,
+    "lon": 0.4931,
+    "population": 32316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boromo",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 11.7454,
+    "lon": -2.9301,
+    "population": 32186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Houet",
+    "region": "Hauts-Bassins Region",
+    "lat": 11.3333,
+    "lon": -4.25,
+    "population": 32067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Yatenga",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 13.5833,
+    "lon": -2.4167,
+    "population": 31707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zorgo",
+    "region": "Plateau-Central Region",
+    "lat": 12.2492,
+    "lon": -0.6153,
+    "population": 31415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Titao",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 13.7667,
+    "lon": -2.0667,
+    "population": 31365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Kompienga",
+    "region": "Est Region",
+    "lat": 11.4167,
+    "lon": 0.9167,
+    "population": 29769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Boulgou",
+    "region": "Centre-Est Region",
+    "lat": 11.5,
+    "lon": -0.4167,
+    "population": 28834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Séno",
+    "region": "Sahel Region",
+    "lat": 13.964,
+    "lon": 0.012,
+    "population": 28470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Noumbièl",
+    "region": "Sud-Ouest Region",
+    "lat": 9.8333,
+    "lon": -3,
+    "population": 28433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Nayala",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.6667,
+    "lon": -3,
+    "population": 27824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sindou",
+    "region": "Cascades Region",
+    "lat": 10.6667,
+    "lon": -5.1667,
+    "population": 27819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Tapoa",
+    "region": "Est Region",
+    "lat": 12,
+    "lon": 1.75,
+    "population": 27567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouahigouya",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 13.5828,
+    "lon": -2.4216,
+    "population": 27348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Namentenga",
+    "region": "Centre-Nord Region",
+    "lat": 13.25,
+    "lon": -0.5,
+    "population": 27025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oubritenga",
+    "region": "Plateau-Central Region",
+    "lat": 12.6667,
+    "lon": -1.3333,
+    "population": 26652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenkodogo",
+    "region": "Centre-Est Region",
+    "lat": 11.78,
+    "lon": -0.3697,
+    "population": 26175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ziniaré",
+    "region": "Plateau-Central Region",
+    "lat": 12.5819,
+    "lon": -1.2971,
+    "population": 26089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Ziro",
+    "region": "Centre-Ouest Region",
+    "lat": 11.5833,
+    "lon": -1.9167,
+    "population": 25699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dano",
+    "region": "Sud-Ouest Region",
+    "lat": 11.1464,
+    "lon": -3.0578,
+    "population": 24852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diapaga",
+    "region": "Est Region",
+    "lat": 12.0731,
+    "lon": 1.7884,
+    "population": 23347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houndé",
+    "region": "Hauts-Bassins Region",
+    "lat": 11.5,
+    "lon": -3.5167,
+    "population": 23192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dédougou",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.4634,
+    "lon": -3.4607,
+    "population": 23014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garango",
+    "region": "Centre-Est Region",
+    "lat": 11.8,
+    "lon": -0.5506,
+    "population": 22523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koupéla",
+    "region": "Centre-Est Region",
+    "lat": 12.1786,
+    "lon": -0.351,
+    "population": 21133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Kénédougou",
+    "region": "Hauts-Bassins Region",
+    "lat": 11.4167,
+    "lon": -5,
+    "population": 20671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Gourma",
+    "region": "Est Region",
+    "lat": 12.0833,
+    "lon": 0.5,
+    "population": 20611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Tuy",
+    "region": "Hauts-Bassins Region",
+    "lat": 11.4167,
+    "lon": -3.4167,
+    "population": 20103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Passoré",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 12.9167,
+    "lon": -2.1667,
+    "population": 19886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Poni",
+    "region": "Sud-Ouest Region",
+    "lat": 10.25,
+    "lon": -3.4167,
+    "population": 19360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barani",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 13.1691,
+    "lon": -3.8899,
+    "population": 17505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouagadougou",
+    "region": "Centre",
+    "lat": 12.3657,
+    "lon": -1.5339,
+    "population": 17388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaya",
+    "region": "Centre-Nord Region",
+    "lat": 13.0917,
+    "lon": -1.0844,
+    "population": 17304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province des Balé",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 11.7167,
+    "lon": -3.05,
+    "population": 17221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yako",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 12.9591,
+    "lon": -2.2607,
+    "population": 16888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boussé",
+    "region": "Plateau-Central Region",
+    "lat": 12.6612,
+    "lon": -1.8951,
+    "population": 15635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Koulpélogo",
+    "region": "Centre-Est Region",
+    "lat": 11.4167,
+    "lon": 0.1667,
+    "population": 15057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tougan",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 13.0725,
+    "lon": -3.0694,
+    "population": 14459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Réo",
+    "region": "Centre-Ouest Region",
+    "lat": 12.3196,
+    "lon": -2.4709,
+    "population": 14368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadiogo Province",
+    "region": "Centre",
+    "lat": 12.3333,
+    "lon": -1.5,
+    "population": 13927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Loroum",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 13.9167,
+    "lon": -2.1667,
+    "population": 12703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nahouri Province",
+    "region": "Centre-Sud Region",
+    "lat": 11.25,
+    "lon": -1.25,
+    "population": 12695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bobo-Dioulasso",
+    "region": "Hauts-Bassins Region",
+    "lat": 11.1771,
+    "lon": -4.2979,
+    "population": 12598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorom-Gorom",
+    "region": "Sahel Region",
+    "lat": 14.4429,
+    "lon": -0.2347,
+    "population": 12025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Léraba",
+    "region": "Cascades Region",
+    "lat": 10.6667,
+    "lon": -5.2,
+    "population": 11962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kongoussi",
+    "region": "Centre-Nord Region",
+    "lat": 13.3258,
+    "lon": -1.5347,
+    "population": 11818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Sanguié",
+    "region": "Centre-Ouest Region",
+    "lat": 12.1667,
+    "lon": -2.6667,
+    "population": 11662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Zondoma",
+    "region": "Nord Region, Burkina Faso",
+    "lat": 13.1833,
+    "lon": -2.3667,
+    "population": 11602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Ganzourgou",
+    "region": "Plateau-Central Region",
+    "lat": 12.2667,
+    "lon": -0.7667,
+    "population": 11044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouargaye",
+    "region": "Centre-Est Region",
+    "lat": 11.502,
+    "lon": 0.0589,
+    "population": 10922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de la Bougouriba",
+    "region": "Sud-Ouest Region",
+    "lat": 10.8333,
+    "lon": -3.4167,
+    "population": 10755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Sanmatenga",
+    "region": "Centre-Nord Region",
+    "lat": 13.25,
+    "lon": -1.0833,
+    "population": 10095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nouna",
+    "region": "Boucle du Mouhoun Region",
+    "lat": 12.7294,
+    "lon": -3.863,
+    "population": 10022,
+    "timezone": "UTC"
+  }
+]

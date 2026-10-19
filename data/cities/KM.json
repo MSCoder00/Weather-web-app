@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Bandajou",
+    "region": "Anjouan",
+    "lat": -12.1917,
+    "lon": 44.2869,
+    "population": 49561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koki",
+    "region": "Anjouan",
+    "lat": -12.1714,
+    "lon": 44.4417,
+    "population": 49538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hantsindzi",
+    "region": "Grande Comore",
+    "lat": -11.4318,
+    "lon": 43.411,
+    "population": 49521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douniani",
+    "region": "Grande Comore",
+    "lat": -11.4211,
+    "lon": 43.2889,
+    "population": 48588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsidjé",
+    "region": "Grande Comore",
+    "lat": -11.6981,
+    "lon": 43.2619,
+    "population": 48235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chouani",
+    "region": "Grande Comore",
+    "lat": -11.8233,
+    "lon": 43.2943,
+    "population": 48087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adda-Douéni",
+    "region": "Anjouan",
+    "lat": -12.2925,
+    "lon": 44.4972,
+    "population": 47826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limbi",
+    "region": "Anjouan",
+    "lat": -12.2394,
+    "lon": 44.5053,
+    "population": 46278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domoni",
+    "region": "Anjouan",
+    "lat": -12.2569,
+    "lon": 44.5319,
+    "population": 45231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mvouni",
+    "region": "Grande Comore",
+    "lat": -11.7161,
+    "lon": 43.2647,
+    "population": 45060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chindini",
+    "region": "Grande Comore",
+    "lat": -11.9233,
+    "lon": 43.4911,
+    "population": 44717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nioumachoua",
+    "region": "Mohéli",
+    "lat": -12.3614,
+    "lon": 43.7153,
+    "population": 44327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangani",
+    "region": "Anjouan",
+    "lat": -12.321,
+    "lon": 44.4727,
+    "population": 42979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mramani",
+    "region": "Anjouan",
+    "lat": -12.3464,
+    "lon": 44.5286,
+    "population": 42978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harembo",
+    "region": "Anjouan",
+    "lat": -12.1511,
+    "lon": 44.4983,
+    "population": 42092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moya",
+    "region": "Anjouan",
+    "lat": -12.3097,
+    "lon": 44.4368,
+    "population": 41576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ntsoudjini",
+    "region": "Grande Comore",
+    "lat": -11.6597,
+    "lon": 43.2614,
+    "population": 40742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boungouéni",
+    "region": "Anjouan",
+    "lat": -12.2056,
+    "lon": 44.2994,
+    "population": 40671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moutsamoudou",
+    "region": "Anjouan",
+    "lat": -12.1667,
+    "lon": 44.3994,
+    "population": 40543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bimbini",
+    "region": "Anjouan",
+    "lat": -12.1883,
+    "lon": 44.2356,
+    "population": 40411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Héroumbili",
+    "region": "Grande Comore",
+    "lat": -11.5439,
+    "lon": 43.3797,
+    "population": 40285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajé",
+    "region": "Anjouan",
+    "lat": -12.1697,
+    "lon": 44.3881,
+    "population": 39836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barakani",
+    "region": "Anjouan",
+    "lat": -12.1386,
+    "lon": 44.4303,
+    "population": 39331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chironkamba",
+    "region": "Anjouan",
+    "lat": -12.1911,
+    "lon": 44.3525,
+    "population": 39311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtsamdou",
+    "region": "Grande Comore",
+    "lat": -11.6069,
+    "lon": 43.3806,
+    "population": 38939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salimani",
+    "region": "Grande Comore",
+    "lat": -11.8115,
+    "lon": 43.2682,
+    "population": 37812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ziroudani",
+    "region": "Mohéli",
+    "lat": -12.3325,
+    "lon": 43.7775,
+    "population": 37398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mjimandra",
+    "region": "Anjouan",
+    "lat": -12.1917,
+    "lon": 44.3703,
+    "population": 37169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirontsi",
+    "region": "Anjouan",
+    "lat": -12.1567,
+    "lon": 44.4081,
+    "population": 37101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyo",
+    "region": "Anjouan",
+    "lat": -12.3322,
+    "lon": 44.5192,
+    "population": 36773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbéni",
+    "region": "Grande Comore",
+    "lat": -11.5014,
+    "lon": 43.3775,
+    "population": 35930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oussivo",
+    "region": "Grande Comore",
+    "lat": -11.585,
+    "lon": 43.2672,
+    "population": 35773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouhozi",
+    "region": "Grande Comore",
+    "lat": -11.405,
+    "lon": 43.2822,
+    "population": 33680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanambouani",
+    "region": "Grande Comore",
+    "lat": -11.6114,
+    "lon": 43.2531,
+    "population": 33339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itsandra",
+    "region": "Grande Comore",
+    "lat": -11.6711,
+    "lon": 43.2547,
+    "population": 32275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maraharé",
+    "region": "Anjouan",
+    "lat": -12.2308,
+    "lon": 44.3133,
+    "population": 32127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtakoudja",
+    "region": "Mohéli",
+    "lat": -12.2611,
+    "lon": 43.7036,
+    "population": 32064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsimbeo",
+    "region": "Anjouan",
+    "lat": -12.2058,
+    "lon": 44.4647,
+    "population": 31536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoani",
+    "region": "Mohéli",
+    "lat": -12.2508,
+    "lon": 43.6747,
+    "population": 30277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moroni",
+    "region": "Grande Comore",
+    "lat": -11.7022,
+    "lon": 43.2551,
+    "population": 29803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koni-Ngani",
+    "region": "Anjouan",
+    "lat": -12.2158,
+    "lon": 44.48,
+    "population": 29494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandza",
+    "region": "Grande Comore",
+    "lat": -11.4181,
+    "lon": 43.2953,
+    "population": 29017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lingoni",
+    "region": "Anjouan",
+    "lat": -12.2558,
+    "lon": 44.4183,
+    "population": 28555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivouani",
+    "region": "Grande Comore",
+    "lat": -11.3916,
+    "lon": 43.3945,
+    "population": 28472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouzini",
+    "region": "Anjouan",
+    "lat": -12.2672,
+    "lon": 44.4797,
+    "population": 28422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patsi",
+    "region": "Anjouan",
+    "lat": -12.1556,
+    "lon": 44.4372,
+    "population": 28271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itsandzéni",
+    "region": "Grande Comore",
+    "lat": -11.4728,
+    "lon": 43.3844,
+    "population": 28234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanadjou",
+    "region": "Grande Comore",
+    "lat": -11.6075,
+    "lon": 43.2761,
+    "population": 28079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fomboni",
+    "region": "Mohéli",
+    "lat": -12.2876,
+    "lon": 43.7434,
+    "population": 26922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djoyézi",
+    "region": "Mohéli",
+    "lat": -12.3059,
+    "lon": 43.7743,
+    "population": 26570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouani",
+    "region": "Anjouan",
+    "lat": -12.1355,
+    "lon": 44.4249,
+    "population": 25327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ntsaouéni",
+    "region": "Grande Comore",
+    "lat": -11.4658,
+    "lon": 43.2628,
+    "population": 25191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mavingouni",
+    "region": "Grande Comore",
+    "lat": -11.7164,
+    "lon": 43.2525,
+    "population": 25006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magnassini-Nindri",
+    "region": "Anjouan",
+    "lat": -12.2781,
+    "lon": 44.4158,
+    "population": 24952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrémani",
+    "region": "Anjouan",
+    "lat": -12.3083,
+    "lon": 44.4986,
+    "population": 24298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assimpao",
+    "region": "Anjouan",
+    "lat": -12.2331,
+    "lon": 44.3197,
+    "population": 23293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouanani",
+    "region": "Mohéli",
+    "lat": -12.3375,
+    "lon": 43.7975,
+    "population": 23002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajoho",
+    "region": "Anjouan",
+    "lat": -12.1243,
+    "lon": 44.4888,
+    "population": 22938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mnoungou",
+    "region": "Grande Comore",
+    "lat": -11.5178,
+    "lon": 43.3739,
+    "population": 22396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Séléa",
+    "region": "Grande Comore",
+    "lat": -11.7844,
+    "lon": 43.2608,
+    "population": 22210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouellah",
+    "region": "Grande Comore",
+    "lat": -11.3903,
+    "lon": 43.3319,
+    "population": 22141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzahadjou",
+    "region": "Grande Comore",
+    "lat": -11.8529,
+    "lon": 43.3499,
+    "population": 21850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavani",
+    "region": "Anjouan",
+    "lat": -12.1919,
+    "lon": 44.2694,
+    "population": 20803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madjeouéni",
+    "region": "Grande Comore",
+    "lat": -11.8217,
+    "lon": 43.2781,
+    "population": 20706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koua",
+    "region": "Grande Comore",
+    "lat": -11.4208,
+    "lon": 43.2764,
+    "population": 20039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nioumamilima",
+    "region": "Grande Comore",
+    "lat": -11.8546,
+    "lon": 43.4461,
+    "population": 19799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitrouni",
+    "region": "Anjouan",
+    "lat": -12.1858,
+    "lon": 44.3356,
+    "population": 19500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ongoni",
+    "region": "Anjouan",
+    "lat": -12.1703,
+    "lon": 44.5069,
+    "population": 19469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dziani",
+    "region": "Anjouan",
+    "lat": -12.1833,
+    "lon": 44.4833,
+    "population": 18840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitsamiouli",
+    "region": "Grande Comore",
+    "lat": -11.3847,
+    "lon": 43.2844,
+    "population": 18148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohoro",
+    "region": "Grande Comore",
+    "lat": -11.827,
+    "lon": 43.4544,
+    "population": 17207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foumbouni",
+    "region": "Grande Comore",
+    "lat": -11.8654,
+    "lon": 43.4953,
+    "population": 16601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sima",
+    "region": "Anjouan",
+    "lat": -12.1956,
+    "lon": 44.2767,
+    "population": 16015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vouani",
+    "region": "Anjouan",
+    "lat": -12.2442,
+    "lon": 44.3744,
+    "population": 15817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chandra",
+    "region": "Anjouan",
+    "lat": -12.195,
+    "lon": 44.4647,
+    "population": 15626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouni",
+    "region": "Grande Comore",
+    "lat": -11.4869,
+    "lon": 43.3883,
+    "population": 15155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dembéni",
+    "region": "Grande Comore",
+    "lat": -11.8736,
+    "lon": 43.3978,
+    "population": 14207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ourovéni",
+    "region": "Grande Comore",
+    "lat": -11.9138,
+    "lon": 43.498,
+    "population": 14048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitsoudjé",
+    "region": "Grande Comore",
+    "lat": -11.8121,
+    "lon": 43.2804,
+    "population": 13808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambadjani",
+    "region": "Grande Comore",
+    "lat": -11.4786,
+    "lon": 43.3772,
+    "population": 13696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antsahé",
+    "region": "Anjouan",
+    "lat": -12.3564,
+    "lon": 44.5225,
+    "population": 13435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daji",
+    "region": "Anjouan",
+    "lat": -12.3258,
+    "lon": 44.4886,
+    "population": 12825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambao",
+    "region": "Anjouan",
+    "lat": -12.2033,
+    "lon": 44.5164,
+    "population": 12382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahani",
+    "region": "Grande Comore",
+    "lat": -11.6397,
+    "lon": 43.2842,
+    "population": 12298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koni-Djodjo",
+    "region": "Anjouan",
+    "lat": -12.2297,
+    "lon": 44.4817,
+    "population": 11812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chezani",
+    "region": "Grande Comore",
+    "lat": -11.4314,
+    "lon": 43.3963,
+    "population": 11807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mjamaoué",
+    "region": "Anjouan",
+    "lat": -12.1936,
+    "lon": 44.31,
+    "population": 11673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Singani",
+    "region": "Grande Comore",
+    "lat": -11.8478,
+    "lon": 43.3173,
+    "population": 10234,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "Quiindy",
+    "region": "Paraguarí Department",
+    "lat": -25.9761,
+    "lon": -57.2335,
+    "population": 49793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Nepomuceno",
+    "region": "Caazapá",
+    "lat": -26.1123,
+    "lon": -55.9386,
+    "population": 49532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraguarí",
+    "region": "Paraguarí Department",
+    "lat": -25.6208,
+    "lon": -57.1472,
+    "population": 49284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Natalio",
+    "region": "Itapúa",
+    "lat": -26.757,
+    "lon": -55.1378,
+    "population": 49248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capitán Pablo Lagerenza",
+    "region": "Alto Paraguay Department",
+    "lat": -19.9167,
+    "lon": -60.7833,
+    "population": 49087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Nueva Germania",
+    "region": "San Pedro Department",
+    "lat": -23.9114,
+    "lon": -56.7009,
+    "population": 48721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Florida",
+    "region": "Misiones Department",
+    "lat": -26.3833,
+    "lon": -57.15,
+    "population": 48579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capitán Bado",
+    "region": "Amambay Department",
+    "lat": -23.2667,
+    "lon": -55.5333,
+    "population": 48119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yguazú",
+    "region": "Alto Paraná Department",
+    "lat": -25.4619,
+    "lon": -55.0001,
+    "population": 47552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Menno",
+    "region": "Boquerón Department",
+    "lat": -22.3667,
+    "lon": -59.8167,
+    "population": 47422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carapeguá",
+    "region": "Paraguarí Department",
+    "lat": -25.8,
+    "lon": -57.2333,
+    "population": 47142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naranjal",
+    "region": "Alto Paraná Department",
+    "lat": -25.9667,
+    "lon": -55.1833,
+    "population": 47041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Caaguazú",
+    "lat": -25.5333,
+    "lon": -56.7333,
+    "population": 46718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caazapá",
+    "region": "Caazapá",
+    "lat": -26.1958,
+    "lon": -56.3681,
+    "population": 46446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antequera",
+    "region": "San Pedro Department",
+    "lat": -24.0853,
+    "lon": -57.2022,
+    "population": 46375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horqueta",
+    "region": "Concepción Department",
+    "lat": -23.3428,
+    "lon": -57.0597,
+    "population": 46232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tobatí",
+    "region": "Cordillera Department",
+    "lat": -25.2611,
+    "lon": -57.0833,
+    "population": 46176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carayaó",
+    "region": "Caaguazú",
+    "lat": -25.1975,
+    "lon": -56.3988,
+    "population": 45936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eusebio Ayala",
+    "region": "Cordillera Department",
+    "lat": -25.3828,
+    "lon": -56.9609,
+    "population": 45835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Presidente Franco",
+    "region": "Alto Paraná Department",
+    "lat": -25.5638,
+    "lon": -54.611,
+    "population": 45826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Bautista",
+    "region": "Misiones Department",
+    "lat": -26.6694,
+    "lon": -57.1458,
+    "population": 45562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbuyapey",
+    "region": "Paraguarí Department",
+    "lat": -26.2192,
+    "lon": -56.7578,
+    "population": 45397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Alto Paraná Department",
+    "lat": -25.7833,
+    "lon": -55.0667,
+    "population": 45179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Italia",
+    "region": "Central Department",
+    "lat": -25.6108,
+    "lon": -57.4656,
+    "population": 45029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayaybi",
+    "region": "San Pedro Department",
+    "lat": -24.5333,
+    "lon": -56.4333,
+    "population": 44889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ypacarai",
+    "region": "Central Department",
+    "lat": -25.4078,
+    "lon": -57.2889,
+    "population": 44685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyos y Esteros",
+    "region": "Cordillera Department",
+    "lat": -25.0548,
+    "lon": -57.0987,
+    "population": 44562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Natalicio Talavera",
+    "region": "Guairá Department",
+    "lat": -25.6333,
+    "lon": -56.3,
+    "population": 44561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbutuý",
+    "region": "Caaguazú",
+    "lat": -24.9752,
+    "lon": -56.3093,
+    "population": 44399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yegros",
+    "region": "Caazapá",
+    "lat": -26.45,
+    "lon": -56.4,
+    "population": 44302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan de Ayolas",
+    "region": "Misiones Department",
+    "lat": -27.3866,
+    "lon": -56.8472,
+    "population": 43897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unión",
+    "region": "San Pedro Department",
+    "lat": -24.8079,
+    "lon": -56.5215,
+    "population": 43654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benjamín Aceval",
+    "region": "Presidente Hayes Department",
+    "lat": -24.9667,
+    "lon": -57.5667,
+    "population": 43584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Areguá",
+    "region": "Central Department",
+    "lat": -25.3125,
+    "lon": -57.3847,
+    "population": 43242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Independencia",
+    "region": "Guairá Department",
+    "lat": -25.691,
+    "lon": -56.2678,
+    "population": 42990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abaí",
+    "region": "Caazapá",
+    "lat": -26.0333,
+    "lon": -55.9333,
+    "population": 42509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Artigas",
+    "region": "Itapúa",
+    "lat": -26.9352,
+    "lon": -56.2217,
+    "population": 42022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanawua",
+    "region": "Presidente Hayes Department",
+    "lat": -25.2793,
+    "lon": -57.7031,
+    "population": 41479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Higinio Morínigo",
+    "region": "Caazapá",
+    "lat": -25.95,
+    "lon": -55.9167,
+    "population": 41457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itacurubí del Rosario",
+    "region": "San Pedro Department",
+    "lat": -24.5354,
+    "lon": -56.8235,
+    "population": 41395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan del Paraná",
+    "region": "Itapúa",
+    "lat": -27.3017,
+    "lon": -55.9651,
+    "population": 40692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salto del Guairá",
+    "region": "Canindeyú",
+    "lat": -24.0625,
+    "lon": -54.3069,
+    "population": 40018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cosme y Damián",
+    "region": "Itapúa",
+    "lat": -27.3174,
+    "lon": -56.3309,
+    "population": 39383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caaguazú",
+    "region": "Caaguazú",
+    "lat": -25.471,
+    "lon": -56.016,
+    "population": 39365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuty",
+    "region": "Caazapá",
+    "lat": -26.6147,
+    "lon": -56.2461,
+    "population": 39066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Minga Porá",
+    "region": "Alto Paraná Department",
+    "lat": -24.8667,
+    "lon": -54.9,
+    "population": 38668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obligado",
+    "region": "Itapúa",
+    "lat": -27.0333,
+    "lon": -55.6333,
+    "population": 37838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago",
+    "region": "Misiones Department",
+    "lat": -27.1431,
+    "lon": -56.768,
+    "population": 37753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doctor Juan Manuel Frutos",
+    "region": "Caaguazú",
+    "lat": -25.3838,
+    "lon": -55.8321,
+    "population": 37346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Esperanza",
+    "region": "Canindeyú",
+    "lat": -24.5076,
+    "lon": -54.8551,
+    "population": 36907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesús",
+    "region": "Itapúa",
+    "lat": -27.056,
+    "lon": -55.7413,
+    "population": 36297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cedrales",
+    "region": "Alto Paraná Department",
+    "lat": -25.6567,
+    "lon": -54.7227,
+    "population": 36258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bella Vista",
+    "region": "Amambay Department",
+    "lat": -22.1333,
+    "lon": -56.5167,
+    "population": 36165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corpus Christi",
+    "region": "Canindeyú",
+    "lat": -24.0804,
+    "lon": -54.9393,
+    "population": 35929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sapucaí",
+    "region": "Paraguarí Department",
+    "lat": -25.6665,
+    "lon": -56.9522,
+    "population": 35842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itapé",
+    "region": "Guairá Department",
+    "lat": -25.8517,
+    "lon": -56.6138,
+    "population": 35672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edelira",
+    "region": "Itapúa",
+    "lat": -26.7673,
+    "lon": -55.2787,
+    "population": 35535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariano Roque Alonso",
+    "region": "Central Department",
+    "lat": -25.2079,
+    "lon": -57.532,
+    "population": 35258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronel Martínez",
+    "region": "Guairá Department",
+    "lat": -25.7586,
+    "lon": -56.6168,
+    "population": 34926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronel Oviedo",
+    "region": "Caaguazú",
+    "lat": -25.4444,
+    "lon": -56.4403,
+    "population": 34913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paloma",
+    "region": "Canindeyú",
+    "lat": -24.1296,
+    "lon": -54.6138,
+    "population": 33801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Delgado",
+    "region": "Itapúa",
+    "lat": -27.0905,
+    "lon": -56.5247,
+    "population": 33278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caacupé",
+    "region": "Cordillera Department",
+    "lat": -25.3858,
+    "lon": -57.1422,
+    "population": 33268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fernando de la Mora",
+    "region": "Central Department",
+    "lat": -25.3386,
+    "lon": -57.5217,
+    "population": 33155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lima",
+    "region": "San Pedro Department",
+    "lat": -23.8833,
+    "lon": -56.4822,
+    "population": 32832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altos",
+    "region": "Cordillera Department",
+    "lat": -25.2626,
+    "lon": -57.2544,
+    "population": 32595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capiatá",
+    "region": "Central Department",
+    "lat": -25.3552,
+    "lon": -57.4455,
+    "population": 32502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Mauricio José Troche",
+    "region": "Guairá Department",
+    "lat": -25.5667,
+    "lon": -56.2833,
+    "population": 32091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ybycuí",
+    "region": "Paraguarí Department",
+    "lat": -26.0167,
+    "lon": -57.05,
+    "population": 31934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filadelfia",
+    "region": "Boquerón Department",
+    "lat": -22.3394,
+    "lon": -60.0316,
+    "population": 31931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarambaré",
+    "region": "Central Department",
+    "lat": -25.491,
+    "lon": -57.4557,
+    "population": 31853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encarnación",
+    "region": "Itapúa",
+    "lat": -27.3306,
+    "lon": -55.8667,
+    "population": 31782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Misiones Department",
+    "lat": -26.5,
+    "lon": -57.05,
+    "population": 31698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yataity del Norte",
+    "region": "San Pedro Department",
+    "lat": -24.8333,
+    "lon": -56.35,
+    "population": 31431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Misiones Department",
+    "lat": -26.7833,
+    "lon": -56.9333,
+    "population": 31231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fram",
+    "region": "Itapúa",
+    "lat": -26.9833,
+    "lon": -55.8833,
+    "population": 31116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaguarón",
+    "region": "Paraguarí Department",
+    "lat": -25.5614,
+    "lon": -57.2834,
+    "population": 30469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Neuland",
+    "region": "Boquerón Department",
+    "lat": -22.6667,
+    "lon": -60.1167,
+    "population": 29916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limpio",
+    "region": "Central Department",
+    "lat": -25.1661,
+    "lon": -57.4856,
+    "population": 29454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acahay",
+    "region": "Paraguarí Department",
+    "lat": -25.9167,
+    "lon": -57.15,
+    "population": 29436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirayú",
+    "region": "Paraguarí Department",
+    "lat": -25.4841,
+    "lon": -57.2349,
+    "population": 29301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doctor Juan León Mallorquín",
+    "region": "Alto Paraná Department",
+    "lat": -25.4305,
+    "lon": -55.2541,
+    "population": 28723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emboscada",
+    "region": "Cordillera Department",
+    "lat": -25.15,
+    "lon": -57.35,
+    "population": 28480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nemby",
+    "region": "Central Department",
+    "lat": -25.3949,
+    "lon": -57.5357,
+    "population": 28467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Colmena",
+    "region": "Paraguarí Department",
+    "lat": -25.8863,
+    "lon": -56.8408,
+    "population": 28458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carmen del Paraná",
+    "region": "Itapúa",
+    "lat": -27.2223,
+    "lon": -56.1524,
+    "population": 28234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Concepción Department",
+    "lat": -23.3999,
+    "lon": -57.4324,
+    "population": 27891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capitán Miranda",
+    "region": "Itapúa",
+    "lat": -27.2,
+    "lon": -55.8,
+    "population": 27025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacuatí",
+    "region": "San Pedro Department",
+    "lat": -23.45,
+    "lon": -56.5833,
+    "population": 26849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Alberto",
+    "region": "Alto Paraná Department",
+    "lat": -24.9667,
+    "lon": -54.9,
+    "population": 26267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isla Pucú",
+    "region": "Cordillera Department",
+    "lat": -25.3085,
+    "lon": -56.8999,
+    "population": 26152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bella Vista",
+    "region": "Itapúa",
+    "lat": -27.05,
+    "lon": -55.55,
+    "population": 26100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arquitecto Tomás Romero Pereira",
+    "region": "Itapúa",
+    "lat": -26.4833,
+    "lon": -55.25,
+    "population": 25863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Patricio",
+    "region": "Misiones Department",
+    "lat": -26.9667,
+    "lon": -56.8167,
+    "population": 25460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Central Department",
+    "lat": -25.3397,
+    "lon": -57.5088,
+    "population": 24815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbocayaty",
+    "region": "Guairá Department",
+    "lat": -25.7194,
+    "lon": -56.4218,
+    "population": 24551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villarrica",
+    "region": "Guairá Department",
+    "lat": -25.7495,
+    "lon": -56.4352,
+    "population": 24447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General José Eduvigis Díaz",
+    "region": "Ñeembucú Department",
+    "lat": -27.2014,
+    "lon": -58.3674,
+    "population": 24323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Hayes",
+    "region": "Presidente Hayes Department",
+    "lat": -25.0931,
+    "lon": -57.5236,
+    "population": 23902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Central Department",
+    "lat": -25.4213,
+    "lon": -57.5472,
+    "population": 23533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itá",
+    "region": "Central Department",
+    "lat": -25.5005,
+    "lon": -57.3672,
+    "population": 22973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Isidro de Curuguaty",
+    "region": "Canindeyú",
+    "lat": -24.4718,
+    "lon": -55.6923,
+    "population": 21789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Concepción Department",
+    "lat": -23.4661,
+    "lon": -57.2619,
+    "population": 21185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Carlos Antonio López",
+    "region": "Itapúa",
+    "lat": -26.3985,
+    "lon": -54.7569,
+    "population": 21107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caraguatay",
+    "region": "Cordillera Department",
+    "lat": -25.2384,
+    "lon": -56.8269,
+    "population": 20464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piribebuy",
+    "region": "Cordillera Department",
+    "lat": -25.465,
+    "lon": -57.0418,
+    "population": 20217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itauguá",
+    "region": "Central Department",
+    "lat": -25.3926,
+    "lon": -57.3542,
+    "population": 20114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buena Vista",
+    "region": "Caazapá",
+    "lat": -26.1839,
+    "lon": -56.0817,
+    "population": 19626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Ycuamandiyú",
+    "region": "San Pedro Department",
+    "lat": -24.0853,
+    "lon": -57.0874,
+    "population": 19085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinidad",
+    "region": "Itapúa",
+    "lat": -27.1167,
+    "lon": -55.7833,
+    "population": 18993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cecilio Baez",
+    "region": "Caaguazú",
+    "lat": -25.0716,
+    "lon": -56.2439,
+    "population": 18726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilar",
+    "region": "Ñeembucú Department",
+    "lat": -26.8587,
+    "lon": -58.3064,
+    "population": 17768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itakyry",
+    "region": "Alto Paraná Department",
+    "lat": -24.9861,
+    "lon": -55.1496,
+    "population": 17279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa Misiones",
+    "region": "Misiones Department",
+    "lat": -26.8873,
+    "lon": -56.849,
+    "population": 17157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Repatriación",
+    "region": "Caaguazú",
+    "lat": -25.5333,
+    "lon": -55.95,
+    "population": 17154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Elena",
+    "region": "Cordillera Department",
+    "lat": -25.4133,
+    "lon": -56.7971,
+    "population": 16372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Elisa",
+    "region": "Central Department",
+    "lat": -25.3676,
+    "lon": -57.5927,
+    "population": 15991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lambaré",
+    "region": "Central Department",
+    "lat": -25.3468,
+    "lon": -57.6065,
+    "population": 15973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirapó",
+    "region": "Itapúa",
+    "lat": -26.8601,
+    "lon": -55.5436,
+    "population": 15906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capiíbary",
+    "region": "San Pedro Department",
+    "lat": -24.8,
+    "lon": -56.0333,
+    "population": 15635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hohenau",
+    "region": "Itapúa",
+    "lat": -27.0731,
+    "lon": -55.6425,
+    "population": 15300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iturbe",
+    "region": "Guairá Department",
+    "lat": -26.0551,
+    "lon": -56.4846,
+    "population": 14913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itacurubí de la Cordillera",
+    "region": "Cordillera Department",
+    "lat": -25.4616,
+    "lon": -56.8533,
+    "population": 14478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yhú",
+    "region": "Caaguazú",
+    "lat": -25.0578,
+    "lon": -55.9227,
+    "population": 14411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia San Lorenzo",
+    "region": "Itapúa",
+    "lat": -26.4932,
+    "lon": -54.7999,
+    "population": 14372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia General Alfredo Stroessner",
+    "region": "Caaguazú",
+    "lat": -25.3639,
+    "lon": -55.7069,
+    "population": 14320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuerte Olimpo",
+    "region": "Alto Paraguay Department",
+    "lat": -21.0415,
+    "lon": -57.8738,
+    "population": 14318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Joaquín",
+    "region": "Caaguazú",
+    "lat": -25.0285,
+    "lon": -56.0428,
+    "population": 14185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Mayor Otaño",
+    "region": "Itapúa",
+    "lat": -26.4,
+    "lon": -54.7,
+    "population": 14035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caapucú",
+    "region": "Paraguarí Department",
+    "lat": -26.2352,
+    "lon": -57.1821,
+    "population": 13948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atyrá",
+    "region": "Cordillera Department",
+    "lat": -25.2788,
+    "lon": -57.1719,
+    "population": 13692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro Juan Caballero",
+    "region": "Amambay Department",
+    "lat": -22.5472,
+    "lon": -55.7333,
+    "population": 13606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bernardino",
+    "region": "Cordillera Department",
+    "lat": -25.3107,
+    "lon": -57.2963,
+    "population": 13443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Elizardo Aquino",
+    "region": "San Pedro Department",
+    "lat": -24.4442,
+    "lon": -56.9006,
+    "population": 13320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad del Este",
+    "region": "Alto Paraná Department",
+    "lat": -25.5097,
+    "lon": -54.6111,
+    "population": 13173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ygatimi",
+    "region": "Canindeyú",
+    "lat": -24.1237,
+    "lon": -55.6442,
+    "population": 12708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerrito",
+    "region": "Ñeembucú Department",
+    "lat": -27.3422,
+    "lon": -57.6412,
+    "population": 12674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro del Paraná",
+    "region": "Itapúa",
+    "lat": -26.8327,
+    "lon": -56.2058,
+    "population": 12125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Rosario",
+    "region": "San Pedro Department",
+    "lat": -24.4413,
+    "lon": -57.1427,
+    "population": 11807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Catuete",
+    "region": "Canindeyú",
+    "lat": -24.1333,
+    "lon": -54.6167,
+    "population": 11442,
+    "timezone": "UTC"
+  }
+]

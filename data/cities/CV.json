@@ -1,0 +1,194 @@
+[
+  {
+    "name": "São Filipe",
+    "region": "São Filipe",
+    "lat": 14.8961,
+    "lon": -24.4956,
+    "population": 46567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ponta do Sol",
+    "region": "Ribeira Grande",
+    "lat": 17.2017,
+    "lon": -25.0922,
+    "population": 46311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Espargos",
+    "region": "Sal",
+    "lat": 16.7552,
+    "lon": -22.9446,
+    "population": 46092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assomada",
+    "region": "Santa Catarina",
+    "lat": 15.1,
+    "lon": -23.6833,
+    "population": 45144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ribeira Brava",
+    "region": "Ribeira Brava Municipality",
+    "lat": 16.6158,
+    "lon": -24.2983,
+    "population": 43519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igreja",
+    "region": "Mosteiros",
+    "lat": 15.0339,
+    "lon": -24.325,
+    "population": 43295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cova Figueira",
+    "region": "Santa Catarina do Fogo",
+    "lat": 14.8905,
+    "lon": -24.2934,
+    "population": 42356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cidade Velha",
+    "region": "Ribeira Grande de Santiago",
+    "lat": 14.9153,
+    "lon": -23.6053,
+    "population": 41270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ribeira Grande",
+    "region": "Ribeira Grande",
+    "lat": 17.1825,
+    "lon": -25.065,
+    "population": 39781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarrafal",
+    "region": "Tarrafal",
+    "lat": 15.2788,
+    "lon": -23.7519,
+    "population": 38068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Praia",
+    "region": "Praia",
+    "lat": 14.9315,
+    "lon": -23.5125,
+    "population": 33025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mindelo",
+    "region": "São Vicente",
+    "lat": 16.8901,
+    "lon": -24.9804,
+    "population": 32847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "Santa Cruz",
+    "lat": 15.1333,
+    "lon": -23.5667,
+    "population": 31036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Sintra",
+    "region": "Brava",
+    "lat": 14.8714,
+    "lon": -24.6956,
+    "population": 28547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarrafal de São Nicolau",
+    "region": "Tarrafal de São Nicolau",
+    "lat": 16.5662,
+    "lon": -24.3579,
+    "population": 25962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pombas",
+    "region": "Paul",
+    "lat": 17.1503,
+    "lon": -25.0201,
+    "population": 25058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedra Badejo",
+    "region": "Santa Cruz",
+    "lat": 15.1375,
+    "lon": -23.5308,
+    "population": 20290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "João Teves",
+    "region": "São Lourenço dos Órgãos",
+    "lat": 15.0669,
+    "lon": -23.5892,
+    "population": 17823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "São Domingos",
+    "region": "São Domingos",
+    "lat": 15.0244,
+    "lon": -23.5625,
+    "population": 17322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Maria",
+    "region": "Sal",
+    "lat": 16.598,
+    "lon": -22.9051,
+    "population": 17275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vila do Maio",
+    "region": "Maio Municipality",
+    "lat": 15.1382,
+    "lon": -23.2116,
+    "population": 15939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porto Novo",
+    "region": "Porto Novo",
+    "lat": 17.0197,
+    "lon": -25.0647,
+    "population": 15854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sal Rei",
+    "region": "Boa Vista",
+    "lat": 16.1761,
+    "lon": -22.9172,
+    "population": 15736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calheta",
+    "region": "São Miguel",
+    "lat": 15.1861,
+    "lon": -23.5923,
+    "population": 11696,
+    "timezone": "UTC"
+  }
+]

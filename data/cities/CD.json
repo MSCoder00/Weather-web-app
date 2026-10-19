@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Kabalo",
+    "region": "Tanganyika",
+    "lat": -6.0526,
+    "lon": 26.9143,
+    "population": 49224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulungu",
+    "region": "Kwilu",
+    "lat": -4.5444,
+    "lon": 18.6036,
+    "population": 48997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tshikapa",
+    "region": "Kasaï",
+    "lat": -6.4162,
+    "lon": 20.7999,
+    "population": 48186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lubao",
+    "region": "Lomami",
+    "lat": -5.3877,
+    "lon": 25.7489,
+    "population": 48059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kipushi",
+    "region": "Haut-Katanga",
+    "lat": -11.761,
+    "lon": 27.2513,
+    "population": 48048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bondo",
+    "region": "Bas-Uélé",
+    "lat": 3.8146,
+    "lon": 23.6867,
+    "population": 47841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libenge",
+    "region": "Sud-Ubangi",
+    "lat": 3.6533,
+    "lon": 18.6357,
+    "population": 46688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isiro",
+    "region": "Haut-Uélé",
+    "lat": 2.7739,
+    "lon": 27.616,
+    "population": 46023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uvira",
+    "region": "Sud-Kivu",
+    "lat": -3.3953,
+    "lon": 29.1378,
+    "population": 45743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasangulu",
+    "region": "Kongo Central",
+    "lat": -4.5833,
+    "lon": 15.1655,
+    "population": 44420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampene",
+    "region": "Maniema",
+    "lat": -3.5968,
+    "lon": 26.6671,
+    "population": 44082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mangai",
+    "region": "Kwilu",
+    "lat": -4.0233,
+    "lon": 19.5339,
+    "population": 43658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Businga",
+    "region": "Nord-Ubangi",
+    "lat": 3.3386,
+    "lon": 20.8858,
+    "population": 42070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lisala",
+    "region": "Équateur",
+    "lat": 2.1513,
+    "lon": 21.5167,
+    "population": 40963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mushie",
+    "region": "Mai-Ndombe",
+    "lat": -3.0173,
+    "lon": 16.9224,
+    "population": 40600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lusambo",
+    "region": "Sankuru",
+    "lat": -4.975,
+    "lon": 23.4439,
+    "population": 40410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kongolo",
+    "region": "Tanganyika",
+    "lat": -5.3853,
+    "lon": 27.0003,
+    "population": 40095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasongo-Lunda",
+    "region": "Kwango",
+    "lat": -6.4783,
+    "lon": 16.8174,
+    "population": 39849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilebo",
+    "region": "Kasaï",
+    "lat": -4.3311,
+    "lon": 20.5864,
+    "population": 38484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukavu",
+    "region": "Sud-Kivu",
+    "lat": -2.4908,
+    "lon": 28.8428,
+    "population": 38185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbanza-Ngungu",
+    "region": "Kongo Central",
+    "lat": -5.2584,
+    "lon": 14.8584,
+    "population": 37651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nioki",
+    "region": "Mai-Ndombe",
+    "lat": -2.7204,
+    "lon": 17.69,
+    "population": 37186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lodja",
+    "region": "Sankuru",
+    "lat": -3.521,
+    "lon": 23.6005,
+    "population": 36913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aketi",
+    "region": "Bas-Uélé",
+    "lat": 2.7388,
+    "lon": 23.7833,
+    "population": 36771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sake",
+    "region": "Nord-Kivu",
+    "lat": -1.5739,
+    "lon": 29.0434,
+    "population": 36338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukolela",
+    "region": "Équateur",
+    "lat": -1.0605,
+    "lon": 17.1821,
+    "population": 36186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basoko",
+    "region": "Tshopo",
+    "lat": 1.2391,
+    "lon": 23.616,
+    "population": 35465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwene-Ditu",
+    "region": "Lomami",
+    "lat": -7.0091,
+    "lon": 23.4528,
+    "population": 35094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kikwit",
+    "region": "Kwilu",
+    "lat": -5.041,
+    "lon": 18.8162,
+    "population": 34189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosobolo",
+    "region": "Nord-Ubangi",
+    "lat": 4.1898,
+    "lon": 19.8833,
+    "population": 33798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buta",
+    "region": "Bas-Uélé",
+    "lat": 2.7858,
+    "lon": 24.73,
+    "population": 33387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goma",
+    "region": "Nord-Kivu",
+    "lat": -1.6741,
+    "lon": 29.2284,
+    "population": 32935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandundu",
+    "region": "Kwilu",
+    "lat": -3.3169,
+    "lon": 17.3806,
+    "population": 30794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolobo",
+    "region": "Mai-Ndombe",
+    "lat": -2.158,
+    "lon": 16.2325,
+    "population": 30446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boende",
+    "region": "Tshuapa",
+    "lat": -0.2816,
+    "lon": 20.8805,
+    "population": 30063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bunia",
+    "region": "Ituri",
+    "lat": 1.5594,
+    "lon": 30.2522,
+    "population": 29980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalemie",
+    "region": "Tanganyika",
+    "lat": -5.9475,
+    "lon": 29.1947,
+    "population": 29565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gbadolite",
+    "region": "Nord-Ubangi",
+    "lat": 4.279,
+    "lon": 21.0028,
+    "population": 27124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inongo",
+    "region": "Mai-Ndombe",
+    "lat": -1.9275,
+    "lon": 18.2881,
+    "population": 26688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamina",
+    "region": "Haut-Lomami",
+    "lat": -8.7351,
+    "lon": 24.998,
+    "population": 26687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisangani",
+    "region": "Tshopo",
+    "lat": 0.5153,
+    "lon": 25.191,
+    "population": 25755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lubumbashi",
+    "region": "Haut-Katanga",
+    "lat": -11.6609,
+    "lon": 27.4794,
+    "population": 25023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbuji-Mayi",
+    "region": "Kasaï Oriental",
+    "lat": -6.136,
+    "lon": 23.5898,
+    "population": 24634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wamba",
+    "region": "Haut-Uélé",
+    "lat": 2.1484,
+    "lon": 27.9947,
+    "population": 24555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gemena",
+    "region": "Équateur",
+    "lat": 3.2565,
+    "lon": 19.7723,
+    "population": 23871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moanda",
+    "region": "Kongo Central",
+    "lat": -5.9275,
+    "lon": 12.3715,
+    "population": 22863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mweka",
+    "region": "Kasaï",
+    "lat": -4.8519,
+    "lon": 21.5595,
+    "population": 21601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinshasa",
+    "region": "Kinshasa",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "population": 21528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabinda",
+    "region": "Kasaï Oriental",
+    "lat": -6.1379,
+    "lon": 24.4818,
+    "population": 21287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bongandanga",
+    "region": "Sud-Ubangi",
+    "lat": 1.507,
+    "lon": 21.0726,
+    "population": 21006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luebo",
+    "region": "Kasaï",
+    "lat": -5.3522,
+    "lon": 21.4219,
+    "population": 20968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watsa",
+    "region": "Haut-Uélé",
+    "lat": 3.0372,
+    "lon": 29.5355,
+    "population": 20889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangambi",
+    "region": "Tshopo",
+    "lat": 0.7675,
+    "lon": 24.4397,
+    "population": 20862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masina",
+    "region": "Kinshasa",
+    "lat": -4.3836,
+    "lon": 15.3914,
+    "population": 18908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasongo",
+    "region": "Maniema",
+    "lat": -4.4274,
+    "lon": 26.6666,
+    "population": 18805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabare",
+    "region": "Sud-Kivu",
+    "lat": -2.4968,
+    "lon": 28.7908,
+    "population": 17829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbandaka",
+    "region": "Équateur",
+    "lat": 0.0486,
+    "lon": 18.2603,
+    "population": 17173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tshela",
+    "region": "Kongo Central",
+    "lat": -4.9971,
+    "lon": 12.9484,
+    "population": 16769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butembo",
+    "region": "Nord-Kivu",
+    "lat": 0.1416,
+    "lon": 29.2912,
+    "population": 16627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gandajika",
+    "region": "Kasaï Oriental",
+    "lat": -6.745,
+    "lon": 23.9533,
+    "population": 16588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni",
+    "region": "Nord-Kivu",
+    "lat": 0.4911,
+    "lon": 29.4731,
+    "population": 16501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boma",
+    "region": "Kongo Central",
+    "lat": -5.851,
+    "lon": 13.0536,
+    "population": 15475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kambove",
+    "region": "Haut-Katanga",
+    "lat": -10.8735,
+    "lon": 26.5975,
+    "population": 15396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Likasi",
+    "region": "Haut-Katanga",
+    "lat": -10.983,
+    "lon": 26.7384,
+    "population": 14104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukama",
+    "region": "Haut-Lomami",
+    "lat": -9.2044,
+    "lon": 25.8547,
+    "population": 13844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bumba",
+    "region": "Mongala",
+    "lat": 2.1877,
+    "lon": 22.4683,
+    "population": 12237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kindu",
+    "region": "Maniema",
+    "lat": -2.9437,
+    "lon": 25.9224,
+    "population": 11857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matadi",
+    "region": "Kongo Central",
+    "lat": -5.8386,
+    "lon": 13.4631,
+    "population": 11811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haut Katanga",
+    "region": "Haut-Katanga",
+    "lat": -10.4604,
+    "lon": 27.9432,
+    "population": 10797,
+    "timezone": "UTC"
+  }
+]

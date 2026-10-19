@@ -1,0 +1,874 @@
+[
+  {
+    "name": "Shurugwi District",
+    "region": "Midlands Province",
+    "lat": -19.75,
+    "lon": 30.1667,
+    "population": 49414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mashava",
+    "region": "Masvingo Province",
+    "lat": -20.0367,
+    "lon": 30.4823,
+    "population": 48815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chakari",
+    "region": "Mashonaland West Province",
+    "lat": -18.0629,
+    "lon": 29.8925,
+    "population": 48656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masvingo",
+    "region": "Masvingo Province",
+    "lat": -20.0637,
+    "lon": 30.8277,
+    "population": 48607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyanga",
+    "region": "Manicaland",
+    "lat": -18.2167,
+    "lon": 32.75,
+    "population": 47851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mvuma",
+    "region": "Midlands Province",
+    "lat": -19.2792,
+    "lon": 30.5283,
+    "population": 47796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odzi",
+    "region": "Manicaland",
+    "lat": -18.9617,
+    "lon": 32.4056,
+    "population": 46959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makonde District",
+    "region": "Mashonaland West Province",
+    "lat": -17.1667,
+    "lon": 30.0833,
+    "population": 46198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Insiza",
+    "region": "Matabeleland South Province",
+    "lat": -19.7833,
+    "lon": 29.2,
+    "population": 45982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penhalonga",
+    "region": "Manicaland",
+    "lat": -18.8911,
+    "lon": 32.6978,
+    "population": 45770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binga District",
+    "region": "Matabeleland North Province",
+    "lat": -17.8046,
+    "lon": 27.7009,
+    "population": 45749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murehwa",
+    "region": "Mashonaland East Province",
+    "lat": -17.6432,
+    "lon": 31.784,
+    "population": 45671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buhera District",
+    "region": "Manicaland",
+    "lat": -19.4566,
+    "lon": 31.9316,
+    "population": 45629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zvishavane District",
+    "region": "Midlands Province",
+    "lat": -20.3035,
+    "lon": 30.0751,
+    "population": 45569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makoni District",
+    "region": "Manicaland",
+    "lat": -18.3355,
+    "lon": 32.1465,
+    "population": 45565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filabusi",
+    "region": "Matabeleland South Province",
+    "lat": -20.5333,
+    "lon": 29.285,
+    "population": 45348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Darwin",
+    "region": "Mashonaland Central Province",
+    "lat": -16.7725,
+    "lon": 31.5838,
+    "population": 45021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rushinga District",
+    "region": "Mashonaland Central Province",
+    "lat": -16.6079,
+    "lon": 32.3143,
+    "population": 44622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutare",
+    "region": "Manicaland",
+    "lat": -18.9707,
+    "lon": 32.6709,
+    "population": 44571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimanimani District",
+    "region": "Manicaland",
+    "lat": -19.7829,
+    "lon": 32.7334,
+    "population": 44458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutare District",
+    "region": "Manicaland",
+    "lat": -19.2551,
+    "lon": 32.4433,
+    "population": 44402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwenezi District",
+    "region": "Masvingo Province",
+    "lat": -21.3584,
+    "lon": 30.7067,
+    "population": 43723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gutu District",
+    "region": "Masvingo Province",
+    "lat": -19.6088,
+    "lon": 31.2506,
+    "population": 42560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Headlands",
+    "region": "Manicaland",
+    "lat": -18.2773,
+    "lon": 32.0515,
+    "population": 42133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shurugwi",
+    "region": "Midlands Province",
+    "lat": -19.6702,
+    "lon": 30.0059,
+    "population": 41899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beitbridge District",
+    "region": "Matabeleland South Province",
+    "lat": -21.8983,
+    "lon": 30.0741,
+    "population": 41802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwange District",
+    "region": "Matabeleland North Province",
+    "lat": -18.75,
+    "lon": 26.5,
+    "population": 41506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mberengwa District",
+    "region": "Midlands Province",
+    "lat": -20.7258,
+    "lon": 30.0096,
+    "population": 41481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zvishavane",
+    "region": "Masvingo Province",
+    "lat": -20.3267,
+    "lon": 30.0665,
+    "population": 41156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esigodini",
+    "region": "Matabeleland South Province",
+    "lat": -20.2898,
+    "lon": 28.9226,
+    "population": 40823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beitbridge",
+    "region": "Matabeleland South Province",
+    "lat": -22.2167,
+    "lon": 30,
+    "population": 39790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chirundu",
+    "region": "Mashonaland West Province",
+    "lat": -16.0333,
+    "lon": 28.85,
+    "population": 39728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulawayo",
+    "region": "Bulawayo Province",
+    "lat": -20.15,
+    "lon": 28.5833,
+    "population": 39222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangani",
+    "region": "Midlands Province",
+    "lat": -19.7833,
+    "lon": 29.3667,
+    "population": 39187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glendale",
+    "region": "Mashonaland Central Province",
+    "lat": -17.3551,
+    "lon": 31.0672,
+    "population": 38979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masvingo District",
+    "region": "Masvingo Province",
+    "lat": -20.3148,
+    "lon": 30.9001,
+    "population": 38494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gweru District",
+    "region": "Midlands Province",
+    "lat": -19.4566,
+    "lon": 29.645,
+    "population": 38459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lupane District",
+    "region": "Matabeleland North Province",
+    "lat": -18.8361,
+    "lon": 27.991,
+    "population": 38438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karoi",
+    "region": "Mashonaland West Province",
+    "lat": -16.8099,
+    "lon": 29.6925,
+    "population": 37932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Epworth",
+    "region": "Harare Province",
+    "lat": -17.89,
+    "lon": 31.1475,
+    "population": 37154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazowe District",
+    "region": "Mashonaland Central Province",
+    "lat": -17.2808,
+    "lon": 30.9323,
+    "population": 36993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyazura",
+    "region": "Manicaland",
+    "lat": -18.7059,
+    "lon": 32.168,
+    "population": 35802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mhangura",
+    "region": "Mashonaland West Province",
+    "lat": -16.8939,
+    "lon": 30.1683,
+    "population": 35517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kariba District",
+    "region": "Mashonaland West Province",
+    "lat": -16.9101,
+    "lon": 28.6598,
+    "population": 35251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plumtree",
+    "region": "Matabeleland South Province",
+    "lat": -20.4833,
+    "lon": 27.8167,
+    "population": 34827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rusape",
+    "region": "Manicaland",
+    "lat": -18.5279,
+    "lon": 32.1284,
+    "population": 34784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banket",
+    "region": "Mashonaland West Province",
+    "lat": -17.3833,
+    "lon": 30.4,
+    "population": 34499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marondera District",
+    "region": "Mashonaland East Province",
+    "lat": -18.2921,
+    "lon": 31.5125,
+    "population": 33870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bindura",
+    "region": "Mashonaland Central Province",
+    "lat": -17.3019,
+    "lon": 31.3306,
+    "population": 33846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mangwe District",
+    "region": "Matabeleland South Province",
+    "lat": -20.9554,
+    "lon": 27.9829,
+    "population": 33016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Insiza District",
+    "region": "Matabeleland South Province",
+    "lat": -20.2643,
+    "lon": 29.4739,
+    "population": 32631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gokwe",
+    "region": "Midlands Province",
+    "lat": -18.2048,
+    "lon": 28.9349,
+    "population": 32400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lupane",
+    "region": "Matabeleland North Province",
+    "lat": -18.9315,
+    "lon": 27.807,
+    "population": 32183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria Falls",
+    "region": "Matabeleland North Province",
+    "lat": -17.9328,
+    "lon": 25.8307,
+    "population": 32078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinhoyi",
+    "region": "Mashonaland West Province",
+    "lat": -17.3667,
+    "lon": 30.2,
+    "population": 32006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Redcliff",
+    "region": "Midlands Province",
+    "lat": -19.0333,
+    "lon": 29.7833,
+    "population": 31800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiredzi District",
+    "region": "Masvingo Province",
+    "lat": -21.2858,
+    "lon": 31.7704,
+    "population": 31638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruwa",
+    "region": "Mashonaland East Province",
+    "lat": -17.8897,
+    "lon": 31.2447,
+    "population": 30974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murehwa District",
+    "region": "Mashonaland East Province",
+    "lat": -17.8006,
+    "lon": 31.8308,
+    "population": 30004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bindura District",
+    "region": "Mashonaland Central Province",
+    "lat": -17.2123,
+    "lon": 31.303,
+    "population": 29151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centenary",
+    "region": "Mashonaland Central Province",
+    "lat": -16.7229,
+    "lon": 31.1146,
+    "population": 28854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chipinge District",
+    "region": "Manicaland",
+    "lat": -20.5496,
+    "lon": 32.4311,
+    "population": 28094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwekwe",
+    "region": "Midlands Province",
+    "lat": -18.9281,
+    "lon": 29.8149,
+    "population": 27949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadoma District",
+    "region": "Mashonaland West Province",
+    "lat": -18.3405,
+    "lon": 29.8283,
+    "population": 27826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shamva District",
+    "region": "Mashonaland Central Province",
+    "lat": -17.1237,
+    "lon": 31.6415,
+    "population": 26937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binga",
+    "region": "Matabeleland North Province",
+    "lat": -17.6203,
+    "lon": 27.3414,
+    "population": 26603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazowe",
+    "region": "Mashonaland Central Province",
+    "lat": -17.504,
+    "lon": 30.9739,
+    "population": 25637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwekwe District",
+    "region": "Midlands Province",
+    "lat": -18.75,
+    "lon": 29.5,
+    "population": 25422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guruve District",
+    "region": "Mashonaland Central Province",
+    "lat": -16.3721,
+    "lon": 30.6061,
+    "population": 25241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centenary District",
+    "region": "Mashonaland Central Province",
+    "lat": -16.4167,
+    "lon": 31.1667,
+    "population": 24765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivi District",
+    "region": "Masvingo Province",
+    "lat": -20.5,
+    "lon": 30.5833,
+    "population": 24552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitungwiza",
+    "region": "Harare Province",
+    "lat": -18.0127,
+    "lon": 31.0755,
+    "population": 23889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marondera",
+    "region": "Mashonaland East Province",
+    "lat": -18.1853,
+    "lon": 31.5519,
+    "population": 23841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalapanzi",
+    "region": "Midlands Province",
+    "lat": -19.3322,
+    "lon": 30.1777,
+    "population": 23531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goromonzi District",
+    "region": "Mashonaland East Province",
+    "lat": -17.807,
+    "lon": 31.3637,
+    "population": 23258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raffingora",
+    "region": "Mashonaland West Province",
+    "lat": -17.0333,
+    "lon": 30.4333,
+    "population": 22764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inyati",
+    "region": "Matabeleland North Province",
+    "lat": -19.6756,
+    "lon": 28.8469,
+    "population": 22487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chegutu",
+    "region": "Mashonaland West Province",
+    "lat": -18.1302,
+    "lon": 30.1407,
+    "population": 22422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kariba",
+    "region": "Mashonaland West Province",
+    "lat": -16.5167,
+    "lon": 28.8,
+    "population": 22217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiredzi",
+    "region": "Masvingo Province",
+    "lat": -21.05,
+    "lon": 31.6667,
+    "population": 22163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concession",
+    "region": "Mashonaland Central Province",
+    "lat": -17.3833,
+    "lon": 30.95,
+    "population": 21469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norton",
+    "region": "Mashonaland West Province",
+    "lat": -17.8833,
+    "lon": 30.7,
+    "population": 21457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bubi District",
+    "region": "Matabeleland North Province",
+    "lat": -19.5251,
+    "lon": 28.68,
+    "population": 21158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutasa District",
+    "region": "Manicaland",
+    "lat": -18.6628,
+    "lon": 32.7455,
+    "population": 19752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hurungwe District",
+    "region": "Mashonaland West Province",
+    "lat": -16.413,
+    "lon": 29.5858,
+    "population": 19362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutoko",
+    "region": "Mashonaland East Province",
+    "lat": -17.397,
+    "lon": 32.2268,
+    "population": 19169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bikita District",
+    "region": "Masvingo Province",
+    "lat": -20.1375,
+    "lon": 31.9316,
+    "population": 18463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chegutu District",
+    "region": "Mashonaland West Province",
+    "lat": -18.131,
+    "lon": 30.4005,
+    "population": 18445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadoma",
+    "region": "Mashonaland West Province",
+    "lat": -18.3333,
+    "lon": 29.9153,
+    "population": 18411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mudzi District",
+    "region": "Mashonaland East Province",
+    "lat": -17.0471,
+    "lon": 32.6528,
+    "population": 18226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gweru",
+    "region": "Midlands Province",
+    "lat": -19.45,
+    "lon": 29.8167,
+    "population": 17719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harare",
+    "region": "Harare Province",
+    "lat": -17.8277,
+    "lon": 31.0534,
+    "population": 17604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamativi Mine",
+    "region": "Matabeleland North Province",
+    "lat": -18.3156,
+    "lon": 27.0573,
+    "population": 17406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimanimani",
+    "region": "Manicaland",
+    "lat": -19.8,
+    "lon": 32.8667,
+    "population": 16915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwange",
+    "region": "Matabeleland North Province",
+    "lat": -18.3645,
+    "lon": 26.4988,
+    "population": 16816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkayi District",
+    "region": "Matabeleland North Province",
+    "lat": -18.9247,
+    "lon": 28.7122,
+    "population": 15276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dorowa Mining Lease",
+    "region": "Manicaland",
+    "lat": -19.0667,
+    "lon": 31.75,
+    "population": 15087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shamva",
+    "region": "Mashonaland Central Province",
+    "lat": -17.3116,
+    "lon": 31.5756,
+    "population": 15062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwanda",
+    "region": "Matabeleland South Province",
+    "lat": -20.9362,
+    "lon": 29.007,
+    "population": 14330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matobo",
+    "region": "Matabeleland South Province",
+    "lat": -20.9554,
+    "lon": 28.4946,
+    "population": 13796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macheke",
+    "region": "Mashonaland East Province",
+    "lat": -18.139,
+    "lon": 31.8493,
+    "population": 13192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umzingwane District",
+    "region": "Matabeleland South Province",
+    "lat": -20.347,
+    "lon": 28.9499,
+    "population": 13112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dete",
+    "region": "Matabeleland North Province",
+    "lat": -18.6167,
+    "lon": 26.8667,
+    "population": 12439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivhu",
+    "region": "Mashonaland East Province",
+    "lat": -19.0211,
+    "lon": 30.8922,
+    "population": 12129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beatrice",
+    "region": "Mashonaland East Province",
+    "lat": -18.2528,
+    "lon": 30.8473,
+    "population": 11930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chipinge",
+    "region": "Manicaland",
+    "lat": -20.1883,
+    "lon": 32.6236,
+    "population": 11615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwanda District",
+    "region": "Matabeleland South Province",
+    "lat": -21.2093,
+    "lon": 29.1756,
+    "population": 10920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyanga District",
+    "region": "Manicaland",
+    "lat": -17.9295,
+    "lon": 32.7656,
+    "population": 10429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mvurwi",
+    "region": "Mashonaland Central Province",
+    "lat": -17.0333,
+    "lon": 30.85,
+    "population": 10296,
+    "timezone": "UTC"
+  }
+]

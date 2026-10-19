@@ -1,0 +1,1858 @@
+[
+  {
+    "name": "Ilići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.3477,
+    "lon": 17.7685,
+    "population": 49971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mrkonjić Grad",
+    "region": "Republika Srpska",
+    "lat": 44.4173,
+    "lon": 17.0829,
+    "population": 49920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Višegrad",
+    "region": "Republika Srpska",
+    "lat": 43.7826,
+    "lon": 19.2926,
+    "population": 49723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omanjska",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6983,
+    "lon": 17.9576,
+    "population": 49635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zenica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.2017,
+    "lon": 17.904,
+    "population": 49492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mionica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.8665,
+    "lon": 18.466,
+    "population": 48899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bronzani Majdan",
+    "region": "Republika Srpska",
+    "lat": 44.7924,
+    "lon": 16.9404,
+    "population": 48816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petkovci",
+    "region": "Republika Srpska",
+    "lat": 44.4685,
+    "lon": 19.0747,
+    "population": 48814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srbac",
+    "region": "Republika Srpska",
+    "lat": 45.0973,
+    "lon": 17.5233,
+    "population": 48198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opština Oštra Luka",
+    "region": "Republika Srpska",
+    "lat": 44.7328,
+    "lon": 16.8286,
+    "population": 48129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breza",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0186,
+    "lon": 18.2606,
+    "population": 48101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zvornik",
+    "region": "Republika Srpska",
+    "lat": 44.386,
+    "lon": 19.1025,
+    "population": 47869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mramor",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5923,
+    "lon": 18.5646,
+    "population": 47354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cazin",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.9669,
+    "lon": 15.9431,
+    "population": 47030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Visoko",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.9889,
+    "lon": 18.1781,
+    "population": 46938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šipovo",
+    "region": "Republika Srpska",
+    "lat": 44.2824,
+    "lon": 17.086,
+    "population": 46703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rudo",
+    "region": "Republika Srpska",
+    "lat": 43.6178,
+    "lon": 19.3672,
+    "population": 46658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Travnik",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.1713,
+    "lon": 17.6582,
+    "population": 46579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janja",
+    "region": "Republika Srpska",
+    "lat": 44.6655,
+    "lon": 19.2469,
+    "population": 46512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tešanj",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6119,
+    "lon": 17.9855,
+    "population": 46270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donji Vakuf",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.1436,
+    "lon": 17.4,
+    "population": 46098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosanska Krupa",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.8825,
+    "lon": 16.1514,
+    "population": 45973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kostajnica",
+    "region": "Republika Srpska",
+    "lat": 45.2196,
+    "lon": 16.5393,
+    "population": 45950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kovači",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4487,
+    "lon": 18.2052,
+    "population": 45867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prozor",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8222,
+    "lon": 17.6092,
+    "population": 45746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ćoralići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0069,
+    "lon": 15.8719,
+    "population": 45741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrnograč",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.1637,
+    "lon": 15.9544,
+    "population": 45717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Živinice",
+    "region": "Republika Srpska",
+    "lat": 44.5476,
+    "lon": 17.3736,
+    "population": 45577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pazarić",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7888,
+    "lon": 18.1605,
+    "population": 45552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bila",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7826,
+    "lon": 16.9268,
+    "population": 45550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podzvizd",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.1742,
+    "lon": 15.8736,
+    "population": 45485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trn",
+    "region": "Republika Srpska",
+    "lat": 44.8583,
+    "lon": 17.2358,
+    "population": 45130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orguz",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7741,
+    "lon": 16.8633,
+    "population": 43986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domaljevac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0611,
+    "lon": 18.5861,
+    "population": 43692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banja Luka",
+    "region": "Republika Srpska",
+    "lat": 44.7784,
+    "lon": 17.1939,
+    "population": 43670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donja Međiđa",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.8023,
+    "lon": 18.4048,
+    "population": 43452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zabrišće",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7922,
+    "lon": 16.9422,
+    "population": 43179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilijaš",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.9513,
+    "lon": 18.2713,
+    "population": 43055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Starcevica",
+    "region": "Republika Srpska",
+    "lat": 44.7571,
+    "lon": 17.2118,
+    "population": 42903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bijela",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.6087,
+    "lon": 17.9508,
+    "population": 42842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teslić",
+    "region": "Republika Srpska",
+    "lat": 44.6064,
+    "lon": 17.8597,
+    "population": 42794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelagićevo",
+    "region": "Republika Srpska",
+    "lat": 44.901,
+    "lon": 18.5919,
+    "population": 42472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neum",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 42.9233,
+    "lon": 17.6156,
+    "population": 42142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koran",
+    "region": "Republika Srpska",
+    "lat": 43.8104,
+    "lon": 18.57,
+    "population": 42020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brod",
+    "region": "Republika Srpska",
+    "lat": 45.1375,
+    "lon": 17.9872,
+    "population": 41986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Kladuša",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.185,
+    "lon": 15.8058,
+    "population": 41575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blatnica",
+    "region": "Republika Srpska",
+    "lat": 44.4868,
+    "lon": 17.8228,
+    "population": 41307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polje-Bijela",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.633,
+    "lon": 17.9722,
+    "population": 41293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šekovići",
+    "region": "Republika Srpska",
+    "lat": 44.299,
+    "lon": 18.8553,
+    "population": 41277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orašac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6304,
+    "lon": 16.0744,
+    "population": 40992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lokvine",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.2047,
+    "lon": 17.8566,
+    "population": 40616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odžak",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0246,
+    "lon": 18.3211,
+    "population": 40553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vidoši",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7714,
+    "lon": 17.0283,
+    "population": 40022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ostrožac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.9087,
+    "lon": 15.9405,
+    "population": 39885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mala Kladuša",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.1344,
+    "lon": 15.8522,
+    "population": 39808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stijena",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.9363,
+    "lon": 16.0222,
+    "population": 39624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vogošća",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.9023,
+    "lon": 18.3444,
+    "population": 39507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solina",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5623,
+    "lon": 18.6932,
+    "population": 39451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pećigrad",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0544,
+    "lon": 15.8969,
+    "population": 39423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gračanica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7333,
+    "lon": 18.2833,
+    "population": 39115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milići",
+    "region": "Republika Srpska",
+    "lat": 44.1702,
+    "lon": 19.092,
+    "population": 38926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Široki Brijeg",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.3829,
+    "lon": 17.5942,
+    "population": 38758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čelinac",
+    "region": "Republika Srpska",
+    "lat": 44.7245,
+    "lon": 17.3243,
+    "population": 38652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarajevo",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8486,
+    "lon": 18.3564,
+    "population": 38600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pjanići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.9857,
+    "lon": 15.823,
+    "population": 38518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čajniče",
+    "region": "Republika Srpska",
+    "lat": 43.5571,
+    "lon": 19.0719,
+    "population": 38342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiseljak",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.489,
+    "lon": 18.5698,
+    "population": 38339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornje Moštre",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0191,
+    "lon": 18.1548,
+    "population": 38245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tojšići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5013,
+    "lon": 18.7852,
+    "population": 38099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lopare",
+    "region": "Republika Srpska",
+    "lat": 44.635,
+    "lon": 18.8434,
+    "population": 37996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanton Sarajevo",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8433,
+    "lon": 18.2422,
+    "population": 37977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čečava",
+    "region": "Republika Srpska",
+    "lat": 44.6796,
+    "lon": 17.7578,
+    "population": 37915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tasovčići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.1133,
+    "lon": 17.72,
+    "population": 37423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žepče",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4267,
+    "lon": 18.0378,
+    "population": 37249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Todorovo",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0883,
+    "lon": 15.9308,
+    "population": 37169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.4183,
+    "lon": 17.285,
+    "population": 37088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doboj",
+    "region": "Republika Srpska",
+    "lat": 44.7594,
+    "lon": 18.065,
+    "population": 36862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srebrenik",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.7082,
+    "lon": 18.4883,
+    "population": 36569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Vakuf",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.9381,
+    "lon": 17.5883,
+    "population": 36558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumboci",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8315,
+    "lon": 17.5027,
+    "population": 36474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozarska Dubica",
+    "region": "Republika Srpska",
+    "lat": 45.1767,
+    "lon": 16.8094,
+    "population": 36471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gostovići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4112,
+    "lon": 18.1703,
+    "population": 36439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vareš",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.1644,
+    "lon": 18.3283,
+    "population": 36248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šamac",
+    "region": "Republika Srpska",
+    "lat": 45.0599,
+    "lon": 18.4676,
+    "population": 36016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mostar",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.3433,
+    "lon": 17.8081,
+    "population": 36013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahala",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0119,
+    "lon": 18.2553,
+    "population": 35914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šumatac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0974,
+    "lon": 15.8582,
+    "population": 35693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Busovača",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0977,
+    "lon": 17.8783,
+    "population": 35561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čelić",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.7252,
+    "lon": 18.8147,
+    "population": 35526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradačac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.8785,
+    "lon": 18.4276,
+    "population": 35446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šturlić",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0639,
+    "lon": 15.7781,
+    "population": 35387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brčko",
+    "region": "Brčko District",
+    "lat": 44.87,
+    "lon": 18.8101,
+    "population": 35166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalenderovci Donji",
+    "region": "Republika Srpska",
+    "lat": 44.9467,
+    "lon": 17.8378,
+    "population": 35150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gacko",
+    "region": "Republika Srpska",
+    "lat": 43.1672,
+    "lon": 18.5353,
+    "population": 34895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foča",
+    "region": "Republika Srpska",
+    "lat": 43.5065,
+    "lon": 18.7785,
+    "population": 34884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kobilja Glava",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8819,
+    "lon": 18.3886,
+    "population": 34810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jajce",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.342,
+    "lon": 17.2706,
+    "population": 34715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turbe",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.2435,
+    "lon": 17.575,
+    "population": 34703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cim",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.354,
+    "lon": 17.7804,
+    "population": 34583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubuški",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.1969,
+    "lon": 17.545,
+    "population": 34419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ustikolina",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.5834,
+    "lon": 18.7911,
+    "population": 34332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orašje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0337,
+    "lon": 18.6933,
+    "population": 34291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vitez",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.1542,
+    "lon": 17.7901,
+    "population": 34279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vlasenica",
+    "region": "Republika Srpska",
+    "lat": 44.1818,
+    "lon": 18.941,
+    "population": 34254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rogatica",
+    "region": "Republika Srpska",
+    "lat": 43.7989,
+    "lon": 19.0036,
+    "population": 34200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bijeljina",
+    "region": "Republika Srpska",
+    "lat": 44.7658,
+    "lon": 19.1508,
+    "population": 33915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donja Mahala",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0433,
+    "lon": 18.67,
+    "population": 33870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pribinić",
+    "region": "Republika Srpska",
+    "lat": 44.6101,
+    "lon": 17.6898,
+    "population": 33395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opština Višegrad",
+    "region": "Republika Srpska",
+    "lat": 43.7217,
+    "lon": 19.3136,
+    "population": 33255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podhum",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7229,
+    "lon": 16.9989,
+    "population": 33218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liješnica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.495,
+    "lon": 18.0764,
+    "population": 32996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obudovac",
+    "region": "Republika Srpska",
+    "lat": 44.9522,
+    "lon": 18.5987,
+    "population": 32870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puračić",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5456,
+    "lon": 18.4786,
+    "population": 32764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stanari",
+    "region": "Republika Srpska",
+    "lat": 44.7448,
+    "lon": 17.8271,
+    "population": 32717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradiška",
+    "region": "Republika Srpska",
+    "lat": 45.1448,
+    "lon": 17.2545,
+    "population": 32637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosansko Grahovo",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.1794,
+    "lon": 16.3639,
+    "population": 32543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radišići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.223,
+    "lon": 17.5406,
+    "population": 32532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Livno",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8269,
+    "lon": 17.0075,
+    "population": 32467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamovita",
+    "region": "Republika Srpska",
+    "lat": 44.9202,
+    "lon": 16.8993,
+    "population": 32204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubrave Gornje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4723,
+    "lon": 18.7268,
+    "population": 32109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omarska",
+    "region": "Republika Srpska",
+    "lat": 44.8917,
+    "lon": 16.8981,
+    "population": 31936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bileća",
+    "region": "Republika Srpska",
+    "lat": 42.8764,
+    "lon": 18.4297,
+    "population": 31915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banovići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.406,
+    "lon": 18.5265,
+    "population": 31789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drvar",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.3739,
+    "lon": 16.3808,
+    "population": 31719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piskavica",
+    "region": "Republika Srpska",
+    "lat": 44.8672,
+    "lon": 16.9746,
+    "population": 31327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goražde",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.6679,
+    "lon": 18.9756,
+    "population": 31266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kladanj",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.2267,
+    "lon": 18.6927,
+    "population": 31093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zborište",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.1459,
+    "lon": 16.0173,
+    "population": 30882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Živinice",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4493,
+    "lon": 18.6498,
+    "population": 30671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Obarska",
+    "region": "Republika Srpska",
+    "lat": 44.8046,
+    "lon": 19.1618,
+    "population": 30612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drinovci",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.3545,
+    "lon": 17.3254,
+    "population": 30590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derventa",
+    "region": "Republika Srpska",
+    "lat": 44.9784,
+    "lon": 17.9078,
+    "population": 30408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hotonj",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8934,
+    "lon": 18.3775,
+    "population": 30153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sladna",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.729,
+    "lon": 18.4258,
+    "population": 30112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glamoč",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0458,
+    "lon": 16.8486,
+    "population": 29857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izačić",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.8749,
+    "lon": 15.7826,
+    "population": 29849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blagaj",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.2589,
+    "lon": 17.8881,
+    "population": 29235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubravica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4413,
+    "lon": 18.1188,
+    "population": 28993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukavica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.7645,
+    "lon": 18.1689,
+    "population": 28986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ključ",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5325,
+    "lon": 16.7768,
+    "population": 28962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gnojnica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6206,
+    "lon": 18.4468,
+    "population": 28943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svodna",
+    "region": "Republika Srpska",
+    "lat": 45.0377,
+    "lon": 16.5402,
+    "population": 28872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stolac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.084,
+    "lon": 17.9599,
+    "population": 28492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brka",
+    "region": "Brčko District",
+    "lat": 44.8284,
+    "lon": 18.7242,
+    "population": 28490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konjic",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.6513,
+    "lon": 17.9608,
+    "population": 28336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Grad",
+    "region": "Republika Srpska",
+    "lat": 45.0464,
+    "lon": 16.3778,
+    "population": 28050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zavidovići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4458,
+    "lon": 18.1497,
+    "population": 27947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dvorovi",
+    "region": "Republika Srpska",
+    "lat": 44.8075,
+    "lon": 19.26,
+    "population": 27935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čapljina",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.1214,
+    "lon": 17.6844,
+    "population": 27216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karadaglije",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5707,
+    "lon": 18.0177,
+    "population": 26804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Šeher",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5103,
+    "lon": 18.0262,
+    "population": 26687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laktaši",
+    "region": "Republika Srpska",
+    "lat": 44.9086,
+    "lon": 17.3013,
+    "population": 26251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otoka",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.96,
+    "lon": 16.1792,
+    "population": 26103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modriča",
+    "region": "Republika Srpska",
+    "lat": 44.9544,
+    "lon": 18.3036,
+    "population": 26050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodoč",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.3145,
+    "lon": 17.8029,
+    "population": 26001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Travnik",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.2264,
+    "lon": 17.6658,
+    "population": 25680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šerići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4667,
+    "lon": 18.5637,
+    "population": 25612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drežnica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.5289,
+    "lon": 17.2812,
+    "population": 25603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8801,
+    "lon": 18.0745,
+    "population": 25542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubinje",
+    "region": "Republika Srpska",
+    "lat": 42.9512,
+    "lon": 18.087,
+    "population": 25527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trebinje",
+    "region": "Republika Srpska",
+    "lat": 42.712,
+    "lon": 18.3436,
+    "population": 25517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bužim",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0536,
+    "lon": 16.0325,
+    "population": 25421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanski Most",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.7667,
+    "lon": 16.667,
+    "population": 25390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokolac",
+    "region": "Republika Srpska",
+    "lat": 43.9382,
+    "lon": 18.8008,
+    "population": 25192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hiseti",
+    "region": "Republika Srpska",
+    "lat": 44.7611,
+    "lon": 17.1794,
+    "population": 25185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuzla",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5384,
+    "lon": 18.6671,
+    "population": 25025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velagići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5562,
+    "lon": 16.7335,
+    "population": 24805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadžići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8222,
+    "lon": 18.2067,
+    "population": 24360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voljevac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.8787,
+    "lon": 17.6586,
+    "population": 24277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mejdan - Obilićevo",
+    "region": "Republika Srpska",
+    "lat": 44.7632,
+    "lon": 17.1901,
+    "population": 23841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maglajani",
+    "region": "Republika Srpska",
+    "lat": 44.9498,
+    "lon": 17.3501,
+    "population": 23614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrljin",
+    "region": "Republika Srpska",
+    "lat": 45.1511,
+    "lon": 16.4787,
+    "population": 23557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hercegovačko-Neretvanski Kanton",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.4572,
+    "lon": 17.8125,
+    "population": 23462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oštra Luka",
+    "region": "Republika Srpska",
+    "lat": 44.9972,
+    "lon": 18.5846,
+    "population": 23444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tržačka Raštela",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.976,
+    "lon": 15.7849,
+    "population": 23303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orahovica Donja",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6534,
+    "lon": 18.3695,
+    "population": 23109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vukovije Donje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4621,
+    "lon": 18.7494,
+    "population": 23080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fojnica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.9595,
+    "lon": 17.9029,
+    "population": 22823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kočerin",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.3901,
+    "lon": 17.4855,
+    "population": 22652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bihać",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.8169,
+    "lon": 15.8708,
+    "population": 22518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varoška Rijeka",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0894,
+    "lon": 16.0191,
+    "population": 22443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jezerski",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.9817,
+    "lon": 16.0945,
+    "population": 22422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knežica",
+    "region": "Republika Srpska",
+    "lat": 45.1055,
+    "lon": 16.6767,
+    "population": 21921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Priboj",
+    "region": "Republika Srpska",
+    "lat": 44.6023,
+    "lon": 18.9317,
+    "population": 21243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosanski Petrovac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5554,
+    "lon": 16.369,
+    "population": 21119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornja Koprivna",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0109,
+    "lon": 15.9549,
+    "population": 20934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kneževo",
+    "region": "Republika Srpska",
+    "lat": 44.4907,
+    "lon": 17.3816,
+    "population": 20747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Željezno Polje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.3987,
+    "lon": 17.941,
+    "population": 20391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotor Varoš",
+    "region": "Republika Srpska",
+    "lat": 44.6183,
+    "lon": 17.372,
+    "population": 19954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tešanjka",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6723,
+    "lon": 18.0111,
+    "population": 19893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skokovi",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0314,
+    "lon": 15.9144,
+    "population": 19805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podbrdo",
+    "region": "Republika Srpska",
+    "lat": 44.4419,
+    "lon": 17.0149,
+    "population": 19679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornja Breza",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0376,
+    "lon": 18.2456,
+    "population": 19387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Popovi",
+    "region": "Republika Srpska",
+    "lat": 44.7655,
+    "lon": 19.2867,
+    "population": 19270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kakanj",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.1331,
+    "lon": 18.1229,
+    "population": 18992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jablanica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.6603,
+    "lon": 17.7617,
+    "population": 18473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srebrenica",
+    "region": "Republika Srpska",
+    "lat": 44.1075,
+    "lon": 19.2967,
+    "population": 18441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornja Tuzla",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5566,
+    "lon": 18.7616,
+    "population": 18397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukavac",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5425,
+    "lon": 18.5262,
+    "population": 18083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pale",
+    "region": "Republika Srpska",
+    "lat": 43.8166,
+    "lon": 18.5695,
+    "population": 18060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crnići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.1316,
+    "lon": 17.8645,
+    "population": 17964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krupa na Vrbasu",
+    "region": "Republika Srpska",
+    "lat": 44.6187,
+    "lon": 17.1435,
+    "population": 17950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Divičani",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.3668,
+    "lon": 17.3268,
+    "population": 17901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marićka",
+    "region": "Republika Srpska",
+    "lat": 44.868,
+    "lon": 16.8551,
+    "population": 17824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kačuni",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0643,
+    "lon": 17.9389,
+    "population": 17382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jelah",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.654,
+    "lon": 17.959,
+    "population": 17312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornje Živinice",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4292,
+    "lon": 18.6167,
+    "population": 16912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sapna",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5038,
+    "lon": 18.9982,
+    "population": 16870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grude",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.3721,
+    "lon": 17.4145,
+    "population": 16428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barice",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5406,
+    "lon": 18.4807,
+    "population": 15861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malešići",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.7382,
+    "lon": 18.2734,
+    "population": 15562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donja Dubica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 45.0756,
+    "lon": 18.4102,
+    "population": 15508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrinje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0501,
+    "lon": 18.1196,
+    "population": 15103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomislavgrad",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.7185,
+    "lon": 17.2251,
+    "population": 14835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peći",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6314,
+    "lon": 16.7825,
+    "population": 14524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čitluk",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.2286,
+    "lon": 17.7008,
+    "population": 14512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prijedor",
+    "region": "Republika Srpska",
+    "lat": 44.9799,
+    "lon": 16.714,
+    "population": 14058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maglaj",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.5477,
+    "lon": 18.1,
+    "population": 13973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajić Polje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.9758,
+    "lon": 17.5275,
+    "population": 13944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatun",
+    "region": "Republika Srpska",
+    "lat": 44.8633,
+    "lon": 19.3393,
+    "population": 13836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanica",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.6135,
+    "lon": 16.6406,
+    "population": 13591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maslovare",
+    "region": "Republika Srpska",
+    "lat": 44.5659,
+    "lon": 17.5322,
+    "population": 13354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nevesinje",
+    "region": "Republika Srpska",
+    "lat": 43.2586,
+    "lon": 18.1133,
+    "population": 13344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gromiljak",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.9667,
+    "lon": 18.055,
+    "population": 13231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugljevik",
+    "region": "Republika Srpska",
+    "lat": 44.6636,
+    "lon": 19.0203,
+    "population": 13119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Istočni Mostar",
+    "region": "Republika Srpska",
+    "lat": 43.4206,
+    "lon": 18.0083,
+    "population": 12753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vitina",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.2375,
+    "lon": 17.4839,
+    "population": 12477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stjepan-Polje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.7163,
+    "lon": 18.2578,
+    "population": 12436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potoci",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 43.4095,
+    "lon": 17.8786,
+    "population": 12392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubrave Donje",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.4806,
+    "lon": 18.6971,
+    "population": 11904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olovo",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.1277,
+    "lon": 18.5806,
+    "population": 10967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugojno",
+    "region": "Federation of Bosnia and Herzegovina",
+    "lat": 44.0572,
+    "lon": 17.4508,
+    "population": 10180,
+    "timezone": "UTC"
+  }
+]

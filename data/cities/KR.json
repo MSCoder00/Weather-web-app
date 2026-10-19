@@ -1,0 +1,2474 @@
+[
+  {
+    "name": "Buk-gu",
+    "region": "Ulsan",
+    "lat": 35.5824,
+    "lon": 129.3605,
+    "population": 49953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulleung-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 37.5044,
+    "lon": 130.8608,
+    "population": 49691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gokseong-gun",
+    "region": "South Jeolla Province",
+    "lat": 35.2145,
+    "lon": 127.2628,
+    "population": 49668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheongju-si",
+    "region": "North Chungcheong Province",
+    "lat": 36.6372,
+    "lon": 127.4897,
+    "population": 49659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulju-gun",
+    "region": "Ulsan",
+    "lat": 35.5623,
+    "lon": 129.1269,
+    "population": 49135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sejong",
+    "region": "Sejong City",
+    "lat": 36.5924,
+    "lon": 127.2922,
+    "population": 48925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gongju-si",
+    "region": "South Chungcheong Province",
+    "lat": 36.5,
+    "lon": 127.0833,
+    "population": 48823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ungsang",
+    "region": "South Gyeongsang Province",
+    "lat": 35.4061,
+    "lon": 129.1686,
+    "population": 48820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongdong-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.2166,
+    "lon": 127.7937,
+    "population": 48674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osan-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.1623,
+    "lon": 127.0525,
+    "population": 48627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokcho",
+    "region": "Gangwon Province",
+    "lat": 38.207,
+    "lon": 128.5918,
+    "population": 48621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeongeup",
+    "region": "North Jeolla Province",
+    "lat": 35.6,
+    "lon": 126.917,
+    "population": 48611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asan",
+    "region": "South Chungcheong Province",
+    "lat": 36.7836,
+    "lon": 127.0042,
+    "population": 48554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gapyeong",
+    "region": "Gyeonggi Province",
+    "lat": 37.831,
+    "lon": 127.5106,
+    "population": 48415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "T’aebaek",
+    "region": "Gangwon Province",
+    "lat": 37.1759,
+    "lon": 128.9889,
+    "population": 48378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangju",
+    "region": "Gyeonggi Province",
+    "lat": 37.41,
+    "lon": 127.2572,
+    "population": 48286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeonsu-gu",
+    "region": "Incheon",
+    "lat": 37.4191,
+    "lon": 126.6649,
+    "population": 48075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guri-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.5986,
+    "lon": 127.1394,
+    "population": 47824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinzan",
+    "region": "South Chungcheong Province",
+    "lat": 36.1031,
+    "lon": 127.4889,
+    "population": 47626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunsan",
+    "region": "North Jeolla Province",
+    "lat": 35.9786,
+    "lon": 126.7114,
+    "population": 47270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimje",
+    "region": "North Jeolla Province",
+    "lat": 35.8017,
+    "lon": 126.8889,
+    "population": 47225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ansan-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.3236,
+    "lon": 126.8219,
+    "population": 47170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jangseong-gun",
+    "region": "South Jeolla Province",
+    "lat": 35.3273,
+    "lon": 126.7682,
+    "population": 46931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongdeok-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.4813,
+    "lon": 129.3108,
+    "population": 46905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taebaek-si",
+    "region": "Gangwon Province",
+    "lat": 37.1652,
+    "lon": 128.9857,
+    "population": 46852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunwi-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.17,
+    "lon": 128.6471,
+    "population": 46715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwado",
+    "region": "Gyeonggi Province",
+    "lat": 37.6525,
+    "lon": 127.3075,
+    "population": 46582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suyeong-gu",
+    "region": "Busan",
+    "lat": 35.1563,
+    "lon": 129.1125,
+    "population": 46433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyeongtaek",
+    "region": "Gyeonggi Province",
+    "lat": 37.0137,
+    "lon": 126.9875,
+    "population": 46336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimhae-si",
+    "region": "South Gyeongsang Province",
+    "lat": 35.25,
+    "lon": 128.8667,
+    "population": 46084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeju-si",
+    "region": "Jeju",
+    "lat": 33.4558,
+    "lon": 126.5393,
+    "population": 45975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyeongchang-gun",
+    "region": "Gangwon Province",
+    "lat": 37.3682,
+    "lon": 128.3955,
+    "population": 45974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyeryong-si",
+    "region": "South Chungcheong Province",
+    "lat": 36.293,
+    "lon": 127.2258,
+    "population": 45968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangp'yŏng",
+    "region": "Gyeonggi Province",
+    "lat": 37.4897,
+    "lon": 127.4906,
+    "population": 45788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sacheon-si",
+    "region": "South Gyeongsang Province",
+    "lat": 35.0038,
+    "lon": 128.0686,
+    "population": 45614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gijang-gun",
+    "region": "Busan",
+    "lat": 35.2972,
+    "lon": 129.2008,
+    "population": 45535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokpo-si",
+    "region": "South Jeolla Province",
+    "lat": 34.8123,
+    "lon": 126.3918,
+    "population": 45413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongam",
+    "region": "South Jeolla Province",
+    "lat": 34.8006,
+    "lon": 126.6967,
+    "population": 45408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongch’ŏn",
+    "region": "Gangwon Province",
+    "lat": 37.6918,
+    "lon": 127.8857,
+    "population": 45349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaigeturi",
+    "region": "Jeju",
+    "lat": 33.4644,
+    "lon": 126.3183,
+    "population": 45264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwangyang",
+    "region": "South Jeolla Province",
+    "lat": 34.9753,
+    "lon": 127.5892,
+    "population": 45098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uiseong-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.3612,
+    "lon": 128.6152,
+    "population": 45060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunwi",
+    "region": "North Gyeongsang Province",
+    "lat": 36.2347,
+    "lon": 128.5728,
+    "population": 44964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namwon",
+    "region": "North Jeolla Province",
+    "lat": 35.4482,
+    "lon": 127.3801,
+    "population": 44915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imsil",
+    "region": "North Jeolla Province",
+    "lat": 35.6131,
+    "lon": 127.2794,
+    "population": 44576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daejeon",
+    "region": "Daejeon",
+    "lat": 36.3491,
+    "lon": 127.3849,
+    "population": 44389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wando-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.3118,
+    "lon": 126.7385,
+    "population": 44243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongducheon",
+    "region": "Gyeonggi Province",
+    "lat": 37.9189,
+    "lon": 127.069,
+    "population": 43968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boryeong-si",
+    "region": "South Chungcheong Province",
+    "lat": 36.3565,
+    "lon": 126.5944,
+    "population": 43531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naju-si",
+    "region": "South Jeolla Province",
+    "lat": 35.0568,
+    "lon": 126.6736,
+    "population": 43422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neietsu",
+    "region": "Gangwon Province",
+    "lat": 37.1845,
+    "lon": 128.4682,
+    "population": 43179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uljin-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.9197,
+    "lon": 129.3197,
+    "population": 43139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanju",
+    "region": "North Jeolla Province",
+    "lat": 35.8451,
+    "lon": 127.1475,
+    "population": 43090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naju",
+    "region": "South Jeolla Province",
+    "lat": 35.0292,
+    "lon": 126.7175,
+    "population": 43041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geumsan-gun",
+    "region": "South Chungcheong Province",
+    "lat": 36.1338,
+    "lon": 127.4806,
+    "population": 42677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yesan",
+    "region": "South Chungcheong Province",
+    "lat": 36.6776,
+    "lon": 126.8427,
+    "population": 42602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jungnang-gu",
+    "region": "Seoul",
+    "lat": 37.602,
+    "lon": 127.1046,
+    "population": 42466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paju-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.7595,
+    "lon": 126.7777,
+    "population": 42297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangnam-gu",
+    "region": "Seoul",
+    "lat": 37.4951,
+    "lon": 127.0628,
+    "population": 42132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siheung",
+    "region": "Gyeonggi Province",
+    "lat": 37.3907,
+    "lon": 126.7888,
+    "population": 42012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namyangju",
+    "region": "Gyeonggi Province",
+    "lat": 37.6367,
+    "lon": 127.2142,
+    "population": 41991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changwon-si",
+    "region": "South Gyeongsang Province",
+    "lat": 35.2753,
+    "lon": 128.6515,
+    "population": 41788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puan",
+    "region": "North Jeolla Province",
+    "lat": 35.7281,
+    "lon": 126.7319,
+    "population": 41665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haeundae-gu",
+    "region": "Busan",
+    "lat": 35.1666,
+    "lon": 129.1679,
+    "population": 41545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seoul",
+    "region": "Seoul",
+    "lat": 37.566,
+    "lon": 126.9784,
+    "population": 41490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geoje-si",
+    "region": "South Gyeongsang Province",
+    "lat": 34.9,
+    "lon": 128.6667,
+    "population": 41476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyeongchang",
+    "region": "Gangwon Province",
+    "lat": 37.3703,
+    "lon": 128.3931,
+    "population": 41464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinhyeon",
+    "region": "South Gyeongsang Province",
+    "lat": 34.8825,
+    "lon": 128.6267,
+    "population": 41333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uiryeong-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.3923,
+    "lon": 128.2692,
+    "population": 41077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jangsu-gun",
+    "region": "North Jeolla Province",
+    "lat": 35.625,
+    "lon": 127.5636,
+    "population": 41028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheonan-si",
+    "region": "South Chungcheong Province",
+    "lat": 36.8049,
+    "lon": 127.1943,
+    "population": 40908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurye",
+    "region": "South Jeolla Province",
+    "lat": 35.2094,
+    "lon": 127.4644,
+    "population": 40888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pohang",
+    "region": "North Gyeongsang Province",
+    "lat": 36.0292,
+    "lon": 129.3648,
+    "population": 40797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dong-gu",
+    "region": "Ulsan",
+    "lat": 35.5047,
+    "lon": 129.4186,
+    "population": 40711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jongno-gu",
+    "region": "Seoul",
+    "lat": 37.5729,
+    "lon": 126.9793,
+    "population": 40681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jung-gu",
+    "region": "Daegu",
+    "lat": 35.8668,
+    "lon": 128.5954,
+    "population": 40613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongjak-gu",
+    "region": "Seoul",
+    "lat": 37.5006,
+    "lon": 126.9515,
+    "population": 40514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jangheung-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.7056,
+    "lon": 126.949,
+    "population": 40455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyeongsan-si",
+    "region": "North Gyeongsang Province",
+    "lat": 35.8333,
+    "lon": 128.8,
+    "population": 40433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheorwon-gun",
+    "region": "Gangwon Province",
+    "lat": 38.2439,
+    "lon": 127.4452,
+    "population": 40268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangneung-si",
+    "region": "Gangwon Province",
+    "lat": 37.7519,
+    "lon": 128.8783,
+    "population": 40024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taesal-li",
+    "region": "South Chungcheong Province",
+    "lat": 36.9714,
+    "lon": 126.4542,
+    "population": 39830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanam-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.5389,
+    "lon": 127.2125,
+    "population": 39780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangmyeong-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.4444,
+    "lon": 126.865,
+    "population": 39653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yongsan-gu",
+    "region": "Seoul",
+    "lat": 37.5339,
+    "lon": 126.9775,
+    "population": 39594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangyang-si",
+    "region": "South Jeolla Province",
+    "lat": 35.0401,
+    "lon": 127.6095,
+    "population": 39551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuncheon",
+    "region": "Gangwon Province",
+    "lat": 37.8747,
+    "lon": 127.7342,
+    "population": 39493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangneung",
+    "region": "Gangwon Province",
+    "lat": 37.7527,
+    "lon": 128.8724,
+    "population": 39399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangju",
+    "region": "Gwangju",
+    "lat": 35.1547,
+    "lon": 126.9156,
+    "population": 39305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunpo-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.3426,
+    "lon": 126.9215,
+    "population": 39050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangdong-gu",
+    "region": "Seoul",
+    "lat": 37.5527,
+    "lon": 127.1455,
+    "population": 38907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nam-gu",
+    "region": "Ulsan",
+    "lat": 35.5438,
+    "lon": 129.3292,
+    "population": 38839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damyang-gun",
+    "region": "South Jeolla Province",
+    "lat": 35.3398,
+    "lon": 126.9912,
+    "population": 38488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadong-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.1363,
+    "lon": 127.7729,
+    "population": 38300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeongeup-si",
+    "region": "North Jeolla Province",
+    "lat": 35.6,
+    "lon": 126.9167,
+    "population": 38124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inje-gun",
+    "region": "Gangwon Province",
+    "lat": 38.0442,
+    "lon": 128.2788,
+    "population": 37996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saha-gu",
+    "region": "Busan",
+    "lat": 35.0855,
+    "lon": 128.9872,
+    "population": 37980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeoju-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.2956,
+    "lon": 127.6367,
+    "population": 37902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santyoku",
+    "region": "Gangwon Province",
+    "lat": 37.4406,
+    "lon": 129.1708,
+    "population": 37708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seodaemun-gu",
+    "region": "Seoul",
+    "lat": 37.5781,
+    "lon": 126.9351,
+    "population": 37703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dong-gu",
+    "region": "Daegu",
+    "lat": 35.8857,
+    "lon": 128.633,
+    "population": 37626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seongnam-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.4188,
+    "lon": 127.1288,
+    "population": 37587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jincheon-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.8828,
+    "lon": 127.4277,
+    "population": 37435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeju City",
+    "region": "Jeju",
+    "lat": 33.5097,
+    "lon": 126.5219,
+    "population": 37317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asan-si",
+    "region": "South Chungcheong Province",
+    "lat": 36.8079,
+    "lon": 126.9777,
+    "population": 37309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwasun",
+    "region": "South Jeolla Province",
+    "lat": 35.0613,
+    "lon": 126.9875,
+    "population": 37134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hapcheon-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.5741,
+    "lon": 128.1384,
+    "population": 36213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taean-gun",
+    "region": "South Chungcheong Province",
+    "lat": 36.7004,
+    "lon": 126.2839,
+    "population": 36120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andong-si",
+    "region": "North Gyeongsang Province",
+    "lat": 36.5667,
+    "lon": 128.7167,
+    "population": 35924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daegu",
+    "region": "Daegu",
+    "lat": 35.8703,
+    "lon": 128.5911,
+    "population": 35871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangcheon-gu",
+    "region": "Seoul",
+    "lat": 37.5216,
+    "lon": 126.8583,
+    "population": 35685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chungju-si",
+    "region": "North Chungcheong Province",
+    "lat": 37.0179,
+    "lon": 127.8771,
+    "population": 35586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangyang-gun",
+    "region": "Gangwon Province",
+    "lat": 38.0622,
+    "lon": 128.6147,
+    "population": 35522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gongju",
+    "region": "South Chungcheong Province",
+    "lat": 36.4556,
+    "lon": 127.1247,
+    "population": 35511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yesan-gun",
+    "region": "South Chungcheong Province",
+    "lat": 36.6822,
+    "lon": 126.7959,
+    "population": 35437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koesan",
+    "region": "North Chungcheong Province",
+    "lat": 36.8108,
+    "lon": 127.7947,
+    "population": 35308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuncheon-si",
+    "region": "Gangwon Province",
+    "lat": 37.8805,
+    "lon": 127.7278,
+    "population": 35180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sasang-gu",
+    "region": "Busan",
+    "lat": 35.1448,
+    "lon": 128.9799,
+    "population": 34856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haenam",
+    "region": "South Jeolla Province",
+    "lat": 34.5711,
+    "lon": 126.5989,
+    "population": 34656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanggu-gun",
+    "region": "Gangwon Province",
+    "lat": 38.1016,
+    "lon": 127.9856,
+    "population": 34498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheongdo-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 35.6717,
+    "lon": 128.7851,
+    "population": 34080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seo-gu",
+    "region": "Busan",
+    "lat": 35.1253,
+    "lon": 129.0195,
+    "population": 33697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jenzan",
+    "region": "North Gyeongsang Province",
+    "lat": 36.2408,
+    "lon": 128.2975,
+    "population": 33658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seocho-gu",
+    "region": "Seoul",
+    "lat": 37.4945,
+    "lon": 127.0109,
+    "population": 33636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heunghae",
+    "region": "North Gyeongsang Province",
+    "lat": 36.1095,
+    "lon": 129.3452,
+    "population": 33612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hampyeong-gun",
+    "region": "South Jeolla Province",
+    "lat": 35.1499,
+    "lon": 126.5334,
+    "population": 33575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yongsan-dong",
+    "region": "Seoul",
+    "lat": 37.5445,
+    "lon": 126.9837,
+    "population": 33073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seo-gu",
+    "region": "Daegu",
+    "lat": 35.8747,
+    "lon": 128.5511,
+    "population": 33028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeongseon-gun",
+    "region": "Gangwon Province",
+    "lat": 37.3891,
+    "lon": 128.73,
+    "population": 32947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokpo",
+    "region": "South Jeolla Province",
+    "lat": 34.8128,
+    "lon": 126.3918,
+    "population": 32876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongju-si",
+    "region": "North Gyeongsang Province",
+    "lat": 36.8746,
+    "lon": 128.5863,
+    "population": 32706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buan-gun",
+    "region": "North Jeolla Province",
+    "lat": 35.7,
+    "lon": 126.6667,
+    "population": 32677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naesŏ",
+    "region": "South Gyeongsang Province",
+    "lat": 35.2497,
+    "lon": 128.52,
+    "population": 32639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nonsan",
+    "region": "South Chungcheong Province",
+    "lat": 36.2039,
+    "lon": 127.0847,
+    "population": 32572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwaseong-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.2068,
+    "lon": 126.8169,
+    "population": 32571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geochang-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.7303,
+    "lon": 127.9015,
+    "population": 32483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwacheon",
+    "region": "Gangwon Province",
+    "lat": 38.1071,
+    "lon": 127.7063,
+    "population": 32279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongdeungpo-gu",
+    "region": "Seoul",
+    "lat": 37.5261,
+    "lon": 126.9031,
+    "population": 32200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eisen",
+    "region": "North Gyeongsang Province",
+    "lat": 36.8217,
+    "lon": 128.6308,
+    "population": 32092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangju-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.8173,
+    "lon": 127.046,
+    "population": 31834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boeun-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.4949,
+    "lon": 127.7287,
+    "population": 31787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gijang",
+    "region": "Busan",
+    "lat": 35.2442,
+    "lon": 129.2139,
+    "population": 31719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andong",
+    "region": "North Gyeongsang Province",
+    "lat": 36.5664,
+    "lon": 128.7227,
+    "population": 31314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayang",
+    "region": "North Gyeongsang Province",
+    "lat": 35.9133,
+    "lon": 128.82,
+    "population": 31228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalseong-gun",
+    "region": "Daegu",
+    "lat": 35.7747,
+    "lon": 128.4296,
+    "population": 31226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangju",
+    "region": "North Gyeongsang Province",
+    "lat": 36.4153,
+    "lon": 128.1606,
+    "population": 31214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anyang-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.3925,
+    "lon": 126.9269,
+    "population": 31058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goheung-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.5833,
+    "lon": 127.3333,
+    "population": 31050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyosai",
+    "region": "South Gyeongsang Province",
+    "lat": 34.8503,
+    "lon": 128.5886,
+    "population": 30700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobong-gu",
+    "region": "Seoul",
+    "lat": 37.6507,
+    "lon": 127.0301,
+    "population": 30681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seo-gu",
+    "region": "Daejeon",
+    "lat": 36.2721,
+    "lon": 127.331,
+    "population": 30622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gurye-gun",
+    "region": "South Jeolla Province",
+    "lat": 35.2362,
+    "lon": 127.5013,
+    "population": 30573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goyang-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.6564,
+    "lon": 126.835,
+    "population": 30240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seongju-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 35.9189,
+    "lon": 128.2884,
+    "population": 30174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namyangju-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.6522,
+    "lon": 127.2401,
+    "population": 30163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoengseong-gun",
+    "region": "Gangwon Province",
+    "lat": 37.4882,
+    "lon": 127.9857,
+    "population": 30158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwawŏn",
+    "region": "Daegu",
+    "lat": 35.8017,
+    "lon": 128.5008,
+    "population": 30022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goesan-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.7718,
+    "lon": 127.8143,
+    "population": 29895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongseong-gun",
+    "region": "South Chungcheong Province",
+    "lat": 36.5671,
+    "lon": 126.6263,
+    "population": 29762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheongsong gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.4335,
+    "lon": 129.057,
+    "population": 29456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buk-gu",
+    "region": "Busan",
+    "lat": 35.1972,
+    "lon": 128.9913,
+    "population": 29368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalseo-gu",
+    "region": "Daegu",
+    "lat": 35.8257,
+    "lon": 128.524,
+    "population": 29323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bupyeong-gu",
+    "region": "Incheon",
+    "lat": 37.4972,
+    "lon": 126.7111,
+    "population": 28977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wŏnju",
+    "region": "Gangwon Province",
+    "lat": 37.3514,
+    "lon": 127.9453,
+    "population": 28789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongyang-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.6959,
+    "lon": 129.142,
+    "population": 28779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Incheon",
+    "region": "Incheon",
+    "lat": 37.4565,
+    "lon": 126.7052,
+    "population": 28718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanggu",
+    "region": "Gangwon Province",
+    "lat": 38.1058,
+    "lon": 127.9894,
+    "population": 28638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masan",
+    "region": "Gwangju",
+    "lat": 35.1272,
+    "lon": 126.8315,
+    "population": 28415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangju",
+    "region": "Gyeonggi Province",
+    "lat": 37.8331,
+    "lon": 127.0617,
+    "population": 28391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seosan-si",
+    "region": "South Chungcheong Province",
+    "lat": 36.7852,
+    "lon": 126.4657,
+    "population": 28256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangju-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.4033,
+    "lon": 127.2986,
+    "population": 28178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanam",
+    "region": "Gyeonggi Province",
+    "lat": 37.54,
+    "lon": 127.2056,
+    "population": 28034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nangen",
+    "region": "North Jeolla Province",
+    "lat": 35.41,
+    "lon": 127.3858,
+    "population": 27981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonghwa-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.8895,
+    "lon": 128.7357,
+    "population": 27980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nam-gu",
+    "region": "Busan",
+    "lat": 35.1365,
+    "lon": 129.0827,
+    "population": 27853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongnae-gu",
+    "region": "Busan",
+    "lat": 35.2045,
+    "lon": 129.078,
+    "population": 27816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimcheon-si",
+    "region": "North Gyeongsang Province",
+    "lat": 36.1448,
+    "lon": 128.1116,
+    "population": 27812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songpa-gu",
+    "region": "Seoul",
+    "lat": 37.5021,
+    "lon": 127.1111,
+    "population": 27657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goryeong-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 35.7496,
+    "lon": 128.2971,
+    "population": 27510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimpo-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.6364,
+    "lon": 126.6927,
+    "population": 27436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangjin-gu",
+    "region": "Seoul",
+    "lat": 37.5391,
+    "lon": 127.0837,
+    "population": 27372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongcheon-gun",
+    "region": "Gangwon Province",
+    "lat": 37.7606,
+    "lon": 128.0282,
+    "population": 27361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boseong-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.8462,
+    "lon": 127.2219,
+    "population": 27211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangpyeong-gun",
+    "region": "Gyeonggi Province",
+    "lat": 37.4888,
+    "lon": 127.4922,
+    "population": 27067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uijeongbu-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.7386,
+    "lon": 127.0477,
+    "population": 26999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eunpyeong-gu",
+    "region": "Seoul",
+    "lat": 37.6185,
+    "lon": 126.9278,
+    "population": 26897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buyeo",
+    "region": "South Chungcheong Province",
+    "lat": 36.2747,
+    "lon": 126.9091,
+    "population": 26896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jecheon-si",
+    "region": "North Chungcheong Province",
+    "lat": 37.0621,
+    "lon": 128.1406,
+    "population": 26604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donghae-si",
+    "region": "Gangwon Province",
+    "lat": 37.5234,
+    "lon": 129.1136,
+    "population": 26558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeonggwang-gun",
+    "region": "South Jeolla Province",
+    "lat": 35.2871,
+    "lon": 126.4362,
+    "population": 26509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jindo-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.4196,
+    "lon": 126.226,
+    "population": 26429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okcheon",
+    "region": "North Chungcheong Province",
+    "lat": 36.3012,
+    "lon": 127.568,
+    "population": 26243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imsil-gun",
+    "region": "North Jeolla Province",
+    "lat": 35.6216,
+    "lon": 127.2319,
+    "population": 26238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seosan",
+    "region": "South Chungcheong Province",
+    "lat": 36.7817,
+    "lon": 126.4522,
+    "population": 26059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwacheon-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.4341,
+    "lon": 126.9999,
+    "population": 25762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boryeong",
+    "region": "South Chungcheong Province",
+    "lat": 36.3493,
+    "lon": 126.5977,
+    "population": 25759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okcheon-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.2664,
+    "lon": 127.5832,
+    "population": 25709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koch'ang",
+    "region": "North Jeolla Province",
+    "lat": 35.4333,
+    "lon": 126.7,
+    "population": 25691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheongyang-gun",
+    "region": "South Chungcheong Province",
+    "lat": 36.4168,
+    "lon": 126.7942,
+    "population": 25553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongam-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.7979,
+    "lon": 126.6265,
+    "population": 25461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seogwipo",
+    "region": "Jeju",
+    "lat": 33.2533,
+    "lon": 126.5618,
+    "population": 25364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muan-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.9564,
+    "lon": 126.4404,
+    "population": 25250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eumseong-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.926,
+    "lon": 127.6807,
+    "population": 25151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gapyeong-gun",
+    "region": "Gyeonggi Province",
+    "lat": 37.8308,
+    "lon": 127.5152,
+    "population": 25130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinju",
+    "region": "South Gyeongsang Province",
+    "lat": 35.1928,
+    "lon": 128.0847,
+    "population": 24979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwanak-gu",
+    "region": "Seoul",
+    "lat": 37.4788,
+    "lon": 126.9523,
+    "population": 24959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongcheon-si",
+    "region": "North Gyeongsang Province",
+    "lat": 36,
+    "lon": 129,
+    "population": 24941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangsan-gu",
+    "region": "Gwangju",
+    "lat": 35.1616,
+    "lon": 126.8081,
+    "population": 24860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangsan",
+    "region": "South Gyeongsang Province",
+    "lat": 35.342,
+    "lon": 129.0336,
+    "population": 24308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimhae",
+    "region": "South Gyeongsang Province",
+    "lat": 35.2342,
+    "lon": 128.8811,
+    "population": 24249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeonil",
+    "region": "North Gyeongsang Province",
+    "lat": 35.9953,
+    "lon": 129.3516,
+    "population": 24245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namhae-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 34.8043,
+    "lon": 127.9271,
+    "population": 24228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeungpyeong-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.7838,
+    "lon": 127.5986,
+    "population": 24224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangjin",
+    "region": "South Chungcheong Province",
+    "lat": 36.8944,
+    "lon": 126.6297,
+    "population": 24165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeonggwang",
+    "region": "South Jeolla Province",
+    "lat": 35.2781,
+    "lon": 126.5118,
+    "population": 23741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongdaemun-gu",
+    "region": "Seoul",
+    "lat": 37.5819,
+    "lon": 127.0541,
+    "population": 23719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nonsan-si",
+    "region": "South Chungcheong Province",
+    "lat": 36.1977,
+    "lon": 127.1214,
+    "population": 23259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seongdong-gu",
+    "region": "Seoul",
+    "lat": 37.5478,
+    "lon": 127.0246,
+    "population": 23217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osan",
+    "region": "Gyeonggi Province",
+    "lat": 37.1522,
+    "lon": 127.0706,
+    "population": 23143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goseong-gun",
+    "region": "Gangwon Province",
+    "lat": 38.3794,
+    "lon": 128.4675,
+    "population": 22924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seongbuk-gu",
+    "region": "Seoul",
+    "lat": 37.6027,
+    "lon": 127.0145,
+    "population": 22872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danyang-gun",
+    "region": "North Chungcheong Province",
+    "lat": 36.9862,
+    "lon": 128.3695,
+    "population": 22741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iksan",
+    "region": "North Jeolla Province",
+    "lat": 35.9439,
+    "lon": 126.9544,
+    "population": 22617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mungyeong",
+    "region": "North Gyeongsang Province",
+    "lat": 36.5946,
+    "lon": 128.1995,
+    "population": 22417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suwon",
+    "region": "Gyeonggi Province",
+    "lat": 37.2911,
+    "lon": 127.0089,
+    "population": 22356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangseo-gu",
+    "region": "Busan",
+    "lat": 35.1593,
+    "lon": 128.933,
+    "population": 22149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulsan",
+    "region": "Ulsan",
+    "lat": 35.5372,
+    "lon": 129.3167,
+    "population": 21769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bucheon-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.5044,
+    "lon": 126.7662,
+    "population": 21676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waegwan",
+    "region": "North Gyeongsang Province",
+    "lat": 35.9925,
+    "lon": 128.3979,
+    "population": 21509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongseong",
+    "region": "South Chungcheong Province",
+    "lat": 36.6009,
+    "lon": 126.665,
+    "population": 21391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changsu",
+    "region": "North Jeolla Province",
+    "lat": 35.6484,
+    "lon": 127.5152,
+    "population": 21367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goseong-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.0148,
+    "lon": 128.2824,
+    "population": 21273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suncheon",
+    "region": "South Jeolla Province",
+    "lat": 34.9505,
+    "lon": 127.4878,
+    "population": 21265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changnyeong-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.5082,
+    "lon": 128.4902,
+    "population": 21191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinch'ŏn",
+    "region": "North Chungcheong Province",
+    "lat": 36.8567,
+    "lon": 127.4433,
+    "population": 21118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miryang",
+    "region": "South Gyeongsang Province",
+    "lat": 35.4933,
+    "lon": 128.7489,
+    "population": 21056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geumjeong-gu",
+    "region": "Busan",
+    "lat": 35.2586,
+    "lon": 129.0901,
+    "population": 20916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nowon-gu",
+    "region": "Seoul",
+    "lat": 37.6604,
+    "lon": 127.0672,
+    "population": 20776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokcho-si",
+    "region": "Gangwon Province",
+    "lat": 38.2073,
+    "lon": 128.5927,
+    "population": 20605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sintansin",
+    "region": "Daejeon",
+    "lat": 36.4536,
+    "lon": 127.4311,
+    "population": 20399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mapo-gu",
+    "region": "Seoul",
+    "lat": 37.5544,
+    "lon": 126.9093,
+    "population": 20378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongdong",
+    "region": "North Chungcheong Province",
+    "lat": 36.175,
+    "lon": 127.7764,
+    "population": 20164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seonghwan",
+    "region": "South Chungcheong Province",
+    "lat": 36.9156,
+    "lon": 127.1314,
+    "population": 19619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangseo-gu",
+    "region": "Seoul",
+    "lat": 37.5623,
+    "lon": 126.8162,
+    "population": 19429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocheon-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.8937,
+    "lon": 127.2003,
+    "population": 19291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuseong-gu",
+    "region": "Daejeon",
+    "lat": 36.3668,
+    "lon": 127.327,
+    "population": 19285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Michuhol",
+    "region": "Incheon",
+    "lat": 37.4636,
+    "lon": 126.65,
+    "population": 18909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suncheon-si",
+    "region": "South Jeolla Province",
+    "lat": 34.9716,
+    "lon": 127.461,
+    "population": 18892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwacheon-gun",
+    "region": "Gangwon Province",
+    "lat": 38.1421,
+    "lon": 127.6762,
+    "population": 18877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wabu",
+    "region": "Gyeonggi Province",
+    "lat": 37.5897,
+    "lon": 127.2203,
+    "population": 18765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pohang-si",
+    "region": "North Gyeongsang Province",
+    "lat": 36.0833,
+    "lon": 129.3667,
+    "population": 18288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeongdo-gu",
+    "region": "Busan",
+    "lat": 35.0785,
+    "lon": 129.0648,
+    "population": 18181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beolgyo",
+    "region": "South Jeolla Province",
+    "lat": 34.849,
+    "lon": 127.3405,
+    "population": 18151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iksan-si",
+    "region": "North Jeolla Province",
+    "lat": 36.0372,
+    "lon": 126.989,
+    "population": 18099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeoncheon-gun",
+    "region": "Gyeonggi Province",
+    "lat": 38.094,
+    "lon": 127.0758,
+    "population": 17796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muju-gun",
+    "region": "North Jeolla Province",
+    "lat": 35.9317,
+    "lon": 127.7112,
+    "population": 17694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeonju-si",
+    "region": "North Jeolla Province",
+    "lat": 35.8333,
+    "lon": 127.15,
+    "population": 17657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinan-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.8311,
+    "lon": 126.0987,
+    "population": 17315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeonju",
+    "region": "North Jeolla Province",
+    "lat": 35.8219,
+    "lon": 127.1489,
+    "population": 17131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yongin-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.2383,
+    "lon": 127.1779,
+    "population": 17109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wonju-si",
+    "region": "Gangwon Province",
+    "lat": 37.321,
+    "lon": 127.9213,
+    "population": 17037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buyeo-gun",
+    "region": "South Chungcheong Province",
+    "lat": 36.2626,
+    "lon": 126.858,
+    "population": 16896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mungyeong-si",
+    "region": "North Gyeongsang Province",
+    "lat": 36.5876,
+    "lon": 128.1862,
+    "population": 16794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changnyeong",
+    "region": "South Gyeongsang Province",
+    "lat": 35.5414,
+    "lon": 128.4951,
+    "population": 16775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosong",
+    "region": "Gangwon Province",
+    "lat": 38.3788,
+    "lon": 128.4676,
+    "population": 16322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwangmyŏng",
+    "region": "Gyeonggi Province",
+    "lat": 37.4772,
+    "lon": 126.8664,
+    "population": 16167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwangyang",
+    "region": "South Jeolla Province",
+    "lat": 34.9414,
+    "lon": 127.6957,
+    "population": 16101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pubal",
+    "region": "Gyeonggi Province",
+    "lat": 37.2917,
+    "lon": 127.5078,
+    "population": 15958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunsan-si",
+    "region": "North Jeolla Province",
+    "lat": 35.9358,
+    "lon": 126.6834,
+    "population": 15924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miryang-si",
+    "region": "South Gyeongsang Province",
+    "lat": 35.4975,
+    "lon": 128.7869,
+    "population": 15887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Icheon-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.2764,
+    "lon": 127.4369,
+    "population": 15307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suseong-gu",
+    "region": "Daegu",
+    "lat": 35.8591,
+    "lon": 128.6262,
+    "population": 15270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinju-si",
+    "region": "South Gyeongsang Province",
+    "lat": 35.2045,
+    "lon": 128.1241,
+    "population": 15269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seocheon-gun",
+    "region": "South Chungcheong Province",
+    "lat": 36.106,
+    "lon": 126.6972,
+    "population": 14866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jung-gu",
+    "region": "Ulsan",
+    "lat": 35.5684,
+    "lon": 129.3323,
+    "population": 14817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinan",
+    "region": "South Jeolla Province",
+    "lat": 34.8262,
+    "lon": 126.1086,
+    "population": 14775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samcheok-si",
+    "region": "Gangwon Province",
+    "lat": 37.4501,
+    "lon": 129.1663,
+    "population": 14743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinan-gun",
+    "region": "North Jeolla Province",
+    "lat": 35.8047,
+    "lon": 127.4758,
+    "population": 14531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheongsong-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.4329,
+    "lon": 129.0516,
+    "population": 14435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gochang-gun",
+    "region": "North Jeolla Province",
+    "lat": 35.4348,
+    "lon": 126.7005,
+    "population": 14401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changwon",
+    "region": "South Gyeongsang Province",
+    "lat": 35.2281,
+    "lon": 128.6811,
+    "population": 13893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimje-si",
+    "region": "North Jeolla Province",
+    "lat": 35.807,
+    "lon": 126.9076,
+    "population": 13892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonghae",
+    "region": "Gangwon Province",
+    "lat": 37.5439,
+    "lon": 129.1069,
+    "population": 13888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangbuk-gu",
+    "region": "Seoul",
+    "lat": 37.6349,
+    "lon": 127.0202,
+    "population": 13839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haenam-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.5405,
+    "lon": 126.5187,
+    "population": 13784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sancheong-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.3663,
+    "lon": 127.8706,
+    "population": 13353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geumcheon-gu",
+    "region": "Seoul",
+    "lat": 37.4749,
+    "lon": 126.8911,
+    "population": 13330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haman-gun",
+    "region": "South Gyeongsang Province",
+    "lat": 35.2912,
+    "lon": 128.4297,
+    "population": 13069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimcheon",
+    "region": "North Gyeongsang Province",
+    "lat": 36.1218,
+    "lon": 128.1198,
+    "population": 13043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyeongju",
+    "region": "North Gyeongsang Province",
+    "lat": 35.8428,
+    "lon": 129.2117,
+    "population": 12773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goseong",
+    "region": "South Gyeongsang Province",
+    "lat": 34.9763,
+    "lon": 128.3236,
+    "population": 12257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwasun-gun",
+    "region": "South Jeolla Province",
+    "lat": 35.0047,
+    "lon": 127.0265,
+    "population": 12223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muan",
+    "region": "South Jeolla Province",
+    "lat": 34.9901,
+    "lon": 126.479,
+    "population": 12016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yŏnmu",
+    "region": "South Chungcheong Province",
+    "lat": 36.1294,
+    "lon": 127.1,
+    "population": 11937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uiwang-si",
+    "region": "Gyeonggi Province",
+    "lat": 37.345,
+    "lon": 126.9758,
+    "population": 11855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilgok-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.0151,
+    "lon": 128.4614,
+    "population": 11689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munsan",
+    "region": "Gyeonggi Province",
+    "lat": 37.8594,
+    "lon": 126.785,
+    "population": 11631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gumi-si",
+    "region": "North Gyeongsang Province",
+    "lat": 36.2101,
+    "lon": 128.3544,
+    "population": 11443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheonan",
+    "region": "South Chungcheong Province",
+    "lat": 36.8065,
+    "lon": 127.1522,
+    "population": 11333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anseong",
+    "region": "Gyeonggi Province",
+    "lat": 37.0108,
+    "lon": 127.2703,
+    "population": 11080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeosu",
+    "region": "South Jeolla Province",
+    "lat": 34.7606,
+    "lon": 127.6621,
+    "population": 10999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yecheon-gun",
+    "region": "North Gyeongsang Province",
+    "lat": 36.6527,
+    "lon": 128.4301,
+    "population": 10976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jung-gu",
+    "region": "Seoul",
+    "lat": 37.5599,
+    "lon": 126.994,
+    "population": 10924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Busan",
+    "region": "Busan",
+    "lat": 35.1017,
+    "lon": 129.03,
+    "population": 10568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songgangdong",
+    "region": "Daejeon",
+    "lat": 36.4339,
+    "lon": 127.3759,
+    "population": 10380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangjin-gun",
+    "region": "South Jeolla Province",
+    "lat": 34.6179,
+    "lon": 126.7676,
+    "population": 10355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunchang-gun",
+    "region": "North Jeolla Province",
+    "lat": 35.3765,
+    "lon": 127.1497,
+    "population": 10303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jung-gu",
+    "region": "Busan",
+    "lat": 35.1059,
+    "lon": 129.0333,
+    "population": 10139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guro-gu",
+    "region": "Seoul",
+    "lat": 37.4945,
+    "lon": 126.8502,
+    "population": 10032,
+    "timezone": "UTC"
+  }
+]

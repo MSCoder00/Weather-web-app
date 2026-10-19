@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+  <!-- Primary Meta Tags -->
+  <title>Aura – Live Weather</title>
+  <meta name="title" content="Aura – Live Weather">
+  <meta name="description" content="Experience instant, hyper-local real-time weather forecasts, world live weather, air quality indexes, interactive 24-hour hourly outlooks, and 5-day temperature spectrums with zero clutter.">
+  <meta name="theme-color" content="#0b1329">
+  
+  <!-- PWA Manifest & Web App Capabilities -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Aura">
+
+  <!-- Application Favicon & App Icons -->
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+  <link rel="alternate icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+
+  <!-- Resource Preconnect & DNS-Prefetch for Speed -->
+  <link rel="preconnect" href="https://api.open-meteo.com">
+  <link rel="dns-prefetch" href="https://api.open-meteo.com">
+  <link rel="preconnect" href="https://air-quality-api.open-meteo.com">
+  <link rel="dns-prefetch" href="https://air-quality-api.open-meteo.com">
+  <link rel="preconnect" href="https://geocoding-api.open-meteo.com">
+  <link rel="dns-prefetch" href="https://geocoding-api.open-meteo.com">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+
+  <!-- Application CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-condition-theme="clear-day" data-color-theme="dark">
+  <!-- Dynamic Atmospheric Background Canvas -->
+  <canvas id="weatherCanvas" aria-hidden="true"></canvas>
+  <div class="ambient-glow-overlay" aria-hidden="true"></div>
+
+  <!-- Global Weather SVG Defs: Always in DOM so gradients & filters never fail across views -->
+  <svg class="global-weather-svg-defs" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden; pointer-events: none;">
+    <defs>
+      <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#FFE082" />
+        <stop offset="70%" stop-color="#FFB300" />
+        <stop offset="100%" stop-color="#FF8F00" />
+      </radialGradient>
+      <filter id="glowEffect" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="2.5" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+      <linearGradient id="moonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF" />
+        <stop offset="60%" stop-color="#E0E7FF" />
+        <stop offset="100%" stop-color="#818CF8" />
+      </linearGradient>
+      <radialGradient id="sunBehind" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#FFE082" />
+        <stop offset="100%" stop-color="#FF9800" />
+      </radialGradient>
+      <linearGradient id="cloudGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF" />
+        <stop offset="100%" stop-color="#CBD5E1" />
+      </linearGradient>
+      <linearGradient id="moonBehindGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF" />
+        <stop offset="100%" stop-color="#93C5FD" />
+      </linearGradient>
+      <linearGradient id="nightCloudGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#CBD5E1" />
+        <stop offset="100%" stop-color="#64748B" />
+      </linearGradient>
+      <linearGradient id="cloudBackGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#94A3B8" />
+        <stop offset="100%" stop-color="#64748B" />
+      </linearGradient>
+      <linearGradient id="cloudFrontGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#F1F5F9" />
+        <stop offset="100%" stop-color="#CBD5E1" />
+      </linearGradient>
+      <linearGradient id="rainCloudGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#E2E8F0" />
+        <stop offset="100%" stop-color="#94A3B8" />
+      </linearGradient>
+      <linearGradient id="stormCloudGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#64748B" />
+        <stop offset="100%" stop-color="#334155" />
+      </linearGradient>
+      <linearGradient id="lightningGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FDE047" />
+        <stop offset="100%" stop-color="#EAB308" />
+      </linearGradient>
+      <linearGradient id="snowCloudGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#F8FAFC" />
+        <stop offset="100%" stop-color="#CBD5E1" />
+      </linearGradient>
+      <linearGradient id="fogGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="rgba(255,255,255,0.2)" />
+        <stop offset="50%" stop-color="rgba(255,255,255,0.85)" />
+        <stop offset="100%" stop-color="rgba(255,255,255,0.2)" />
+      </linearGradient>
+    </defs>
+  </svg>
+
+  <div class="app-container">
+    <!-- Severe Weather Alert Banner (Automated) -->
+    <div id="severeWeatherBanner" class="notification-banner severe" role="alert" aria-live="assertive">
+      <div class="banner-left">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="22" height="22" aria-hidden="true">
+          <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path>
+          <line x1="12" y1="9" x2="12" y2="13"></line>
+          <line x1="12" y1="17" x2="12.01" y2="17"></line>
+        </svg>
+        <span id="severeWeatherText">Severe weather alert for your area. Exercise caution outdoors.</span>
+      </div>
+      <button id="closeSevereBannerBtn" class="banner-close-btn" aria-label="Close severe weather banner">&times;</button>
+    </div>
+
+    <!-- Friendly Location Fallback / Notice Banner -->
+    <div id="locationNoticeBanner" class="notification-banner info" role="alert" aria-live="polite">
+      <div class="banner-left">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="12" y1="8" x2="12" y2="12"></line>
+          <line x1="12" y1="16" x2="12.01" y2="16"></line>
+        </svg>
+        <span id="locationNoticeText">GPS requires HTTPS or localhost. Showing <strong>London</strong>.</span>
+      </div>
+      <div class="banner-actions">
+        <button id="tryAgainLocationBtn" class="btn-primary banner-action-btn">Try again</button>
+        <button id="closeNoticeBtn" class="banner-close-btn" aria-label="Close notification">&times;</button>
+      </div>
+    </div>
+
+    <!-- Error / Offline Banner -->
+    <div id="errorBanner" class="notification-banner error" role="alert" aria-live="assertive">
+      <div class="banner-left">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18" aria-hidden="true">
+          <polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2"></polygon>
+          <line x1="12" y1="8" x2="12" y2="12"></line>
+          <line x1="12" y1="16" x2="12.01" y2="16"></line>
+        </svg>
+        <span id="errorMessageText">Unable to connect to weather service. Please check your internet connection.</span>
+      </div>
+      <div class="banner-actions">
+        <button id="retryErrorBtn" class="btn-secondary banner-action-btn">Retry</button>
+      </div>
+    </div>
+
+    <!-- Top Header Navigation Bar (Mobile-first 3 rows, Tablet 2 rows, Desktop 1 row) -->
+    <header class="top-header glass-panel">
+      <!-- Row 1: Brand & Controls -->
+      <div class="header-top-row">
+        <!-- App Brand -->
+        <a href="#" id="brandLogoBtn" class="brand-section" aria-label="Aura Weather Homepage">
+          <img src="assets/logo.svg" alt="Aura Logo" class="brand-logo-img" width="36" height="36" />
+          <div class="brand-text-group">
+            <span class="brand-title">Aura</span>
+            <span class="live-badge"><span class="live-dot"></span>Live</span>
+          </div>
+        </a>
+
+        <!-- Controls: Always-visible primary actions + More menu on mobile -->
+        <div class="header-controls">
+          <!-- My Location Button -->
+          <button id="myLocationBtn" class="btn-icon-action" data-tooltip="Use My Location" aria-label="Detect current location">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="22" y1="12" x2="18" y2="12"></line>
+              <line x1="6" y1="12" x2="2" y2="12"></line>
+              <line x1="12" y1="6" x2="12" y2="2"></line>
+              <line x1="12" y1="22" x2="12" y2="18"></line>
+              <circle cx="12" cy="12" r="3"></circle>
+            </svg>
+          </button>
+
+          <!-- Temperature Unit Toggle (°C / °F) -->
+          <div class="unit-toggle-container" id="unitToggleContainer" data-active="C" role="radiogroup" aria-label="Temperature unit selector">
+            <div class="unit-toggle-pill" aria-hidden="true"></div>
+            <button id="unitBtnC" class="unit-btn active" role="radio" aria-checked="true" aria-label="Celsius">°C</button>
+            <button id="unitBtnF" class="unit-btn" role="radio" aria-checked="false" aria-label="Fahrenheit">°F</button>
+          </div>
+
+          <!-- Refresh Button -->
+          <button id="manualRefreshBtn" class="btn-icon-action" data-tooltip="Refresh Weather" aria-label="Refresh current weather data">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="refresh-icon-svg">
+              <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"></path>
+              <path d="M21 3v5h-5"></path>
+              <path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"></path>
+              <path d="M8 16H3v5"></path>
+            </svg>
+          </button>
+
+          <!-- Mobile More Actions Menu Wrapper -->
+          <div class="more-menu-wrapper" id="moreMenuWrapper">
+            <button id="moreActionsBtn" class="btn-icon-action more-actions-btn mobile-only" data-tooltip="More Options" aria-label="More options" aria-expanded="false" aria-haspopup="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+                <circle cx="12" cy="12" r="2"></circle>
+                <circle cx="12" cy="5" r="2"></circle>
+                <circle cx="12" cy="19" r="2"></circle>
+              </svg>
+            </button>
+            <div class="more-menu-dropdown glass-panel" id="moreMenuDropdown" role="menu">
+              <button id="menuThemeBtn" class="more-menu-item" role="menuitem">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+                <span id="menuThemeText">Toggle Theme</span>
+              </button>
+              <button id="menuSettingsBtn" class="more-menu-item" role="menuitem">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+                <span>Settings</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Desktop direct buttons -->
+          <button id="themeToggleBtn" class="btn-icon-action desktop-only" data-tooltip="Toggle Dark/Light Mode" aria-label="Toggle theme">
+            <span id="themeToggleIconPlaceholder"></span>
+          </button>
+          <button id="openSettingsBtn" class="btn-icon-action desktop-only" data-tooltip="Settings" aria-label="Open settings">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="3"></circle>
+              <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Row 2: Navigation Segmented Control -->
+      <nav class="nav-tabs" aria-label="Main application view navigation">
+        <button id="tabHomeBtn" class="nav-tab-btn active" data-view="home">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+          <span>Weather</span>
+        </button>
+        <button id="tabWorldBtn" class="nav-tab-btn" data-view="world">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+          <span>World</span>
+        </button>
+      </nav>
+
+      <!-- Row 3: City Search Form -->
+      <div class="search-wrapper">
+        <div class="search-input-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="search-icon-left" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input 
+            type="text" 
+            id="citySearchInput" 
+            class="search-input" 
+            placeholder="Search city, town, village (Press /)..." 
+            autocomplete="off"
+            spellcheck="false"
+            aria-label="Search city or location"
+            aria-autocomplete="list"
+            aria-controls="searchResultsList"
+          />
+          <div class="search-actions-right">
+            <button id="voiceSearchBtn" class="search-action-btn" data-tooltip="Voice Search" aria-label="Voice search" style="display: none;">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"></path>
+                <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                <line x1="12" y1="19" x2="12" y2="22"></line>
+              </svg>
+            </button>
+            <button id="clearSearchBtn" class="search-action-btn" aria-label="Clear search input" style="display: none;">&times;</button>
+            <div id="searchSpinner" class="search-spinner" aria-hidden="true"></div>
+          </div>
+        </div>
+        <ul id="searchResultsList" class="search-dropdown" role="listbox" aria-label="Search results and recent searches"></ul>
+      </div>
+    </header>
+
+
+    <!-- MAIN VIEW: Live Weather View -->
+    <main id="homeWeatherView">
+      <!-- Hero Weather Overview Card -->
+      <section class="hero-weather-card glass-panel" aria-label="Current Weather Conditions">
+        <!-- Hero Left: Location, Favorite Star, Time, Condition, Summary -->
+        <div class="hero-left">
+          <div class="hero-location-row">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="inline-pin-icon" aria-hidden="true">
+              <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path>
+              <circle cx="12" cy="10" r="3"></circle>
+            </svg>
+            <h1 id="heroCityName" class="hero-city-name">London</h1>
+            <span id="heroCountryTag" class="hero-country-tag">GB</span>
+            <!-- Star Favorite Button -->
+            <button id="toggleFavoriteBtn" class="favorite-star-btn" data-tooltip="Add to Favorites" aria-label="Toggle favorite city">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="22" height="22">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+            </button>
+            <!-- Share Button -->
+            <button id="shareCityBtn" class="favorite-star-btn" data-tooltip="Share Weather" aria-label="Share current weather">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+                <circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle>
+                <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+              </svg>
+            </button>
+          </div>
+
+          <div id="heroDateTime" class="hero-time-date">Loading local time...</div>
+
+          <div id="heroConditionBadge" class="hero-condition-chip">
+            <span id="conditionText">Clear Sky</span>
+          </div>
+
+        </div>
+
+        <!-- Hero Right: Temperature, High/Low, Feels-like, Animated Weather Icon -->
+        <div class="hero-right">
+          <div class="hero-temp-block">
+            <div class="hero-temp-main">
+              <span id="heroTemperature">--</span>
+              <span id="heroTempUnit" class="hero-unit-symbol">°C</span>
+            </div>
+            <div class="hero-temp-sub-row">
+              <span>Feels like <strong id="heroFeelsLike" class="feels-like-val">--°</strong></span>
+              <div class="high-low-badge">
+                <span>H: <span id="heroHighTemp" class="high-val">--°</span></span>
+                <span>L: <span id="heroLowTemp" class="low-val">--°</span></span>
+              </div>
+            </div>
+          </div>
+
+          <div id="heroIconContainer" class="hero-icon-container" aria-hidden="true">
+            <!-- Dynamic SVG weather icon inserted here -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Hourly Forecast Section & Sparkline Chart (Next 24 Hours) -->
+      <section class="hourly-section glass-panel" aria-label="Hourly Forecast for Next 24 Hours">
+        <div class="section-header-row">
+          <h2 class="section-title">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20" aria-hidden="true">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+            Next 24 Hours & Hourly Trend
+          </h2>
+          <div class="scroll-controls">
+            <button id="scrollHourlyLeft" class="btn-icon-action hourly-nav-btn" aria-label="Previous hours">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>
+            </button>
+            <button id="scrollHourlyRight" class="btn-icon-action hourly-nav-btn" aria-label="Next hours">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+            </button>
+          </div>
+        </div>
+        <!-- Scrollable Hourly Strip (tabindex for keyboard arrow navigation) -->
+        <div id="hourlyContainer" class="hourly-scroll-container" role="region" aria-label="24 hour forecast list" tabindex="0">
+          <!-- 24 hourly cards populated by app.js -->
+        </div>
+
+        <!-- Inline Temperature Sparkline Line Chart -->
+        <div class="hourly-chart-box">
+          <svg id="hourlyChartSvg" class="hourly-chart-svg" viewBox="0 0 1000 90" preserveAspectRatio="none">
+            <!-- 24-hour curve rendered by app.js -->
+          </svg>
+        </div>
+      </section>
+
+      <!-- Two-Column Main Content: Atmospheric Metrics (Left) & 5-Day Forecast (Right) -->
+      <div class="content-grid-two-col">
+        <!-- Left: Atmospheric Details ("Right Now") -->
+        <section class="metrics-section" aria-label="Atmospheric Details">
+          <h2 class="section-title">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20" aria-hidden="true">
+              <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+              <line x1="8" y1="21" x2="16" y2="21"></line>
+              <line x1="12" y1="17" x2="12" y2="21"></line>
+            </svg>
+            Right Now Conditions
+          </h2>
+
+          <div class="metrics-grid">
+            <!-- 1. Air Quality Index (AQI) Card -->
+            <div id="aqiCard" class="metric-card glass-panel">
+              <div class="metric-top-row">
+                <span>AIR QUALITY</span>
+                <span id="aqiIconPlaceholder"></span>
+              </div>
+              <div>
+                <div class="metric-main-value" style="display:flex; align-items:baseline; gap:8px;">
+                  <span id="aqiNumber">--</span>
+                  <span id="aqiStatusBadge" class="aqi-badge aqi-good">Good</span>
+                </div>
+                <div id="aqiAdviceText" class="metric-sub-detail">Air quality is ideal for outdoor activities.</div>
+              </div>
+              <div class="metric-sub-detail" style="font-size:0.75rem; color:var(--text-tertiary);">
+                PM2.5: <span id="pm25Val">--</span> µg/m³ · PM10: <span id="pm10Val">--</span> µg/m³
+              </div>
+            </div>
+
+            <!-- 2. Wind & Direction Card -->
+            <div class="metric-card glass-panel">
+              <div class="metric-top-row">
+                <span>WIND & COMPASS</span>
+                <span id="windIconPlaceholder"></span>
+              </div>
+              <div class="wind-compass-container">
+                <div class="compass-dial" aria-hidden="true">
+                  <svg id="windCompassArrow" class="compass-arrow" viewBox="0 0 24 24" fill="currentColor">
+                    <polygon points="12,2 16,19 12,15 8,19" />
+                  </svg>
+                </div>
+                <div>
+                  <div class="metric-main-value" style="margin-top: 0;">
+                    <span id="windSpeedValue">--</span> <span id="windUnitText" class="metric-unit-text">km/h</span>
+                  </div>
+                  <div id="windDirectionText" class="metric-sub-detail">Calm</div>
+                </div>
+              </div>
+              <div id="windGustText" class="metric-sub-detail">Normal atmospheric flow</div>
+            </div>
+
+            <!-- 3. Sun Cycle Arc (Spans full width below AQI and Wind) -->
+            <div class="metric-card glass-panel sun-arc-card">
+              <div class="metric-top-row">
+                <span>SUN CYCLE & DAYLIGHT PATH</span>
+                <span id="sunCycleIconPlaceholder"></span>
+              </div>
+              <div class="sun-arc-container">
+                <svg viewBox="0 0 300 80" class="sun-arc-svg" preserveAspectRatio="none">
+                  <line x1="10" y1="65" x2="290" y2="65" stroke="rgba(255,255,255,0.15)" stroke-width="2" stroke-dasharray="4 4" />
+                  <path d="M 20 65 Q 150 -5 280 65" fill="none" stroke="rgba(255, 180, 0, 0.35)" stroke-width="2.5" />
+                  <path id="sunTraveledPath" d="M 20 65 Q 150 -5 280 65" fill="none" stroke="#F59E0B" stroke-width="3" stroke-dasharray="320" stroke-dashoffset="160" />
+                  <circle id="sunPositionOrb" cx="150" cy="30" r="7" fill="#FBBF24" stroke="#FFFFFF" stroke-width="2" filter="drop-shadow(0 0 8px #F59E0B)" />
+                </svg>
+              </div>
+              <div class="sun-times-row">
+                <div class="sun-time-item">
+                  <span id="sunriseIconInline"></span>
+                  <div>Sunrise: <span id="sunriseTimeText" class="sun-time-val">--:--</span></div>
+                </div>
+                <div id="daylightRemainingText" style="color: var(--accent-cyan); font-weight: 600;">Daylight: --h --m</div>
+                <div class="sun-time-item">
+                  <span id="sunsetIconInline"></span>
+                  <div>Sunset: <span id="sunsetTimeText" class="sun-time-val">--:--</span></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Right: 5-Day Forecast with Range Spectrum Bars -->
+        <section class="five-day-card glass-panel" aria-label="5-Day Forecast">
+          <div class="section-header-row" style="margin-bottom: 0.35rem;">
+            <h2 class="section-title">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20" aria-hidden="true">
+                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                <line x1="16" y1="2" x2="16" y2="6"></line>
+                <line x1="8" y1="2" x2="8" y2="6"></line>
+                <line x1="3" y1="10" x2="21" y2="10"></line>
+              </svg>
+              5-Day Outlook
+            </h2>
+          </div>
+          <p style="font-size: 0.85rem; color: var(--text-tertiary);">Extended forecast with temperature range spectrums</p>
+
+          <div id="fiveDayForecastList" class="daily-forecast-list" role="list">
+            <!-- 5 daily rows rendered dynamically by app.js -->
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <!-- WORLD VIEW: Every Country Live Weather Grid & Country City Browser -->
+    <section id="worldWeatherView" class="world-view-container" aria-label="World Live Weather Grid">
+      <!-- 1. All Countries Main View -->
+      <div id="allCountriesContainer">
+        <div class="world-controls-bar glass-panel">
+          <div class="continent-filter-strip" role="tablist" aria-label="Filter countries by continent">
+            <button class="continent-chip active" data-continent="all">All Continents</button>
+            <button class="continent-chip" data-continent="Africa">Africa</button>
+            <button class="continent-chip" data-continent="Asia">Asia</button>
+            <button class="continent-chip" data-continent="Europe">Europe</button>
+            <button class="continent-chip" data-continent="North America">North America</button>
+            <button class="continent-chip" data-continent="South America">South America</button>
+            <button class="continent-chip" data-continent="Oceania">Oceania</button>
+          </div>
+
+          <div class="world-actions-row">
+            <div class="world-sort-group">
+              <label for="worldSortSelect" style="font-size:0.85rem; color:var(--text-tertiary);">Sort:</label>
+              <select id="worldSortSelect" class="world-sort-select">
+                <option value="name">A to Z</option>
+                <option value="hottest">Hottest First</option>
+                <option value="coldest">Coldest First</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Countries Grid with Lazy Loaded Live Temps -->
+        <div id="countriesGrid" class="countries-grid">
+          <!-- Rendered from countries.json -->
+        </div>
+      </div>
+
+      <!-- 2. Country City Browser View (Shown when clicking any country) -->
+      <div id="countryCityBrowserView" class="country-detail-view" style="display: none;">
+        <button id="backToCountriesBtn" class="btn-secondary" style="display:inline-flex; align-items:center; gap:8px; margin-bottom:1rem; min-height:38px;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><polyline points="15 18 9 12 15 6"></polyline></svg>
+          Back to All Countries
+        </button>
+
+        <div class="country-banner-card glass-panel">
+          <div class="country-banner-left">
+            <span id="countryDetailFlag" class="country-banner-flag">🇧🇩</span>
+            <div>
+              <h2 id="countryDetailName" class="country-banner-title">Bangladesh</h2>
+              <div id="countryDetailSubtitle" class="country-banner-subtitle">All Divisions, Districts & Cities</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- City Browser Controls: Divisions / Search / Sort -->
+        <div class="country-browser-controls glass-panel">
+          <!-- Division/Region Filter Strip -->
+          <div id="countryDivisionsStrip" class="divisions-filter-strip" role="tablist">
+            <!-- Populated dynamically with divisions/regions -->
+          </div>
+
+          <div class="country-search-sort-row">
+            <div class="search-input-box" style="flex: 1; max-width: 360px;">
+              <input type="text" id="countryCitySearchInput" class="search-input" placeholder="Search cities..." style="height: 38px; padding-left: 14px;" />
+            </div>
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <label for="countryCitySortSelect" style="font-size: 0.85rem; color: var(--text-tertiary);">Sort:</label>
+              <select id="countryCitySortSelect" class="world-sort-select">
+                <option value="name">A to Z</option>
+                <option value="population">Largest Population</option>
+                <option value="hottest">Hottest First</option>
+                <option value="coldest">Coldest First</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Country Cities Grid -->
+        <div id="countryCitiesGrid" class="cities-grid">
+          <!-- Populated from data/cities/{ISO}.json -->
+        </div>
+
+        <div style="display:flex; justify-content:center; margin-top:1.5rem;">
+          <button id="loadMoreCitiesBtn" class="btn-secondary" style="display: none; padding: 8px 24px;">Load More Cities</button>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- App Footer with Attribution & Refresh Status -->
+    <footer class="app-footer glass-panel">
+      <div class="footer-source-badge">
+        <span class="source-status-dot"></span>
+        <span id="dataSourceAttribution">Data provided by Open-Meteo & Open-Meteo Air Quality</span>
+      </div>
+
+      <div class="footer-refresh-note">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"></circle>
+          <polyline points="12 6 12 12 16 14"></polyline>
+        </svg>
+        <span id="lastUpdatedNotice">Auto-refreshes every 10 min · Updated just now</span>
+      </div>
+
+      <div class="footer-key-hint" style="font-family:var(--font-mono); font-size:0.75rem;">
+        Tip: Press <kbd style="background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">/</kbd> to search
+      </div>
+    </footer>
+  </div>
+
+  <!-- Mobile Bottom Navigation Bar -->
+  <nav class="mobile-bottom-nav" aria-label="Mobile navigation">
+    <button class="bottom-nav-item active" data-view="home">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+      <span>Weather</span>
+    </button>
+    <button class="bottom-nav-item" data-view="world">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+      <span>World</span>
+    </button>
+    <button id="mobileSettingsBtn" class="bottom-nav-item">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+      <span>Settings</span>
+    </button>
+  </nav>
+
+
+  <!-- Settings / Preferences Modal -->
+  <div id="settingsModal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="settingsModalTitle">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 id="settingsModalTitle" class="modal-title">Settings & Preferences</h3>
+        <button id="closeSettingsBtn" class="banner-close-btn" aria-label="Close settings">&times;</button>
+      </div>
+      <div class="modal-body" style="display:flex; flex-direction:column; gap:1rem;">
+        <div class="form-group">
+          <label class="form-label" for="timeFormatSelect">Time Display Format</label>
+          <select id="timeFormatSelect" class="form-input">
+            <option value="12">12-Hour (e.g. 3:30 PM)</option>
+            <option value="24">24-Hour (e.g. 15:30)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="themePreferenceSelect">Appearance Theme</label>
+          <select id="themePreferenceSelect" class="form-input">
+            <option value="dark">Dark Theme (Default)</option>
+            <option value="light">Light Theme</option>
+            <option value="auto">Auto (System Preference)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="defaultCitySelect">Fallback City (When GPS is disabled)</label>
+          <select id="defaultCitySelect" class="form-input">
+            <option value="London,GB,51.5074,-0.1278">London, United Kingdom</option>
+            <option value="Dhaka,BD,23.8103,90.4125">Dhaka, Bangladesh</option>
+            <option value="Tokyo,JP,35.6895,139.6917">Tokyo, Japan</option>
+            <option value="New York,US,40.7128,-74.0060">New York, United States</option>
+            <option value="Paris,FR,48.8566,2.3522">Paris, France</option>
+            <option value="Sydney,AU,-33.8688,151.2093">Sydney, Australia</option>
+          </select>
+        </div>
+
+        <div class="form-group" style="margin-top:0.5rem;">
+          <button id="clearCacheBtn" class="btn-secondary" style="color:#EF4444; border-color:rgba(239,68,68,0.4);">Clear Saved Favorites & Cache</button>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="cancelSettingsBtn" class="btn-secondary">Cancel</button>
+        <button id="saveSettingsBtn" class="btn-primary">Save Changes</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="icons.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

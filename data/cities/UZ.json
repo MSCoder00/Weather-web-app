@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Qibray",
+    "region": "Tashkent Region",
+    "lat": 41.3897,
+    "lon": 69.465,
+    "population": 49767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tashkent",
+    "region": "Tashkent",
+    "lat": 41.2647,
+    "lon": 69.2163,
+    "population": 49590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chelak",
+    "region": "Samarqand Region",
+    "lat": 39.9203,
+    "lon": 66.8611,
+    "population": 49475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beshariq",
+    "region": "Fergana Region",
+    "lat": 40.4358,
+    "lon": 70.6103,
+    "population": 49353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dŭstlik",
+    "region": "Jizzakh Region",
+    "lat": 40.5247,
+    "lon": 68.0358,
+    "population": 48891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oltinko‘l",
+    "region": "Karakalpakstan",
+    "lat": 43.0687,
+    "lon": 58.9037,
+    "population": 48858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrikhon Tumani",
+    "region": "Andijan Region",
+    "lat": 40.7167,
+    "lon": 72.0667,
+    "population": 47067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qorako’l",
+    "region": "Bukhara Region",
+    "lat": 39.4994,
+    "lon": 63.8539,
+    "population": 47021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangiyer",
+    "region": "Sirdaryo Region",
+    "lat": 40.275,
+    "lon": 68.8225,
+    "population": 46681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karakul’",
+    "region": "Bukhara Region",
+    "lat": 39.5333,
+    "lon": 63.8333,
+    "population": 45823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shohimardon",
+    "region": "Fergana Region",
+    "lat": 39.9832,
+    "lon": 71.8051,
+    "population": 45604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paxtakor",
+    "region": "Jizzakh Region",
+    "lat": 40.3153,
+    "lon": 67.9544,
+    "population": 45383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oltinkŭl Tumani",
+    "region": "Andijan Region",
+    "lat": 40.8,
+    "lon": 72.1667,
+    "population": 45139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oqtosh",
+    "region": "Samarqand Region",
+    "lat": 39.9214,
+    "lon": 65.9253,
+    "population": 44779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muborak",
+    "region": "Qashqadaryo Region",
+    "lat": 39.2553,
+    "lon": 65.1528,
+    "population": 44422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khŭjayli",
+    "region": "Karakalpakstan",
+    "lat": 42.4004,
+    "lon": 59.4601,
+    "population": 44194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guliston",
+    "region": "Sirdaryo Region",
+    "lat": 40.4897,
+    "lon": 68.7842,
+    "population": 44189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juma",
+    "region": "Samarqand Region",
+    "lat": 39.7161,
+    "lon": 66.6642,
+    "population": 43950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamza",
+    "region": "Fergana Region",
+    "lat": 40.4276,
+    "lon": 71.5053,
+    "population": 43913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jizzax",
+    "region": "Jizzakh Region",
+    "lat": 40.1158,
+    "lon": 67.8422,
+    "population": 43857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dashtobod",
+    "region": "Jizzakh Region",
+    "lat": 40.1269,
+    "lon": 68.4944,
+    "population": 42567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirdaryo",
+    "region": "Sirdaryo Region",
+    "lat": 40.8436,
+    "lon": 68.6617,
+    "population": 42537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangiyŭl",
+    "region": "Tashkent Region",
+    "lat": 41.112,
+    "lon": 69.0471,
+    "population": 42185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "G‘azalkent",
+    "region": "Tashkent Region",
+    "lat": 41.5581,
+    "lon": 69.7708,
+    "population": 42181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalolkuduk Tumani",
+    "region": "Andijan Region",
+    "lat": 40.75,
+    "lon": 72.6667,
+    "population": 42164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tŭytepa",
+    "region": "Tashkent Region",
+    "lat": 41.0321,
+    "lon": 69.3625,
+    "population": 41893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urganch",
+    "region": "Xorazm Region",
+    "lat": 41.55,
+    "lon": 60.6333,
+    "population": 41883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chust",
+    "region": "Namangan Region",
+    "lat": 41.0033,
+    "lon": 71.2379,
+    "population": 41548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiroqchi",
+    "region": "Qashqadaryo Region",
+    "lat": 39.0336,
+    "lon": 66.5722,
+    "population": 40690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boysun",
+    "region": "Surxondaryo Region",
+    "lat": 38.2084,
+    "lon": 67.2066,
+    "population": 40608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bo‘ka",
+    "region": "Tashkent Region",
+    "lat": 40.8111,
+    "lon": 69.1942,
+    "population": 40539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinoz",
+    "region": "Tashkent Region",
+    "lat": 40.9363,
+    "lon": 68.7613,
+    "population": 40389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rishton",
+    "region": "Fergana Region",
+    "lat": 40.3567,
+    "lon": 71.2847,
+    "population": 40143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qŭshkŭpir",
+    "region": "Xorazm Region",
+    "lat": 41.535,
+    "lon": 60.3456,
+    "population": 39900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olot",
+    "region": "Bukhara Region",
+    "lat": 39.415,
+    "lon": 63.8033,
+    "population": 39430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Navoiy",
+    "region": "Navoiy Region",
+    "lat": 40.0844,
+    "lon": 65.3792,
+    "population": 39127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oltiariq",
+    "region": "Fergana Region",
+    "lat": 40.3919,
+    "lon": 71.4742,
+    "population": 38772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakhtaobod Tumani",
+    "region": "Andijan Region",
+    "lat": 40.9333,
+    "lon": 72.5,
+    "population": 38237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kegeyli Shahar",
+    "region": "Karakalpakstan",
+    "lat": 42.7767,
+    "lon": 59.6078,
+    "population": 37361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uychi",
+    "region": "Namangan Region",
+    "lat": 41.0807,
+    "lon": 71.9233,
+    "population": 37129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukhara",
+    "region": "Bukhara Region",
+    "lat": 39.7747,
+    "lon": 64.4286,
+    "population": 37123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novyy Turtkul’",
+    "region": "Karakalpakstan",
+    "lat": 41.55,
+    "lon": 61.0167,
+    "population": 36525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulug‘nor Tumani",
+    "region": "Andijan Region",
+    "lat": 40.75,
+    "lon": 71.7,
+    "population": 36310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "So‘x Tumani",
+    "region": "Fergana Region",
+    "lat": 40.0442,
+    "lon": 71.0942,
+    "population": 36117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olmaliq",
+    "region": "Tashkent Region",
+    "lat": 40.8447,
+    "lon": 69.5983,
+    "population": 35615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bektemir",
+    "region": "Tashkent",
+    "lat": 41.2097,
+    "lon": 69.3342,
+    "population": 35169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charxin",
+    "region": "Samarqand Region",
+    "lat": 39.6967,
+    "lon": 66.7686,
+    "population": 34983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangi Marg‘ilon",
+    "region": "Fergana Region",
+    "lat": 40.4272,
+    "lon": 71.7189,
+    "population": 34742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gagarin",
+    "region": "Jizzakh Region",
+    "lat": 40.6619,
+    "lon": 68.1722,
+    "population": 34406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uchqŭrghon Shahri",
+    "region": "Namangan Region",
+    "lat": 41.1137,
+    "lon": 72.0791,
+    "population": 34215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izboskan Tumani",
+    "region": "Andijan Region",
+    "lat": 40.9167,
+    "lon": 72.25,
+    "population": 32956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Showot",
+    "region": "Xorazm Region",
+    "lat": 41.6558,
+    "lon": 60.3025,
+    "population": 32750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "G‘uzor",
+    "region": "Qashqadaryo Region",
+    "lat": 38.6208,
+    "lon": 66.2481,
+    "population": 31642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jomboy",
+    "region": "Samarqand Region",
+    "lat": 39.6989,
+    "lon": 67.0933,
+    "population": 31603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peshku Tumani",
+    "region": "Bukhara Region",
+    "lat": 40.4167,
+    "lon": 63.8333,
+    "population": 31523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marhamat",
+    "region": "Andijan Region",
+    "lat": 40.4805,
+    "lon": 72.3139,
+    "population": 31398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samarkand",
+    "region": "Samarqand Region",
+    "lat": 39.6542,
+    "lon": 66.9597,
+    "population": 31297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quva",
+    "region": "Fergana Region",
+    "lat": 40.522,
+    "lon": 72.0729,
+    "population": 31273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ishtixon",
+    "region": "Samarqand Region",
+    "lat": 39.9664,
+    "lon": 66.4861,
+    "population": 31253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Payshanba",
+    "region": "Samarqand Region",
+    "lat": 40.0078,
+    "lon": 66.2369,
+    "population": 30377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosonsoy",
+    "region": "Namangan Region",
+    "lat": 41.2494,
+    "lon": 71.5474,
+    "population": 30324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gurlan",
+    "region": "Xorazm Region",
+    "lat": 41.8447,
+    "lon": 60.3919,
+    "population": 30168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buloqboshi Tumani",
+    "region": "Andijan Region",
+    "lat": 40.6167,
+    "lon": 72.4667,
+    "population": 30166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarshi",
+    "region": "Qashqadaryo Region",
+    "lat": 38.8606,
+    "lon": 65.7891,
+    "population": 30135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kattaqo‘rg‘on",
+    "region": "Samarqand Region",
+    "lat": 39.8989,
+    "lon": 66.2561,
+    "population": 29585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrixon",
+    "region": "Andijan Region",
+    "lat": 40.7133,
+    "lon": 72.0571,
+    "population": 29458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "To‘rqao‘rg‘on",
+    "region": "Namangan Region",
+    "lat": 40.9998,
+    "lon": 71.5116,
+    "population": 28785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nishon Tumani",
+    "region": "Qashqadaryo Region",
+    "lat": 38.694,
+    "lon": 65.6751,
+    "population": 28616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangiobod",
+    "region": "Tashkent Region",
+    "lat": 41.1192,
+    "lon": 70.0941,
+    "population": 28553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wobkent Tumani",
+    "region": "Bukhara Region",
+    "lat": 40,
+    "lon": 64.5,
+    "population": 28398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beshkent",
+    "region": "Qashqadaryo Region",
+    "lat": 38.8214,
+    "lon": 65.6531,
+    "population": 28130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urgut",
+    "region": "Samarqand Region",
+    "lat": 39.4022,
+    "lon": 67.2431,
+    "population": 27903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zafar",
+    "region": "Tashkent Region",
+    "lat": 40.9833,
+    "lon": 68.9,
+    "population": 27706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gazli",
+    "region": "Bukhara Region",
+    "lat": 40.1333,
+    "lon": 63.45,
+    "population": 27205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andijon",
+    "region": "Andijan Region",
+    "lat": 40.7821,
+    "lon": 72.3442,
+    "population": 26908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangirabot",
+    "region": "Navoiy Region",
+    "lat": 40.0254,
+    "lon": 65.9609,
+    "population": 26588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quvasoy",
+    "region": "Fergana Region",
+    "lat": 40.2972,
+    "lon": 71.9803,
+    "population": 26543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qo‘qon",
+    "region": "Fergana Region",
+    "lat": 40.5286,
+    "lon": 70.9425,
+    "population": 26398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mŭynoq",
+    "region": "Karakalpakstan",
+    "lat": 43.7683,
+    "lon": 59.0214,
+    "population": 25894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hazorasp",
+    "region": "Xorazm Region",
+    "lat": 41.3194,
+    "lon": 61.0742,
+    "population": 25809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baliqchi Tumani",
+    "region": "Andijan Region",
+    "lat": 40.8667,
+    "lon": 72,
+    "population": 24238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galaosiyo",
+    "region": "Bukhara Region",
+    "lat": 39.8578,
+    "lon": 64.4483,
+    "population": 24231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andijon Tumani",
+    "region": "Andijan Region",
+    "lat": 40.8,
+    "lon": 72.4167,
+    "population": 24041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Romiton",
+    "region": "Bukhara Region",
+    "lat": 39.9294,
+    "lon": 64.3794,
+    "population": 23517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chortoq",
+    "region": "Namangan Region",
+    "lat": 41.0692,
+    "lon": 71.8237,
+    "population": 23510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asaka Tumani",
+    "region": "Andijan Region",
+    "lat": 40.6667,
+    "lon": 72.25,
+    "population": 23455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boghot Tumani",
+    "region": "Xorazm Region",
+    "lat": 41.315,
+    "lon": 60.8533,
+    "population": 22993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beruniy",
+    "region": "Karakalpakstan",
+    "lat": 41.6911,
+    "lon": 60.7525,
+    "population": 22980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulung’ur",
+    "region": "Samarqand Region",
+    "lat": 39.7647,
+    "lon": 67.2714,
+    "population": 22976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitob",
+    "region": "Qashqadaryo Region",
+    "lat": 39.0842,
+    "lon": 66.8332,
+    "population": 22653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kogon",
+    "region": "Bukhara Region",
+    "lat": 39.7228,
+    "lon": 64.5517,
+    "population": 22621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qorovulbozor",
+    "region": "Bukhara Region",
+    "lat": 39.5006,
+    "lon": 64.7936,
+    "population": 22241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sho‘rchi",
+    "region": "Surxondaryo Region",
+    "lat": 37.9994,
+    "lon": 67.7875,
+    "population": 22224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ohangaron",
+    "region": "Tashkent Region",
+    "lat": 40.9064,
+    "lon": 69.6383,
+    "population": 22039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haqqulobod",
+    "region": "Namangan Region",
+    "lat": 40.9167,
+    "lon": 72.1167,
+    "population": 21953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pop",
+    "region": "Namangan Region",
+    "lat": 40.8736,
+    "lon": 71.1089,
+    "population": 21414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiziltepa",
+    "region": "Navoiy Region",
+    "lat": 40.0331,
+    "lon": 64.85,
+    "population": 21215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghijduwon",
+    "region": "Bukhara Region",
+    "lat": 40.1,
+    "lon": 64.6833,
+    "population": 21198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asaka",
+    "region": "Andijan Region",
+    "lat": 40.6415,
+    "lon": 72.2387,
+    "population": 20950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piskent",
+    "region": "Tashkent Region",
+    "lat": 40.8972,
+    "lon": 69.3506,
+    "population": 20907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fergana",
+    "region": "Fergana Region",
+    "lat": 40.3842,
+    "lon": 71.7843,
+    "population": 20492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaypan",
+    "region": "Fergana Region",
+    "lat": 40.3758,
+    "lon": 70.8156,
+    "population": 19112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zomin",
+    "region": "Jizzakh Region",
+    "lat": 39.9606,
+    "lon": 68.3958,
+    "population": 18542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namangan",
+    "region": "Namangan Region",
+    "lat": 40.9983,
+    "lon": 71.6726,
+    "population": 18285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bekobod",
+    "region": "Tashkent Region",
+    "lat": 40.2208,
+    "lon": 69.2697,
+    "population": 18124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koson",
+    "region": "Qashqadaryo Region",
+    "lat": 39.0375,
+    "lon": 65.585,
+    "population": 18043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nukus",
+    "region": "Karakalpakstan",
+    "lat": 42.4531,
+    "lon": 59.6103,
+    "population": 17992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shofirkon",
+    "region": "Bukhara Region",
+    "lat": 40.12,
+    "lon": 64.5014,
+    "population": 17836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qŭrghontepa Tumani",
+    "region": "Andijan Region",
+    "lat": 40.75,
+    "lon": 72.8333,
+    "population": 17270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Denov",
+    "region": "Surxondaryo Region",
+    "lat": 38.2675,
+    "lon": 67.8989,
+    "population": 16877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qo‘rg‘ontepa",
+    "region": "Andijan Region",
+    "lat": 40.7319,
+    "lon": 72.7618,
+    "population": 16872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manghit",
+    "region": "Karakalpakstan",
+    "lat": 42.1156,
+    "lon": 60.0597,
+    "population": 16685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daxbet",
+    "region": "Samarqand Region",
+    "lat": 39.7639,
+    "lon": 66.9125,
+    "population": 16423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toshloq",
+    "region": "Fergana Region",
+    "lat": 40.4772,
+    "lon": 71.7678,
+    "population": 16018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xo‘jaobod",
+    "region": "Andijan Region",
+    "lat": 40.6689,
+    "lon": 72.56,
+    "population": 15880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tirmiz",
+    "region": "Surxondaryo Region",
+    "lat": 37.2242,
+    "lon": 67.2783,
+    "population": 15856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirguli",
+    "region": "Fergana Region",
+    "lat": 40.4355,
+    "lon": 71.7672,
+    "population": 15772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marg‘ilon",
+    "region": "Fergana Region",
+    "lat": 40.4724,
+    "lon": 71.7246,
+    "population": 15457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khiwa",
+    "region": "Xorazm Region",
+    "lat": 41.3783,
+    "lon": 60.3639,
+    "population": 15142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nurota",
+    "region": "Navoiy Region",
+    "lat": 40.5614,
+    "lon": 65.6886,
+    "population": 14875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marhamat Tumani",
+    "region": "Andijan Region",
+    "lat": 40.5,
+    "lon": 72.3167,
+    "population": 14483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khŭjaobod Tumani",
+    "region": "Andijan Region",
+    "lat": 40.6667,
+    "lon": 72.5833,
+    "population": 14345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toshbuloq",
+    "region": "Namangan Region",
+    "lat": 40.9162,
+    "lon": 71.5782,
+    "population": 14024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrisabz",
+    "region": "Qashqadaryo Region",
+    "lat": 39.0578,
+    "lon": 66.8342,
+    "population": 13871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salor",
+    "region": "Tashkent Region",
+    "lat": 41.3722,
+    "lon": 69.3817,
+    "population": 13583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angren",
+    "region": "Tashkent Region",
+    "lat": 41.0167,
+    "lon": 70.1436,
+    "population": 13042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ŭrtaowul",
+    "region": "Tashkent Region",
+    "lat": 41.1867,
+    "lon": 69.1453,
+    "population": 12789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangiqo‘rg‘on",
+    "region": "Namangan Region",
+    "lat": 41.1947,
+    "lon": 71.7238,
+    "population": 12575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyzyldzhar",
+    "region": "Tashkent Region",
+    "lat": 41.5667,
+    "lon": 70.0167,
+    "population": 12210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parkent",
+    "region": "Tashkent Region",
+    "lat": 41.2944,
+    "lon": 69.6764,
+    "population": 11399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iskandar",
+    "region": "Tashkent Region",
+    "lat": 41.5539,
+    "lon": 69.7008,
+    "population": 10696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chirchiq",
+    "region": "Tashkent Region",
+    "lat": 41.4689,
+    "lon": 69.5822,
+    "population": 10612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bo‘z Tumani",
+    "region": "Andijan Region",
+    "lat": 40.6667,
+    "lon": 71.9167,
+    "population": 10329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paxtaobod",
+    "region": "Andijan Region",
+    "lat": 40.9294,
+    "lon": 72.4969,
+    "population": 10283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wobkent",
+    "region": "Bukhara Region",
+    "lat": 40.0303,
+    "lon": 64.515,
+    "population": 10201,
+    "timezone": "UTC"
+  }
+]

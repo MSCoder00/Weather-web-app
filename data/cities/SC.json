@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Bel Ombre",
+    "region": "Bel Ombre",
+    "lat": -4.6167,
+    "lon": 55.4167,
+    "population": 32751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "La Rivière Anglaise",
+    "lat": -4.62,
+    "lon": 55.455,
+    "population": 30737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cascade",
+    "region": "Cascade",
+    "lat": -4.6667,
+    "lon": 55.5,
+    "population": 29934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takamaka",
+    "region": "Takamaka",
+    "lat": -4.7667,
+    "lon": 55.5,
+    "population": 24764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anse Royale",
+    "region": "Anse Royale",
+    "lat": -4.7333,
+    "lon": 55.5167,
+    "population": 22275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anse Boileau",
+    "region": "Anse Boileau",
+    "lat": -4.7167,
+    "lon": 55.4833,
+    "population": 18597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Glaud",
+    "region": "Port Glaud",
+    "lat": -4.6667,
+    "lon": 55.4167,
+    "population": 18433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beau Vallon",
+    "region": "Beau Vallon",
+    "lat": -4.6209,
+    "lon": 55.4301,
+    "population": 16217,
+    "timezone": "UTC"
+  }
+]

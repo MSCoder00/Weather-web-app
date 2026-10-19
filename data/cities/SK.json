@@ -1,0 +1,1866 @@
+[
+  {
+    "name": "Brezová pod Bradlom",
+    "region": "Trenčín Region",
+    "lat": 48.6635,
+    "lon": 17.539,
+    "population": 49784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sládkovičovo",
+    "region": "Trnava Region",
+    "lat": 48.2014,
+    "lon": 17.6385,
+    "population": 49131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banská Bystrica",
+    "region": "Banská Bystrica Region",
+    "lat": 48.7395,
+    "lon": 19.1535,
+    "population": 49087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrbové",
+    "region": "Trnava Region",
+    "lat": 48.6197,
+    "lon": 17.7226,
+    "population": 49027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Handlová",
+    "region": "Trenčín Region",
+    "lat": 48.7276,
+    "lon": 18.7601,
+    "population": 48929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Senec",
+    "region": "Bratislava Region",
+    "lat": 48.2219,
+    "lon": 17.4033,
+    "population": 48901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nižná",
+    "region": "Žilina Region",
+    "lat": 49.3105,
+    "lon": 19.5243,
+    "population": 48685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šahy",
+    "region": "Nitra Region",
+    "lat": 48.0741,
+    "lon": 18.9495,
+    "population": 48469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tisovec",
+    "region": "Banská Bystrica Region",
+    "lat": 48.6774,
+    "lon": 19.9436,
+    "population": 48417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Púchov",
+    "region": "Trenčín Region",
+    "lat": 49.1241,
+    "lon": 18.3248,
+    "population": 48237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trebišov",
+    "region": "Košice Region",
+    "lat": 48.6286,
+    "lon": 21.7195,
+    "population": 48047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Banská Štiavnica",
+    "region": "Banská Bystrica Region",
+    "lat": 48.4496,
+    "lon": 18.9082,
+    "population": 47905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krompachy",
+    "region": "Košice Region",
+    "lat": 48.9145,
+    "lon": 20.8751,
+    "population": 47780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sečovce",
+    "region": "Košice Region",
+    "lat": 48.7007,
+    "lon": 21.661,
+    "population": 47767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trstená",
+    "region": "Žilina Region",
+    "lat": 49.361,
+    "lon": 19.6125,
+    "population": 47420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Poltár",
+    "region": "Banská Bystrica Region",
+    "lat": 48.429,
+    "lon": 19.7949,
+    "population": 47317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šurany",
+    "region": "Nitra Region",
+    "lat": 48.0861,
+    "lon": 18.1845,
+    "population": 47269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Turčianske Teplice",
+    "region": "Žilina Region",
+    "lat": 48.8628,
+    "lon": 18.8576,
+    "population": 47261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Skalica",
+    "region": "Trnava Region",
+    "lat": 48.75,
+    "lon": 17.1667,
+    "population": 47140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Michalovce",
+    "region": "Košice Region",
+    "lat": 48.7543,
+    "lon": 21.9195,
+    "population": 47001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Považská Bystrica",
+    "region": "Trenčín Region",
+    "lat": 49.1167,
+    "lon": 18.45,
+    "population": 46888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gelnica",
+    "region": "Košice Region",
+    "lat": 48.8558,
+    "lon": 20.9371,
+    "population": 46820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žilina",
+    "region": "Žilina Region",
+    "lat": 49.2231,
+    "lon": 18.7394,
+    "population": 46691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Levice",
+    "region": "Nitra Region",
+    "lat": 48.2167,
+    "lon": 18.6,
+    "population": 46634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolárovo",
+    "region": "Nitra Region",
+    "lat": 47.9229,
+    "lon": 17.9847,
+    "population": 46613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trenčín",
+    "region": "Trenčín Region",
+    "lat": 48.8945,
+    "lon": 18.0444,
+    "population": 46451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martin",
+    "region": "Žilina Region",
+    "lat": 49.0665,
+    "lon": 18.924,
+    "population": 46315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Ilava",
+    "region": "Trenčín Region",
+    "lat": 48.9964,
+    "lon": 18.2337,
+    "population": 46210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svätý Anton",
+    "region": "Banská Bystrica Region",
+    "lat": 48.4192,
+    "lon": 18.9401,
+    "population": 46042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Košice IV",
+    "region": "Košice Region",
+    "lat": 48.6869,
+    "lon": 21.2657,
+    "population": 45871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Gelnica",
+    "region": "Košice Region",
+    "lat": 48.8521,
+    "lon": 20.9338,
+    "population": 45870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Nové Mesto nad Váhom",
+    "region": "Trenčín Region",
+    "lat": 48.7547,
+    "lon": 17.8351,
+    "population": 45625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bratislava - Vajnory",
+    "region": "Bratislava Region",
+    "lat": 48.2056,
+    "lon": 17.2076,
+    "population": 45416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bratislava IV",
+    "region": "Bratislava Region",
+    "lat": 48.2279,
+    "lon": 16.9972,
+    "population": 45307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modra",
+    "region": "Bratislava Region",
+    "lat": 48.334,
+    "lon": 17.3071,
+    "population": 45144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snina",
+    "region": "Prešov Region",
+    "lat": 48.9886,
+    "lon": 22.151,
+    "population": 44804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vranov nad Topľou",
+    "region": "Prešov Region",
+    "lat": 48.8884,
+    "lon": 21.6848,
+    "population": 44600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Svidník",
+    "region": "Prešov Region",
+    "lat": 49.3,
+    "lon": 21.5667,
+    "population": 44562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fiľakovo",
+    "region": "Banská Bystrica Region",
+    "lat": 48.2676,
+    "lon": 19.8247,
+    "population": 43712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turzovka",
+    "region": "Žilina Region",
+    "lat": 49.4043,
+    "lon": 18.6226,
+    "population": 43623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Trnava",
+    "region": "Trnava Region",
+    "lat": 48.3667,
+    "lon": 17.6,
+    "population": 43546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skalica",
+    "region": "Trnava Region",
+    "lat": 48.8449,
+    "lon": 17.2264,
+    "population": 43434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žehra",
+    "region": "Košice Region",
+    "lat": 48.9796,
+    "lon": 20.7917,
+    "population": 43147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trnava",
+    "region": "Trnava Region",
+    "lat": 48.3774,
+    "lon": 17.5872,
+    "population": 43086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galanta",
+    "region": "Trnava Region",
+    "lat": 48.19,
+    "lon": 17.7275,
+    "population": 42778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bytča",
+    "region": "Žilina Region",
+    "lat": 49.224,
+    "lon": 18.5588,
+    "population": 42703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Trebišov",
+    "region": "Košice Region",
+    "lat": 48.6333,
+    "lon": 21.7167,
+    "population": 42601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krupina",
+    "region": "Banská Bystrica Region",
+    "lat": 48.3554,
+    "lon": 19.0647,
+    "population": 41989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chlmec",
+    "region": "Prešov Region",
+    "lat": 48.8863,
+    "lon": 21.9393,
+    "population": 41396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Sobrance",
+    "region": "Košice Region",
+    "lat": 48.7425,
+    "lon": 22.182,
+    "population": 41162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bratislava I",
+    "region": "Bratislava Region",
+    "lat": 48.1465,
+    "lon": 17.1058,
+    "population": 40994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levice",
+    "region": "Nitra Region",
+    "lat": 48.2156,
+    "lon": 18.6071,
+    "population": 40814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrbov",
+    "region": "Prešov Region",
+    "lat": 49.0876,
+    "lon": 20.4253,
+    "population": 40805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vráble",
+    "region": "Nitra Region",
+    "lat": 48.2437,
+    "lon": 18.3085,
+    "population": 40758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piešťany",
+    "region": "Trnava Region",
+    "lat": 48.5948,
+    "lon": 17.8259,
+    "population": 40747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myjava",
+    "region": "Trenčín Region",
+    "lat": 48.7588,
+    "lon": 17.5687,
+    "population": 40611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Revúca",
+    "region": "Banská Bystrica Region",
+    "lat": 48.683,
+    "lon": 20.1157,
+    "population": 40204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brezno",
+    "region": "Banská Bystrica Region",
+    "lat": 48.8043,
+    "lon": 19.6363,
+    "population": 40154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stupava",
+    "region": "Bratislava Region",
+    "lat": 48.2747,
+    "lon": 17.0317,
+    "population": 39822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nová Dubnica",
+    "region": "Trenčín Region",
+    "lat": 48.9348,
+    "lon": 18.1463,
+    "population": 39622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Vranov nad Topľou",
+    "region": "Prešov Region",
+    "lat": 48.9,
+    "lon": 21.6833,
+    "population": 39512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Rožňava",
+    "region": "Košice Region",
+    "lat": 48.6667,
+    "lon": 20.5333,
+    "population": 39305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bardejov",
+    "region": "Prešov Region",
+    "lat": 49.2918,
+    "lon": 21.2727,
+    "population": 39235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Stropkov",
+    "region": "Prešov Region",
+    "lat": 49.2025,
+    "lon": 21.6502,
+    "population": 38931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strážske",
+    "region": "Košice Region",
+    "lat": 48.8735,
+    "lon": 21.8367,
+    "population": 38750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Kosice-okolie",
+    "region": "Košice Region",
+    "lat": 48.779,
+    "lon": 21.4137,
+    "population": 38728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Lučenec",
+    "region": "Banská Bystrica Region",
+    "lat": 48.3333,
+    "lon": 19.6667,
+    "population": 38485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Liptovský Mikuláš",
+    "region": "Žilina Region",
+    "lat": 49.0833,
+    "lon": 19.6167,
+    "population": 38350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čadca",
+    "region": "Žilina Region",
+    "lat": 49.435,
+    "lon": 18.7889,
+    "population": 38257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilava",
+    "region": "Trenčín Region",
+    "lat": 48.9977,
+    "lon": 18.2353,
+    "population": 37544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tvrdošín",
+    "region": "Žilina Region",
+    "lat": 49.337,
+    "lon": 19.556,
+    "population": 37513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Partizánske",
+    "region": "Trenčín Region",
+    "lat": 48.6286,
+    "lon": 18.3846,
+    "population": 37473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šaľa",
+    "region": "Nitra Region",
+    "lat": 48.1513,
+    "lon": 17.8806,
+    "population": 37287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlaté Moravce",
+    "region": "Nitra Region",
+    "lat": 48.3855,
+    "lon": 18.4006,
+    "population": 37207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leopoldov",
+    "region": "Trnava Region",
+    "lat": 48.4457,
+    "lon": 17.7646,
+    "population": 37154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubnica nad Váhom",
+    "region": "Trenčín Region",
+    "lat": 48.9598,
+    "lon": 18.1663,
+    "population": 36833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Malacky",
+    "region": "Bratislava Region",
+    "lat": 48.4346,
+    "lon": 17.0217,
+    "population": 35953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Prievidza",
+    "region": "Trenčín Region",
+    "lat": 48.7667,
+    "lon": 18.6333,
+    "population": 35656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrútky",
+    "region": "Žilina Region",
+    "lat": 49.1133,
+    "lon": 18.9171,
+    "population": 35612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Dunajská Streda",
+    "region": "Trnava Region",
+    "lat": 47.9963,
+    "lon": 17.6094,
+    "population": 35600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hurbanovo",
+    "region": "Nitra Region",
+    "lat": 47.8698,
+    "lon": 18.1923,
+    "population": 35574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terchová",
+    "region": "Žilina Region",
+    "lat": 49.2589,
+    "lon": 19.0294,
+    "population": 35546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunajská Streda",
+    "region": "Trnava Region",
+    "lat": 47.9927,
+    "lon": 17.6121,
+    "population": 35489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Žilina",
+    "region": "Žilina Region",
+    "lat": 49.223,
+    "lon": 18.7404,
+    "population": 35185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marianka",
+    "region": "Bratislava Region",
+    "lat": 48.249,
+    "lon": 17.064,
+    "population": 34969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banská Štiavnica",
+    "region": "Banská Bystrica Region",
+    "lat": 48.4486,
+    "lon": 18.91,
+    "population": 34804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Detva",
+    "region": "Banská Bystrica Region",
+    "lat": 48.5608,
+    "lon": 19.4195,
+    "population": 34663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lučenec",
+    "region": "Banská Bystrica Region",
+    "lat": 48.3325,
+    "lon": 19.6671,
+    "population": 34602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gbely",
+    "region": "Trnava Region",
+    "lat": 48.718,
+    "lon": 17.1163,
+    "population": 34125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krasňany",
+    "region": "Žilina Region",
+    "lat": 49.2149,
+    "lon": 18.8872,
+    "population": 34059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Púchov",
+    "region": "Trenčín Region",
+    "lat": 49.1249,
+    "lon": 18.326,
+    "population": 33540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hriňová",
+    "region": "Banská Bystrica Region",
+    "lat": 48.5779,
+    "lon": 19.5257,
+    "population": 33241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajec",
+    "region": "Žilina Region",
+    "lat": 49.089,
+    "lon": 18.6401,
+    "population": 33188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nové Mesto nad Váhom",
+    "region": "Trenčín Region",
+    "lat": 48.7576,
+    "lon": 17.8309,
+    "population": 33135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bánovce nad Bebravou",
+    "region": "Trenčín Region",
+    "lat": 48.7213,
+    "lon": 18.2575,
+    "population": 32458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spišská Belá",
+    "region": "Prešov Region",
+    "lat": 49.1872,
+    "lon": 20.4595,
+    "population": 32406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hlohovec",
+    "region": "Trnava Region",
+    "lat": 48.4317,
+    "lon": 17.8031,
+    "population": 32168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nová Baňa",
+    "region": "Banská Bystrica Region",
+    "lat": 48.4231,
+    "lon": 18.6404,
+    "population": 31898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prievidza",
+    "region": "Trenčín Region",
+    "lat": 48.7745,
+    "lon": 18.6275,
+    "population": 31719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spišské Podhradie",
+    "region": "Prešov Region",
+    "lat": 49.0009,
+    "lon": 20.7531,
+    "population": 31669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Šaľa",
+    "region": "Nitra Region",
+    "lat": 48.1477,
+    "lon": 17.8731,
+    "population": 30791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Sabinov",
+    "region": "Prešov Region",
+    "lat": 49.1011,
+    "lon": 21.0984,
+    "population": 30752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podolínec",
+    "region": "Prešov Region",
+    "lat": 49.2587,
+    "lon": 20.536,
+    "population": 30637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bratislava",
+    "region": "Bratislava Region",
+    "lat": 48.1482,
+    "lon": 17.1067,
+    "population": 30457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Košice III",
+    "region": "Košice Region",
+    "lat": 48.7324,
+    "lon": 21.2905,
+    "population": 30373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunajská Lužná",
+    "region": "Bratislava Region",
+    "lat": 48.0835,
+    "lon": 17.2607,
+    "population": 30016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vyšné Ružbachy",
+    "region": "Prešov Region",
+    "lat": 49.3039,
+    "lon": 20.5656,
+    "population": 29879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nemšová",
+    "region": "Trenčín Region",
+    "lat": 48.967,
+    "lon": 18.1189,
+    "population": 29815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holíč",
+    "region": "Trnava Region",
+    "lat": 48.8111,
+    "lon": 17.1624,
+    "population": 29181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanka pri Dunaji",
+    "region": "Bratislava Region",
+    "lat": 48.1868,
+    "lon": 17.2554,
+    "population": 29146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinné",
+    "region": "Košice Region",
+    "lat": 48.8096,
+    "lon": 21.9676,
+    "population": 28837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bratislava III",
+    "region": "Bratislava Region",
+    "lat": 48.1854,
+    "lon": 17.1379,
+    "population": 28713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trenčianske Teplice",
+    "region": "Trenčín Region",
+    "lat": 48.9106,
+    "lon": 18.1669,
+    "population": 27891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Martin",
+    "region": "Žilina Region",
+    "lat": 49.0667,
+    "lon": 18.9333,
+    "population": 27871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Tvrdošín",
+    "region": "Žilina Region",
+    "lat": 49.3342,
+    "lon": 19.5546,
+    "population": 27832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Pezinok",
+    "region": "Bratislava Region",
+    "lat": 48.2878,
+    "lon": 17.268,
+    "population": 27829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pezinok",
+    "region": "Bratislava Region",
+    "lat": 48.2899,
+    "lon": 17.2666,
+    "population": 27718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Levoča",
+    "region": "Prešov Region",
+    "lat": 49.0199,
+    "lon": 20.5769,
+    "population": 27477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Namestovo",
+    "region": "Žilina Region",
+    "lat": 49.4065,
+    "lon": 19.4767,
+    "population": 27367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Topoľčany",
+    "region": "Nitra Region",
+    "lat": 48.5667,
+    "lon": 18.1833,
+    "population": 27318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Humenné",
+    "region": "Prešov Region",
+    "lat": 48.9333,
+    "lon": 21.9167,
+    "population": 27042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bratislava V",
+    "region": "Bratislava Region",
+    "lat": 48.1112,
+    "lon": 17.0944,
+    "population": 26866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bardejov",
+    "region": "Prešov Region",
+    "lat": 49.2833,
+    "lon": 21.2833,
+    "population": 26707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kremnica",
+    "region": "Banská Bystrica Region",
+    "lat": 48.7052,
+    "lon": 18.9183,
+    "population": 25913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malacky",
+    "region": "Bratislava Region",
+    "lat": 48.436,
+    "lon": 17.0219,
+    "population": 25649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poltár",
+    "region": "Banská Bystrica Region",
+    "lat": 48.4309,
+    "lon": 19.7941,
+    "population": 25591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ľubica",
+    "region": "Prešov Region",
+    "lat": 49.1167,
+    "lon": 20.45,
+    "population": 25487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lúčky",
+    "region": "Žilina Region",
+    "lat": 49.1294,
+    "lon": 19.4023,
+    "population": 25302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Ružomberok",
+    "region": "Žilina Region",
+    "lat": 49.0749,
+    "lon": 19.3008,
+    "population": 24904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svit",
+    "region": "Prešov Region",
+    "lat": 49.0601,
+    "lon": 20.2069,
+    "population": 24847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dudince",
+    "region": "Banská Bystrica Region",
+    "lat": 48.1713,
+    "lon": 18.8878,
+    "population": 24449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Galanta",
+    "region": "Trnava Region",
+    "lat": 48.2,
+    "lon": 17.7167,
+    "population": 24267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Brezno",
+    "region": "Banská Bystrica Region",
+    "lat": 48.8,
+    "lon": 19.75,
+    "population": 24194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Košice II",
+    "region": "Košice Region",
+    "lat": 48.6975,
+    "lon": 21.2227,
+    "population": 24184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Štrba",
+    "region": "Prešov Region",
+    "lat": 49.0591,
+    "lon": 20.0798,
+    "population": 23887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poprad",
+    "region": "Prešov Region",
+    "lat": 49.0614,
+    "lon": 20.298,
+    "population": 23799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pribylina",
+    "region": "Žilina Region",
+    "lat": 49.0995,
+    "lon": 19.7943,
+    "population": 23799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Žarnovica",
+    "region": "Banská Bystrica Region",
+    "lat": 48.4844,
+    "lon": 18.7208,
+    "population": 23708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Poprad",
+    "region": "Prešov Region",
+    "lat": 49.05,
+    "lon": 20.3,
+    "population": 23421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Kysucké Nové Mesto",
+    "region": "Žilina Region",
+    "lat": 49.3021,
+    "lon": 18.786,
+    "population": 22782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Piešťany",
+    "region": "Trnava Region",
+    "lat": 48.5906,
+    "lon": 17.8268,
+    "population": 22671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Veľký Krtíš",
+    "region": "Banská Bystrica Region",
+    "lat": 48.2,
+    "lon": 19.35,
+    "population": 22453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veľký Krtíš",
+    "region": "Banská Bystrica Region",
+    "lat": 48.2106,
+    "lon": 19.3504,
+    "population": 22451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šamorín",
+    "region": "Trnava Region",
+    "lat": 48.0301,
+    "lon": 17.3097,
+    "population": 22449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Želiezovce",
+    "region": "Nitra Region",
+    "lat": 48.0508,
+    "lon": 18.6542,
+    "population": 22156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Zlaté Moravce",
+    "region": "Nitra Region",
+    "lat": 48.3829,
+    "lon": 18.3984,
+    "population": 22112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bojnice",
+    "region": "Trenčín Region",
+    "lat": 48.7851,
+    "lon": 18.5864,
+    "population": 22008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Prešov",
+    "region": "Prešov Region",
+    "lat": 49,
+    "lon": 21.25,
+    "population": 21929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oravský Podzámok",
+    "region": "Žilina Region",
+    "lat": 49.2594,
+    "lon": 19.3569,
+    "population": 21894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kysucké Nové Mesto",
+    "region": "Žilina Region",
+    "lat": 49.3,
+    "lon": 18.7833,
+    "population": 21803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Nové Zámky",
+    "region": "Nitra Region",
+    "lat": 47.9833,
+    "lon": 18.1667,
+    "population": 21789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kováčová",
+    "region": "Banská Bystrica Region",
+    "lat": 48.6015,
+    "lon": 19.1025,
+    "population": 21767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senica",
+    "region": "Trnava Region",
+    "lat": 48.6792,
+    "lon": 17.367,
+    "population": 21635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tlmače",
+    "region": "Nitra Region",
+    "lat": 48.2893,
+    "lon": 18.5315,
+    "population": 21487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medzilaborce",
+    "region": "Prešov Region",
+    "lat": 49.2719,
+    "lon": 21.9007,
+    "population": 21471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Senica",
+    "region": "Trnava Region",
+    "lat": 48.6833,
+    "lon": 17.3667,
+    "population": 21379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medzev",
+    "region": "Košice Region",
+    "lat": 48.7004,
+    "lon": 20.8937,
+    "population": 21316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kežmarok",
+    "region": "Prešov Region",
+    "lat": 49.1357,
+    "lon": 20.4335,
+    "population": 21161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Myjava",
+    "region": "Trenčín Region",
+    "lat": 48.75,
+    "lon": 17.5833,
+    "population": 21141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Michalovce",
+    "region": "Košice Region",
+    "lat": 48.75,
+    "lon": 21.9333,
+    "population": 20897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humenné",
+    "region": "Prešov Region",
+    "lat": 48.9371,
+    "lon": 21.9163,
+    "population": 20894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nováky",
+    "region": "Trenčín Region",
+    "lat": 48.7111,
+    "lon": 18.5339,
+    "population": 20645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Kežmarok",
+    "region": "Prešov Region",
+    "lat": 49.1359,
+    "lon": 20.4293,
+    "population": 20604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Dolný Kubín",
+    "region": "Žilina Region",
+    "lat": 49.2,
+    "lon": 19.3,
+    "population": 20603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svätý Jur",
+    "region": "Bratislava Region",
+    "lat": 48.2522,
+    "lon": 17.2154,
+    "population": 20497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Košice",
+    "region": "Košice Region",
+    "lat": 48.7139,
+    "lon": 21.2581,
+    "population": 20476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Detva",
+    "region": "Banská Bystrica Region",
+    "lat": 48.5598,
+    "lon": 19.4204,
+    "population": 20167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topoľčany",
+    "region": "Nitra Region",
+    "lat": 48.5636,
+    "lon": 18.1671,
+    "population": 19939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stropkov",
+    "region": "Prešov Region",
+    "lat": 49.2021,
+    "lon": 21.6522,
+    "population": 19874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svodín",
+    "region": "Nitra Region",
+    "lat": 47.9105,
+    "lon": 18.4997,
+    "population": 19660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liptovský Mikuláš",
+    "region": "Žilina Region",
+    "lat": 49.0806,
+    "lon": 19.6222,
+    "population": 19191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Žiar nad Hronom",
+    "region": "Banská Bystrica Region",
+    "lat": 48.5833,
+    "lon": 18.8667,
+    "population": 19095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oravská Lesná",
+    "region": "Žilina Region",
+    "lat": 49.3667,
+    "lon": 19.1809,
+    "population": 19018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Komárno",
+    "region": "Nitra Region",
+    "lat": 47.7667,
+    "lon": 18.1333,
+    "population": 18728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Štúrovo",
+    "region": "Nitra Region",
+    "lat": 47.795,
+    "lon": 18.7175,
+    "population": 18664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Zvolen",
+    "region": "Banská Bystrica Region",
+    "lat": 48.5833,
+    "lon": 19.1333,
+    "population": 18517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gabčíkovo",
+    "region": "Trnava Region",
+    "lat": 47.8921,
+    "lon": 17.5788,
+    "population": 18514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bratislava II",
+    "region": "Bratislava Region",
+    "lat": 48.1528,
+    "lon": 17.1776,
+    "population": 18114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hybe",
+    "region": "Žilina Region",
+    "lat": 49.0444,
+    "lon": 19.8289,
+    "population": 18029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Čadca",
+    "region": "Žilina Region",
+    "lat": 49.4333,
+    "lon": 18.7833,
+    "population": 17999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sobrance",
+    "region": "Košice Region",
+    "lat": 48.7445,
+    "lon": 22.1814,
+    "population": 17794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabinov",
+    "region": "Prešov Region",
+    "lat": 49.1031,
+    "lon": 21.0988,
+    "population": 17624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svidník",
+    "region": "Prešov Region",
+    "lat": 49.3082,
+    "lon": 21.5703,
+    "population": 17550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rimavská Sobota",
+    "region": "Banská Bystrica Region",
+    "lat": 48.3828,
+    "lon": 20.0224,
+    "population": 17528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Košice I",
+    "region": "Košice Region",
+    "lat": 48.7291,
+    "lon": 21.25,
+    "population": 17521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lipany",
+    "region": "Prešov Region",
+    "lat": 49.1538,
+    "lon": 20.9638,
+    "population": 17411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Snina",
+    "region": "Prešov Region",
+    "lat": 48.9858,
+    "lon": 22.1506,
+    "population": 17325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čachtice",
+    "region": "Trenčín Region",
+    "lat": 48.7123,
+    "lon": 17.787,
+    "population": 17024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lehota pod Vtáčnikom",
+    "region": "Trenčín Region",
+    "lat": 48.6914,
+    "lon": 18.5994,
+    "population": 16729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levoča",
+    "region": "Prešov Region",
+    "lat": 49.0217,
+    "lon": 20.5921,
+    "population": 16091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žiar nad Hronom",
+    "region": "Banská Bystrica Region",
+    "lat": 48.5918,
+    "lon": 18.8496,
+    "population": 15932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Partizánske",
+    "region": "Trenčín Region",
+    "lat": 48.6261,
+    "lon": 18.3796,
+    "population": 15877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vysoké Tatry",
+    "region": "Prešov Region",
+    "lat": 49.1364,
+    "lon": 20.2439,
+    "population": 15867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Banská Bystrica",
+    "region": "Banská Bystrica Region",
+    "lat": 48.7333,
+    "lon": 19.15,
+    "population": 15862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobšiná",
+    "region": "Košice Region",
+    "lat": 48.8207,
+    "lon": 20.3699,
+    "population": 15664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smolenice",
+    "region": "Trnava Region",
+    "lat": 48.5048,
+    "lon": 17.4307,
+    "population": 15551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ružomberok",
+    "region": "Žilina Region",
+    "lat": 49.0748,
+    "lon": 19.3075,
+    "population": 15539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senec",
+    "region": "Bratislava Region",
+    "lat": 48.2195,
+    "lon": 17.4004,
+    "population": 15495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavečany",
+    "region": "Košice Region",
+    "lat": 48.7759,
+    "lon": 21.2059,
+    "population": 14603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Revúca",
+    "region": "Banská Bystrica Region",
+    "lat": 48.6835,
+    "lon": 20.1173,
+    "population": 14451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bytča",
+    "region": "Žilina Region",
+    "lat": 49.2227,
+    "lon": 18.5584,
+    "population": 14389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolný Kubín",
+    "region": "Žilina Region",
+    "lat": 49.2098,
+    "lon": 19.3034,
+    "population": 14270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Považská Bystrica",
+    "region": "Trenčín Region",
+    "lat": 49.1215,
+    "lon": 18.4217,
+    "population": 13938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žarnovica",
+    "region": "Banská Bystrica Region",
+    "lat": 48.4812,
+    "lon": 18.7157,
+    "population": 13803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nová Lesná",
+    "region": "Prešov Region",
+    "lat": 49.1225,
+    "lon": 20.2674,
+    "population": 13794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čierna nad Tisou",
+    "region": "Košice Region",
+    "lat": 48.417,
+    "lon": 22.0887,
+    "population": 13682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ždiar",
+    "region": "Prešov Region",
+    "lat": 49.271,
+    "lon": 20.2624,
+    "population": 13665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Stará Ĺubovňa",
+    "region": "Prešov Region",
+    "lat": 49.3,
+    "lon": 20.7,
+    "population": 13590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nové Zámky",
+    "region": "Nitra Region",
+    "lat": 47.9854,
+    "lon": 18.162,
+    "population": 13369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stará Turá",
+    "region": "Trenčín Region",
+    "lat": 48.7772,
+    "lon": 17.6943,
+    "population": 13363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Krupina",
+    "region": "Banská Bystrica Region",
+    "lat": 48.3574,
+    "lon": 19.0633,
+    "population": 12969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rožňava",
+    "region": "Košice Region",
+    "lat": 48.6601,
+    "lon": 20.5376,
+    "population": 12901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Hlohovec",
+    "region": "Trnava Region",
+    "lat": 48.4167,
+    "lon": 17.75,
+    "population": 12782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stará Ľubovňa",
+    "region": "Prešov Region",
+    "lat": 49.2986,
+    "lon": 20.6862,
+    "population": 12581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čierny Balog",
+    "region": "Banská Bystrica Region",
+    "lat": 48.7472,
+    "lon": 19.6513,
+    "population": 12454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prešov",
+    "region": "Prešov Region",
+    "lat": 48.9984,
+    "lon": 21.2339,
+    "population": 12331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turčianske Teplice",
+    "region": "Žilina Region",
+    "lat": 48.8623,
+    "lon": 18.8605,
+    "population": 12286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komárno",
+    "region": "Nitra Region",
+    "lat": 47.7636,
+    "lon": 18.1226,
+    "population": 12027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nitra",
+    "region": "Nitra Region",
+    "lat": 48.3076,
+    "lon": 18.0845,
+    "population": 11994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrochoť,Slovakia",
+    "region": "Banská Bystrica Region",
+    "lat": 48.6557,
+    "lon": 19.3128,
+    "population": 11877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giraltovce",
+    "region": "Prešov Region",
+    "lat": 49.114,
+    "lon": 21.5173,
+    "population": 11779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moldava nad Bodvou",
+    "region": "Košice Region",
+    "lat": 48.6143,
+    "lon": 20.9996,
+    "population": 11771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spišská Nová Ves",
+    "region": "Košice Region",
+    "lat": 48.9446,
+    "lon": 20.5615,
+    "population": 11750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Nitra",
+    "region": "Nitra Region",
+    "lat": 48.3167,
+    "lon": 18.0833,
+    "population": 11335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Spišská Nová Ves",
+    "region": "Košice Region",
+    "lat": 48.95,
+    "lon": 20.5667,
+    "population": 11071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Námestovo",
+    "region": "Žilina Region",
+    "lat": 49.4079,
+    "lon": 19.4803,
+    "population": 10954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinosady",
+    "region": "Bratislava Region",
+    "lat": 48.3114,
+    "lon": 17.2904,
+    "population": 10811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liptovský Hrádok",
+    "region": "Žilina Region",
+    "lat": 49.0396,
+    "lon": 19.7233,
+    "population": 10554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Trenčín",
+    "region": "Trenčín Region",
+    "lat": 48.8952,
+    "lon": 18.0426,
+    "population": 10539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veľký Meder",
+    "region": "Trnava Region",
+    "lat": 47.858,
+    "lon": 17.7688,
+    "population": 10367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Bánovce nad Bebravou",
+    "region": "Trenčín Region",
+    "lat": 48.7191,
+    "lon": 18.2577,
+    "population": 10205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okres Medzilaborce",
+    "region": "Prešov Region",
+    "lat": 49.2706,
+    "lon": 21.902,
+    "population": 10117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zvolen",
+    "region": "Banská Bystrica Region",
+    "lat": 48.5744,
+    "lon": 19.1532,
+    "population": 10082,
+    "timezone": "UTC"
+  }
+]

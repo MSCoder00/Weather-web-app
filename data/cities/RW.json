@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Eglise Catholique, Centrale GIKO",
+    "region": "Southern Province",
+    "lat": -1.9365,
+    "lon": 29.8061,
+    "population": 45738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gisenyi",
+    "region": "Western Province",
+    "lat": -1.7028,
+    "lon": 29.2564,
+    "population": 45598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gitarama",
+    "region": "Southern Province",
+    "lat": -2.0744,
+    "lon": 29.7567,
+    "population": 40228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibuye",
+    "region": "Western Province",
+    "lat": -2.0603,
+    "lon": 29.3478,
+    "population": 38958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibungo",
+    "region": "Eastern Province",
+    "lat": -2.1597,
+    "lon": 30.5427,
+    "population": 31300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rwamagana",
+    "region": "Eastern Province",
+    "lat": -1.9487,
+    "lon": 30.4347,
+    "population": 31130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nzega",
+    "region": "Southern Province",
+    "lat": -2.479,
+    "lon": 29.5564,
+    "population": 29367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cyangugu",
+    "region": "Western Province",
+    "lat": -2.4846,
+    "lon": 28.9075,
+    "population": 28531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kigali",
+    "region": "Kigali district",
+    "lat": -1.95,
+    "lon": 30.0588,
+    "population": 21825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byumba",
+    "region": "Northern Province",
+    "lat": -1.5763,
+    "lon": 30.0675,
+    "population": 18550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butare",
+    "region": "Southern Province",
+    "lat": -2.5967,
+    "lon": 29.7394,
+    "population": 13978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musanze",
+    "region": "Northern Province",
+    "lat": -1.4998,
+    "lon": 29.635,
+    "population": 10369,
+    "timezone": "UTC"
+  }
+]

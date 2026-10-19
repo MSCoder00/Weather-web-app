@@ -1,0 +1,7706 @@
+[
+  {
+    "name": "Coronel Belisle",
+    "region": "Río Negro",
+    "lat": -39.1869,
+    "lon": -65.9542,
+    "population": 49869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Nueva",
+    "region": "Córdoba",
+    "lat": -32.4329,
+    "lon": -63.2476,
+    "population": 49827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bella Italia",
+    "region": "Santa Fe",
+    "lat": -31.2818,
+    "lon": -61.4109,
+    "population": 49796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampa del Infierno",
+    "region": "Chaco",
+    "lat": -26.5052,
+    "lon": -61.1744,
+    "population": 49759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Elisa",
+    "region": "Chaco",
+    "lat": -26.9304,
+    "lon": -59.5186,
+    "population": 49706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Ceballos",
+    "region": "Córdoba",
+    "lat": -31.1649,
+    "lon": -64.3224,
+    "population": 49657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Achiras",
+    "region": "Córdoba",
+    "lat": -33.1754,
+    "lon": -64.9933,
+    "population": 49648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Anta",
+    "region": "Salta",
+    "lat": -24.9167,
+    "lon": -64,
+    "population": 49642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomé",
+    "region": "Corrientes",
+    "lat": -28.5494,
+    "lon": -56.0408,
+    "population": 49630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Ramírez",
+    "region": "Entre Ríos",
+    "lat": -32.176,
+    "lon": -60.2008,
+    "population": 49608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Montecarlo",
+    "region": "Misiones",
+    "lat": -26.7167,
+    "lon": -54.5833,
+    "population": 49604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolavón",
+    "region": "Chubut",
+    "lat": -43.3068,
+    "lon": -65.7065,
+    "population": 49593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esperanza",
+    "region": "Santa Fe",
+    "lat": -31.4488,
+    "lon": -60.9317,
+    "population": 49582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Albardón",
+    "region": "San Juan",
+    "lat": -31.2833,
+    "lon": -68.4167,
+    "population": 49538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Toscas",
+    "region": "Santa Fe",
+    "lat": -28.3529,
+    "lon": -59.258,
+    "population": 49489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedras Blancas",
+    "region": "Entre Ríos",
+    "lat": -31.1859,
+    "lon": -59.9518,
+    "population": 49483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Altos",
+    "region": "Catamarca",
+    "lat": -28.0484,
+    "lon": -65.4994,
+    "population": 49468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Metán",
+    "region": "Salta",
+    "lat": -25.5,
+    "lon": -64.6667,
+    "population": 49428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alejo Ledesma",
+    "region": "Córdoba",
+    "lat": -33.6064,
+    "lon": -62.623,
+    "population": 49387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rancul",
+    "region": "La Pampa",
+    "lat": -35.0686,
+    "lon": -64.6811,
+    "population": 49367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cesira",
+    "region": "Córdoba",
+    "lat": -33.9511,
+    "lon": -62.9724,
+    "population": 49349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Córdoba",
+    "region": "Córdoba",
+    "lat": -31.4135,
+    "lon": -64.181,
+    "population": 49336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Azul",
+    "region": "Misiones",
+    "lat": -27.6331,
+    "lon": -55.4962,
+    "population": 49326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Coloradas",
+    "region": "Neuquén",
+    "lat": -39.5553,
+    "lon": -70.5949,
+    "population": 49262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobernador Gálvez",
+    "region": "Santa Fe",
+    "lat": -33.0302,
+    "lon": -60.6405,
+    "population": 49158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maciá",
+    "region": "Entre Ríos",
+    "lat": -32.1722,
+    "lon": -59.3995,
+    "population": 49158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranqueras",
+    "region": "Chaco",
+    "lat": -27.4813,
+    "lon": -58.9393,
+    "population": 49153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oro Verde",
+    "region": "Entre Ríos",
+    "lat": -31.8251,
+    "lon": -60.5175,
+    "population": 49149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Yeruá",
+    "region": "Entre Ríos",
+    "lat": -31.5371,
+    "lon": -58.0153,
+    "population": 49035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rivadavia",
+    "region": "Salta",
+    "lat": -23.6667,
+    "lon": -62.9167,
+    "population": 49005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Rafael",
+    "region": "Mendoza",
+    "lat": -35,
+    "lon": -68.8333,
+    "population": 48991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devoto",
+    "region": "Córdoba",
+    "lat": -31.4043,
+    "lon": -62.3063,
+    "population": 48979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serrano",
+    "region": "Córdoba",
+    "lat": -34.4697,
+    "lon": -63.5384,
+    "population": 48962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Basilio",
+    "region": "Córdoba",
+    "lat": -33.4976,
+    "lon": -64.3149,
+    "population": 48949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Belgrano",
+    "region": "Santa Fe",
+    "lat": -32.5,
+    "lon": -61.75,
+    "population": 48925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerta de Corral Quemado",
+    "region": "Catamarca",
+    "lat": -27.23,
+    "lon": -66.9364,
+    "population": 48853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Martín",
+    "region": "Mendoza",
+    "lat": -32.8373,
+    "lon": -68.2492,
+    "population": 48830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto Río Senguer",
+    "region": "Chubut",
+    "lat": -45.041,
+    "lon": -70.8198,
+    "population": 48775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makallé",
+    "region": "Chaco",
+    "lat": -27.2069,
+    "lon": -59.287,
+    "population": 48760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Misiones",
+    "lat": -27.9349,
+    "lon": -55.4074,
+    "population": 48746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lomas de Vallejos",
+    "region": "Corrientes",
+    "lat": -27.735,
+    "lon": -57.9185,
+    "population": 48701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cipolletti",
+    "region": "Río Negro",
+    "lat": -38.9339,
+    "lon": -67.9903,
+    "population": 48677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cutral-Có",
+    "region": "Neuquén",
+    "lat": -38.9342,
+    "lon": -69.2305,
+    "population": 48653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herrera",
+    "region": "Entre Ríos",
+    "lat": -32.434,
+    "lon": -58.6318,
+    "population": 48620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mendiolaza",
+    "region": "Córdoba",
+    "lat": -31.2674,
+    "lon": -64.3009,
+    "population": 48521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arauco",
+    "region": "La Rioja",
+    "lat": -28.5807,
+    "lon": -66.7925,
+    "population": 48472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago del Estero",
+    "region": "Santiago del Estero",
+    "lat": -27.7951,
+    "lon": -64.2615,
+    "population": 48456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Intendente Alvear",
+    "region": "La Pampa",
+    "lat": -35.2338,
+    "lon": -63.5921,
+    "population": 48403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concarán",
+    "region": "San Luis",
+    "lat": -32.5601,
+    "lon": -65.2427,
+    "population": 48312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Totoral",
+    "region": "Córdoba",
+    "lat": -30.8333,
+    "lon": -63.9167,
+    "population": 48126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Justo",
+    "region": "Entre Ríos",
+    "lat": -32.4465,
+    "lon": -58.4357,
+    "population": 48101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carnerillo",
+    "region": "Córdoba",
+    "lat": -32.9137,
+    "lon": -64.0217,
+    "population": 48078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Playosa",
+    "region": "Córdoba",
+    "lat": -32.1,
+    "lon": -63.0309,
+    "population": 48022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Ovejas",
+    "region": "Neuquén",
+    "lat": -36.9888,
+    "lon": -70.7499,
+    "population": 48010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alejandro Roca",
+    "region": "Córdoba",
+    "lat": -33.3537,
+    "lon": -63.7185,
+    "population": 47972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jorge",
+    "region": "Santa Fe",
+    "lat": -31.8962,
+    "lon": -61.8598,
+    "population": 47875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Varela",
+    "region": "Catamarca",
+    "lat": -27.93,
+    "lon": -65.8715,
+    "population": 47823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa María Grande",
+    "region": "Entre Ríos",
+    "lat": -31.6656,
+    "lon": -59.9018,
+    "population": 47758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chos Malal",
+    "region": "Neuquén",
+    "lat": -37.3781,
+    "lon": -70.2708,
+    "population": 47669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Concepción del Tío",
+    "region": "Córdoba",
+    "lat": -31.3226,
+    "lon": -62.8135,
+    "population": 47643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Lugano",
+    "region": "Buenos Aires",
+    "lat": -34.6791,
+    "lon": -58.4726,
+    "population": 47582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunchales",
+    "region": "Santa Fe",
+    "lat": -30.944,
+    "lon": -61.5615,
+    "population": 47537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronel Baigorria",
+    "region": "Córdoba",
+    "lat": -32.8477,
+    "lon": -64.3611,
+    "population": 47445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alvear",
+    "region": "Corrientes",
+    "lat": -29.0968,
+    "lon": -56.5504,
+    "population": 47416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Esquina",
+    "region": "Corrientes",
+    "lat": -30,
+    "lon": -59.3333,
+    "population": 47402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salta",
+    "region": "Salta",
+    "lat": -24.7859,
+    "lon": -65.4117,
+    "population": 47371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Maruja",
+    "region": "La Pampa",
+    "lat": -35.6736,
+    "lon": -64.94,
+    "population": 47339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bernardo",
+    "region": "Chaco",
+    "lat": -27.2878,
+    "lon": -60.7125,
+    "population": 47224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Allen",
+    "region": "Río Negro",
+    "lat": -38.9774,
+    "lon": -67.8271,
+    "population": 47190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tilcara",
+    "region": "Jujuy",
+    "lat": -23.5782,
+    "lon": -65.3952,
+    "population": 47169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Valle Viejo",
+    "region": "Catamarca",
+    "lat": -28.5833,
+    "lon": -65.75,
+    "population": 47093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilino",
+    "region": "Córdoba",
+    "lat": -30.214,
+    "lon": -64.5006,
+    "population": 47033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idiazábal",
+    "region": "Córdoba",
+    "lat": -32.8141,
+    "lon": -63.0325,
+    "population": 47004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Giardino",
+    "region": "Córdoba",
+    "lat": -31.0333,
+    "lon": -64.4833,
+    "population": 46981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Recreo",
+    "region": "Catamarca",
+    "lat": -29.2818,
+    "lon": -65.061,
+    "population": 46972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Urquiza",
+    "region": "Entre Ríos",
+    "lat": -31.6476,
+    "lon": -60.3752,
+    "population": 46937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laboulaye",
+    "region": "Córdoba",
+    "lat": -34.1266,
+    "lon": -63.3912,
+    "population": 46895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Puerta de San José",
+    "region": "Catamarca",
+    "lat": -27.55,
+    "lon": -67.0167,
+    "population": 46889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Adela",
+    "region": "La Pampa",
+    "lat": -38.9833,
+    "lon": -64.0833,
+    "population": 46855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Famaillá",
+    "region": "Tucumán",
+    "lat": -26.9167,
+    "lon": -65.5,
+    "population": 46569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Marcos Juárez",
+    "region": "Córdoba",
+    "lat": -33,
+    "lon": -62.25,
+    "population": 46546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buena Esperanza",
+    "region": "San Luis",
+    "lat": -34.7565,
+    "lon": -65.2538,
+    "population": 46543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aranguren",
+    "region": "Entre Ríos",
+    "lat": -32.2425,
+    "lon": -60.1611,
+    "population": 46540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Tupungato",
+    "region": "Mendoza",
+    "lat": -33.25,
+    "lon": -69.25,
+    "population": 46521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Iruya",
+    "region": "Salta",
+    "lat": -22.8,
+    "lon": -64.9167,
+    "population": 46495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Turbio",
+    "region": "Santa Cruz",
+    "lat": -51.5359,
+    "lon": -72.3367,
+    "population": 46450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saldán",
+    "region": "Córdoba",
+    "lat": -31.3026,
+    "lon": -64.307,
+    "population": 46447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualeguaychú",
+    "region": "Entre Ríos",
+    "lat": -33.0094,
+    "lon": -58.5172,
+    "population": 46441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suncho Corral",
+    "region": "Santiago del Estero",
+    "lat": -27.9336,
+    "lon": -63.4294,
+    "population": 46397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Martín",
+    "region": "Santiago del Estero",
+    "lat": -28.1667,
+    "lon": -63.8333,
+    "population": 46386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lago Puelo",
+    "region": "Chubut",
+    "lat": -42.0668,
+    "lon": -71.6038,
+    "population": 46371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Regina",
+    "region": "Río Negro",
+    "lat": -39.1,
+    "lon": -67.0667,
+    "population": 46327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Monte Caseros",
+    "region": "Corrientes",
+    "lat": -30.25,
+    "lon": -57.8333,
+    "population": 46298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Andalgalá",
+    "region": "Catamarca",
+    "lat": -27.5833,
+    "lon": -66.4667,
+    "population": 46177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Tehuelches",
+    "region": "Chubut",
+    "lat": -44.2213,
+    "lon": -70.2526,
+    "population": 45986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Acha",
+    "region": "La Pampa",
+    "lat": -37.377,
+    "lon": -64.6043,
+    "population": 45975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Candelaria",
+    "region": "Misiones",
+    "lat": -27.5,
+    "lon": -55.5,
+    "population": 45923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutquín",
+    "region": "Catamarca",
+    "lat": -28.321,
+    "lon": -66.1425,
+    "population": 45907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catriló",
+    "region": "La Pampa",
+    "lat": -36.406,
+    "lon": -63.4217,
+    "population": 45896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Capayán",
+    "region": "Catamarca",
+    "lat": -28.8333,
+    "lon": -66,
+    "population": 45887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Añelo",
+    "region": "Neuquén",
+    "lat": -38.1667,
+    "lon": -69,
+    "population": 45842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa General Mitre",
+    "region": "Santiago del Estero",
+    "lat": -29.1431,
+    "lon": -62.6525,
+    "population": 45682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de los Cobres",
+    "region": "Salta",
+    "lat": -24.218,
+    "lon": -66.3188,
+    "population": 45609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Julián",
+    "region": "Santa Cruz",
+    "lat": -49.3055,
+    "lon": -67.7274,
+    "population": 45598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Valeria",
+    "region": "Córdoba",
+    "lat": -34.3409,
+    "lon": -64.9203,
+    "population": 45589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Allende",
+    "region": "Córdoba",
+    "lat": -31.2946,
+    "lon": -64.2954,
+    "population": 45538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro R. Fernández",
+    "region": "Corrientes",
+    "lat": -28.751,
+    "lon": -58.6558,
+    "population": 45513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castro Barros",
+    "region": "La Rioja",
+    "lat": -30.5795,
+    "lon": -65.727,
+    "population": 45504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loreto",
+    "region": "Misiones",
+    "lat": -27.3318,
+    "lon": -55.525,
+    "population": 45461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Calera",
+    "region": "Córdoba",
+    "lat": -31.3438,
+    "lon": -64.3353,
+    "population": 45449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Javier",
+    "region": "Santa Fe",
+    "lat": -30.5778,
+    "lon": -59.9317,
+    "population": 45104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Tinogasta",
+    "region": "Catamarca",
+    "lat": -27.5,
+    "lon": -68,
+    "population": 45101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Apóstoles",
+    "region": "Misiones",
+    "lat": -27.9167,
+    "lon": -55.75,
+    "population": 45084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañada de Gómez",
+    "region": "Santa Fe",
+    "lat": -32.8164,
+    "lon": -61.3949,
+    "population": 45071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Grande",
+    "region": "Tierra del Fuego",
+    "lat": -53.7877,
+    "lon": -67.7095,
+    "population": 45025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charadai",
+    "region": "Chaco",
+    "lat": -27.655,
+    "lon": -59.8629,
+    "population": 45012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Rico",
+    "region": "Misiones",
+    "lat": -26.796,
+    "lon": -55.024,
+    "population": 45010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roldán",
+    "region": "Santa Fe",
+    "lat": -32.8985,
+    "lon": -60.9068,
+    "population": 44939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Dos de Abril",
+    "region": "Chaco",
+    "lat": -27.6093,
+    "lon": -61.3447,
+    "population": 44923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Tapenagá",
+    "region": "Chaco",
+    "lat": -27.5,
+    "lon": -59.75,
+    "population": 44856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cervantes",
+    "region": "Río Negro",
+    "lat": -39.0544,
+    "lon": -67.3943,
+    "population": 44850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cruz",
+    "region": "Corrientes",
+    "lat": -29.1744,
+    "lon": -56.6433,
+    "population": 44778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sebastián Elcano",
+    "region": "Córdoba",
+    "lat": -30.161,
+    "lon": -63.5936,
+    "population": 44702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Costa Sacate",
+    "region": "Córdoba",
+    "lat": -31.6477,
+    "lon": -63.7593,
+    "population": 44695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Comandante Fernández",
+    "region": "Chaco",
+    "lat": -26.8333,
+    "lon": -60.5,
+    "population": 44625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Seco",
+    "region": "Córdoba",
+    "lat": -30.0833,
+    "lon": -63,
+    "population": 44596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andalgalá",
+    "region": "Catamarca",
+    "lat": -27.5818,
+    "lon": -66.3163,
+    "population": 44548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de Litín",
+    "region": "Córdoba",
+    "lat": -32.2138,
+    "lon": -62.6324,
+    "population": 44461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monteros",
+    "region": "Tucumán",
+    "lat": -27.1674,
+    "lon": -65.4983,
+    "population": 44454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingeniero Luis A. Huergo",
+    "region": "Río Negro",
+    "lat": -39.0715,
+    "lon": -67.2379,
+    "population": 44443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyo Cabral",
+    "region": "Córdoba",
+    "lat": -32.4912,
+    "lon": -63.4013,
+    "population": 44408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Huidobro",
+    "region": "Córdoba",
+    "lat": -34.8383,
+    "lon": -64.5869,
+    "population": 44387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de La Paz",
+    "region": "Catamarca",
+    "lat": -29.25,
+    "lon": -65.25,
+    "population": 44363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charata",
+    "region": "Chaco",
+    "lat": -27.2144,
+    "lon": -61.188,
+    "population": 44334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marull",
+    "region": "Córdoba",
+    "lat": -30.9947,
+    "lon": -62.8258,
+    "population": 44321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Oberá",
+    "region": "Misiones",
+    "lat": -27.55,
+    "lon": -55.0833,
+    "population": 44251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa General Guemes",
+    "region": "Formosa",
+    "lat": -24.7553,
+    "lon": -59.4894,
+    "population": 44199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Cocos",
+    "region": "Córdoba",
+    "lat": -30.925,
+    "lon": -64.5021,
+    "population": 44195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia San Bartolomé",
+    "region": "Córdoba",
+    "lat": -31.5278,
+    "lon": -62.7244,
+    "population": 44122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plaza Huincul",
+    "region": "Neuquén",
+    "lat": -38.926,
+    "lon": -69.2086,
+    "population": 43966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobernador Mansilla",
+    "region": "Entre Ríos",
+    "lat": -32.5445,
+    "lon": -59.3548,
+    "population": 43868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Clotilde",
+    "region": "Chaco",
+    "lat": -27.1333,
+    "lon": -60.6667,
+    "population": 43839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucas González",
+    "region": "Entre Ríos",
+    "lat": -32.3843,
+    "lon": -59.5301,
+    "population": 43767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ñorquinco",
+    "region": "Río Negro",
+    "lat": -41.8507,
+    "lon": -70.9017,
+    "population": 43755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Tulumba",
+    "region": "Córdoba",
+    "lat": -30.25,
+    "lon": -63.9167,
+    "population": 43724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avellaneda",
+    "region": "Santa Fe",
+    "lat": -29.1176,
+    "lon": -59.6583,
+    "population": 43707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itá Ibaté",
+    "region": "Corrientes",
+    "lat": -27.4257,
+    "lon": -57.3376,
+    "population": 43697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Independencia",
+    "region": "Chaco",
+    "lat": -26.6667,
+    "lon": -60.6667,
+    "population": 43651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tío Pujio",
+    "region": "Córdoba",
+    "lat": -32.2879,
+    "lon": -63.356,
+    "population": 43641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hernando",
+    "region": "Córdoba",
+    "lat": -32.4266,
+    "lon": -63.7333,
+    "population": 43623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elena",
+    "region": "Córdoba",
+    "lat": -32.572,
+    "lon": -64.3948,
+    "population": 43564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Capital",
+    "region": "San Juan",
+    "lat": -31.5333,
+    "lon": -68.5333,
+    "population": 43539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Arañado",
+    "region": "Córdoba",
+    "lat": -31.7412,
+    "lon": -62.8932,
+    "population": 43502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concordia",
+    "region": "Entre Ríos",
+    "lat": -31.393,
+    "lon": -58.0209,
+    "population": 43490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caimancito",
+    "region": "Jujuy",
+    "lat": -23.7407,
+    "lon": -64.5937,
+    "population": 43433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nogoyá",
+    "region": "Entre Ríos",
+    "lat": -32.3939,
+    "lon": -59.7895,
+    "population": 43424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capitán Bermúdez",
+    "region": "Santa Fe",
+    "lat": -32.8226,
+    "lon": -60.7185,
+    "population": 43360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abra Pampa",
+    "region": "Jujuy",
+    "lat": -22.7205,
+    "lon": -65.697,
+    "population": 43346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rawson",
+    "region": "Chubut",
+    "lat": -43.1234,
+    "lon": -65.1018,
+    "population": 43336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Aurora",
+    "region": "Misiones",
+    "lat": -27.4743,
+    "lon": -54.525,
+    "population": 43335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tostado",
+    "region": "Santa Fe",
+    "lat": -29.232,
+    "lon": -61.7692,
+    "population": 43305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Piray",
+    "region": "Misiones",
+    "lat": -26.4694,
+    "lon": -54.7074,
+    "population": 43275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palma Sola",
+    "region": "Jujuy",
+    "lat": -23.9777,
+    "lon": -64.3031,
+    "population": 43229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa de Soto",
+    "region": "Córdoba",
+    "lat": -30.8552,
+    "lon": -64.9995,
+    "population": 43210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buta Ranquil",
+    "region": "Neuquén",
+    "lat": -37.0522,
+    "lon": -69.8771,
+    "population": 43191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Dolores",
+    "region": "Córdoba",
+    "lat": -31.9459,
+    "lon": -65.1896,
+    "population": 43188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ubajay",
+    "region": "Entre Ríos",
+    "lat": -31.7936,
+    "lon": -58.3135,
+    "population": 43149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Concepción de la Sierra",
+    "region": "Misiones",
+    "lat": -27.8333,
+    "lon": -55.4167,
+    "population": 43061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caseros",
+    "region": "Entre Ríos",
+    "lat": -32.4633,
+    "lon": -58.4787,
+    "population": 43053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuestra Señora del Rosario de Caa Catí",
+    "region": "Corrientes",
+    "lat": -27.7507,
+    "lon": -57.6207,
+    "population": 43038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Rosas",
+    "region": "Santa Fe",
+    "lat": -32.4766,
+    "lon": -61.5804,
+    "population": 42967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobernador Virasora",
+    "region": "Corrientes",
+    "lat": -28.05,
+    "lon": -56.0333,
+    "population": 42924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Ancasti",
+    "region": "Catamarca",
+    "lat": -29,
+    "lon": -65.5,
+    "population": 42892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualeguay",
+    "region": "Entre Ríos",
+    "lat": -33.1416,
+    "lon": -59.3097,
+    "population": 42872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronda",
+    "region": "Santa Fe",
+    "lat": -31.9726,
+    "lon": -60.9198,
+    "population": 42862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alderetes",
+    "region": "Tucumán",
+    "lat": -26.8167,
+    "lon": -65.1333,
+    "population": 42854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campo Gallo",
+    "region": "Santiago del Estero",
+    "lat": -26.5833,
+    "lon": -62.85,
+    "population": 42821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Constitución",
+    "region": "Santa Fe",
+    "lat": -33.2278,
+    "lon": -60.3297,
+    "population": 42758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento Capital",
+    "region": "Salta",
+    "lat": -24.8333,
+    "lon": -65.3333,
+    "population": 42695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Menucos",
+    "region": "Río Negro",
+    "lat": -40.844,
+    "lon": -68.0872,
+    "population": 42543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Salvador",
+    "region": "Entre Ríos",
+    "lat": -31.6249,
+    "lon": -58.5052,
+    "population": 42484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Tumbaya",
+    "region": "Jujuy",
+    "lat": -23.7167,
+    "lon": -65.6667,
+    "population": 42478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Lamadrid",
+    "region": "La Rioja",
+    "lat": -28.8333,
+    "lon": -68.6667,
+    "population": 42373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampa de los Guanacos",
+    "region": "Santiago del Estero",
+    "lat": -26.23,
+    "lon": -61.8377,
+    "population": 42364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rada Tilly",
+    "region": "Chubut",
+    "lat": -45.9246,
+    "lon": -67.5542,
+    "population": 42318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tres Capones",
+    "region": "Misiones",
+    "lat": -28.0064,
+    "lon": -55.6047,
+    "population": 42293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ordóñez",
+    "region": "Córdoba",
+    "lat": -32.8406,
+    "lon": -62.8655,
+    "population": 42280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Verde",
+    "region": "Chaco",
+    "lat": -27.1263,
+    "lon": -59.3735,
+    "population": 42206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Paraná",
+    "region": "Entre Ríos",
+    "lat": -31.6667,
+    "lon": -60,
+    "population": 42202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Criolla",
+    "region": "Entre Ríos",
+    "lat": -31.269,
+    "lon": -58.1056,
+    "population": 42201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Javier",
+    "region": "Santa Fe",
+    "lat": -30.3333,
+    "lon": -59.9167,
+    "population": 42168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beltrán",
+    "region": "Santiago del Estero",
+    "lat": -27.8291,
+    "lon": -64.061,
+    "population": 42148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Ibicuy",
+    "region": "Entre Ríos",
+    "lat": -33.7531,
+    "lon": -59.1776,
+    "population": 42125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goya",
+    "region": "Corrientes",
+    "lat": -29.1399,
+    "lon": -59.2634,
+    "population": 42061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Maipú",
+    "region": "Chaco",
+    "lat": -26.3333,
+    "lon": -60.4167,
+    "population": 42051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caleta Olivia",
+    "region": "Santa Cruz",
+    "lat": -46.4393,
+    "lon": -67.5281,
+    "population": 41969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General San Martín",
+    "region": "La Pampa",
+    "lat": -37.979,
+    "lon": -63.6045,
+    "population": 41948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humahuaca",
+    "region": "Jujuy",
+    "lat": -23.2054,
+    "lon": -65.3505,
+    "population": 41928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa del Dique",
+    "region": "Córdoba",
+    "lat": -32.1767,
+    "lon": -64.4554,
+    "population": 41894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Martín de Pueyrredón",
+    "region": "San Luis",
+    "lat": -33.2754,
+    "lon": -66.3202,
+    "population": 41695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Ortúzar",
+    "region": "Buenos Aires",
+    "lat": -34.5797,
+    "lon": -58.4683,
+    "population": 41682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimbas",
+    "region": "San Juan",
+    "lat": -31.4833,
+    "lon": -68.5333,
+    "population": 41537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rivadavia",
+    "region": "San Juan",
+    "lat": -31.5645,
+    "lon": -68.6522,
+    "population": 41402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canals",
+    "region": "Córdoba",
+    "lat": -33.5654,
+    "lon": -62.8893,
+    "population": 41400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Luis del Palmar",
+    "region": "Corrientes",
+    "lat": -27.5,
+    "lon": -58.25,
+    "population": 41301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Vera",
+    "region": "Santa Fe",
+    "lat": -29,
+    "lon": -60.5,
+    "population": 41289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campo Largo",
+    "region": "Chaco",
+    "lat": -26.8008,
+    "lon": -60.8421,
+    "population": 41204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chazón",
+    "region": "Córdoba",
+    "lat": -33.0787,
+    "lon": -63.2766,
+    "population": 41175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuesta Blanca",
+    "region": "Córdoba",
+    "lat": -31.4866,
+    "lon": -64.5715,
+    "population": 41029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rivadavia",
+    "region": "Mendoza",
+    "lat": -33.18,
+    "lon": -68.466,
+    "population": 41027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fray Luis A. Beltrán",
+    "region": "Santa Fe",
+    "lat": -32.7912,
+    "lon": -60.7282,
+    "population": 40984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Saladas",
+    "region": "Corrientes",
+    "lat": -28.25,
+    "lon": -58.75,
+    "population": 40891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charras",
+    "region": "Córdoba",
+    "lat": -33.024,
+    "lon": -64.0472,
+    "population": 40860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmar Grande",
+    "region": "Corrientes",
+    "lat": -27.9419,
+    "lon": -57.9006,
+    "population": 40856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pozo del Molle",
+    "region": "Córdoba",
+    "lat": -32.0186,
+    "lon": -62.9198,
+    "population": 40843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Veinticinco de Mayo",
+    "region": "Misiones",
+    "lat": -27.4167,
+    "lon": -54.6667,
+    "population": 40840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garruchos",
+    "region": "Corrientes",
+    "lat": -28.1721,
+    "lon": -55.6541,
+    "population": 40745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Iguazú",
+    "region": "Misiones",
+    "lat": -25.8667,
+    "lon": -54.3667,
+    "population": 40716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingeniero Jacobacci",
+    "region": "Río Negro",
+    "lat": -41.3292,
+    "lon": -69.5502,
+    "population": 40715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cafayate",
+    "region": "Salta",
+    "lat": -26.0833,
+    "lon": -65.8333,
+    "population": 40609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Primero",
+    "region": "Córdoba",
+    "lat": -31.0833,
+    "lon": -63.5,
+    "population": 40609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Basilio Nievas",
+    "region": "San Juan",
+    "lat": -31.55,
+    "lon": -68.7333,
+    "population": 40593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón",
+    "region": "Entre Ríos",
+    "lat": -32.2231,
+    "lon": -58.1443,
+    "population": 40578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Guasayán",
+    "region": "Santiago del Estero",
+    "lat": -28,
+    "lon": -64.8333,
+    "population": 40556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campo Ramón",
+    "region": "Misiones",
+    "lat": -27.4549,
+    "lon": -55.0212,
+    "population": 40553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comodoro Rivadavia",
+    "region": "Chubut",
+    "lat": -45.8641,
+    "lon": -67.4966,
+    "population": 40542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Añelo",
+    "region": "Neuquén",
+    "lat": -38.3544,
+    "lon": -68.7884,
+    "population": 40536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rafaela",
+    "region": "Santa Fe",
+    "lat": -31.2503,
+    "lon": -61.4867,
+    "population": 40515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Clara",
+    "region": "Jujuy",
+    "lat": -24.3092,
+    "lon": -64.6625,
+    "population": 40481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Rioja",
+    "region": "La Rioja",
+    "lat": -29.411,
+    "lon": -66.8507,
+    "population": 40423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Enrique Mosconi",
+    "region": "Salta",
+    "lat": -22.5959,
+    "lon": -63.8126,
+    "population": 40394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Guaymallén",
+    "region": "Mendoza",
+    "lat": -32.8833,
+    "lon": -68.7,
+    "population": 40316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa General Belgrano",
+    "region": "Córdoba",
+    "lat": -31.9783,
+    "lon": -64.5563,
+    "population": 40302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trenel",
+    "region": "La Pampa",
+    "lat": -35.6984,
+    "lon": -64.1322,
+    "population": 40277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueve de Julio",
+    "region": "Corrientes",
+    "lat": -28.8405,
+    "lon": -58.8265,
+    "population": 40131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Felipe Yofré",
+    "region": "Corrientes",
+    "lat": -29.1023,
+    "lon": -58.3377,
+    "population": 40121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doblas",
+    "region": "La Pampa",
+    "lat": -37.1497,
+    "lon": -64.0118,
+    "population": 40061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Agustín de Valle Fértil",
+    "region": "San Juan",
+    "lat": -30.6335,
+    "lon": -67.4682,
+    "population": 40033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contraalmirante Cordero",
+    "region": "Río Negro",
+    "lat": -38.7242,
+    "lon": -68.1528,
+    "population": 39957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumampa",
+    "region": "Santiago del Estero",
+    "lat": -29.3847,
+    "lon": -63.4691,
+    "population": 39920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gálvez",
+    "region": "Santa Fe",
+    "lat": -32.0293,
+    "lon": -61.221,
+    "population": 39916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Enrique Mosconi",
+    "region": "Formosa",
+    "lat": -23.2167,
+    "lon": -62.3,
+    "population": 39913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Hondo",
+    "region": "Santiago del Estero",
+    "lat": -27.5833,
+    "lon": -64.75,
+    "population": 39911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Cainguás",
+    "region": "Misiones",
+    "lat": -27.1667,
+    "lon": -54.8333,
+    "population": 39826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueve de Julio",
+    "region": "San Juan",
+    "lat": -31.6691,
+    "lon": -68.3902,
+    "population": 39825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corral de Bustos",
+    "region": "Córdoba",
+    "lat": -33.282,
+    "lon": -62.1846,
+    "population": 39820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Tastil",
+    "region": "Salta",
+    "lat": -24.4517,
+    "lon": -65.9745,
+    "population": 39757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piquillín",
+    "region": "Córdoba",
+    "lat": -31.3016,
+    "lon": -63.7579,
+    "population": 39741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Eufemia",
+    "region": "Córdoba",
+    "lat": -33.1766,
+    "lon": -63.2828,
+    "population": 39705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Venado Tuerto",
+    "region": "Santa Fe",
+    "lat": -33.7456,
+    "lon": -61.9689,
+    "population": 39693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yacimiento Río Turbio",
+    "region": "Santa Cruz",
+    "lat": -51.5732,
+    "lon": -72.3508,
+    "population": 39599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa del Conlara",
+    "region": "San Luis",
+    "lat": -32.3429,
+    "lon": -65.2032,
+    "population": 39553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Jujuy",
+    "region": "Jujuy",
+    "lat": -24.2313,
+    "lon": -64.8661,
+    "population": 39548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Roque",
+    "region": "Corrientes",
+    "lat": -28.6667,
+    "lon": -58.75,
+    "population": 39531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingenio La Esperanza",
+    "region": "Jujuy",
+    "lat": -24.2255,
+    "lon": -64.839,
+    "population": 39466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciervo Petiso",
+    "region": "Chaco",
+    "lat": -26.5804,
+    "lon": -59.6309,
+    "population": 39452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Leandro N. Alem",
+    "region": "Misiones",
+    "lat": -27.5667,
+    "lon": -55.3333,
+    "population": 39431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Telsen",
+    "region": "Chubut",
+    "lat": -42.4167,
+    "lon": -67.1667,
+    "population": 39339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mendoza",
+    "region": "Mendoza",
+    "lat": -32.8908,
+    "lon": -68.8272,
+    "population": 39306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Campos",
+    "region": "Entre Ríos",
+    "lat": -31.5231,
+    "lon": -58.4049,
+    "population": 39299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Leoni",
+    "region": "Misiones",
+    "lat": -26.9876,
+    "lon": -55.1657,
+    "population": 39162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valcheta",
+    "region": "Río Negro",
+    "lat": -40.6799,
+    "lon": -66.1628,
+    "population": 39162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colegiales",
+    "region": "Buenos Aires",
+    "lat": -34.5737,
+    "lon": -58.4492,
+    "population": 39091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Goya",
+    "region": "Corrientes",
+    "lat": -29.5,
+    "lon": -59.5,
+    "population": 38961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Nueve de Julio",
+    "region": "Chaco",
+    "lat": -26.9533,
+    "lon": -61.2763,
+    "population": 38889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paso de los Libres",
+    "region": "Corrientes",
+    "lat": -29.7125,
+    "lon": -57.0877,
+    "population": 38756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deán Funes",
+    "region": "Córdoba",
+    "lat": -30.4204,
+    "lon": -64.3498,
+    "population": 38725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oliva",
+    "region": "Córdoba",
+    "lat": -32.0416,
+    "lon": -63.5698,
+    "population": 38681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clorinda",
+    "region": "Formosa",
+    "lat": -25.2848,
+    "lon": -57.7185,
+    "population": 38540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Justo",
+    "region": "Santa Fe",
+    "lat": -30.6667,
+    "lon": -60.5,
+    "population": 38458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capioví",
+    "region": "Misiones",
+    "lat": -26.93,
+    "lon": -55.0608,
+    "population": 38417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacinto Arauz",
+    "region": "La Pampa",
+    "lat": -38.0861,
+    "lon": -63.4317,
+    "population": 38405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Parejas",
+    "region": "Santa Fe",
+    "lat": -32.6848,
+    "lon": -61.5164,
+    "population": 38387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Caleu-Caleu",
+    "region": "La Pampa",
+    "lat": -38.5833,
+    "lon": -64,
+    "population": 38377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sauce de Luna",
+    "region": "Entre Ríos",
+    "lat": -31.2379,
+    "lon": -59.2187,
+    "population": 38301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos Centro",
+    "region": "Santa Fe",
+    "lat": -31.7286,
+    "lon": -61.0919,
+    "population": 38208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "Santiago del Estero",
+    "lat": -27.9539,
+    "lon": -65.1665,
+    "population": 38008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Caucete",
+    "region": "San Juan",
+    "lat": -31.45,
+    "lon": -67.6667,
+    "population": 37918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Itatí",
+    "region": "Corrientes",
+    "lat": -27.3333,
+    "lon": -58,
+    "population": 37917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obispo Trejo",
+    "region": "Córdoba",
+    "lat": -30.7813,
+    "lon": -63.4135,
+    "population": 37906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riachuelo",
+    "region": "Corrientes",
+    "lat": -27.5819,
+    "lon": -58.745,
+    "population": 37866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobernador Roca",
+    "region": "Misiones",
+    "lat": -27.1864,
+    "lon": -55.4643,
+    "population": 37802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salsipuedes",
+    "region": "Córdoba",
+    "lat": -31.1373,
+    "lon": -64.2959,
+    "population": 37795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almafuerte",
+    "region": "Córdoba",
+    "lat": -32.193,
+    "lon": -64.2556,
+    "population": 37641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calchaquí",
+    "region": "Santa Fe",
+    "lat": -29.8877,
+    "lon": -60.287,
+    "population": 37640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alta Italia",
+    "region": "La Pampa",
+    "lat": -35.3335,
+    "lon": -64.115,
+    "population": 37635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libertador General San Martín",
+    "region": "Jujuy",
+    "lat": -23.8064,
+    "lon": -64.7876,
+    "population": 37613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albardón",
+    "region": "San Juan",
+    "lat": -31.4372,
+    "lon": -68.5256,
+    "population": 37598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Florentino Ameghino",
+    "region": "Chubut",
+    "lat": -44.4167,
+    "lon": -66.1667,
+    "population": 37577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retiro",
+    "region": "Buenos Aires",
+    "lat": -34.5833,
+    "lon": -58.3833,
+    "population": 37570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Loreto",
+    "region": "Santiago del Estero",
+    "lat": -28.55,
+    "lon": -64.3333,
+    "population": 37557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corzuela",
+    "region": "Chaco",
+    "lat": -26.9537,
+    "lon": -60.9693,
+    "population": 37391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobernador Costa",
+    "region": "Chubut",
+    "lat": -44.0499,
+    "lon": -70.598,
+    "population": 37371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mattaldi",
+    "region": "Córdoba",
+    "lat": -34.4819,
+    "lon": -64.1726,
+    "population": 37302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itatí",
+    "region": "Corrientes",
+    "lat": -27.2704,
+    "lon": -58.2446,
+    "population": 37197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herradura",
+    "region": "Formosa",
+    "lat": -26.487,
+    "lon": -58.312,
+    "population": 37185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Surgentes",
+    "region": "Córdoba",
+    "lat": -32.9845,
+    "lon": -62.0219,
+    "population": 37169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Paso de Indios",
+    "region": "Chubut",
+    "lat": -44,
+    "lon": -68.8333,
+    "population": 37082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cachí",
+    "region": "Salta",
+    "lat": -25.1203,
+    "lon": -66.1652,
+    "population": 37010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castelli",
+    "region": "Chaco",
+    "lat": -25.9468,
+    "lon": -60.6195,
+    "population": 36989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Segundo",
+    "region": "Córdoba",
+    "lat": -31.75,
+    "lon": -63.5,
+    "population": 36969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Yema",
+    "region": "Formosa",
+    "lat": -24.2539,
+    "lon": -61.2447,
+    "population": 36931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unquillo",
+    "region": "Córdoba",
+    "lat": -31.2307,
+    "lon": -64.3161,
+    "population": 36830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Margarita Belén",
+    "region": "Chaco",
+    "lat": -27.2616,
+    "lon": -58.9722,
+    "population": 36761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bovril",
+    "region": "Entre Ríos",
+    "lat": -31.3431,
+    "lon": -59.4451,
+    "population": 36726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Francia",
+    "region": "Córdoba",
+    "lat": -31.4067,
+    "lon": -62.634,
+    "population": 36638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pico Truncado",
+    "region": "Santa Cruz",
+    "lat": -46.7949,
+    "lon": -67.9573,
+    "population": 36545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macachín",
+    "region": "La Pampa",
+    "lat": -37.136,
+    "lon": -63.6665,
+    "population": 36525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noetinger",
+    "region": "Córdoba",
+    "lat": -32.366,
+    "lon": -62.3113,
+    "population": 36502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosario del Tala",
+    "region": "Entre Ríos",
+    "lat": -32.3029,
+    "lon": -59.1454,
+    "population": 36460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Acequias",
+    "region": "Córdoba",
+    "lat": -33.2816,
+    "lon": -63.9761,
+    "population": 36453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alta Gracia",
+    "region": "Córdoba",
+    "lat": -31.6529,
+    "lon": -64.4283,
+    "population": 36365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilcaniyeu",
+    "region": "Río Negro",
+    "lat": -41.1229,
+    "lon": -70.7215,
+    "population": 36306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Guaraní",
+    "region": "Misiones",
+    "lat": -27.1667,
+    "lon": -54.1667,
+    "population": 36284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Cañás",
+    "region": "Santa Fe",
+    "lat": -34.0057,
+    "lon": -61.6076,
+    "population": 36274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibarreta",
+    "region": "Formosa",
+    "lat": -25.2144,
+    "lon": -59.8585,
+    "population": 36229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguilares",
+    "region": "Tucumán",
+    "lat": -27.4338,
+    "lon": -65.6143,
+    "population": 36152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "28 de Noviembre",
+    "region": "Santa Cruz",
+    "lat": -51.5839,
+    "lon": -72.2138,
+    "population": 36098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "San Juan",
+    "lat": -31.5399,
+    "lon": -68.495,
+    "population": 36096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Conquistadores",
+    "region": "Entre Ríos",
+    "lat": -30.5908,
+    "lon": -58.4677,
+    "population": 36084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malagueño",
+    "region": "Córdoba",
+    "lat": -31.4647,
+    "lon": -64.3584,
+    "population": 36077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Capital",
+    "region": "Corrientes",
+    "lat": -27.5,
+    "lon": -58.75,
+    "population": 36059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Mayo",
+    "region": "Chubut",
+    "lat": -45.6857,
+    "lon": -70.258,
+    "population": 36052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan",
+    "region": "San Juan",
+    "lat": -31.5375,
+    "lon": -68.5364,
+    "population": 36008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alba Posse",
+    "region": "Misiones",
+    "lat": -27.5698,
+    "lon": -54.6826,
+    "population": 35917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rufino",
+    "region": "Santa Fe",
+    "lat": -34.2683,
+    "lon": -62.7126,
+    "population": 35831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Calafate",
+    "region": "Santa Cruz",
+    "lat": -50.3407,
+    "lon": -72.2768,
+    "population": 35793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Mugueta",
+    "region": "Santa Fe",
+    "lat": -33.3113,
+    "lon": -61.0551,
+    "population": 35720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Paiva",
+    "region": "Santa Fe",
+    "lat": -31.3039,
+    "lon": -60.6589,
+    "population": 35681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Escolar",
+    "region": "Formosa",
+    "lat": -26.6221,
+    "lon": -58.6713,
+    "population": 35652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Bustos",
+    "region": "La Rioja",
+    "lat": -29.2864,
+    "lon": -67.0207,
+    "population": 35649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gastre",
+    "region": "Chubut",
+    "lat": -42.2619,
+    "lon": -69.2211,
+    "population": 35641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Ambato",
+    "region": "Catamarca",
+    "lat": -28,
+    "lon": -65.9167,
+    "population": 35640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Gaimán",
+    "region": "Chubut",
+    "lat": -43.3333,
+    "lon": -66.3333,
+    "population": 35632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Cristóbal",
+    "region": "Santa Fe",
+    "lat": -30.3333,
+    "lon": -61.3333,
+    "population": 35586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Corrientes",
+    "lat": -27.9959,
+    "lon": -57.5896,
+    "population": 35560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de La Capital",
+    "region": "Santa Fe",
+    "lat": -31.5,
+    "lon": -60.6667,
+    "population": 35527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente",
+    "region": "Misiones",
+    "lat": -26.6167,
+    "lon": -54.1333,
+    "population": 35511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maquinchao",
+    "region": "Río Negro",
+    "lat": -41.2491,
+    "lon": -68.7032,
+    "population": 35418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa del Totoral",
+    "region": "Córdoba",
+    "lat": -30.8167,
+    "lon": -63.7167,
+    "population": 35301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Catamarca",
+    "lat": -26.6955,
+    "lon": -66.0473,
+    "population": 35280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aluminé",
+    "region": "Neuquén",
+    "lat": -39.2369,
+    "lon": -70.9197,
+    "population": 35232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Libertador",
+    "region": "Corrientes",
+    "lat": -30.2209,
+    "lon": -59.3898,
+    "population": 35160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "Misiones",
+    "lat": -26.6221,
+    "lon": -54.1084,
+    "population": 35154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Colorado",
+    "region": "Río Negro",
+    "lat": -38.994,
+    "lon": -64.093,
+    "population": 35136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Huecú",
+    "region": "Neuquén",
+    "lat": -37.6452,
+    "lon": -70.5801,
+    "population": 35129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Gallegos",
+    "region": "Santa Cruz",
+    "lat": -51.6226,
+    "lon": -69.2181,
+    "population": 35110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saturnino M. Laspiur",
+    "region": "Córdoba",
+    "lat": -31.7029,
+    "lon": -62.482,
+    "population": 35096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fray Luis Beltrán",
+    "region": "Río Negro",
+    "lat": -39.3137,
+    "lon": -65.76,
+    "population": 35056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barracas",
+    "region": "Buenos Aires",
+    "lat": -34.6497,
+    "lon": -58.3834,
+    "population": 34948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Pomán",
+    "region": "Catamarca",
+    "lat": -28.25,
+    "lon": -66.4167,
+    "population": 34946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Aluminé",
+    "region": "Neuquén",
+    "lat": -39.1667,
+    "lon": -71,
+    "population": 34921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Escalante",
+    "region": "Chubut",
+    "lat": -45.3333,
+    "lon": -67.3333,
+    "population": 34882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción de la Sierra",
+    "region": "Misiones",
+    "lat": -27.9831,
+    "lon": -55.5203,
+    "population": 34861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruiz de Montoya",
+    "region": "Misiones",
+    "lat": -26.9833,
+    "lon": -55.05,
+    "population": 34817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Sauce",
+    "region": "Corrientes",
+    "lat": -30,
+    "lon": -58.6667,
+    "population": 34799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Concepción",
+    "region": "Corrientes",
+    "lat": -28.3333,
+    "lon": -58,
+    "population": 34758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anguil",
+    "region": "La Pampa",
+    "lat": -36.5257,
+    "lon": -64.0102,
+    "population": 34721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saladas",
+    "region": "Corrientes",
+    "lat": -28.2538,
+    "lon": -58.6259,
+    "population": 34706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Lavalle",
+    "region": "Mendoza",
+    "lat": -32.5,
+    "lon": -68,
+    "population": 34692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Italó",
+    "region": "Córdoba",
+    "lat": -34.7924,
+    "lon": -63.782,
+    "population": 34685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cintra",
+    "region": "Córdoba",
+    "lat": -32.3067,
+    "lon": -62.6521,
+    "population": 34682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uriburu",
+    "region": "La Pampa",
+    "lat": -36.5068,
+    "lon": -63.8623,
+    "population": 34611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Angaco",
+    "region": "San Juan",
+    "lat": -31.2,
+    "lon": -68.1333,
+    "population": 34591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lomitas",
+    "region": "Formosa",
+    "lat": -24.7096,
+    "lon": -60.593,
+    "population": 34579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Embajador Martini",
+    "region": "La Pampa",
+    "lat": -35.3863,
+    "lon": -64.2809,
+    "population": 34494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huerta Grande",
+    "region": "Córdoba",
+    "lat": -31.0752,
+    "lon": -64.4906,
+    "population": 34451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toledo",
+    "region": "Córdoba",
+    "lat": -31.5557,
+    "lon": -64.0095,
+    "population": 34393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Tunuyán",
+    "region": "Mendoza",
+    "lat": -33.6667,
+    "lon": -69.5,
+    "population": 34341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lonquimay",
+    "region": "La Pampa",
+    "lat": -36.4655,
+    "lon": -63.6243,
+    "population": 34294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granadero Baigorria",
+    "region": "Santa Fe",
+    "lat": -32.8568,
+    "lon": -60.7175,
+    "population": 34266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Quebrachal",
+    "region": "Salta",
+    "lat": -25.2833,
+    "lon": -64.0667,
+    "population": 34265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Larga",
+    "region": "Córdoba",
+    "lat": -31.7765,
+    "lon": -63.801,
+    "population": 34216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyo Seco",
+    "region": "Santa Fe",
+    "lat": -33.1549,
+    "lon": -60.5086,
+    "population": 34182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Paula de Sarmiento",
+    "region": "San Juan",
+    "lat": -31.4933,
+    "lon": -68.5384,
+    "population": 34167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pérez",
+    "region": "Santa Fe",
+    "lat": -32.9984,
+    "lon": -60.7679,
+    "population": 34145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comallo",
+    "region": "Río Negro",
+    "lat": -41.0299,
+    "lon": -70.2678,
+    "population": 34141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Ocampo",
+    "region": "Santa Fe",
+    "lat": -28.4875,
+    "lon": -59.3552,
+    "population": 34131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mocoretá",
+    "region": "Corrientes",
+    "lat": -30.6189,
+    "lon": -57.9634,
+    "population": 34117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa María",
+    "region": "Córdoba",
+    "lat": -32.4075,
+    "lon": -63.2402,
+    "population": 34075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Capital",
+    "region": "Misiones",
+    "lat": -27.5,
+    "lon": -55.8333,
+    "population": 33999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paso de la Patria",
+    "region": "Corrientes",
+    "lat": -27.3168,
+    "lon": -58.572,
+    "population": 33886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle Hermoso",
+    "region": "Córdoba",
+    "lat": -31.1173,
+    "lon": -64.4808,
+    "population": 33830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Veinticinco de Mayo",
+    "region": "Río Negro",
+    "lat": -41.25,
+    "lon": -69,
+    "population": 33760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Zapala",
+    "region": "Neuquén",
+    "lat": -39,
+    "lon": -69.8333,
+    "population": 33759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antofagasta de la Sierra",
+    "region": "Catamarca",
+    "lat": -26.0594,
+    "lon": -67.4064,
+    "population": 33699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Empedrado",
+    "region": "Corrientes",
+    "lat": -27.8333,
+    "lon": -58.6667,
+    "population": 33686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capilla del Monte",
+    "region": "Córdoba",
+    "lat": -30.8609,
+    "lon": -64.5251,
+    "population": 33671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Mercedes",
+    "region": "San Luis",
+    "lat": -33.6757,
+    "lon": -65.4578,
+    "population": 33619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Graneros",
+    "region": "Tucumán",
+    "lat": -27.6493,
+    "lon": -65.4383,
+    "population": 33558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio Oeste",
+    "region": "Río Negro",
+    "lat": -40.7319,
+    "lon": -64.9477,
+    "population": 33473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa del Rosario",
+    "region": "Córdoba",
+    "lat": -31.5566,
+    "lon": -63.5345,
+    "population": 33473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campo Quijano",
+    "region": "Salta",
+    "lat": -24.9098,
+    "lon": -65.6366,
+    "population": 33366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panambí",
+    "region": "Misiones",
+    "lat": -27.7237,
+    "lon": -54.9151,
+    "population": 33336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Cruz Alta",
+    "region": "Tucumán",
+    "lat": -26.9167,
+    "lon": -64.9167,
+    "population": 33285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Napenay",
+    "region": "Chaco",
+    "lat": -26.7333,
+    "lon": -60.6167,
+    "population": 33220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "James Craik",
+    "region": "Córdoba",
+    "lat": -32.1612,
+    "lon": -63.4669,
+    "population": 33042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vista Alegre",
+    "region": "Neuquén",
+    "lat": -38.75,
+    "lon": -68.1833,
+    "population": 33036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Arauco",
+    "region": "La Rioja",
+    "lat": -28.5,
+    "lon": -66.8333,
+    "population": 33006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariano I. Loza",
+    "region": "Corrientes",
+    "lat": -29.3767,
+    "lon": -58.1944,
+    "population": 32985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camilo Aldao",
+    "region": "Córdoba",
+    "lat": -33.1275,
+    "lon": -62.0945,
+    "population": 32953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco del Chañar",
+    "region": "Córdoba",
+    "lat": -29.7883,
+    "lon": -63.9441,
+    "population": 32857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Santa María",
+    "region": "Catamarca",
+    "lat": -26.6667,
+    "lon": -66.4167,
+    "population": 32822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Sarmiento",
+    "region": "Chubut",
+    "lat": -45.3333,
+    "lon": -69,
+    "population": 32780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unión",
+    "region": "San Luis",
+    "lat": -35.1528,
+    "lon": -65.946,
+    "population": 32763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Sarmiento",
+    "region": "San Juan",
+    "lat": -32,
+    "lon": -68.6667,
+    "population": 32748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veinticinco de Mayo",
+    "region": "Misiones",
+    "lat": -27.3768,
+    "lon": -54.7431,
+    "population": 32707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Helechos",
+    "region": "Misiones",
+    "lat": -27.5505,
+    "lon": -55.0791,
+    "population": 32680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Benito",
+    "region": "Entre Ríos",
+    "lat": -31.7837,
+    "lon": -60.4416,
+    "population": 32659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alpachiri",
+    "region": "La Pampa",
+    "lat": -37.377,
+    "lon": -63.7745,
+    "population": 32631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrancas",
+    "region": "Neuquén",
+    "lat": -36.8234,
+    "lon": -69.9156,
+    "population": 32539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Antiguos",
+    "region": "Santa Cruz",
+    "lat": -46.5497,
+    "lon": -71.6309,
+    "population": 32508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Posadas",
+    "region": "Misiones",
+    "lat": -27.3671,
+    "lon": -55.8961,
+    "population": 32502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Tulumba",
+    "region": "Córdoba",
+    "lat": -30.3955,
+    "lon": -64.1224,
+    "population": 32387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bella Vista",
+    "region": "Tucumán",
+    "lat": -27.0342,
+    "lon": -65.302,
+    "population": 32352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Feliciano",
+    "region": "Entre Ríos",
+    "lat": -30.3845,
+    "lon": -58.7517,
+    "population": 32336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viamonte",
+    "region": "Córdoba",
+    "lat": -33.7465,
+    "lon": -63.0976,
+    "population": 32309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Berthet",
+    "region": "Chaco",
+    "lat": -27.2917,
+    "lon": -60.4126,
+    "population": 32303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caucete",
+    "region": "San Juan",
+    "lat": -31.6518,
+    "lon": -68.281,
+    "population": 32294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chajarí",
+    "region": "Entre Ríos",
+    "lat": -30.7505,
+    "lon": -57.9796,
+    "population": 32164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Presidente Roque Sáenz Peña",
+    "region": "Córdoba",
+    "lat": -34.25,
+    "lon": -63.5,
+    "population": 32162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apolinario Saravia",
+    "region": "Salta",
+    "lat": -24.4328,
+    "lon": -63.9954,
+    "population": 32156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Fernández Oro",
+    "region": "Río Negro",
+    "lat": -38.953,
+    "lon": -67.9249,
+    "population": 32078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Carlos",
+    "region": "Mendoza",
+    "lat": -34,
+    "lon": -69,
+    "population": 32064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rodeo",
+    "region": "Catamarca",
+    "lat": -28.2152,
+    "lon": -65.8742,
+    "population": 32050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corrientes",
+    "region": "Corrientes",
+    "lat": -27.4678,
+    "lon": -58.8344,
+    "population": 32013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Carlota",
+    "region": "Córdoba",
+    "lat": -33.4199,
+    "lon": -63.2977,
+    "population": 31880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaimán",
+    "region": "Chubut",
+    "lat": -43.2897,
+    "lon": -65.4929,
+    "population": 31874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miguel Riglos",
+    "region": "La Pampa",
+    "lat": -36.854,
+    "lon": -63.6884,
+    "population": 31789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Maitén",
+    "region": "Chubut",
+    "lat": -42.0492,
+    "lon": -71.1669,
+    "population": 31786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Heras",
+    "region": "Santa Cruz",
+    "lat": -46.5419,
+    "lon": -68.9359,
+    "population": 31782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Javier",
+    "region": "Misiones",
+    "lat": -27.7781,
+    "lon": -55.13,
+    "population": 31772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de La Poma",
+    "region": "Salta",
+    "lat": -24.1667,
+    "lon": -66.1667,
+    "population": 31726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Doce de Octubre",
+    "region": "Chaco",
+    "lat": -27.4167,
+    "lon": -61.3333,
+    "population": 31719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyo del Medio",
+    "region": "Misiones",
+    "lat": -27.6975,
+    "lon": -55.4038,
+    "population": 31699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Quitilipi",
+    "region": "Chaco",
+    "lat": -26.6667,
+    "lon": -60.1667,
+    "population": 31687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz",
+    "region": "Entre Ríos",
+    "lat": -30.7418,
+    "lon": -59.6452,
+    "population": 31567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balnearia",
+    "region": "Córdoba",
+    "lat": -31.0088,
+    "lon": -62.6673,
+    "population": 31453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Alvear",
+    "region": "Corrientes",
+    "lat": -28.8333,
+    "lon": -56.5,
+    "population": 31426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centenario",
+    "region": "Neuquén",
+    "lat": -38.8295,
+    "lon": -68.1318,
+    "population": 31385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veinticinco de Mayo",
+    "region": "La Pampa",
+    "lat": -37.7741,
+    "lon": -67.7164,
+    "population": 31378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Almirante Brown",
+    "region": "Chaco",
+    "lat": -25.8166,
+    "lon": -61.4558,
+    "population": 31377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "Entre Ríos",
+    "lat": -32.6184,
+    "lon": -60.1548,
+    "population": 31354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Libertador General San Martín",
+    "region": "Misiones",
+    "lat": -26.9167,
+    "lon": -54.9167,
+    "population": 31339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Embalse",
+    "region": "Córdoba",
+    "lat": -32.18,
+    "lon": -64.4181,
+    "population": 31280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ituzaingó",
+    "region": "Corrientes",
+    "lat": -27.5816,
+    "lon": -56.6823,
+    "population": 31279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riacho Eh-Eh",
+    "region": "Formosa",
+    "lat": -25.3621,
+    "lon": -58.2775,
+    "population": 31274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Aguirre",
+    "region": "Santiago del Estero",
+    "lat": -29.3333,
+    "lon": -62.5,
+    "population": 31213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Aguilar",
+    "region": "Jujuy",
+    "lat": -23.2157,
+    "lon": -65.68,
+    "population": 31209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Capital",
+    "region": "Tucumán",
+    "lat": -26.8283,
+    "lon": -65.2113,
+    "population": 31179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Manuel J. Campos",
+    "region": "La Pampa",
+    "lat": -37.4603,
+    "lon": -63.5854,
+    "population": 31144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sastre",
+    "region": "Santa Fe",
+    "lat": -31.7676,
+    "lon": -61.8289,
+    "population": 31107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carcarañá",
+    "region": "Santa Fe",
+    "lat": -32.8568,
+    "lon": -61.1533,
+    "population": 31100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cosme",
+    "region": "Corrientes",
+    "lat": -27.3712,
+    "lon": -58.5121,
+    "population": 31087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Cura Brochero",
+    "region": "Córdoba",
+    "lat": -31.7058,
+    "lon": -65.018,
+    "population": 31034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calilegua",
+    "region": "Jujuy",
+    "lat": -23.7737,
+    "lon": -64.77,
+    "population": 30913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curuzú Cuatiá",
+    "region": "Corrientes",
+    "lat": -29.7917,
+    "lon": -58.0546,
+    "population": 30879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Picún Leufú",
+    "region": "Neuquén",
+    "lat": -39.5161,
+    "lon": -69.2876,
+    "population": 30873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal",
+    "region": "Santa Fe",
+    "lat": -30.3105,
+    "lon": -61.2372,
+    "population": 30822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chicoana",
+    "region": "Salta",
+    "lat": -25.105,
+    "lon": -65.5347,
+    "population": 30732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Unión",
+    "region": "Córdoba",
+    "lat": -32.8333,
+    "lon": -62.75,
+    "population": 30698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basail",
+    "region": "Chaco",
+    "lat": -27.8854,
+    "lon": -59.2824,
+    "population": 30696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burruyacú",
+    "region": "Tucumán",
+    "lat": -26.4992,
+    "lon": -64.7421,
+    "population": 30683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Zonda",
+    "region": "San Juan",
+    "lat": -31.6826,
+    "lon": -68.8994,
+    "population": 30633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choele Choel",
+    "region": "Río Negro",
+    "lat": -39.2894,
+    "lon": -65.6606,
+    "population": 30605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Varillas",
+    "region": "Córdoba",
+    "lat": -31.8721,
+    "lon": -62.7195,
+    "population": 30574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caraguatay",
+    "region": "Misiones",
+    "lat": -26.6059,
+    "lon": -54.7809,
+    "population": 30558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Robles",
+    "region": "Santiago del Estero",
+    "lat": -27.8333,
+    "lon": -63.9167,
+    "population": 30520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telén",
+    "region": "La Pampa",
+    "lat": -36.2643,
+    "lon": -65.5102,
+    "population": 30440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Punta",
+    "region": "San Luis",
+    "lat": -33.1837,
+    "lon": -66.3127,
+    "population": 30398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Falda",
+    "region": "Córdoba",
+    "lat": -31.0884,
+    "lon": -64.4899,
+    "population": 30312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Bermejo",
+    "region": "Chaco",
+    "lat": -26.9274,
+    "lon": -58.5092,
+    "population": 30242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Carlos",
+    "region": "Salta",
+    "lat": -25.75,
+    "lon": -66.0833,
+    "population": 30191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Las Heras",
+    "region": "Mendoza",
+    "lat": -32.5,
+    "lon": -69.5,
+    "population": 30159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brinkmann",
+    "region": "Córdoba",
+    "lat": -30.8659,
+    "lon": -62.0374,
+    "population": 30093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Pedro",
+    "region": "Misiones",
+    "lat": -26.6667,
+    "lon": -54,
+    "population": 30054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Trinidad",
+    "region": "Santa Fe",
+    "lat": -30.2133,
+    "lon": -61.876,
+    "population": 30050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyito",
+    "region": "Córdoba",
+    "lat": -31.4202,
+    "lon": -63.05,
+    "population": 30025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tafí del Valle",
+    "region": "Tucumán",
+    "lat": -26.8528,
+    "lon": -65.7098,
+    "population": 29974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Calamuchita",
+    "region": "Córdoba",
+    "lat": -32.25,
+    "lon": -64.5833,
+    "population": 29960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Paso de los Libres",
+    "region": "Corrientes",
+    "lat": -29.6667,
+    "lon": -57.25,
+    "population": 29864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Mártires",
+    "region": "Chubut",
+    "lat": -43.8333,
+    "lon": -67.1667,
+    "population": 29822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tartagal",
+    "region": "Salta",
+    "lat": -22.5164,
+    "lon": -63.8013,
+    "population": 29776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General José de San Martín",
+    "region": "Chaco",
+    "lat": -26.5374,
+    "lon": -59.3416,
+    "population": 29740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Trancas",
+    "region": "Tucumán",
+    "lat": -26.4167,
+    "lon": -65.5,
+    "population": 29687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "José de San Martín",
+    "region": "Chubut",
+    "lat": -44.0503,
+    "lon": -70.4697,
+    "population": 29678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Corrientes",
+    "lat": -28.3917,
+    "lon": -57.8878,
+    "population": 29672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonpland",
+    "region": "Misiones",
+    "lat": -27.4822,
+    "lon": -55.4776,
+    "population": 29661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Santo Tomé",
+    "region": "Corrientes",
+    "lat": -28.25,
+    "lon": -56.25,
+    "population": 29653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Misiones",
+    "lat": -27.7698,
+    "lon": -55.7826,
+    "population": 29650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loncopué",
+    "region": "Neuquén",
+    "lat": -38.0728,
+    "lon": -70.6161,
+    "population": 29646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "La Pampa",
+    "lat": -36.6167,
+    "lon": -64.2833,
+    "population": 29503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilar",
+    "region": "Córdoba",
+    "lat": -31.6789,
+    "lon": -63.8796,
+    "population": 29453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Maíz",
+    "region": "Córdoba",
+    "lat": -33.2046,
+    "lon": -62.6009,
+    "population": 29449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plottier",
+    "region": "Neuquén",
+    "lat": -38.9667,
+    "lon": -68.2333,
+    "population": 29424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Libertad",
+    "region": "Chaco",
+    "lat": -27.3333,
+    "lon": -59.3333,
+    "population": 29421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melincué",
+    "region": "Santa Fe",
+    "lat": -33.6585,
+    "lon": -61.4546,
+    "population": 29421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Funes",
+    "region": "Santa Fe",
+    "lat": -32.9157,
+    "lon": -60.81,
+    "population": 29409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Hernandarias",
+    "region": "Entre Ríos",
+    "lat": -31.231,
+    "lon": -59.9846,
+    "population": 29331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Colorado",
+    "region": "Formosa",
+    "lat": -26.3081,
+    "lon": -59.3729,
+    "population": 29309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trancas",
+    "region": "Tucumán",
+    "lat": -26.2314,
+    "lon": -65.2809,
+    "population": 29309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Guachipas",
+    "region": "Salta",
+    "lat": -25.6667,
+    "lon": -65.5,
+    "population": 29280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Bolsón",
+    "region": "Río Negro",
+    "lat": -41.9605,
+    "lon": -71.5334,
+    "population": 29262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Santa Lucía",
+    "region": "San Juan",
+    "lat": -31.5333,
+    "lon": -68.4667,
+    "population": 29213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pozo del Tigre",
+    "region": "Formosa",
+    "lat": -24.8968,
+    "lon": -60.3236,
+    "population": 29153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Paranacito",
+    "region": "Entre Ríos",
+    "lat": -33.7138,
+    "lon": -58.6584,
+    "population": 29139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Santa Rosa",
+    "region": "Catamarca",
+    "lat": -28.0833,
+    "lon": -65.25,
+    "population": 29121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Embarcación",
+    "region": "Salta",
+    "lat": -23.21,
+    "lon": -64.0996,
+    "population": 29105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gato Colorado",
+    "region": "Santa Fe",
+    "lat": -28.0222,
+    "lon": -61.1866,
+    "population": 28950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Lorenzo",
+    "region": "Chaco",
+    "lat": -27.3333,
+    "lon": -60.4167,
+    "population": 28852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Galpón",
+    "region": "Salta",
+    "lat": -25.3807,
+    "lon": -64.6526,
+    "population": 28847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasenkamp",
+    "region": "Entre Ríos",
+    "lat": -31.5123,
+    "lon": -59.8355,
+    "population": 28835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mainque",
+    "region": "Río Negro",
+    "lat": -39.0667,
+    "lon": -67.3,
+    "population": 28753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arias",
+    "region": "Córdoba",
+    "lat": -33.6441,
+    "lon": -62.4027,
+    "population": 28744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aviá Terai",
+    "region": "Chaco",
+    "lat": -26.6853,
+    "lon": -60.7292,
+    "population": 28710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonias Unidas",
+    "region": "Chaco",
+    "lat": -26.6983,
+    "lon": -59.6315,
+    "population": 28709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hermoso Campo",
+    "region": "Chaco",
+    "lat": -27.6082,
+    "lon": -61.3444,
+    "population": 28647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buchardo",
+    "region": "Córdoba",
+    "lat": -34.7226,
+    "lon": -63.5092,
+    "population": 28644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Icaño",
+    "region": "Catamarca",
+    "lat": -28.9193,
+    "lon": -65.3282,
+    "population": 28600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Anita",
+    "region": "Entre Ríos",
+    "lat": -32.1748,
+    "lon": -58.7862,
+    "population": 28542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Cuarto",
+    "region": "Córdoba",
+    "lat": -33.3333,
+    "lon": -64.5,
+    "population": 28529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esquina",
+    "region": "Corrientes",
+    "lat": -30.0148,
+    "lon": -59.5289,
+    "population": 28528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cruz Alta",
+    "region": "Córdoba",
+    "lat": -33.0089,
+    "lon": -61.8075,
+    "population": 28367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ticino",
+    "region": "Córdoba",
+    "lat": -32.6935,
+    "lon": -63.4361,
+    "population": 28313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Banda",
+    "region": "Santiago del Estero",
+    "lat": -27.7335,
+    "lon": -64.2428,
+    "population": 28298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Güemes",
+    "region": "Chaco",
+    "lat": -25.1667,
+    "lon": -61.4167,
+    "population": 28238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capitán Solari",
+    "region": "Chaco",
+    "lat": -26.8022,
+    "lon": -59.5609,
+    "population": 28206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Baldissera",
+    "region": "Córdoba",
+    "lat": -33.1225,
+    "lon": -62.3063,
+    "population": 28193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bernardo Larroudé",
+    "region": "La Pampa",
+    "lat": -35.0245,
+    "lon": -63.5825,
+    "population": 28145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simoca",
+    "region": "Tucumán",
+    "lat": -27.2627,
+    "lon": -65.3565,
+    "population": 28141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Colón",
+    "region": "Córdoba",
+    "lat": -31.1667,
+    "lon": -64.1667,
+    "population": 28136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Deseado",
+    "region": "Santa Cruz",
+    "lat": -47.3333,
+    "lon": -67.8333,
+    "population": 28084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malvinas Argentinas",
+    "region": "Córdoba",
+    "lat": -31.3819,
+    "lon": -64.0554,
+    "population": 28079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morteros",
+    "region": "Córdoba",
+    "lat": -30.7116,
+    "lon": -61.9986,
+    "population": 28064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Capital",
+    "region": "Mendoza",
+    "lat": -32.8847,
+    "lon": -68.8583,
+    "population": 27988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Bermejo",
+    "region": "Chaco",
+    "lat": -27,
+    "lon": -58.6667,
+    "population": 27953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Santa Rosa",
+    "region": "Mendoza",
+    "lat": -33.5,
+    "lon": -68,
+    "population": 27911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Chico",
+    "region": "Tucumán",
+    "lat": -27.4337,
+    "lon": -65.7667,
+    "population": 27836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Termas de Río Hondo",
+    "region": "Santiago del Estero",
+    "lat": -27.4936,
+    "lon": -64.8597,
+    "population": 27828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rawson",
+    "region": "Chubut",
+    "lat": -43.3002,
+    "lon": -65.1023,
+    "population": 27813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariano Moreno",
+    "region": "Neuquén",
+    "lat": -38.7503,
+    "lon": -70.0237,
+    "population": 27716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Atamisqui",
+    "region": "Santiago del Estero",
+    "lat": -28.4961,
+    "lon": -63.8161,
+    "population": 27659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael",
+    "region": "Mendoza",
+    "lat": -34.6177,
+    "lon": -68.3301,
+    "population": 27652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimpay",
+    "region": "Río Negro",
+    "lat": -39.1648,
+    "lon": -66.1424,
+    "population": 27625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Constitución",
+    "region": "Santa Fe",
+    "lat": -33.5,
+    "lon": -60.9167,
+    "population": 27616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Para",
+    "region": "Córdoba",
+    "lat": -30.8942,
+    "lon": -63.0011,
+    "population": 27573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balvanera",
+    "region": "Buenos Aires",
+    "lat": -34.6103,
+    "lon": -58.3977,
+    "population": 27566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Ituzaingó",
+    "region": "Corrientes",
+    "lat": -27.9008,
+    "lon": -56.866,
+    "population": 27559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campo Viera",
+    "region": "Misiones",
+    "lat": -27.3327,
+    "lon": -55.0565,
+    "population": 27487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eduardo Castex",
+    "region": "La Pampa",
+    "lat": -35.915,
+    "lon": -64.2945,
+    "population": 27402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Pico",
+    "region": "Chubut",
+    "lat": -44.179,
+    "lon": -71.3685,
+    "population": 27379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bernasconi",
+    "region": "La Pampa",
+    "lat": -37.9046,
+    "lon": -63.7424,
+    "population": 27297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viale",
+    "region": "Entre Ríos",
+    "lat": -31.8678,
+    "lon": -60.0072,
+    "population": 27287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Higueras",
+    "region": "Córdoba",
+    "lat": -33.0923,
+    "lon": -64.289,
+    "population": 27259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago Temple",
+    "region": "Córdoba",
+    "lat": -31.3873,
+    "lon": -63.4182,
+    "population": 27234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Gualeguaychú",
+    "region": "Entre Ríos",
+    "lat": -33.25,
+    "lon": -59,
+    "population": 27120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Confluencia",
+    "region": "Neuquén",
+    "lat": -38.8333,
+    "lon": -68.8333,
+    "population": 27066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Sargento Cabral",
+    "region": "Chaco",
+    "lat": -26.8333,
+    "lon": -59.5,
+    "population": 27026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Berna",
+    "region": "Córdoba",
+    "lat": -31.9142,
+    "lon": -64.7325,
+    "population": 27021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Escondida",
+    "region": "Chaco",
+    "lat": -27.1072,
+    "lon": -59.4478,
+    "population": 27009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Telares",
+    "region": "Santiago del Estero",
+    "lat": -28.9848,
+    "lon": -63.4489,
+    "population": 26913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candelaria",
+    "region": "Misiones",
+    "lat": -27.4595,
+    "lon": -55.7454,
+    "population": 26833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Totoras",
+    "region": "Santa Fe",
+    "lat": -32.5844,
+    "lon": -61.1685,
+    "population": 26811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Firmat",
+    "region": "Santa Fe",
+    "lat": -33.4594,
+    "lon": -61.4832,
+    "population": 26739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacuarendí",
+    "region": "Santa Fe",
+    "lat": -28.4126,
+    "lon": -59.26,
+    "population": 26730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Sobremonte",
+    "region": "Córdoba",
+    "lat": -29.6667,
+    "lon": -64.0833,
+    "population": 26695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gancedo",
+    "region": "Chaco",
+    "lat": -27.4904,
+    "lon": -61.6757,
+    "population": 26691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adelia María",
+    "region": "Córdoba",
+    "lat": -33.6315,
+    "lon": -64.021,
+    "population": 26660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Martín",
+    "region": "San Juan",
+    "lat": -31.5,
+    "lon": -68.25,
+    "population": 26475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Chico",
+    "region": "Santa Cruz",
+    "lat": -48.25,
+    "lon": -71,
+    "population": 26446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trevelin",
+    "region": "Chubut",
+    "lat": -43.0858,
+    "lon": -71.4639,
+    "population": 26406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Tirol",
+    "region": "Chaco",
+    "lat": -27.3722,
+    "lon": -59.0821,
+    "population": 26345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jardín América",
+    "region": "Misiones",
+    "lat": -27.0435,
+    "lon": -55.227,
+    "population": 26234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Charrúas",
+    "region": "Entre Ríos",
+    "lat": -31.1755,
+    "lon": -58.1877,
+    "population": 26218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Naick-Neck",
+    "region": "Formosa",
+    "lat": -25.2477,
+    "lon": -58.0938,
+    "population": 26179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villaguay",
+    "region": "Entre Ríos",
+    "lat": -31.8653,
+    "lon": -59.0269,
+    "population": 26155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Federal",
+    "region": "Entre Ríos",
+    "lat": -30.9547,
+    "lon": -58.7833,
+    "population": 26151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia La Tordilla",
+    "region": "Córdoba",
+    "lat": -31.2375,
+    "lon": -63.0613,
+    "population": 25918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín",
+    "region": "Mendoza",
+    "lat": -33.081,
+    "lon": -68.4681,
+    "population": 25908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Laureles",
+    "region": "Santa Fe",
+    "lat": -29.3685,
+    "lon": -59.7363,
+    "population": 25861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tío",
+    "region": "Córdoba",
+    "lat": -31.3836,
+    "lon": -62.8294,
+    "population": 25798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Toma",
+    "region": "San Luis",
+    "lat": -33.0526,
+    "lon": -65.6239,
+    "population": 25639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Moreno",
+    "region": "Santiago del Estero",
+    "lat": -27.3333,
+    "lon": -62.5,
+    "population": 25556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de O’Higgins",
+    "region": "Chaco",
+    "lat": -27.25,
+    "lon": -60.6667,
+    "population": 25540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pascanas",
+    "region": "Córdoba",
+    "lat": -33.1255,
+    "lon": -63.0408,
+    "population": 25467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chichinales",
+    "region": "Río Negro",
+    "lat": -39.115,
+    "lon": -66.9271,
+    "population": 25456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Iguazú",
+    "region": "Misiones",
+    "lat": -25.5991,
+    "lon": -54.5735,
+    "population": 25436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tecka",
+    "region": "Chubut",
+    "lat": -43.4949,
+    "lon": -70.8102,
+    "population": 25425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tintina",
+    "region": "Santiago del Estero",
+    "lat": -27.0269,
+    "lon": -62.7064,
+    "population": 25410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Río Senguerr",
+    "region": "Chubut",
+    "lat": -45.3333,
+    "lon": -70.8333,
+    "population": 25385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cinco Saltos",
+    "region": "Río Negro",
+    "lat": -38.8222,
+    "lon": -68.0629,
+    "population": 25384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reconquista",
+    "region": "Santa Fe",
+    "lat": -29.15,
+    "lon": -59.65,
+    "population": 25364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crespo",
+    "region": "Entre Ríos",
+    "lat": -32.0287,
+    "lon": -60.3066,
+    "population": 25323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cocha",
+    "region": "Tucumán",
+    "lat": -27.7693,
+    "lon": -65.5871,
+    "population": 25274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolhuin",
+    "region": "Tierra del Fuego",
+    "lat": -54.5108,
+    "lon": -67.1955,
+    "population": 25223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cumbre",
+    "region": "Córdoba",
+    "lat": -30.982,
+    "lon": -64.4914,
+    "population": 25218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Minas",
+    "region": "Neuquén",
+    "lat": -36.8333,
+    "lon": -70.8333,
+    "population": 25088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasco",
+    "region": "Córdoba",
+    "lat": -32.7473,
+    "lon": -63.3423,
+    "population": 25036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Fernando",
+    "region": "Chaco",
+    "lat": -27.6667,
+    "lon": -59.1667,
+    "population": 24859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caleufú",
+    "region": "La Pampa",
+    "lat": -35.5956,
+    "lon": -64.5578,
+    "population": 24833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Magdalena",
+    "region": "Córdoba",
+    "lat": -34.5178,
+    "lon": -63.9441,
+    "population": 24830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belgrano",
+    "region": "Buenos Aires",
+    "lat": -34.5627,
+    "lon": -58.4583,
+    "population": 24826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camarones",
+    "region": "Chubut",
+    "lat": -44.7971,
+    "lon": -65.7099,
+    "population": 24821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Chos-Malal",
+    "region": "Neuquén",
+    "lat": -36.9167,
+    "lon": -70.1667,
+    "population": 24660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boedo",
+    "region": "Buenos Aires",
+    "lat": -34.6333,
+    "lon": -58.4167,
+    "population": 24646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Yerba Buena",
+    "region": "Tucumán",
+    "lat": -26.8183,
+    "lon": -65.3173,
+    "population": 24601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Conscripto Bernardi",
+    "region": "Entre Ríos",
+    "lat": -31.0484,
+    "lon": -59.0844,
+    "population": 24573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Cóndores",
+    "region": "Córdoba",
+    "lat": -32.3198,
+    "lon": -64.2775,
+    "population": 24458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mojón Grande",
+    "region": "Misiones",
+    "lat": -27.7116,
+    "lon": -55.1563,
+    "population": 24435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Sarmiento",
+    "region": "Santiago del Estero",
+    "lat": -28.0833,
+    "lon": -63.4167,
+    "population": 24346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Calamuchita",
+    "region": "Córdoba",
+    "lat": -32.069,
+    "lon": -64.5363,
+    "population": 24329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azara",
+    "region": "Misiones",
+    "lat": -28.0616,
+    "lon": -55.678,
+    "population": 24245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "San Luis",
+    "lat": -33.295,
+    "lon": -66.3356,
+    "population": 24203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palo Santo",
+    "region": "Formosa",
+    "lat": -25.5633,
+    "lon": -59.3378,
+    "population": 24163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Santa Rita",
+    "region": "Buenos Aires",
+    "lat": -34.6108,
+    "lon": -58.481,
+    "population": 24154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altos de Chipión",
+    "region": "Córdoba",
+    "lat": -30.9559,
+    "lon": -62.3373,
+    "population": 24143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Junturas",
+    "region": "Córdoba",
+    "lat": -31.8313,
+    "lon": -63.4502,
+    "population": 24084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lajas",
+    "region": "Neuquén",
+    "lat": -38.5232,
+    "lon": -70.3675,
+    "population": 24051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de La Viña",
+    "region": "Salta",
+    "lat": -25.5,
+    "lon": -65.6667,
+    "population": 24038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candelaria",
+    "region": "San Luis",
+    "lat": -32.0604,
+    "lon": -65.8248,
+    "population": 24009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capayán",
+    "region": "Catamarca",
+    "lat": -28.7744,
+    "lon": -66.0475,
+    "population": 24002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonpland",
+    "region": "Corrientes",
+    "lat": -29.8171,
+    "lon": -57.4297,
+    "population": 23999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Gastre",
+    "region": "Chubut",
+    "lat": -42.8333,
+    "lon": -68.6667,
+    "population": 23934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Presidencia Roque Sáenz Peña",
+    "region": "Chaco",
+    "lat": -26.7852,
+    "lon": -60.4388,
+    "population": 23906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Martín",
+    "region": "Santa Fe",
+    "lat": -32,
+    "lon": -61.8333,
+    "population": 23867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Pujol",
+    "region": "Corrientes",
+    "lat": -30.4187,
+    "lon": -57.8561,
+    "population": 23856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naschel",
+    "region": "San Luis",
+    "lat": -32.9166,
+    "lon": -65.3753,
+    "population": 23822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Godoy Cruz",
+    "region": "Mendoza",
+    "lat": -32.9333,
+    "lon": -68.8667,
+    "population": 23743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Justo Daract",
+    "region": "San Luis",
+    "lat": -33.8594,
+    "lon": -65.1828,
+    "population": 23743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Berón de Astrada",
+    "region": "Corrientes",
+    "lat": -27.5,
+    "lon": -57.6667,
+    "population": 23735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Chimbas",
+    "region": "San Juan",
+    "lat": -31.4874,
+    "lon": -68.5269,
+    "population": 23599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Lules",
+    "region": "Tucumán",
+    "lat": -26.9289,
+    "lon": -65.3385,
+    "population": 23578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hernández",
+    "region": "Entre Ríos",
+    "lat": -32.3373,
+    "lon": -60.0216,
+    "population": 23537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Independencia",
+    "region": "La Rioja",
+    "lat": -30.1667,
+    "lon": -67.4167,
+    "population": 23515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Ojo de Agua",
+    "region": "Santiago del Estero",
+    "lat": -29.5,
+    "lon": -63.6938,
+    "population": 23471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Tigra",
+    "region": "Chaco",
+    "lat": -27.11,
+    "lon": -60.5872,
+    "population": 23426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Ángela",
+    "region": "Chaco",
+    "lat": -27.5738,
+    "lon": -60.7153,
+    "population": 23411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malabrigo",
+    "region": "Santa Fe",
+    "lat": -29.3464,
+    "lon": -59.9696,
+    "population": 23392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Río Primero",
+    "region": "Córdoba",
+    "lat": -31.1523,
+    "lon": -63.4019,
+    "population": 23374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingeniero Guillermo N. Juárez",
+    "region": "Formosa",
+    "lat": -23.9,
+    "lon": -61.85,
+    "population": 23348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Manuel Belgrano",
+    "region": "Misiones",
+    "lat": -26.1667,
+    "lon": -53.9167,
+    "population": 23329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoyo de Epuyén",
+    "region": "Chubut",
+    "lat": -42.0719,
+    "lon": -71.5081,
+    "population": 23264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viedma",
+    "region": "Río Negro",
+    "lat": -40.8135,
+    "lon": -62.9967,
+    "population": 23256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa General Roca",
+    "region": "San Luis",
+    "lat": -32.6653,
+    "lon": -66.4505,
+    "population": 23238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Corrientes",
+    "lat": -28.1331,
+    "lon": -58.7673,
+    "population": 23223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Collón-Curá",
+    "region": "Neuquén",
+    "lat": -40.0833,
+    "lon": -70.1667,
+    "population": 23166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fontana",
+    "region": "Chaco",
+    "lat": -27.4181,
+    "lon": -59.0239,
+    "population": 23037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Bella Vista",
+    "region": "Corrientes",
+    "lat": -28.5,
+    "lon": -58.8333,
+    "population": 23022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samuhú",
+    "region": "Chaco",
+    "lat": -27.5212,
+    "lon": -60.3917,
+    "population": 23009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Granja",
+    "region": "Córdoba",
+    "lat": -31.0092,
+    "lon": -64.2687,
+    "population": 22786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Corrientes",
+    "lat": -27.7459,
+    "lon": -55.8973,
+    "population": 22752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Del Campillo",
+    "region": "Córdoba",
+    "lat": -34.3766,
+    "lon": -64.495,
+    "population": 22648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Barón",
+    "region": "La Pampa",
+    "lat": -36.1515,
+    "lon": -63.854,
+    "population": 22625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualfín",
+    "region": "Catamarca",
+    "lat": -27.229,
+    "lon": -66.8313,
+    "population": 22582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aristóbulo del Valle",
+    "region": "Misiones",
+    "lat": -27.0963,
+    "lon": -54.8963,
+    "population": 22577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Eduvigis",
+    "region": "Chaco",
+    "lat": -26.8361,
+    "lon": -59.0621,
+    "population": 22566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dos de Mayo",
+    "region": "Misiones",
+    "lat": -27.0228,
+    "lon": -54.6867,
+    "population": 22498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garupá",
+    "region": "Misiones",
+    "lat": -27.4817,
+    "lon": -55.8292,
+    "population": 22399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coté-Lai",
+    "region": "Chaco",
+    "lat": -27.5,
+    "lon": -59.6,
+    "population": 22313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua de Oro",
+    "region": "Córdoba",
+    "lat": -31.0666,
+    "lon": -64.3002,
+    "population": 22266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clodomira",
+    "region": "Santiago del Estero",
+    "lat": -27.5744,
+    "lon": -64.1311,
+    "population": 22135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aldea San Antonio",
+    "region": "Entre Ríos",
+    "lat": -32.6232,
+    "lon": -58.7051,
+    "population": 22113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Trébol",
+    "region": "Santa Fe",
+    "lat": -32.2008,
+    "lon": -61.7014,
+    "population": 22052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Ignacio",
+    "region": "Misiones",
+    "lat": -27.25,
+    "lon": -55.3333,
+    "population": 21961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ramón de la Nueva Orán",
+    "region": "Salta",
+    "lat": -23.137,
+    "lon": -64.3243,
+    "population": 21759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mina Clavero",
+    "region": "Córdoba",
+    "lat": -31.721,
+    "lon": -65.0062,
+    "population": 21751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chañar Ladeado",
+    "region": "Santa Fe",
+    "lat": -33.3252,
+    "lon": -62.0383,
+    "population": 21741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Futaleufú",
+    "region": "Chubut",
+    "lat": -43.0833,
+    "lon": -71.4167,
+    "population": 21690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosario",
+    "region": "Santa Fe",
+    "lat": -32.9468,
+    "lon": -60.6393,
+    "population": 21653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco del Monte de Oro",
+    "region": "San Luis",
+    "lat": -32.5983,
+    "lon": -66.1254,
+    "population": 21647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Cuarto",
+    "region": "Córdoba",
+    "lat": -33.1307,
+    "lon": -64.3499,
+    "population": 21637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Cushamen",
+    "region": "Chubut",
+    "lat": -42.5,
+    "lon": -70.8333,
+    "population": 21519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Resistencia",
+    "region": "Chaco",
+    "lat": -27.4606,
+    "lon": -58.9839,
+    "population": 21471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perugorría",
+    "region": "Corrientes",
+    "lat": -29.3413,
+    "lon": -58.6106,
+    "population": 21396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Despeñaderos",
+    "region": "Córdoba",
+    "lat": -31.8163,
+    "lon": -64.2899,
+    "population": 21341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Soberbio",
+    "region": "Misiones",
+    "lat": -27.2985,
+    "lon": -54.1988,
+    "population": 21339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berón de Astrada",
+    "region": "Corrientes",
+    "lat": -27.5507,
+    "lon": -57.5346,
+    "population": 21336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hersilia",
+    "region": "Santa Fe",
+    "lat": -30.0045,
+    "lon": -61.8408,
+    "population": 21293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Picada Gobernador López",
+    "region": "Misiones",
+    "lat": -27.6707,
+    "lon": -55.2458,
+    "population": 21208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Miguel",
+    "region": "Corrientes",
+    "lat": -27.9167,
+    "lon": -57.5,
+    "population": 21165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "Corrientes",
+    "lat": -28.2632,
+    "lon": -58.1189,
+    "population": 21157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joaquín V. González",
+    "region": "Salta",
+    "lat": -25.1136,
+    "lon": -64.1263,
+    "population": 21145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tancacha",
+    "region": "Córdoba",
+    "lat": -32.2431,
+    "lon": -63.9807,
+    "population": 21121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miramar",
+    "region": "Córdoba",
+    "lat": -30.9186,
+    "lon": -62.6781,
+    "population": 21086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luján",
+    "region": "San Luis",
+    "lat": -32.3667,
+    "lon": -65.9364,
+    "population": 21047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almafuerte",
+    "region": "Misiones",
+    "lat": -27.5083,
+    "lon": -55.4026,
+    "population": 21014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comandante Fontana",
+    "region": "Formosa",
+    "lat": -25.3345,
+    "lon": -59.6821,
+    "population": 21009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Alberto",
+    "region": "Córdoba",
+    "lat": -31.75,
+    "lon": -65.25,
+    "population": 20989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laborde",
+    "region": "Córdoba",
+    "lat": -33.1532,
+    "lon": -62.8566,
+    "population": 20908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carril",
+    "region": "Salta",
+    "lat": -25.0741,
+    "lon": -65.4917,
+    "population": 20901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Burruyacú",
+    "region": "Tucumán",
+    "lat": -26.5,
+    "lon": -64.9167,
+    "population": 20888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Reducción",
+    "region": "Córdoba",
+    "lat": -33.2011,
+    "lon": -63.8623,
+    "population": 20874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Cruz del Eje",
+    "region": "Córdoba",
+    "lat": -30.75,
+    "lon": -65,
+    "population": 20836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Lavalle",
+    "region": "Corrientes",
+    "lat": -29,
+    "lon": -58.9167,
+    "population": 20827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sierra Grande",
+    "region": "Río Negro",
+    "lat": -41.606,
+    "lon": -65.3557,
+    "population": 20778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomé",
+    "region": "Santa Fe",
+    "lat": -31.6627,
+    "lon": -60.7653,
+    "population": 20760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa La Angostura",
+    "region": "Neuquén",
+    "lat": -40.7617,
+    "lon": -71.6463,
+    "population": 20737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yataity Calle",
+    "region": "Corrientes",
+    "lat": -29.0191,
+    "lon": -58.9085,
+    "population": 20683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Plumas",
+    "region": "Chubut",
+    "lat": -43.7206,
+    "lon": -67.2832,
+    "population": 20643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Mercedes",
+    "region": "Corrientes",
+    "lat": -29,
+    "lon": -57.8333,
+    "population": 20618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaraní",
+    "region": "Misiones",
+    "lat": -27.5232,
+    "lon": -55.1608,
+    "population": 20571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estanislao del Campo",
+    "region": "Formosa",
+    "lat": -25.055,
+    "lon": -60.0922,
+    "population": 20483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Güer Aike",
+    "region": "Santa Cruz",
+    "lat": -51.3333,
+    "lon": -70.3333,
+    "population": 20457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larroque",
+    "region": "Entre Ríos",
+    "lat": -33.0359,
+    "lon": -59.0012,
+    "population": 20389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Lago Argentino",
+    "region": "Santa Cruz",
+    "lat": -49.75,
+    "lon": -72,
+    "population": 20374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabossi",
+    "region": "Entre Ríos",
+    "lat": -31.8013,
+    "lon": -59.9348,
+    "population": 20357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobernador Juan E. Martínez",
+    "region": "Corrientes",
+    "lat": -28.9116,
+    "lon": -58.9359,
+    "population": 20340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Madryn",
+    "region": "Chubut",
+    "lat": -42.7692,
+    "lon": -65.0385,
+    "population": 20337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pomán",
+    "region": "Catamarca",
+    "lat": -28.3945,
+    "lon": -66.2205,
+    "population": 20244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Perdices",
+    "region": "Córdoba",
+    "lat": -32.6979,
+    "lon": -63.7063,
+    "population": 20221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronel Moldes",
+    "region": "Córdoba",
+    "lat": -33.6227,
+    "lon": -64.5971,
+    "population": 20187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Carlos Paz",
+    "region": "Córdoba",
+    "lat": -31.4241,
+    "lon": -64.4978,
+    "population": 20168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oncativo",
+    "region": "Córdoba",
+    "lat": -31.9135,
+    "lon": -63.682,
+    "population": 20160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fiambalá",
+    "region": "Catamarca",
+    "lat": -27.6722,
+    "lon": -67.6187,
+    "population": 20155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helvecia",
+    "region": "Santa Fe",
+    "lat": -31.0983,
+    "lon": -60.0883,
+    "population": 20112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Etruria",
+    "region": "Córdoba",
+    "lat": -32.9401,
+    "lon": -63.2466,
+    "population": 20111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catriel",
+    "region": "Río Negro",
+    "lat": -37.8791,
+    "lon": -67.7956,
+    "population": 20109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mendieta",
+    "region": "Jujuy",
+    "lat": -24.3119,
+    "lon": -64.9638,
+    "population": 20079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Entre Ríos",
+    "lat": -30.9,
+    "lon": -57.9316,
+    "population": 20074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Benítez",
+    "region": "Chaco",
+    "lat": -27.331,
+    "lon": -58.9462,
+    "population": 20008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loreto",
+    "region": "Corrientes",
+    "lat": -27.7683,
+    "lon": -57.2753,
+    "population": 20002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quimilí",
+    "region": "Santiago del Estero",
+    "lat": -27.6461,
+    "lon": -62.4166,
+    "population": 19975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampa del Indio",
+    "region": "Chaco",
+    "lat": -26.0498,
+    "lon": -59.9373,
+    "population": 19956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos de Bariloche",
+    "region": "Río Negro",
+    "lat": -41.1456,
+    "lon": -71.3082,
+    "population": 19944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa del Rosario",
+    "region": "Entre Ríos",
+    "lat": -30.7957,
+    "lon": -57.9126,
+    "population": 19935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Elena",
+    "region": "Entre Ríos",
+    "lat": -30.9443,
+    "lon": -59.7883,
+    "population": 19901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Güemes",
+    "region": "Salta",
+    "lat": -24.7946,
+    "lon": -64.9439,
+    "population": 19858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Pinedo",
+    "region": "Chaco",
+    "lat": -27.3167,
+    "lon": -61.2833,
+    "population": 19851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Roca",
+    "region": "Río Negro",
+    "lat": -39.0333,
+    "lon": -67.5833,
+    "population": 19763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casilda",
+    "region": "Santa Fe",
+    "lat": -33.0442,
+    "lon": -61.1681,
+    "population": 19627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Famaillá",
+    "region": "Tucumán",
+    "lat": -27.0541,
+    "lon": -65.4033,
+    "population": 19585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Luján",
+    "region": "Mendoza",
+    "lat": -33,
+    "lon": -69.3333,
+    "population": 19483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huinca Renancó",
+    "region": "Córdoba",
+    "lat": -34.8404,
+    "lon": -64.3758,
+    "population": 19357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Iglesia",
+    "region": "San Juan",
+    "lat": -29.3333,
+    "lon": -69.5833,
+    "population": 19341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Cabrera",
+    "region": "Córdoba",
+    "lat": -32.8131,
+    "lon": -63.8724,
+    "population": 19292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ushuaia",
+    "region": "Tierra del Fuego",
+    "lat": -54.8108,
+    "lon": -68.3159,
+    "population": 19185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Alcázar",
+    "region": "Misiones",
+    "lat": -26.7146,
+    "lon": -54.8152,
+    "population": 19147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bernardo de Irigoyen",
+    "region": "Misiones",
+    "lat": -26.2552,
+    "lon": -53.6458,
+    "population": 19074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fernando del Valle de Catamarca",
+    "region": "Catamarca",
+    "lat": -28.4696,
+    "lon": -65.7852,
+    "population": 19022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Mantero",
+    "region": "Entre Ríos",
+    "lat": -32.3973,
+    "lon": -58.746,
+    "population": 18984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Eldorado",
+    "region": "Misiones",
+    "lat": -26.4084,
+    "lon": -54.6946,
+    "population": 18882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Londres",
+    "region": "Catamarca",
+    "lat": -27.7144,
+    "lon": -67.1335,
+    "population": 18875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sacanta",
+    "region": "Córdoba",
+    "lat": -31.663,
+    "lon": -63.0451,
+    "population": 18803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Javier",
+    "region": "Córdoba",
+    "lat": -32.0833,
+    "lon": -65.1667,
+    "population": 18799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Salvador de Jujuy",
+    "region": "Jujuy",
+    "lat": -24.1946,
+    "lon": -65.2971,
+    "population": 18794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tafí Viejo",
+    "region": "Tucumán",
+    "lat": -26.732,
+    "lon": -65.2592,
+    "population": 18767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diamante",
+    "region": "Entre Ríos",
+    "lat": -32.0664,
+    "lon": -60.6384,
+    "population": 18746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merlo",
+    "region": "San Luis",
+    "lat": -32.3429,
+    "lon": -65.014,
+    "population": 18742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Frentones",
+    "region": "Chaco",
+    "lat": -26.4077,
+    "lon": -61.4137,
+    "population": 18657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Garcitas",
+    "region": "Chaco",
+    "lat": -26.618,
+    "lon": -59.8013,
+    "population": 18568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de La Cocha",
+    "region": "Tucumán",
+    "lat": -27.7778,
+    "lon": -65.5711,
+    "population": 18507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bell Ville",
+    "region": "Córdoba",
+    "lat": -32.6259,
+    "lon": -62.6887,
+    "population": 18452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vera",
+    "region": "Santa Fe",
+    "lat": -29.4593,
+    "lon": -60.2126,
+    "population": 18434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sampacho",
+    "region": "Córdoba",
+    "lat": -33.3839,
+    "lon": -64.7221,
+    "population": 18405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Catán-Lil",
+    "region": "Neuquén",
+    "lat": -39.5,
+    "lon": -70.3333,
+    "population": 18373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatimozín",
+    "region": "Córdoba",
+    "lat": -33.4615,
+    "lon": -62.4384,
+    "population": 18322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Rumipal",
+    "region": "Córdoba",
+    "lat": -32.1879,
+    "lon": -64.4803,
+    "population": 18316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Chicoana",
+    "region": "Salta",
+    "lat": -25.1158,
+    "lon": -65.5947,
+    "population": 18276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Santa Cruz",
+    "region": "Santa Cruz",
+    "lat": -50.0191,
+    "lon": -68.5232,
+    "population": 18205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herlitzka",
+    "region": "Corrientes",
+    "lat": -27.5652,
+    "lon": -58.2556,
+    "population": 18153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Conesa",
+    "region": "Río Negro",
+    "lat": -40.1041,
+    "lon": -64.4559,
+    "population": 18090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garuhapé",
+    "region": "Misiones",
+    "lat": -26.8177,
+    "lon": -54.9567,
+    "population": 18085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taco Pozo",
+    "region": "Chaco",
+    "lat": -25.6156,
+    "lon": -63.2671,
+    "population": 18029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cruz de los Milagros",
+    "region": "Corrientes",
+    "lat": -28.8365,
+    "lon": -59.0048,
+    "population": 18002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cuy",
+    "region": "Río Negro",
+    "lat": -39.9269,
+    "lon": -68.3421,
+    "population": 18000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañada de Luque",
+    "region": "Córdoba",
+    "lat": -30.7334,
+    "lon": -63.7238,
+    "population": 17965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palpalá",
+    "region": "Jujuy",
+    "lat": -24.2565,
+    "lon": -65.2116,
+    "population": 17958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Pilcomayo",
+    "region": "Formosa",
+    "lat": -25.5,
+    "lon": -58.0833,
+    "population": 17937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenceslao Escalante",
+    "region": "Córdoba",
+    "lat": -33.173,
+    "lon": -62.7708,
+    "population": 17846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iriondo Department",
+    "region": "Santa Fe",
+    "lat": -32.6333,
+    "lon": -61.3333,
+    "population": 17834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ancasti",
+    "region": "Catamarca",
+    "lat": -28.8125,
+    "lon": -65.5015,
+    "population": 17829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rosario de la Frontera",
+    "region": "Salta",
+    "lat": -25.9167,
+    "lon": -64.8333,
+    "population": 17824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Juríes",
+    "region": "Santiago del Estero",
+    "lat": -28.4654,
+    "lon": -62.1086,
+    "population": 17774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hoyo",
+    "region": "Santiago del Estero",
+    "lat": -27.0287,
+    "lon": -63.232,
+    "population": 17708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Curuzú Cuatiá",
+    "region": "Corrientes",
+    "lat": -29.5,
+    "lon": -58.5,
+    "population": 17680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarmiento",
+    "region": "Chubut",
+    "lat": -45.5881,
+    "lon": -69.07,
+    "population": 17672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trelew",
+    "region": "Chubut",
+    "lat": -43.249,
+    "lon": -65.305,
+    "population": 17644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Corrientes",
+    "lat": -28.9875,
+    "lon": -59.1029,
+    "population": 17352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingeniero Luiggi",
+    "region": "La Pampa",
+    "lat": -35.3858,
+    "lon": -64.4652,
+    "population": 17274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Avellaneda",
+    "region": "Río Negro",
+    "lat": -39.5,
+    "lon": -66.5,
+    "population": 17235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Junín de los Andes",
+    "region": "Neuquén",
+    "lat": -39.9504,
+    "lon": -71.0694,
+    "population": 17085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machagai",
+    "region": "Chaco",
+    "lat": -26.9261,
+    "lon": -60.0496,
+    "population": 17045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leones",
+    "region": "Córdoba",
+    "lat": -32.6617,
+    "lon": -62.2968,
+    "population": 16981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arata",
+    "region": "La Pampa",
+    "lat": -35.639,
+    "lon": -64.3562,
+    "population": 16970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Paz",
+    "region": "Corrientes",
+    "lat": -27.75,
+    "lon": -57.8333,
+    "population": 16954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seguí",
+    "region": "Entre Ríos",
+    "lat": -31.9564,
+    "lon": -60.1249,
+    "population": 16921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calingasta",
+    "region": "San Juan",
+    "lat": -31.3339,
+    "lon": -69.4208,
+    "population": 16853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Justo",
+    "region": "Santa Fe",
+    "lat": -30.7891,
+    "lon": -60.5919,
+    "population": 16849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serrezuela",
+    "region": "Córdoba",
+    "lat": -30.6376,
+    "lon": -65.3869,
+    "population": 16798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mburucuyá",
+    "region": "Corrientes",
+    "lat": -28.0453,
+    "lon": -58.2283,
+    "population": 16760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parera",
+    "region": "La Pampa",
+    "lat": -35.146,
+    "lon": -64.5009,
+    "population": 16747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Agustín",
+    "region": "Córdoba",
+    "lat": -31.9768,
+    "lon": -64.374,
+    "population": 16688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Pico",
+    "region": "La Pampa",
+    "lat": -35.6566,
+    "lon": -63.7568,
+    "population": 16686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceres",
+    "region": "Santa Fe",
+    "lat": -29.881,
+    "lon": -61.945,
+    "population": 16672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Ullúm",
+    "region": "San Juan",
+    "lat": -31,
+    "lon": -68.9167,
+    "population": 16661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Buey",
+    "region": "Córdoba",
+    "lat": -32.9164,
+    "lon": -62.4567,
+    "population": 16648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Biedma",
+    "region": "Chubut",
+    "lat": -42.4167,
+    "lon": -65,
+    "population": 16632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín de los Andes",
+    "region": "Neuquén",
+    "lat": -40.1579,
+    "lon": -71.3534,
+    "population": 16509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanchillas",
+    "region": "Córdoba",
+    "lat": -33.6665,
+    "lon": -63.637,
+    "population": 16423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Añatuya",
+    "region": "Santiago del Estero",
+    "lat": -28.4606,
+    "lon": -62.8347,
+    "population": 16406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercedes",
+    "region": "Corrientes",
+    "lat": -29.1842,
+    "lon": -58.0752,
+    "population": 16378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Capital",
+    "region": "Catamarca",
+    "lat": -28.4167,
+    "lon": -65.8,
+    "population": 16362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronel Du Graty",
+    "region": "Chaco",
+    "lat": -27.6804,
+    "lon": -60.9146,
+    "population": 16318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrufó",
+    "region": "Santa Fe",
+    "lat": -30.2328,
+    "lon": -61.7286,
+    "population": 16299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Elisa",
+    "region": "Entre Ríos",
+    "lat": -32.1632,
+    "lon": -58.4008,
+    "population": 16216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Donovan",
+    "region": "Chaco",
+    "lat": -27.1667,
+    "lon": -59.3333,
+    "population": 16214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oberá",
+    "region": "Misiones",
+    "lat": -27.4871,
+    "lon": -55.1199,
+    "population": 16212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andacollo",
+    "region": "Neuquén",
+    "lat": -37.1795,
+    "lon": -70.6691,
+    "population": 16100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dos Arroyos",
+    "region": "Misiones",
+    "lat": -27.6995,
+    "lon": -55.2521,
+    "population": 16030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domínguez",
+    "region": "Entre Ríos",
+    "lat": -31.9871,
+    "lon": -58.962,
+    "population": 16020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urdinarrain",
+    "region": "Entre Ríos",
+    "lat": -32.6857,
+    "lon": -58.8932,
+    "population": 16017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Calingasta",
+    "region": "San Juan",
+    "lat": -31.5,
+    "lon": -69.75,
+    "population": 16006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campo Grande",
+    "region": "Misiones",
+    "lat": -27.2077,
+    "lon": -54.9798,
+    "population": 15982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Minas",
+    "region": "Córdoba",
+    "lat": -31,
+    "lon": -65.3333,
+    "population": 15945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tilisarao",
+    "region": "San Luis",
+    "lat": -32.7329,
+    "lon": -65.2911,
+    "population": 15917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Languiñeo",
+    "region": "Chubut",
+    "lat": -43.3333,
+    "lon": -70.6667,
+    "population": 15910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceibas",
+    "region": "Entre Ríos",
+    "lat": -33.4333,
+    "lon": -58.75,
+    "population": 15884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sierra Colorada",
+    "region": "Río Negro",
+    "lat": -40.5849,
+    "lon": -67.7567,
+    "population": 15820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Roca",
+    "region": "Córdoba",
+    "lat": -32.732,
+    "lon": -61.916,
+    "population": 15803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis del Palmar",
+    "region": "Corrientes",
+    "lat": -27.5079,
+    "lon": -58.5545,
+    "population": 15767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Cristo",
+    "region": "Córdoba",
+    "lat": -31.3431,
+    "lon": -63.9444,
+    "population": 15753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huillapima",
+    "region": "Catamarca",
+    "lat": -28.7253,
+    "lon": -65.9787,
+    "population": 15655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neuquén",
+    "region": "Neuquén",
+    "lat": -38.9516,
+    "lon": -68.0591,
+    "population": 15591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Alvear",
+    "region": "Mendoza",
+    "lat": -35.1667,
+    "lon": -67.3333,
+    "population": 15581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Limpia",
+    "region": "Chaco",
+    "lat": -26.4957,
+    "lon": -59.6808,
+    "population": 15510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Mburucuyá",
+    "region": "Corrientes",
+    "lat": -28,
+    "lon": -58.25,
+    "population": 15497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quitilipi",
+    "region": "Chaco",
+    "lat": -26.8691,
+    "lon": -60.2168,
+    "population": 15469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salsacate",
+    "region": "Córdoba",
+    "lat": -31.3184,
+    "lon": -65.09,
+    "population": 15467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Levalle",
+    "region": "Córdoba",
+    "lat": -34.0147,
+    "lon": -63.9241,
+    "population": 15416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de La Paz",
+    "region": "Mendoza",
+    "lat": -33.6667,
+    "lon": -67.25,
+    "population": 15394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victorica",
+    "region": "La Pampa",
+    "lat": -36.215,
+    "lon": -65.4359,
+    "population": 15353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Vilelas",
+    "region": "Chaco",
+    "lat": -27.5141,
+    "lon": -58.9391,
+    "population": 15350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Lácar",
+    "region": "Neuquén",
+    "lat": -40.25,
+    "lon": -71.2,
+    "population": 15233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinchina",
+    "region": "La Rioja",
+    "lat": -28.7596,
+    "lon": -68.2069,
+    "population": 15178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Varas",
+    "region": "Córdoba",
+    "lat": -31.8026,
+    "lon": -62.6165,
+    "population": 15174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lapachito",
+    "region": "Chaco",
+    "lat": -27.16,
+    "lon": -59.386,
+    "population": 15165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Federación",
+    "region": "Entre Ríos",
+    "lat": -31.0062,
+    "lon": -57.8996,
+    "population": 15053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tres Isletas",
+    "region": "Chaco",
+    "lat": -26.3407,
+    "lon": -60.4321,
+    "population": 15029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Empedrado",
+    "region": "Corrientes",
+    "lat": -27.9518,
+    "lon": -58.8058,
+    "population": 15011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Justo",
+    "region": "Córdoba",
+    "lat": -31.3333,
+    "lon": -62.6667,
+    "population": 14980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Fray Mamerto Esquiú",
+    "region": "Catamarca",
+    "lat": -28.3,
+    "lon": -65.75,
+    "population": 14976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ucacha",
+    "region": "Córdoba",
+    "lat": -33.032,
+    "lon": -63.5067,
+    "population": 14909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General San Martín",
+    "region": "Córdoba",
+    "lat": -32.5,
+    "lon": -63.3333,
+    "population": 14769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Realicó",
+    "region": "La Pampa",
+    "lat": -35.0366,
+    "lon": -64.2447,
+    "population": 14735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Presidencia Roca",
+    "region": "Chaco",
+    "lat": -26.1409,
+    "lon": -59.5954,
+    "population": 14713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Corá",
+    "region": "Misiones",
+    "lat": -27.5131,
+    "lon": -55.609,
+    "population": 14712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Dora",
+    "region": "Santiago del Estero",
+    "lat": -28.6,
+    "lon": -62.95,
+    "population": 14691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morrison",
+    "region": "Córdoba",
+    "lat": -32.5948,
+    "lon": -62.8346,
+    "population": 14645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamarque",
+    "region": "Río Negro",
+    "lat": -39.423,
+    "lon": -65.7021,
+    "population": 14626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Isabel",
+    "region": "La Pampa",
+    "lat": -36.2272,
+    "lon": -66.9424,
+    "population": 14555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Jáchal",
+    "region": "San Juan",
+    "lat": -30.5,
+    "lon": -68.5,
+    "population": 14551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Cochinoca",
+    "region": "Jujuy",
+    "lat": -23,
+    "lon": -65.8333,
+    "population": 14478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corralito",
+    "region": "Córdoba",
+    "lat": -32.0246,
+    "lon": -64.1922,
+    "population": 14396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Choya",
+    "region": "Santiago del Estero",
+    "lat": -28.75,
+    "lon": -64.75,
+    "population": 14365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Nueve de Julio",
+    "region": "Santa Fe",
+    "lat": -28.8333,
+    "lon": -61.3333,
+    "population": 14314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rawson",
+    "region": "San Juan",
+    "lat": -31.7,
+    "lon": -68.4667,
+    "population": 14267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Catamarca",
+    "lat": -28.0101,
+    "lon": -65.7087,
+    "population": 14107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perito Moreno",
+    "region": "Santa Cruz",
+    "lat": -46.59,
+    "lon": -70.9297,
+    "population": 14103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Caseros",
+    "region": "Santa Fe",
+    "lat": -33.25,
+    "lon": -61.6667,
+    "population": 14083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cosquín",
+    "region": "Córdoba",
+    "lat": -31.2451,
+    "lon": -64.4656,
+    "population": 14077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Jáchal",
+    "region": "San Juan",
+    "lat": -30.2406,
+    "lon": -68.7469,
+    "population": 14059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín",
+    "region": "San Juan",
+    "lat": -31.4296,
+    "lon": -68.5006,
+    "population": 13904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Nueve de Julio",
+    "region": "San Juan",
+    "lat": -31.6507,
+    "lon": -68.3893,
+    "population": 13903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Cosme",
+    "region": "Corrientes",
+    "lat": -27.3333,
+    "lon": -58.5,
+    "population": 13859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuto",
+    "region": "Jujuy",
+    "lat": -23.6434,
+    "lon": -64.4719,
+    "population": 13839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Los Andes",
+    "region": "Salta",
+    "lat": -24.5,
+    "lon": -67.3333,
+    "population": 13785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Buenos Aires",
+    "lat": -34.6131,
+    "lon": -58.3772,
+    "population": 13753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marcos Juárez",
+    "region": "Córdoba",
+    "lat": -32.6978,
+    "lon": -62.1067,
+    "population": 13728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Alvear",
+    "region": "Misiones",
+    "lat": -27.4261,
+    "lon": -55.1692,
+    "population": 13602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esquel",
+    "region": "Chubut",
+    "lat": -42.9115,
+    "lon": -71.3195,
+    "population": 13576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Justiniano Posse",
+    "region": "Córdoba",
+    "lat": -32.8841,
+    "lon": -62.6779,
+    "population": 13559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel de Tucumán",
+    "region": "Tucumán",
+    "lat": -26.8241,
+    "lon": -65.2226,
+    "population": 13540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yerba Buena",
+    "region": "Tucumán",
+    "lat": -26.8167,
+    "lon": -65.3167,
+    "population": 13504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Libertad",
+    "region": "Misiones",
+    "lat": -25.9196,
+    "lon": -54.5823,
+    "population": 13500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Martín",
+    "region": "Corrientes",
+    "lat": -28.8333,
+    "lon": -56.9167,
+    "population": 13494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maimará",
+    "region": "Jujuy",
+    "lat": -23.6239,
+    "lon": -65.408,
+    "population": 13460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florentino Ameghino",
+    "region": "Misiones",
+    "lat": -27.5667,
+    "lon": -55.1333,
+    "population": 13447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Galarza",
+    "region": "Entre Ríos",
+    "lat": -32.7203,
+    "lon": -59.3961,
+    "population": 13301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de General Roca",
+    "region": "Córdoba",
+    "lat": -34.6667,
+    "lon": -64.25,
+    "population": 13285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darwin",
+    "region": "Río Negro",
+    "lat": -39.2033,
+    "lon": -65.7395,
+    "population": 13225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chorotis",
+    "region": "Chaco",
+    "lat": -27.9158,
+    "lon": -61.3998,
+    "population": 13182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocito",
+    "region": "San Juan",
+    "lat": -31.6833,
+    "lon": -68.5833,
+    "population": 12949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Antofagasta de la Sierra",
+    "region": "Catamarca",
+    "lat": -26,
+    "lon": -67.5833,
+    "population": 12889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Deseado",
+    "region": "Santa Cruz",
+    "lat": -47.7503,
+    "lon": -65.8938,
+    "population": 12843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lajitas",
+    "region": "Salta",
+    "lat": -24.7276,
+    "lon": -64.1933,
+    "population": 12782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Tercero",
+    "region": "Córdoba",
+    "lat": -32.173,
+    "lon": -64.1141,
+    "population": 12738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Breñas",
+    "region": "Chaco",
+    "lat": -27.0897,
+    "lon": -61.0816,
+    "population": 12683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Quiaca",
+    "region": "Jujuy",
+    "lat": -22.1024,
+    "lon": -65.593,
+    "population": 12670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Córdoba",
+    "lat": -31.428,
+    "lon": -62.0827,
+    "population": 12660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libertad",
+    "region": "Corrientes",
+    "lat": -30.043,
+    "lon": -57.8202,
+    "population": 12649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraná",
+    "region": "Entre Ríos",
+    "lat": -31.7327,
+    "lon": -60.529,
+    "population": 12637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Gustavo",
+    "region": "Entre Ríos",
+    "lat": -30.6896,
+    "lon": -59.3984,
+    "population": 12628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción del Bermejo",
+    "region": "Chaco",
+    "lat": -26.5993,
+    "lon": -60.9462,
+    "population": 12587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Juárez Celman",
+    "region": "Córdoba",
+    "lat": -33.3333,
+    "lon": -63.6667,
+    "population": 12511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Leonesa",
+    "region": "Chaco",
+    "lat": -27.0379,
+    "lon": -58.7035,
+    "population": 12493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Godoy Cruz",
+    "region": "Mendoza",
+    "lat": -32.9286,
+    "lon": -68.8351,
+    "population": 12478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mártires",
+    "region": "Misiones",
+    "lat": -27.4227,
+    "lon": -55.3766,
+    "population": 12465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isla Verde",
+    "region": "Córdoba",
+    "lat": -33.241,
+    "lon": -62.403,
+    "population": 12400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fraile Pintado",
+    "region": "Jujuy",
+    "lat": -23.9408,
+    "lon": -64.7994,
+    "population": 12391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porteña",
+    "region": "Córdoba",
+    "lat": -31.0139,
+    "lon": -62.0665,
+    "population": 12378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Vedia",
+    "region": "Chaco",
+    "lat": -26.9338,
+    "lon": -58.6604,
+    "population": 12354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cruz del Eje",
+    "region": "Córdoba",
+    "lat": -30.7264,
+    "lon": -64.8039,
+    "population": 12339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rosario de Lerma",
+    "region": "Salta",
+    "lat": -24.5833,
+    "lon": -65.8333,
+    "population": 12253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Segundo",
+    "region": "Córdoba",
+    "lat": -31.6526,
+    "lon": -63.9099,
+    "population": 12052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vicuña Mackenna",
+    "region": "Córdoba",
+    "lat": -33.9196,
+    "lon": -64.3922,
+    "population": 12038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinogasta",
+    "region": "Catamarca",
+    "lat": -28.0632,
+    "lon": -67.5649,
+    "population": 11999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesús María",
+    "region": "Córdoba",
+    "lat": -30.9815,
+    "lon": -64.0942,
+    "population": 11890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Ascasubi",
+    "region": "Córdoba",
+    "lat": -32.1635,
+    "lon": -63.8916,
+    "population": 11867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobernador Gregores",
+    "region": "Santa Cruz",
+    "lat": -48.7506,
+    "lon": -70.2474,
+    "population": 11818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Magallanes",
+    "region": "Santa Cruz",
+    "lat": -48.75,
+    "lon": -68.5,
+    "population": 11812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalmacio Vélez Sársfield",
+    "region": "Córdoba",
+    "lat": -32.6107,
+    "lon": -63.5804,
+    "population": 11785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Presidencia de la Plaza",
+    "region": "Chaco",
+    "lat": -27.0015,
+    "lon": -59.8424,
+    "population": 11738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Graneros",
+    "region": "Tucumán",
+    "lat": -27.75,
+    "lon": -65.3333,
+    "population": 11714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Las Rosas",
+    "region": "Córdoba",
+    "lat": -31.9502,
+    "lon": -65.0535,
+    "population": 11700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Banda",
+    "region": "Santiago del Estero",
+    "lat": -27.5,
+    "lon": -64.3333,
+    "population": 11691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Elía",
+    "region": "Entre Ríos",
+    "lat": -32.6714,
+    "lon": -58.3254,
+    "population": 11685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zapala",
+    "region": "Neuquén",
+    "lat": -38.8992,
+    "lon": -70.0544,
+    "population": 11590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Malargüe",
+    "region": "Mendoza",
+    "lat": -36.25,
+    "lon": -69.25,
+    "population": 11579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Esperanza",
+    "region": "Misiones",
+    "lat": -26.0227,
+    "lon": -54.6136,
+    "population": 11547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Maipú",
+    "region": "Mendoza",
+    "lat": -33,
+    "lon": -68.5833,
+    "population": 11544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yapeyú",
+    "region": "Corrientes",
+    "lat": -29.4691,
+    "lon": -56.8184,
+    "population": 11537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Formosa",
+    "region": "Formosa",
+    "lat": -26.1849,
+    "lon": -58.1731,
+    "population": 11491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrilobo",
+    "region": "Córdoba",
+    "lat": -31.873,
+    "lon": -63.1172,
+    "population": 11489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Caldera",
+    "region": "Salta",
+    "lat": -24.5833,
+    "lon": -65.4167,
+    "population": 11473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Fe",
+    "region": "Santa Fe",
+    "lat": -31.6488,
+    "lon": -60.7087,
+    "population": 11332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de San Lorenzo",
+    "region": "Santa Fe",
+    "lat": -33,
+    "lon": -61,
+    "population": 11327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Rinconada",
+    "region": "Jujuy",
+    "lat": -22.5,
+    "lon": -66.5,
+    "population": 11293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampa Almirón",
+    "region": "Chaco",
+    "lat": -26.7004,
+    "lon": -59.1233,
+    "population": 11293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatraché",
+    "region": "La Pampa",
+    "lat": -37.6678,
+    "lon": -63.5302,
+    "population": 11281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berrotarán",
+    "region": "Córdoba",
+    "lat": -32.451,
+    "lon": -64.3887,
+    "population": 11241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Sylvina",
+    "region": "Chaco",
+    "lat": -27.8326,
+    "lon": -61.1375,
+    "population": 11237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chavarría",
+    "region": "Corrientes",
+    "lat": -28.9549,
+    "lon": -58.5728,
+    "population": 11192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quemú Quemú",
+    "region": "La Pampa",
+    "lat": -36.0546,
+    "lon": -63.5643,
+    "population": 11142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winifreda",
+    "region": "La Pampa",
+    "lat": -36.2264,
+    "lon": -64.2339,
+    "population": 11126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comandante Luis Piedra Buena",
+    "region": "Santa Cruz",
+    "lat": -49.9851,
+    "lon": -68.9147,
+    "population": 11106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pronunciamiento",
+    "region": "Entre Ríos",
+    "lat": -32.3448,
+    "lon": -58.4427,
+    "population": 11064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción del Uruguay",
+    "region": "Entre Ríos",
+    "lat": -32.4846,
+    "lon": -58.2322,
+    "population": 11024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Recreo",
+    "region": "Santa Fe",
+    "lat": -31.4908,
+    "lon": -60.733,
+    "population": 11018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Cerrillos",
+    "region": "Salta",
+    "lat": -25,
+    "lon": -65.4167,
+    "population": 10899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Castellanos",
+    "region": "Santa Fe",
+    "lat": -31.1667,
+    "lon": -61.6667,
+    "population": 10869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Córdoba",
+    "lat": -31.1776,
+    "lon": -65.1025,
+    "population": 10840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de la Dormida",
+    "region": "Córdoba",
+    "lat": -30.3544,
+    "lon": -63.9487,
+    "population": 10726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inriville",
+    "region": "Córdoba",
+    "lat": -32.9442,
+    "lon": -62.2303,
+    "population": 10714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanda",
+    "region": "Misiones",
+    "lat": -25.9688,
+    "lon": -54.5628,
+    "population": 10714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montecarlo",
+    "region": "Misiones",
+    "lat": -26.5662,
+    "lon": -54.757,
+    "population": 10696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cavanagh",
+    "region": "Córdoba",
+    "lat": -33.4761,
+    "lon": -62.3389,
+    "population": 10583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Pipó",
+    "region": "Misiones",
+    "lat": -27.1413,
+    "lon": -55.4087,
+    "population": 10563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilecito",
+    "region": "La Rioja",
+    "lat": -29.162,
+    "lon": -67.4974,
+    "population": 10521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Eldorado",
+    "region": "Misiones",
+    "lat": -26.25,
+    "lon": -54.4167,
+    "population": 10520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chamical",
+    "region": "La Rioja",
+    "lat": -30.36,
+    "lon": -66.314,
+    "population": 10369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirané",
+    "region": "Formosa",
+    "lat": -25.7324,
+    "lon": -59.1088,
+    "population": 10340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedra del Águila",
+    "region": "Neuquén",
+    "lat": -40.0481,
+    "lon": -70.0741,
+    "population": 10337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Simoca",
+    "region": "Tucumán",
+    "lat": -27.2636,
+    "lon": -65.3561,
+    "population": 10301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Enrique Godoy",
+    "region": "Río Negro",
+    "lat": -39.0789,
+    "lon": -67.1581,
+    "population": 10274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Caseros",
+    "region": "Corrientes",
+    "lat": -30.2536,
+    "lon": -57.6363,
+    "population": 10216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Monteros",
+    "region": "Tucumán",
+    "lat": -27.1667,
+    "lon": -65.5833,
+    "population": 10184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Laishí",
+    "region": "Formosa",
+    "lat": -26.2426,
+    "lon": -58.6304,
+    "population": 10159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Presidencia de la Plaza",
+    "region": "Chaco",
+    "lat": -27,
+    "lon": -59.75,
+    "population": 10146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de Toay",
+    "region": "La Pampa",
+    "lat": -36.5833,
+    "lon": -64.8,
+    "population": 10137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Departamento de El Alto",
+    "region": "Catamarca",
+    "lat": -28.4167,
+    "lon": -65.4167,
+    "population": 10080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Heras",
+    "region": "Mendoza",
+    "lat": -32.8527,
+    "lon": -68.8284,
+    "population": 10029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senillosa",
+    "region": "Neuquén",
+    "lat": -39.0141,
+    "lon": -68.4328,
+    "population": 10024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armstrong",
+    "region": "Santa Fe",
+    "lat": -32.7822,
+    "lon": -61.6022,
+    "population": 10018,
+    "timezone": "UTC"
+  }
+]

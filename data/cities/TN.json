@@ -1,0 +1,1074 @@
+[
+  {
+    "name": "Skanes",
+    "region": "Monastir Governorate",
+    "lat": 35.7833,
+    "lon": 10.8,
+    "population": 49679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahdia",
+    "region": "Mahdia Governorate",
+    "lat": 35.5047,
+    "lon": 11.0622,
+    "population": 49523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kairouan",
+    "region": "Kairouan Governorate",
+    "lat": 35.6781,
+    "lon": 10.0963,
+    "population": 49451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Kheddache",
+    "region": "Medenine Governorate",
+    "lat": 33.2528,
+    "lon": 10.1988,
+    "population": 48580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Délégation de Béja Nord",
+    "region": "Kassrine",
+    "lat": 36.8035,
+    "lon": 9.2498,
+    "population": 48548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siliana",
+    "region": "Siliana Governorate",
+    "lat": 36.085,
+    "lon": 9.3708,
+    "population": 48435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Kef",
+    "region": "Kef Governorate",
+    "lat": 36.1742,
+    "lon": 8.7049,
+    "population": 47861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midoun",
+    "region": "Medenine Governorate",
+    "lat": 33.8081,
+    "lon": 10.9923,
+    "population": 47850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kebili",
+    "region": "Kebili Governorate",
+    "lat": 33.7044,
+    "lon": 8.969,
+    "population": 47346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nefta",
+    "region": "Tozeur Governorate",
+    "lat": 33.8731,
+    "lon": 7.8777,
+    "population": 47338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skhira",
+    "region": "Sfax Governorate",
+    "lat": 34.2992,
+    "lon": 10.07,
+    "population": 47318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chorbane",
+    "region": "Mahdia Governorate",
+    "lat": 35.2858,
+    "lon": 10.3858,
+    "population": 47235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Bou Saïd",
+    "region": "Tunis Governorate",
+    "lat": 36.8687,
+    "lon": 10.3417,
+    "population": 46793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bou Attouche",
+    "region": "Gabès Governorate",
+    "lat": 33.8993,
+    "lon": 9.785,
+    "population": 46462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rohia",
+    "region": "Kasserine Governorate",
+    "lat": 35.6513,
+    "lon": 9.0531,
+    "population": 46073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakiet Sidi Youssef",
+    "region": "Kef Governorate",
+    "lat": 36.2229,
+    "lon": 8.3555,
+    "population": 45963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menzel Abderhaman",
+    "region": "Bizerte Governorate",
+    "lat": 37.2374,
+    "lon": 9.8631,
+    "population": 45606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ksour Essaf",
+    "region": "Mahdia Governorate",
+    "lat": 35.4181,
+    "lon": 10.9947,
+    "population": 45162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salakta",
+    "region": "Mahdia Governorate",
+    "lat": 35.3944,
+    "lon": 11.0436,
+    "population": 44699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tajerouine",
+    "region": "Kef Governorate",
+    "lat": 35.8917,
+    "lon": 8.5528,
+    "population": 44284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agareb",
+    "region": "Sfax Governorate",
+    "lat": 34.7441,
+    "lon": 10.4611,
+    "population": 43998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chebba",
+    "region": "Mahdia Governorate",
+    "lat": 35.2372,
+    "lon": 11.115,
+    "population": 43900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi el Hani",
+    "region": "Sousse Governorate",
+    "lat": 35.6714,
+    "lon": 10.3158,
+    "population": 43893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Ben Nour",
+    "region": "Monastir Governorate",
+    "lat": 35.5333,
+    "lon": 10.9167,
+    "population": 43847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Battan",
+    "region": "Manouba Governorate",
+    "lat": 36.8037,
+    "lon": 9.8442,
+    "population": 43628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douz",
+    "region": "Kebili Governorate",
+    "lat": 33.4663,
+    "lon": 9.0203,
+    "population": 43350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammam Sousse",
+    "region": "Sousse Governorate",
+    "lat": 35.8609,
+    "lon": 10.6031,
+    "population": 42736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rudayyif",
+    "region": "Gafsa Governorate",
+    "lat": 34.3827,
+    "lon": 8.1555,
+    "population": 42531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lemta",
+    "region": "Monastir Governorate",
+    "lat": 35.6667,
+    "lon": 10.8833,
+    "population": 42402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezzouna",
+    "region": "Sidi Bouzid Governorate",
+    "lat": 34.5776,
+    "lon": 9.8419,
+    "population": 42218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melloulèche",
+    "region": "Mahdia Governorate",
+    "lat": 35.1662,
+    "lon": 11.035,
+    "population": 42091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Degache",
+    "region": "Tozeur Governorate",
+    "lat": 33.9761,
+    "lon": 8.2081,
+    "population": 41714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ben Arous",
+    "region": "Ben Arous Governorate",
+    "lat": 36.7545,
+    "lon": 10.2217,
+    "population": 41251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sahline",
+    "region": "Monastir Governorate",
+    "lat": 35.7517,
+    "lon": 10.7111,
+    "population": 40717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bir Ali Ben Khalifa",
+    "region": "Sfax Governorate",
+    "lat": 34.7359,
+    "lon": 10.0924,
+    "population": 39794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rhar el Melah",
+    "region": "Bizerte Governorate",
+    "lat": 37.1694,
+    "lon": 10.1906,
+    "population": 38858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zahānah",
+    "region": "Bizerte Governorate",
+    "lat": 37.0396,
+    "lon": 10.0388,
+    "population": 38549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akouda",
+    "region": "Sousse Governorate",
+    "lat": 35.8691,
+    "lon": 10.5653,
+    "population": 37756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menzel Kamel",
+    "region": "Monastir Governorate",
+    "lat": 35.6248,
+    "lon": 10.6673,
+    "population": 36134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ksibet el Mediouni",
+    "region": "Monastir Governorate",
+    "lat": 35.6856,
+    "lon": 10.8426,
+    "population": 35812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rafrāf",
+    "region": "Bizerte Governorate",
+    "lat": 37.1904,
+    "lon": 10.1837,
+    "population": 35543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Fahs",
+    "region": "Zaghouan Governorate",
+    "lat": 36.3742,
+    "lon": 9.9065,
+    "population": 35406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Lill",
+    "region": "Manouba Governorate",
+    "lat": 36.8341,
+    "lon": 10.0406,
+    "population": 34614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sejenane",
+    "region": "Bizerte Governorate",
+    "lat": 37.0572,
+    "lon": 9.2381,
+    "population": 34586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bir el Hafey",
+    "region": "Sidi Bouzid Governorate",
+    "lat": 34.9321,
+    "lon": 9.1932,
+    "population": 34323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Le Krib",
+    "region": "Siliana Governorate",
+    "lat": 36.328,
+    "lon": 9.1361,
+    "population": 34262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ariana",
+    "region": "Ariana Governorate",
+    "lat": 36.8601,
+    "lon": 10.1934,
+    "population": 34107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammam-Lif",
+    "region": "Ben Arous Governorate",
+    "lat": 36.7287,
+    "lon": 10.3416,
+    "population": 34060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Golaa",
+    "region": "Kebili Governorate",
+    "lat": 33.4849,
+    "lon": 9.0068,
+    "population": 32320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Meliz",
+    "region": "Jendouba Governorate",
+    "lat": 36.4681,
+    "lon": 8.5495,
+    "population": 31811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gafsa",
+    "region": "Gafsa Governorate",
+    "lat": 34.425,
+    "lon": 8.7842,
+    "population": 31283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chebika",
+    "region": "Tozeur Governorate",
+    "lat": 34.3191,
+    "lon": 7.9352,
+    "population": 31155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kesra",
+    "region": "Siliana Governorate",
+    "lat": 35.8136,
+    "lon": 9.3643,
+    "population": 29779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galaat el Andeless",
+    "region": "Ariana Governorate",
+    "lat": 37.0629,
+    "lon": 10.1183,
+    "population": 29569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remada",
+    "region": "Tataouine Governorate",
+    "lat": 32.3166,
+    "lon": 10.3955,
+    "population": 29327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matmata",
+    "region": "Gabès Governorate",
+    "lat": 33.5444,
+    "lon": 9.9716,
+    "population": 29243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouardenine",
+    "region": "Monastir Governorate",
+    "lat": 35.7092,
+    "lon": 10.674,
+    "population": 29160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menzel Jemil",
+    "region": "Bizerte Governorate",
+    "lat": 37.2362,
+    "lon": 9.9145,
+    "population": 29098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Goulette",
+    "region": "Tunis Governorate",
+    "lat": 36.8182,
+    "lon": 10.3052,
+    "population": 29036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesdour",
+    "region": "Monastir Governorate",
+    "lat": 35.6821,
+    "lon": 10.7275,
+    "population": 28525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harqalah",
+    "region": "Sousse Governorate",
+    "lat": 36.0303,
+    "lon": 10.509,
+    "population": 28459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mohammedia",
+    "region": "Tunis Governorate",
+    "lat": 36.6745,
+    "lon": 10.1563,
+    "population": 28403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jilma",
+    "region": "Sidi Bouzid Governorate",
+    "lat": 35.2731,
+    "lon": 9.4238,
+    "population": 28254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houmt El Souk",
+    "region": "Medenine Governorate",
+    "lat": 33.8758,
+    "lon": 10.8575,
+    "population": 27998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Sebala du Mornag",
+    "region": "Ben Arous Governorate",
+    "lat": 36.6793,
+    "lon": 10.2919,
+    "population": 27334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Msaken",
+    "region": "Sousse Governorate",
+    "lat": 35.7292,
+    "lon": 10.5808,
+    "population": 27182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Béja",
+    "region": "Kassrine",
+    "lat": 36.7256,
+    "lon": 9.1817,
+    "population": 26751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mateur",
+    "region": "Bizerte Governorate",
+    "lat": 37.0404,
+    "lon": 9.6656,
+    "population": 26626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasserine",
+    "region": "Kasserine Governorate",
+    "lat": 35.1676,
+    "lon": 8.8365,
+    "population": 26276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Alia",
+    "region": "Bizerte Governorate",
+    "lat": 37.1691,
+    "lon": 10.0348,
+    "population": 26193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zouila",
+    "region": "Mahdia Governorate",
+    "lat": 35.5006,
+    "lon": 11.0606,
+    "population": 25987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarzis",
+    "region": "Medenine Governorate",
+    "lat": 33.504,
+    "lon": 11.1121,
+    "population": 25915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jendouba",
+    "region": "Jendouba Governorate",
+    "lat": 36.4852,
+    "lon": 8.8232,
+    "population": 25312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hamma",
+    "region": "Gabès Governorate",
+    "lat": 33.8915,
+    "lon": 9.7963,
+    "population": 25227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metlaoui",
+    "region": "Gafsa Governorate",
+    "lat": 34.3208,
+    "lon": 8.4016,
+    "population": 25184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jerba Midoun",
+    "region": "Medenine Governorate",
+    "lat": 33.7792,
+    "lon": 10.9521,
+    "population": 25007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tataouine",
+    "region": "Tataouine Governorate",
+    "lat": 32.9297,
+    "lon": 10.4518,
+    "population": 24515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nibbar",
+    "region": "Kef Governorate",
+    "lat": 36.2941,
+    "lon": 8.7666,
+    "population": 24223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monastir",
+    "region": "Monastir Governorate",
+    "lat": 35.778,
+    "lon": 10.8262,
+    "population": 24193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sbiba",
+    "region": "Kasserine Governorate",
+    "lat": 35.5433,
+    "lon": 9.0737,
+    "population": 24039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Hassane",
+    "region": "Monastir Governorate",
+    "lat": 35.5672,
+    "lon": 10.8087,
+    "population": 23871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sars",
+    "region": "Kef Governorate",
+    "lat": 36.0764,
+    "lon": 9.0212,
+    "population": 23650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ksar Hellal",
+    "region": "Monastir Governorate",
+    "lat": 35.6477,
+    "lon": 10.8905,
+    "population": 23474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haffouz",
+    "region": "Kairouan Governorate",
+    "lat": 35.6324,
+    "lon": 9.6762,
+    "population": 23232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port el Kantaoui",
+    "region": "Sousse Governorate",
+    "lat": 35.8924,
+    "lon": 10.5943,
+    "population": 23179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gremda",
+    "region": "Sfax Governorate",
+    "lat": 34.75,
+    "lon": 10.7833,
+    "population": 22102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manouba",
+    "region": "Manouba Governorate",
+    "lat": 36.8101,
+    "lon": 10.0956,
+    "population": 21924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabursuq",
+    "region": "Kassrine",
+    "lat": 36.4569,
+    "lon": 9.2475,
+    "population": 21817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamaghzah",
+    "region": "Tozeur Governorate",
+    "lat": 34.3885,
+    "lon": 7.9431,
+    "population": 21708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gabès",
+    "region": "Gabès Governorate",
+    "lat": 33.8815,
+    "lon": 10.0982,
+    "population": 21124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gafour",
+    "region": "Siliana Governorate",
+    "lat": 36.3205,
+    "lon": 9.3242,
+    "population": 20969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ben Gardane",
+    "region": "Medenine Governorate",
+    "lat": 33.1378,
+    "lon": 11.2196,
+    "population": 20783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sousse",
+    "region": "Sousse Governorate",
+    "lat": 35.8254,
+    "lon": 10.637,
+    "population": 20557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medenine",
+    "region": "Medenine Governorate",
+    "lat": 33.355,
+    "lon": 10.5055,
+    "population": 20488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mu‘tamadīyat ar Rudayyif",
+    "region": "Gafsa Governorate",
+    "lat": 34.4008,
+    "lon": 8.1706,
+    "population": 20421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Matlīn",
+    "region": "Bizerte Governorate",
+    "lat": 37.2452,
+    "lon": 10.05,
+    "population": 20403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tozeur",
+    "region": "Tozeur Governorate",
+    "lat": 33.9197,
+    "lon": 8.1335,
+    "population": 20396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Ksour",
+    "region": "Kef Governorate",
+    "lat": 35.8961,
+    "lon": 8.8849,
+    "population": 20325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jemna",
+    "region": "Kebili Governorate",
+    "lat": 33.5778,
+    "lon": 9.0147,
+    "population": 20259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Bou Ali",
+    "region": "Sousse Governorate",
+    "lat": 35.9567,
+    "lon": 10.4731,
+    "population": 19423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bizerte",
+    "region": "Bizerte Governorate",
+    "lat": 37.2744,
+    "lon": 9.8739,
+    "population": 19261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Testour",
+    "region": "Kassrine",
+    "lat": 36.5513,
+    "lon": 9.4431,
+    "population": 19233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erriadh",
+    "region": "Medenine Governorate",
+    "lat": 33.8206,
+    "lon": 10.8539,
+    "population": 18585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaghouan",
+    "region": "Zaghouan Governorate",
+    "lat": 36.4029,
+    "lon": 10.1429,
+    "population": 18575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Marsá",
+    "region": "Tunis Governorate",
+    "lat": 36.8782,
+    "lon": 10.3247,
+    "population": 18269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seïada",
+    "region": "Monastir Governorate",
+    "lat": 35.6689,
+    "lon": 10.8925,
+    "population": 18022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djebeniana",
+    "region": "Sfax Governorate",
+    "lat": 35.035,
+    "lon": 10.9081,
+    "population": 17955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mu‘tamadīyat Manūbah",
+    "region": "Manouba Governorate",
+    "lat": 36.8091,
+    "lon": 10.0947,
+    "population": 17874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carthage",
+    "region": "Tunis Governorate",
+    "lat": 36.8596,
+    "lon": 10.3298,
+    "population": 16722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Jem",
+    "region": "Mahdia Governorate",
+    "lat": 35.3,
+    "lon": 10.7167,
+    "population": 16706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thala",
+    "region": "Kasserine Governorate",
+    "lat": 35.5724,
+    "lon": 8.6703,
+    "population": 16684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fernana",
+    "region": "Jendouba Governorate",
+    "lat": 36.6555,
+    "lon": 8.696,
+    "population": 16674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djemmal",
+    "region": "Monastir Governorate",
+    "lat": 35.6223,
+    "lon": 10.757,
+    "population": 16612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goubellat",
+    "region": "Kassrine",
+    "lat": 36.5418,
+    "lon": 9.6633,
+    "population": 16335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Bouzid",
+    "region": "Sidi Bouzid Governorate",
+    "lat": 35.0382,
+    "lon": 9.4849,
+    "population": 15361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Touza",
+    "region": "Monastir Governorate",
+    "lat": 35.6354,
+    "lon": 10.8273,
+    "population": 15031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medjez el Bab",
+    "region": "Kassrine",
+    "lat": 36.6496,
+    "lon": 9.6123,
+    "population": 14569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabarka",
+    "region": "Jendouba Governorate",
+    "lat": 36.9544,
+    "lon": 8.758,
+    "population": 14353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douar Tindja",
+    "region": "Bizerte Governorate",
+    "lat": 37.1667,
+    "lon": 9.75,
+    "population": 14327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bizerte Sud",
+    "region": "Bizerte Governorate",
+    "lat": 37.2553,
+    "lon": 9.6791,
+    "population": 13582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bou Arada",
+    "region": "Siliana Governorate",
+    "lat": 36.3525,
+    "lon": 9.6218,
+    "population": 13570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sbikha",
+    "region": "Kairouan Governorate",
+    "lat": 35.9333,
+    "lon": 10.0208,
+    "population": 13154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radès",
+    "region": "Ben Arous Governorate",
+    "lat": 36.7695,
+    "lon": 10.2747,
+    "population": 13053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bekalta",
+    "region": "Monastir Governorate",
+    "lat": 35.6174,
+    "lon": 10.9947,
+    "population": 13048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menzel Salem",
+    "region": "Kef Governorate",
+    "lat": 35.8567,
+    "lon": 8.4765,
+    "population": 12894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammam Lif",
+    "region": "Ben Arous Governorate",
+    "lat": 36.7192,
+    "lon": 10.3223,
+    "population": 12765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Alouane",
+    "region": "Mahdia Governorate",
+    "lat": 35.3751,
+    "lon": 10.939,
+    "population": 11826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sfax",
+    "region": "Sfax Governorate",
+    "lat": 34.7406,
+    "lon": 10.7603,
+    "population": 11538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maktar",
+    "region": "Siliana Governorate",
+    "lat": 35.858,
+    "lon": 9.2007,
+    "population": 10862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banbalah",
+    "region": "Monastir Governorate",
+    "lat": 35.7,
+    "lon": 10.8,
+    "population": 10848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sanad",
+    "region": "Gafsa Governorate",
+    "lat": 34.4628,
+    "lon": 9.264,
+    "population": 10789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menzel Bourguiba",
+    "region": "Bizerte Governorate",
+    "lat": 37.1537,
+    "lon": 9.7859,
+    "population": 10443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Er Regueb",
+    "region": "Sidi Bouzid Governorate",
+    "lat": 34.8593,
+    "lon": 9.7865,
+    "population": 10315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tunis",
+    "region": "Tunis Governorate",
+    "lat": 36.819,
+    "lon": 10.1658,
+    "population": 10210,
+    "timezone": "UTC"
+  }
+]

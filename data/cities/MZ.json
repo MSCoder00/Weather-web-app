@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Tete",
+    "region": "Tete Province",
+    "lat": -16.1564,
+    "lon": 33.5867,
+    "population": 48843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ressano Garcia",
+    "region": "Maputo Province",
+    "lat": -25.4428,
+    "lon": 31.9953,
+    "population": 47803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xai-Xai",
+    "region": "Gaza Province",
+    "lat": -25.0519,
+    "lon": 33.6442,
+    "population": 47730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilha de Moçambique",
+    "region": "Nampula Province",
+    "lat": -15.0342,
+    "lon": 40.7358,
+    "population": 46148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macia",
+    "region": "Gaza Province",
+    "lat": -25.0269,
+    "lon": 33.0989,
+    "population": 46074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inhambane",
+    "region": "Inhambane Province",
+    "lat": -23.865,
+    "lon": 35.3833,
+    "population": 41989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maputo",
+    "region": "Maputo",
+    "lat": -25.9655,
+    "lon": 32.5832,
+    "population": 41808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matola",
+    "region": "Maputo Province",
+    "lat": -25.9622,
+    "lon": 32.4589,
+    "population": 41379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuamba",
+    "region": "Niassa Province",
+    "lat": -14.8031,
+    "lon": 36.5372,
+    "population": 39958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto Molócuè",
+    "region": "Zambezia Province",
+    "lat": -15.6493,
+    "lon": 37.6638,
+    "population": 39591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "KaTembe",
+    "region": "Maputo",
+    "lat": -26.0298,
+    "lon": 32.532,
+    "population": 38923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marracuene District",
+    "region": "Maputo Province",
+    "lat": -25.7394,
+    "lon": 32.6744,
+    "population": 37902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magude District",
+    "region": "Maputo Province",
+    "lat": -25.0239,
+    "lon": 32.6515,
+    "population": 37542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moamba District",
+    "region": "Maputo Province",
+    "lat": -25.6093,
+    "lon": 32.2432,
+    "population": 37339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namaacha District",
+    "region": "Maputo Province",
+    "lat": -26.109,
+    "lon": 32.18,
+    "population": 36908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boane District",
+    "region": "Maputo Province",
+    "lat": -26.029,
+    "lon": 32.389,
+    "population": 35598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nhamatanda District",
+    "region": "Sofala Province",
+    "lat": -19.349,
+    "lon": 34.268,
+    "population": 33777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nampula",
+    "region": "Nampula Province",
+    "lat": -15.1165,
+    "lon": 39.2666,
+    "population": 32809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nacala",
+    "region": "Nampula Province",
+    "lat": -14.5626,
+    "lon": 40.6854,
+    "population": 31099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "António Enes",
+    "region": "Nampula Province",
+    "lat": -16.2325,
+    "lon": 39.9086,
+    "population": 30692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concelho de Matola",
+    "region": "Maputo Province",
+    "lat": -25.8347,
+    "lon": 32.4952,
+    "population": 30070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lichinga",
+    "region": "Niassa Province",
+    "lat": -13.3128,
+    "lon": 35.2406,
+    "population": 30052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beira",
+    "region": "Sofala Province",
+    "lat": -19.8436,
+    "lon": 34.8389,
+    "population": 29688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiure",
+    "region": "Cabo Delgado Province",
+    "lat": -13.4666,
+    "lon": 39.7032,
+    "population": 29199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mocímboa",
+    "region": "Cabo Delgado Province",
+    "lat": -11.3167,
+    "lon": 40.35,
+    "population": 28700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matutiune District",
+    "region": "Maputo Province",
+    "lat": -26.4342,
+    "lon": 32.5882,
+    "population": 28388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutuáli",
+    "region": "Nampula Province",
+    "lat": -14.8706,
+    "lon": 37.0044,
+    "population": 27489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manhica",
+    "region": "Maputo Province",
+    "lat": -25.3404,
+    "lon": 32.8423,
+    "population": 25373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maxixe",
+    "region": "Inhambane Province",
+    "lat": -23.8597,
+    "lon": 35.3472,
+    "population": 24739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chibuto",
+    "region": "Gaza Province",
+    "lat": -24.6867,
+    "lon": 33.5306,
+    "population": 21877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinde",
+    "region": "Zambezia Province",
+    "lat": -18.5811,
+    "lon": 36.4586,
+    "population": 20725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dondo",
+    "region": "Sofala Province",
+    "lat": -19.6094,
+    "lon": 34.7431,
+    "population": 20195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandimba",
+    "region": "Niassa Province",
+    "lat": -14.3525,
+    "lon": 35.6506,
+    "population": 19156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chokwé",
+    "region": "Gaza Province",
+    "lat": -24.5333,
+    "lon": 32.9833,
+    "population": 15944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montepuez",
+    "region": "Cabo Delgado Province",
+    "lat": -13.1256,
+    "lon": 38.9997,
+    "population": 14685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pemba",
+    "region": "Cabo Delgado Province",
+    "lat": -12.974,
+    "lon": 40.5177,
+    "population": 14435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quelimane",
+    "region": "Zambezia Province",
+    "lat": -17.8786,
+    "lon": 36.8883,
+    "population": 12310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimoio",
+    "region": "Manica Province",
+    "lat": -19.1164,
+    "lon": 33.4833,
+    "population": 11979,
+    "timezone": "UTC"
+  }
+]

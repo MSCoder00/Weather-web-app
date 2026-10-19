@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Kochkor-Ata",
+    "region": "Jalal-Abad Region",
+    "lat": 41.0371,
+    "lon": 72.4832,
+    "population": 47917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batken",
+    "region": "Batken Region",
+    "lat": 40.0626,
+    "lon": 70.8194,
+    "population": 47772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tokmok",
+    "region": "Chuy Region",
+    "lat": 42.8419,
+    "lon": 75.3015,
+    "population": 47724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daroot-Korgon",
+    "region": "Osh Region",
+    "lat": 39.5527,
+    "lon": 72.2052,
+    "population": 46419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kemin",
+    "region": "Chuy Region",
+    "lat": 42.7861,
+    "lon": 75.6917,
+    "population": 46380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nookat",
+    "region": "Osh Region",
+    "lat": 40.266,
+    "lon": 72.6183,
+    "population": 44208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalal-Abad",
+    "region": "Jalal-Abad Region",
+    "lat": 40.9333,
+    "lon": 73,
+    "population": 44143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At-Bashi",
+    "region": "Naryn Region",
+    "lat": 41.1695,
+    "lon": 75.801,
+    "population": 42735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chong-Alay District",
+    "region": "Osh Region",
+    "lat": 39.4761,
+    "lon": 72.3302,
+    "population": 42006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karakol",
+    "region": "Issyk-Kul Region",
+    "lat": 42.4907,
+    "lon": 78.3936,
+    "population": 41867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kara-Balta",
+    "region": "Chuy Region",
+    "lat": 42.8142,
+    "lon": 73.8481,
+    "population": 41570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerben",
+    "region": "Jalal-Abad Region",
+    "lat": 41.494,
+    "lon": 71.7583,
+    "population": 41276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alamudunskiy Rayon",
+    "region": "Chuy Region",
+    "lat": 42.8199,
+    "lon": 74.594,
+    "population": 41039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naryn",
+    "region": "Naryn Region",
+    "lat": 41.4287,
+    "lon": 75.9911,
+    "population": 39854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talas",
+    "region": "Talas Region",
+    "lat": 42.5228,
+    "lon": 72.2427,
+    "population": 39696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karavan",
+    "region": "Batken Region",
+    "lat": 40.2951,
+    "lon": 72.1863,
+    "population": 39342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iradan",
+    "region": "Batken Region",
+    "lat": 40.2667,
+    "lon": 72.1,
+    "population": 38938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaindy",
+    "region": "Chuy Region",
+    "lat": 42.8247,
+    "lon": 73.6758,
+    "population": 38635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyzyl-Kyya",
+    "region": "Batken Region",
+    "lat": 40.2568,
+    "lon": 72.1279,
+    "population": 38452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebedinovka",
+    "region": "Chuy Region",
+    "lat": 42.8845,
+    "lon": 74.6782,
+    "population": 38198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyzyl-Suu",
+    "region": "Issyk-Kul Region",
+    "lat": 42.3421,
+    "lon": 78.0064,
+    "population": 37617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ak-Suu",
+    "region": "Issyk-Kul Region",
+    "lat": 42.4995,
+    "lon": 78.527,
+    "population": 37340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suzak",
+    "region": "Jalal-Abad Region",
+    "lat": 40.8982,
+    "lon": 72.9048,
+    "population": 37264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sosnovka",
+    "region": "Chuy Region",
+    "lat": 42.6371,
+    "lon": 73.8961,
+    "population": 33250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanovka",
+    "region": "Chuy Region",
+    "lat": 42.8878,
+    "lon": 75.085,
+    "population": 33020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aydarken",
+    "region": "Batken Region",
+    "lat": 39.9432,
+    "lon": 71.3418,
+    "population": 32933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tash-Kumyr",
+    "region": "Jalal-Abad Region",
+    "lat": 41.3461,
+    "lon": 72.2171,
+    "population": 32077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osh",
+    "region": "Osh Region",
+    "lat": 40.5283,
+    "lon": 72.7985,
+    "population": 31469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kara Kulja",
+    "region": "Osh Region",
+    "lat": 40.6409,
+    "lon": 73.4941,
+    "population": 31264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suluktu",
+    "region": "Batken Region",
+    "lat": 39.9365,
+    "lon": 69.5678,
+    "population": 31029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bishkek",
+    "region": "Bishkek",
+    "lat": 42.87,
+    "lon": 74.59,
+    "population": 29889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uzgen",
+    "region": "Osh Region",
+    "lat": 40.7699,
+    "lon": 73.3007,
+    "population": 29812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toktogul District",
+    "region": "Jalal-Abad Region",
+    "lat": 41.75,
+    "lon": 73,
+    "population": 29755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jumgal",
+    "region": "Naryn Region",
+    "lat": 41.9492,
+    "lon": 74.4057,
+    "population": 29405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uzgen District",
+    "region": "Osh Region",
+    "lat": 40.55,
+    "lon": 73.3,
+    "population": 28934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talasskiy Rayon",
+    "region": "Talas Region",
+    "lat": 42.1865,
+    "lon": 72.6941,
+    "population": 28206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokulukskiy Rayon",
+    "region": "Chuy Region",
+    "lat": 42.8333,
+    "lon": 74.3333,
+    "population": 25435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bazar-Korgon",
+    "region": "Jalal-Abad Region",
+    "lat": 41.0376,
+    "lon": 72.7459,
+    "population": 24263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ysyk-Ata",
+    "region": "Chuy Region",
+    "lat": 42.7266,
+    "lon": 75.0744,
+    "population": 24154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kant",
+    "region": "Chuy Region",
+    "lat": 42.8911,
+    "lon": 74.8508,
+    "population": 24122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kara-Buurinskiy Rayon",
+    "region": "Talas Region",
+    "lat": 42.5,
+    "lon": 71.4167,
+    "population": 24017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toktogul",
+    "region": "Jalal-Abad Region",
+    "lat": 41.8744,
+    "lon": 72.9419,
+    "population": 23589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belovodskoye",
+    "region": "Chuy Region",
+    "lat": 42.8294,
+    "lon": 74.1083,
+    "population": 22978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balykchy",
+    "region": "Issyk-Kul Region",
+    "lat": 42.4602,
+    "lon": 76.1871,
+    "population": 22552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cholpon-Ata",
+    "region": "Issyk-Kul Region",
+    "lat": 42.6494,
+    "lon": 77.0823,
+    "population": 20131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ala-Buka",
+    "region": "Jalal-Abad Region",
+    "lat": 41.4081,
+    "lon": 71.4631,
+    "population": 19822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tyup",
+    "region": "Issyk-Kul Region",
+    "lat": 42.7276,
+    "lon": 78.3648,
+    "population": 19509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kara Suu",
+    "region": "Osh Region",
+    "lat": 40.7046,
+    "lon": 72.8667,
+    "population": 17402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuyskiy Rayon",
+    "region": "Chuy Region",
+    "lat": 42.6667,
+    "lon": 75.3333,
+    "population": 17245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isfana",
+    "region": "Batken Region",
+    "lat": 39.8389,
+    "lon": 69.5276,
+    "population": 17002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadzhi-Say",
+    "region": "Issyk-Kul Region",
+    "lat": 42.1411,
+    "lon": 77.1785,
+    "population": 15355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyzyl-Eshme",
+    "region": "Osh Region",
+    "lat": 39.5656,
+    "lon": 72.2715,
+    "population": 12909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazarman",
+    "region": "Jalal-Abad Region",
+    "lat": 41.405,
+    "lon": 74.037,
+    "population": 11207,
+    "timezone": "UTC"
+  }
+]

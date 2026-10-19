@@ -1,0 +1,922 @@
+[
+  {
+    "name": "Sucúa",
+    "region": "Morona-Santiago",
+    "lat": -2.4587,
+    "lon": -78.1717,
+    "population": 49910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montecristi",
+    "region": "Manabí",
+    "lat": -1.0458,
+    "lon": -80.6589,
+    "population": 49847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cantón Portoviejo",
+    "region": "Manabí",
+    "lat": -1.05,
+    "lon": -80.45,
+    "population": 49675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chone",
+    "region": "Manabí",
+    "lat": -0.6982,
+    "lon": -80.0936,
+    "population": 49619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sucre",
+    "region": "Manabí",
+    "lat": -1.2797,
+    "lon": -80.4189,
+    "population": 48701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eloy Alfaro",
+    "region": "Guayas",
+    "lat": -2.1758,
+    "lon": -79.8552,
+    "population": 48268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tena",
+    "region": "Napo",
+    "lat": -0.9938,
+    "lon": -77.8129,
+    "population": 48250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Bolívar",
+    "region": "El Oro",
+    "lat": -3.2665,
+    "lon": -79.9975,
+    "population": 47862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alfredo Baquerizo Moreno",
+    "region": "Guayas",
+    "lat": -1.9167,
+    "lon": -79.5167,
+    "population": 47750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esmeraldas",
+    "region": "Esmeraldas",
+    "lat": 0.9592,
+    "lon": -79.654,
+    "population": 46802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Azuay",
+    "lat": -2.85,
+    "lon": -78.7833,
+    "population": 46730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibarra",
+    "region": "Imbabura",
+    "lat": 0.3517,
+    "lon": -78.1223,
+    "population": 46400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pimampiro",
+    "region": "Imbabura",
+    "lat": 0.3912,
+    "lon": -77.9407,
+    "population": 46327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baños",
+    "region": "Tungurahua",
+    "lat": -1.397,
+    "lon": -78.4229,
+    "population": 46290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naranjito",
+    "region": "Guayas",
+    "lat": -2.1667,
+    "lon": -79.4654,
+    "population": 45438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piñas",
+    "region": "El Oro",
+    "lat": -3.6811,
+    "lon": -79.6808,
+    "population": 45091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loreto Canton",
+    "region": "Orellana",
+    "lat": -0.6949,
+    "lon": -77.3025,
+    "population": 44663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo de Esmeraldas",
+    "region": "Esmeraldas",
+    "lat": 1.2863,
+    "lon": -78.8351,
+    "population": 44440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rocafuerte",
+    "region": "Manabí",
+    "lat": -0.9236,
+    "lon": -80.4495,
+    "population": 43912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "El Oro",
+    "lat": -3.4488,
+    "lon": -79.9595,
+    "population": 43765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lomas de Sargentillo",
+    "region": "Guayas",
+    "lat": -1.8833,
+    "lon": -80.0833,
+    "population": 43734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palora",
+    "region": "Morona-Santiago",
+    "lat": -1.7013,
+    "lon": -77.9652,
+    "population": 43280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baláo",
+    "region": "Guayas",
+    "lat": -2.911,
+    "lon": -79.8144,
+    "population": 42495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montalvo",
+    "region": "Los Ríos",
+    "lat": -1.7901,
+    "lon": -79.2876,
+    "population": 42281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guano",
+    "region": "Chimborazo",
+    "lat": -1.6079,
+    "lon": -78.6311,
+    "population": 42060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaruma",
+    "region": "El Oro",
+    "lat": -3.6913,
+    "lon": -79.6117,
+    "population": 41858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manta",
+    "region": "Manabí",
+    "lat": -0.9621,
+    "lon": -80.7127,
+    "population": 41549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loja",
+    "region": "Loja",
+    "lat": -3.9931,
+    "lon": -79.2042,
+    "population": 41426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tulcán",
+    "region": "Carchi",
+    "lat": 0.8119,
+    "lon": -77.7173,
+    "population": 40841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaranda",
+    "region": "Bolívar",
+    "lat": -1.5926,
+    "lon": -79.001,
+    "population": 40834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cantón San Fernando",
+    "region": "Azuay",
+    "lat": -3.1335,
+    "lon": -79.2689,
+    "population": 40291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelileo",
+    "region": "Tungurahua",
+    "lat": -1.3299,
+    "lon": -78.5434,
+    "population": 39645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riobamba",
+    "region": "Chimborazo",
+    "lat": -1.671,
+    "lon": -78.6471,
+    "population": 39273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasaje",
+    "region": "El Oro",
+    "lat": -3.3256,
+    "lon": -79.807,
+    "population": 38748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cayambe",
+    "region": "Pichincha",
+    "lat": 0.0408,
+    "lon": -78.1452,
+    "population": 38387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Playas",
+    "region": "Guayas",
+    "lat": -2.632,
+    "lon": -80.3881,
+    "population": 38288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Baquerizo Moreno",
+    "region": "Galápagos",
+    "lat": -0.9017,
+    "lon": -89.6102,
+    "population": 38154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Gabriel",
+    "region": "Carchi",
+    "lat": 0.5932,
+    "lon": -77.8308,
+    "population": 37947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alausí",
+    "region": "Chimborazo",
+    "lat": -2.2033,
+    "lon": -78.8471,
+    "population": 37255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catarama",
+    "region": "Los Ríos",
+    "lat": -1.575,
+    "lon": -79.46,
+    "population": 37181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velasco Ibarra",
+    "region": "Guayas",
+    "lat": -1.0438,
+    "lon": -79.6384,
+    "population": 36871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "Santa Elena",
+    "lat": -2.233,
+    "lon": -80.9104,
+    "population": 35775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Francisco de Orellana Canton",
+    "region": "Orellana",
+    "lat": -0.4667,
+    "lon": -76.9667,
+    "population": 35212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Loja",
+    "region": "Sucumbíos",
+    "lat": 0.086,
+    "lon": -76.8953,
+    "population": 34938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Villamil",
+    "region": "Galápagos",
+    "lat": -0.9554,
+    "lon": -90.9665,
+    "population": 34518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otavalo",
+    "region": "Imbabura",
+    "lat": 0.2346,
+    "lon": -78.2625,
+    "population": 34234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paján",
+    "region": "Manabí",
+    "lat": -1.5524,
+    "lon": -80.4296,
+    "population": 33761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañar",
+    "region": "Cañar",
+    "lat": -2.5606,
+    "lon": -78.9394,
+    "population": 32748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaquillas",
+    "region": "El Oro",
+    "lat": -3.4752,
+    "lon": -80.2308,
+    "population": 32557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel de Salcedo",
+    "region": "Cotopaxi",
+    "lat": -1.0455,
+    "lon": -78.5906,
+    "population": 31789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colimes",
+    "region": "Guayas",
+    "lat": -1.5455,
+    "lon": -80.0117,
+    "population": 31213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Francisco de Orellana",
+    "region": "Orellana",
+    "lat": -0.4664,
+    "lon": -76.9872,
+    "population": 30631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portoviejo",
+    "region": "Manabí",
+    "lat": -1.0546,
+    "lon": -80.4544,
+    "population": 30087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samborondón",
+    "region": "Guayas",
+    "lat": -1.9628,
+    "lon": -79.724,
+    "population": 30007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Triunfo",
+    "region": "Guayas",
+    "lat": -1.9333,
+    "lon": -79.9667,
+    "population": 29938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quito",
+    "region": "Pichincha",
+    "lat": -0.2298,
+    "lon": -78.525,
+    "population": 29357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Ángel",
+    "region": "Carchi",
+    "lat": 0.6228,
+    "lon": -77.94,
+    "population": 29178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llacao",
+    "region": "Azuay",
+    "lat": -2.8667,
+    "lon": -78.8833,
+    "population": 28663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pujilí",
+    "region": "Cotopaxi",
+    "lat": -0.9576,
+    "lon": -78.6964,
+    "population": 28545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machachi",
+    "region": "Pichincha",
+    "lat": -0.5101,
+    "lon": -78.5671,
+    "population": 28478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milagro",
+    "region": "Guayas",
+    "lat": -2.134,
+    "lon": -79.5941,
+    "population": 28126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cotacachi",
+    "region": "Imbabura",
+    "lat": 0.3011,
+    "lon": -78.2643,
+    "population": 27724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macas",
+    "region": "Morona-Santiago",
+    "lat": -2.3087,
+    "lon": -78.1114,
+    "population": 27535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Guayas",
+    "lat": -2.1833,
+    "lon": -80,
+    "population": 27482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambato",
+    "region": "Tungurahua",
+    "lat": -1.2491,
+    "lon": -78.6167,
+    "population": 27437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atuntaqui",
+    "region": "Imbabura",
+    "lat": 0.3325,
+    "lon": -78.2137,
+    "population": 27242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo de los Colorados",
+    "region": "Santo Domingo de los Tsáchilas",
+    "lat": -0.253,
+    "lon": -79.1754,
+    "population": 27031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Archidona",
+    "region": "Napo",
+    "lat": -0.9095,
+    "lon": -77.8077,
+    "population": 26251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palestina",
+    "region": "Guayas",
+    "lat": -1.9371,
+    "lon": -79.714,
+    "population": 24874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Elena",
+    "region": "Santa Elena",
+    "lat": -2.2262,
+    "lon": -80.8587,
+    "population": 24806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rio Verde",
+    "region": "Esmeraldas",
+    "lat": 1.0623,
+    "lon": -79.3994,
+    "population": 24774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente",
+    "region": "Manabí",
+    "lat": -0.6044,
+    "lon": -80.4027,
+    "population": 24383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ventanas",
+    "region": "Los Ríos",
+    "lat": -1.4416,
+    "lon": -79.4594,
+    "population": 24155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balzar",
+    "region": "Guayas",
+    "lat": -1.365,
+    "lon": -79.9049,
+    "population": 24112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azogues",
+    "region": "Cañar",
+    "lat": -2.7397,
+    "lon": -78.8486,
+    "population": 23534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muisne",
+    "region": "Esmeraldas",
+    "lat": 0.6113,
+    "lon": -80.0186,
+    "population": 23075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro Carbo",
+    "region": "Guayas",
+    "lat": -1.8156,
+    "lon": -80.2331,
+    "population": 22980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuenca",
+    "region": "Azuay",
+    "lat": -2.9005,
+    "lon": -79.0045,
+    "population": 22064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Troncal",
+    "region": "Cañar",
+    "lat": -2.4236,
+    "lon": -79.3398,
+    "population": 21974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualaceo",
+    "region": "Azuay",
+    "lat": -2.8926,
+    "lon": -78.7781,
+    "population": 21831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saquisilí",
+    "region": "Cotopaxi",
+    "lat": -0.8399,
+    "lon": -78.667,
+    "population": 21059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Junín",
+    "region": "Manabí",
+    "lat": -0.9278,
+    "lon": -80.2058,
+    "population": 20953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valdez",
+    "region": "Esmeraldas",
+    "lat": 1.2492,
+    "lon": -78.9831,
+    "population": 19968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosa Zarate",
+    "region": "Esmeraldas",
+    "lat": 0.3278,
+    "lon": -79.4741,
+    "population": 19885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Ayora",
+    "region": "Galápagos",
+    "lat": -0.7402,
+    "lon": -90.3138,
+    "population": 19816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yantzaza",
+    "region": "Zamora Chinchipe",
+    "lat": -3.8326,
+    "lon": -78.7608,
+    "population": 19411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Bolívar",
+    "lat": -1.7088,
+    "lon": -79.0431,
+    "population": 19365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampanal de Bolívar",
+    "region": "Esmeraldas",
+    "lat": 1.3525,
+    "lon": -78.8936,
+    "population": 19257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronel Marcelino Maridueña",
+    "region": "Guayas",
+    "lat": -2.2092,
+    "lon": -79.4325,
+    "population": 18985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quevedo",
+    "region": "Los Ríos",
+    "lat": -1.0286,
+    "lon": -79.4635,
+    "population": 17938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahía de Caráquez",
+    "region": "Manabí",
+    "lat": -0.5979,
+    "lon": -80.4237,
+    "population": 17849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machala",
+    "region": "El Oro",
+    "lat": -3.2586,
+    "lon": -79.9605,
+    "population": 17649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayaquil",
+    "region": "Guayas",
+    "lat": -2.1962,
+    "lon": -79.8862,
+    "population": 17545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Píllaro",
+    "region": "Tungurahua",
+    "lat": -1.1741,
+    "lon": -78.5468,
+    "population": 17353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jipijapa",
+    "region": "Manabí",
+    "lat": -1.3487,
+    "lon": -80.5787,
+    "population": 16012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zamora",
+    "region": "Zamora Chinchipe",
+    "lat": -4.0668,
+    "lon": -78.9549,
+    "population": 15990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinces",
+    "region": "Los Ríos",
+    "lat": -1.5561,
+    "lon": -79.7519,
+    "population": 15559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Maná",
+    "region": "Cotopaxi",
+    "lat": -0.9409,
+    "lon": -79.2251,
+    "population": 14699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca Suno",
+    "region": "Orellana",
+    "lat": -0.6983,
+    "lon": -77.1408,
+    "population": 14668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tosagua",
+    "region": "Manabí",
+    "lat": -0.7868,
+    "lon": -80.2347,
+    "population": 14647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nulti",
+    "region": "Azuay",
+    "lat": -2.9167,
+    "lon": -78.85,
+    "population": 14045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedernales",
+    "region": "Manabí",
+    "lat": 0.0717,
+    "lon": -80.0525,
+    "population": 13441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salinas",
+    "region": "Santa Elena",
+    "lat": -2.2145,
+    "lon": -80.9515,
+    "population": 13269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualaquiza",
+    "region": "Morona-Santiago",
+    "lat": -3.4036,
+    "lon": -78.5817,
+    "population": 13170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangolquí",
+    "region": "Pichincha",
+    "lat": -0.3341,
+    "lon": -78.4522,
+    "population": 13032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naranjal",
+    "region": "Guayas",
+    "lat": -2.6736,
+    "lon": -79.6183,
+    "population": 12015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Latacunga",
+    "region": "Cotopaxi",
+    "lat": -0.9352,
+    "lon": -78.6155,
+    "population": 12003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Manabí",
+    "lat": -1.2073,
+    "lon": -80.3713,
+    "population": 11970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babahoyo",
+    "region": "Los Ríos",
+    "lat": -1.8022,
+    "lon": -79.5344,
+    "population": 11497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palenque",
+    "region": "Los Ríos",
+    "lat": -1.438,
+    "lon": -79.7565,
+    "population": 11243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tutamandahostel",
+    "region": "Pichincha",
+    "lat": -0.1973,
+    "lon": -78.4975,
+    "population": 10875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calceta",
+    "region": "Manabí",
+    "lat": -0.8458,
+    "lon": -80.1639,
+    "population": 10648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portovelo",
+    "region": "El Oro",
+    "lat": -3.7214,
+    "lon": -79.6219,
+    "population": 10528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaguachi Nuevo",
+    "region": "Guayas",
+    "lat": -2.0968,
+    "lon": -79.6949,
+    "population": 10485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puyo",
+    "region": "Pastaza",
+    "lat": -1.4837,
+    "lon": -78.0026,
+    "population": 10256,
+    "timezone": "UTC"
+  }
+]

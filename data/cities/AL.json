@@ -1,0 +1,1042 @@
+[
+  {
+    "name": "Bashkia Klos",
+    "region": "Dibër County",
+    "lat": 41.5083,
+    "lon": 20.0711,
+    "population": 49684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Malësi e Madhe",
+    "region": "Shkodër District",
+    "lat": 42.368,
+    "lon": 19.5898,
+    "population": 49192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banaj",
+    "region": "Berat District",
+    "lat": 40.8249,
+    "lon": 19.8407,
+    "population": 48885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilisht",
+    "region": "Korçë County",
+    "lat": 40.6275,
+    "lon": 20.99,
+    "population": 48869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delvinë",
+    "region": "Vlorë County",
+    "lat": 39.9511,
+    "lon": 20.0978,
+    "population": 48779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krrabë",
+    "region": "Tirana District",
+    "lat": 41.2156,
+    "lon": 19.9714,
+    "population": 48341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Vorë",
+    "region": "Tirana District",
+    "lat": 41.398,
+    "lon": 19.677,
+    "population": 47506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Patos",
+    "region": "Fier County",
+    "lat": 40.6779,
+    "lon": 19.6559,
+    "population": 47313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tirana",
+    "region": "Tirana District",
+    "lat": 41.3275,
+    "lon": 19.8189,
+    "population": 46977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Kolonjës",
+    "region": "Korçë County",
+    "lat": 40.25,
+    "lon": 20.6667,
+    "population": 46880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballsh",
+    "region": "Fier County",
+    "lat": 40.5989,
+    "lon": 19.7347,
+    "population": 46860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ersekë",
+    "region": "Korçë County",
+    "lat": 40.3378,
+    "lon": 20.6789,
+    "population": 45752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinaballaj",
+    "region": "Tirana District",
+    "lat": 41.0689,
+    "lon": 19.6994,
+    "population": 45701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patos Fshat",
+    "region": "Fier County",
+    "lat": 40.6428,
+    "lon": 19.6508,
+    "population": 44639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Mat",
+    "region": "Dibër County",
+    "lat": 41.6332,
+    "lon": 20.0123,
+    "population": 44452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selenicë",
+    "region": "Vlorë County",
+    "lat": 40.5306,
+    "lon": 19.6358,
+    "population": 44309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Kolonjë",
+    "region": "Korçë County",
+    "lat": 40.3142,
+    "lon": 20.6148,
+    "population": 44127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durrës",
+    "region": "Durrës District",
+    "lat": 41.3235,
+    "lon": 19.4547,
+    "population": 44022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarandë",
+    "region": "Vlorë County",
+    "lat": 39.8753,
+    "lon": 20.0048,
+    "population": 43860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ura Vajgurore",
+    "region": "Berat District",
+    "lat": 40.7689,
+    "lon": 19.8778,
+    "population": 43670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Malësia e Madhe",
+    "region": "Shkodër District",
+    "lat": 42.3333,
+    "lon": 19.5833,
+    "population": 43451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Shijak",
+    "region": "Durrës District",
+    "lat": 41.3356,
+    "lon": 19.5898,
+    "population": 43286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Beratit",
+    "region": "Berat District",
+    "lat": 40.6667,
+    "lon": 20,
+    "population": 42946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Himarë",
+    "region": "Vlorë County",
+    "lat": 40.1017,
+    "lon": 19.7447,
+    "population": 42939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Vlorë",
+    "region": "Vlorë County",
+    "lat": 40.4134,
+    "lon": 19.4979,
+    "population": 42737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrëshen",
+    "region": "Lezhë County",
+    "lat": 41.7675,
+    "lon": 19.8756,
+    "population": 42718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rubik",
+    "region": "Lezhë County",
+    "lat": 41.7744,
+    "lon": 19.7861,
+    "population": 42160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurbnesh",
+    "region": "Lezhë County",
+    "lat": 41.7797,
+    "lon": 20.0836,
+    "population": 41433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Himarë",
+    "region": "Vlorë County",
+    "lat": 40.1158,
+    "lon": 19.8139,
+    "population": 41207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Mirditë",
+    "region": "Lezhë County",
+    "lat": 41.8095,
+    "lon": 19.9902,
+    "population": 40961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamëz",
+    "region": "Tirana District",
+    "lat": 41.3817,
+    "lon": 19.7603,
+    "population": 40344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koplik",
+    "region": "Shkodër District",
+    "lat": 42.2136,
+    "lon": 19.4364,
+    "population": 39392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fushë-Arrëz",
+    "region": "Shkodër District",
+    "lat": 42.0622,
+    "lon": 20.0167,
+    "population": 39022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Shkodrës",
+    "region": "Shkodër District",
+    "lat": 42.0692,
+    "lon": 19.5351,
+    "population": 38900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lushnjë",
+    "region": "Fier County",
+    "lat": 40.9419,
+    "lon": 19.705,
+    "population": 38895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Konispol",
+    "region": "Vlorë County",
+    "lat": 39.7006,
+    "lon": 20.1335,
+    "population": 38556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klos",
+    "region": "Dibër County",
+    "lat": 41.5069,
+    "lon": 20.0867,
+    "population": 38537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bajram Curri",
+    "region": "Kukës District",
+    "lat": 42.3573,
+    "lon": 20.0768,
+    "population": 38280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Tepelenë",
+    "region": "Gjirokastër District",
+    "lat": 40.2674,
+    "lon": 19.97,
+    "population": 38033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maliq",
+    "region": "Korçë County",
+    "lat": 40.7058,
+    "lon": 20.6997,
+    "population": 38015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Krujë",
+    "region": "Durrës District",
+    "lat": 41.5009,
+    "lon": 19.7257,
+    "population": 37483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavajë",
+    "region": "Tirana District",
+    "lat": 41.1856,
+    "lon": 19.5569,
+    "population": 37212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shëngjin",
+    "region": "Lezhë County",
+    "lat": 41.8136,
+    "lon": 19.5939,
+    "population": 36964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Çorovodë",
+    "region": "Berat District",
+    "lat": 40.5042,
+    "lon": 20.2272,
+    "population": 36747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krumë",
+    "region": "Kukës District",
+    "lat": 42.1969,
+    "lon": 20.4133,
+    "population": 36560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fier-Çifçi",
+    "region": "Fier County",
+    "lat": 40.7167,
+    "lon": 19.5667,
+    "population": 36402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Dropull",
+    "region": "Gjirokastër District",
+    "lat": 39.9858,
+    "lon": 20.3053,
+    "population": 36345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Kurbinit",
+    "region": "Lezhë County",
+    "lat": 41.6333,
+    "lon": 19.7167,
+    "population": 35598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Kurbin",
+    "region": "Lezhë County",
+    "lat": 41.6221,
+    "lon": 19.7073,
+    "population": 35535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Dibrës",
+    "region": "Dibër County",
+    "lat": 41.75,
+    "lon": 20.3333,
+    "population": 35523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Devoll",
+    "region": "Korçë County",
+    "lat": 40.6008,
+    "lon": 20.9381,
+    "population": 35349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Vau i Dejës",
+    "region": "Shkodër District",
+    "lat": 42.0483,
+    "lon": 19.7,
+    "population": 35344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Bulqizës",
+    "region": "Dibër County",
+    "lat": 41.5,
+    "lon": 20.3333,
+    "population": 34186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Memaliaj",
+    "region": "Gjirokastër District",
+    "lat": 40.3517,
+    "lon": 19.9803,
+    "population": 33737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Përmet",
+    "region": "Gjirokastër District",
+    "lat": 40.2325,
+    "lon": 20.4109,
+    "population": 33569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjirokastër",
+    "region": "Gjirokastër District",
+    "lat": 40.0758,
+    "lon": 20.1389,
+    "population": 33175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burrel",
+    "region": "Dibër County",
+    "lat": 41.6103,
+    "lon": 20.0089,
+    "population": 33047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berat",
+    "region": "Berat District",
+    "lat": 40.7058,
+    "lon": 19.9522,
+    "population": 32985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roskovec",
+    "region": "Fier County",
+    "lat": 40.7375,
+    "lon": 19.7022,
+    "population": 32840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Pukë",
+    "region": "Shkodër District",
+    "lat": 42.03,
+    "lon": 19.9278,
+    "population": 32779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Berat",
+    "region": "Berat District",
+    "lat": 40.7,
+    "lon": 19.9498,
+    "population": 32540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vlorë",
+    "region": "Vlorë County",
+    "lat": 40.4686,
+    "lon": 19.4832,
+    "population": 32157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulëz",
+    "region": "Dibër County",
+    "lat": 41.6828,
+    "lon": 19.8933,
+    "population": 31785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Kuçovë",
+    "region": "Berat District",
+    "lat": 40.8249,
+    "lon": 19.9535,
+    "population": 31694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vau i Dejës",
+    "region": "Shkodër District",
+    "lat": 42.01,
+    "lon": 19.6247,
+    "population": 31193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Hasit",
+    "region": "Kukës District",
+    "lat": 42.1667,
+    "lon": 20.3333,
+    "population": 31115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lazarat",
+    "region": "Gjirokastër District",
+    "lat": 40.0467,
+    "lon": 20.1475,
+    "population": 30989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrogozhinë",
+    "region": "Tirana District",
+    "lat": 41.0764,
+    "lon": 19.6653,
+    "population": 30508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orikum",
+    "region": "Vlorë County",
+    "lat": 40.3253,
+    "lon": 19.4714,
+    "population": 30330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Lezhë",
+    "region": "Lezhë County",
+    "lat": 41.8132,
+    "lon": 19.6412,
+    "population": 29249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Durrës",
+    "region": "Durrës District",
+    "lat": 41.4274,
+    "lon": 19.4869,
+    "population": 28776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ksamil",
+    "region": "Vlorë County",
+    "lat": 39.7689,
+    "lon": 19.9997,
+    "population": 28662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuçovë",
+    "region": "Berat District",
+    "lat": 40.8003,
+    "lon": 19.9167,
+    "population": 28647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Libohovë",
+    "region": "Gjirokastër District",
+    "lat": 40.1075,
+    "lon": 20.2575,
+    "population": 27996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velçan",
+    "region": "Korçë County",
+    "lat": 40.9547,
+    "lon": 20.4622,
+    "population": 27965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Krujës",
+    "region": "Durrës District",
+    "lat": 41.55,
+    "lon": 19.75,
+    "population": 27608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kukës",
+    "region": "Kukës District",
+    "lat": 42.0769,
+    "lon": 20.4219,
+    "population": 26742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fier",
+    "region": "Fier County",
+    "lat": 40.7239,
+    "lon": 19.5561,
+    "population": 25936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulqizë",
+    "region": "Dibër County",
+    "lat": 41.4917,
+    "lon": 20.2219,
+    "population": 25587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libohovë",
+    "region": "Gjirokastër District",
+    "lat": 40.0311,
+    "lon": 20.2631,
+    "population": 25135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Divjakë",
+    "region": "Fier County",
+    "lat": 40.9967,
+    "lon": 19.5294,
+    "population": 25074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pukë",
+    "region": "Shkodër District",
+    "lat": 42.0444,
+    "lon": 19.8997,
+    "population": 24702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Matit",
+    "region": "Dibër County",
+    "lat": 41.5833,
+    "lon": 20.0833,
+    "population": 24100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shijak",
+    "region": "Durrës District",
+    "lat": 41.3456,
+    "lon": 19.5672,
+    "population": 23039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lezhë",
+    "region": "Lezhë County",
+    "lat": 41.7836,
+    "lon": 19.6436,
+    "population": 22465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poliçan",
+    "region": "Berat District",
+    "lat": 40.6122,
+    "lon": 20.0981,
+    "population": 21810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leskovik",
+    "region": "Korçë County",
+    "lat": 40.1514,
+    "lon": 20.5972,
+    "population": 21467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laç",
+    "region": "Lezhë County",
+    "lat": 41.6356,
+    "lon": 19.7131,
+    "population": 21438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peshkopi",
+    "region": "Dibër County",
+    "lat": 41.685,
+    "lon": 20.4289,
+    "population": 21085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Bulqizë",
+    "region": "Dibër County",
+    "lat": 41.4715,
+    "lon": 20.3319,
+    "population": 20938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Pustec",
+    "region": "Korçë County",
+    "lat": 40.8359,
+    "lon": 20.8941,
+    "population": 20521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjinkar",
+    "region": "Gjirokastër District",
+    "lat": 40.1994,
+    "lon": 20.4061,
+    "population": 20394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Tiranës",
+    "region": "Tirana District",
+    "lat": 41.3333,
+    "lon": 19.9167,
+    "population": 19677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Delvinës",
+    "region": "Vlorë County",
+    "lat": 39.9167,
+    "lon": 20.0833,
+    "population": 19280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durrës District",
+    "region": "Durrës District",
+    "lat": 41.3166,
+    "lon": 19.45,
+    "population": 18979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Selenicë",
+    "region": "Vlorë County",
+    "lat": 40.395,
+    "lon": 19.6596,
+    "population": 18524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Kukësit",
+    "region": "Kukës District",
+    "lat": 42,
+    "lon": 20.3333,
+    "population": 16919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Këlcyrë",
+    "region": "Gjirokastër District",
+    "lat": 40.3131,
+    "lon": 20.1894,
+    "population": 16712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Memaliaj",
+    "region": "Gjirokastër District",
+    "lat": 40.4152,
+    "lon": 19.9691,
+    "population": 16181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Mallakastër",
+    "region": "Fier County",
+    "lat": 40.5567,
+    "lon": 19.7735,
+    "population": 16048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krujë",
+    "region": "Durrës District",
+    "lat": 41.5092,
+    "lon": 19.7928,
+    "population": 15931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Skraparit",
+    "region": "Berat District",
+    "lat": 40.55,
+    "lon": 20.2667,
+    "population": 15925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libonik",
+    "region": "Korçë County",
+    "lat": 40.7044,
+    "lon": 20.7086,
+    "population": 15910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konispol",
+    "region": "Vlorë County",
+    "lat": 39.6589,
+    "lon": 20.1814,
+    "population": 15535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korçë",
+    "region": "Korçë County",
+    "lat": 40.6186,
+    "lon": 20.7808,
+    "population": 15527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voskopojë",
+    "region": "Korçë County",
+    "lat": 40.6331,
+    "lon": 20.5889,
+    "population": 15498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Devollit",
+    "region": "Korçë County",
+    "lat": 40.5833,
+    "lon": 20.9167,
+    "population": 15299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Përmet",
+    "region": "Gjirokastër District",
+    "lat": 40.2336,
+    "lon": 20.3517,
+    "population": 15159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pogradec",
+    "region": "Korçë County",
+    "lat": 40.9025,
+    "lon": 20.6525,
+    "population": 15122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Skrapar",
+    "region": "Berat District",
+    "lat": 40.5604,
+    "lon": 20.2548,
+    "population": 14931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Mallakastrës",
+    "region": "Fier County",
+    "lat": 40.55,
+    "lon": 19.7833,
+    "population": 14230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milot",
+    "region": "Lezhë County",
+    "lat": 41.6839,
+    "lon": 19.7156,
+    "population": 14205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vorë",
+    "region": "Tirana District",
+    "lat": 41.3908,
+    "lon": 19.655,
+    "population": 13703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shkodër",
+    "region": "Shkodër District",
+    "lat": 42.0683,
+    "lon": 19.5126,
+    "population": 13630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vukatanë",
+    "region": "Shkodër District",
+    "lat": 42.0281,
+    "lon": 19.5478,
+    "population": 13541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Kelcyrë",
+    "region": "Gjirokastër District",
+    "lat": 40.362,
+    "lon": 20.1648,
+    "population": 13535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Divjakë",
+    "region": "Fier County",
+    "lat": 40.9572,
+    "lon": 19.5236,
+    "population": 13044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Kavajës",
+    "region": "Tirana District",
+    "lat": 41.1667,
+    "lon": 19.5833,
+    "population": 12646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Finiq",
+    "region": "Vlorë County",
+    "lat": 39.8439,
+    "lon": 20.1666,
+    "population": 12467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Poliçan",
+    "region": "Berat District",
+    "lat": 40.5861,
+    "lon": 20.0453,
+    "population": 12448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Kavajë",
+    "region": "Tirana District",
+    "lat": 41.1813,
+    "lon": 19.5558,
+    "population": 12410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Fier",
+    "region": "Fier County",
+    "lat": 40.7294,
+    "lon": 19.4869,
+    "population": 12020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashkia Maliq",
+    "region": "Korçë County",
+    "lat": 40.7551,
+    "lon": 20.6075,
+    "population": 11902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sukth",
+    "region": "Durrës District",
+    "lat": 41.3806,
+    "lon": 19.5378,
+    "population": 11735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mamurras",
+    "region": "Lezhë County",
+    "lat": 41.5775,
+    "lon": 19.6922,
+    "population": 11728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fushë-Krujë",
+    "region": "Durrës District",
+    "lat": 41.4783,
+    "lon": 19.7178,
+    "population": 11586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patos",
+    "region": "Fier County",
+    "lat": 40.6833,
+    "lon": 19.6194,
+    "population": 11480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tepelenë",
+    "region": "Gjirokastër District",
+    "lat": 40.2958,
+    "lon": 20.0192,
+    "population": 11244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rrethi i Kuçovës",
+    "region": "Berat District",
+    "lat": 40.8333,
+    "lon": 19.9167,
+    "population": 11216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mborje",
+    "region": "Korçë County",
+    "lat": 40.6033,
+    "lon": 20.8031,
+    "population": 11206,
+    "timezone": "UTC"
+  }
+]

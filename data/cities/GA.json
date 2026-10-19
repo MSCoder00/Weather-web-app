@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Omboué",
+    "region": "Ogooué-Maritime Province",
+    "lat": -1.5746,
+    "lon": 9.2618,
+    "population": 49988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndendé",
+    "region": "Ngounié Province",
+    "lat": -2.4008,
+    "lon": 11.3581,
+    "population": 49737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bitam",
+    "region": "Woleu-Ntem Province",
+    "lat": 2.076,
+    "lon": 11.5007,
+    "population": 45856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lambaréné",
+    "region": "Moyen-Ogooué Province",
+    "lat": -0.7001,
+    "lon": 10.2406,
+    "population": 45752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitzic",
+    "region": "Woleu-Ntem Province",
+    "lat": 0.7821,
+    "lon": 11.549,
+    "population": 44708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndjolé",
+    "region": "Moyen-Ogooué Province",
+    "lat": -0.1783,
+    "lon": 10.7649,
+    "population": 43665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mounana",
+    "region": "Haut-Ogooué Province",
+    "lat": -1.4085,
+    "lon": 13.1586,
+    "population": 43527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lastoursville",
+    "region": "Ogooué-Lolo Province",
+    "lat": -0.8174,
+    "lon": 12.7082,
+    "population": 41635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouila",
+    "region": "Ngounié Province",
+    "lat": -1.8685,
+    "lon": 11.0559,
+    "population": 41037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tchibanga",
+    "region": "Nyanga Province",
+    "lat": -2.9332,
+    "lon": 10.9818,
+    "population": 39182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cocobeach",
+    "region": "Estuaire Province",
+    "lat": 1.0002,
+    "lon": 9.5823,
+    "population": 37242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Franceville",
+    "region": "Haut-Ogooué Province",
+    "lat": -1.6333,
+    "lon": 13.5836,
+    "population": 34995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fougamou",
+    "region": "Ngounié Province",
+    "lat": -1.2154,
+    "lon": 10.5838,
+    "population": 33831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port-Gentil",
+    "region": "Ogooué-Maritime Province",
+    "lat": -0.7193,
+    "lon": 8.7815,
+    "population": 33505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oyem",
+    "region": "Woleu-Ntem Province",
+    "lat": 1.5995,
+    "lon": 11.5793,
+    "population": 30346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayumba",
+    "region": "Nyanga Province",
+    "lat": -3.432,
+    "lon": 10.6554,
+    "population": 28547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makokou",
+    "region": "Ogooué-Ivindo Province",
+    "lat": 0.5738,
+    "lon": 12.8642,
+    "population": 26115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbigou",
+    "region": "Ngounié Province",
+    "lat": -1.9005,
+    "lon": 11.906,
+    "population": 24469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ntoum",
+    "region": "Estuaire Province",
+    "lat": 0.3905,
+    "lon": 9.761,
+    "population": 24121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okondja",
+    "region": "Haut-Ogooué Province",
+    "lat": -0.6549,
+    "lon": 13.6753,
+    "population": 23402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lékoni",
+    "region": "Haut-Ogooué Province",
+    "lat": -1.5843,
+    "lon": 14.2591,
+    "population": 23205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moanda",
+    "region": "Haut-Ogooué Province",
+    "lat": -1.5665,
+    "lon": 13.1987,
+    "population": 22339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zadie",
+    "region": "Ogooué-Ivindo Province",
+    "lat": 0.9258,
+    "lon": 13.9081,
+    "population": 22032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koulamoutou",
+    "region": "Ogooué-Lolo Province",
+    "lat": -1.1367,
+    "lon": 12.464,
+    "population": 20559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mimongo",
+    "region": "Ngounié Province",
+    "lat": -1.6195,
+    "lon": 11.6067,
+    "population": 20016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Booué",
+    "region": "Ogooué-Ivindo Province",
+    "lat": -0.0921,
+    "lon": 11.9385,
+    "population": 19244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libreville",
+    "region": "Estuaire Province",
+    "lat": 0.3924,
+    "lon": 9.4536,
+    "population": 18629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamba",
+    "region": "Ogooué-Maritime Province",
+    "lat": -2.65,
+    "lon": 10,
+    "population": 12549,
+    "timezone": "UTC"
+  }
+]

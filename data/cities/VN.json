@@ -1,0 +1,3738 @@
+[
+  {
+    "name": "Huyện Nam Trực",
+    "region": "Nam Định",
+    "lat": 20.3411,
+    "lon": 106.2082,
+    "population": 49986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Côn Sơn",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 8.6864,
+    "lon": 106.6082,
+    "population": 49893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Gio Linh",
+    "region": "Quảng Trị",
+    "lat": 16.9167,
+    "lon": 107,
+    "population": 49607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hũu Lũng",
+    "region": "Lạng Sơn",
+    "lat": 21.5447,
+    "lon": 106.3439,
+    "population": 49545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yên Vinh",
+    "region": "Nghệ An",
+    "lat": 18.6667,
+    "lon": 105.6667,
+    "population": 49351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bắc Hà",
+    "region": "Lào Cai",
+    "lat": 22.51,
+    "lon": 104.3077,
+    "population": 49342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Phú",
+    "region": "An Giang",
+    "lat": 10.5717,
+    "lon": 105.1699,
+    "population": 49340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vĩnh Yên",
+    "region": "Vĩnh Phúc",
+    "lat": 21.3089,
+    "lon": 105.6049,
+    "population": 49258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Trụ",
+    "region": "Long An",
+    "lat": 10.5318,
+    "lon": 106.5164,
+    "population": 49231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biên Hòa",
+    "region": "Đồng Nai",
+    "lat": 10.9447,
+    "lon": 106.8243,
+    "population": 49155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cầu Kè",
+    "region": "Trà Vinh",
+    "lat": 9.8674,
+    "lon": 106.0792,
+    "population": 49136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cẩm Giàng",
+    "region": "Hải Dương",
+    "lat": 20.95,
+    "lon": 106.2167,
+    "population": 48864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cà Mau",
+    "region": "Cà Mau",
+    "lat": 9.1768,
+    "lon": 105.1524,
+    "population": 48760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quỳ Hợp",
+    "region": "Nghệ An",
+    "lat": 19.3251,
+    "lon": 105.1601,
+    "population": 48743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trùng Khánh",
+    "region": "Cao Bằng",
+    "lat": 22.8333,
+    "lon": 106.5607,
+    "population": 48551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chi Lăng",
+    "region": "Lạng Sơn",
+    "lat": 21.676,
+    "lon": 106.6292,
+    "population": 48460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ngân Sơn",
+    "region": "Bắc Kạn",
+    "lat": 22.4296,
+    "lon": 106.0103,
+    "population": 48375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quảng Ninh",
+    "region": "Quảng Bình",
+    "lat": 17.2707,
+    "lon": 106.5139,
+    "population": 48152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hưng Yên",
+    "region": "Hưng Yên",
+    "lat": 20.6464,
+    "lon": 106.0511,
+    "population": 48071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Xã Phú Mỹ",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 10.5681,
+    "lon": 107.13,
+    "population": 47799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Hồng",
+    "region": "Đồng Tháp",
+    "lat": 10.8709,
+    "lon": 105.491,
+    "population": 47676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tam Kỳ",
+    "region": "Quảng Nam",
+    "lat": 15.5736,
+    "lon": 108.474,
+    "population": 47675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bến Tre",
+    "region": "Bến Tre",
+    "lat": 10.2415,
+    "lon": 106.3758,
+    "population": 47548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sa Pa",
+    "region": "Lào Cai",
+    "lat": 22.3402,
+    "lon": 103.8441,
+    "population": 47501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thành Phố Mỹ Tho",
+    "region": "Tiền Giang",
+    "lat": 10.3622,
+    "lon": 106.3682,
+    "population": 47462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cờ Đỏ",
+    "region": "Cần Thơ",
+    "lat": 10.0947,
+    "lon": 105.4319,
+    "population": 47455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Văn Yên",
+    "region": "Yên Bái",
+    "lat": 21.9002,
+    "lon": 104.5667,
+    "population": 47288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đắk Tô",
+    "region": "Kon Tum",
+    "lat": 14.7009,
+    "lon": 107.8082,
+    "population": 47265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Xín Mần",
+    "region": "Hà Giang",
+    "lat": 22.6415,
+    "lon": 104.5209,
+    "population": 47230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị xã Phú Thọ",
+    "region": "Phú Thọ",
+    "lat": 21.4166,
+    "lon": 105.2364,
+    "population": 47210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bắc Mê",
+    "region": "Hà Giang",
+    "lat": 22.7548,
+    "lon": 105.2902,
+    "population": 47174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lạc Thủy",
+    "region": "Hòa Bình",
+    "lat": 20.4979,
+    "lon": 105.7409,
+    "population": 47160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Gò Dầu",
+    "region": "Tây Ninh",
+    "lat": 11.1574,
+    "lon": 106.2731,
+    "population": 47117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lục Yên",
+    "region": "Yên Bái",
+    "lat": 22.1024,
+    "lon": 104.7254,
+    "population": 47019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hà Trung",
+    "region": "Thanh Hóa",
+    "lat": 20.0265,
+    "lon": 105.8193,
+    "population": 47013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bình Long",
+    "region": "Bình Phước",
+    "lat": 11.6471,
+    "lon": 106.6059,
+    "population": 46830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bắc Quang",
+    "region": "Hà Giang",
+    "lat": 22.423,
+    "lon": 104.9183,
+    "population": 46755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thạch Hà",
+    "region": "Hà Tĩnh",
+    "lat": 18.3509,
+    "lon": 105.8112,
+    "population": 46675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Gia Lộc",
+    "region": "Hải Dương",
+    "lat": 20.8516,
+    "lon": 106.2913,
+    "population": 46666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kien Luong Town",
+    "region": "Kiên Giang",
+    "lat": 10.2489,
+    "lon": 104.59,
+    "population": 46578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hội An",
+    "region": "Quảng Nam",
+    "lat": 15.8794,
+    "lon": 108.335,
+    "population": 46572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cát Bà",
+    "region": "Hải Phòng",
+    "lat": 20.7278,
+    "lon": 107.0482,
+    "population": 46568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lao Chải",
+    "region": "Lào Cai",
+    "lat": 22.3138,
+    "lon": 103.8684,
+    "population": 46567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Krông Nô",
+    "region": "Đắk Nông",
+    "lat": 12.3628,
+    "lon": 107.8345,
+    "population": 46552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thành Phố Nha Trang",
+    "region": "Khánh Hòa",
+    "lat": 12.2546,
+    "lon": 109.1666,
+    "population": 46365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quan Sơn",
+    "region": "Thanh Hóa",
+    "lat": 20.2576,
+    "lon": 104.8342,
+    "population": 46364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ea H'Leo",
+    "region": "Đắk Lắk",
+    "lat": 13.3181,
+    "lon": 108.0715,
+    "population": 46124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tiên Phước",
+    "region": "Quảng Nam",
+    "lat": 15.4709,
+    "lon": 108.2826,
+    "population": 46061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mỹ Tú",
+    "region": "Sóc Trăng",
+    "lat": 9.6085,
+    "lon": 105.8068,
+    "population": 45970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Duy Tiên",
+    "region": "Hà Nam",
+    "lat": 20.628,
+    "lon": 105.9619,
+    "population": 45962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thái Bình",
+    "region": "Thái Bình",
+    "lat": 20.45,
+    "lon": 106.34,
+    "population": 45932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đắk Hà",
+    "region": "Kon Tum",
+    "lat": 14.6033,
+    "lon": 107.9855,
+    "population": 45898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thạnh Phú",
+    "region": "Bến Tre",
+    "lat": 9.9299,
+    "lon": 106.5432,
+    "population": 45721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ba Tri",
+    "region": "Bến Tre",
+    "lat": 10.0663,
+    "lon": 106.6055,
+    "population": 45628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chợ Đồn",
+    "region": "Bắc Kạn",
+    "lat": 22.1868,
+    "lon": 105.5728,
+    "population": 45535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Con Cuông",
+    "region": "Nghệ An",
+    "lat": 19.039,
+    "lon": 104.8035,
+    "population": 45487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bạc Liêu",
+    "region": "Bạc Liêu",
+    "lat": 9.2941,
+    "lon": 105.7278,
+    "population": 45479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cẩm Xuyên",
+    "region": "Hà Tĩnh",
+    "lat": 18.1906,
+    "lon": 106.0019,
+    "population": 45390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hà Giang",
+    "region": "Hà Giang",
+    "lat": 22.8233,
+    "lon": 104.9836,
+    "population": 45383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mộ Đức",
+    "region": "Quảng Ngãi",
+    "lat": 14.9551,
+    "lon": 108.8884,
+    "population": 45332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bến Lức",
+    "region": "Long An",
+    "lat": 10.6886,
+    "lon": 106.4548,
+    "population": 45246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bình Xuyên",
+    "region": "Vĩnh Phúc",
+    "lat": 21.3056,
+    "lon": 105.6623,
+    "population": 45182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bảo Yên",
+    "region": "Lào Cai",
+    "lat": 22.2611,
+    "lon": 104.4642,
+    "population": 45161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Diên Khánh",
+    "region": "Khánh Hòa",
+    "lat": 12.2734,
+    "lon": 109.0389,
+    "population": 45145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đinh Văn",
+    "region": "Lâm Đồng",
+    "lat": 11.7862,
+    "lon": 108.2428,
+    "population": 45001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đức Hòa",
+    "region": "Long An",
+    "lat": 10.8784,
+    "lon": 106.4242,
+    "population": 44978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nghi Lộc",
+    "region": "Nghệ An",
+    "lat": 18.8313,
+    "lon": 105.6241,
+    "population": 44972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quỳnh Lưu",
+    "region": "Nghệ An",
+    "lat": 19.2272,
+    "lon": 105.6435,
+    "population": 44767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yên Bái",
+    "region": "Yên Bái",
+    "lat": 21.7229,
+    "lon": 104.9113,
+    "population": 44762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vũng Tàu",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 10.346,
+    "lon": 107.0843,
+    "population": 44755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cao Lộc",
+    "region": "Lạng Sơn",
+    "lat": 21.8986,
+    "lon": 106.8543,
+    "population": 44689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nam Sách",
+    "region": "Hải Dương",
+    "lat": 21.0048,
+    "lon": 106.3404,
+    "population": 44364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vĩnh Thuận",
+    "region": "Kiên Giang",
+    "lat": 9.5331,
+    "lon": 105.2449,
+    "population": 44280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bảo Lâm",
+    "region": "Cao Bằng",
+    "lat": 22.8704,
+    "lon": 105.4878,
+    "population": 44254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hải Hà",
+    "region": "Quảng Ninh",
+    "lat": 21.4954,
+    "lon": 107.6679,
+    "population": 44106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mỹ Hào",
+    "region": "Hưng Yên",
+    "lat": 20.9321,
+    "lon": 106.1063,
+    "population": 43947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thành Phố Cam Ranh",
+    "region": "Khánh Hòa",
+    "lat": 11.9071,
+    "lon": 109.1486,
+    "population": 43771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nga Sơn",
+    "region": "Thanh Hóa",
+    "lat": 20.0156,
+    "lon": 105.9898,
+    "population": 43595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nguyên Bình",
+    "region": "Cao Bằng",
+    "lat": 22.624,
+    "lon": 105.9325,
+    "population": 43386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cam Lộ",
+    "region": "Quảng Trị",
+    "lat": 16.7934,
+    "lon": 106.9617,
+    "population": 43254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hà Tiên",
+    "region": "Kiên Giang",
+    "lat": 10.3831,
+    "lon": 104.4875,
+    "population": 43253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nghi Xuân",
+    "region": "Hà Tĩnh",
+    "lat": 18.6242,
+    "lon": 105.7683,
+    "population": 43192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hòn Đất",
+    "region": "Kiên Giang",
+    "lat": 10.2291,
+    "lon": 104.9528,
+    "population": 43096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sa Thầy",
+    "region": "Kon Tum",
+    "lat": 14.3205,
+    "lon": 107.5986,
+    "population": 43045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vị Xuyên",
+    "region": "Hà Giang",
+    "lat": 22.731,
+    "lon": 104.9083,
+    "population": 43030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mỹ Lộc",
+    "region": "Nam Định",
+    "lat": 20.4608,
+    "lon": 106.1232,
+    "population": 42829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Điện Biên Đông",
+    "region": "Điện Biên",
+    "lat": 21.2527,
+    "lon": 103.269,
+    "population": 42801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ba Bể",
+    "region": "Bắc Kạn",
+    "lat": 22.4167,
+    "lon": 105.75,
+    "population": 42799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện KBang",
+    "region": "Gia Lai",
+    "lat": 14.3051,
+    "lon": 108.4978,
+    "population": 42630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tiên Du",
+    "region": "Bắc Ninh",
+    "lat": 21.1219,
+    "lon": 106.04,
+    "population": 42556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lâm Hà",
+    "region": "Lâm Đồng",
+    "lat": 11.8189,
+    "lon": 108.2121,
+    "population": 42411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vũng Liêm",
+    "region": "Vĩnh Long",
+    "lat": 10.0872,
+    "lon": 106.1604,
+    "population": 42394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bình Sơn",
+    "region": "Quảng Ngãi",
+    "lat": 15.319,
+    "lon": 108.7638,
+    "population": 42281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cao Lãnh",
+    "region": "Đồng Tháp",
+    "lat": 10.4602,
+    "lon": 105.6329,
+    "population": 42263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thành Phố Việt Trì",
+    "region": "Phú Thọ",
+    "lat": 21.3296,
+    "lon": 105.3922,
+    "population": 42102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đắk Glei",
+    "region": "Kon Tum",
+    "lat": 15.1136,
+    "lon": 107.7509,
+    "population": 42068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đắk R’Lấp",
+    "region": "Đắk Nông",
+    "lat": 11.8799,
+    "lon": 107.5224,
+    "population": 41949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kiến Xương",
+    "region": "Thái Bình",
+    "lat": 20.4008,
+    "lon": 106.4203,
+    "population": 41917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ea Súp",
+    "region": "Đắk Lắk",
+    "lat": 13.1828,
+    "lon": 107.7995,
+    "population": 41822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "region": "Tiền Giang",
+    "lat": 10.386,
+    "lon": 106.2731,
+    "population": 41773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mỹ Xuyên",
+    "region": "Sóc Trăng",
+    "lat": 9.442,
+    "lon": 105.8855,
+    "population": 41724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lý Nhân",
+    "region": "Hà Nam",
+    "lat": 20.5642,
+    "lon": 106.0945,
+    "population": 41537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chiêm Hóa",
+    "region": "Tuyên Quang",
+    "lat": 22.179,
+    "lon": 105.2767,
+    "population": 41494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tam Bình",
+    "region": "Vĩnh Long",
+    "lat": 10.0813,
+    "lon": 105.9535,
+    "population": 41256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ngọc Hồi",
+    "region": "Kon Tum",
+    "lat": 14.7194,
+    "lon": 107.6264,
+    "population": 41048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quỳnh Phụ",
+    "region": "Thái Bình",
+    "lat": 20.651,
+    "lon": 106.3636,
+    "population": 40975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Lạc",
+    "region": "Hòa Bình",
+    "lat": 20.6056,
+    "lon": 105.234,
+    "population": 40966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bắc Giang",
+    "region": "Bắc Giang",
+    "lat": 21.2731,
+    "lon": 106.1946,
+    "population": 40946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sơn Tây",
+    "region": "Quảng Ngãi",
+    "lat": 14.9639,
+    "lon": 108.3642,
+    "population": 40793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Thế",
+    "region": "Bắc Giang",
+    "lat": 21.5167,
+    "lon": 106.1169,
+    "population": 40746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thọ Xuân",
+    "region": "Thanh Hóa",
+    "lat": 19.9311,
+    "lon": 105.4828,
+    "population": 40731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mường Lát",
+    "region": "Thanh Hóa",
+    "lat": 20.5276,
+    "lon": 104.6294,
+    "population": 40612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quế Phong",
+    "region": "Nghệ An",
+    "lat": 19.7018,
+    "lon": 104.8791,
+    "population": 40527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tây Sơn",
+    "region": "Bình Định",
+    "lat": 13.9431,
+    "lon": 108.88,
+    "population": 40515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nghĩa Hành",
+    "region": "Quảng Ngãi",
+    "lat": 14.9871,
+    "lon": 108.8004,
+    "population": 40246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Gia Bình",
+    "region": "Bắc Ninh",
+    "lat": 21.078,
+    "lon": 106.209,
+    "population": 40242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Sơn",
+    "region": "Tuyên Quang",
+    "lat": 21.8836,
+    "lon": 105.2766,
+    "population": 40182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Phong",
+    "region": "Bắc Ninh",
+    "lat": 21.2068,
+    "lon": 105.9943,
+    "population": 40016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phú Khương",
+    "region": "Tây Ninh",
+    "lat": 11.2833,
+    "lon": 106.1333,
+    "population": 39871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cẩm Thủy",
+    "region": "Thanh Hóa",
+    "lat": 20.1959,
+    "lon": 105.4682,
+    "population": 39771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyen Nam Can",
+    "region": "Cà Mau",
+    "lat": 8.8153,
+    "lon": 105.0557,
+    "population": 39543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện An Lão",
+    "region": "Bình Định",
+    "lat": 14.5568,
+    "lon": 108.801,
+    "population": 39526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quỳ Châu",
+    "region": "Nghệ An",
+    "lat": 19.5571,
+    "lon": 105.0917,
+    "population": 39406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tánh Linh",
+    "region": "Bình Thuận",
+    "lat": 11.1137,
+    "lon": 107.6843,
+    "population": 39327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Khánh",
+    "region": "Ninh Bình",
+    "lat": 20.1902,
+    "lon": 106.0961,
+    "population": 39311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cái Bè",
+    "region": "Tiền Giang",
+    "lat": 10.3882,
+    "lon": 105.9462,
+    "population": 39211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tháp Mười",
+    "region": "Đồng Tháp",
+    "lat": 10.544,
+    "lon": 105.8187,
+    "population": 39211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đầm Dơi",
+    "region": "Cà Mau",
+    "lat": 8.9603,
+    "lon": 105.2411,
+    "population": 39153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sông Cầu",
+    "region": "Phú Yên",
+    "lat": 13.4556,
+    "lon": 109.2235,
+    "population": 38958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sa Dec",
+    "region": "Đồng Tháp",
+    "lat": 10.2909,
+    "lon": 105.7563,
+    "population": 38934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Long Thành",
+    "region": "Đồng Nai",
+    "lat": 10.7616,
+    "lon": 107.0269,
+    "population": 38867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vũ Thư",
+    "region": "Thái Bình",
+    "lat": 20.4373,
+    "lon": 106.2653,
+    "population": 38727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đạ Huoai",
+    "region": "Lâm Đồng",
+    "lat": 11.4246,
+    "lon": 107.6382,
+    "population": 38618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ba Tơ",
+    "region": "Quảng Ngãi",
+    "lat": 14.7397,
+    "lon": 108.6933,
+    "population": 38197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Việt Trì",
+    "region": "Phú Thọ",
+    "lat": 21.3227,
+    "lon": 105.402,
+    "population": 38112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quan Hóa",
+    "region": "Thanh Hóa",
+    "lat": 20.4757,
+    "lon": 104.9534,
+    "population": 38004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vĩnh Thạnh",
+    "region": "Cần Thơ",
+    "lat": 10.2192,
+    "lon": 105.4011,
+    "population": 37972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lai Vung",
+    "region": "Đồng Tháp",
+    "lat": 10.2405,
+    "lon": 105.6633,
+    "population": 37958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bù Đốp",
+    "region": "Bình Phước",
+    "lat": 12.0037,
+    "lon": 106.8154,
+    "population": 37836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hà Đông",
+    "region": "Hà Nội",
+    "lat": 20.9714,
+    "lon": 105.7788,
+    "population": 37594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thanh Miện",
+    "region": "Hải Dương",
+    "lat": 20.7795,
+    "lon": 106.2222,
+    "population": 37587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vĩnh Long",
+    "region": "Vĩnh Long",
+    "lat": 10.2537,
+    "lon": 105.9722,
+    "population": 37449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ngọc Lặc",
+    "region": "Thanh Hóa",
+    "lat": 20.0678,
+    "lon": 105.3739,
+    "population": 37439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cần Đước",
+    "region": "Long An",
+    "lat": 10.5415,
+    "lon": 106.5964,
+    "population": 37403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Lạc",
+    "region": "Vĩnh Phúc",
+    "lat": 21.2185,
+    "lon": 105.5759,
+    "population": 37248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mộc Châu",
+    "region": "Sơn La",
+    "lat": 21.8333,
+    "lon": 104.75,
+    "population": 37197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Khánh Sơn",
+    "region": "Khánh Hòa",
+    "lat": 12.0286,
+    "lon": 108.9081,
+    "population": 37193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kỳ Anh",
+    "region": "Hà Tĩnh",
+    "lat": 18.0581,
+    "lon": 106.2458,
+    "population": 37120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nho Quan",
+    "region": "Ninh Bình",
+    "lat": 20.2761,
+    "lon": 105.7544,
+    "population": 36948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kon Tum",
+    "region": "Kon Tum",
+    "lat": 14.3545,
+    "lon": 108.0076,
+    "population": 36945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ý Yên",
+    "region": "Nam Định",
+    "lat": 20.3167,
+    "lon": 106.0233,
+    "population": 36656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đồng Phú",
+    "region": "Bình Phước",
+    "lat": 11.5007,
+    "lon": 107.0119,
+    "population": 36594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hải Dương",
+    "region": "Hải Dương",
+    "lat": 20.941,
+    "lon": 106.333,
+    "population": 36580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hướng Hóa",
+    "region": "Quảng Trị",
+    "lat": 16.7013,
+    "lon": 106.6704,
+    "population": 36395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ðà Lạt",
+    "region": "Lâm Đồng",
+    "lat": 11.9465,
+    "lon": 108.4419,
+    "population": 36367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rạch Giá",
+    "region": "Kiên Giang",
+    "lat": 10.0124,
+    "lon": 105.0809,
+    "population": 36266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cẩm Phả",
+    "region": "Quảng Ninh",
+    "lat": 21.01,
+    "lon": 107.2734,
+    "population": 36167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buôn Ma Thuột",
+    "region": "Đắk Lắk",
+    "lat": 12.6675,
+    "lon": 108.0378,
+    "population": 36165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quận Hà Đông",
+    "region": "Hà Nội",
+    "lat": 20.9548,
+    "lon": 105.7685,
+    "population": 36058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hàm Yên",
+    "region": "Tuyên Quang",
+    "lat": 22.1093,
+    "lon": 105.0163,
+    "population": 36000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trạm Tấu",
+    "region": "Yên Bái",
+    "lat": 21.4855,
+    "lon": 104.4276,
+    "population": 35977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Văn Chấn",
+    "region": "Yên Bái",
+    "lat": 21.5572,
+    "lon": 104.6404,
+    "population": 35929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hoa Lư",
+    "region": "Ninh Bình",
+    "lat": 20.2539,
+    "lon": 105.9079,
+    "population": 35759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bát Xát",
+    "region": "Lào Cai",
+    "lat": 22.5677,
+    "lon": 103.7134,
+    "population": 35755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đức Trọng",
+    "region": "Lâm Đồng",
+    "lat": 11.6269,
+    "lon": 108.3533,
+    "population": 35548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hàm Thuận Nam",
+    "region": "Bình Thuận",
+    "lat": 10.921,
+    "lon": 107.9333,
+    "population": 35533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đam Rong",
+    "region": "Lâm Đồng",
+    "lat": 12.0541,
+    "lon": 108.1494,
+    "population": 35525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cần Giuộc",
+    "region": "Long An",
+    "lat": 10.5774,
+    "lon": 106.6728,
+    "population": 35517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sông Mã",
+    "region": "Sơn La",
+    "lat": 21.0697,
+    "lon": 103.6873,
+    "population": 35510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "region": "Kiên Giang",
+    "lat": 9.9437,
+    "lon": 105.1687,
+    "population": 35505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chư Sê",
+    "region": "Gia Lai",
+    "lat": 13.7425,
+    "lon": 108.0866,
+    "population": 35497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Triệu Phong",
+    "region": "Quảng Trị",
+    "lat": 16.7813,
+    "lon": 107.1603,
+    "population": 35486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Đức",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 10.658,
+    "lon": 107.251,
+    "population": 35482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đức Huệ",
+    "region": "Long An",
+    "lat": 10.8647,
+    "lon": 106.2591,
+    "population": 35456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kỳ Sơn",
+    "region": "Hòa Bình",
+    "lat": 20.8963,
+    "lon": 105.3966,
+    "population": 35315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quảng Ngãi",
+    "region": "Quảng Ngãi",
+    "lat": 15.1205,
+    "lon": 108.7923,
+    "population": 35289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chư Prông",
+    "region": "Gia Lai",
+    "lat": 13.5998,
+    "lon": 107.811,
+    "population": 35076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phú Tân",
+    "region": "An Giang",
+    "lat": 10.6572,
+    "lon": 105.2846,
+    "population": 34688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuy Hòa",
+    "region": "Phú Yên",
+    "lat": 13.0955,
+    "lon": 109.3209,
+    "population": 34653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quỳnh Nhai",
+    "region": "Sơn La",
+    "lat": 21.7722,
+    "lon": 103.6492,
+    "population": 34646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hoành Bồ",
+    "region": "Quảng Ninh",
+    "lat": 21.1189,
+    "lon": 107.0315,
+    "population": 34574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Như Thanh",
+    "region": "Thanh Hóa",
+    "lat": 19.578,
+    "lon": 105.5562,
+    "population": 34537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đạ Tẻh",
+    "region": "Lâm Đồng",
+    "lat": 11.5845,
+    "lon": 107.5279,
+    "population": 34450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Long Xuyên",
+    "region": "An Giang",
+    "lat": 10.3864,
+    "lon": 105.4352,
+    "population": 34413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "region": "Hồ Chí Minh",
+    "lat": 10.823,
+    "lon": 106.6296,
+    "population": 34360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tiểu Cần",
+    "region": "Trà Vinh",
+    "lat": 9.8035,
+    "lon": 106.2059,
+    "population": 34291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thạnh Trị",
+    "region": "Sóc Trăng",
+    "lat": 9.4694,
+    "lon": 105.712,
+    "population": 34219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thạch An",
+    "region": "Cao Bằng",
+    "lat": 22.4765,
+    "lon": 106.3424,
+    "population": 34147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hà Tĩnh",
+    "region": "Hà Tĩnh",
+    "lat": 18.3428,
+    "lon": 105.9057,
+    "population": 33991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hải Hậu",
+    "region": "Nam Định",
+    "lat": 20.1506,
+    "lon": 106.2716,
+    "population": 33789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tương Dương",
+    "region": "Nghệ An",
+    "lat": 19.3098,
+    "lon": 104.5779,
+    "population": 33692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đoan Hùng",
+    "region": "Phú Thọ",
+    "lat": 21.6178,
+    "lon": 105.1611,
+    "population": 33649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lang Chánh",
+    "region": "Thanh Hóa",
+    "lat": 20.1593,
+    "lon": 105.1507,
+    "population": 33639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lục Ngạn",
+    "region": "Bắc Giang",
+    "lat": 21.4372,
+    "lon": 106.6585,
+    "population": 33636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qui Nhon",
+    "region": "Bình Định",
+    "lat": 13.7765,
+    "lon": 109.2237,
+    "population": 33555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyen Lam Thao",
+    "region": "Phú Thọ",
+    "lat": 21.2997,
+    "lon": 105.3112,
+    "population": 33501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tân An",
+    "region": "Long An",
+    "lat": 10.5359,
+    "lon": 106.4137,
+    "population": 33411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vân Đồn",
+    "region": "Quảng Ninh",
+    "lat": 21.0492,
+    "lon": 107.5097,
+    "population": 33388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tây Ninh",
+    "region": "Tây Ninh",
+    "lat": 11.31,
+    "lon": 106.0983,
+    "population": 33227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cư Jút",
+    "region": "Đắk Nông",
+    "lat": 12.6959,
+    "lon": 107.7632,
+    "population": 33049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tam Đường",
+    "region": "Lai Châu",
+    "lat": 22.3539,
+    "lon": 103.5934,
+    "population": 32889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Khoái Châu",
+    "region": "Hưng Yên",
+    "lat": 20.8217,
+    "lon": 105.9745,
+    "population": 32864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kỳ Sơn",
+    "region": "Nghệ An",
+    "lat": 19.424,
+    "lon": 104.222,
+    "population": 32772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phong Điền",
+    "region": "Thừa Thiên-Huế",
+    "lat": 16.4877,
+    "lon": 107.2889,
+    "population": 32540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kim Động",
+    "region": "Hưng Yên",
+    "lat": 20.7464,
+    "lon": 106.0363,
+    "population": 32405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bình Gia",
+    "region": "Lạng Sơn",
+    "lat": 22.0728,
+    "lon": 106.3041,
+    "population": 32357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dĩ An",
+    "region": "Bình Dương",
+    "lat": 10.9068,
+    "lon": 106.7694,
+    "population": 32264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cẩm Phả Mines",
+    "region": "Quảng Ninh",
+    "lat": 21.0167,
+    "lon": 107.3,
+    "population": 32028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Krông Pa",
+    "region": "Gia Lai",
+    "lat": 13.2315,
+    "lon": 108.6549,
+    "population": 31838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Duy Xuyên",
+    "region": "Quảng Nam",
+    "lat": 15.7897,
+    "lon": 108.2025,
+    "population": 31716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tuyên Hóa",
+    "region": "Quảng Bình",
+    "lat": 17.9132,
+    "lon": 106.0268,
+    "population": 31635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thanh Chương",
+    "region": "Nghệ An",
+    "lat": 18.7393,
+    "lon": 105.2405,
+    "population": 31589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Thạnh",
+    "region": "Long An",
+    "lat": 10.6035,
+    "lon": 105.9658,
+    "population": 31589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Giá Rai",
+    "region": "Bạc Liêu",
+    "lat": 9.2716,
+    "lon": 105.4002,
+    "population": 31539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đô Lương",
+    "region": "Nghệ An",
+    "lat": 18.8926,
+    "lon": 105.3403,
+    "population": 31445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chợ Mới",
+    "region": "An Giang",
+    "lat": 10.4773,
+    "lon": 105.4909,
+    "population": 31297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thái Thụy",
+    "region": "Thái Bình",
+    "lat": 20.5392,
+    "lon": 106.5169,
+    "population": 31017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tiên Yên",
+    "region": "Quảng Ninh",
+    "lat": 21.3757,
+    "lon": 107.3747,
+    "population": 30945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cần Thơ",
+    "region": "Cần Thơ",
+    "lat": 10.1167,
+    "lon": 105.5,
+    "population": 30889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trà Cú",
+    "region": "Trà Vinh",
+    "lat": 9.6971,
+    "lon": 106.2942,
+    "population": 30850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thới Bình",
+    "region": "Cà Mau",
+    "lat": 9.3579,
+    "lon": 105.1602,
+    "population": 30706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thạnh Hóa",
+    "region": "Long An",
+    "lat": 10.6667,
+    "lon": 106.1667,
+    "population": 30640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hà Quảng",
+    "region": "Cao Bằng",
+    "lat": 22.9076,
+    "lon": 106.1249,
+    "population": 30635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Định Quán",
+    "region": "Đồng Nai",
+    "lat": 11.2187,
+    "lon": 107.3396,
+    "population": 30600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện An Minh",
+    "region": "Kiên Giang",
+    "lat": 9.667,
+    "lon": 104.9485,
+    "population": 30540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dương Đông",
+    "region": "Kiên Giang",
+    "lat": 10.2172,
+    "lon": 103.9593,
+    "population": 30512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thuận Châu",
+    "region": "Sơn La",
+    "lat": 21.4232,
+    "lon": 103.6441,
+    "population": 30448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Xã Gò Công",
+    "region": "Tiền Giang",
+    "lat": 10.4001,
+    "lon": 106.6585,
+    "population": 30419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bình Đại",
+    "region": "Bến Tre",
+    "lat": 10.1935,
+    "lon": 106.6445,
+    "population": 30305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vặn Quan",
+    "region": "Lạng Sơn",
+    "lat": 21.8333,
+    "lon": 106.5494,
+    "population": 30294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Xuyên Mộc",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 10.6305,
+    "lon": 107.4657,
+    "population": 30294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tam Nông",
+    "region": "Đồng Tháp",
+    "lat": 10.7276,
+    "lon": 105.5252,
+    "population": 30235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Gò Quao",
+    "region": "Kiên Giang",
+    "lat": 9.7403,
+    "lon": 105.2977,
+    "population": 30226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ia H'Drai",
+    "region": "Kon Tum",
+    "lat": 14.0603,
+    "lon": 107.4624,
+    "population": 30218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hòa Thành",
+    "region": "Tây Ninh",
+    "lat": 11.2671,
+    "lon": 106.1449,
+    "population": 30042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thành Phố Phan Thiết",
+    "region": "Bình Thuận",
+    "lat": 10.937,
+    "lon": 108.1578,
+    "population": 29828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vĩnh Hưng",
+    "region": "Long An",
+    "lat": 10.883,
+    "lon": 105.8036,
+    "population": 29827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thường Xuân",
+    "region": "Thanh Hóa",
+    "lat": 19.9368,
+    "lon": 105.2411,
+    "population": 29729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thiệu Hóa",
+    "region": "Thanh Hóa",
+    "lat": 19.8971,
+    "lon": 105.6814,
+    "population": 29660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện A Lưới",
+    "region": "Thừa Thiên-Huế",
+    "lat": 16.2342,
+    "lon": 107.3065,
+    "population": 29548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ấp Tân Ngãi",
+    "region": "Bến Tre",
+    "lat": 10.2333,
+    "lon": 106.2833,
+    "population": 29485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Minh",
+    "region": "Hà Giang",
+    "lat": 23.0699,
+    "lon": 105.1787,
+    "population": 29484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nghĩa Đàn",
+    "region": "Nghệ An",
+    "lat": 19.3823,
+    "lon": 105.4407,
+    "population": 29421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kinh Môn",
+    "region": "Hải Dương",
+    "lat": 21.0163,
+    "lon": 106.5038,
+    "population": 29175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hòa Bình",
+    "region": "Hòa Bình",
+    "lat": 20.8172,
+    "lon": 105.3376,
+    "population": 29152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lạng Sơn",
+    "region": "Lạng Sơn",
+    "lat": 21.8526,
+    "lon": 106.761,
+    "population": 29057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thanh Hóa",
+    "region": "Thanh Hóa",
+    "lat": 19.8,
+    "lon": 105.7667,
+    "population": 29027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pleiku",
+    "region": "Gia Lai",
+    "lat": 13.9833,
+    "lon": 108,
+    "population": 28954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thanh Ba",
+    "region": "Phú Thọ",
+    "lat": 21.4782,
+    "lon": 105.1588,
+    "population": 28897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nam Đàn",
+    "region": "Nghệ An",
+    "lat": 18.6704,
+    "lon": 105.5258,
+    "population": 28735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cam Ranh",
+    "region": "Khánh Hòa",
+    "lat": 11.9214,
+    "lon": 109.1591,
+    "population": 28713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyen Phuc Hoa",
+    "region": "Cao Bằng",
+    "lat": 22.5384,
+    "lon": 106.5104,
+    "population": 28709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phú Vang",
+    "region": "Thừa Thiên-Huế",
+    "lat": 16.4701,
+    "lon": 107.7146,
+    "population": 28672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phú Quốc",
+    "region": "Kiên Giang",
+    "lat": 10.2552,
+    "lon": 104.0145,
+    "population": 28602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thủ Thừa",
+    "region": "Long An",
+    "lat": 10.6564,
+    "lon": 106.3458,
+    "population": 28511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phan Rang-Tháp Chàm",
+    "region": "Ninh Thuận",
+    "lat": 11.5643,
+    "lon": 108.9886,
+    "population": 28464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đức Phổ",
+    "region": "Quảng Ngãi",
+    "lat": 14.78,
+    "lon": 108.9786,
+    "population": 28427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Củ Chi",
+    "region": "Hồ Chí Minh",
+    "lat": 10.9733,
+    "lon": 106.4933,
+    "population": 28416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tiền Hải",
+    "region": "Thái Bình",
+    "lat": 20.3847,
+    "lon": 106.5288,
+    "population": 28414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thành Phố Vũng Tàu",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 10.4024,
+    "lon": 107.1424,
+    "population": 28364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bình Liêu",
+    "region": "Quảng Ninh",
+    "lat": 21.5439,
+    "lon": 107.4405,
+    "population": 28121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Xã Phước Long",
+    "region": "Bình Phước",
+    "lat": 11.8114,
+    "lon": 106.9967,
+    "population": 28049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuyên Quang",
+    "region": "Tuyên Quang",
+    "lat": 21.8236,
+    "lon": 105.2142,
+    "population": 28020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trấn Yên",
+    "region": "Yên Bái",
+    "lat": 21.6659,
+    "lon": 104.797,
+    "population": 28006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trảng Bàng",
+    "region": "Tây Ninh",
+    "lat": 11.0572,
+    "lon": 106.3754,
+    "population": 27644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mộc Hóa",
+    "region": "Long An",
+    "lat": 10.7517,
+    "lon": 106.0173,
+    "population": 27467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quảng Trạch",
+    "region": "Quảng Bình",
+    "lat": 17.8345,
+    "lon": 106.3671,
+    "population": 27402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Can Lộc",
+    "region": "Hà Tĩnh",
+    "lat": 18.4441,
+    "lon": 105.7635,
+    "population": 27359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ninh Bình",
+    "region": "Ninh Bình",
+    "lat": 20.2581,
+    "lon": 105.9797,
+    "population": 27310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nghĩa Hưng",
+    "region": "Nam Định",
+    "lat": 20.106,
+    "lon": 106.1735,
+    "population": 27259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đức Cơ",
+    "region": "Gia Lai",
+    "lat": 13.7845,
+    "lon": 107.6697,
+    "population": 27227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ðông Hưng",
+    "region": "Thái Bình",
+    "lat": 20.5439,
+    "lon": 106.3409,
+    "population": 27088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phước Sơn",
+    "region": "Quảng Nam",
+    "lat": 15.3881,
+    "lon": 107.8577,
+    "population": 26974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vụ Bản",
+    "region": "Nam Định",
+    "lat": 20.3771,
+    "lon": 106.0971,
+    "population": 26921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cái Nước",
+    "region": "Cà Mau",
+    "lat": 9.0009,
+    "lon": 105.042,
+    "population": 26864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Giồng Riềng",
+    "region": "Kiên Giang",
+    "lat": 9.9122,
+    "lon": 105.3731,
+    "population": 26645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sa Dec city",
+    "region": "Đồng Tháp",
+    "lat": 10.3055,
+    "lon": 105.7476,
+    "population": 26499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thanh Bình",
+    "region": "Đồng Tháp",
+    "lat": 10.6014,
+    "lon": 105.4781,
+    "population": 26478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Phước",
+    "region": "Tiền Giang",
+    "lat": 10.5149,
+    "lon": 106.2331,
+    "population": 26362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Trấn Tân Thành",
+    "region": "Đồng Tháp",
+    "lat": 10.2562,
+    "lon": 105.5928,
+    "population": 26360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mỹ Tho",
+    "region": "Tiền Giang",
+    "lat": 10.36,
+    "lon": 106.36,
+    "population": 26187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sơn Tịnh",
+    "region": "Quảng Ngãi",
+    "lat": 15.1909,
+    "lon": 108.7429,
+    "population": 26098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sông Hinh",
+    "region": "Phú Yên",
+    "lat": 12.9167,
+    "lon": 108.9167,
+    "population": 25998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bắc Kạn",
+    "region": "Bắc Kạn",
+    "lat": 22.147,
+    "lon": 105.8348,
+    "population": 25975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thuận Thành",
+    "region": "Bắc Ninh",
+    "lat": 21.0408,
+    "lon": 106.0751,
+    "population": 25801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "region": "Long An",
+    "lat": 10.4521,
+    "lon": 106.4901,
+    "population": 25678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Da Nang",
+    "region": "Đà Nẵng",
+    "lat": 16.0678,
+    "lon": 108.2208,
+    "population": 25419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Long Xuyên City",
+    "region": "An Giang",
+    "lat": 10.3686,
+    "lon": 105.4234,
+    "population": 25291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Anh Sơn",
+    "region": "Nghệ An",
+    "lat": 18.929,
+    "lon": 105.0829,
+    "population": 25246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lâm Bình",
+    "region": "Tuyên Quang",
+    "lat": 22.4641,
+    "lon": 105.219,
+    "population": 25115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bá Thước",
+    "region": "Thanh Hóa",
+    "lat": 20.3577,
+    "lon": 105.253,
+    "population": 24939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trà Lĩnh",
+    "region": "Cao Bằng",
+    "lat": 22.8096,
+    "lon": 106.3254,
+    "population": 24922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hậu Lộc",
+    "region": "Thanh Hóa",
+    "lat": 19.9334,
+    "lon": 105.8889,
+    "population": 24888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bình Lục",
+    "region": "Hà Nam",
+    "lat": 20.5013,
+    "lon": 106.0296,
+    "population": 24840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mường Nhé",
+    "region": "Điện Biên",
+    "lat": 22.1035,
+    "lon": 102.5846,
+    "population": 24747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cầu Ngang",
+    "region": "Trà Vinh",
+    "lat": 9.7719,
+    "lon": 106.4365,
+    "population": 24731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bắc Sơn",
+    "region": "Lạng Sơn",
+    "lat": 21.838,
+    "lon": 106.2769,
+    "population": 24718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bảo Lộc",
+    "region": "Lâm Đồng",
+    "lat": 11.548,
+    "lon": 107.8077,
+    "population": 24692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sơn Dương",
+    "region": "Tuyên Quang",
+    "lat": 21.6362,
+    "lon": 105.389,
+    "population": 24601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vĩnh Lộc",
+    "region": "Thanh Hóa",
+    "lat": 20.0348,
+    "lon": 105.6576,
+    "population": 24517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ðức Thọ",
+    "region": "Hà Tĩnh",
+    "lat": 18.497,
+    "lon": 105.6102,
+    "population": 24425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nam Giang",
+    "region": "Quảng Nam",
+    "lat": 15.632,
+    "lon": 107.6027,
+    "population": 24376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quảng Xương",
+    "region": "Thanh Hóa",
+    "lat": 19.7025,
+    "lon": 105.793,
+    "population": 24362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nông Cống",
+    "region": "Thanh Hóa",
+    "lat": 19.6138,
+    "lon": 105.6828,
+    "population": 24073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đại Lộc",
+    "region": "Quảng Nam",
+    "lat": 15.8372,
+    "lon": 107.9789,
+    "population": 24028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mang Thít",
+    "region": "Vĩnh Long",
+    "lat": 10.1873,
+    "lon": 106.0747,
+    "population": 23930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Gò Công Đông",
+    "region": "Tiền Giang",
+    "lat": 10.3678,
+    "lon": 106.7459,
+    "population": 23739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cần Giuộc",
+    "region": "Long An",
+    "lat": 10.6086,
+    "lon": 106.6714,
+    "population": 23559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Thành",
+    "region": "Nghệ An",
+    "lat": 19.0272,
+    "lon": 105.4365,
+    "population": 23461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bắc Bình",
+    "region": "Bình Thuận",
+    "lat": 11.2757,
+    "lon": 108.3851,
+    "population": 23317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Giao Thủy",
+    "region": "Nam Định",
+    "lat": 20.2571,
+    "lon": 106.4625,
+    "population": 23311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đông Triều",
+    "region": "Quảng Ninh",
+    "lat": 21.1104,
+    "lon": 106.5966,
+    "population": 23275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bình Giang",
+    "region": "Hải Dương",
+    "lat": 20.8759,
+    "lon": 106.1914,
+    "population": 23266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Xã Chí Linh",
+    "region": "Hải Dương",
+    "lat": 21.1372,
+    "lon": 106.3964,
+    "population": 23156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Châu",
+    "region": "Tây Ninh",
+    "lat": 11.5874,
+    "lon": 106.2827,
+    "population": 23087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nha Trang",
+    "region": "Khánh Hòa",
+    "lat": 12.2451,
+    "lon": 109.1943,
+    "population": 23079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Định",
+    "region": "Thanh Hóa",
+    "lat": 19.9867,
+    "lon": 105.6148,
+    "population": 23065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đồng Văn",
+    "region": "Hà Giang",
+    "lat": 23.2545,
+    "lon": 105.2763,
+    "population": 23053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hồng Dân",
+    "region": "Bạc Liêu",
+    "lat": 9.5382,
+    "lon": 105.4224,
+    "population": 22956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trà Ôn",
+    "region": "Vĩnh Long",
+    "lat": 9.9752,
+    "lon": 106.0096,
+    "population": 22919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sóc Trăng",
+    "region": "Sóc Trăng",
+    "lat": 9.5999,
+    "lon": 105.9719,
+    "population": 22865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sa Pa",
+    "region": "Lào Cai",
+    "lat": 22.3377,
+    "lon": 103.8404,
+    "population": 22834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hạ Hòa",
+    "region": "Phú Thọ",
+    "lat": 21.5776,
+    "lon": 104.9946,
+    "population": 22271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hàm Tân",
+    "region": "Bình Thuận",
+    "lat": 10.7686,
+    "lon": 107.6423,
+    "population": 22252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vĩnh Cửu",
+    "region": "Đồng Nai",
+    "lat": 11.2573,
+    "lon": 107.0277,
+    "population": 22112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kon Plông",
+    "region": "Kon Tum",
+    "lat": 14.7562,
+    "lon": 108.3206,
+    "population": 22069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thanh Liêm",
+    "region": "Hà Nam",
+    "lat": 20.4625,
+    "lon": 105.921,
+    "population": 22020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hàm Thuận Bắc",
+    "region": "Bình Thuận",
+    "lat": 11.147,
+    "lon": 108.0817,
+    "population": 21903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyen Nga Nam",
+    "region": "Sóc Trăng",
+    "lat": 9.5613,
+    "lon": 105.5948,
+    "population": 21821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thống Nhất",
+    "region": "Đồng Nai",
+    "lat": 10.9776,
+    "lon": 107.1591,
+    "population": 21762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Long Phú",
+    "region": "Sóc Trăng",
+    "lat": 9.6372,
+    "lon": 106.0823,
+    "population": 21605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tam Đảo",
+    "region": "Vĩnh Phúc",
+    "lat": 21.4569,
+    "lon": 105.5946,
+    "population": 21537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tuy Phước",
+    "region": "Bình Định",
+    "lat": 13.8456,
+    "lon": 109.1527,
+    "population": 21501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tuần Giáo",
+    "region": "Điện Biên",
+    "lat": 21.6948,
+    "lon": 103.4176,
+    "population": 21332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chơn Thành",
+    "region": "Bình Phước",
+    "lat": 11.4628,
+    "lon": 106.6666,
+    "population": 21268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đơn Dương",
+    "region": "Lâm Đồng",
+    "lat": 11.7531,
+    "lon": 108.554,
+    "population": 21118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Long Hồ",
+    "region": "Vĩnh Long",
+    "lat": 10.2164,
+    "lon": 105.9848,
+    "population": 21017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ia Grai",
+    "region": "Gia Lai",
+    "lat": 13.9894,
+    "lon": 107.7374,
+    "population": 20952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hưng Nguyên",
+    "region": "Nghệ An",
+    "lat": 18.6781,
+    "lon": 105.6252,
+    "population": 20918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đầm Hà",
+    "region": "Quảng Ninh",
+    "lat": 21.3969,
+    "lon": 107.5618,
+    "population": 20843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hoài Nhơn",
+    "region": "Bình Định",
+    "lat": 14.5053,
+    "lon": 109.0232,
+    "population": 20813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cẩm Khê",
+    "region": "Phú Thọ",
+    "lat": 21.4068,
+    "lon": 105.0984,
+    "population": 20701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tư Nghĩa",
+    "region": "Quảng Ngãi",
+    "lat": 15.095,
+    "lon": 108.7705,
+    "population": 20655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hớn Quản",
+    "region": "Bình Phước",
+    "lat": 11.5972,
+    "lon": 106.6274,
+    "population": 20598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Don Luan",
+    "region": "Bình Phước",
+    "lat": 11.535,
+    "lon": 106.8832,
+    "population": 20520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwang Binh",
+    "region": "Quảng Bình",
+    "lat": 17.4688,
+    "lon": 106.6223,
+    "population": 20415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tam Dương",
+    "region": "Vĩnh Phúc",
+    "lat": 21.3619,
+    "lon": 105.5569,
+    "population": 20297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cao Phong",
+    "region": "Hòa Bình",
+    "lat": 20.6953,
+    "lon": 105.3356,
+    "population": 20293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trà Bồng",
+    "region": "Quảng Ngãi",
+    "lat": 15.2375,
+    "lon": 108.5263,
+    "population": 20200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thủ Dầu Một",
+    "region": "Bình Dương",
+    "lat": 10.9804,
+    "lon": 106.6519,
+    "population": 20169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Lập",
+    "region": "Phú Thọ",
+    "lat": 21.3557,
+    "lon": 105.0049,
+    "population": 20109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vĩnh Thạnh",
+    "region": "Bình Định",
+    "lat": 14.211,
+    "lon": 108.7439,
+    "population": 20012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tri Tôn",
+    "region": "An Giang",
+    "lat": 10.4142,
+    "lon": 104.9614,
+    "population": 19979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Hưng",
+    "region": "Long An",
+    "lat": 10.8338,
+    "lon": 105.6885,
+    "population": 19810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chợ Gạo",
+    "region": "Tiền Giang",
+    "lat": 10.3737,
+    "lon": 106.4434,
+    "population": 19617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lý Sơn",
+    "region": "Quảng Ngãi",
+    "lat": 15.4061,
+    "lon": 109.0971,
+    "population": 19577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Na Rì",
+    "region": "Bắc Kạn",
+    "lat": 22.1788,
+    "lon": 106.1122,
+    "population": 19462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Gò Công Tây",
+    "region": "Tiền Giang",
+    "lat": 10.3453,
+    "lon": 106.5985,
+    "population": 19444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phủ Lý",
+    "region": "Hà Nam",
+    "lat": 20.5453,
+    "lon": 105.9122,
+    "population": 19371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thái Nguyên",
+    "region": "Thái Nguyên",
+    "lat": 21.5942,
+    "lon": 105.8482,
+    "population": 19351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phù Yên",
+    "region": "Sơn La",
+    "lat": 21.2141,
+    "lon": 104.6899,
+    "population": 19344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cung Kiệm",
+    "region": "Bắc Ninh",
+    "lat": 21.187,
+    "lon": 106.1608,
+    "population": 19328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haiphong",
+    "region": "Hải Phòng",
+    "lat": 20.8648,
+    "lon": 106.6834,
+    "population": 19223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thới Lai",
+    "region": "Cần Thơ",
+    "lat": 10.0631,
+    "lon": 105.5608,
+    "population": 19190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huế",
+    "region": "Thừa Thiên-Huế",
+    "lat": 16.4619,
+    "lon": 107.5955,
+    "population": 19144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quang Bình",
+    "region": "Hà Giang",
+    "lat": 22.4151,
+    "lon": 104.6602,
+    "population": 19130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phan Thiết",
+    "region": "Bình Thuận",
+    "lat": 10.9289,
+    "lon": 108.1021,
+    "population": 19122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đất Đỏ",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 10.4802,
+    "lon": 107.2788,
+    "population": 19119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Khánh Vĩnh",
+    "region": "Khánh Hòa",
+    "lat": 12.3059,
+    "lon": 108.8307,
+    "population": 18984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cai Lậy",
+    "region": "Tiền Giang",
+    "lat": 10.3894,
+    "lon": 106.0677,
+    "population": 18898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mường Khương",
+    "region": "Lào Cai",
+    "lat": 22.6711,
+    "lon": 104.1177,
+    "population": 18859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Dương Minh Châu",
+    "region": "Tây Ninh",
+    "lat": 11.3183,
+    "lon": 106.257,
+    "population": 18712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Phú",
+    "region": "Đồng Nai",
+    "lat": 11.3987,
+    "lon": 107.3998,
+    "population": 18633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hạ Lang",
+    "region": "Cao Bằng",
+    "lat": 22.7093,
+    "lon": 106.6766,
+    "population": 18623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Gi",
+    "region": "Bình Thuận",
+    "lat": 10.6599,
+    "lon": 107.7721,
+    "population": 18531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Như Xuân",
+    "region": "Thanh Hóa",
+    "lat": 19.6253,
+    "lon": 105.3886,
+    "population": 18436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vị Thanh",
+    "region": "Hậu Giang",
+    "lat": 9.7845,
+    "lon": 105.4701,
+    "population": 18334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quốc Oai",
+    "region": "Hà Nội",
+    "lat": 20.9706,
+    "lon": 105.6113,
+    "population": 18286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Cô Tô",
+    "region": "Quảng Ninh",
+    "lat": 21.0542,
+    "lon": 107.807,
+    "population": 18209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Thông Nông",
+    "region": "Cao Bằng",
+    "lat": 22.8073,
+    "lon": 105.9585,
+    "population": 18175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Thành A",
+    "region": "Hậu Giang",
+    "lat": 9.9306,
+    "lon": 105.6419,
+    "population": 18108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Xã Ninh Hòa",
+    "region": "Khánh Hòa",
+    "lat": 12.538,
+    "lon": 109.0606,
+    "population": 17902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bắc Ninh",
+    "region": "Bắc Ninh",
+    "lat": 21.1861,
+    "lon": 106.0763,
+    "population": 17782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Na Hang",
+    "region": "Tuyên Quang",
+    "lat": 22.4752,
+    "lon": 105.4838,
+    "population": 17643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quận Ba Đình",
+    "region": "Hà Nội",
+    "lat": 21.0359,
+    "lon": 105.8216,
+    "population": 17555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hiệp Đức",
+    "region": "Quảng Nam",
+    "lat": 15.5386,
+    "lon": 108.0954,
+    "population": 17534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bắc Yên",
+    "region": "Sơn La",
+    "lat": 21.2504,
+    "lon": 104.385,
+    "population": 17412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mù Cang Chải",
+    "region": "Yên Bái",
+    "lat": 21.7882,
+    "lon": 104.12,
+    "population": 17176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chợ Lách",
+    "region": "Bến Tre",
+    "lat": 10.2267,
+    "lon": 106.1708,
+    "population": 17126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phù Cừ",
+    "region": "Hưng Yên",
+    "lat": 20.71,
+    "lon": 106.1974,
+    "population": 17106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sơn Hòa",
+    "region": "Phú Yên",
+    "lat": 13.1587,
+    "lon": 108.9728,
+    "population": 16842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanoi",
+    "region": "Hà Nội",
+    "lat": 21.0245,
+    "lon": 105.8412,
+    "population": 16696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kế Sách",
+    "region": "Sóc Trăng",
+    "lat": 9.8177,
+    "lon": 105.9419,
+    "population": 16676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hưng Hà",
+    "region": "Thái Bình",
+    "lat": 20.5946,
+    "lon": 106.2123,
+    "population": 16626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Minh Long",
+    "region": "Quảng Ngãi",
+    "lat": 14.9537,
+    "lon": 108.6772,
+    "population": 16626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lục Nam",
+    "region": "Bắc Giang",
+    "lat": 21.2755,
+    "lon": 106.4652,
+    "population": 16552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện An Phú",
+    "region": "An Giang",
+    "lat": 10.8427,
+    "lon": 105.0899,
+    "population": 16506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sơn Tây",
+    "region": "Hà Nội",
+    "lat": 21.1405,
+    "lon": 105.5069,
+    "population": 16194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phú Lộc",
+    "region": "Thừa Thiên-Huế",
+    "lat": 16.2707,
+    "lon": 107.8855,
+    "population": 15993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Than Uyên",
+    "region": "Lai Châu",
+    "lat": 21.9142,
+    "lon": 103.8286,
+    "population": 15922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Xã Mưòng Lay",
+    "region": "Điện Biên",
+    "lat": 22.0337,
+    "lon": 103.1233,
+    "population": 15719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cần Giờ",
+    "region": "Hồ Chí Minh",
+    "lat": 10.4111,
+    "lon": 106.9547,
+    "population": 15716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Nam Đông",
+    "region": "Thừa Thiên-Huế",
+    "lat": 16.124,
+    "lon": 107.6927,
+    "population": 15698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bến Cầu",
+    "region": "Tây Ninh",
+    "lat": 11.1289,
+    "lon": 106.143,
+    "population": 15614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Móng Cái",
+    "region": "Quảng Ninh",
+    "lat": 21.5247,
+    "lon": 107.9662,
+    "population": 15600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ðông Hà",
+    "region": "Quảng Trị",
+    "lat": 16.8163,
+    "lon": 107.1003,
+    "population": 15504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Hiệp",
+    "region": "Kiên Giang",
+    "lat": 10.0954,
+    "lon": 105.2594,
+    "population": 15453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trà Vinh",
+    "region": "Trà Vinh",
+    "lat": 9.9472,
+    "lon": 106.3423,
+    "population": 15419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mưòng Tè",
+    "region": "Lai Châu",
+    "lat": 22.3744,
+    "lon": 102.7383,
+    "population": 15297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Diễn Châu",
+    "region": "Nghệ An",
+    "lat": 18.9889,
+    "lon": 105.5763,
+    "population": 15263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kông Chro",
+    "region": "Gia Lai",
+    "lat": 13.7352,
+    "lon": 108.597,
+    "population": 15230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trà My",
+    "region": "Quảng Nam",
+    "lat": 15.25,
+    "lon": 108.0833,
+    "population": 15099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mường La",
+    "region": "Sơn La",
+    "lat": 21.5296,
+    "lon": 104.1111,
+    "population": 14930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Si Ma Cai",
+    "region": "Lào Cai",
+    "lat": 22.6716,
+    "lon": 104.2733,
+    "population": 14928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vĩnh Linh",
+    "region": "Quảng Trị",
+    "lat": 17.016,
+    "lon": 106.9338,
+    "population": 14811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Văn Bàn",
+    "region": "Lào Cai",
+    "lat": 22.07,
+    "lon": 104.1812,
+    "population": 14741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Mô",
+    "region": "Ninh Bình",
+    "lat": 20.1298,
+    "lon": 106.002,
+    "population": 14602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mai Sơn",
+    "region": "Sơn La",
+    "lat": 21.1588,
+    "lon": 104.0482,
+    "population": 14572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thành Phố Uông Bí",
+    "region": "Quảng Ninh",
+    "lat": 21.0343,
+    "lon": 106.7705,
+    "population": 14548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lệ Thủy",
+    "region": "Quảng Bình",
+    "lat": 17.1124,
+    "lon": 106.7047,
+    "population": 14288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nam Định",
+    "region": "Nam Định",
+    "lat": 20.4339,
+    "lon": 106.1773,
+    "population": 14121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hạ Long",
+    "region": "Quảng Ninh",
+    "lat": 20.9505,
+    "lon": 107.0734,
+    "population": 14037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Phù Mỹ",
+    "region": "Bình Định",
+    "lat": 14.223,
+    "lon": 109.0861,
+    "population": 14014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Chư Păh",
+    "region": "Gia Lai",
+    "lat": 14.1594,
+    "lon": 107.9841,
+    "population": 13850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Vạn Ninh",
+    "region": "Khánh Hòa",
+    "lat": 12.7234,
+    "lon": 109.2459,
+    "population": 13841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ân Thi",
+    "region": "Hưng Yên",
+    "lat": 20.8109,
+    "lon": 106.1,
+    "population": 13801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Mang Yang",
+    "region": "Gia Lai",
+    "lat": 13.9284,
+    "lon": 108.3025,
+    "population": 13676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Sơn Hà",
+    "region": "Quảng Ngãi",
+    "lat": 14.9843,
+    "lon": 108.5364,
+    "population": 13605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Hải Lăng",
+    "region": "Quảng Trị",
+    "lat": 16.6757,
+    "lon": 107.2339,
+    "population": 13492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bạch Thông",
+    "region": "Bắc Kạn",
+    "lat": 22.2576,
+    "lon": 105.8329,
+    "population": 13476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Đưc Trọng",
+    "region": "Lâm Đồng",
+    "lat": 11.7356,
+    "lon": 108.3733,
+    "population": 13273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sơn La",
+    "region": "Sơn La",
+    "lat": 21.3256,
+    "lon": 103.9188,
+    "population": 13195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đa Krông",
+    "region": "Quảng Trị",
+    "lat": 16.5554,
+    "lon": 106.9721,
+    "population": 13150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "region": "Bến Tre",
+    "lat": 10.2921,
+    "lon": 106.3083,
+    "population": 13079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thị Xã Bắc Kạn",
+    "region": "Bắc Kạn",
+    "lat": 22.1413,
+    "lon": 105.8387,
+    "population": 13023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Triệu Sơn",
+    "region": "Thanh Hóa",
+    "lat": 19.8258,
+    "lon": 105.5829,
+    "population": 12916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kiên Hải",
+    "region": "Kiên Giang",
+    "lat": 9.8397,
+    "lon": 104.6156,
+    "population": 12876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Quảng Ðiền",
+    "region": "Thừa Thiên-Huế",
+    "lat": 16.5794,
+    "lon": 107.4937,
+    "population": 12822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trực Ninh",
+    "region": "Nam Định",
+    "lat": 20.2569,
+    "lon": 106.2458,
+    "population": 12816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đình Lập",
+    "region": "Lạng Sơn",
+    "lat": 21.5421,
+    "lon": 107.1292,
+    "population": 12801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện An Biên",
+    "region": "Kiên Giang",
+    "lat": 9.8129,
+    "lon": 105.0523,
+    "population": 12344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kim Sơn",
+    "region": "Ninh Bình",
+    "lat": 20.0603,
+    "lon": 106.0986,
+    "population": 12122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lào Cai",
+    "region": "Lào Cai",
+    "lat": 22.4856,
+    "lon": 103.9707,
+    "population": 12082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "region": "Đồng Tháp",
+    "lat": 10.2254,
+    "lon": 105.8238,
+    "population": 12034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bảo Lac",
+    "region": "Cao Bằng",
+    "lat": 22.9008,
+    "lon": 105.7333,
+    "population": 12027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Trảng Bom",
+    "region": "Đồng Nai",
+    "lat": 10.9662,
+    "lon": 107.0361,
+    "population": 11938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cho Dok",
+    "region": "An Giang",
+    "lat": 10.7,
+    "lon": 105.1167,
+    "population": 11911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bỉm Sơn",
+    "region": "Thanh Hóa",
+    "lat": 20.0781,
+    "lon": 105.8603,
+    "population": 11833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tủa Chùa",
+    "region": "Điện Biên",
+    "lat": 21.9536,
+    "lon": 103.3733,
+    "population": 11723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Yên Châu",
+    "region": "Sơn La",
+    "lat": 21.005,
+    "lon": 104.3326,
+    "population": 11501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Ba Chẽ",
+    "region": "Quảng Ninh",
+    "lat": 21.295,
+    "lon": 107.193,
+    "population": 11417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tuy Phong",
+    "region": "Bình Thuận",
+    "lat": 11.3475,
+    "lon": 108.7047,
+    "population": 11317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Buôn Đôn",
+    "region": "Đắk Lắk",
+    "lat": 12.904,
+    "lon": 107.7387,
+    "population": 11310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dien Bien Phu",
+    "region": "Điện Biên",
+    "lat": 21.386,
+    "lon": 103.023,
+    "population": 11198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Càng Long",
+    "region": "Trà Vinh",
+    "lat": 9.9588,
+    "lon": 106.2139,
+    "population": 11144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Giồng Trôm",
+    "region": "Bến Tre",
+    "lat": 10.1591,
+    "lon": 106.47,
+    "population": 10824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Đông Sơn",
+    "region": "Thanh Hóa",
+    "lat": 19.7974,
+    "lon": 105.7246,
+    "population": 10718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Bảo Lâm",
+    "region": "Lâm Đồng",
+    "lat": 11.7116,
+    "lon": 107.7534,
+    "population": 10658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lương Sơn",
+    "region": "Hòa Bình",
+    "lat": 20.8765,
+    "lon": 105.5122,
+    "population": 10521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tân Thành",
+    "region": "Bà Rịa-Vũng Tàu",
+    "lat": 10.5738,
+    "lon": 107.1019,
+    "population": 10457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cao Bằng",
+    "region": "Cao Bằng",
+    "lat": 22.6657,
+    "lon": 106.2579,
+    "population": 10438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Điện Bàn",
+    "region": "Quảng Nam",
+    "lat": 15.8992,
+    "lon": 108.2247,
+    "population": 10415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Tiên Lữ",
+    "region": "Hưng Yên",
+    "lat": 20.6849,
+    "lon": 106.1251,
+    "population": 10412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Kim Bảng",
+    "region": "Hà Nam",
+    "lat": 20.5725,
+    "lon": 105.8504,
+    "population": 10351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Lấp Vò",
+    "region": "Đồng Tháp",
+    "lat": 10.3592,
+    "lon": 105.6061,
+    "population": 10079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huyện Núi Thành",
+    "region": "Quảng Nam",
+    "lat": 15.4335,
+    "lon": 108.5744,
+    "population": 10051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinh",
+    "region": "Nghệ An",
+    "lat": 18.6734,
+    "lon": 105.6923,
+    "population": 10021,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,1658 @@
+[
+  {
+    "name": "San Pedro de Macorís",
+    "region": "San Pedro de Macorís",
+    "lat": 18.4539,
+    "lon": -69.3086,
+    "population": 49775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cayetano Germosén",
+    "region": "Espaillat Province",
+    "lat": 19.3428,
+    "lon": -70.4757,
+    "population": 49580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamayo",
+    "region": "Baoruco Province",
+    "lat": 18.5,
+    "lon": -71.1667,
+    "population": 49494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Grande",
+    "region": "Puerto Plata Province",
+    "lat": 19.6667,
+    "lon": -70.7667,
+    "population": 49377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedra Blanca",
+    "region": "Monseñor Nouel Province",
+    "lat": 18.8443,
+    "lon": -70.3169,
+    "population": 49363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana Grande de Palenque",
+    "region": "San Cristóbal Province",
+    "lat": 18.2626,
+    "lon": -70.1482,
+    "population": 49157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matayaya",
+    "region": "San Juan Province",
+    "lat": 18.8904,
+    "lon": -71.5946,
+    "population": 48804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Adrián",
+    "region": "Monseñor Nouel Province",
+    "lat": 18.7636,
+    "lon": -70.3373,
+    "population": 48692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cana Chapetón",
+    "region": "Monte Cristi Province",
+    "lat": 19.607,
+    "lon": -71.2573,
+    "population": 48388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rincón",
+    "region": "La Vega Province",
+    "lat": 19.1194,
+    "lon": -70.4063,
+    "population": 48188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monción",
+    "region": "Santiago Rodríguez Province",
+    "lat": 19.4667,
+    "lon": -71.1667,
+    "population": 47720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Distrito Nacional",
+    "lat": 18.4719,
+    "lon": -69.8923,
+    "population": 47615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo Oeste",
+    "region": "Santo Domingo Province",
+    "lat": 18.5,
+    "lon": -70,
+    "population": 47555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Ocoa",
+    "region": "San José de Ocoa Province",
+    "lat": 18.5466,
+    "lon": -70.5063,
+    "population": 47265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maimón",
+    "region": "Monseñor Nouel Province",
+    "lat": 18.8833,
+    "lon": -70.3,
+    "population": 46933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenares",
+    "region": "Hermanas Mirabal Province",
+    "lat": 19.3744,
+    "lon": -70.3509,
+    "population": 46518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamao al Norte",
+    "region": "Espaillat Province",
+    "lat": 19.6355,
+    "lon": -70.4466,
+    "population": 46392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaspar Hernández",
+    "region": "Espaillat Province",
+    "lat": 19.6275,
+    "lon": -70.2777,
+    "population": 46279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oviedo",
+    "region": "Pedernales Province",
+    "lat": 17.8014,
+    "lon": -71.401,
+    "population": 46279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de la Maguana",
+    "region": "San Juan Province",
+    "lat": 18.8059,
+    "lon": -71.2299,
+    "population": 45671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majagual",
+    "region": "Monte Plata Province",
+    "lat": 19.0413,
+    "lon": -69.8362,
+    "population": 45536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Consuelo",
+    "region": "Distrito Nacional",
+    "lat": 18.4833,
+    "lon": -69.9,
+    "population": 45479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bajos de Haina",
+    "region": "San Cristóbal Province",
+    "lat": 18.4167,
+    "lon": -70.0333,
+    "population": 45289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estero Hondo",
+    "region": "Puerto Plata Province",
+    "lat": 19.8271,
+    "lon": -71.1741,
+    "population": 45087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan López Abajo",
+    "region": "Espaillat Province",
+    "lat": 19.4333,
+    "lon": -70.5,
+    "population": 44931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guananico",
+    "region": "Puerto Plata Province",
+    "lat": 19.7269,
+    "lon": -70.9229,
+    "population": 44647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Partido",
+    "region": "Dajabón Province",
+    "lat": 19.484,
+    "lon": -71.5473,
+    "population": 44307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tireo Arriba",
+    "region": "La Vega Province",
+    "lat": 18.9354,
+    "lon": -70.6885,
+    "population": 44266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bisonó",
+    "region": "Santiago Province",
+    "lat": 19.5833,
+    "lon": -70.8667,
+    "population": 44092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Charcas",
+    "region": "Azua Province",
+    "lat": 18.4503,
+    "lon": -70.6172,
+    "population": 43971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padre Las Casas",
+    "region": "Azua Province",
+    "lat": 18.75,
+    "lon": -70.8833,
+    "population": 43946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Guáranas",
+    "region": "Duarte Province",
+    "lat": 19.1931,
+    "lon": -70.2083,
+    "population": 43888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmar de Ocoa",
+    "region": "Azua Province",
+    "lat": 18.2966,
+    "lon": -70.5863,
+    "population": 43637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabarete",
+    "region": "Puerto Plata Province",
+    "lat": 19.7498,
+    "lon": -70.4083,
+    "population": 43604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villarpando",
+    "region": "Azua Province",
+    "lat": 18.6586,
+    "lon": -71.0392,
+    "population": 43570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cristóbal",
+    "region": "Independencia",
+    "lat": 18.294,
+    "lon": -71.293,
+    "population": 43520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Salada",
+    "region": "Valverde Province",
+    "lat": 19.7,
+    "lon": -71.1333,
+    "population": 43466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mella",
+    "region": "Independencia",
+    "lat": 18.3587,
+    "lon": -71.4172,
+    "population": 42533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amina",
+    "region": "Valverde Province",
+    "lat": 19.5481,
+    "lon": -70.996,
+    "population": 42498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Llanos",
+    "region": "San Pedro de Macorís",
+    "lat": 18.6203,
+    "lon": -69.4958,
+    "population": 42496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cambita Garabitos",
+    "region": "San Cristóbal Province",
+    "lat": 18.5,
+    "lon": -70.2333,
+    "population": 42026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sosúa",
+    "region": "Puerto Plata Province",
+    "lat": 19.7522,
+    "lon": -70.5199,
+    "population": 41911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedernales",
+    "region": "Pedernales Province",
+    "lat": 18.0833,
+    "lon": -71.6,
+    "population": 41405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Ríos",
+    "region": "Baoruco Province",
+    "lat": 18.5213,
+    "lon": -71.5911,
+    "population": 41295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana Grande de Boyá",
+    "region": "Monte Plata Province",
+    "lat": 18.945,
+    "lon": -69.7933,
+    "population": 41194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cercado Abajo",
+    "region": "San Juan Province",
+    "lat": 18.7268,
+    "lon": -71.5174,
+    "population": 41033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cevicos",
+    "region": "Sánchez Ramírez Province",
+    "lat": 19.0045,
+    "lon": -69.979,
+    "population": 40907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagua",
+    "region": "María Trinidad Sánchez Province",
+    "lat": 19.3832,
+    "lon": -69.8474,
+    "population": 40595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz de Barahona",
+    "region": "Barahona Province",
+    "lat": 18.2085,
+    "lon": -71.1008,
+    "population": 40220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Licey al Medio",
+    "region": "Santiago Province",
+    "lat": 19.45,
+    "lon": -70.6,
+    "population": 40120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Valle",
+    "region": "Hato Mayor Province",
+    "lat": 18.9333,
+    "lon": -69.3833,
+    "population": 39860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moca",
+    "region": "Espaillat Province",
+    "lat": 19.5,
+    "lon": -70.5,
+    "population": 39216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Matas de Santa Cruz",
+    "region": "Monte Cristi Province",
+    "lat": 19.6712,
+    "lon": -71.5047,
+    "population": 39185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bohechío",
+    "region": "San Juan Province",
+    "lat": 18.7752,
+    "lon": -70.9889,
+    "population": 38952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa González",
+    "region": "Santiago Province",
+    "lat": 19.5406,
+    "lon": -70.7885,
+    "population": 38512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hato Mayor del Rey",
+    "region": "Hato Mayor Province",
+    "lat": 18.7628,
+    "lon": -69.2568,
+    "population": 38244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sánchez",
+    "region": "Samaná Province",
+    "lat": 19.2281,
+    "lon": -69.6137,
+    "population": 38185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco de Macorís",
+    "region": "Duarte Province",
+    "lat": 19.301,
+    "lon": -70.2526,
+    "population": 38129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altamira",
+    "region": "Puerto Plata Province",
+    "lat": 19.7,
+    "lon": -70.8333,
+    "population": 37939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jima Abajo",
+    "region": "La Vega Province",
+    "lat": 19.1329,
+    "lon": -70.3761,
+    "population": 37871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Cristi",
+    "region": "Monte Cristi Province",
+    "lat": 19.8333,
+    "lon": -71.6167,
+    "population": 36797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guayabal",
+    "region": "Azua Province",
+    "lat": 18.7496,
+    "lon": -70.8369,
+    "population": 35745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallejuelo",
+    "region": "San Juan Province",
+    "lat": 18.6535,
+    "lon": -71.3343,
+    "population": 35724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Botados",
+    "region": "Monte Plata Province",
+    "lat": 18.7323,
+    "lon": -69.9954,
+    "population": 35417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Restauración",
+    "region": "Dajabón Province",
+    "lat": 19.3153,
+    "lon": -71.6924,
+    "population": 35351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Altagracia",
+    "region": "San Cristóbal Province",
+    "lat": 18.6333,
+    "lon": -70.25,
+    "population": 35267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Verde Arriba",
+    "region": "La Vega Province",
+    "lat": 19.3158,
+    "lon": -70.5664,
+    "population": 35030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fantino",
+    "region": "Sánchez Ramírez Province",
+    "lat": 19.1167,
+    "lon": -70.3,
+    "population": 34988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enriquillo",
+    "region": "Barahona Province",
+    "lat": 17.9167,
+    "lon": -71.25,
+    "population": 34791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Vásquez",
+    "region": "Monte Cristi Province",
+    "lat": 19.8079,
+    "lon": -71.44,
+    "population": 34754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Don Juan",
+    "region": "Monte Plata Province",
+    "lat": 18.8277,
+    "lon": -69.9463,
+    "population": 34537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio de Sabaneta",
+    "region": "Santiago Rodríguez Province",
+    "lat": 19.3833,
+    "lon": -71.35,
+    "population": 34322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polo",
+    "region": "Barahona Province",
+    "lat": 18.0787,
+    "lon": -71.2872,
+    "population": 34148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Entrada",
+    "region": "María Trinidad Sánchez Province",
+    "lat": 19.5537,
+    "lon": -69.9076,
+    "population": 33910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Francisca",
+    "region": "Distrito Nacional",
+    "lat": 18.4828,
+    "lon": -69.8891,
+    "population": 33435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nizao",
+    "region": "Peravia Province",
+    "lat": 18.247,
+    "lon": -70.2105,
+    "population": 33164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabaneta",
+    "region": "Santiago Rodríguez Province",
+    "lat": 19.4779,
+    "lon": -71.3413,
+    "population": 32985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonzalo",
+    "region": "Monte Plata Province",
+    "lat": 18.9515,
+    "lon": -69.7511,
+    "population": 32778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Elisa",
+    "region": "Monte Cristi Province",
+    "lat": 19.6856,
+    "lon": -71.2701,
+    "population": 32534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cachón",
+    "region": "Barahona Province",
+    "lat": 18.2483,
+    "lon": -71.1891,
+    "population": 32115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luperón",
+    "region": "Puerto Plata Province",
+    "lat": 19.8913,
+    "lon": -70.962,
+    "population": 31878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatapanal",
+    "region": "Valverde Province",
+    "lat": 19.507,
+    "lon": -70.9171,
+    "population": 31534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Agustina",
+    "region": "Distrito Nacional",
+    "lat": 18.5,
+    "lon": -69.9333,
+    "population": 31429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz de El Seibo",
+    "region": "El Seibo Province",
+    "lat": 18.7656,
+    "lon": -69.0389,
+    "population": 31427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaquimeyes",
+    "region": "Barahona Province",
+    "lat": 18.3117,
+    "lon": -71.1615,
+    "population": 31180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael del Yuma",
+    "region": "La Altagracia Province",
+    "lat": 18.4299,
+    "lon": -68.6739,
+    "population": 31178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatillo Palma",
+    "region": "Monte Cristi Province",
+    "lat": 19.6626,
+    "lon": -71.1941,
+    "population": 31145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Descubierta",
+    "region": "Independencia",
+    "lat": 18.5705,
+    "lon": -71.7297,
+    "population": 30914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Palmar",
+    "region": "Baoruco Province",
+    "lat": 18.4114,
+    "lon": -71.2456,
+    "population": 29805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Caya",
+    "region": "Valverde Province",
+    "lat": 19.6998,
+    "lon": -71.1208,
+    "population": 29533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Viejo",
+    "region": "Azua Province",
+    "lat": 18.4,
+    "lon": -70.7677,
+    "population": 29418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Higüey",
+    "region": "La Altagracia Province",
+    "lat": 18.7,
+    "lon": -68.6667,
+    "population": 28920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salsipuedes",
+    "region": "Hermanas Mirabal Province",
+    "lat": 19.4055,
+    "lon": -70.3799,
+    "population": 28429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samaná",
+    "region": "Samaná Province",
+    "lat": 19.2056,
+    "lon": -69.3368,
+    "population": 28367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Romana",
+    "region": "La Romana Province",
+    "lat": 18.4273,
+    "lon": -68.9728,
+    "population": 28366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Nueva",
+    "region": "Distrito Nacional",
+    "lat": 18.4671,
+    "lon": -69.8934,
+    "population": 28208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Llano",
+    "region": "Puerto Plata Province",
+    "lat": 19.7346,
+    "lon": -70.5991,
+    "population": 27829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana Yegua",
+    "region": "Azua Province",
+    "lat": 18.7167,
+    "lon": -71.0167,
+    "population": 27688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baitoa",
+    "region": "Santiago Province",
+    "lat": 19.3251,
+    "lon": -70.7036,
+    "population": 27549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmar Arriba",
+    "region": "Santiago Province",
+    "lat": 19.5396,
+    "lon": -70.7383,
+    "population": 27506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Bisonó",
+    "region": "Santiago Province",
+    "lat": 19.5638,
+    "lon": -70.8758,
+    "population": 27439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baní",
+    "region": "Peravia Province",
+    "lat": 18.2796,
+    "lon": -70.3319,
+    "population": 27274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estebanía",
+    "region": "Azua Province",
+    "lat": 18.4577,
+    "lon": -70.6435,
+    "population": 27226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana del Puerto",
+    "region": "Monseñor Nouel Province",
+    "lat": 19.0667,
+    "lon": -70.4167,
+    "population": 27123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción de La Vega",
+    "region": "La Vega Province",
+    "lat": 19.2221,
+    "lon": -70.5296,
+    "population": 26947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pepillo Salcedo",
+    "region": "Monte Cristi Province",
+    "lat": 19.6667,
+    "lon": -71.6667,
+    "population": 26916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quisqueya",
+    "region": "San Pedro de Macorís",
+    "lat": 18.5554,
+    "lon": -69.4081,
+    "population": 26808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dajabón",
+    "region": "Dajabón Province",
+    "lat": 19.5488,
+    "lon": -71.7083,
+    "population": 26722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jimaní",
+    "region": "Independencia",
+    "lat": 18.4917,
+    "lon": -71.8502,
+    "population": 26569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galván",
+    "region": "Baoruco Province",
+    "lat": 18.5023,
+    "lon": -71.3427,
+    "population": 26429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maizal",
+    "region": "Valverde Province",
+    "lat": 19.6365,
+    "lon": -71.0273,
+    "population": 26403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azua",
+    "region": "Azua Province",
+    "lat": 18.4532,
+    "lon": -70.7349,
+    "population": 25828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juncalito Abajo",
+    "region": "Santiago Province",
+    "lat": 19.2199,
+    "lon": -70.8191,
+    "population": 25726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cercado",
+    "region": "San Juan Province",
+    "lat": 18.7,
+    "lon": -71.4667,
+    "population": 25507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Víctor Arriba",
+    "region": "Espaillat Province",
+    "lat": 19.4774,
+    "lon": -70.5358,
+    "population": 25317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esperalvillo",
+    "region": "Monte Plata Province",
+    "lat": 18.8151,
+    "lon": -70.0356,
+    "population": 25144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salcedo",
+    "region": "Hermanas Mirabal Province",
+    "lat": 19.4167,
+    "lon": -70.3833,
+    "population": 25020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jicomé",
+    "region": "Valverde Province",
+    "lat": 19.6496,
+    "lon": -70.9493,
+    "population": 25005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan de Herrera",
+    "region": "San Juan Province",
+    "lat": 18.874,
+    "lon": -71.2383,
+    "population": 24824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paya",
+    "region": "Peravia Province",
+    "lat": 18.262,
+    "lon": -70.2956,
+    "population": 24582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Distrito Nacional",
+    "lat": 18.4833,
+    "lon": -69.9,
+    "population": 24328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramón Santana",
+    "region": "San Pedro de Macorís",
+    "lat": 18.5422,
+    "lon": -69.1798,
+    "population": 24296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ensanche Luperón",
+    "region": "Distrito Nacional",
+    "lat": 18.5,
+    "lon": -69.9,
+    "population": 24165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayabal",
+    "region": "Independencia",
+    "lat": 18.5981,
+    "lon": -71.6418,
+    "population": 24068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayubín",
+    "region": "Monte Cristi Province",
+    "lat": 19.6167,
+    "lon": -71.3333,
+    "population": 23955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cotuí",
+    "region": "Sánchez Ramírez Province",
+    "lat": 19.0527,
+    "lon": -70.1494,
+    "population": 23866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loma de Cabrera",
+    "region": "Dajabón Province",
+    "lat": 19.4167,
+    "lon": -71.5833,
+    "population": 23829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duvergé",
+    "region": "Independencia",
+    "lat": 18.3163,
+    "lon": -71.5945,
+    "population": 23680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Canela",
+    "region": "Santiago Province",
+    "lat": 19.4734,
+    "lon": -70.8163,
+    "population": 23353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Peñón",
+    "region": "Barahona Province",
+    "lat": 18.2964,
+    "lon": -71.1841,
+    "population": 23342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constanza",
+    "region": "La Vega Province",
+    "lat": 18.9092,
+    "lon": -70.745,
+    "population": 22742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Plata",
+    "region": "Puerto Plata Province",
+    "lat": 19.7512,
+    "lon": -70.7025,
+    "population": 22690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaibón",
+    "region": "Valverde Province",
+    "lat": 19.6117,
+    "lon": -71.1485,
+    "population": 22563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Julia",
+    "region": "Distrito Nacional",
+    "lat": 18.4667,
+    "lon": -69.9333,
+    "population": 22494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Terrenas",
+    "region": "Samaná Province",
+    "lat": 19.311,
+    "lon": -69.5428,
+    "population": 22211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joba Arriba",
+    "region": "Espaillat Province",
+    "lat": 19.5667,
+    "lon": -70.2667,
+    "population": 22040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro Corto",
+    "region": "San Juan Province",
+    "lat": 18.8486,
+    "lon": -71.4104,
+    "population": 22024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Gregorio de Nigua",
+    "region": "San Cristóbal Province",
+    "lat": 18.3833,
+    "lon": -70.0833,
+    "population": 21891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veragua Arriba",
+    "region": "Espaillat Province",
+    "lat": 19.5833,
+    "lon": -70.3333,
+    "population": 21813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castañuelas",
+    "region": "Monte Cristi Province",
+    "lat": 19.7139,
+    "lon": -71.4988,
+    "population": 21747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hostos",
+    "region": "Duarte Province",
+    "lat": 19.1804,
+    "lon": -70.0205,
+    "population": 21534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mao",
+    "region": "Valverde Province",
+    "lat": 19.5519,
+    "lon": -71.0781,
+    "population": 21508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro Sánchez",
+    "region": "El Seibo Province",
+    "lat": 18.8637,
+    "lon": -69.1087,
+    "population": 21403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Jaragua",
+    "region": "Baoruco Province",
+    "lat": 18.4908,
+    "lon": -71.4838,
+    "population": 21385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaymate",
+    "region": "La Romana Province",
+    "lat": 18.5879,
+    "lon": -68.9787,
+    "population": 21359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarabacoa",
+    "region": "La Vega Province",
+    "lat": 19.1168,
+    "lon": -70.6359,
+    "population": 21120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Riva",
+    "region": "Duarte Province",
+    "lat": 19.1505,
+    "lon": -69.8837,
+    "population": 20582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tábara Arriba",
+    "region": "Azua Province",
+    "lat": 18.57,
+    "lon": -70.8798,
+    "population": 20580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cacao",
+    "region": "San Cristóbal Province",
+    "lat": 18.5272,
+    "lon": -70.2959,
+    "population": 20497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabral",
+    "region": "Barahona Province",
+    "lat": 18.1999,
+    "lon": -71.2466,
+    "population": 20382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Santa del Yuna",
+    "region": "Duarte Province",
+    "lat": 19.1507,
+    "lon": -69.8007,
+    "population": 19167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Pino",
+    "region": "Dajabón Province",
+    "lat": 19.4354,
+    "lon": -71.4754,
+    "population": 18945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miches",
+    "region": "El Seibo Province",
+    "lat": 18.9836,
+    "lon": -69.0476,
+    "population": 18910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo Este",
+    "region": "Santo Domingo Province",
+    "lat": 18.4885,
+    "lon": -69.8571,
+    "population": 18877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonao",
+    "region": "Monseñor Nouel Province",
+    "lat": 18.9167,
+    "lon": -70.4667,
+    "population": 18400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otra Banda",
+    "region": "La Altagracia Province",
+    "lat": 18.6502,
+    "lon": -68.6628,
+    "population": 18392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana de la Mar",
+    "region": "Hato Mayor Province",
+    "lat": 19.0333,
+    "lon": -69.4167,
+    "population": 17964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de los Caballeros",
+    "region": "Santiago Province",
+    "lat": 19.4517,
+    "lon": -70.697,
+    "population": 17859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yamasá",
+    "region": "Monte Plata Province",
+    "lat": 18.7732,
+    "lon": -70.0258,
+    "population": 17808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca Chica",
+    "region": "Santo Domingo Province",
+    "lat": 18.45,
+    "lon": -69.6,
+    "population": 17582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canoa",
+    "region": "Barahona Province",
+    "lat": 18.355,
+    "lon": -71.1585,
+    "population": 17233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Plata",
+    "region": "Monte Plata Province",
+    "lat": 18.807,
+    "lon": -69.784,
+    "population": 17139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Uvilla",
+    "region": "Baoruco Province",
+    "lat": 18.3619,
+    "lon": -71.2105,
+    "population": 16708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomás de Jánico",
+    "region": "Santiago Province",
+    "lat": 19.2353,
+    "lon": -70.7952,
+    "population": 16437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Isabela",
+    "region": "Puerto Plata Province",
+    "lat": 19.8156,
+    "lon": -71.0606,
+    "population": 16432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bella Vista",
+    "region": "Distrito Nacional",
+    "lat": 18.4554,
+    "lon": -69.9454,
+    "population": 16396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana Buey",
+    "region": "Peravia Province",
+    "lat": 18.2735,
+    "lon": -70.5235,
+    "population": 15949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imbert",
+    "region": "Puerto Plata Province",
+    "lat": 19.7537,
+    "lon": -70.8291,
+    "population": 15781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabrera",
+    "region": "María Trinidad Sánchez Province",
+    "lat": 19.6426,
+    "lon": -69.9049,
+    "population": 15686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cristo Rey",
+    "region": "Distrito Nacional",
+    "lat": 18.5,
+    "lon": -69.9333,
+    "population": 15411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Tapia",
+    "region": "Hermanas Mirabal Province",
+    "lat": 19.3008,
+    "lon": -70.422,
+    "population": 15159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fundación",
+    "region": "Barahona Province",
+    "lat": 18.2867,
+    "lon": -71.1815,
+    "population": 15000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal",
+    "region": "San Cristóbal Province",
+    "lat": 18.4167,
+    "lon": -70.1333,
+    "population": 14893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Salinas",
+    "region": "Barahona Province",
+    "lat": 18.2749,
+    "lon": -71.316,
+    "population": 14632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río San Juan",
+    "region": "María Trinidad Sánchez Province",
+    "lat": 19.5502,
+    "lon": -70.077,
+    "population": 14571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arenoso",
+    "region": "Duarte Province",
+    "lat": 19.1873,
+    "lon": -69.8592,
+    "population": 14307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Factor",
+    "region": "María Trinidad Sánchez Province",
+    "lat": 19.3183,
+    "lon": -69.8883,
+    "population": 14150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraíso",
+    "region": "Barahona Province",
+    "lat": 18.0265,
+    "lon": -71.2089,
+    "population": 14031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esperanza",
+    "region": "Valverde Province",
+    "lat": 19.6238,
+    "lon": -70.9714,
+    "population": 13985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Hidalgos",
+    "region": "Puerto Plata Province",
+    "lat": 19.7333,
+    "lon": -71.0333,
+    "population": 13975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Las Matas",
+    "region": "Santiago Province",
+    "lat": 19.3392,
+    "lon": -70.9382,
+    "population": 13839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca de Yuma",
+    "region": "La Altagracia Province",
+    "lat": 18.3783,
+    "lon": -68.609,
+    "population": 13660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ciénaga",
+    "region": "Barahona Province",
+    "lat": 18.0686,
+    "lon": -71.1065,
+    "population": 13525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro García",
+    "region": "Santiago Province",
+    "lat": 19.592,
+    "lon": -70.6526,
+    "population": 13405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Matas de Farfán",
+    "region": "San Juan Province",
+    "lat": 18.9167,
+    "lon": -71.5,
+    "population": 12853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Cana",
+    "region": "La Altagracia Province",
+    "lat": 18.5818,
+    "lon": -68.4043,
+    "population": 12660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pimentel",
+    "region": "Duarte Province",
+    "lat": 19.2167,
+    "lon": -70.1667,
+    "population": 12554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Postrer Río",
+    "region": "Independencia",
+    "lat": 18.5437,
+    "lon": -71.6356,
+    "population": 12358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pizarrete",
+    "region": "Peravia Province",
+    "lat": 18.2994,
+    "lon": -70.2265,
+    "population": 12290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayabo Dulce",
+    "region": "Hato Mayor Province",
+    "lat": 18.65,
+    "lon": -69.2833,
+    "population": 12275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana Iglesia",
+    "region": "Santiago Province",
+    "lat": 19.3211,
+    "lon": -70.7599,
+    "population": 11906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castillo",
+    "region": "Duarte Province",
+    "lat": 19.25,
+    "lon": -70,
+    "population": 11688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peralta",
+    "region": "Azua Province",
+    "lat": 18.5816,
+    "lon": -70.7703,
+    "population": 11678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fernando de Monte Cristi",
+    "region": "Monte Cristi Province",
+    "lat": 19.8483,
+    "lon": -71.646,
+    "population": 11639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyo Salado",
+    "region": "María Trinidad Sánchez Province",
+    "lat": 19.5,
+    "lon": -69.9,
+    "population": 11611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pescadería",
+    "region": "Barahona Province",
+    "lat": 18.2677,
+    "lon": -71.1661,
+    "population": 11526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vicente Noble",
+    "region": "Barahona Province",
+    "lat": 18.3844,
+    "lon": -71.1801,
+    "population": 11304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salvaleón de Higüey",
+    "region": "La Altagracia Province",
+    "lat": 18.615,
+    "lon": -68.708,
+    "population": 11027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayaguana",
+    "region": "Monte Plata Province",
+    "lat": 18.7833,
+    "lon": -69.6,
+    "population": 10888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matanzas",
+    "region": "Peravia Province",
+    "lat": 18.243,
+    "lon": -70.4177,
+    "population": 10827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carril",
+    "region": "San Cristóbal Province",
+    "lat": 18.449,
+    "lon": -70.0279,
+    "population": 10805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yayas de Viajama",
+    "region": "Azua Province",
+    "lat": 18.6071,
+    "lon": -70.9275,
+    "population": 10684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Puerto",
+    "region": "San Pedro de Macorís",
+    "lat": 18.7833,
+    "lon": -69.4667,
+    "population": 10574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamboril",
+    "region": "Santiago Province",
+    "lat": 19.4854,
+    "lon": -70.611,
+    "population": 10450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaguate",
+    "region": "San Cristóbal Province",
+    "lat": 18.3333,
+    "lon": -70.1833,
+    "population": 10194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juancho",
+    "region": "Pedernales Province",
+    "lat": 17.8578,
+    "lon": -71.2931,
+    "population": 10055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neiba",
+    "region": "Baoruco Province",
+    "lat": 18.4814,
+    "lon": -71.4197,
+    "population": 10054,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,4402 @@
+[
+  {
+    "name": "Gingelom",
+    "region": "Flanders",
+    "lat": 50.7479,
+    "lon": 5.1342,
+    "population": 49985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Kruis",
+    "region": "Flanders",
+    "lat": 51.214,
+    "lon": 3.2495,
+    "population": 49904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ostend",
+    "region": "Flanders",
+    "lat": 51.2155,
+    "lon": 2.927,
+    "population": 49859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waremme",
+    "region": "Wallonia",
+    "lat": 50.6976,
+    "lon": 5.2552,
+    "population": 49742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houthalen",
+    "region": "Flanders",
+    "lat": 51.0343,
+    "lon": 5.3743,
+    "population": 49731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sprimont",
+    "region": "Wallonia",
+    "lat": 50.5092,
+    "lon": 5.6595,
+    "population": 49648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malmédy",
+    "region": "Wallonia",
+    "lat": 50.4269,
+    "lon": 6.0279,
+    "population": 49561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walhain-Saint-Paul",
+    "region": "Wallonia",
+    "lat": 50.6263,
+    "lon": 4.6984,
+    "population": 49528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As",
+    "region": "Flanders",
+    "lat": 51.0076,
+    "lon": 5.5845,
+    "population": 49456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somme-Leuze",
+    "region": "Wallonia",
+    "lat": 50.337,
+    "lon": 5.367,
+    "population": 49058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esneux",
+    "region": "Wallonia",
+    "lat": 50.536,
+    "lon": 5.5678,
+    "population": 48783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hotton",
+    "region": "Wallonia",
+    "lat": 50.2674,
+    "lon": 5.4461,
+    "population": 48730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mortsel",
+    "region": "Flanders",
+    "lat": 51.167,
+    "lon": 4.4513,
+    "population": 48698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zele",
+    "region": "Flanders",
+    "lat": 51.0657,
+    "lon": 4.0403,
+    "population": 48455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wasseiges",
+    "region": "Wallonia",
+    "lat": 50.6219,
+    "lon": 5.0053,
+    "population": 48437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drogenbos",
+    "region": "Flanders",
+    "lat": 50.7873,
+    "lon": 4.3147,
+    "population": 48427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modave",
+    "region": "Wallonia",
+    "lat": 50.4461,
+    "lon": 5.2953,
+    "population": 48227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merbes-le-Château",
+    "region": "Wallonia",
+    "lat": 50.3245,
+    "lon": 4.1649,
+    "population": 48220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongeren",
+    "region": "Flanders",
+    "lat": 50.7805,
+    "lon": 5.4648,
+    "population": 48170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huy",
+    "region": "Wallonia",
+    "lat": 50.5189,
+    "lon": 5.2328,
+    "population": 48090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liège",
+    "region": "Wallonia",
+    "lat": 50.6337,
+    "lon": 5.5675,
+    "population": 48070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noville-les-Bois",
+    "region": "Wallonia",
+    "lat": 50.557,
+    "lon": 4.9847,
+    "population": 48006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tielt",
+    "region": "Flanders",
+    "lat": 50.9993,
+    "lon": 3.3271,
+    "population": 47977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zomergem",
+    "region": "Flanders",
+    "lat": 51.1199,
+    "lon": 3.565,
+    "population": 47970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lier",
+    "region": "Flanders",
+    "lat": 51.1313,
+    "lon": 4.5704,
+    "population": 47953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comblain-au-Pont",
+    "region": "Wallonia",
+    "lat": 50.4749,
+    "lon": 5.5771,
+    "population": 47765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flémalle-Haute",
+    "region": "Wallonia",
+    "lat": 50.5999,
+    "lon": 5.4447,
+    "population": 47716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hooglede",
+    "region": "Flanders",
+    "lat": 50.9833,
+    "lon": 3.0833,
+    "population": 47612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musson",
+    "region": "Wallonia",
+    "lat": 49.5583,
+    "lon": 5.7053,
+    "population": 47611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonheiden",
+    "region": "Flanders",
+    "lat": 51.0226,
+    "lon": 4.5471,
+    "population": 47600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruiselede",
+    "region": "Flanders",
+    "lat": 51.0404,
+    "lon": 3.3942,
+    "population": 47560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wommelgem",
+    "region": "Flanders",
+    "lat": 51.2045,
+    "lon": 4.5225,
+    "population": 47542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blégny",
+    "region": "Wallonia",
+    "lat": 50.6726,
+    "lon": 5.7251,
+    "population": 47537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Louvière",
+    "region": "Wallonia",
+    "lat": 50.4866,
+    "lon": 4.1879,
+    "population": 47514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tessenderlo",
+    "region": "Flanders",
+    "lat": 51.0651,
+    "lon": 5.0886,
+    "population": 47441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machelen",
+    "region": "Flanders",
+    "lat": 50.9106,
+    "lon": 4.4417,
+    "population": 47407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ternat",
+    "region": "Flanders",
+    "lat": 50.8665,
+    "lon": 4.1668,
+    "population": 47353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waasmunster",
+    "region": "Flanders",
+    "lat": 51.1057,
+    "lon": 4.0857,
+    "population": 47328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Floreffe",
+    "region": "Wallonia",
+    "lat": 50.4345,
+    "lon": 4.7596,
+    "population": 47302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumst",
+    "region": "Flanders",
+    "lat": 51.0815,
+    "lon": 4.4222,
+    "population": 47257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herzele",
+    "region": "Flanders",
+    "lat": 50.8868,
+    "lon": 3.8901,
+    "population": 47152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lincent",
+    "region": "Wallonia",
+    "lat": 50.7122,
+    "lon": 5.0365,
+    "population": 47139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zwevegem",
+    "region": "Flanders",
+    "lat": 50.8127,
+    "lon": 3.3385,
+    "population": 47126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deurne",
+    "region": "Flanders",
+    "lat": 51.2213,
+    "lon": 4.466,
+    "population": 46945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heusden",
+    "region": "Flanders",
+    "lat": 51.0366,
+    "lon": 5.2801,
+    "population": 46914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lens",
+    "region": "Wallonia",
+    "lat": 50.557,
+    "lon": 3.8995,
+    "population": 46802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Overpelt",
+    "region": "Flanders",
+    "lat": 51.2104,
+    "lon": 5.4156,
+    "population": 46778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assenede",
+    "region": "Flanders",
+    "lat": 51.226,
+    "lon": 3.7508,
+    "population": 46599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geel",
+    "region": "Flanders",
+    "lat": 51.1656,
+    "lon": 4.9892,
+    "population": 46405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meise",
+    "region": "Flanders",
+    "lat": 50.9393,
+    "lon": 4.3266,
+    "population": 46377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Héron",
+    "region": "Wallonia",
+    "lat": 50.5473,
+    "lon": 5.0977,
+    "population": 46357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grez-Doiceau",
+    "region": "Wallonia",
+    "lat": 50.739,
+    "lon": 4.6983,
+    "population": 46280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neerpelt",
+    "region": "Flanders",
+    "lat": 51.2281,
+    "lon": 5.4427,
+    "population": 46260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lummen",
+    "region": "Flanders",
+    "lat": 50.9877,
+    "lon": 5.1912,
+    "population": 46236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oud-Heverlee",
+    "region": "Flanders",
+    "lat": 50.8352,
+    "lon": 4.6642,
+    "population": 46039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavelot",
+    "region": "Wallonia",
+    "lat": 50.395,
+    "lon": 5.9312,
+    "population": 45810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilvoorde",
+    "region": "Flanders",
+    "lat": 50.9281,
+    "lon": 4.4294,
+    "population": 45767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daverdisse",
+    "region": "Wallonia",
+    "lat": 50.0216,
+    "lon": 5.1181,
+    "population": 45685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nijlen",
+    "region": "Flanders",
+    "lat": 51.161,
+    "lon": 4.6701,
+    "population": 45628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boechout",
+    "region": "Flanders",
+    "lat": 51.1596,
+    "lon": 4.492,
+    "population": 45518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalhem",
+    "region": "Wallonia",
+    "lat": 50.7131,
+    "lon": 5.7277,
+    "population": 45480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spa",
+    "region": "Wallonia",
+    "lat": 50.4838,
+    "lon": 5.8667,
+    "population": 45421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anhée",
+    "region": "Wallonia",
+    "lat": 50.3104,
+    "lon": 4.8783,
+    "population": 45354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heist-op-den-Berg",
+    "region": "Flanders",
+    "lat": 51.0754,
+    "lon": 4.7283,
+    "population": 45219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fauvillers",
+    "region": "Wallonia",
+    "lat": 49.8512,
+    "lon": 5.664,
+    "population": 45062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manhay",
+    "region": "Wallonia",
+    "lat": 50.2922,
+    "lon": 5.6756,
+    "population": 45045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ardooie",
+    "region": "Flanders",
+    "lat": 50.9757,
+    "lon": 3.1974,
+    "population": 45034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kortemark",
+    "region": "Flanders",
+    "lat": 51.0295,
+    "lon": 3.0411,
+    "population": 45025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fexhe-le-Haut-Clocher",
+    "region": "Wallonia",
+    "lat": 50.6654,
+    "lon": 5.3998,
+    "population": 44987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zeebrugge",
+    "region": "Flanders",
+    "lat": 51.329,
+    "lon": 3.1819,
+    "population": 44961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herne",
+    "region": "Flanders",
+    "lat": 50.7242,
+    "lon": 4.0348,
+    "population": 44942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opglabbeek",
+    "region": "Flanders",
+    "lat": 51.0426,
+    "lon": 5.5835,
+    "population": 44940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merksplas",
+    "region": "Flanders",
+    "lat": 51.3585,
+    "lon": 4.8651,
+    "population": 44855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edegem",
+    "region": "Flanders",
+    "lat": 51.1566,
+    "lon": 4.445,
+    "population": 44810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geraardsbergen",
+    "region": "Flanders",
+    "lat": 50.7734,
+    "lon": 3.8822,
+    "population": 44774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linkebeek",
+    "region": "Flanders",
+    "lat": 50.7678,
+    "lon": 4.3369,
+    "population": 44703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oostmalle",
+    "region": "Flanders",
+    "lat": 51.3,
+    "lon": 4.7333,
+    "population": 44549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mons",
+    "region": "Wallonia",
+    "lat": 50.4541,
+    "lon": 3.9523,
+    "population": 44416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ieper",
+    "region": "Flanders",
+    "lat": 50.8511,
+    "lon": 2.8857,
+    "population": 44390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Genk",
+    "region": "Flanders",
+    "lat": 50.965,
+    "lon": 5.5008,
+    "population": 44351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Westerlo",
+    "region": "Flanders",
+    "lat": 51.0905,
+    "lon": 4.9154,
+    "population": 44340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Maria-Lierde",
+    "region": "Flanders",
+    "lat": 50.8187,
+    "lon": 3.8444,
+    "population": 44322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sainte-Ode",
+    "region": "Wallonia",
+    "lat": 50.0172,
+    "lon": 5.5193,
+    "population": 44289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ath",
+    "region": "Wallonia",
+    "lat": 50.6294,
+    "lon": 3.778,
+    "population": 44215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brasschaat",
+    "region": "Flanders",
+    "lat": 51.2912,
+    "lon": 4.4918,
+    "population": 44212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grimbergen",
+    "region": "Flanders",
+    "lat": 50.9341,
+    "lon": 4.3721,
+    "population": 44133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Couvin",
+    "region": "Wallonia",
+    "lat": 50.0528,
+    "lon": 4.495,
+    "population": 44003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gerpinnes",
+    "region": "Wallonia",
+    "lat": 50.3379,
+    "lon": 4.5273,
+    "population": 43868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinrooi",
+    "region": "Flanders",
+    "lat": 51.1454,
+    "lon": 5.7421,
+    "population": 43763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zoutleeuw",
+    "region": "Flanders",
+    "lat": 50.8332,
+    "lon": 5.1038,
+    "population": 43681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Luxembourg",
+    "region": "Wallonia",
+    "lat": 50,
+    "lon": 5.5,
+    "population": 43647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chastre-Villeroux-Blanmont",
+    "region": "Wallonia",
+    "lat": 50.6086,
+    "lon": 4.642,
+    "population": 43636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wichelen",
+    "region": "Flanders",
+    "lat": 51.0053,
+    "lon": 3.9768,
+    "population": 43405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ronse",
+    "region": "Flanders",
+    "lat": 50.7457,
+    "lon": 3.6005,
+    "population": 43347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diegem",
+    "region": "Flanders",
+    "lat": 50.8973,
+    "lon": 4.4335,
+    "population": 43335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remicourt",
+    "region": "Wallonia",
+    "lat": 50.6807,
+    "lon": 5.3278,
+    "population": 43322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lede",
+    "region": "Flanders",
+    "lat": 50.9663,
+    "lon": 3.9859,
+    "population": 43262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brecht",
+    "region": "Flanders",
+    "lat": 51.3502,
+    "lon": 4.6383,
+    "population": 43133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arlon",
+    "region": "Wallonia",
+    "lat": 49.6833,
+    "lon": 5.8167,
+    "population": 43066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciney",
+    "region": "Wallonia",
+    "lat": 50.2945,
+    "lon": 5.1002,
+    "population": 43012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meix-devant-Virton",
+    "region": "Wallonia",
+    "lat": 49.6058,
+    "lon": 5.4805,
+    "population": 43000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tournai",
+    "region": "Wallonia",
+    "lat": 50.6071,
+    "lon": 3.3893,
+    "population": 42901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lontzen",
+    "region": "Wallonia",
+    "lat": 50.6813,
+    "lon": 6.0071,
+    "population": 42775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterloo",
+    "region": "Wallonia",
+    "lat": 50.7147,
+    "lon": 4.3991,
+    "population": 42702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vorselaar",
+    "region": "Flanders",
+    "lat": 51.2024,
+    "lon": 4.7726,
+    "population": 42583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rochefort",
+    "region": "Wallonia",
+    "lat": 50.1631,
+    "lon": 5.2216,
+    "population": 42543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rouvroy",
+    "region": "Wallonia",
+    "lat": 49.5377,
+    "lon": 5.4903,
+    "population": 42452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fléron",
+    "region": "Wallonia",
+    "lat": 50.6152,
+    "lon": 5.6806,
+    "population": 42405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bertem",
+    "region": "Flanders",
+    "lat": 50.864,
+    "lon": 4.6292,
+    "population": 42313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herselt",
+    "region": "Flanders",
+    "lat": 51.0516,
+    "lon": 4.8823,
+    "population": 42245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kontich",
+    "region": "Flanders",
+    "lat": 51.1321,
+    "lon": 4.4471,
+    "population": 42059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Éghezée",
+    "region": "Wallonia",
+    "lat": 50.5908,
+    "lon": 4.9117,
+    "population": 41939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dilbeek",
+    "region": "Flanders",
+    "lat": 50.848,
+    "lon": 4.2597,
+    "population": 41928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perre",
+    "region": "Flanders",
+    "lat": 50.8891,
+    "lon": 3.861,
+    "population": 41895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "De Panne",
+    "region": "Flanders",
+    "lat": 51.0979,
+    "lon": 2.5937,
+    "population": 41837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diepenbeek",
+    "region": "Flanders",
+    "lat": 50.9077,
+    "lon": 5.4188,
+    "population": 41827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frameries",
+    "region": "Wallonia",
+    "lat": 50.4058,
+    "lon": 3.896,
+    "population": 41683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duffel",
+    "region": "Flanders",
+    "lat": 51.0955,
+    "lon": 4.509,
+    "population": 41574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braine-l'Alleud",
+    "region": "Wallonia",
+    "lat": 50.6836,
+    "lon": 4.3678,
+    "population": 41479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beersel",
+    "region": "Flanders",
+    "lat": 50.7659,
+    "lon": 4.3002,
+    "population": 41365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koksijde",
+    "region": "Flanders",
+    "lat": 51.1164,
+    "lon": 2.6377,
+    "population": 41324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Écaussinnes-d’Enghien",
+    "region": "Wallonia",
+    "lat": 50.5682,
+    "lon": 4.1658,
+    "population": 41204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mol",
+    "region": "Flanders",
+    "lat": 51.1919,
+    "lon": 5.1166,
+    "population": 40893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gent",
+    "region": "Flanders",
+    "lat": 51.05,
+    "lon": 3.7167,
+    "population": 40740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kortenaken",
+    "region": "Flanders",
+    "lat": 50.9086,
+    "lon": 5.0597,
+    "population": 40586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deinze",
+    "region": "Flanders",
+    "lat": 50.9817,
+    "lon": 3.531,
+    "population": 40512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaumont-Gistoux",
+    "region": "Wallonia",
+    "lat": 50.6775,
+    "lon": 4.7212,
+    "population": 40493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berloz",
+    "region": "Wallonia",
+    "lat": 50.6983,
+    "lon": 5.2124,
+    "population": 40246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Martens-Lennik",
+    "region": "Flanders",
+    "lat": 50.8116,
+    "lon": 4.1696,
+    "population": 40243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baarle-Hertog",
+    "region": "Flanders",
+    "lat": 51.405,
+    "lon": 4.8923,
+    "population": 40109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lendelede",
+    "region": "Flanders",
+    "lat": 50.8863,
+    "lon": 3.2375,
+    "population": 40090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buggenhout",
+    "region": "Flanders",
+    "lat": 51.0159,
+    "lon": 4.2017,
+    "population": 39817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lochristi",
+    "region": "Flanders",
+    "lat": 51.0964,
+    "lon": 3.8319,
+    "population": 39792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jabbeke",
+    "region": "Flanders",
+    "lat": 51.1818,
+    "lon": 3.0894,
+    "population": 39704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wachtebeke",
+    "region": "Flanders",
+    "lat": 51.1685,
+    "lon": 3.8718,
+    "population": 39604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halle",
+    "region": "Flanders",
+    "lat": 50.7338,
+    "lon": 4.2345,
+    "population": 39518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tellin",
+    "region": "Wallonia",
+    "lat": 50.0804,
+    "lon": 5.2164,
+    "population": 39518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andenne",
+    "region": "Wallonia",
+    "lat": 50.4894,
+    "lon": 5.0951,
+    "population": 39513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanaken",
+    "region": "Flanders",
+    "lat": 50.8932,
+    "lon": 5.6468,
+    "population": 39452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Momignies",
+    "region": "Wallonia",
+    "lat": 50.0271,
+    "lon": 4.1652,
+    "population": 39445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kortenberg",
+    "region": "Flanders",
+    "lat": 50.8898,
+    "lon": 4.5435,
+    "population": 39424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houthulst",
+    "region": "Flanders",
+    "lat": 50.9782,
+    "lon": 2.9505,
+    "population": 39341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zoersel",
+    "region": "Flanders",
+    "lat": 51.2683,
+    "lon": 4.713,
+    "population": 39290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aalter",
+    "region": "Flanders",
+    "lat": 51.0902,
+    "lon": 3.4469,
+    "population": 39210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zuienkerke",
+    "region": "Flanders",
+    "lat": 51.2651,
+    "lon": 3.1551,
+    "population": 39198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herbeumont",
+    "region": "Wallonia",
+    "lat": 49.7809,
+    "lon": 5.2358,
+    "population": 39146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paliseul",
+    "region": "Wallonia",
+    "lat": 49.904,
+    "lon": 5.1354,
+    "population": 39146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pecq",
+    "region": "Wallonia",
+    "lat": 50.6862,
+    "lon": 3.3379,
+    "population": 39105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oudenburg",
+    "region": "Flanders",
+    "lat": 51.1849,
+    "lon": 3.0004,
+    "population": 39104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hannut",
+    "region": "Wallonia",
+    "lat": 50.6714,
+    "lon": 5.079,
+    "population": 39026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putte",
+    "region": "Flanders",
+    "lat": 51.0534,
+    "lon": 4.6326,
+    "population": 38969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schilde",
+    "region": "Flanders",
+    "lat": 51.2411,
+    "lon": 4.5834,
+    "population": 38884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaux-sur-Sûre",
+    "region": "Wallonia",
+    "lat": 49.911,
+    "lon": 5.5785,
+    "population": 38827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wervik",
+    "region": "Flanders",
+    "lat": 50.7807,
+    "lon": 3.0385,
+    "population": 38745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bredene",
+    "region": "Flanders",
+    "lat": 51.2349,
+    "lon": 2.9756,
+    "population": 38653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blankenberge",
+    "region": "Flanders",
+    "lat": 51.3131,
+    "lon": 3.1323,
+    "population": 38630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herk-de-Stad",
+    "region": "Flanders",
+    "lat": 50.9401,
+    "lon": 5.1664,
+    "population": 38597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zonnebeke",
+    "region": "Flanders",
+    "lat": 50.8726,
+    "lon": 2.9872,
+    "population": 38222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geer",
+    "region": "Wallonia",
+    "lat": 50.6699,
+    "lon": 5.1736,
+    "population": 37995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donceel",
+    "region": "Wallonia",
+    "lat": 50.6483,
+    "lon": 5.32,
+    "population": 37990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalhay",
+    "region": "Wallonia",
+    "lat": 50.5588,
+    "lon": 5.9676,
+    "population": 37972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villers-le-Bouillet",
+    "region": "Wallonia",
+    "lat": 50.5771,
+    "lon": 5.2595,
+    "population": 37933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "De Pinte",
+    "region": "Flanders",
+    "lat": 50.9934,
+    "lon": 3.6475,
+    "population": 37789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brussels",
+    "region": "Brussels-Capital Region",
+    "lat": 50.8505,
+    "lon": 4.3488,
+    "population": 37749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waarschoot",
+    "region": "Flanders",
+    "lat": 51.1525,
+    "lon": 3.605,
+    "population": 37695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trois-Ponts",
+    "region": "Wallonia",
+    "lat": 50.3713,
+    "lon": 5.8715,
+    "population": 37551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beernem",
+    "region": "Flanders",
+    "lat": 51.1398,
+    "lon": 3.339,
+    "population": 37508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stabroek",
+    "region": "Flanders",
+    "lat": 51.3319,
+    "lon": 4.3713,
+    "population": 37471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pittem",
+    "region": "Flanders",
+    "lat": 50.9928,
+    "lon": 3.2632,
+    "population": 37460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borsbeek",
+    "region": "Flanders",
+    "lat": 51.1966,
+    "lon": 4.4854,
+    "population": 37427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bierbeek",
+    "region": "Flanders",
+    "lat": 50.8288,
+    "lon": 4.7595,
+    "population": 37401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crisnée",
+    "region": "Wallonia",
+    "lat": 50.717,
+    "lon": 5.398,
+    "population": 37401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amblève",
+    "region": "Wallonia",
+    "lat": 50.3536,
+    "lon": 6.17,
+    "population": 37068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ichtegem",
+    "region": "Flanders",
+    "lat": 51.0957,
+    "lon": 3.0155,
+    "population": 36849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estaimpuis",
+    "region": "Wallonia",
+    "lat": 50.7049,
+    "lon": 3.2679,
+    "population": 36759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamois",
+    "region": "Wallonia",
+    "lat": 50.3402,
+    "lon": 5.1562,
+    "population": 36488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravels",
+    "region": "Flanders",
+    "lat": 51.3727,
+    "lon": 4.9921,
+    "population": 36172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Froidchapelle",
+    "region": "Wallonia",
+    "lat": 50.1511,
+    "lon": 4.3274,
+    "population": 36146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eeklo",
+    "region": "Flanders",
+    "lat": 51.187,
+    "lon": 3.5565,
+    "population": 36080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braine-le-Château",
+    "region": "Wallonia",
+    "lat": 50.6799,
+    "lon": 4.2739,
+    "population": 36004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Pieters-Voeren",
+    "region": "Flanders",
+    "lat": 50.7386,
+    "lon": 5.8222,
+    "population": 35954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lobbes",
+    "region": "Wallonia",
+    "lat": 50.3526,
+    "lon": 4.2672,
+    "population": 35918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nassogne",
+    "region": "Wallonia",
+    "lat": 50.1285,
+    "lon": 5.3427,
+    "population": 35897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aiseau",
+    "region": "Wallonia",
+    "lat": 50.4116,
+    "lon": 4.5867,
+    "population": 35784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de Liège",
+    "region": "Wallonia",
+    "lat": 50.6343,
+    "lon": 5.5654,
+    "population": 35761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izegem",
+    "region": "Flanders",
+    "lat": 50.914,
+    "lon": 3.2138,
+    "population": 35759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niel",
+    "region": "Flanders",
+    "lat": 51.111,
+    "lon": 4.3343,
+    "population": 35603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Staden",
+    "region": "Flanders",
+    "lat": 50.9746,
+    "lon": 3.0147,
+    "population": 35528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zutendaal",
+    "region": "Flanders",
+    "lat": 50.9331,
+    "lon": 5.5753,
+    "population": 35499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zwijndrecht",
+    "region": "Flanders",
+    "lat": 51.2198,
+    "lon": 4.3266,
+    "population": 35396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Begijnendijk",
+    "region": "Flanders",
+    "lat": 51.0194,
+    "lon": 4.7838,
+    "population": 35343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nieuwerkerken",
+    "region": "Flanders",
+    "lat": 50.8638,
+    "lon": 5.1947,
+    "population": 35316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouillon",
+    "region": "Wallonia",
+    "lat": 49.7932,
+    "lon": 5.067,
+    "population": 35267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoeilaart",
+    "region": "Flanders",
+    "lat": 50.7673,
+    "lon": 4.4684,
+    "population": 35184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hensies",
+    "region": "Wallonia",
+    "lat": 50.4326,
+    "lon": 3.6841,
+    "population": 35183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geetbets",
+    "region": "Flanders",
+    "lat": 50.8943,
+    "lon": 5.112,
+    "population": 35157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenduine",
+    "region": "Flanders",
+    "lat": 51.2983,
+    "lon": 3.0821,
+    "population": 35130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruishoutem",
+    "region": "Flanders",
+    "lat": 50.9017,
+    "lon": 3.5259,
+    "population": 35021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boutersem",
+    "region": "Flanders",
+    "lat": 50.8351,
+    "lon": 4.8345,
+    "population": 34983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houffalize",
+    "region": "Wallonia",
+    "lat": 50.1324,
+    "lon": 5.7896,
+    "population": 34857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hove",
+    "region": "Flanders",
+    "lat": 51.1545,
+    "lon": 4.4707,
+    "population": 34764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assesse",
+    "region": "Wallonia",
+    "lat": 50.3693,
+    "lon": 5.022,
+    "population": 34733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Profondeville",
+    "region": "Wallonia",
+    "lat": 50.3758,
+    "lon": 4.8651,
+    "population": 34723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouscron",
+    "region": "Wallonia",
+    "lat": 50.745,
+    "lon": 3.2064,
+    "population": 34502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Awans",
+    "region": "Wallonia",
+    "lat": 50.6677,
+    "lon": 5.4633,
+    "population": 34462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincie Limburg",
+    "region": "Flanders",
+    "lat": 51,
+    "lon": 5.5,
+    "population": 34422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knesselare",
+    "region": "Flanders",
+    "lat": 51.1393,
+    "lon": 3.4128,
+    "population": 34359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoboken",
+    "region": "Flanders",
+    "lat": 51.1761,
+    "lon": 4.3484,
+    "population": 34136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aubel",
+    "region": "Wallonia",
+    "lat": 50.7019,
+    "lon": 5.8581,
+    "population": 33957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herentals",
+    "region": "Flanders",
+    "lat": 51.1765,
+    "lon": 4.8325,
+    "population": 33700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dessel",
+    "region": "Flanders",
+    "lat": 51.2385,
+    "lon": 5.1145,
+    "population": 33668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Martens-Latem",
+    "region": "Flanders",
+    "lat": 51.0146,
+    "lon": 3.6378,
+    "population": 33591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampenhout",
+    "region": "Flanders",
+    "lat": 50.9421,
+    "lon": 4.551,
+    "population": 33584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kraainem",
+    "region": "Flanders",
+    "lat": 50.8616,
+    "lon": 4.4695,
+    "population": 33571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Theux",
+    "region": "Wallonia",
+    "lat": 50.5332,
+    "lon": 5.8125,
+    "population": 33494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anthisnes",
+    "region": "Wallonia",
+    "lat": 50.4832,
+    "lon": 5.519,
+    "population": 33452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amay",
+    "region": "Wallonia",
+    "lat": 50.5483,
+    "lon": 5.3097,
+    "population": 33171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florenville",
+    "region": "Wallonia",
+    "lat": 49.6998,
+    "lon": 5.3074,
+    "population": 33101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Léger",
+    "region": "Wallonia",
+    "lat": 49.612,
+    "lon": 5.6569,
+    "population": 33101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eupen",
+    "region": "Wallonia",
+    "lat": 50.6279,
+    "lon": 6.0365,
+    "population": 32979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laarne",
+    "region": "Flanders",
+    "lat": 51.0308,
+    "lon": 3.8508,
+    "population": 32947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seraing",
+    "region": "Wallonia",
+    "lat": 50.5836,
+    "lon": 5.5011,
+    "population": 32846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huldenberg",
+    "region": "Flanders",
+    "lat": 50.7894,
+    "lon": 4.5831,
+    "population": 32840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Joris",
+    "region": "Flanders",
+    "lat": 50.8712,
+    "lon": 5.272,
+    "population": 32767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaudfontaine",
+    "region": "Wallonia",
+    "lat": 50.5828,
+    "lon": 5.6341,
+    "population": 32563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bornem",
+    "region": "Flanders",
+    "lat": 51.0972,
+    "lon": 4.2436,
+    "population": 32452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hulshout",
+    "region": "Flanders",
+    "lat": 51.0745,
+    "lon": 4.7908,
+    "population": 32310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aywaille",
+    "region": "Wallonia",
+    "lat": 50.4741,
+    "lon": 5.6768,
+    "population": 32305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zemst",
+    "region": "Flanders",
+    "lat": 50.9832,
+    "lon": 4.4608,
+    "population": 32286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincie Vlaams-Brabant",
+    "region": "Flanders",
+    "lat": 50.9167,
+    "lon": 4.5833,
+    "population": 32189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soignies",
+    "region": "Wallonia",
+    "lat": 50.579,
+    "lon": 4.0713,
+    "population": 32186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Celles",
+    "region": "Wallonia",
+    "lat": 50.7123,
+    "lon": 3.4573,
+    "population": 32132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boom",
+    "region": "Flanders",
+    "lat": 51.0924,
+    "lon": 4.3717,
+    "population": 32020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bertogne",
+    "region": "Wallonia",
+    "lat": 50.0836,
+    "lon": 5.6669,
+    "population": 31939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bekkevoort",
+    "region": "Flanders",
+    "lat": 50.9407,
+    "lon": 4.969,
+    "population": 31807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gesves",
+    "region": "Wallonia",
+    "lat": 50.4015,
+    "lon": 5.0746,
+    "population": 31618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoegaarden",
+    "region": "Flanders",
+    "lat": 50.7756,
+    "lon": 4.8895,
+    "population": 31367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verviers",
+    "region": "Wallonia",
+    "lat": 50.5891,
+    "lon": 5.8624,
+    "population": 31363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antwerpen",
+    "region": "Flanders",
+    "lat": 51.2199,
+    "lon": 4.4035,
+    "population": 31355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Philippeville",
+    "region": "Wallonia",
+    "lat": 50.1961,
+    "lon": 4.5437,
+    "population": 31346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silly",
+    "region": "Wallonia",
+    "lat": 50.6488,
+    "lon": 3.9236,
+    "population": 31219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ohey",
+    "region": "Wallonia",
+    "lat": 50.4357,
+    "lon": 5.1238,
+    "population": 31105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pepingen",
+    "region": "Flanders",
+    "lat": 50.7592,
+    "lon": 4.1598,
+    "population": 31096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamoir",
+    "region": "Wallonia",
+    "lat": 50.4267,
+    "lon": 5.533,
+    "population": 31082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florennes",
+    "region": "Wallonia",
+    "lat": 50.2513,
+    "lon": 4.6064,
+    "population": 31033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oreye",
+    "region": "Wallonia",
+    "lat": 50.7175,
+    "lon": 5.3488,
+    "population": 31031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoogstraten",
+    "region": "Flanders",
+    "lat": 51.4003,
+    "lon": 4.7603,
+    "population": 30979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tremelo",
+    "region": "Flanders",
+    "lat": 50.9923,
+    "lon": 4.7081,
+    "population": 30945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rijkevorsel",
+    "region": "Flanders",
+    "lat": 51.3479,
+    "lon": 4.7605,
+    "population": 30869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Vith",
+    "region": "Wallonia",
+    "lat": 50.2815,
+    "lon": 6.1272,
+    "population": 30815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fleurus",
+    "region": "Wallonia",
+    "lat": 50.4835,
+    "lon": 4.5501,
+    "population": 30662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bocholt",
+    "region": "Flanders",
+    "lat": 51.1734,
+    "lon": 5.5799,
+    "population": 30652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zulte",
+    "region": "Flanders",
+    "lat": 50.9195,
+    "lon": 3.4486,
+    "population": 30603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Bruyère",
+    "region": "Wallonia",
+    "lat": 50.3948,
+    "lon": 4.6144,
+    "population": 30590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Katelijne-Waver",
+    "region": "Flanders",
+    "lat": 51.0669,
+    "lon": 4.5347,
+    "population": 30574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herent",
+    "region": "Flanders",
+    "lat": 50.9086,
+    "lon": 4.6706,
+    "population": 30559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virton",
+    "region": "Wallonia",
+    "lat": 49.5682,
+    "lon": 5.5326,
+    "population": 30328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limbourg",
+    "region": "Wallonia",
+    "lat": 50.6122,
+    "lon": 5.9412,
+    "population": 30298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wingene",
+    "region": "Flanders",
+    "lat": 51.0578,
+    "lon": 3.2736,
+    "population": 30164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tintigny",
+    "region": "Wallonia",
+    "lat": 49.6833,
+    "lon": 5.5135,
+    "population": 30069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nivelles",
+    "region": "Wallonia",
+    "lat": 50.5983,
+    "lon": 4.3285,
+    "population": 30054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lichtervelde",
+    "region": "Flanders",
+    "lat": 51.0333,
+    "lon": 3.15,
+    "population": 29905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meerhout",
+    "region": "Flanders",
+    "lat": 51.1321,
+    "lon": 5.0784,
+    "population": 29889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ninove",
+    "region": "Flanders",
+    "lat": 50.8278,
+    "lon": 4.0266,
+    "population": 29843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dinant",
+    "region": "Wallonia",
+    "lat": 50.2581,
+    "lon": 4.9117,
+    "population": 29719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumes",
+    "region": "Wallonia",
+    "lat": 50.5545,
+    "lon": 3.3053,
+    "population": 29715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wijnegem",
+    "region": "Flanders",
+    "lat": 51.2279,
+    "lon": 4.519,
+    "population": 29710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingelmunster",
+    "region": "Flanders",
+    "lat": 50.9208,
+    "lon": 3.2557,
+    "population": 29539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oostrozebeke",
+    "region": "Flanders",
+    "lat": 50.9209,
+    "lon": 3.338,
+    "population": 29441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Attert",
+    "region": "Wallonia",
+    "lat": 49.7503,
+    "lon": 5.7863,
+    "population": 29323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovendegem",
+    "region": "Flanders",
+    "lat": 51.1017,
+    "lon": 3.613,
+    "population": 29227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Louvain-la-Neuve",
+    "region": "Wallonia",
+    "lat": 50.6683,
+    "lon": 4.6144,
+    "population": 29199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maaseik",
+    "region": "Flanders",
+    "lat": 51.098,
+    "lon": 5.7838,
+    "population": 29179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opwijk",
+    "region": "Flanders",
+    "lat": 50.9672,
+    "lon": 4.1844,
+    "population": 29026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Essen",
+    "region": "Flanders",
+    "lat": 51.4679,
+    "lon": 4.469,
+    "population": 28985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herenthout",
+    "region": "Flanders",
+    "lat": 51.1401,
+    "lon": 4.7557,
+    "population": 28892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morlanwelz-Mariemont",
+    "region": "Wallonia",
+    "lat": 50.455,
+    "lon": 4.2452,
+    "population": 28840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Hainaut",
+    "region": "Wallonia",
+    "lat": 50.5,
+    "lon": 3.8333,
+    "population": 28818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nevele",
+    "region": "Flanders",
+    "lat": 51.0353,
+    "lon": 3.5457,
+    "population": 28796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grobbendonk",
+    "region": "Flanders",
+    "lat": 51.1904,
+    "lon": 4.7356,
+    "population": 28675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ellezelles",
+    "region": "Wallonia",
+    "lat": 50.7351,
+    "lon": 3.6799,
+    "population": 28571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouffet",
+    "region": "Wallonia",
+    "lat": 50.4387,
+    "lon": 5.4657,
+    "population": 28402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oosterzele",
+    "region": "Flanders",
+    "lat": 50.9526,
+    "lon": 3.7983,
+    "population": 28335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gouvy",
+    "region": "Wallonia",
+    "lat": 50.186,
+    "lon": 5.9392,
+    "population": 28303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Roche-en-Ardenne",
+    "region": "Wallonia",
+    "lat": 50.1836,
+    "lon": 5.5755,
+    "population": 28277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aartselaar",
+    "region": "Flanders",
+    "lat": 51.1341,
+    "lon": 4.3868,
+    "population": 28082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zingem",
+    "region": "Flanders",
+    "lat": 50.9041,
+    "lon": 3.653,
+    "population": 28082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anzegem",
+    "region": "Flanders",
+    "lat": 50.837,
+    "lon": 3.4779,
+    "population": 28077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basse Lasne",
+    "region": "Wallonia",
+    "lat": 50.695,
+    "lon": 4.4922,
+    "population": 28003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chapelle-lez-Herlaimont",
+    "region": "Wallonia",
+    "lat": 50.4713,
+    "lon": 4.2823,
+    "population": 27957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berlare",
+    "region": "Flanders",
+    "lat": 51.0333,
+    "lon": 4,
+    "population": 27953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tubize",
+    "region": "Wallonia",
+    "lat": 50.6906,
+    "lon": 4.2009,
+    "population": 27811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Visé",
+    "region": "Wallonia",
+    "lat": 50.7376,
+    "lon": 5.6991,
+    "population": 27805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Nicolas",
+    "region": "Wallonia",
+    "lat": 50.6284,
+    "lon": 5.5324,
+    "population": 27737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roeulx",
+    "region": "Wallonia",
+    "lat": 50.5037,
+    "lon": 4.1116,
+    "population": 27727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onhaye",
+    "region": "Wallonia",
+    "lat": 50.2415,
+    "lon": 4.8407,
+    "population": 27721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peer",
+    "region": "Flanders",
+    "lat": 51.1303,
+    "lon": 5.4595,
+    "population": 27719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oostduinkerke",
+    "region": "Flanders",
+    "lat": 51.1157,
+    "lon": 2.6822,
+    "population": 27708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasselt",
+    "region": "Flanders",
+    "lat": 50.9311,
+    "lon": 5.3378,
+    "population": 27451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wemmel",
+    "region": "Flanders",
+    "lat": 50.9081,
+    "lon": 4.3061,
+    "population": 27354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beloeil",
+    "region": "Wallonia",
+    "lat": 50.5505,
+    "lon": 3.7348,
+    "population": 27339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dison",
+    "region": "Wallonia",
+    "lat": 50.61,
+    "lon": 5.8534,
+    "population": 27267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glabbeek",
+    "region": "Flanders",
+    "lat": 50.8727,
+    "lon": 4.9562,
+    "population": 27250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brunehault",
+    "region": "Wallonia",
+    "lat": 50.5052,
+    "lon": 4.4321,
+    "population": 27164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neufchâteau",
+    "region": "Wallonia",
+    "lat": 49.8407,
+    "lon": 5.4353,
+    "population": 27073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oud-Turnhout",
+    "region": "Flanders",
+    "lat": 51.3198,
+    "lon": 4.9841,
+    "population": 27073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Genappe",
+    "region": "Wallonia",
+    "lat": 50.6117,
+    "lon": 4.4515,
+    "population": 26991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruibeke",
+    "region": "Flanders",
+    "lat": 51.1705,
+    "lon": 4.3144,
+    "population": 26939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alveringem",
+    "region": "Flanders",
+    "lat": 51.0124,
+    "lon": 2.7112,
+    "population": 26868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binche",
+    "region": "Wallonia",
+    "lat": 50.4115,
+    "lon": 4.1647,
+    "population": 26855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pont-à-Celles",
+    "region": "Wallonia",
+    "lat": 50.5052,
+    "lon": 4.3689,
+    "population": 26847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oostkamp",
+    "region": "Flanders",
+    "lat": 51.1543,
+    "lon": 3.2313,
+    "population": 26752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juprelle",
+    "region": "Wallonia",
+    "lat": 50.7076,
+    "lon": 5.5313,
+    "population": 26738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lille",
+    "region": "Flanders",
+    "lat": 51.242,
+    "lon": 4.8231,
+    "population": 26610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raeren",
+    "region": "Wallonia",
+    "lat": 50.6672,
+    "lon": 6.1154,
+    "population": 26552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dentergem",
+    "region": "Flanders",
+    "lat": 50.9643,
+    "lon": 3.4162,
+    "population": 26497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schelle",
+    "region": "Flanders",
+    "lat": 51.1262,
+    "lon": 4.3411,
+    "population": 26482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaventem",
+    "region": "Flanders",
+    "lat": 50.8837,
+    "lon": 4.473,
+    "population": 26458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rotselaar",
+    "region": "Flanders",
+    "lat": 50.953,
+    "lon": 4.7166,
+    "population": 26343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frasnes-lez-Buissenal",
+    "region": "Wallonia",
+    "lat": 50.6678,
+    "lon": 3.6205,
+    "population": 26319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province de Namur",
+    "region": "Wallonia",
+    "lat": 50.3333,
+    "lon": 4.8333,
+    "population": 26272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mons-lez-Liège",
+    "region": "Wallonia",
+    "lat": 50.6167,
+    "lon": 5.4667,
+    "population": 25979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oupeye",
+    "region": "Wallonia",
+    "lat": 50.7118,
+    "lon": 5.6468,
+    "population": 25955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Welkenraedt",
+    "region": "Wallonia",
+    "lat": 50.6605,
+    "lon": 5.9703,
+    "population": 25914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beveren",
+    "region": "Flanders",
+    "lat": 51.2119,
+    "lon": 4.2563,
+    "population": 25779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balen",
+    "region": "Flanders",
+    "lat": 51.1684,
+    "lon": 5.1703,
+    "population": 25741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wezembeek-Oppem",
+    "region": "Flanders",
+    "lat": 50.8395,
+    "lon": 4.4943,
+    "population": 25635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marche-en-Famenne",
+    "region": "Wallonia",
+    "lat": 50.2268,
+    "lon": 5.3442,
+    "population": 25614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boussu",
+    "region": "Wallonia",
+    "lat": 50.4342,
+    "lon": 3.7944,
+    "population": 25604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beringen",
+    "region": "Flanders",
+    "lat": 51.0495,
+    "lon": 5.2261,
+    "population": 25480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vielsalm",
+    "region": "Wallonia",
+    "lat": 50.2841,
+    "lon": 5.915,
+    "population": 25445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haaltert",
+    "region": "Flanders",
+    "lat": 50.9063,
+    "lon": 4.0009,
+    "population": 25412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middelkerke",
+    "region": "Flanders",
+    "lat": 51.1853,
+    "lon": 2.8208,
+    "population": 25411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bastogne",
+    "region": "Wallonia",
+    "lat": 50.0035,
+    "lon": 5.7184,
+    "population": 25045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Hulpe",
+    "region": "Wallonia",
+    "lat": 50.7309,
+    "lon": 4.4858,
+    "population": 24825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zandhoven",
+    "region": "Flanders",
+    "lat": 51.2149,
+    "lon": 4.6616,
+    "population": 24818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burdinne",
+    "region": "Wallonia",
+    "lat": 50.5845,
+    "lon": 5.0766,
+    "population": 24798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zonhoven",
+    "region": "Flanders",
+    "lat": 50.9906,
+    "lon": 5.3682,
+    "population": 24785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellin",
+    "region": "Wallonia",
+    "lat": 50.0813,
+    "lon": 5.1141,
+    "population": 24749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baelen",
+    "region": "Wallonia",
+    "lat": 50.6313,
+    "lon": 5.9743,
+    "population": 24656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapellen",
+    "region": "Flanders",
+    "lat": 51.3138,
+    "lon": 4.4354,
+    "population": 24561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aubange",
+    "region": "Wallonia",
+    "lat": 49.5665,
+    "lon": 5.8049,
+    "population": 24516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lierneux",
+    "region": "Wallonia",
+    "lat": 50.2848,
+    "lon": 5.7924,
+    "population": 24361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leuven",
+    "region": "Flanders",
+    "lat": 50.8796,
+    "lon": 4.7009,
+    "population": 24242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marchin",
+    "region": "Wallonia",
+    "lat": 50.4671,
+    "lon": 5.2428,
+    "population": 24169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Ghislain",
+    "region": "Wallonia",
+    "lat": 50.4482,
+    "lon": 3.8189,
+    "population": 24121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arendonk",
+    "region": "Flanders",
+    "lat": 51.3227,
+    "lon": 5.0829,
+    "population": 23979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Temse",
+    "region": "Flanders",
+    "lat": 51.1279,
+    "lon": 4.2137,
+    "population": 23979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fosses-la-Ville",
+    "region": "Wallonia",
+    "lat": 50.3952,
+    "lon": 4.6962,
+    "population": 23962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herve",
+    "region": "Wallonia",
+    "lat": 50.6408,
+    "lon": 5.7935,
+    "population": 23784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chièvres",
+    "region": "Wallonia",
+    "lat": 50.5879,
+    "lon": 3.8071,
+    "population": 23588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brugge",
+    "region": "Flanders",
+    "lat": 51.2089,
+    "lon": 3.2242,
+    "population": 23568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braine-le-Comte",
+    "region": "Wallonia",
+    "lat": 50.6098,
+    "lon": 4.1466,
+    "population": 23448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lubbeek",
+    "region": "Flanders",
+    "lat": 50.8828,
+    "lon": 4.839,
+    "population": 23240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gistel",
+    "region": "Flanders",
+    "lat": 51.1561,
+    "lon": 2.9639,
+    "population": 23179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mettet",
+    "region": "Wallonia",
+    "lat": 50.3212,
+    "lon": 4.6623,
+    "population": 23104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Amands",
+    "region": "Flanders",
+    "lat": 51.0564,
+    "lon": 4.2096,
+    "population": 23098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landen",
+    "region": "Flanders",
+    "lat": 50.7527,
+    "lon": 5.082,
+    "population": 23070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ans",
+    "region": "Wallonia",
+    "lat": 50.6623,
+    "lon": 5.5203,
+    "population": 23068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Hubert",
+    "region": "Wallonia",
+    "lat": 50.0267,
+    "lon": 5.374,
+    "population": 23067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yvoir",
+    "region": "Wallonia",
+    "lat": 50.3279,
+    "lon": 4.8806,
+    "population": 23025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stoumont",
+    "region": "Wallonia",
+    "lat": 50.4067,
+    "lon": 5.8084,
+    "population": 22834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leopoldsburg",
+    "region": "Flanders",
+    "lat": 51.1167,
+    "lon": 5.25,
+    "population": 22754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helchteren",
+    "region": "Flanders",
+    "lat": 51.0559,
+    "lon": 5.3824,
+    "population": 22490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dour",
+    "region": "Wallonia",
+    "lat": 50.3958,
+    "lon": 3.7779,
+    "population": 22459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mechelen",
+    "region": "Flanders",
+    "lat": 51.0257,
+    "lon": 4.4776,
+    "population": 22414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merchtem",
+    "region": "Flanders",
+    "lat": 50.9513,
+    "lon": 4.232,
+    "population": 22258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galmaarden",
+    "region": "Flanders",
+    "lat": 50.7539,
+    "lon": 3.9712,
+    "population": 22149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schoten",
+    "region": "Flanders",
+    "lat": 51.2525,
+    "lon": 4.5027,
+    "population": 22129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estinnes-au-Val",
+    "region": "Wallonia",
+    "lat": 50.4102,
+    "lon": 4.1048,
+    "population": 22008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deerlijk",
+    "region": "Flanders",
+    "lat": 50.8534,
+    "lon": 3.3542,
+    "population": 21919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanze",
+    "region": "Wallonia",
+    "lat": 50.5391,
+    "lon": 5.2085,
+    "population": 21649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clavier",
+    "region": "Wallonia",
+    "lat": 50.4007,
+    "lon": 5.3515,
+    "population": 21645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meulebeke",
+    "region": "Flanders",
+    "lat": 50.9514,
+    "lon": 3.288,
+    "population": 21609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poperinge",
+    "region": "Flanders",
+    "lat": 50.8539,
+    "lon": 2.7266,
+    "population": 21534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manage",
+    "region": "Wallonia",
+    "lat": 50.5031,
+    "lon": 4.2359,
+    "population": 21393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Courcelles",
+    "region": "Wallonia",
+    "lat": 50.4638,
+    "lon": 4.3747,
+    "population": 21375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durbuy",
+    "region": "Wallonia",
+    "lat": 50.3529,
+    "lon": 5.4563,
+    "population": 21277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aarschot",
+    "region": "Flanders",
+    "lat": 50.9871,
+    "lon": 4.8369,
+    "population": 21212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asse",
+    "region": "Flanders",
+    "lat": 50.9101,
+    "lon": 4.1984,
+    "population": 21206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beauraing",
+    "region": "Wallonia",
+    "lat": 50.1104,
+    "lon": 4.9555,
+    "population": 21202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "De Haan",
+    "region": "Flanders",
+    "lat": 51.2726,
+    "lon": 3.0345,
+    "population": 21169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beerse",
+    "region": "Flanders",
+    "lat": 51.3193,
+    "lon": 4.853,
+    "population": 21164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ottignies",
+    "region": "Wallonia",
+    "lat": 50.6653,
+    "lon": 4.5668,
+    "population": 21089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avelgem",
+    "region": "Flanders",
+    "lat": 50.7762,
+    "lon": 3.445,
+    "population": 21081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aalst",
+    "region": "Flanders",
+    "lat": 50.936,
+    "lon": 4.0355,
+    "population": 21062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tervuren",
+    "region": "Flanders",
+    "lat": 50.8237,
+    "lon": 4.5142,
+    "population": 21059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gembloux",
+    "region": "Wallonia",
+    "lat": 50.5615,
+    "lon": 4.6989,
+    "population": 20936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lommel",
+    "region": "Flanders",
+    "lat": 51.2307,
+    "lon": 5.3135,
+    "population": 20926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Truiden",
+    "region": "Flanders",
+    "lat": 50.8168,
+    "lon": 5.1865,
+    "population": 20834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rixensart",
+    "region": "Wallonia",
+    "lat": 50.7123,
+    "lon": 4.5253,
+    "population": 20801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Gillis-Waas",
+    "region": "Flanders",
+    "lat": 51.2191,
+    "lon": 4.1237,
+    "population": 20797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasterlee",
+    "region": "Flanders",
+    "lat": 51.2412,
+    "lon": 4.9665,
+    "population": 20761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waregem",
+    "region": "Flanders",
+    "lat": 50.889,
+    "lon": 3.4276,
+    "population": 20751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puurs",
+    "region": "Flanders",
+    "lat": 51.0741,
+    "lon": 4.2884,
+    "population": 20576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoeselt",
+    "region": "Flanders",
+    "lat": 50.8471,
+    "lon": 5.4877,
+    "population": 20449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jodoigne",
+    "region": "Wallonia",
+    "lat": 50.7236,
+    "lon": 4.8691,
+    "population": 20334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ittre",
+    "region": "Wallonia",
+    "lat": 50.644,
+    "lon": 4.2648,
+    "population": 20315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferrières",
+    "region": "Wallonia",
+    "lat": 50.4016,
+    "lon": 5.6109,
+    "population": 20314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charleroi",
+    "region": "Wallonia",
+    "lat": 50.4114,
+    "lon": 4.4445,
+    "population": 20267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimay",
+    "region": "Wallonia",
+    "lat": 50.0486,
+    "lon": 4.3171,
+    "population": 20212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wetteren",
+    "region": "Flanders",
+    "lat": 51.0053,
+    "lon": 3.8834,
+    "population": 20162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lint",
+    "region": "Flanders",
+    "lat": 51.1271,
+    "lon": 4.4967,
+    "population": 20159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Calamine",
+    "region": "Wallonia",
+    "lat": 50.7181,
+    "lon": 6.0111,
+    "population": 20144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heers",
+    "region": "Flanders",
+    "lat": 50.7538,
+    "lon": 5.3021,
+    "population": 20101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olne",
+    "region": "Wallonia",
+    "lat": 50.5899,
+    "lon": 5.7466,
+    "population": 20080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapelle-op-den-Bos",
+    "region": "Flanders",
+    "lat": 51.0097,
+    "lon": 4.363,
+    "population": 20027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villers-la-Ville",
+    "region": "Wallonia",
+    "lat": 50.5667,
+    "lon": 4.5167,
+    "population": 19881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beyne-Heusay",
+    "region": "Wallonia",
+    "lat": 50.6225,
+    "lon": 5.6651,
+    "population": 19833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Willebroek",
+    "region": "Flanders",
+    "lat": 51.0604,
+    "lon": 4.3602,
+    "population": 19797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Péruwelz",
+    "region": "Wallonia",
+    "lat": 50.5082,
+    "lon": 3.5937,
+    "population": 19776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nandrin",
+    "region": "Wallonia",
+    "lat": 50.5067,
+    "lon": 5.4191,
+    "population": 19723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Havelange",
+    "region": "Wallonia",
+    "lat": 50.3893,
+    "lon": 5.2382,
+    "population": 19677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Niklaas",
+    "region": "Flanders",
+    "lat": 51.1651,
+    "lon": 4.1437,
+    "population": 19548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vosselaar",
+    "region": "Flanders",
+    "lat": 51.3086,
+    "lon": 4.8896,
+    "population": 19371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerfontaine",
+    "region": "Wallonia",
+    "lat": 50.1705,
+    "lon": 4.4103,
+    "population": 19353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martelange",
+    "region": "Wallonia",
+    "lat": 49.8319,
+    "lon": 5.7366,
+    "population": 19344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hastière-Lavaux",
+    "region": "Wallonia",
+    "lat": 50.2185,
+    "lon": 4.8245,
+    "population": 19308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knokke-Heist",
+    "region": "Flanders",
+    "lat": 51.35,
+    "lon": 3.2667,
+    "population": 19230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maldegem",
+    "region": "Flanders",
+    "lat": 51.2074,
+    "lon": 3.4451,
+    "population": 19207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincie Oost-Vlaanderen",
+    "region": "Flanders",
+    "lat": 51,
+    "lon": 3.75,
+    "population": 19160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maasmechelen",
+    "region": "Flanders",
+    "lat": 50.9654,
+    "lon": 5.6945,
+    "population": 18980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oudenaarde",
+    "region": "Flanders",
+    "lat": 50.8517,
+    "lon": 3.6089,
+    "population": 18939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Étalle",
+    "region": "Wallonia",
+    "lat": 49.6739,
+    "lon": 5.6002,
+    "population": 18930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brugelette",
+    "region": "Wallonia",
+    "lat": 50.5958,
+    "lon": 3.8536,
+    "population": 18869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habay-la-Vieille",
+    "region": "Wallonia",
+    "lat": 49.7233,
+    "lon": 5.62,
+    "population": 18784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincie Antwerpen",
+    "region": "Flanders",
+    "lat": 51.1656,
+    "lon": 4.834,
+    "population": 18736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enghien",
+    "region": "Wallonia",
+    "lat": 50.6837,
+    "lon": 4.0328,
+    "population": 18682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hemiksem",
+    "region": "Flanders",
+    "lat": 51.1448,
+    "lon": 4.3387,
+    "population": 18609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quévy-le-Petit",
+    "region": "Wallonia",
+    "lat": 50.3688,
+    "lon": 3.936,
+    "population": 18608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berlaar",
+    "region": "Flanders",
+    "lat": 51.1176,
+    "lon": 4.6584,
+    "population": 18424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waimes",
+    "region": "Wallonia",
+    "lat": 50.4149,
+    "lon": 6.1121,
+    "population": 18369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riemst",
+    "region": "Flanders",
+    "lat": 50.81,
+    "lon": 5.6013,
+    "population": 18214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Londerzeel",
+    "region": "Flanders",
+    "lat": 51.0047,
+    "lon": 4.303,
+    "population": 18210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Léglise",
+    "region": "Wallonia",
+    "lat": 49.7998,
+    "lon": 5.5365,
+    "population": 18045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Messancy",
+    "region": "Wallonia",
+    "lat": 49.592,
+    "lon": 5.8188,
+    "population": 17991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verlaine",
+    "region": "Wallonia",
+    "lat": 50.6074,
+    "lon": 5.3174,
+    "population": 17981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doische",
+    "region": "Wallonia",
+    "lat": 50.1336,
+    "lon": 4.7355,
+    "population": 17914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranst",
+    "region": "Flanders",
+    "lat": 51.1898,
+    "lon": 4.5653,
+    "population": 17877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koekelare",
+    "region": "Flanders",
+    "lat": 51.0905,
+    "lon": 2.9783,
+    "population": 17768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walcourt",
+    "region": "Wallonia",
+    "lat": 50.254,
+    "lon": 4.438,
+    "population": 17719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalmthout",
+    "region": "Flanders",
+    "lat": 51.3844,
+    "lon": 4.4756,
+    "population": 17712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boortmeerbeek",
+    "region": "Flanders",
+    "lat": 50.9793,
+    "lon": 4.5744,
+    "population": 17688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perwez",
+    "region": "Wallonia",
+    "lat": 50.6243,
+    "lon": 4.8135,
+    "population": 17667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alken",
+    "region": "Flanders",
+    "lat": 50.8755,
+    "lon": 5.3056,
+    "population": 17611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gavere",
+    "region": "Flanders",
+    "lat": 50.9292,
+    "lon": 3.6618,
+    "population": 17606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kortessem",
+    "region": "Flanders",
+    "lat": 50.8589,
+    "lon": 5.3897,
+    "population": 17538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rebecq-Rognon",
+    "region": "Wallonia",
+    "lat": 50.6515,
+    "lon": 4.1068,
+    "population": 17515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tienen",
+    "region": "Flanders",
+    "lat": 50.8075,
+    "lon": 4.9378,
+    "population": 17319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namur",
+    "region": "Wallonia",
+    "lat": 50.4669,
+    "lon": 4.8675,
+    "population": 17260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Pieters-Leeuw",
+    "region": "Flanders",
+    "lat": 50.7793,
+    "lon": 4.2435,
+    "population": 17246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellen",
+    "region": "Flanders",
+    "lat": 50.841,
+    "lon": 5.3387,
+    "population": 17227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herstal",
+    "region": "Wallonia",
+    "lat": 50.6641,
+    "lon": 5.6235,
+    "population": 17214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gooik",
+    "region": "Flanders",
+    "lat": 50.7944,
+    "lon": 4.1138,
+    "population": 17184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bièvre",
+    "region": "Wallonia",
+    "lat": 49.9408,
+    "lon": 5.0159,
+    "population": 17107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Engis",
+    "region": "Wallonia",
+    "lat": 50.5816,
+    "lon": 5.3992,
+    "population": 17025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamme",
+    "region": "Flanders",
+    "lat": 51.0982,
+    "lon": 4.1371,
+    "population": 17009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lessines",
+    "region": "Wallonia",
+    "lat": 50.711,
+    "lon": 3.8358,
+    "population": 16940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Overijse",
+    "region": "Flanders",
+    "lat": 50.7744,
+    "lon": 4.5346,
+    "population": 16892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinlot",
+    "region": "Wallonia",
+    "lat": 50.4749,
+    "lon": 5.3776,
+    "population": 16880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincie West-Vlaanderen",
+    "region": "Flanders",
+    "lat": 51,
+    "lon": 3,
+    "population": 16714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kortrijk",
+    "region": "Flanders",
+    "lat": 50.828,
+    "lon": 3.2649,
+    "population": 16653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dendermonde",
+    "region": "Flanders",
+    "lat": 51.0287,
+    "lon": 4.1011,
+    "population": 16642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wielsbeke",
+    "region": "Flanders",
+    "lat": 50.9,
+    "lon": 3.3667,
+    "population": 16629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plombières",
+    "region": "Wallonia",
+    "lat": 50.7366,
+    "lon": 5.9592,
+    "population": 16620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holsbeek",
+    "region": "Flanders",
+    "lat": 50.921,
+    "lon": 4.7575,
+    "population": 16366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Genesius-Rode",
+    "region": "Flanders",
+    "lat": 50.7465,
+    "lon": 4.3575,
+    "population": 16301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braives",
+    "region": "Wallonia",
+    "lat": 50.6174,
+    "lon": 5.133,
+    "population": 16258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lokeren",
+    "region": "Flanders",
+    "lat": 51.1036,
+    "lon": 3.9934,
+    "population": 16251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olen",
+    "region": "Flanders",
+    "lat": 51.1439,
+    "lon": 4.8598,
+    "population": 16110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Érezée",
+    "region": "Wallonia",
+    "lat": 50.2929,
+    "lon": 5.5582,
+    "population": 16091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ledeberg",
+    "region": "Flanders",
+    "lat": 51.0386,
+    "lon": 3.7446,
+    "population": 16054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zelzate",
+    "region": "Flanders",
+    "lat": 51.1896,
+    "lon": 3.8078,
+    "population": 15993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melle",
+    "region": "Flanders",
+    "lat": 51.0023,
+    "lon": 3.8053,
+    "population": 15731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramillies",
+    "region": "Wallonia",
+    "lat": 50.6339,
+    "lon": 4.9012,
+    "population": 15658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diest",
+    "region": "Flanders",
+    "lat": 50.9892,
+    "lon": 5.0506,
+    "population": 15637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuustwezel",
+    "region": "Flanders",
+    "lat": 51.3921,
+    "lon": 4.5955,
+    "population": 15616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pepinster",
+    "region": "Wallonia",
+    "lat": 50.5737,
+    "lon": 5.8049,
+    "population": 15604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colfontaine",
+    "region": "Wallonia",
+    "lat": 50.4141,
+    "lon": 3.8557,
+    "population": 15570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaprijke",
+    "region": "Flanders",
+    "lat": 51.2172,
+    "lon": 3.6152,
+    "population": 15449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butgenbach",
+    "region": "Wallonia",
+    "lat": 50.4269,
+    "lon": 6.205,
+    "population": 15419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torhout",
+    "region": "Flanders",
+    "lat": 51.0656,
+    "lon": 3.1008,
+    "population": 15412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiny",
+    "region": "Wallonia",
+    "lat": 49.7383,
+    "lon": 5.341,
+    "population": 15015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wavre",
+    "region": "Wallonia",
+    "lat": 50.7172,
+    "lon": 4.6014,
+    "population": 15010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mont-Saint-Guibert",
+    "region": "Wallonia",
+    "lat": 50.6343,
+    "lon": 4.6106,
+    "population": 14977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jurbise",
+    "region": "Wallonia",
+    "lat": 50.531,
+    "lon": 3.9094,
+    "population": 14692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Laureins",
+    "region": "Flanders",
+    "lat": 51.242,
+    "lon": 3.5244,
+    "population": 14633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seneffe",
+    "region": "Wallonia",
+    "lat": 50.5314,
+    "lon": 4.263,
+    "population": 14631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuurne",
+    "region": "Flanders",
+    "lat": 50.8514,
+    "lon": 3.2824,
+    "population": 14551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebbeke",
+    "region": "Flanders",
+    "lat": 51.0046,
+    "lon": 4.1346,
+    "population": 14524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sombreffe",
+    "region": "Wallonia",
+    "lat": 50.5286,
+    "lon": 4.6009,
+    "population": 14491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Denderleeuw",
+    "region": "Flanders",
+    "lat": 50.8851,
+    "lon": 4.076,
+    "population": 14388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wevelgem",
+    "region": "Flanders",
+    "lat": 50.8,
+    "lon": 3.1667,
+    "population": 14369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anderlues",
+    "region": "Wallonia",
+    "lat": 50.407,
+    "lon": 4.2714,
+    "population": 14310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merelbeke",
+    "region": "Flanders",
+    "lat": 50.9945,
+    "lon": 3.7462,
+    "population": 14046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gedinne",
+    "region": "Wallonia",
+    "lat": 49.9804,
+    "lon": 4.9367,
+    "population": 14038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libin",
+    "region": "Wallonia",
+    "lat": 49.9811,
+    "lon": 5.2561,
+    "population": 14037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moerbeke",
+    "region": "Flanders",
+    "lat": 51.1741,
+    "lon": 3.93,
+    "population": 14016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sint-Lievens-Houtem",
+    "region": "Flanders",
+    "lat": 50.9197,
+    "lon": 3.8622,
+    "population": 14013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erquelinnes",
+    "region": "Wallonia",
+    "lat": 50.3069,
+    "lon": 4.1113,
+    "population": 13956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bree",
+    "region": "Flanders",
+    "lat": 51.1415,
+    "lon": 5.5969,
+    "population": 13926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Court-Saint-Étienne",
+    "region": "Wallonia",
+    "lat": 50.6338,
+    "lon": 4.5685,
+    "population": 13911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bertrix",
+    "region": "Wallonia",
+    "lat": 49.856,
+    "lon": 5.2554,
+    "population": 13757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Châtelet",
+    "region": "Wallonia",
+    "lat": 50.4034,
+    "lon": 4.5283,
+    "population": 13741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Destelbergen",
+    "region": "Flanders",
+    "lat": 51.0595,
+    "lon": 3.799,
+    "population": 13690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soumagne",
+    "region": "Wallonia",
+    "lat": 50.6138,
+    "lon": 5.7468,
+    "population": 13618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zedelgem",
+    "region": "Flanders",
+    "lat": 51.1424,
+    "lon": 3.1368,
+    "population": 13530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stekene",
+    "region": "Flanders",
+    "lat": 51.2099,
+    "lon": 4.0365,
+    "population": 13442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bullange",
+    "region": "Wallonia",
+    "lat": 50.4073,
+    "lon": 6.2575,
+    "population": 13388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veurne",
+    "region": "Flanders",
+    "lat": 51.0732,
+    "lon": 2.668,
+    "population": 13132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Province du Brabant Wallon",
+    "region": "Wallonia",
+    "lat": 50.75,
+    "lon": 4.5833,
+    "population": 13009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zottegem",
+    "region": "Flanders",
+    "lat": 50.8695,
+    "lon": 3.8105,
+    "population": 12962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rendeux",
+    "region": "Wallonia",
+    "lat": 50.2342,
+    "lon": 5.5041,
+    "population": 12936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenneville",
+    "region": "Wallonia",
+    "lat": 50.095,
+    "lon": 5.529,
+    "population": 12842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harelbeke",
+    "region": "Flanders",
+    "lat": 50.8534,
+    "lon": 3.3093,
+    "population": 12814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diksmuide",
+    "region": "Flanders",
+    "lat": 51.0325,
+    "lon": 2.8638,
+    "population": 12708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thuin",
+    "region": "Wallonia",
+    "lat": 50.3393,
+    "lon": 4.286,
+    "population": 12703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nazareth",
+    "region": "Flanders",
+    "lat": 50.9569,
+    "lon": 3.5943,
+    "population": 12684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nieuwpoort",
+    "region": "Flanders",
+    "lat": 51.1301,
+    "lon": 2.7513,
+    "population": 12668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quiévrain",
+    "region": "Wallonia",
+    "lat": 50.4074,
+    "lon": 3.6835,
+    "population": 12611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilzen",
+    "region": "Flanders",
+    "lat": 50.8732,
+    "lon": 5.5184,
+    "population": 12438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bassenge",
+    "region": "Wallonia",
+    "lat": 50.7588,
+    "lon": 5.6099,
+    "population": 12344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steenokkerzeel",
+    "region": "Flanders",
+    "lat": 50.9185,
+    "lon": 4.5099,
+    "population": 12344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retie",
+    "region": "Flanders",
+    "lat": 51.2665,
+    "lon": 5.0824,
+    "population": 12311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farciennes",
+    "region": "Wallonia",
+    "lat": 50.4301,
+    "lon": 4.5415,
+    "population": 12293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quaregnon",
+    "region": "Wallonia",
+    "lat": 50.4407,
+    "lon": 3.8653,
+    "population": 12138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beauvechain",
+    "region": "Wallonia",
+    "lat": 50.782,
+    "lon": 4.7718,
+    "population": 12058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menen",
+    "region": "Flanders",
+    "lat": 50.7972,
+    "lon": 3.1225,
+    "population": 12050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keerbergen",
+    "region": "Flanders",
+    "lat": 51.0029,
+    "lon": 4.6343,
+    "population": 11859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forville",
+    "region": "Wallonia",
+    "lat": 50.5742,
+    "lon": 4.9986,
+    "population": 11690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antoing",
+    "region": "Wallonia",
+    "lat": 50.5677,
+    "lon": 3.4492,
+    "population": 11566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houyet",
+    "region": "Wallonia",
+    "lat": 50.1862,
+    "lon": 5.0076,
+    "population": 11505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bernissart",
+    "region": "Wallonia",
+    "lat": 50.4746,
+    "lon": 3.6496,
+    "population": 11399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roeselare",
+    "region": "Flanders",
+    "lat": 50.9465,
+    "lon": 3.1227,
+    "population": 11197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terkoest",
+    "region": "Flanders",
+    "lat": 50.8983,
+    "lon": 5.2762,
+    "population": 11192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faimes",
+    "region": "Wallonia",
+    "lat": 50.6625,
+    "lon": 5.26,
+    "population": 11140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ledegem",
+    "region": "Flanders",
+    "lat": 50.8578,
+    "lon": 3.1241,
+    "population": 11086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damme",
+    "region": "Flanders",
+    "lat": 51.2515,
+    "lon": 3.2814,
+    "population": 11053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flobecq",
+    "region": "Wallonia",
+    "lat": 50.7373,
+    "lon": 3.7388,
+    "population": 11044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moorslede",
+    "region": "Flanders",
+    "lat": 50.8919,
+    "lon": 3.0612,
+    "population": 11026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bever",
+    "region": "Flanders",
+    "lat": 50.9167,
+    "lon": 4.3167,
+    "population": 10954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borgloon",
+    "region": "Flanders",
+    "lat": 50.8051,
+    "lon": 5.3437,
+    "population": 10724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaumont",
+    "region": "Wallonia",
+    "lat": 50.237,
+    "lon": 4.2393,
+    "population": 10575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haacht",
+    "region": "Flanders",
+    "lat": 50.9774,
+    "lon": 4.6378,
+    "population": 10510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halen",
+    "region": "Flanders",
+    "lat": 50.9484,
+    "lon": 5.111,
+    "population": 10450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turnhout",
+    "region": "Flanders",
+    "lat": 51.3225,
+    "lon": 4.9447,
+    "population": 10426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Incourt",
+    "region": "Wallonia",
+    "lat": 50.6915,
+    "lon": 4.7982,
+    "population": 10421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trooz",
+    "region": "Wallonia",
+    "lat": 50.5703,
+    "lon": 5.6952,
+    "population": 10275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evergem",
+    "region": "Flanders",
+    "lat": 51.1131,
+    "lon": 3.7098,
+    "population": 10122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liedekerke",
+    "region": "Flanders",
+    "lat": 50.8689,
+    "lon": 4.0874,
+    "population": 10097,
+    "timezone": "UTC"
+  }
+]

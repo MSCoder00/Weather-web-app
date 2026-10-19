@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "Portobello",
+    "region": "Otago Region",
+    "lat": -45.85,
+    "lon": 170.65,
+    "population": 49822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mapua",
+    "region": "Tasman District",
+    "lat": -41.25,
+    "lon": 173.1,
+    "population": 49820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otorohanga",
+    "region": "Waikato Region",
+    "lat": -38.1833,
+    "lon": 175.2,
+    "population": 49644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanganui",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -39.9333,
+    "lon": 175.05,
+    "population": 49630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geraldine",
+    "region": "Canterbury Region",
+    "lat": -44.0906,
+    "lon": 171.2446,
+    "population": 49476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burnham",
+    "region": "Canterbury Region",
+    "lat": -43.6167,
+    "lon": 172.3167,
+    "population": 49147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gisborne",
+    "region": "Gisborne District",
+    "lat": -38.6533,
+    "lon": 178.0042,
+    "population": 48572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greymouth",
+    "region": "West Coast Region",
+    "lat": -42.4667,
+    "lon": 171.2,
+    "population": 48514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Methven",
+    "region": "Canterbury Region",
+    "lat": -43.6333,
+    "lon": 171.65,
+    "population": 48512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waitangi",
+    "region": "Chatham Islands",
+    "lat": -43.9535,
+    "lon": -176.5597,
+    "population": 48332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petone",
+    "region": "Wellington Region",
+    "lat": -41.2283,
+    "lon": 174.8702,
+    "population": 48256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pukekohe East",
+    "region": "Auckland Region",
+    "lat": -37.2,
+    "lon": 174.95,
+    "population": 47674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlepoint",
+    "region": "Wellington Region",
+    "lat": -40.9,
+    "lon": 176.2167,
+    "population": 47446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waitara",
+    "region": "Taranaki Region",
+    "lat": -39.0016,
+    "lon": 174.2384,
+    "population": 46950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellsford",
+    "region": "Auckland Region",
+    "lat": -36.2833,
+    "lon": 174.5167,
+    "population": 46643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Te Anau",
+    "region": "Southland Region",
+    "lat": -45.4167,
+    "lon": 167.7167,
+    "population": 46624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darfield",
+    "region": "Canterbury Region",
+    "lat": -43.4833,
+    "lon": 172.1167,
+    "population": 46600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manawatu District",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -40.1198,
+    "lon": 175.6743,
+    "population": 46183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whangarei",
+    "region": "Northland Region",
+    "lat": -35.7317,
+    "lon": 174.3239,
+    "population": 45870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muriwai Beach",
+    "region": "Auckland Region",
+    "lat": -36.8167,
+    "lon": 174.45,
+    "population": 45568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taradale",
+    "region": "Hawke's Bay Region",
+    "lat": -39.5333,
+    "lon": 176.85,
+    "population": 45210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Te Kauwhata",
+    "region": "Waikato Region",
+    "lat": -37.4,
+    "lon": 175.15,
+    "population": 44999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraparaumu",
+    "region": "Wellington Region",
+    "lat": -40.9167,
+    "lon": 175.0167,
+    "population": 44859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mangere",
+    "region": "Auckland Region",
+    "lat": -36.9681,
+    "lon": 174.7988,
+    "population": 44836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamilton",
+    "region": "Waikato Region",
+    "lat": -37.7833,
+    "lon": 175.2833,
+    "population": 44456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulls",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -40.1749,
+    "lon": 175.3846,
+    "population": 44438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warkworth",
+    "region": "Auckland Region",
+    "lat": -36.4,
+    "lon": 174.6667,
+    "population": 44318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opunake",
+    "region": "Taranaki Region",
+    "lat": -39.4556,
+    "lon": 173.8583,
+    "population": 44163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whitianga",
+    "region": "Waikato Region",
+    "lat": -36.8333,
+    "lon": 175.7,
+    "population": 44015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wairoa",
+    "region": "Hawke's Bay Region",
+    "lat": -39.0333,
+    "lon": 177.3667,
+    "population": 43553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otaki",
+    "region": "Wellington Region",
+    "lat": -40.7583,
+    "lon": 175.15,
+    "population": 43092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queenstown",
+    "region": "Otago Region",
+    "lat": -45.0302,
+    "lon": 168.6627,
+    "population": 42793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levin",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -40.6333,
+    "lon": 175.275,
+    "population": 41895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gore",
+    "region": "Southland Region",
+    "lat": -46.1028,
+    "lon": 168.9436,
+    "population": 41543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pleasant Point",
+    "region": "Canterbury Region",
+    "lat": -44.2667,
+    "lon": 171.1333,
+    "population": 41510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingston",
+    "region": "Otago Region",
+    "lat": -45.3329,
+    "lon": 168.7148,
+    "population": 40924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waimate North",
+    "region": "Northland Region",
+    "lat": -35.3167,
+    "lon": 173.8833,
+    "population": 40648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dargaville",
+    "region": "Northland Region",
+    "lat": -35.9333,
+    "lon": 173.8833,
+    "population": 40439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruakaka",
+    "region": "Northland Region",
+    "lat": -35.9082,
+    "lon": 174.4502,
+    "population": 39862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amberley",
+    "region": "Canterbury Region",
+    "lat": -43.1559,
+    "lon": 172.7297,
+    "population": 39830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaitaia",
+    "region": "Northland Region",
+    "lat": -35.1148,
+    "lon": 173.2637,
+    "population": 39821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oxford",
+    "region": "Canterbury Region",
+    "lat": -43.3,
+    "lon": 172.1833,
+    "population": 39703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brightwater",
+    "region": "Tasman District",
+    "lat": -41.3833,
+    "lon": 173.1167,
+    "population": 39259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Plymouth District",
+    "region": "Taranaki Region",
+    "lat": -39.0587,
+    "lon": 174.1031,
+    "population": 38972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parakai",
+    "region": "Auckland Region",
+    "lat": -36.65,
+    "lon": 174.4333,
+    "population": 38912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hokitika",
+    "region": "West Coast Region",
+    "lat": -42.7167,
+    "lon": 170.9667,
+    "population": 38892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahipara",
+    "region": "Northland Region",
+    "lat": -35.1667,
+    "lon": 173.1667,
+    "population": 38651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakuranga",
+    "region": "Auckland Region",
+    "lat": -36.8833,
+    "lon": 174.9167,
+    "population": 37510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waimakariri District",
+    "region": "Canterbury Region",
+    "lat": -43.2075,
+    "lon": 172.3329,
+    "population": 37285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raglan",
+    "region": "Waikato Region",
+    "lat": -37.8,
+    "lon": 174.8833,
+    "population": 37037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paihia",
+    "region": "Northland Region",
+    "lat": -35.2807,
+    "lon": 174.091,
+    "population": 36845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maketu",
+    "region": "Bay of Plenty Region",
+    "lat": -37.7667,
+    "lon": 176.45,
+    "population": 36811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eltham",
+    "region": "Taranaki Region",
+    "lat": -39.4292,
+    "lon": 174.3,
+    "population": 36334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngaruawahia",
+    "region": "Waikato Region",
+    "lat": -37.6674,
+    "lon": 175.1555,
+    "population": 36300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tairua",
+    "region": "Waikato Region",
+    "lat": -37.0167,
+    "lon": 175.85,
+    "population": 36271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rothesay Bay",
+    "region": "Auckland Region",
+    "lat": -36.726,
+    "lon": 174.7406,
+    "population": 35852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waipawa",
+    "region": "Wellington Region",
+    "lat": -41.4122,
+    "lon": 175.5153,
+    "population": 35830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rolleston",
+    "region": "Canterbury Region",
+    "lat": -43.5833,
+    "lon": 172.3833,
+    "population": 35779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodend",
+    "region": "Canterbury Region",
+    "lat": -43.3167,
+    "lon": 172.6667,
+    "population": 34762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whakatane",
+    "region": "Bay of Plenty Region",
+    "lat": -37.9586,
+    "lon": 176.9854,
+    "population": 34737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nelson",
+    "region": "Nelson Region",
+    "lat": -41.2708,
+    "lon": 173.284,
+    "population": 34707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapiti Coast District",
+    "region": "Wellington Region",
+    "lat": -40.8568,
+    "lon": 175.1469,
+    "population": 34174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waiuku",
+    "region": "Auckland Region",
+    "lat": -37.2481,
+    "lon": 174.7349,
+    "population": 34073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunedin",
+    "region": "Otago Region",
+    "lat": -45.8742,
+    "lon": 170.5036,
+    "population": 33403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaiapoi",
+    "region": "Canterbury Region",
+    "lat": -43.3783,
+    "lon": 172.6401,
+    "population": 33140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takanini",
+    "region": "Auckland Region",
+    "lat": -37.0482,
+    "lon": 174.9002,
+    "population": 33021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timaru District",
+    "region": "Canterbury Region",
+    "lat": -44.4,
+    "lon": 171.2167,
+    "population": 32900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngatea",
+    "region": "Waikato Region",
+    "lat": -37.2833,
+    "lon": 175.5,
+    "population": 32131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinwald",
+    "region": "Canterbury Region",
+    "lat": -43.9167,
+    "lon": 171.7167,
+    "population": 32038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patea",
+    "region": "Taranaki Region",
+    "lat": -39.7583,
+    "lon": 174.4833,
+    "population": 31926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oamaru",
+    "region": "Otago Region",
+    "lat": -45.0976,
+    "lon": 170.9709,
+    "population": 31894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hawera",
+    "region": "Taranaki Region",
+    "lat": -39.5917,
+    "lon": 174.2833,
+    "population": 31852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Christchurch City",
+    "region": "Canterbury Region",
+    "lat": -43.6458,
+    "lon": 172.7459,
+    "population": 31789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosebank",
+    "region": "Auckland Region",
+    "lat": -36.8749,
+    "lon": 174.6699,
+    "population": 30605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timaru",
+    "region": "Canterbury Region",
+    "lat": -44.3967,
+    "lon": 171.2536,
+    "population": 30555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khandallah",
+    "region": "Wellington Region",
+    "lat": -41.245,
+    "lon": 174.7942,
+    "population": 30487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kawerau",
+    "region": "Bay of Plenty Region",
+    "lat": -38.1,
+    "lon": 176.7,
+    "population": 30282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brooklyn",
+    "region": "Wellington Region",
+    "lat": -41.3059,
+    "lon": 174.7626,
+    "population": 30155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paeroa",
+    "region": "Waikato Region",
+    "lat": -37.3667,
+    "lon": 175.6667,
+    "population": 30001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Hill",
+    "region": "Auckland Region",
+    "lat": -37.0582,
+    "lon": 174.9702,
+    "population": 29836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cambridge",
+    "region": "Waikato Region",
+    "lat": -37.8782,
+    "lon": 175.4402,
+    "population": 29420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Far North District",
+    "region": "Northland Region",
+    "lat": -35.0336,
+    "lon": 173.4884,
+    "population": 29295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrowtown",
+    "region": "Otago Region",
+    "lat": -44.9384,
+    "lon": 168.8101,
+    "population": 29258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Invercargill",
+    "region": "Southland Region",
+    "lat": -46.4,
+    "lon": 168.35,
+    "population": 28961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamaki",
+    "region": "Auckland Region",
+    "lat": -36.8882,
+    "lon": 174.8602,
+    "population": 28881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taipa",
+    "region": "Northland Region",
+    "lat": -34.996,
+    "lon": 173.4666,
+    "population": 28607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Shore",
+    "region": "Auckland Region",
+    "lat": -36.8,
+    "lon": 174.75,
+    "population": 28285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foxton",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -40.4667,
+    "lon": 175.3,
+    "population": 28176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takaka",
+    "region": "Tasman District",
+    "lat": -40.85,
+    "lon": 172.8,
+    "population": 27439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winton",
+    "region": "Southland Region",
+    "lat": -46.15,
+    "lon": 168.3333,
+    "population": 27348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakaia",
+    "region": "Canterbury Region",
+    "lat": -43.75,
+    "lon": 172.0167,
+    "population": 27112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upper Hutt",
+    "region": "Wellington Region",
+    "lat": -41.1383,
+    "lon": 175.0502,
+    "population": 26654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turangi",
+    "region": "Waikato Region",
+    "lat": -38.9904,
+    "lon": 175.8084,
+    "population": 26347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blenheim",
+    "region": "Marlborough Region",
+    "lat": -41.516,
+    "lon": 173.9528,
+    "population": 25833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lower Hutt",
+    "region": "Wellington Region",
+    "lat": -41.2167,
+    "lon": 174.9167,
+    "population": 24835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wiri",
+    "region": "Auckland Region",
+    "lat": -36.9982,
+    "lon": 174.8602,
+    "population": 24646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashburton",
+    "region": "Canterbury Region",
+    "lat": -43.8983,
+    "lon": 171.7301,
+    "population": 24582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clutha District",
+    "region": "Otago Region",
+    "lat": -46.0388,
+    "lon": 169.6062,
+    "population": 24363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waitakere",
+    "region": "Auckland Region",
+    "lat": -36.9175,
+    "lon": 174.6577,
+    "population": 24218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riverton",
+    "region": "Southland Region",
+    "lat": -46.35,
+    "lon": 168.0167,
+    "population": 23802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maungatapere",
+    "region": "Northland Region",
+    "lat": -35.75,
+    "lon": 174.2,
+    "population": 23363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Plymouth",
+    "region": "Taranaki Region",
+    "lat": -39.0667,
+    "lon": 174.0833,
+    "population": 23332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edgecumbe",
+    "region": "Bay of Plenty Region",
+    "lat": -37.9833,
+    "lon": 176.8333,
+    "population": 23208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murupara",
+    "region": "Bay of Plenty Region",
+    "lat": -38.4667,
+    "lon": 176.7,
+    "population": 22714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaipara District",
+    "region": "Northland Region",
+    "lat": -35.9955,
+    "lon": 174.0469,
+    "population": 22411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murrays Bay",
+    "region": "Auckland Region",
+    "lat": -36.7282,
+    "lon": 174.7502,
+    "population": 22194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auckland",
+    "region": "Auckland Region",
+    "lat": -36.8485,
+    "lon": 174.7635,
+    "population": 21734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Waikato District",
+    "region": "Waikato Region",
+    "lat": -38.168,
+    "lon": 175.8862,
+    "population": 21392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katikati",
+    "region": "Bay of Plenty Region",
+    "lat": -37.55,
+    "lon": 175.9167,
+    "population": 20671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manukau City",
+    "region": "Auckland Region",
+    "lat": -36.9928,
+    "lon": 174.8799,
+    "population": 20395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Picton",
+    "region": "Marlborough Region",
+    "lat": -41.2907,
+    "lon": 174.008,
+    "population": 20208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond",
+    "region": "Tasman District",
+    "lat": -41.3333,
+    "lon": 173.1833,
+    "population": 20185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashburton District",
+    "region": "Canterbury Region",
+    "lat": -43.9,
+    "lon": 171.75,
+    "population": 20055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cromwell",
+    "region": "Otago Region",
+    "lat": -45.0384,
+    "lon": 169.2001,
+    "population": 19821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellington",
+    "region": "Wellington Region",
+    "lat": -41.2866,
+    "lon": 174.7756,
+    "population": 19570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lincoln",
+    "region": "Canterbury Region",
+    "lat": -43.65,
+    "lon": 172.4833,
+    "population": 19472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papatowai",
+    "region": "Otago Region",
+    "lat": -46.5607,
+    "lon": 169.4707,
+    "population": 19144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rotorua",
+    "region": "Bay of Plenty Region",
+    "lat": -38.1387,
+    "lon": 176.2452,
+    "population": 18670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellington City",
+    "region": "Wellington Region",
+    "lat": -41.253,
+    "lon": 174.7542,
+    "population": 18589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Napier",
+    "region": "Hawke's Bay Region",
+    "lat": -39.4926,
+    "lon": 176.9123,
+    "population": 17801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papakura",
+    "region": "Auckland Region",
+    "lat": -37.0657,
+    "lon": 174.9439,
+    "population": 17617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kawakawa",
+    "region": "Northland Region",
+    "lat": -35.3833,
+    "lon": 174.0667,
+    "population": 17319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Motueka",
+    "region": "Tasman District",
+    "lat": -41.1333,
+    "lon": 173.0167,
+    "population": 17187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Westport",
+    "region": "West Coast Region",
+    "lat": -41.7526,
+    "lon": 171.6037,
+    "population": 17038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milton",
+    "region": "Otago Region",
+    "lat": -46.1208,
+    "lon": 169.9694,
+    "population": 16936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Taranaki District",
+    "region": "Taranaki Region",
+    "lat": -39.5216,
+    "lon": 174.3716,
+    "population": 16776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngunguru",
+    "region": "Northland Region",
+    "lat": -35.6167,
+    "lon": 174.5,
+    "population": 16728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taupo",
+    "region": "Waikato Region",
+    "lat": -38.6833,
+    "lon": 176.0833,
+    "population": 16594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bluff",
+    "region": "Southland Region",
+    "lat": -46.6,
+    "lon": 168.3333,
+    "population": 16528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mackenzie District",
+    "region": "Canterbury Region",
+    "lat": -43.9399,
+    "lon": 170.5191,
+    "population": 16366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanaka",
+    "region": "Otago Region",
+    "lat": -44.7,
+    "lon": 169.15,
+    "population": 16261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horowhenua District",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -40.5773,
+    "lon": 175.3807,
+    "population": 15478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tauranga",
+    "region": "Bay of Plenty Region",
+    "lat": -37.6861,
+    "lon": 176.1667,
+    "population": 15455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Southland District",
+    "region": "Southland Region",
+    "lat": -45.7726,
+    "lon": 167.8527,
+    "population": 15435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Titirangi",
+    "region": "Auckland Region",
+    "lat": -36.9375,
+    "lon": 174.6558,
+    "population": 15297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thames",
+    "region": "Waikato Region",
+    "lat": -37.1383,
+    "lon": 175.5401,
+    "population": 15246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opotiki",
+    "region": "Bay of Plenty Region",
+    "lat": -38.0091,
+    "lon": 177.2871,
+    "population": 15175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moerewa",
+    "region": "Northland Region",
+    "lat": -35.3833,
+    "lon": 174.0333,
+    "population": 14861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tokoroa",
+    "region": "Waikato Region",
+    "lat": -38.2333,
+    "lon": 175.8667,
+    "population": 14777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matamata",
+    "region": "Waikato Region",
+    "lat": -37.8106,
+    "lon": 175.7624,
+    "population": 14618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmerston North",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -40.3564,
+    "lon": 175.6111,
+    "population": 14289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hastings",
+    "region": "Hawke's Bay Region",
+    "lat": -39.6381,
+    "lon": 176.8492,
+    "population": 14163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prebbleton",
+    "region": "Canterbury Region",
+    "lat": -43.5833,
+    "lon": 172.5167,
+    "population": 13870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masterton",
+    "region": "Wellington Region",
+    "lat": -40.9597,
+    "lon": 175.6575,
+    "population": 13248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whangamata",
+    "region": "Waikato Region",
+    "lat": -37.2,
+    "lon": 175.8667,
+    "population": 12932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Wairarapa District",
+    "region": "Wellington Region",
+    "lat": -41.2673,
+    "lon": 175.3844,
+    "population": 12847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waiouru",
+    "region": "Manawatu-Wanganui Region",
+    "lat": -39.4775,
+    "lon": 175.6683,
+    "population": 12786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selwyn District",
+    "region": "Canterbury Region",
+    "lat": -43.3223,
+    "lon": 171.8706,
+    "population": 12249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wakefield",
+    "region": "Tasman District",
+    "lat": -41.4,
+    "lon": 173.05,
+    "population": 12169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waihi Beach",
+    "region": "Bay of Plenty Region",
+    "lat": -37.4,
+    "lon": 175.9333,
+    "population": 11999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelburn",
+    "region": "Wellington Region",
+    "lat": -41.2833,
+    "lon": 174.7667,
+    "population": 11953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balclutha",
+    "region": "Otago Region",
+    "lat": -46.2339,
+    "lon": 169.75,
+    "population": 11613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Christchurch",
+    "region": "Canterbury Region",
+    "lat": -43.5333,
+    "lon": 172.6333,
+    "population": 11416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coromandel",
+    "region": "Waikato Region",
+    "lat": -36.7611,
+    "lon": 175.4963,
+    "population": 10988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waihi",
+    "region": "Waikato Region",
+    "lat": -37.3833,
+    "lon": 175.8333,
+    "population": 10814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porirua",
+    "region": "Wellington Region",
+    "lat": -41.1333,
+    "lon": 174.85,
+    "population": 10800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leeston",
+    "region": "Canterbury Region",
+    "lat": -43.7667,
+    "lon": 172.3,
+    "population": 10645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerikeri",
+    "region": "Northland Region",
+    "lat": -35.2268,
+    "lon": 173.9474,
+    "population": 10556,
+    "timezone": "UTC"
+  }
+]

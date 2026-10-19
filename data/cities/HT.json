@@ -1,0 +1,994 @@
+[
+  {
+    "name": "Belle-Anse",
+    "region": "Sud-Est",
+    "lat": 18.2377,
+    "lon": -72.0664,
+    "population": 49995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tigwav",
+    "region": "Ouest",
+    "lat": 18.4312,
+    "lon": -72.8652,
+    "population": 49937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koto",
+    "region": "Sud",
+    "lat": 18.206,
+    "lon": -74.0401,
+    "population": 49885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delmas 73",
+    "region": "Ouest",
+    "lat": 18.5447,
+    "lon": -72.3028,
+    "population": 49363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corail",
+    "region": "Grand'Anse",
+    "lat": 18.5677,
+    "lon": -73.8894,
+    "population": 49104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petit Trou de Nippes",
+    "region": "Nippes",
+    "lat": 18.5253,
+    "lon": -73.5082,
+    "population": 48959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Les Anglais",
+    "region": "Sud",
+    "lat": 18.3054,
+    "lon": -74.2197,
+    "population": 48931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de la Grande Rivière du Nord",
+    "region": "Nord",
+    "lat": 19.5167,
+    "lon": -72.1667,
+    "population": 48450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thiotte",
+    "region": "Sud-Est",
+    "lat": 18.2438,
+    "lon": -71.8416,
+    "population": 48362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilate",
+    "region": "Nord",
+    "lat": 19.6674,
+    "lon": -72.5523,
+    "population": 48335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Marc",
+    "region": "Artibonite",
+    "lat": 19.1082,
+    "lon": -72.6938,
+    "population": 48070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranquitte",
+    "region": "Nord",
+    "lat": 19.4133,
+    "lon": -72.0808,
+    "population": 48001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Désarmes",
+    "region": "Artibonite",
+    "lat": 18.9934,
+    "lon": -72.3906,
+    "population": 47764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeremi",
+    "region": "Grand'Anse",
+    "lat": 18.5833,
+    "lon": -74.2,
+    "population": 46934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grande Rivière du Nord",
+    "region": "Nord",
+    "lat": 19.5774,
+    "lon": -72.1687,
+    "population": 46716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grangwav",
+    "region": "Ouest",
+    "lat": 18.4259,
+    "lon": -72.7699,
+    "population": 46656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Liberté",
+    "region": "Nord-Est",
+    "lat": 19.6627,
+    "lon": -71.838,
+    "population": 46013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kenscoff",
+    "region": "Ouest",
+    "lat": 18.4477,
+    "lon": -72.284,
+    "population": 46004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roche-à-Bateau",
+    "region": "Sud",
+    "lat": 18.1818,
+    "lon": -74.0035,
+    "population": 45643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borgne",
+    "region": "Nord",
+    "lat": 19.8451,
+    "lon": -72.5235,
+    "population": 45619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ti Port-de-Paix",
+    "region": "Nord-Ouest",
+    "lat": 19.9333,
+    "lon": -72.8333,
+    "population": 45313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plaisance",
+    "region": "Nord",
+    "lat": 19.598,
+    "lon": -72.4699,
+    "population": 45282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jean-Rabel",
+    "region": "Nord-Ouest",
+    "lat": 19.8538,
+    "lon": -73.1913,
+    "population": 45276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port-au-Prince",
+    "region": "Ouest",
+    "lat": 18.5435,
+    "lon": -72.3388,
+    "population": 45206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouanaminthe",
+    "region": "Nord-Est",
+    "lat": 19.5493,
+    "lon": -71.7248,
+    "population": 45131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Léogâne",
+    "region": "Ouest",
+    "lat": 18.5111,
+    "lon": -72.6334,
+    "population": 44869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milot",
+    "region": "Nord",
+    "lat": 19.6084,
+    "lon": -72.2132,
+    "population": 44006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port-à-Piment",
+    "region": "Sud",
+    "lat": 18.2496,
+    "lon": -74.0971,
+    "population": 44001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Louis du Nord",
+    "region": "Nord-Ouest",
+    "lat": 19.934,
+    "lon": -72.7214,
+    "population": 43746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Saint-Marc",
+    "region": "Artibonite",
+    "lat": 19,
+    "lon": -72.5,
+    "population": 43700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marmelade",
+    "region": "Artibonite",
+    "lat": 19.5174,
+    "lon": -72.3613,
+    "population": 43305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anse-à-Veau",
+    "region": "Grand'Anse",
+    "lat": 18.5011,
+    "lon": -73.3449,
+    "population": 43043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Port-au-Prince",
+    "region": "Ouest",
+    "lat": 18.5,
+    "lon": -72.3667,
+    "population": 42031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cornillon",
+    "region": "Ouest",
+    "lat": 18.6755,
+    "lon": -71.9527,
+    "population": 42011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moron",
+    "region": "Grand'Anse",
+    "lat": 18.5604,
+    "lon": -74.2578,
+    "population": 41609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayisad",
+    "region": "Centre",
+    "lat": 19.1761,
+    "lon": -72.1396,
+    "population": 41589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonaïves",
+    "region": "Artibonite",
+    "lat": 19.4475,
+    "lon": -72.6893,
+    "population": 41361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiburon",
+    "region": "Sud",
+    "lat": 18.3259,
+    "lon": -74.396,
+    "population": 40207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gressier",
+    "region": "Ouest",
+    "lat": 18.5409,
+    "lon": -72.5268,
+    "population": 40161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerca la Source",
+    "region": "Centre",
+    "lat": 19.167,
+    "lon": -71.7901,
+    "population": 40016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fond Bassin Bleu",
+    "region": "Nord-Ouest",
+    "lat": 19.7945,
+    "lon": -72.7995,
+    "population": 39936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dondon",
+    "region": "Nord",
+    "lat": 19.5273,
+    "lon": -72.2434,
+    "population": 39860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dessalines",
+    "region": "Artibonite",
+    "lat": 19.2618,
+    "lon": -72.5161,
+    "population": 39757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabaret",
+    "region": "Ouest",
+    "lat": 18.7358,
+    "lon": -72.4193,
+    "population": 39731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dérac",
+    "region": "Nord-Est",
+    "lat": 19.6548,
+    "lon": -71.8145,
+    "population": 38937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grande Saline",
+    "region": "Artibonite",
+    "lat": 19.2651,
+    "lon": -72.769,
+    "population": 38295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirebalais",
+    "region": "Centre",
+    "lat": 18.8346,
+    "lon": -72.1048,
+    "population": 37958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacmel",
+    "region": "Sud-Est",
+    "lat": 18.2343,
+    "lon": -72.5354,
+    "population": 37942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arcahaie",
+    "region": "Ouest",
+    "lat": 18.8333,
+    "lon": -72.4167,
+    "population": 37724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acul du Nord",
+    "region": "Nord",
+    "lat": 19.6667,
+    "lon": -72.2833,
+    "population": 37719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miragoâne",
+    "region": "Nippes",
+    "lat": 18.446,
+    "lon": -73.0896,
+    "population": 36065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fond des Blancs",
+    "region": "Sud",
+    "lat": 18.2778,
+    "lon": -73.1273,
+    "population": 35945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Port-Salut",
+    "region": "Sud",
+    "lat": 18.1333,
+    "lon": -73.9,
+    "population": 35856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dame-Marie",
+    "region": "Grand'Anse",
+    "lat": 18.5611,
+    "lon": -74.4217,
+    "population": 35615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bombardopolis",
+    "region": "Nord-Ouest",
+    "lat": 19.6914,
+    "lon": -73.3377,
+    "population": 35523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement du Borgne",
+    "region": "Nord",
+    "lat": 19.75,
+    "lon": -72.5,
+    "population": 35184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lascahobas",
+    "region": "Centre",
+    "lat": 18.8305,
+    "lon": -71.9356,
+    "population": 34895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fond Parisien",
+    "region": "Ouest",
+    "lat": 18.5055,
+    "lon": -71.9812,
+    "population": 34846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrefour",
+    "region": "Ouest",
+    "lat": 18.5411,
+    "lon": -72.3992,
+    "population": 34757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trou du Nord",
+    "region": "Nord-Est",
+    "lat": 19.6167,
+    "lon": -72.0244,
+    "population": 34462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement du Trou du Nord",
+    "region": "Nord-Est",
+    "lat": 19.55,
+    "lon": -71.9833,
+    "population": 34014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahon",
+    "region": "Nord",
+    "lat": 19.4696,
+    "lon": -72.1147,
+    "population": 33992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Port-de-Paix",
+    "region": "Nord-Ouest",
+    "lat": 19.8333,
+    "lon": -72.8833,
+    "population": 33780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verrettes",
+    "region": "Artibonite",
+    "lat": 19.0505,
+    "lon": -72.4659,
+    "population": 33767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caracol",
+    "region": "Nord-Est",
+    "lat": 19.6927,
+    "lon": -72.0173,
+    "population": 32999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Fort Liberté",
+    "region": "Nord-Est",
+    "lat": 19.5667,
+    "lon": -71.8333,
+    "population": 32491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fonds Verrettes",
+    "region": "Ouest",
+    "lat": 18.3957,
+    "lon": -71.8563,
+    "population": 32451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Les Irois",
+    "region": "Grand'Anse",
+    "lat": 18.4049,
+    "lon": -74.4528,
+    "population": 32322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ennery",
+    "region": "Artibonite",
+    "lat": 19.4834,
+    "lon": -72.4854,
+    "population": 32208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hinche",
+    "region": "Centre",
+    "lat": 19.15,
+    "lon": -72.0167,
+    "population": 32026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anse Rouge",
+    "region": "Artibonite",
+    "lat": 19.6338,
+    "lon": -73.0553,
+    "population": 31689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cavaillon",
+    "region": "Sud",
+    "lat": 18.2999,
+    "lon": -73.6546,
+    "population": 31656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotdefè",
+    "region": "Sud-Est",
+    "lat": 18.1887,
+    "lon": -73.0029,
+    "population": 31390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Léogâne",
+    "region": "Ouest",
+    "lat": 18.4167,
+    "lon": -72.75,
+    "population": 29627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carice",
+    "region": "Nord-Est",
+    "lat": 19.3779,
+    "lon": -71.8303,
+    "population": 29626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement du Môle Saint-Nicolas",
+    "region": "Nord-Ouest",
+    "lat": 19.75,
+    "lon": -73.25,
+    "population": 29597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanament",
+    "region": "Nord-Est",
+    "lat": 19.4833,
+    "lon": -71.7667,
+    "population": 28708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anse-à-Pitre",
+    "region": "Sud-Est",
+    "lat": 18.05,
+    "lon": -71.75,
+    "population": 27914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anse à Galets",
+    "region": "Ouest",
+    "lat": 18.8345,
+    "lon": -72.8664,
+    "population": 27486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petite Anse",
+    "region": "Nord-Ouest",
+    "lat": 19.6301,
+    "lon": -73.155,
+    "population": 26947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gros Morne",
+    "region": "Artibonite",
+    "lat": 19.6708,
+    "lon": -72.6781,
+    "population": 26546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phaëton",
+    "region": "Nord-Est",
+    "lat": 19.6752,
+    "lon": -71.8969,
+    "population": 26089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baie de Henne",
+    "region": "Nord-Ouest",
+    "lat": 19.6631,
+    "lon": -73.2094,
+    "population": 26023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thomazeau",
+    "region": "Ouest",
+    "lat": 18.653,
+    "lon": -72.0939,
+    "population": 24899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pignon",
+    "region": "Nord",
+    "lat": 19.3359,
+    "lon": -72.1166,
+    "population": 24795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torbeck",
+    "region": "Sud",
+    "lat": 18.1634,
+    "lon": -73.8095,
+    "population": 24507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chardonnière",
+    "region": "Sud",
+    "lat": 18.2748,
+    "lon": -74.1661,
+    "population": 24315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aquin",
+    "region": "Sud",
+    "lat": 18.2797,
+    "lon": -73.3943,
+    "population": 24004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marigot",
+    "region": "Sud-Est",
+    "lat": 18.2317,
+    "lon": -72.3229,
+    "population": 23955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Croix des Bouquets",
+    "region": "Ouest",
+    "lat": 18.4833,
+    "lon": -72.0167,
+    "population": 22949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement des Cayes",
+    "region": "Sud",
+    "lat": 18.3,
+    "lon": -73.8333,
+    "population": 20916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chambellan",
+    "region": "Grand'Anse",
+    "lat": 18.5504,
+    "lon": -74.3132,
+    "population": 20681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Raphaël",
+    "region": "Nord",
+    "lat": 19.4388,
+    "lon": -72.1991,
+    "population": 20561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Jacmel",
+    "region": "Sud-Est",
+    "lat": 18.3333,
+    "lon": -72.5,
+    "population": 20319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port-de-Paix",
+    "region": "Nord-Ouest",
+    "lat": 19.9398,
+    "lon": -72.8304,
+    "population": 19896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cayes-Jacmel",
+    "region": "Sud-Est",
+    "lat": 18.2311,
+    "lon": -72.3954,
+    "population": 19868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Les Abricots",
+    "region": "Grand'Anse",
+    "lat": 18.649,
+    "lon": -74.3079,
+    "population": 19155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port-Margot",
+    "region": "Nord",
+    "lat": 19.7518,
+    "lon": -72.4301,
+    "population": 18732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Les Cayes",
+    "region": "Sud",
+    "lat": 18.1933,
+    "lon": -73.746,
+    "population": 18689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limonade",
+    "region": "Nord",
+    "lat": 19.6701,
+    "lon": -72.1243,
+    "population": 18631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Cerca La Source",
+    "region": "Centre",
+    "lat": 19.1167,
+    "lon": -71.75,
+    "population": 18622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ansavo",
+    "region": "Nippes",
+    "lat": 18.4167,
+    "lon": -73.5,
+    "population": 18351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petite Rivière de Nippes",
+    "region": "Grand'Anse",
+    "lat": 18.4761,
+    "lon": -73.2349,
+    "population": 17976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thomassique",
+    "region": "Centre",
+    "lat": 19.0821,
+    "lon": -71.8385,
+    "population": 16971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pétionville",
+    "region": "Ouest",
+    "lat": 18.5125,
+    "lon": -72.2853,
+    "population": 16701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arcahaie",
+    "region": "Nord-Ouest",
+    "lat": 19.8167,
+    "lon": -72.9167,
+    "population": 15790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chantal",
+    "region": "Sud",
+    "lat": 18.2017,
+    "lon": -73.8896,
+    "population": 15694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montòrganize",
+    "region": "Nord-Est",
+    "lat": 19.4081,
+    "lon": -71.7813,
+    "population": 15531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Croix-des-Bouquets",
+    "region": "Ouest",
+    "lat": 18.5768,
+    "lon": -72.2262,
+    "population": 15481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagonav",
+    "region": "Ouest",
+    "lat": 18.85,
+    "lon": -73.05,
+    "population": 15468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Môle Saint-Nicolas",
+    "region": "Nord-Ouest",
+    "lat": 19.807,
+    "lon": -73.3761,
+    "population": 15069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okap",
+    "region": "Nord",
+    "lat": 19.7594,
+    "lon": -72.1981,
+    "population": 14460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Plaisance",
+    "region": "Nord",
+    "lat": 19.6676,
+    "lon": -72.5491,
+    "population": 13942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Saint-Louis du Nord",
+    "region": "Nord-Ouest",
+    "lat": 19.85,
+    "lon": -72.6667,
+    "population": 13650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baradères",
+    "region": "Nippes",
+    "lat": 18.4825,
+    "lon": -73.6388,
+    "population": 13633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plaine du Nord",
+    "region": "Nord",
+    "lat": 19.6771,
+    "lon": -72.2697,
+    "population": 13626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenbe",
+    "region": "Nord",
+    "lat": 19.706,
+    "lon": -72.4034,
+    "population": 13572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perches",
+    "region": "Nord-Est",
+    "lat": 19.522,
+    "lon": -71.9232,
+    "population": 13472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferrier",
+    "region": "Nord-Est",
+    "lat": 19.6155,
+    "lon": -71.7779,
+    "population": 11665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jérémie",
+    "region": "Grand'Anse",
+    "lat": 18.65,
+    "lon": -74.1167,
+    "population": 10987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thomonde",
+    "region": "Centre",
+    "lat": 19.0173,
+    "lon": -71.9624,
+    "population": 10820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quartier Morin",
+    "region": "Nord",
+    "lat": 19.697,
+    "lon": -72.1571,
+    "population": 10780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Louis du Sud",
+    "region": "Sud",
+    "lat": 18.2624,
+    "lon": -73.546,
+    "population": 10442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrondissement de Bainet",
+    "region": "Sud-Est",
+    "lat": 18.25,
+    "lon": -72.85,
+    "population": 10039,
+    "timezone": "UTC"
+  }
+]

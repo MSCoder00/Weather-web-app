@@ -1,0 +1,8042 @@
+[
+  {
+    "name": "Hajdúnánás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.85,
+    "lon": 21.4333,
+    "population": 49965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Püspökladány",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3167,
+    "lon": 21.1167,
+    "population": 49897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárosd",
+    "region": "Fejér County",
+    "lat": 47.0427,
+    "lon": 18.6436,
+    "population": 49872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kistelek",
+    "region": "Csongrád County",
+    "lat": 46.4725,
+    "lon": 19.9797,
+    "population": 49860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyíregyházi Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9769,
+    "lon": 21.6446,
+    "population": 49858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasvári Járás",
+    "region": "Vas County",
+    "lat": 47.0349,
+    "lon": 16.8594,
+    "population": 49800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tököl",
+    "region": "Pest County",
+    "lat": 47.3218,
+    "lon": 18.9625,
+    "population": 49729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest VIII. kerület",
+    "region": "Budapest",
+    "lat": 47.4892,
+    "lon": 19.0701,
+    "population": 49719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budaörs",
+    "region": "Pest County",
+    "lat": 47.4618,
+    "lon": 18.9584,
+    "population": 49688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solt",
+    "region": "Bács-Kiskun County",
+    "lat": 46.801,
+    "lon": 19.001,
+    "population": 49668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szászvár",
+    "region": "Baranya County",
+    "lat": 46.2767,
+    "lon": 18.3757,
+    "population": 49619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruzsa",
+    "region": "Csongrád County",
+    "lat": 46.2881,
+    "lon": 19.7471,
+    "population": 49612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszakécske",
+    "region": "Bács-Kiskun County",
+    "lat": 46.9326,
+    "lon": 20.1035,
+    "population": 49603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buj",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1,
+    "lon": 21.65,
+    "population": 49594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajóvámos",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1817,
+    "lon": 20.8315,
+    "population": 49564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soponya",
+    "region": "Fejér County",
+    "lat": 47.0149,
+    "lon": 18.4534,
+    "population": 49530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonszabadi",
+    "region": "Somogy County",
+    "lat": 46.894,
+    "lon": 18.1374,
+    "population": 49527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szarvasi Járás",
+    "region": "Békés County",
+    "lat": 46.8289,
+    "lon": 20.6371,
+    "population": 49494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mecseknádasd",
+    "region": "Baranya County",
+    "lat": 46.2247,
+    "lon": 18.4708,
+    "population": 49473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dávod",
+    "region": "Bács-Kiskun County",
+    "lat": 45.995,
+    "lon": 18.9172,
+    "population": 49447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszapüspöki",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.2167,
+    "lon": 20.3167,
+    "population": 49428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szekszárdi Járás",
+    "region": "Tolna County",
+    "lat": 46.34,
+    "lon": 18.6789,
+    "population": 49425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budakeszi",
+    "region": "Pest County",
+    "lat": 47.5108,
+    "lon": 18.9272,
+    "population": 49339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madocsa",
+    "region": "Tolna County",
+    "lat": 46.6879,
+    "lon": 18.9579,
+    "population": 49331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gödöllő",
+    "region": "Pest County",
+    "lat": 47.5966,
+    "lon": 19.3551,
+    "population": 49227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pákozd",
+    "region": "Fejér County",
+    "lat": 47.2137,
+    "lon": 18.5331,
+    "population": 49196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőkovácsháza",
+    "region": "Békés County",
+    "lat": 46.4,
+    "lon": 20.9167,
+    "population": 49180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaszőlős",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.5571,
+    "lon": 20.7195,
+    "population": 49140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyúl",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5905,
+    "lon": 17.689,
+    "population": 49086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalaszentgróti Járás",
+    "region": "Zala County",
+    "lat": 46.9207,
+    "lon": 17.101,
+    "population": 49082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárvári Járás",
+    "region": "Vas County",
+    "lat": 47.2387,
+    "lon": 16.933,
+    "population": 49042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káloz",
+    "region": "Fejér County",
+    "lat": 46.9546,
+    "lon": 18.4826,
+    "population": 49018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kispest",
+    "region": "Budapest",
+    "lat": 47.4515,
+    "lon": 19.1402,
+    "population": 48932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hidas",
+    "region": "Baranya County",
+    "lat": 46.2568,
+    "lon": 18.4954,
+    "population": 48829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentendre",
+    "region": "Pest County",
+    "lat": 47.6694,
+    "lon": 19.0756,
+    "population": 48819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalaegerszeg",
+    "region": "Zala County",
+    "lat": 46.84,
+    "lon": 16.8439,
+    "population": 48810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gádoros",
+    "region": "Békés County",
+    "lat": 46.6667,
+    "lon": 20.6,
+    "population": 48804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abony",
+    "region": "Pest County",
+    "lat": 47.1899,
+    "lon": 20.0048,
+    "population": 48783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barcsi Járás",
+    "region": "Somogy County",
+    "lat": 46.0369,
+    "lon": 17.4743,
+    "population": 48697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Üllés",
+    "region": "Csongrád County",
+    "lat": 46.3361,
+    "lon": 19.8445,
+    "population": 48683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szabadkígyós",
+    "region": "Békés County",
+    "lat": 46.6167,
+    "lon": 21.1,
+    "population": 48617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapuvári Járás",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5671,
+    "lon": 17.0406,
+    "population": 48614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunaharaszti",
+    "region": "Pest County",
+    "lat": 47.3545,
+    "lon": 19.0982,
+    "population": 48606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tab",
+    "region": "Somogy County",
+    "lat": 46.7313,
+    "lon": 18.032,
+    "population": 48588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maroslele",
+    "region": "Csongrád County",
+    "lat": 46.2667,
+    "lon": 20.35,
+    "population": 48554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poroszló",
+    "region": "Heves County",
+    "lat": 47.65,
+    "lon": 20.6667,
+    "population": 48472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúböszörmény",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6667,
+    "lon": 21.5167,
+    "population": 48471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskunhalas",
+    "region": "Bács-Kiskun County",
+    "lat": 46.434,
+    "lon": 19.4848,
+    "population": 48436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászalsószentgyörgy",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3667,
+    "lon": 20.1,
+    "population": 48413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alattyán",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.4271,
+    "lon": 20.0422,
+    "population": 48388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keszthelyi Járás",
+    "region": "Zala County",
+    "lat": 46.7836,
+    "lon": 17.2238,
+    "population": 48343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőkovácsházai Járás",
+    "region": "Békés County",
+    "lat": 46.4089,
+    "lon": 21.0032,
+    "population": 48288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Püspökladányi Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3128,
+    "lon": 21.2118,
+    "population": 48261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyöngyöspata",
+    "region": "Heves County",
+    "lat": 47.815,
+    "lon": 19.7892,
+    "population": 48225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taszár",
+    "region": "Somogy County",
+    "lat": 46.3747,
+    "lon": 17.9059,
+    "population": 48209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárbogárd",
+    "region": "Fejér County",
+    "lat": 46.8869,
+    "lon": 18.6204,
+    "population": 48202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lőrinci",
+    "region": "Heves County",
+    "lat": 47.733,
+    "lon": 19.6787,
+    "population": 48180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harkány",
+    "region": "Baranya County",
+    "lat": 45.85,
+    "lon": 18.2367,
+    "population": 48039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunhegyes",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3667,
+    "lon": 20.6333,
+    "population": 48004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilisborosjenő",
+    "region": "Pest County",
+    "lat": 47.6074,
+    "lon": 18.9932,
+    "population": 47929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rimóc",
+    "region": "Nógrád County",
+    "lat": 48.0369,
+    "lon": 19.5301,
+    "population": 47922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentmártonkáta",
+    "region": "Pest County",
+    "lat": 47.4542,
+    "lon": 19.7014,
+    "population": 47887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apagy",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9643,
+    "lon": 21.9354,
+    "population": 47885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyszénás",
+    "region": "Békés County",
+    "lat": 46.6833,
+    "lon": 20.6667,
+    "population": 47867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarnalelesz",
+    "region": "Heves County",
+    "lat": 48.05,
+    "lon": 20.1833,
+    "population": 47830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derecske",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.35,
+    "lon": 21.5667,
+    "population": 47668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Celldömölki Járás",
+    "region": "Vas County",
+    "lat": 47.25,
+    "lon": 17.1321,
+    "population": 47650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskőrösi Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.6331,
+    "lon": 19.3373,
+    "population": 47648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelebia",
+    "region": "Bács-Kiskun County",
+    "lat": 46.1968,
+    "lon": 19.6166,
+    "population": 47643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dévaványa",
+    "region": "Békés County",
+    "lat": 47.0333,
+    "lon": 20.9667,
+    "population": 47555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tar",
+    "region": "Nógrád County",
+    "lat": 47.9537,
+    "lon": 19.7461,
+    "population": 47424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaja",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0057,
+    "lon": 22.1676,
+    "population": 47393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nádudvar",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.4167,
+    "lon": 21.1667,
+    "population": 47362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hevesi Járás",
+    "region": "Heves County",
+    "lat": 47.6153,
+    "lon": 20.3174,
+    "population": 47314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskunfélegyházi Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.6572,
+    "lon": 19.7701,
+    "population": 47297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Röszke",
+    "region": "Csongrád County",
+    "lat": 46.188,
+    "lon": 20.0337,
+    "population": 47273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszafüredi Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.5391,
+    "lon": 20.7888,
+    "population": 47138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírcsaholy",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9038,
+    "lon": 22.3363,
+    "population": 47117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Váci Járás",
+    "region": "Pest County",
+    "lat": 47.7832,
+    "lon": 19.2388,
+    "population": 47045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Előszállás",
+    "region": "Fejér County",
+    "lat": 46.8309,
+    "lon": 18.8348,
+    "population": 46959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vámosgyörk",
+    "region": "Heves County",
+    "lat": 47.6843,
+    "lon": 19.9292,
+    "population": 46910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aszódi Járás",
+    "region": "Pest County",
+    "lat": 47.6474,
+    "lon": 19.5424,
+    "population": 46904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Múcsony",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2667,
+    "lon": 20.6833,
+    "population": 46865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csemő",
+    "region": "Pest County",
+    "lat": 47.118,
+    "lon": 19.6909,
+    "population": 46854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porcsalma",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8833,
+    "lon": 22.5667,
+    "population": 46817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Görbeháza",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.8333,
+    "lon": 21.2333,
+    "population": 46793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sopron",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.685,
+    "lon": 16.5905,
+    "population": 46757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonalmádi Járás",
+    "region": "Veszprém County",
+    "lat": 47.0417,
+    "lon": 18.0962,
+    "population": 46727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaújvárosi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.9266,
+    "lon": 20.9932,
+    "population": 46686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galgamácsa",
+    "region": "Pest County",
+    "lat": 47.6956,
+    "lon": 19.3872,
+    "population": 46605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Őrbottyán",
+    "region": "Pest County",
+    "lat": 47.6871,
+    "lon": 19.2824,
+    "population": 46595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szakoly",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7667,
+    "lon": 21.9167,
+    "population": 46531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatvani Járás",
+    "region": "Heves County",
+    "lat": 47.6947,
+    "lon": 19.7285,
+    "population": 46446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zánka",
+    "region": "Veszprém County",
+    "lat": 46.8715,
+    "lon": 17.6847,
+    "population": 46437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírábrány",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.5531,
+    "lon": 22.024,
+    "population": 46400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszadada",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0333,
+    "lon": 21.25,
+    "population": 46258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magyarbánhegyes",
+    "region": "Békés County",
+    "lat": 46.45,
+    "lon": 20.9667,
+    "population": 46240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Érd",
+    "region": "Pest County",
+    "lat": 47.3949,
+    "lon": 18.9136,
+    "population": 46145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szolnok",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.1833,
+    "lon": 20.2,
+    "population": 46131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúszovát",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3833,
+    "lon": 21.4833,
+    "population": 46090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyrábé",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.2,
+    "lon": 21.3333,
+    "population": 46060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Báránd",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3,
+    "lon": 21.2333,
+    "population": 45966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pusztaszabolcs",
+    "region": "Fejér County",
+    "lat": 47.1372,
+    "lon": 18.767,
+    "population": 45959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogyiszló",
+    "region": "Tolna County",
+    "lat": 46.3864,
+    "lon": 18.8296,
+    "population": 45913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tázlár",
+    "region": "Bács-Kiskun County",
+    "lat": 46.5482,
+    "lon": 19.5144,
+    "population": 45898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szigethalom",
+    "region": "Pest County",
+    "lat": 47.3223,
+    "lon": 19.0026,
+    "population": 45856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mány",
+    "region": "Fejér County",
+    "lat": 47.5335,
+    "lon": 18.6563,
+    "population": 45747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőkövesd",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.8167,
+    "lon": 20.5833,
+    "population": 45745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőtúr",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47,
+    "lon": 20.6333,
+    "population": 45562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "dunaújváros",
+    "region": "Fejér County",
+    "lat": 46.9674,
+    "lon": 18.9329,
+    "population": 45530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csenger",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8358,
+    "lon": 22.681,
+    "population": 45462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarpa",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1048,
+    "lon": 22.5374,
+    "population": 45434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosonszentmiklós",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.7278,
+    "lon": 17.4278,
+    "population": 45423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceglédi Járás",
+    "region": "Pest County",
+    "lat": 47.2,
+    "lon": 19.8246,
+    "population": 45412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vajszló",
+    "region": "Baranya County",
+    "lat": 45.8596,
+    "lon": 17.9841,
+    "population": 45396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírbogdány",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0572,
+    "lon": 21.8824,
+    "population": 45395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonfüred",
+    "region": "Veszprém County",
+    "lat": 46.9619,
+    "lon": 17.8719,
+    "population": 45357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyál",
+    "region": "Pest County",
+    "lat": 47.3845,
+    "lon": 19.2214,
+    "population": 45355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Töltéstava",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6261,
+    "lon": 17.7338,
+    "population": 45314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lánycsók",
+    "region": "Baranya County",
+    "lat": 46.0054,
+    "lon": 18.6253,
+    "population": 45297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaszentimre",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.4833,
+    "lon": 20.7333,
+    "population": 45268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alap",
+    "region": "Fejér County",
+    "lat": 46.7991,
+    "lon": 18.6894,
+    "population": 45204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Újszász",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3,
+    "lon": 20.0833,
+    "population": 45173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budakeszi Járás",
+    "region": "Pest County",
+    "lat": 47.4979,
+    "lon": 18.8498,
+    "population": 45152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyíradony",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6975,
+    "lon": 21.9188,
+    "population": 45072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vecsés",
+    "region": "Pest County",
+    "lat": 47.407,
+    "lon": 19.2865,
+    "population": 45039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaposmérő",
+    "region": "Somogy County",
+    "lat": 46.3617,
+    "lon": 17.704,
+    "population": 44956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maklár",
+    "region": "Heves County",
+    "lat": 47.8,
+    "lon": 20.4167,
+    "population": 44949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fényeslitke",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.2713,
+    "lon": 22.1001,
+    "population": 44941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Napkor",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.938,
+    "lon": 21.8676,
+    "population": 44917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csákvár",
+    "region": "Fejér County",
+    "lat": 47.3918,
+    "lon": 18.465,
+    "population": 44887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csongrád",
+    "region": "Csongrád County",
+    "lat": 46.7133,
+    "lon": 20.1424,
+    "population": 44884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pécsváradi Járás",
+    "region": "Baranya County",
+    "lat": 46.1678,
+    "lon": 18.4546,
+    "population": 44830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cserszegtomaj",
+    "region": "Zala County",
+    "lat": 46.8017,
+    "lon": 17.221,
+    "population": 44782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogács",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.9,
+    "lon": 20.5333,
+    "population": 44780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csengőd",
+    "region": "Bács-Kiskun County",
+    "lat": 46.7154,
+    "lon": 19.268,
+    "population": 44763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskunhalasi Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.3583,
+    "lon": 19.5307,
+    "population": 44612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagybaracska",
+    "region": "Bács-Kiskun County",
+    "lat": 46.0425,
+    "lon": 18.9059,
+    "population": 44566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tokaj",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1167,
+    "lon": 21.4167,
+    "population": 44491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazár",
+    "region": "Nógrád County",
+    "lat": 48.0495,
+    "lon": 19.8614,
+    "population": 44452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abaújszántó",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2833,
+    "lon": 21.2,
+    "population": 44445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszalök",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0167,
+    "lon": 21.3833,
+    "population": 44415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszabercel",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.15,
+    "lon": 21.65,
+    "population": 44366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugac",
+    "region": "Bács-Kiskun County",
+    "lat": 46.687,
+    "lon": 19.6807,
+    "population": 44220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edelény",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3,
+    "lon": 20.7333,
+    "population": 44170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encsencs",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7333,
+    "lon": 22.1167,
+    "population": 44152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szedres",
+    "region": "Tolna County",
+    "lat": 46.4755,
+    "lon": 18.6831,
+    "population": 44102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nemesvámos",
+    "region": "Veszprém County",
+    "lat": 47.0551,
+    "lon": 17.8748,
+    "population": 43983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harta",
+    "region": "Bács-Kiskun County",
+    "lat": 46.6976,
+    "lon": 19.0311,
+    "population": 43904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lengyeltóti",
+    "region": "Somogy County",
+    "lat": 46.6701,
+    "lon": 17.644,
+    "population": 43888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Felsőszentiván",
+    "region": "Bács-Kiskun County",
+    "lat": 46.1971,
+    "lon": 19.1869,
+    "population": 43867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aszaló",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2167,
+    "lon": 20.9667,
+    "population": 43860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abasár",
+    "region": "Heves County",
+    "lat": 47.797,
+    "lon": 20.0032,
+    "population": 43828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Békés",
+    "region": "Békés County",
+    "lat": 46.7667,
+    "lon": 21.1333,
+    "population": 43774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Győr",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6833,
+    "lon": 17.6351,
+    "population": 43699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentgotthárd",
+    "region": "Vas County",
+    "lat": 46.9526,
+    "lon": 16.2736,
+    "population": 43697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csorvás",
+    "region": "Békés County",
+    "lat": 46.6333,
+    "lon": 20.8333,
+    "population": 43694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szabadszállás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8757,
+    "lon": 19.2232,
+    "population": 43685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iklad",
+    "region": "Pest County",
+    "lat": 47.6653,
+    "lon": 19.4361,
+    "population": 43674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszakécskei Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8601,
+    "lon": 19.973,
+    "population": 43620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kocsér",
+    "region": "Pest County",
+    "lat": 47.0016,
+    "lon": 19.9207,
+    "population": 43619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makó",
+    "region": "Csongrád County",
+    "lat": 46.2167,
+    "lon": 20.4833,
+    "population": 43596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enying",
+    "region": "Fejér County",
+    "lat": 46.9305,
+    "lon": 18.242,
+    "population": 43566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hodász",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9183,
+    "lon": 22.2015,
+    "population": 43506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Móri Járás",
+    "region": "Fejér County",
+    "lat": 47.3469,
+    "lon": 18.1984,
+    "population": 43339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csurgói Járás",
+    "region": "Somogy County",
+    "lat": 46.295,
+    "lon": 17.1002,
+    "population": 43316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ráckevei Járás",
+    "region": "Pest County",
+    "lat": 47.1516,
+    "lon": 19.0146,
+    "population": 43309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miskolci Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.0868,
+    "lon": 20.7735,
+    "population": 43278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medgyesegyháza",
+    "region": "Békés County",
+    "lat": 46.5,
+    "lon": 21.0333,
+    "population": 43234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mór",
+    "region": "Fejér County",
+    "lat": 47.3779,
+    "lon": 18.2035,
+    "population": 43123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pusztaszer",
+    "region": "Csongrád County",
+    "lat": 46.5508,
+    "lon": 19.9882,
+    "population": 43065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Városföld",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8167,
+    "lon": 19.7567,
+    "population": 43035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykőrös",
+    "region": "Pest County",
+    "lat": 47.0342,
+    "lon": 19.7786,
+    "population": 42974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Héhalom",
+    "region": "Nógrád County",
+    "lat": 47.7802,
+    "lon": 19.5852,
+    "population": 42956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaeszlár",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.05,
+    "lon": 21.4667,
+    "population": 42704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zákányszék",
+    "region": "Csongrád County",
+    "lat": 46.2745,
+    "lon": 19.8897,
+    "population": 42685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pécel",
+    "region": "Pest County",
+    "lat": 47.4896,
+    "lon": 19.3416,
+    "population": 42600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rácalmás",
+    "region": "Fejér County",
+    "lat": 47.0226,
+    "lon": 18.9406,
+    "population": 42596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sátoraljaújhely",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3949,
+    "lon": 21.6587,
+    "population": 42570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hódmezővásárhely",
+    "region": "Csongrád County",
+    "lat": 46.4167,
+    "lon": 20.3333,
+    "population": 42532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pápai Járás",
+    "region": "Veszprém County",
+    "lat": 47.3377,
+    "lon": 17.4966,
+    "population": 42528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acsa",
+    "region": "Pest County",
+    "lat": 47.7942,
+    "lon": 19.388,
+    "population": 42462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ásványráró",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.8273,
+    "lon": 17.4942,
+    "population": 42451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pétfürdő",
+    "region": "Veszprém County",
+    "lat": 47.1667,
+    "lon": 18.1167,
+    "population": 42450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csömör",
+    "region": "Pest County",
+    "lat": 47.55,
+    "lon": 19.2333,
+    "population": 42432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyékládháza",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.9833,
+    "lon": 20.8333,
+    "population": 42411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szada",
+    "region": "Pest County",
+    "lat": 47.6333,
+    "lon": 19.3167,
+    "population": 42363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapuvár",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5922,
+    "lon": 17.0289,
+    "population": 42352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mindszent",
+    "region": "Csongrád County",
+    "lat": 46.5236,
+    "lon": 20.1904,
+    "population": 42336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentgálpuszta",
+    "region": "Tolna County",
+    "lat": 46.3748,
+    "lon": 18.626,
+    "population": 42332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szikszó",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2,
+    "lon": 20.9333,
+    "population": 42331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaföldvár",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 46.9833,
+    "lon": 20.25,
+    "population": 42253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farkaslyuk",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1833,
+    "lon": 20.3167,
+    "population": 42065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szany",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.4642,
+    "lon": 17.304,
+    "population": 42031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levelek",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9628,
+    "lon": 21.9854,
+    "population": 41929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vép",
+    "region": "Vas County",
+    "lat": 47.2304,
+    "lon": 16.7225,
+    "population": 41916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mándok",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.3215,
+    "lon": 22.1911,
+    "population": 41835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kecskeméti Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8828,
+    "lon": 19.587,
+    "population": 41828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugyi",
+    "region": "Pest County",
+    "lat": 47.2275,
+    "lon": 19.1466,
+    "population": 41790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Újszilvás",
+    "region": "Pest County",
+    "lat": 47.2748,
+    "lon": 19.9248,
+    "population": 41788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putnok",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3,
+    "lon": 20.4333,
+    "population": 41712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászladány",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3667,
+    "lon": 20.1667,
+    "population": 41664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárospataki Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2957,
+    "lon": 21.5272,
+    "population": 41664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunaszentgyörgy",
+    "region": "Tolna County",
+    "lat": 46.5285,
+    "lon": 18.8177,
+    "population": 41645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentgotthárdi Járás",
+    "region": "Vas County",
+    "lat": 46.9367,
+    "lon": 16.3036,
+    "population": 41543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohács",
+    "region": "Baranya County",
+    "lat": 45.9902,
+    "lon": 18.6862,
+    "population": 41486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Böhönye",
+    "region": "Somogy County",
+    "lat": 46.4134,
+    "lon": 17.3804,
+    "population": 41460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zomba",
+    "region": "Tolna County",
+    "lat": 46.4108,
+    "lon": 18.5658,
+    "population": 41392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szigetvár",
+    "region": "Baranya County",
+    "lat": 46.0487,
+    "lon": 17.8055,
+    "population": 41374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sásd",
+    "region": "Baranya County",
+    "lat": 46.2552,
+    "lon": 18.1078,
+    "population": 41295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fehérgyarmati Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0044,
+    "lon": 22.6301,
+    "population": 41263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devecseri Járás",
+    "region": "Veszprém County",
+    "lat": 47.1684,
+    "lon": 17.3227,
+    "population": 41136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Örkény",
+    "region": "Pest County",
+    "lat": 47.1299,
+    "lon": 19.4332,
+    "population": 41096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajószentpéter",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2167,
+    "lon": 20.7167,
+    "population": 41088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárospatak",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3245,
+    "lon": 21.5738,
+    "population": 41079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diósd",
+    "region": "Pest County",
+    "lat": 47.4095,
+    "lon": 18.949,
+    "population": 41078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tunyogmatolcs",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9667,
+    "lon": 22.4667,
+    "population": 41055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőfalva",
+    "region": "Fejér County",
+    "lat": 46.9318,
+    "lon": 18.7718,
+    "population": 40960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zugló",
+    "region": "Budapest",
+    "lat": 47.5176,
+    "lon": 19.1055,
+    "population": 40925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest IV. kerület",
+    "region": "Budapest",
+    "lat": 47.5618,
+    "lon": 19.0891,
+    "population": 40918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarkad",
+    "region": "Békés County",
+    "lat": 46.75,
+    "lon": 21.3833,
+    "population": 40903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Érsekcsanád",
+    "region": "Bács-Kiskun County",
+    "lat": 46.2535,
+    "lon": 18.9846,
+    "population": 40885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszadob",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0167,
+    "lon": 21.1667,
+    "population": 40862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hernádnémeti",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.0667,
+    "lon": 20.9833,
+    "population": 40860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajószöged",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.95,
+    "lon": 21,
+    "population": 40847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tóalmás",
+    "region": "Pest County",
+    "lat": 47.5078,
+    "lon": 19.6666,
+    "population": 40739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dombóvári Járás",
+    "region": "Tolna County",
+    "lat": 46.4559,
+    "lon": 18.1908,
+    "population": 40723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisláng",
+    "region": "Fejér County",
+    "lat": 46.9574,
+    "lon": 18.3881,
+    "population": 40689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kakucs",
+    "region": "Pest County",
+    "lat": 47.242,
+    "lon": 19.3647,
+    "population": 40680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilisvörösvár",
+    "region": "Pest County",
+    "lat": 47.6139,
+    "lon": 18.9089,
+    "population": 40611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szeghalom",
+    "region": "Békés County",
+    "lat": 47.0333,
+    "lon": 21.1667,
+    "population": 40607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forrópuszta",
+    "region": "Pest County",
+    "lat": 47.455,
+    "lon": 19.66,
+    "population": 40583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyhalász",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1327,
+    "lon": 21.761,
+    "population": 40563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentlőrinckáta",
+    "region": "Pest County",
+    "lat": 47.5195,
+    "lon": 19.7529,
+    "population": 40551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szob",
+    "region": "Pest County",
+    "lat": 47.8192,
+    "lon": 18.8702,
+    "population": 40500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szigetszentmiklós",
+    "region": "Pest County",
+    "lat": 47.3438,
+    "lon": 19.0434,
+    "population": 40332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konyár",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3167,
+    "lon": 21.6667,
+    "population": 40267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cegléd",
+    "region": "Pest County",
+    "lat": 47.1727,
+    "lon": 19.7995,
+    "population": 40263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagymányok",
+    "region": "Tolna County",
+    "lat": 46.2791,
+    "lon": 18.4549,
+    "population": 40239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szank",
+    "region": "Bács-Kiskun County",
+    "lat": 46.5571,
+    "lon": 19.661,
+    "population": 40217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Péteri",
+    "region": "Pest County",
+    "lat": 47.391,
+    "lon": 19.4098,
+    "population": 40121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Felsőpakony",
+    "region": "Pest County",
+    "lat": 47.3433,
+    "lon": 19.237,
+    "population": 40120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cigándi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3034,
+    "lon": 21.8765,
+    "population": 40118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírgyulaj",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8862,
+    "lon": 22.0978,
+    "population": 40069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farád",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6063,
+    "lon": 17.2002,
+    "population": 40033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telki",
+    "region": "Pest County",
+    "lat": 47.5479,
+    "lon": 18.8282,
+    "population": 39999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szarvas",
+    "region": "Békés County",
+    "lat": 46.8667,
+    "lon": 20.55,
+    "population": 39977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devecser",
+    "region": "Veszprém County",
+    "lat": 47.1032,
+    "lon": 17.438,
+    "population": 39943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajkai Járás",
+    "region": "Veszprém County",
+    "lat": 47.0799,
+    "lon": 17.5637,
+    "population": 39888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabasi Járás",
+    "region": "Pest County",
+    "lat": 47.19,
+    "lon": 19.33,
+    "population": 39860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hortobágy",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.5828,
+    "lon": 21.1511,
+    "population": 39837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inárcs",
+    "region": "Pest County",
+    "lat": 47.262,
+    "lon": 19.327,
+    "population": 39831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szeghalmi Járás",
+    "region": "Békés County",
+    "lat": 47,
+    "lon": 21.17,
+    "population": 39830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágfalva",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6899,
+    "lon": 16.5166,
+    "population": 39799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murakeresztúr",
+    "region": "Zala County",
+    "lat": 46.3642,
+    "lon": 16.8818,
+    "population": 39709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boldog",
+    "region": "Heves County",
+    "lat": 47.6028,
+    "lon": 19.6884,
+    "population": 39690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harsány",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.9667,
+    "lon": 20.75,
+    "population": 39676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bag",
+    "region": "Pest County",
+    "lat": 47.6333,
+    "lon": 19.4833,
+    "population": 39648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cigánd",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2556,
+    "lon": 21.892,
+    "population": 39648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyomaendrőd",
+    "region": "Békés County",
+    "lat": 46.9333,
+    "lon": 20.8333,
+    "population": 39623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lepsény",
+    "region": "Fejér County",
+    "lat": 46.9904,
+    "lon": 18.2436,
+    "population": 39602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírbátor",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8333,
+    "lon": 22.1333,
+    "population": 39498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Üröm",
+    "region": "Pest County",
+    "lat": 47.5967,
+    "lon": 19.0158,
+    "population": 39473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vácszentlászló",
+    "region": "Pest County",
+    "lat": 47.574,
+    "lon": 19.5377,
+    "population": 39394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Törökbálint",
+    "region": "Pest County",
+    "lat": 47.4293,
+    "lon": 18.9136,
+    "population": 39388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taktaharkány",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.0833,
+    "lon": 21.1333,
+    "population": 39367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pásztó",
+    "region": "Nógrád County",
+    "lat": 47.9202,
+    "lon": 19.6983,
+    "population": 39351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyíregyháza",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9554,
+    "lon": 21.7167,
+    "population": 39259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rábapatona",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6322,
+    "lon": 17.48,
+    "population": 39149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tengelic",
+    "region": "Tolna County",
+    "lat": 46.5288,
+    "lon": 18.7112,
+    "population": 39140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyöngyössolymos",
+    "region": "Heves County",
+    "lat": 47.8172,
+    "lon": 19.9362,
+    "population": 38999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hernád",
+    "region": "Pest County",
+    "lat": 47.1624,
+    "lon": 19.433,
+    "population": 38999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírmada",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0667,
+    "lon": 22.2,
+    "population": 38994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pétervásárai Járás",
+    "region": "Heves County",
+    "lat": 48.0059,
+    "lon": 20.0947,
+    "population": 38907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kálmánháza",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8833,
+    "lon": 21.5833,
+    "population": 38883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dombegyház",
+    "region": "Békés County",
+    "lat": 46.3333,
+    "lon": 21.1333,
+    "population": 38751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyíradonyi Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.5787,
+    "lon": 22.0138,
+    "population": 38744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonyhád",
+    "region": "Tolna County",
+    "lat": 46.2992,
+    "lon": 18.5302,
+    "population": 38735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaposvár",
+    "region": "Somogy County",
+    "lat": 46.3667,
+    "lon": 17.8,
+    "population": 38693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocsaj",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.2833,
+    "lon": 21.8167,
+    "population": 38685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kéthely",
+    "region": "Somogy County",
+    "lat": 46.6461,
+    "lon": 17.3936,
+    "population": 38617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovasberény",
+    "region": "Fejér County",
+    "lat": 47.31,
+    "lon": 18.5518,
+    "population": 38543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aba",
+    "region": "Fejér County",
+    "lat": 47.0291,
+    "lon": 18.5217,
+    "population": 38515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentendrei Járás",
+    "region": "Pest County",
+    "lat": 47.7115,
+    "lon": 19.0252,
+    "population": 38506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalaegerszegi Járás",
+    "region": "Zala County",
+    "lat": 46.8,
+    "lon": 16.83,
+    "population": 38470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Békéscsaba",
+    "region": "Békés County",
+    "lat": 46.6833,
+    "lon": 21.1,
+    "population": 38441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajóörös",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.95,
+    "lon": 21.0333,
+    "population": 38318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskőrös",
+    "region": "Bács-Kiskun County",
+    "lat": 46.6214,
+    "lon": 19.2853,
+    "population": 38293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gödöllői Járás",
+    "region": "Pest County",
+    "lat": 47.5513,
+    "lon": 19.3959,
+    "population": 38261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aszód",
+    "region": "Pest County",
+    "lat": 47.6517,
+    "lon": 19.4785,
+    "population": 38256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sellye",
+    "region": "Baranya County",
+    "lat": 45.8725,
+    "lon": 17.8471,
+    "population": 38143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajoskomárom",
+    "region": "Fejér County",
+    "lat": 46.842,
+    "lon": 18.3376,
+    "population": 38110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martonvásár",
+    "region": "Fejér County",
+    "lat": 47.316,
+    "lon": 18.7904,
+    "population": 38046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kondoros",
+    "region": "Békés County",
+    "lat": 46.7667,
+    "lon": 20.8,
+    "population": 37891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Táborfalva",
+    "region": "Pest County",
+    "lat": 47.0994,
+    "lon": 19.4784,
+    "population": 37860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pomáz",
+    "region": "Pest County",
+    "lat": 47.6423,
+    "lon": 19.0278,
+    "population": 37788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vál",
+    "region": "Fejér County",
+    "lat": 47.3626,
+    "lon": 18.6793,
+    "population": 37786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárvár",
+    "region": "Vas County",
+    "lat": 47.254,
+    "lon": 16.9352,
+    "population": 37754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rétság",
+    "region": "Nógrád County",
+    "lat": 47.9282,
+    "lon": 19.1372,
+    "population": 37742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szilvásvárad",
+    "region": "Heves County",
+    "lat": 48.1,
+    "lon": 20.4,
+    "population": 37694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászárokszállás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.6424,
+    "lon": 19.9804,
+    "population": 37643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gara",
+    "region": "Bács-Kiskun County",
+    "lat": 46.0319,
+    "lon": 19.0428,
+    "population": 37637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakitelek",
+    "region": "Bács-Kiskun County",
+    "lat": 46.876,
+    "lon": 19.995,
+    "population": 37562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászkarajenő",
+    "region": "Pest County",
+    "lat": 47.05,
+    "lon": 20.0667,
+    "population": 37561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúszoboszló",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.45,
+    "lon": 21.4,
+    "population": 37496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagyvaszántó",
+    "region": "Heves County",
+    "lat": 47.777,
+    "lon": 19.6709,
+    "population": 37429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gomba",
+    "region": "Pest County",
+    "lat": 47.371,
+    "lon": 19.5306,
+    "population": 37407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salgótarjáni Járás",
+    "region": "Nógrád County",
+    "lat": 48.1005,
+    "lon": 19.8155,
+    "population": 37370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zirc",
+    "region": "Veszprém County",
+    "lat": 47.2636,
+    "lon": 17.8737,
+    "population": 37361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páty",
+    "region": "Pest County",
+    "lat": 47.5171,
+    "lon": 18.8285,
+    "population": 37338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gégény",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.15,
+    "lon": 21.95,
+    "population": 37326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balassagyarmati Járás",
+    "region": "Nógrád County",
+    "lat": 48.0166,
+    "lon": 19.3059,
+    "population": 37253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Záhonyi Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.3491,
+    "lon": 22.1893,
+    "population": 37189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszavasvári",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9667,
+    "lon": 21.35,
+    "population": 37163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balkány",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7707,
+    "lon": 21.8631,
+    "population": 37133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunavarsány",
+    "region": "Pest County",
+    "lat": 47.2786,
+    "lon": 19.0662,
+    "population": 37057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fonyód",
+    "region": "Somogy County",
+    "lat": 46.7555,
+    "lon": 17.5795,
+    "population": 36976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalaszentgrót",
+    "region": "Zala County",
+    "lat": 46.9447,
+    "lon": 17.0792,
+    "population": 36889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biharkeresztes",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.1333,
+    "lon": 21.7167,
+    "population": 36775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XXI. kerület",
+    "region": "Budapest",
+    "lat": 47.4305,
+    "lon": 19.071,
+    "population": 36757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ősi",
+    "region": "Veszprém County",
+    "lat": 47.1472,
+    "lon": 18.1883,
+    "population": 36709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sándorfalva",
+    "region": "Csongrád County",
+    "lat": 46.3609,
+    "lon": 20.0989,
+    "population": 36701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Döge",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.2625,
+    "lon": 22.0634,
+    "population": 36669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szécsény",
+    "region": "Nógrád County",
+    "lat": 48.0806,
+    "lon": 19.5202,
+    "population": 36582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Úrkút",
+    "region": "Veszprém County",
+    "lat": 47.0851,
+    "lon": 17.6439,
+    "population": 36577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ráckeve",
+    "region": "Pest County",
+    "lat": 47.1609,
+    "lon": 18.9448,
+    "population": 36571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fertőd",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6217,
+    "lon": 16.8709,
+    "population": 36569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ököritófülpös",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9186,
+    "lon": 22.5081,
+    "population": 36500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hort",
+    "region": "Heves County",
+    "lat": 47.6908,
+    "lon": 19.7893,
+    "population": 36496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monori Járás",
+    "region": "Pest County",
+    "lat": 47.3499,
+    "lon": 19.4768,
+    "population": 36479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mórahalmi Járás",
+    "region": "Csongrád County",
+    "lat": 46.2684,
+    "lon": 19.8226,
+    "population": 36468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tótkomlós",
+    "region": "Békés County",
+    "lat": 46.4167,
+    "lon": 20.7333,
+    "population": 36327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bodajk",
+    "region": "Fejér County",
+    "lat": 47.3235,
+    "lon": 18.2331,
+    "population": 36320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Győri Járás",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6727,
+    "lon": 17.6794,
+    "population": 36299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polgár",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.8667,
+    "lon": 21.1167,
+    "population": 36285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derecskei Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3819,
+    "lon": 21.7484,
+    "population": 36269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sümegi Járás",
+    "region": "Veszprém County",
+    "lat": 47.0265,
+    "lon": 17.2678,
+    "population": 36187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bercel",
+    "region": "Nógrád County",
+    "lat": 47.8706,
+    "lon": 19.4072,
+    "population": 36008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mátraterenye",
+    "region": "Nógrád County",
+    "lat": 48.0327,
+    "lon": 19.9476,
+    "population": 35991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baktalórántházai Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0044,
+    "lon": 22.0245,
+    "population": 35959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolna",
+    "region": "Tolna County",
+    "lat": 46.4268,
+    "lon": 18.7825,
+    "population": 35953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Celldömölk",
+    "region": "Vas County",
+    "lat": 47.2571,
+    "lon": 17.1503,
+    "population": 35897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prügy",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.0833,
+    "lon": 21.25,
+    "population": 35843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szatymaz",
+    "region": "Csongrád County",
+    "lat": 46.3431,
+    "lon": 20.0402,
+    "population": 35820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mórahalom",
+    "region": "Csongrád County",
+    "lat": 46.2181,
+    "lon": 19.8851,
+    "population": 35811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hegyháti Járás",
+    "region": "Baranya County",
+    "lat": 46.2725,
+    "lon": 18.1376,
+    "population": 35797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beled",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.4659,
+    "lon": 17.0929,
+    "population": 35620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iváncsa",
+    "region": "Fejér County",
+    "lat": 47.1567,
+    "lon": 18.8203,
+    "population": 35549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abádszalók",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.4667,
+    "lon": 20.6,
+    "population": 35520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszanagyfalu",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1,
+    "lon": 21.4833,
+    "population": 35500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ásotthalom",
+    "region": "Csongrád County",
+    "lat": 46.1987,
+    "lon": 19.7833,
+    "population": 35496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fábiánsebestyén",
+    "region": "Csongrád County",
+    "lat": 46.6833,
+    "lon": 20.4667,
+    "population": 35416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Becsehely",
+    "region": "Zala County",
+    "lat": 46.4475,
+    "lon": 16.7771,
+    "population": 35415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírmihálydi",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7398,
+    "lon": 21.9644,
+    "population": 35411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csepreg",
+    "region": "Vas County",
+    "lat": 47.401,
+    "lon": 16.7088,
+    "population": 35376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baracska",
+    "region": "Fejér County",
+    "lat": 47.2822,
+    "lon": 18.7585,
+    "population": 35365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fertőrákos",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.7202,
+    "lon": 16.6504,
+    "population": 35295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Törökszentmiklós",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.1833,
+    "lon": 20.4167,
+    "population": 35272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Battonya",
+    "region": "Békés County",
+    "lat": 46.2833,
+    "lon": 21.0167,
+    "population": 35267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kincsesbánya",
+    "region": "Fejér County",
+    "lat": 47.2644,
+    "lon": 18.2779,
+    "population": 35214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diósjenő",
+    "region": "Nógrád County",
+    "lat": 47.9397,
+    "lon": 19.0432,
+    "population": 35147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tápiószentmárton",
+    "region": "Pest County",
+    "lat": 47.3399,
+    "lon": 19.7465,
+    "population": 35145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elek",
+    "region": "Békés County",
+    "lat": 46.5333,
+    "lon": 21.25,
+    "population": 34915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okány",
+    "region": "Békés County",
+    "lat": 46.9,
+    "lon": 21.35,
+    "population": 34866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tápiógyörgye",
+    "region": "Pest County",
+    "lat": 47.3351,
+    "lon": 19.9528,
+    "population": 34817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszalúc",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.0377,
+    "lon": 21.0726,
+    "population": 34814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somogyvár",
+    "region": "Somogy County",
+    "lat": 46.5814,
+    "lon": 17.6629,
+    "population": 34745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabi Járás",
+    "region": "Somogy County",
+    "lat": 46.6804,
+    "lon": 18.0056,
+    "population": 34689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Táplánszentkereszt",
+    "region": "Vas County",
+    "lat": 47.195,
+    "lon": 16.6961,
+    "population": 34649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyecsed",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8655,
+    "lon": 22.3916,
+    "population": 34645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biatorbágy",
+    "region": "Pest County",
+    "lat": 47.4706,
+    "lon": 18.8189,
+    "population": 34624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerepes",
+    "region": "Pest County",
+    "lat": 47.5601,
+    "lon": 19.2829,
+    "population": 34593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szeged",
+    "region": "Csongrád County",
+    "lat": 46.253,
+    "lon": 20.1482,
+    "population": 34585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lébény",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.7357,
+    "lon": 17.3908,
+    "population": 34584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kemecse",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0753,
+    "lon": 21.8062,
+    "population": 34576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárkeresztúr",
+    "region": "Fejér County",
+    "lat": 47.0054,
+    "lon": 18.5439,
+    "population": 34510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XVII. kerület",
+    "region": "Budapest",
+    "lat": 47.48,
+    "lon": 19.2539,
+    "population": 34484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szurdokpüspöki",
+    "region": "Nógrád County",
+    "lat": 47.8592,
+    "lon": 19.6922,
+    "population": 34467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sellyei Járás",
+    "region": "Baranya County",
+    "lat": 45.8695,
+    "lon": 17.8983,
+    "population": 34397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boldva",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2167,
+    "lon": 20.8,
+    "population": 34391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazincbarcika",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.25,
+    "lon": 20.6333,
+    "population": 34334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Répcelak",
+    "region": "Vas County",
+    "lat": 47.4211,
+    "lon": 17.0179,
+    "population": 34333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ecséd",
+    "region": "Heves County",
+    "lat": 47.7327,
+    "lon": 19.767,
+    "population": 34324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tyukod",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8538,
+    "lon": 22.5633,
+    "population": 34135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentkirály",
+    "region": "Bács-Kiskun County",
+    "lat": 46.9189,
+    "lon": 19.9185,
+    "population": 34085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polgárdi",
+    "region": "Fejér County",
+    "lat": 47.061,
+    "lon": 18.302,
+    "population": 34064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunmadaras",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.4333,
+    "lon": 20.8,
+    "population": 33946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyöngyösi Járás",
+    "region": "Heves County",
+    "lat": 47.7908,
+    "lon": 19.9543,
+    "population": 33858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cece",
+    "region": "Fejér County",
+    "lat": 46.7706,
+    "lon": 18.6283,
+    "population": 33789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siófok",
+    "region": "Somogy County",
+    "lat": 46.9041,
+    "lon": 18.058,
+    "population": 33734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doboz",
+    "region": "Békés County",
+    "lat": 46.7333,
+    "lon": 21.25,
+    "population": 33733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paksi Járás",
+    "region": "Tolna County",
+    "lat": 46.6604,
+    "lon": 18.7857,
+    "population": 33715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orosházi Járás",
+    "region": "Békés County",
+    "lat": 46.5635,
+    "lon": 20.7336,
+    "population": 33709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dég",
+    "region": "Fejér County",
+    "lat": 46.8681,
+    "lon": 18.4504,
+    "population": 33682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pázmánd",
+    "region": "Fejér County",
+    "lat": 47.2876,
+    "lon": 18.6536,
+    "population": 33629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sátoraljaújhelyi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.459,
+    "lon": 21.5439,
+    "population": 33505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barcs",
+    "region": "Somogy County",
+    "lat": 45.96,
+    "lon": 17.4586,
+    "population": 33461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bácsbokod",
+    "region": "Bács-Kiskun County",
+    "lat": 46.125,
+    "lon": 19.1562,
+    "population": 33412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszakeszi",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.7833,
+    "lon": 21,
+    "population": 33411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúhadházi Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.67,
+    "lon": 21.7,
+    "population": 33403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izsófalva",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3,
+    "lon": 20.6667,
+    "population": 33388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hévízgyörk",
+    "region": "Pest County",
+    "lat": 47.6333,
+    "lon": 19.5167,
+    "population": 33196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisvárdai Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.221,
+    "lon": 22.0642,
+    "population": 33165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ófehértó",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9333,
+    "lon": 22.05,
+    "population": 33105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tapolcai Járás",
+    "region": "Veszprém County",
+    "lat": 46.8983,
+    "lon": 17.4951,
+    "population": 33072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerecsend",
+    "region": "Heves County",
+    "lat": 47.8,
+    "lon": 20.35,
+    "population": 33009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bököny",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7333,
+    "lon": 21.75,
+    "population": 32941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domaszék",
+    "region": "Csongrád County",
+    "lat": 46.2492,
+    "lon": 20.0111,
+    "population": 32809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyulai Járás",
+    "region": "Békés County",
+    "lat": 46.5863,
+    "lon": 21.2245,
+    "population": 32648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szárliget",
+    "region": "Fejér County",
+    "lat": 47.5158,
+    "lon": 18.4948,
+    "population": 32617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XXIII. kerület",
+    "region": "Budapest",
+    "lat": 47.3979,
+    "lon": 19.1149,
+    "population": 32516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyönk",
+    "region": "Tolna County",
+    "lat": 46.556,
+    "lon": 18.4769,
+    "population": 32495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martonvásári Járás",
+    "region": "Fejér County",
+    "lat": 47.2904,
+    "lon": 18.7995,
+    "population": 32424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kállósemjén",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8608,
+    "lon": 21.9393,
+    "population": 32386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tihany",
+    "region": "Veszprém County",
+    "lat": 46.9137,
+    "lon": 17.8892,
+    "population": 32356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apc",
+    "region": "Heves County",
+    "lat": 47.7942,
+    "lon": 19.6943,
+    "population": 32344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petneháza",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0608,
+    "lon": 22.0749,
+    "population": 32343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baktalórántháza",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48,
+    "lon": 22.0833,
+    "population": 32290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maglód",
+    "region": "Pest County",
+    "lat": 47.4426,
+    "lon": 19.3644,
+    "population": 32290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykálló",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8749,
+    "lon": 21.8408,
+    "population": 32227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nemesnádudvar",
+    "region": "Bács-Kiskun County",
+    "lat": 46.3405,
+    "lon": 19.0511,
+    "population": 32173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szajol",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.1833,
+    "lon": 20.3,
+    "population": 32162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szikszói Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3003,
+    "lon": 20.9551,
+    "population": 32152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírkarász",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0948,
+    "lon": 22.1046,
+    "population": 32137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Érdi Járás",
+    "region": "Pest County",
+    "lat": 47.356,
+    "lon": 18.9017,
+    "population": 32129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Demecser",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1165,
+    "lon": 21.9262,
+    "population": 32124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isaszeg",
+    "region": "Pest County",
+    "lat": 47.5301,
+    "lon": 19.402,
+    "population": 32074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabas",
+    "region": "Pest County",
+    "lat": 47.1859,
+    "lon": 19.3109,
+    "population": 32030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonfüredi Járás",
+    "region": "Veszprém County",
+    "lat": 46.9395,
+    "lon": 17.7941,
+    "population": 32009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mád",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1944,
+    "lon": 21.2821,
+    "population": 32006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Besenyőtelek",
+    "region": "Heves County",
+    "lat": 47.7,
+    "lon": 20.4333,
+    "population": 31973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyáli Járás",
+    "region": "Pest County",
+    "lat": 47.3682,
+    "lon": 19.2754,
+    "population": 31946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iregszemcse",
+    "region": "Tolna County",
+    "lat": 46.6929,
+    "lon": 18.1858,
+    "population": 31859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XIII. kerület",
+    "region": "Budapest",
+    "lat": 47.5298,
+    "lon": 19.0807,
+    "population": 31841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyöngyös",
+    "region": "Heves County",
+    "lat": 47.7826,
+    "lon": 19.928,
+    "population": 31830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dusnok",
+    "region": "Bács-Kiskun County",
+    "lat": 46.3909,
+    "lon": 18.963,
+    "population": 31820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Létavértes",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3833,
+    "lon": 21.9,
+    "population": 31792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vecsési Járás",
+    "region": "Pest County",
+    "lat": 47.4292,
+    "lon": 19.3014,
+    "population": 31773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírbogát",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8034,
+    "lon": 22.0656,
+    "population": 31734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csetény",
+    "region": "Veszprém County",
+    "lat": 47.3181,
+    "lon": 17.9921,
+    "population": 31702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bácsalmási Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.1017,
+    "lon": 19.3306,
+    "population": 31686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuzsér",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.3441,
+    "lon": 22.1176,
+    "population": 31665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárrétudvari",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.2333,
+    "lon": 21.2,
+    "population": 31628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúnánási Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.8335,
+    "lon": 21.2526,
+    "population": 31494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajak",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1766,
+    "lon": 22.0627,
+    "population": 31483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berzence",
+    "region": "Somogy County",
+    "lat": 46.2091,
+    "lon": 17.1481,
+    "population": 31473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jobbágyi",
+    "region": "Nógrád County",
+    "lat": 47.8324,
+    "lon": 19.6776,
+    "population": 31471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykátai Járás",
+    "region": "Pest County",
+    "lat": 47.3911,
+    "lon": 19.7392,
+    "population": 31427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosd",
+    "region": "Pest County",
+    "lat": 47.8079,
+    "lon": 19.1782,
+    "population": 31324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Füzesabonyi Járás",
+    "region": "Heves County",
+    "lat": 47.7267,
+    "lon": 20.4288,
+    "population": 31247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunaföldvár",
+    "region": "Tolna County",
+    "lat": 46.8071,
+    "lon": 18.9276,
+    "population": 31208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jánoshida",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3833,
+    "lon": 20.0667,
+    "population": 31178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúdorog",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.8167,
+    "lon": 21.5,
+    "population": 31163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenti Járás",
+    "region": "Zala County",
+    "lat": 46.6565,
+    "lon": 16.5744,
+    "population": 31074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pécsi Járás",
+    "region": "Baranya County",
+    "lat": 46.0799,
+    "lon": 18.2525,
+    "population": 31019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mátészalkai Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9296,
+    "lon": 22.3189,
+    "population": 31007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunakeszi Járás",
+    "region": "Pest County",
+    "lat": 47.6337,
+    "lon": 19.1625,
+    "population": 30967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaskút",
+    "region": "Bács-Kiskun County",
+    "lat": 46.1078,
+    "lon": 18.9851,
+    "population": 30928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adács",
+    "region": "Heves County",
+    "lat": 47.6921,
+    "lon": 19.977,
+    "population": 30915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madaras",
+    "region": "Bács-Kiskun County",
+    "lat": 46.0587,
+    "lon": 19.2612,
+    "population": 30891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adony",
+    "region": "Fejér County",
+    "lat": 47.1194,
+    "lon": 18.8649,
+    "population": 30868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alsózsolca",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.0698,
+    "lon": 20.8805,
+    "population": 30858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bátonyterenyei Járás",
+    "region": "Nógrád County",
+    "lat": 47.9769,
+    "lon": 19.8734,
+    "population": 30850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentlőrinc",
+    "region": "Baranya County",
+    "lat": 46.0402,
+    "lon": 17.9872,
+    "population": 30850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baja",
+    "region": "Bács-Kiskun County",
+    "lat": 46.183,
+    "lon": 18.9531,
+    "population": 30823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentesi Járás",
+    "region": "Csongrád County",
+    "lat": 46.66,
+    "lon": 20.3731,
+    "population": 30749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonkenese",
+    "region": "Veszprém County",
+    "lat": 47.0402,
+    "lon": 18.1067,
+    "population": 30720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XVIII. kerület",
+    "region": "Budapest",
+    "lat": 47.4442,
+    "lon": 19.176,
+    "population": 30712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Újfehértó",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8,
+    "lon": 21.6833,
+    "population": 30665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisszállás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.2801,
+    "lon": 19.4895,
+    "population": 30611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágasegyháza",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8402,
+    "lon": 19.4521,
+    "population": 30603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Egri Járás",
+    "region": "Heves County",
+    "lat": 47.9296,
+    "lon": 20.3738,
+    "population": 30572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bekecs",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.15,
+    "lon": 21.1833,
+    "population": 30497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marcali",
+    "region": "Somogy County",
+    "lat": 46.585,
+    "lon": 17.412,
+    "population": 30458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pécsvárad",
+    "region": "Baranya County",
+    "lat": 46.1603,
+    "lon": 18.4232,
+    "population": 30451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszacsege",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.7,
+    "lon": 21,
+    "population": 30438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somoskőújfalu",
+    "region": "Nógrád County",
+    "lat": 48.1637,
+    "lon": 19.823,
+    "population": 30430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskunlacháza",
+    "region": "Pest County",
+    "lat": 47.1884,
+    "lon": 19.0093,
+    "population": 30412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hercegszántó",
+    "region": "Bács-Kiskun County",
+    "lat": 45.95,
+    "lon": 18.9392,
+    "population": 30369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Őcsény",
+    "region": "Tolna County",
+    "lat": 46.3137,
+    "lon": 18.7575,
+    "population": 30353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mérk",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7882,
+    "lon": 22.3804,
+    "population": 30347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halmaj",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.25,
+    "lon": 21,
+    "population": 30291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenti",
+    "region": "Zala County",
+    "lat": 46.624,
+    "lon": 16.5386,
+    "population": 29989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babócsa",
+    "region": "Somogy County",
+    "lat": 46.0416,
+    "lon": 17.3433,
+    "population": 29900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ricse",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3257,
+    "lon": 21.9707,
+    "population": 29893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Visegrád",
+    "region": "Pest County",
+    "lat": 47.7853,
+    "lon": 18.9709,
+    "population": 29819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohácsi Járás",
+    "region": "Baranya County",
+    "lat": 46.02,
+    "lon": 18.68,
+    "population": 29685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taksony",
+    "region": "Pest County",
+    "lat": 47.3297,
+    "lon": 19.0669,
+    "population": 29680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagybajom",
+    "region": "Somogy County",
+    "lat": 46.3923,
+    "lon": 17.5115,
+    "population": 29674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pusztavám",
+    "region": "Fejér County",
+    "lat": 47.4295,
+    "lon": 18.2265,
+    "population": 29673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikepércs",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.45,
+    "lon": 21.6333,
+    "population": 29671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadarkút",
+    "region": "Somogy County",
+    "lat": 46.2362,
+    "lon": 17.6201,
+    "population": 29663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salgótarján",
+    "region": "Nógrád County",
+    "lat": 48.0987,
+    "lon": 19.803,
+    "population": 29559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tét",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5192,
+    "lon": 17.508,
+    "population": 29526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bátya",
+    "region": "Bács-Kiskun County",
+    "lat": 46.488,
+    "lon": 18.9542,
+    "population": 29462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arló",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1833,
+    "lon": 20.2667,
+    "population": 29420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunszentmártoni Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 46.877,
+    "lon": 20.2518,
+    "population": 29399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tápiószecső",
+    "region": "Pest County",
+    "lat": 47.45,
+    "lon": 19.6092,
+    "population": 29302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunfehértó",
+    "region": "Bács-Kiskun County",
+    "lat": 46.3609,
+    "lon": 19.4145,
+    "population": 29288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest",
+    "region": "Budapest",
+    "lat": 47.4984,
+    "lon": 19.0404,
+    "population": 29199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőberény",
+    "region": "Békés County",
+    "lat": 46.8167,
+    "lon": 21.0333,
+    "population": 29099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kistarcsa",
+    "region": "Pest County",
+    "lat": 47.5476,
+    "lon": 19.2625,
+    "population": 29097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Záhony",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.4091,
+    "lon": 22.1761,
+    "population": 29082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tárnok",
+    "region": "Pest County",
+    "lat": 47.3733,
+    "lon": 18.8458,
+    "population": 29013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskunfélegyháza",
+    "region": "Bács-Kiskun County",
+    "lat": 46.7121,
+    "lon": 19.8446,
+    "population": 28996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisléta",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8424,
+    "lon": 22.0039,
+    "population": 28902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veszprém",
+    "region": "Veszprém County",
+    "lat": 47.0933,
+    "lon": 17.9115,
+    "population": 28876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Békési Járás",
+    "region": "Békés County",
+    "lat": 46.8332,
+    "lon": 21.1,
+    "population": 28874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kompolt",
+    "region": "Heves County",
+    "lat": 47.7333,
+    "lon": 20.25,
+    "population": 28789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pátroha",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1667,
+    "lon": 22,
+    "population": 28759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúböszörményi Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.74,
+    "lon": 21.5,
+    "population": 28627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ostoros",
+    "region": "Heves County",
+    "lat": 47.8667,
+    "lon": 20.4333,
+    "population": 28610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tószeg",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.1,
+    "lon": 20.15,
+    "population": 28596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jánoshalmai Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.2828,
+    "lon": 19.3174,
+    "population": 28556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balástya",
+    "region": "Csongrád County",
+    "lat": 46.4228,
+    "lon": 20.0082,
+    "population": 28490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilisszentiván",
+    "region": "Pest County",
+    "lat": 47.6096,
+    "lon": 18.8994,
+    "population": 28490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gönci Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3995,
+    "lon": 21.2831,
+    "population": 28390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Köröstarcsa",
+    "region": "Békés County",
+    "lat": 46.8833,
+    "lon": 21.0333,
+    "population": 28329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izsák",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8045,
+    "lon": 19.3517,
+    "population": 28274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szalkszentmárton",
+    "region": "Bács-Kiskun County",
+    "lat": 46.9757,
+    "lon": 19.0118,
+    "population": 28226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farmos",
+    "region": "Pest County",
+    "lat": 47.3607,
+    "lon": 19.8462,
+    "population": 28202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abda",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6946,
+    "lon": 17.5449,
+    "population": 28137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ebes",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.4667,
+    "lon": 21.5,
+    "population": 28084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monostorpályi",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.4,
+    "lon": 21.7833,
+    "population": 28077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Józsefváros",
+    "region": "Budapest",
+    "lat": 47.4894,
+    "lon": 19.0729,
+    "population": 28001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibrányi Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1279,
+    "lon": 21.6934,
+    "population": 27977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Füzesgyarmat",
+    "region": "Békés County",
+    "lat": 47.1,
+    "lon": 21.2167,
+    "population": 27976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajmáskér",
+    "region": "Veszprém County",
+    "lat": 47.1451,
+    "lon": 18.0196,
+    "population": 27846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mátraderecske",
+    "region": "Heves County",
+    "lat": 47.95,
+    "lon": 20.0833,
+    "population": 27738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gárdony",
+    "region": "Fejér County",
+    "lat": 47.2094,
+    "lon": 18.6361,
+    "population": 27734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszabezdéd",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.3667,
+    "lon": 22.15,
+    "population": 27715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pétervására",
+    "region": "Heves County",
+    "lat": 48.0167,
+    "lon": 20.1,
+    "population": 27682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megyaszó",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1833,
+    "lon": 21.05,
+    "population": 27619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamási",
+    "region": "Tolna County",
+    "lat": 46.6333,
+    "lon": 18.2833,
+    "population": 27587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onga",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1167,
+    "lon": 20.9167,
+    "population": 27585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valkó",
+    "region": "Pest County",
+    "lat": 47.5639,
+    "lon": 19.5127,
+    "population": 27558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erzsébetváros",
+    "region": "Budapest",
+    "lat": 47.5021,
+    "lon": 19.0722,
+    "population": 27533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parád",
+    "region": "Heves County",
+    "lat": 47.9232,
+    "lon": 20.0297,
+    "population": 27492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karcagi Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.2858,
+    "lon": 20.8422,
+    "population": 27444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kismaros",
+    "region": "Pest County",
+    "lat": 47.8374,
+    "lon": 19.0046,
+    "population": 27439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacsa",
+    "region": "Zala County",
+    "lat": 46.7198,
+    "lon": 17.014,
+    "population": 27206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Egyek",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6333,
+    "lon": 20.9,
+    "population": 27171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komádi",
+    "region": "Hajdú-Bihar County",
+    "lat": 47,
+    "lon": 21.5,
+    "population": 27152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mátészalka",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9553,
+    "lon": 22.3235,
+    "population": 27134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Báta",
+    "region": "Tolna County",
+    "lat": 46.1286,
+    "lon": 18.7703,
+    "population": 27125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tapolca",
+    "region": "Veszprém County",
+    "lat": 46.8815,
+    "lon": 17.4412,
+    "population": 27064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszanána",
+    "region": "Heves County",
+    "lat": 47.5667,
+    "lon": 20.5333,
+    "population": 27062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalocsa",
+    "region": "Bács-Kiskun County",
+    "lat": 46.5298,
+    "lon": 18.9728,
+    "population": 27049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Székkutas",
+    "region": "Csongrád County",
+    "lat": 46.5,
+    "lon": 20.5333,
+    "population": 27038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonalmádi",
+    "region": "Veszprém County",
+    "lat": 47.0353,
+    "lon": 18.0208,
+    "population": 27007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hejőbába",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.9,
+    "lon": 20.95,
+    "population": 26987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letenyei Járás",
+    "region": "Zala County",
+    "lat": 46.5055,
+    "lon": 16.765,
+    "population": 26985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Üllő",
+    "region": "Pest County",
+    "lat": 47.3877,
+    "lon": 19.3553,
+    "population": 26965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunaszekcső",
+    "region": "Baranya County",
+    "lat": 46.0874,
+    "lon": 18.7587,
+    "population": 26962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dombóvár",
+    "region": "Tolna County",
+    "lat": 46.3766,
+    "lon": 18.137,
+    "population": 26950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Türje",
+    "region": "Zala County",
+    "lat": 46.9837,
+    "lon": 17.1074,
+    "population": 26908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykanizsa",
+    "region": "Zala County",
+    "lat": 46.4535,
+    "lon": 16.991,
+    "population": 26875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kemecsei Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1005,
+    "lon": 21.8841,
+    "population": 26865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tass",
+    "region": "Bács-Kiskun County",
+    "lat": 47.0209,
+    "lon": 19.0299,
+    "population": 26851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fehérvárcsurgó",
+    "region": "Fejér County",
+    "lat": 47.2935,
+    "lon": 18.2646,
+    "population": 26809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászjákóhalma",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.5204,
+    "lon": 19.9909,
+    "population": 26764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kóka",
+    "region": "Pest County",
+    "lat": 47.4855,
+    "lon": 19.5788,
+    "population": 26763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Székesfehérvári Járás",
+    "region": "Fejér County",
+    "lat": 47.1653,
+    "lon": 18.4135,
+    "population": 26739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sóskút",
+    "region": "Pest County",
+    "lat": 47.4066,
+    "lon": 18.8225,
+    "population": 26688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerekegyháza",
+    "region": "Bács-Kiskun County",
+    "lat": 46.9372,
+    "lon": 19.4781,
+    "population": 26673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonberény",
+    "region": "Somogy County",
+    "lat": 46.707,
+    "lon": 17.3201,
+    "population": 26648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírbéltek",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7,
+    "lon": 22.1333,
+    "population": 26596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyomaendrődi Járás",
+    "region": "Békés County",
+    "lat": 46.9822,
+    "lon": 20.8485,
+    "population": 26590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paks",
+    "region": "Tolna County",
+    "lat": 46.6221,
+    "lon": 18.8557,
+    "population": 26559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakamaz",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1237,
+    "lon": 21.4643,
+    "population": 26521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisteleki Járás",
+    "region": "Csongrád County",
+    "lat": 46.4883,
+    "lon": 19.9957,
+    "population": 26499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskunmajsai Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.4961,
+    "lon": 19.7232,
+    "population": 26483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tahitótfalu",
+    "region": "Pest County",
+    "lat": 47.75,
+    "lon": 19.1,
+    "population": 26445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykállói Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7999,
+    "lon": 21.8475,
+    "population": 26416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyenesdiás",
+    "region": "Zala County",
+    "lat": 46.7706,
+    "lon": 17.2866,
+    "population": 26409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arnót",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1306,
+    "lon": 20.8583,
+    "population": 26293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jánosháza",
+    "region": "Vas County",
+    "lat": 47.1194,
+    "lon": 17.165,
+    "population": 26220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csanádapáca",
+    "region": "Békés County",
+    "lat": 46.55,
+    "lon": 20.8833,
+    "population": 26149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XV. kerület",
+    "region": "Budapest",
+    "lat": 47.5626,
+    "lon": 19.1168,
+    "population": 26113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ónod",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48,
+    "lon": 20.9167,
+    "population": 25999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karancskeszi",
+    "region": "Nógrád County",
+    "lat": 48.1635,
+    "lon": 19.6969,
+    "population": 25866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőzombor",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.15,
+    "lon": 21.2667,
+    "population": 25834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászkisér",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.45,
+    "lon": 20.2167,
+    "population": 25784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőkövesdi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.8488,
+    "lon": 20.6362,
+    "population": 25766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kecskemét",
+    "region": "Bács-Kiskun County",
+    "lat": 46.9062,
+    "lon": 19.6913,
+    "population": 25757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tokaji Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1401,
+    "lon": 21.37,
+    "population": 25736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jánossomorja",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.7862,
+    "lon": 17.136,
+    "population": 25688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pannonhalma",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5495,
+    "lon": 17.7553,
+    "population": 25671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palotás",
+    "region": "Nógrád County",
+    "lat": 47.7953,
+    "lon": 19.5962,
+    "population": 25647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piliscsaba",
+    "region": "Pest County",
+    "lat": 47.6342,
+    "lon": 18.8289,
+    "population": 25631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mágocs",
+    "region": "Baranya County",
+    "lat": 46.35,
+    "lon": 18.2324,
+    "population": 25624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Győrszemere",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5526,
+    "lon": 17.5636,
+    "population": 25577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tápiószele",
+    "region": "Pest County",
+    "lat": 47.3361,
+    "lon": 19.8772,
+    "population": 25562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dánszentmiklós",
+    "region": "Pest County",
+    "lat": 47.2149,
+    "lon": 19.5469,
+    "population": 25551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rákóczifalva",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.0833,
+    "lon": 20.2333,
+    "population": 25485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edelényi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.4086,
+    "lon": 20.7751,
+    "population": 25476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bordány",
+    "region": "Csongrád County",
+    "lat": 46.3184,
+    "lon": 19.9231,
+    "population": 25461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zsombó",
+    "region": "Csongrád County",
+    "lat": 46.3257,
+    "lon": 19.9746,
+    "population": 25419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Békésszentandrás",
+    "region": "Békés County",
+    "lat": 46.8667,
+    "lon": 20.4833,
+    "population": 25407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alsónémedi",
+    "region": "Pest County",
+    "lat": 47.3152,
+    "lon": 19.1584,
+    "population": 25388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajókaza",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2833,
+    "lon": 20.5833,
+    "population": 25373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balmazújváros",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6167,
+    "lon": 21.35,
+    "population": 25345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akasztó",
+    "region": "Bács-Kiskun County",
+    "lat": 46.6917,
+    "lon": 19.2042,
+    "population": 25334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonfenyves",
+    "region": "Somogy County",
+    "lat": 46.7154,
+    "lon": 17.4922,
+    "population": 25322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karád",
+    "region": "Somogy County",
+    "lat": 46.6908,
+    "lon": 17.8414,
+    "population": 25269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rétsági Járás",
+    "region": "Nógrád County",
+    "lat": 47.9174,
+    "lon": 19.161,
+    "population": 25255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monok",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.211,
+    "lon": 21.1505,
+    "population": 25199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pécs",
+    "region": "Baranya County",
+    "lat": 46.0833,
+    "lon": 18.2333,
+    "population": 25180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aranyosapáti",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.206,
+    "lon": 22.2592,
+    "population": 25164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vásárosnaményi Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1798,
+    "lon": 22.3586,
+    "population": 25111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szombathelyi Járás",
+    "region": "Vas County",
+    "lat": 47.2104,
+    "lon": 16.6395,
+    "population": 25070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erdőkertes",
+    "region": "Pest County",
+    "lat": 47.6726,
+    "lon": 19.3079,
+    "population": 24928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Téti Járás",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5151,
+    "lon": 17.5161,
+    "population": 24911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Decs",
+    "region": "Tolna County",
+    "lat": 46.2843,
+    "lon": 18.76,
+    "population": 24865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírpazony",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9833,
+    "lon": 21.8,
+    "population": 24820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leányfalu",
+    "region": "Pest County",
+    "lat": 47.7178,
+    "lon": 19.0859,
+    "population": 24792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veresegyház",
+    "region": "Pest County",
+    "lat": 47.6459,
+    "lon": 19.2954,
+    "population": 24774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest II. kerület",
+    "region": "Budapest",
+    "lat": 47.5198,
+    "lon": 19.0222,
+    "population": 24728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Délegyháza",
+    "region": "Pest County",
+    "lat": 47.2413,
+    "lon": 19.0902,
+    "population": 24697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tompa",
+    "region": "Bács-Kiskun County",
+    "lat": 46.206,
+    "lon": 19.5391,
+    "population": 24638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ózdi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1813,
+    "lon": 20.2487,
+    "population": 24626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apostag",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8821,
+    "lon": 18.9621,
+    "population": 24598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szihalom",
+    "region": "Heves County",
+    "lat": 47.7667,
+    "lon": 20.4833,
+    "population": 24554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakonyszentlászló",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.389,
+    "lon": 17.8032,
+    "population": 24404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Felsőzsolca",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1,
+    "lon": 20.8667,
+    "population": 24371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debreceni Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.5271,
+    "lon": 21.6687,
+    "population": 24367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zsámbok",
+    "region": "Pest County",
+    "lat": 47.5438,
+    "lon": 19.6105,
+    "population": 24250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosonmagyaróvári Járás",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.8577,
+    "lon": 17.2821,
+    "population": 24198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Körmend",
+    "region": "Vas County",
+    "lat": 47.011,
+    "lon": 16.606,
+    "population": 24132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ozora",
+    "region": "Tolna County",
+    "lat": 46.7513,
+    "lon": 18.4001,
+    "population": 24129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verpelét",
+    "region": "Heves County",
+    "lat": 47.85,
+    "lon": 20.2333,
+    "population": 24118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosonmagyaróvár",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.8679,
+    "lon": 17.2699,
+    "population": 24097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jánoshalma",
+    "region": "Bács-Kiskun County",
+    "lat": 46.2986,
+    "lon": 19.3258,
+    "population": 24026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászszentlászló",
+    "region": "Bács-Kiskun County",
+    "lat": 46.5669,
+    "lon": 19.7606,
+    "population": 23972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pellérd",
+    "region": "Baranya County",
+    "lat": 46.0344,
+    "lon": 18.154,
+    "population": 23970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pásztói Járás",
+    "region": "Nógrád County",
+    "lat": 47.8701,
+    "lon": 19.6065,
+    "population": 23960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászszentandrás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.5833,
+    "lon": 20.1833,
+    "population": 23924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marcali Járás",
+    "region": "Somogy County",
+    "lat": 46.5438,
+    "lon": 17.392,
+    "population": 23922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verőce",
+    "region": "Pest County",
+    "lat": 47.8247,
+    "lon": 19.0348,
+    "population": 23865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszabura",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.45,
+    "lon": 20.4667,
+    "population": 23858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Békéscsabai Járás",
+    "region": "Békés County",
+    "lat": 46.6813,
+    "lon": 21.0741,
+    "population": 23808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sármellék",
+    "region": "Zala County",
+    "lat": 46.7122,
+    "lon": 17.1686,
+    "population": 23756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kápolnásnyék",
+    "region": "Fejér County",
+    "lat": 47.24,
+    "lon": 18.6756,
+    "population": 23687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XVI. kerület",
+    "region": "Budapest",
+    "lat": 47.5148,
+    "lon": 19.1703,
+    "population": 23614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Földeák",
+    "region": "Csongrád County",
+    "lat": 46.3167,
+    "lon": 20.5,
+    "population": 23581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonyhádi Járás",
+    "region": "Tolna County",
+    "lat": 46.34,
+    "lon": 18.4974,
+    "population": 23534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csorna",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6116,
+    "lon": 17.2501,
+    "population": 23526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ópályi",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9977,
+    "lon": 22.3262,
+    "population": 23524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaba",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.35,
+    "lon": 21.2833,
+    "population": 23488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erdőtelek",
+    "region": "Heves County",
+    "lat": 47.6833,
+    "lon": 20.3167,
+    "population": 23473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonboglár",
+    "region": "Somogy County",
+    "lat": 46.7752,
+    "lon": 17.6441,
+    "population": 23430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rákócziújfalu",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.0667,
+    "lon": 20.2667,
+    "population": 23409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csanádpalota",
+    "region": "Csongrád County",
+    "lat": 46.25,
+    "lon": 20.7333,
+    "population": 23408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Várpalota",
+    "region": "Veszprém County",
+    "lat": 47.1994,
+    "lon": 18.1395,
+    "population": 23398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Újhartyán",
+    "region": "Pest County",
+    "lat": 47.2198,
+    "lon": 19.3864,
+    "population": 23280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaújváros",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.9333,
+    "lon": 21.0833,
+    "population": 23256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírmártonfalva",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.5833,
+    "lon": 21.9,
+    "population": 23180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kőszegi Járás",
+    "region": "Vas County",
+    "lat": 47.375,
+    "lon": 16.6565,
+    "population": 23154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mátranovák",
+    "region": "Nógrád County",
+    "lat": 48.0381,
+    "lon": 19.9826,
+    "population": 23150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simontornya",
+    "region": "Tolna County",
+    "lat": 46.7546,
+    "lon": 18.5549,
+    "population": 23132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siklós",
+    "region": "Baranya County",
+    "lat": 45.855,
+    "lon": 18.2975,
+    "population": 23108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Döbrököz",
+    "region": "Tolna County",
+    "lat": 46.4218,
+    "lon": 18.2395,
+    "population": 23106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szigetvári Járás",
+    "region": "Baranya County",
+    "lat": 46.0734,
+    "lon": 17.8039,
+    "population": 23033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zámoly",
+    "region": "Fejér County",
+    "lat": 47.3167,
+    "lon": 18.4081,
+    "population": 23003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karancslapujtő",
+    "region": "Nógrád County",
+    "lat": 48.15,
+    "lon": 19.7333,
+    "population": 22860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domoszló",
+    "region": "Heves County",
+    "lat": 47.8333,
+    "lon": 20.1167,
+    "population": 22852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halásztelek",
+    "region": "Pest County",
+    "lat": 47.3617,
+    "lon": 18.9812,
+    "population": 22851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csopak",
+    "region": "Veszprém County",
+    "lat": 46.9771,
+    "lon": 17.9182,
+    "population": 22842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bóly",
+    "region": "Baranya County",
+    "lat": 45.9672,
+    "lon": 18.5183,
+    "population": 22805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ráckeresztúr",
+    "region": "Fejér County",
+    "lat": 47.2736,
+    "lon": 18.8334,
+    "population": 22790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszabő",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3,
+    "lon": 20.4833,
+    "population": 22755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fonyódi Járás",
+    "region": "Somogy County",
+    "lat": 46.6729,
+    "lon": 17.7,
+    "population": 22754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enyingi Járás",
+    "region": "Fejér County",
+    "lat": 46.8724,
+    "lon": 18.3098,
+    "population": 22686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csabrendek",
+    "region": "Veszprém County",
+    "lat": 47.0136,
+    "lon": 17.2911,
+    "population": 22633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőcsáti Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.7984,
+    "lon": 20.9169,
+    "population": 22496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagydorog",
+    "region": "Tolna County",
+    "lat": 46.6275,
+    "lon": 18.6557,
+    "population": 22348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fót",
+    "region": "Pest County",
+    "lat": 47.6177,
+    "lon": 19.1887,
+    "population": 22326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lábod",
+    "region": "Somogy County",
+    "lat": 46.2054,
+    "lon": 17.4542,
+    "population": 22238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Téglás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.7167,
+    "lon": 21.6833,
+    "population": 22219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tömörkény",
+    "region": "Csongrád County",
+    "lat": 46.6172,
+    "lon": 20.0436,
+    "population": 22190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Törökszentmiklósi Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.1821,
+    "lon": 20.4486,
+    "population": 22165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galgahévíz",
+    "region": "Pest County",
+    "lat": 47.6167,
+    "lon": 19.5667,
+    "population": 22145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fülöpjakab",
+    "region": "Bács-Kiskun County",
+    "lat": 46.7422,
+    "lon": 19.7213,
+    "population": 22114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kántorjánosi",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9333,
+    "lon": 22.15,
+    "population": 22110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berettyóújfalui Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.1411,
+    "lon": 21.5523,
+    "population": 22071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parádsasvár",
+    "region": "Heves County",
+    "lat": 47.9126,
+    "lon": 19.9771,
+    "population": 22048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Besenyszög",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3,
+    "lon": 20.2667,
+    "population": 21980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Máriapócs",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.883,
+    "lon": 22.025,
+    "population": 21978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pusztaföldvár",
+    "region": "Békés County",
+    "lat": 46.5333,
+    "lon": 20.8,
+    "population": 21950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olaszliszka",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.25,
+    "lon": 21.4333,
+    "population": 21930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tállya",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2333,
+    "lon": 21.2333,
+    "population": 21924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bácsalmás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.1265,
+    "lon": 19.3326,
+    "population": 21873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Németkér",
+    "region": "Tolna County",
+    "lat": 46.7164,
+    "lon": 18.7631,
+    "population": 21820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borsodnádasd",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1167,
+    "lon": 20.25,
+    "population": 21813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyatádi Járás",
+    "region": "Somogy County",
+    "lat": 46.252,
+    "lon": 17.3752,
+    "population": 21797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bólyi Járás",
+    "region": "Baranya County",
+    "lat": 45.9808,
+    "lon": 18.4845,
+    "population": 21770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagydobos",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0576,
+    "lon": 22.3042,
+    "population": 21762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sümeg",
+    "region": "Veszprém County",
+    "lat": 46.977,
+    "lon": 17.2821,
+    "population": 21762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szombathely",
+    "region": "Vas County",
+    "lat": 47.2309,
+    "lon": 16.6215,
+    "population": 21695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encs",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3333,
+    "lon": 21.1333,
+    "population": 21671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest I. kerület",
+    "region": "Budapest",
+    "lat": 47.4971,
+    "lon": 19.0396,
+    "population": 21664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiskunmajsa",
+    "region": "Bács-Kiskun County",
+    "lat": 46.4903,
+    "lon": 19.74,
+    "population": 21650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunabogdány",
+    "region": "Pest County",
+    "lat": 47.7905,
+    "lon": 19.0413,
+    "population": 21590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domony",
+    "region": "Pest County",
+    "lat": 47.6555,
+    "lon": 19.4323,
+    "population": 21477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szekszárd",
+    "region": "Tolna County",
+    "lat": 46.3501,
+    "lon": 18.7091,
+    "population": 21367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ják",
+    "region": "Vas County",
+    "lat": 47.1425,
+    "lon": 16.5815,
+    "population": 21353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helvécia",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8366,
+    "lon": 19.6225,
+    "population": 21339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bélapátfalvai Járás",
+    "region": "Heves County",
+    "lat": 48.0639,
+    "lon": 20.3616,
+    "population": 21299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szécsényi Járás",
+    "region": "Nógrád County",
+    "lat": 48.073,
+    "lon": 19.5516,
+    "population": 21207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalakomár",
+    "region": "Zala County",
+    "lat": 46.538,
+    "lon": 17.1809,
+    "population": 21195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentlőrinci Járás",
+    "region": "Baranya County",
+    "lat": 46.0469,
+    "lon": 18.0153,
+    "population": 21161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonlelle",
+    "region": "Somogy County",
+    "lat": 46.7832,
+    "lon": 17.695,
+    "population": 21060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szamosszeg",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0456,
+    "lon": 22.3658,
+    "population": 20930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunszentmárton",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 46.8392,
+    "lon": 20.2888,
+    "population": 20896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heréd",
+    "region": "Heves County",
+    "lat": 47.7064,
+    "lon": 19.6331,
+    "population": 20888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ópusztaszer",
+    "region": "Csongrád County",
+    "lat": 46.4859,
+    "lon": 20.0872,
+    "population": 20883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zirci Járás",
+    "region": "Veszprém County",
+    "lat": 47.2858,
+    "lon": 17.8841,
+    "population": 20877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúhadház",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6833,
+    "lon": 21.6667,
+    "population": 20870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apátfalva",
+    "region": "Csongrád County",
+    "lat": 46.1667,
+    "lon": 20.5833,
+    "population": 20783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komlói Járás",
+    "region": "Baranya County",
+    "lat": 46.2202,
+    "lon": 18.2862,
+    "population": 20776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zsámbék",
+    "region": "Pest County",
+    "lat": 47.5481,
+    "lon": 18.7201,
+    "population": 20769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaszaper",
+    "region": "Békés County",
+    "lat": 46.4667,
+    "lon": 20.8333,
+    "population": 20709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gesztely",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1,
+    "lon": 20.9667,
+    "population": 20661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ócsa",
+    "region": "Pest County",
+    "lat": 47.2999,
+    "lon": 19.2306,
+    "population": 20656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pánd",
+    "region": "Pest County",
+    "lat": 47.3533,
+    "lon": 19.6357,
+    "population": 20606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykőrösi Járás",
+    "region": "Pest County",
+    "lat": 47.0356,
+    "lon": 19.7926,
+    "population": 20575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bőcs",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.05,
+    "lon": 20.9667,
+    "population": 20513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szerencs",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1599,
+    "lon": 21.2097,
+    "population": 20498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Romhány",
+    "region": "Nógrád County",
+    "lat": 47.9262,
+    "lon": 19.2572,
+    "population": 20491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bükkösd",
+    "region": "Baranya County",
+    "lat": 46.1075,
+    "lon": 17.9882,
+    "population": 20478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csengeri Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8304,
+    "lon": 22.5981,
+    "population": 20466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bajai Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.1451,
+    "lon": 19.0136,
+    "population": 20415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Méhkerék",
+    "region": "Békés County",
+    "lat": 46.7833,
+    "lon": 21.45,
+    "population": 20330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csávoly",
+    "region": "Bács-Kiskun County",
+    "lat": 46.1892,
+    "lon": 19.1467,
+    "population": 20319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadjúszoboszlói Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.4811,
+    "lon": 21.31,
+    "population": 20262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bátaszék",
+    "region": "Tolna County",
+    "lat": 46.1937,
+    "lon": 18.7231,
+    "population": 20232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mihályi",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.5138,
+    "lon": 17.0951,
+    "population": 20211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dömsöd",
+    "region": "Pest County",
+    "lat": 47.09,
+    "lon": 19.0111,
+    "population": 20157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hosszúhetény",
+    "region": "Baranya County",
+    "lat": 46.1641,
+    "lon": 18.3508,
+    "population": 20155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csökmő",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.0333,
+    "lon": 21.3,
+    "population": 20138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest III. kerület",
+    "region": "Budapest",
+    "lat": 47.5416,
+    "lon": 19.045,
+    "population": 20124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonföldvár",
+    "region": "Somogy County",
+    "lat": 46.8526,
+    "lon": 17.8812,
+    "population": 20080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kál",
+    "region": "Heves County",
+    "lat": 47.7333,
+    "lon": 20.2667,
+    "population": 20075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászapáti",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.5167,
+    "lon": 20.15,
+    "population": 19982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Felsőtárkány",
+    "region": "Heves County",
+    "lat": 47.9667,
+    "lon": 20.4167,
+    "population": 19939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Járdánháza",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.15,
+    "lon": 20.25,
+    "population": 19936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kevermes",
+    "region": "Békés County",
+    "lat": 46.4167,
+    "lon": 21.1833,
+    "population": 19910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csanytelek",
+    "region": "Csongrád County",
+    "lat": 46.595,
+    "lon": 20.1234,
+    "population": 19900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hódmezővásárhelyi Járás",
+    "region": "Csongrád County",
+    "lat": 46.433,
+    "lon": 20.376,
+    "population": 19833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orgovány",
+    "region": "Bács-Kiskun County",
+    "lat": 46.7509,
+    "lon": 19.4726,
+    "population": 19815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tura",
+    "region": "Pest County",
+    "lat": 47.6092,
+    "lon": 19.6028,
+    "population": 19792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cibakháza",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 46.9598,
+    "lon": 20.1975,
+    "population": 19681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Békéssámson",
+    "region": "Békés County",
+    "lat": 46.4167,
+    "lon": 20.6333,
+    "population": 19628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soltvadkert",
+    "region": "Bács-Kiskun County",
+    "lat": 46.5789,
+    "lon": 19.3939,
+    "population": 19599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajka",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.9964,
+    "lon": 17.1982,
+    "population": 19486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ádánd",
+    "region": "Somogy County",
+    "lat": 46.8593,
+    "lon": 18.1644,
+    "population": 19317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Recsk",
+    "region": "Heves County",
+    "lat": 47.9333,
+    "lon": 20.1167,
+    "population": 19286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazincbarcikai Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2637,
+    "lon": 20.5798,
+    "population": 19252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pannonhalmi Járás",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.4557,
+    "lon": 17.8133,
+    "population": 19247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilis",
+    "region": "Pest County",
+    "lat": 47.289,
+    "lon": 19.5485,
+    "population": 19220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cserkeszőlő",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 46.8632,
+    "lon": 20.187,
+    "population": 19216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajólád",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.05,
+    "lon": 20.9,
+    "population": 19166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bélapátfalva",
+    "region": "Heves County",
+    "lat": 48.05,
+    "lon": 20.3667,
+    "population": 19133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilisszántó",
+    "region": "Pest County",
+    "lat": 47.6691,
+    "lon": 18.8876,
+    "population": 19102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Úri",
+    "region": "Pest County",
+    "lat": 47.4143,
+    "lon": 19.5276,
+    "population": 19080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárszentmihály",
+    "region": "Fejér County",
+    "lat": 47.1532,
+    "lon": 18.3388,
+    "population": 19055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beremend",
+    "region": "Baranya County",
+    "lat": 45.7911,
+    "lon": 18.4326,
+    "population": 19031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szerencsi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1493,
+    "lon": 21.1686,
+    "population": 18988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírmeggyes",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9167,
+    "lon": 22.2667,
+    "population": 18982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emőd",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.9333,
+    "lon": 20.8167,
+    "population": 18940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Székesfehérvár",
+    "region": "Fejér County",
+    "lat": 47.19,
+    "lon": 18.4103,
+    "population": 18918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszavasvári Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9861,
+    "lon": 21.3654,
+    "population": 18903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XII. kerület",
+    "region": "Budapest",
+    "lat": 47.4919,
+    "lon": 19.0149,
+    "population": 18839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szobi Járás",
+    "region": "Pest County",
+    "lat": 47.9342,
+    "lon": 18.8544,
+    "population": 18794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karácsond",
+    "region": "Heves County",
+    "lat": 47.7296,
+    "lon": 20.0308,
+    "population": 18750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katymár",
+    "region": "Bács-Kiskun County",
+    "lat": 46.034,
+    "lon": 19.2094,
+    "population": 18726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szirmabesenyő",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.15,
+    "lon": 20.8,
+    "population": 18713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajka",
+    "region": "Veszprém County",
+    "lat": 47.102,
+    "lon": 17.5589,
+    "population": 18642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Révfülöp",
+    "region": "Veszprém County",
+    "lat": 46.8257,
+    "lon": 17.6197,
+    "population": 18618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Segesd",
+    "region": "Somogy County",
+    "lat": 46.3414,
+    "lon": 17.3513,
+    "population": 18470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászapáti Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.4613,
+    "lon": 20.0657,
+    "population": 18434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herend",
+    "region": "Veszprém County",
+    "lat": 47.1333,
+    "lon": 17.75,
+    "population": 18341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szegedi Járás",
+    "region": "Csongrád County",
+    "lat": 46.2954,
+    "lon": 20.1376,
+    "population": 18330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XI. kerület",
+    "region": "Budapest",
+    "lat": 47.476,
+    "lon": 19.036,
+    "population": 18311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gönc",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.4667,
+    "lon": 21.2833,
+    "population": 18307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sződ",
+    "region": "Pest County",
+    "lat": 47.7244,
+    "lon": 19.1705,
+    "population": 18296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baks",
+    "region": "Csongrád County",
+    "lat": 46.543,
+    "lon": 20.1021,
+    "population": 18281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csurgó",
+    "region": "Somogy County",
+    "lat": 46.2531,
+    "lon": 17.1006,
+    "population": 18251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagamér",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.4488,
+    "lon": 21.989,
+    "population": 18199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Egerszalók",
+    "region": "Heves County",
+    "lat": 47.8667,
+    "lon": 20.3333,
+    "population": 18141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kőszeg",
+    "region": "Vas County",
+    "lat": 47.3892,
+    "lon": 16.541,
+    "population": 18132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karcsa",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3113,
+    "lon": 21.8054,
+    "population": 18124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentkirályszabadja",
+    "region": "Veszprém County",
+    "lat": 47.0576,
+    "lon": 17.9705,
+    "population": 18124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rózsaszentmárton",
+    "region": "Heves County",
+    "lat": 47.782,
+    "lon": 19.7421,
+    "population": 18067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bőny",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.65,
+    "lon": 17.8698,
+    "population": 18005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunapataj",
+    "region": "Bács-Kiskun County",
+    "lat": 46.644,
+    "lon": 18.9963,
+    "population": 17922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilisszentkereszt",
+    "region": "Pest County",
+    "lat": 47.6914,
+    "lon": 18.905,
+    "population": 17891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bucsa",
+    "region": "Békés County",
+    "lat": 47.2,
+    "lon": 21,
+    "population": 17883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyáregyháza",
+    "region": "Pest County",
+    "lat": 47.2617,
+    "lon": 19.5015,
+    "population": 17873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajosmizse",
+    "region": "Bács-Kiskun County",
+    "lat": 47.0213,
+    "lon": 19.5617,
+    "population": 17871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putnoki Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3369,
+    "lon": 20.4638,
+    "population": 17764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heves",
+    "region": "Heves County",
+    "lat": 47.6,
+    "lon": 20.2833,
+    "population": 17670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírtass",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1167,
+    "lon": 22.0333,
+    "population": 17668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perbál",
+    "region": "Pest County",
+    "lat": 47.5896,
+    "lon": 18.761,
+    "population": 17635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Földes",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3,
+    "lon": 21.3667,
+    "population": 17607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasvár",
+    "region": "Vas County",
+    "lat": 47.0493,
+    "lon": 16.7995,
+    "population": 17577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyömrő",
+    "region": "Pest County",
+    "lat": 47.4273,
+    "lon": 19.4013,
+    "population": 17574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozármisleny",
+    "region": "Baranya County",
+    "lat": 46.0297,
+    "lon": 18.2921,
+    "population": 17552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rudabánya",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3833,
+    "lon": 20.6333,
+    "population": 17508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mende",
+    "region": "Pest County",
+    "lat": 47.4313,
+    "lon": 19.4563,
+    "population": 17493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sükösd",
+    "region": "Bács-Kiskun County",
+    "lat": 46.2818,
+    "lon": 18.9952,
+    "population": 17493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Császártöltés",
+    "region": "Bács-Kiskun County",
+    "lat": 46.4219,
+    "lon": 19.1836,
+    "population": 17467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaroff",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.4,
+    "lon": 20.45,
+    "population": 17463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vác",
+    "region": "Pest County",
+    "lat": 47.7759,
+    "lon": 19.1361,
+    "population": 17432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőkeresztes",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.8333,
+    "lon": 20.7,
+    "population": 17413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyöngyöshalász",
+    "region": "Heves County",
+    "lat": 47.7416,
+    "lon": 19.9288,
+    "population": 17354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kecel",
+    "region": "Bács-Kiskun County",
+    "lat": 46.5253,
+    "lon": 19.2519,
+    "population": 17340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berettyóújfalu",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.2167,
+    "lon": 21.55,
+    "population": 17339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solymár",
+    "region": "Pest County",
+    "lat": 47.5925,
+    "lon": 18.9321,
+    "population": 17227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagyvarékas",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.2667,
+    "lon": 20.1333,
+    "population": 17220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makói Járás",
+    "region": "Csongrád County",
+    "lat": 46.267,
+    "lon": 20.542,
+    "population": 17200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balatonszárszó",
+    "region": "Somogy County",
+    "lat": 46.8295,
+    "lon": 17.8243,
+    "population": 17155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszakarád",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2,
+    "lon": 21.7167,
+    "population": 17037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyula",
+    "region": "Békés County",
+    "lat": 46.65,
+    "lon": 21.2833,
+    "population": 17031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dombrád",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.2333,
+    "lon": 21.9333,
+    "population": 17007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykovácsi",
+    "region": "Pest County",
+    "lat": 47.65,
+    "lon": 19.0167,
+    "population": 17005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monor",
+    "region": "Pest County",
+    "lat": 47.3513,
+    "lon": 19.4473,
+    "population": 16982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mélykút",
+    "region": "Bács-Kiskun County",
+    "lat": 46.2151,
+    "lon": 19.381,
+    "population": 16951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pér",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6115,
+    "lon": 17.8063,
+    "population": 16929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakonycsernye",
+    "region": "Fejér County",
+    "lat": 47.324,
+    "lon": 18.0751,
+    "population": 16874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veszprémi Járás",
+    "region": "Veszprém County",
+    "lat": 47.0967,
+    "lon": 17.8216,
+    "population": 16806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisvárda",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.2167,
+    "lon": 22.0833,
+    "population": 16782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ecser",
+    "region": "Pest County",
+    "lat": 47.4439,
+    "lon": 19.3245,
+    "population": 16780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szigetcsép",
+    "region": "Pest County",
+    "lat": 47.2649,
+    "lon": 18.9705,
+    "population": 16750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sály",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.95,
+    "lon": 20.6667,
+    "population": 16702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vonyarcvashegy",
+    "region": "Zala County",
+    "lat": 46.7574,
+    "lon": 17.3117,
+    "population": 16689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamási Járás",
+    "region": "Tolna County",
+    "lat": 46.6542,
+    "lon": 18.3586,
+    "population": 16649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Etyek",
+    "region": "Fejér County",
+    "lat": 47.4479,
+    "lon": 18.7533,
+    "population": 16633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunhegyesi Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.4033,
+    "lon": 20.592,
+    "population": 16576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orosháza",
+    "region": "Békés County",
+    "lat": 46.5667,
+    "lon": 20.6667,
+    "population": 16571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Algyő",
+    "region": "Csongrád County",
+    "lat": 46.3347,
+    "lon": 20.2085,
+    "population": 16556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunszentmiklósi Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.9481,
+    "lon": 19.1556,
+    "population": 16539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villány",
+    "region": "Baranya County",
+    "lat": 45.8689,
+    "lon": 18.4539,
+    "population": 16487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XXII. kerület",
+    "region": "Budapest",
+    "lat": 47.427,
+    "lon": 19.0402,
+    "population": 16485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászberényi Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.565,
+    "lon": 19.8689,
+    "population": 16472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szabadbattyán",
+    "region": "Fejér County",
+    "lat": 47.119,
+    "lon": 18.3682,
+    "population": 16423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírbátori Járás",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.7755,
+    "lon": 22.1176,
+    "population": 16401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunaújvárosi Járás",
+    "region": "Fejér County",
+    "lat": 47.028,
+    "lon": 18.83,
+    "population": 16385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Göd",
+    "region": "Pest County",
+    "lat": 47.6832,
+    "lon": 19.1342,
+    "population": 16373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csengele",
+    "region": "Csongrád County",
+    "lat": 46.5423,
+    "lon": 19.8636,
+    "population": 16240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunavecse",
+    "region": "Bács-Kiskun County",
+    "lat": 46.9148,
+    "lon": 18.9713,
+    "population": 16226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagytarcsa",
+    "region": "Pest County",
+    "lat": 47.5313,
+    "lon": 19.2834,
+    "population": 16212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirok",
+    "region": "Heves County",
+    "lat": 47.9333,
+    "lon": 20.2,
+    "population": 16177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest VI. kerület",
+    "region": "Budapest",
+    "lat": 47.5037,
+    "lon": 19.0658,
+    "population": 16162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andornaktálya",
+    "region": "Heves County",
+    "lat": 47.85,
+    "lon": 20.4167,
+    "population": 16127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vésztő",
+    "region": "Békés County",
+    "lat": 46.9167,
+    "lon": 21.2667,
+    "population": 16112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Körösladány",
+    "region": "Békés County",
+    "lat": 46.9667,
+    "lon": 21.0833,
+    "population": 15997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagymaros",
+    "region": "Pest County",
+    "lat": 47.7928,
+    "lon": 18.9598,
+    "population": 15989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csongrádi Járás",
+    "region": "Csongrád County",
+    "lat": 46.6615,
+    "lon": 20.0879,
+    "population": 15933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seregélyes",
+    "region": "Fejér County",
+    "lat": 47.1105,
+    "lon": 18.565,
+    "population": 15921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest XX. kerület",
+    "region": "Budapest",
+    "lat": 47.4367,
+    "lon": 19.1009,
+    "population": 15849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szegvár",
+    "region": "Csongrád County",
+    "lat": 46.5874,
+    "lon": 20.2241,
+    "population": 15704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyulaháza",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1333,
+    "lon": 22.1167,
+    "population": 15699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encsi Járás",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.3995,
+    "lon": 21.0817,
+    "population": 15682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hőgyész",
+    "region": "Tolna County",
+    "lat": 46.497,
+    "lon": 18.4184,
+    "population": 15648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szigetszentmiklósi Járás",
+    "region": "Pest County",
+    "lat": 47.3057,
+    "lon": 19.0283,
+    "population": 15592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budakalász",
+    "region": "Pest County",
+    "lat": 47.6167,
+    "lon": 19.05,
+    "population": 15589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiszombor",
+    "region": "Csongrád County",
+    "lat": 46.1833,
+    "lon": 20.4333,
+    "population": 15583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csobánka",
+    "region": "Pest County",
+    "lat": 47.6464,
+    "lon": 18.9619,
+    "population": 15545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászdózsa",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.5661,
+    "lon": 20.0153,
+    "population": 15545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szolnoki Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.2248,
+    "lon": 20.1984,
+    "population": 15530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vásárosnamény",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1254,
+    "lon": 22.3133,
+    "population": 15527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőcsát",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.8167,
+    "lon": 20.9167,
+    "population": 15492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pálmonostora",
+    "region": "Bács-Kiskun County",
+    "lat": 46.6242,
+    "lon": 19.9516,
+    "population": 15407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badacsonytomaj",
+    "region": "Veszprém County",
+    "lat": 46.8071,
+    "lon": 17.5139,
+    "population": 15386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szigetújfalu",
+    "region": "Pest County",
+    "lat": 47.2342,
+    "lon": 18.9275,
+    "population": 15385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Öcsöd",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 46.9,
+    "lon": 20.4,
+    "population": 15370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Törtel",
+    "region": "Pest County",
+    "lat": 47.1221,
+    "lon": 19.9371,
+    "population": 15366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pincehely",
+    "region": "Tolna County",
+    "lat": 46.681,
+    "lon": 18.4394,
+    "population": 15343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petőfibánya",
+    "region": "Heves County",
+    "lat": 47.7696,
+    "lon": 19.6999,
+    "population": 15327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarcal",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1333,
+    "lon": 21.35,
+    "population": 15310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyöngyöstarján",
+    "region": "Heves County",
+    "lat": 47.8137,
+    "lon": 19.8672,
+    "population": 15290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszaalpár",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8128,
+    "lon": 19.9984,
+    "population": 15283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőhegyes",
+    "region": "Békés County",
+    "lat": 46.3167,
+    "lon": 20.8167,
+    "population": 15281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentes",
+    "region": "Csongrád County",
+    "lat": 46.6583,
+    "lon": 20.2608,
+    "population": 15279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baracs",
+    "region": "Fejér County",
+    "lat": 46.882,
+    "lon": 18.9066,
+    "population": 15237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Litér",
+    "region": "Veszprém County",
+    "lat": 47.101,
+    "lon": 18.0045,
+    "population": 15179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fülöpszállás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8207,
+    "lon": 19.2375,
+    "population": 15177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőszilas",
+    "region": "Fejér County",
+    "lat": 46.8111,
+    "lon": 18.4779,
+    "population": 15114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tápióság",
+    "region": "Pest County",
+    "lat": 47.402,
+    "lon": 19.6305,
+    "population": 15052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kocsord",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9391,
+    "lon": 22.3833,
+    "population": 15000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bicskei Járás",
+    "region": "Fejér County",
+    "lat": 47.4338,
+    "lon": 18.5676,
+    "population": 14990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyatád",
+    "region": "Somogy County",
+    "lat": 46.2296,
+    "lon": 17.3579,
+    "population": 14959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Öttevény",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.7195,
+    "lon": 17.4847,
+    "population": 14895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sáránd",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.4,
+    "lon": 21.6333,
+    "population": 14857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siófoki Járás",
+    "region": "Somogy County",
+    "lat": 46.8506,
+    "lon": 17.9962,
+    "population": 14804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagycserkesz",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9667,
+    "lon": 21.5333,
+    "population": 14802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kóny",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6305,
+    "lon": 17.3572,
+    "population": 14783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csány",
+    "region": "Heves County",
+    "lat": 47.6483,
+    "lon": 19.8297,
+    "population": 14758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forráskút",
+    "region": "Csongrád County",
+    "lat": 46.3653,
+    "lon": 19.9097,
+    "population": 14678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tornyospálca",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.2667,
+    "lon": 22.1833,
+    "population": 14624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Érsekvadkert",
+    "region": "Nógrád County",
+    "lat": 47.9962,
+    "lon": 19.2023,
+    "population": 14624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zamárdi",
+    "region": "Somogy County",
+    "lat": 46.8849,
+    "lon": 17.9537,
+    "population": 14317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolcsva",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2833,
+    "lon": 21.45,
+    "population": 14296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karcag",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3167,
+    "lon": 20.9333,
+    "population": 14266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisköre",
+    "region": "Heves County",
+    "lat": 47.5,
+    "lon": 20.5,
+    "population": 14245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berhida",
+    "region": "Veszprém County",
+    "lat": 47.1113,
+    "lon": 18.1295,
+    "population": 14221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eger",
+    "region": "Heves County",
+    "lat": 47.9027,
+    "lon": 20.3733,
+    "population": 14185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ózd",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.2167,
+    "lon": 20.3,
+    "population": 14150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kartal",
+    "region": "Pest County",
+    "lat": 47.6713,
+    "lon": 19.542,
+    "population": 14143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ercsi",
+    "region": "Fejér County",
+    "lat": 47.2519,
+    "lon": 18.8962,
+    "population": 14098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lőkösháza",
+    "region": "Békés County",
+    "lat": 46.4333,
+    "lon": 21.2333,
+    "population": 14061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalocsai Járás",
+    "region": "Bács-Kiskun County",
+    "lat": 46.5565,
+    "lon": 19.0421,
+    "population": 13972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pápa",
+    "region": "Veszprém County",
+    "lat": 47.33,
+    "lon": 17.4674,
+    "population": 13966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halászi",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.8893,
+    "lon": 17.3261,
+    "population": 13948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anarcs",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1764,
+    "lon": 22.1117,
+    "population": 13897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykáta",
+    "region": "Pest County",
+    "lat": 47.4151,
+    "lon": 19.7441,
+    "population": 13897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bősárkány",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6882,
+    "lon": 17.25,
+    "population": 13894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagykanizsai Járás",
+    "region": "Zala County",
+    "lat": 46.5187,
+    "lon": 17.0443,
+    "population": 13852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarkadi Járás",
+    "region": "Békés County",
+    "lat": 46.8615,
+    "lon": 21.4488,
+    "population": 13849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúbagos",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.3929,
+    "lon": 21.6655,
+    "population": 13816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hévíz",
+    "region": "Zala County",
+    "lat": 46.7903,
+    "lon": 17.1841,
+    "population": 13790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balmazújvárosi Járás",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6184,
+    "lon": 21.1488,
+    "population": 13779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyoroszi",
+    "region": "Nógrád County",
+    "lat": 48.005,
+    "lon": 19.0905,
+    "population": 13753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisújszállás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.2167,
+    "lon": 20.7667,
+    "population": 13741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírvasvári",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.8167,
+    "lon": 22.1868,
+    "population": 13731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Csornai Járás",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.584,
+    "lon": 17.2604,
+    "population": 13698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárbogárdi Járás",
+    "region": "Fejér County",
+    "lat": 46.8404,
+    "lon": 18.6072,
+    "population": 13612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszasüly",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.3833,
+    "lon": 20.4,
+    "population": 13414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Körmendi Járás",
+    "region": "Vas County",
+    "lat": 46.9216,
+    "lon": 16.5329,
+    "population": 13325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bük",
+    "region": "Vas County",
+    "lat": 47.3849,
+    "lon": 16.7507,
+    "population": 13316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceglédbercel",
+    "region": "Pest County",
+    "lat": 47.2237,
+    "lon": 19.6683,
+    "population": 13224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Győrújbarát",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6064,
+    "lon": 17.6487,
+    "population": 13158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biharnagybajom",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.2167,
+    "lon": 21.2333,
+    "population": 13118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatvan",
+    "region": "Heves County",
+    "lat": 47.6667,
+    "lon": 19.6833,
+    "population": 13032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírtelek",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.0167,
+    "lon": 21.6333,
+    "population": 13003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fadd",
+    "region": "Tolna County",
+    "lat": 46.4648,
+    "lon": 18.8193,
+    "population": 12955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debrecen",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.5333,
+    "lon": 21.6333,
+    "population": 12882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miskolc",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1,
+    "lon": 20.7833,
+    "population": 12825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sülysáp",
+    "region": "Pest County",
+    "lat": 47.4521,
+    "lon": 19.5337,
+    "population": 12786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibrány",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1233,
+    "lon": 21.7095,
+    "population": 12773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szelevény",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 46.8026,
+    "lon": 20.2028,
+    "population": 12719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszafüred",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.6167,
+    "lon": 20.7667,
+    "population": 12661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siklósi Járás",
+    "region": "Baranya County",
+    "lat": 45.8498,
+    "lon": 18.3105,
+    "population": 12597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdúsámson",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6,
+    "lon": 21.7667,
+    "population": 12584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaposvári Járás",
+    "region": "Somogy County",
+    "lat": 46.3979,
+    "lon": 17.7699,
+    "population": 12582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jászberény",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.5,
+    "lon": 19.9167,
+    "population": 12570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tápiószőlős",
+    "region": "Pest County",
+    "lat": 47.3025,
+    "lon": 19.8513,
+    "population": 12532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mátraverebély",
+    "region": "Nógrád County",
+    "lat": 47.9742,
+    "lon": 19.7805,
+    "population": 12518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komló",
+    "region": "Baranya County",
+    "lat": 46.1928,
+    "lon": 18.2649,
+    "population": 12485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bicske",
+    "region": "Fejér County",
+    "lat": 47.4842,
+    "lon": 18.644,
+    "population": 12440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Várpalotai Járás",
+    "region": "Veszprém County",
+    "lat": 47.1851,
+    "lon": 18.1221,
+    "population": 12391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fegyvernek",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.2667,
+    "lon": 20.5333,
+    "population": 12382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kenderes",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.25,
+    "lon": 20.6833,
+    "population": 12345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolnai Járás",
+    "region": "Tolna County",
+    "lat": 46.4254,
+    "lon": 18.8269,
+    "population": 12332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunakeszi",
+    "region": "Pest County",
+    "lat": 47.6364,
+    "lon": 19.1386,
+    "population": 12243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bátonyterenye",
+    "region": "Nógrád County",
+    "lat": 47.9696,
+    "lon": 19.8408,
+    "population": 12220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarnaörs",
+    "region": "Heves County",
+    "lat": 47.595,
+    "lon": 20.0525,
+    "population": 12188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Százhalombatta",
+    "region": "Pest County",
+    "lat": 47.3295,
+    "lon": 18.9388,
+    "population": 12115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunágota",
+    "region": "Békés County",
+    "lat": 46.4333,
+    "lon": 21.05,
+    "population": 12109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyírlugos",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.6932,
+    "lon": 22.0448,
+    "population": 12081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taktaszada",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1167,
+    "lon": 21.1833,
+    "population": 11848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kótaj",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.05,
+    "lon": 21.7167,
+    "population": 11828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimle",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.8173,
+    "lon": 17.3664,
+    "population": 11813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fehérgyarmat",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 47.9833,
+    "lon": 22.5167,
+    "population": 11756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gencsapáti",
+    "region": "Vas County",
+    "lat": 47.285,
+    "lon": 16.5957,
+    "population": 11643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perkáta",
+    "region": "Fejér County",
+    "lat": 47.047,
+    "lon": 18.7873,
+    "population": 11619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velence",
+    "region": "Fejér County",
+    "lat": 47.2385,
+    "lon": 18.6548,
+    "population": 11560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezőtúri Járás",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.0249,
+    "lon": 20.5905,
+    "population": 11445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kétegyháza",
+    "region": "Békés County",
+    "lat": 46.5333,
+    "lon": 21.1833,
+    "population": 11437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagycenk",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6043,
+    "lon": 16.6973,
+    "population": 11416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballószög",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8622,
+    "lon": 19.5709,
+    "population": 11363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albertirsa",
+    "region": "Pest County",
+    "lat": 47.2431,
+    "lon": 19.6169,
+    "population": 11336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyíracsád",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.6033,
+    "lon": 21.9721,
+    "population": 11315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keszthely",
+    "region": "Zala County",
+    "lat": 46.7681,
+    "lon": 17.2432,
+    "population": 11224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szentistván",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 47.7667,
+    "lon": 20.6667,
+    "population": 11210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sződliget",
+    "region": "Pest County",
+    "lat": 47.7326,
+    "lon": 19.1475,
+    "population": 11178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tápióbicske",
+    "region": "Pest County",
+    "lat": 47.361,
+    "lon": 19.6861,
+    "population": 11126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dány",
+    "region": "Pest County",
+    "lat": 47.52,
+    "lon": 19.544,
+    "population": 11125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajóbábony",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.1667,
+    "lon": 20.7333,
+    "population": 11124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilisvörösvári Járás",
+    "region": "Pest County",
+    "lat": 47.6093,
+    "lon": 18.8666,
+    "population": 11099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Füzesabony",
+    "region": "Heves County",
+    "lat": 47.75,
+    "lon": 20.4167,
+    "population": 11039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalalövő",
+    "region": "Zala County",
+    "lat": 46.848,
+    "lon": 16.5875,
+    "population": 11032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunszentmiklós",
+    "region": "Bács-Kiskun County",
+    "lat": 47.027,
+    "lon": 19.1258,
+    "population": 11026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kék",
+    "region": "Szabolcs-Szatmár-Bereg County",
+    "lat": 48.1167,
+    "lon": 21.8833,
+    "population": 10992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budapest X. kerület",
+    "region": "Budapest",
+    "lat": 47.4791,
+    "lon": 19.1583,
+    "population": 10988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soproni Járás",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.6039,
+    "lon": 16.7565,
+    "population": 10911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letenye",
+    "region": "Zala County",
+    "lat": 46.433,
+    "lon": 16.7258,
+    "population": 10886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mályi",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.0167,
+    "lon": 20.8333,
+    "population": 10772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balassagyarmat",
+    "region": "Nógrád County",
+    "lat": 48.073,
+    "lon": 19.2961,
+    "population": 10667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajós",
+    "region": "Bács-Kiskun County",
+    "lat": 46.3986,
+    "lon": 19.1206,
+    "population": 10657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyárlőrinc",
+    "region": "Bács-Kiskun County",
+    "lat": 46.8602,
+    "lon": 19.8784,
+    "population": 10639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogyoród",
+    "region": "Pest County",
+    "lat": 47.5975,
+    "lon": 19.2407,
+    "population": 10621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fertőszentmiklós",
+    "region": "Győr-Moson-Sopron County",
+    "lat": 47.59,
+    "lon": 16.8752,
+    "population": 10594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gárdonyi Járás",
+    "region": "Fejér County",
+    "lat": 47.2278,
+    "lon": 18.6362,
+    "population": 10560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Újkígyós",
+    "region": "Békés County",
+    "lat": 46.5833,
+    "lon": 21.0333,
+    "population": 10559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Túrkeve",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.1,
+    "lon": 20.75,
+    "population": 10525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kengyel",
+    "region": "Jász-Nagykun-Szolnok County",
+    "lat": 47.0833,
+    "lon": 20.3333,
+    "population": 10512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buják",
+    "region": "Nógrád County",
+    "lat": 47.8835,
+    "lon": 19.5438,
+    "population": 10433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Szendrő",
+    "region": "Borsod-Abaúj-Zemplén County",
+    "lat": 48.4,
+    "lon": 20.7333,
+    "population": 10392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vámospércs",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.5333,
+    "lon": 21.9,
+    "population": 10366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hosszúpályi",
+    "region": "Hajdú-Bihar County",
+    "lat": 47.393,
+    "lon": 21.7328,
+    "population": 10219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bölcske",
+    "region": "Tolna County",
+    "lat": 46.741,
+    "lon": 18.9674,
+    "population": 10150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagyréde",
+    "region": "Heves County",
+    "lat": 47.7654,
+    "lon": 19.8482,
+    "population": 10115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deszk",
+    "region": "Csongrád County",
+    "lat": 46.218,
+    "lon": 20.2432,
+    "population": 10061,
+    "timezone": "UTC"
+  }
+]

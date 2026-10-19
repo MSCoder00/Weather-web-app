@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "Cairo",
+    "region": "Cairo",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "population": 49733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaz Jirjā",
+    "region": "Sohag",
+    "lat": 26.3068,
+    "lon": 31.8457,
+    "population": 49584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩāmūl",
+    "region": "Kafr el-Sheikh",
+    "lat": 31.3115,
+    "lon": 31.1477,
+    "population": 49281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manfalūţ",
+    "region": "Asyut",
+    "lat": 27.3104,
+    "lon": 30.97,
+    "population": 48895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samālūţ",
+    "region": "Minya",
+    "lat": 28.3121,
+    "lon": 30.7101,
+    "population": 48803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banī Suwayf",
+    "region": "Beni Suef",
+    "lat": 29.0744,
+    "lon": 31.0979,
+    "population": 48794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Ayyāţ",
+    "region": "Giza",
+    "lat": 29.6197,
+    "lon": 31.2575,
+    "population": 48292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samannūd",
+    "region": "Gharbia",
+    "lat": 30.9616,
+    "lon": 31.2407,
+    "population": 48186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Badārī",
+    "region": "Asyut",
+    "lat": 26.9926,
+    "lon": 31.4155,
+    "population": 47956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giza",
+    "region": "Giza",
+    "lat": 30.0081,
+    "lon": 31.2109,
+    "population": 47897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hurghada",
+    "region": "Red Sea",
+    "lat": 27.2574,
+    "lon": 33.8129,
+    "population": 47569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damietta",
+    "region": "Damietta",
+    "lat": 31.4165,
+    "lon": 31.8133,
+    "population": 47546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ismailia",
+    "region": "Ismailia",
+    "lat": 30.6043,
+    "lon": 32.2722,
+    "population": 47379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damanhūr",
+    "region": "Beheira",
+    "lat": 31.0341,
+    "lon": 30.4682,
+    "population": 47112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Manshāh",
+    "region": "Sohag",
+    "lat": 26.4769,
+    "lon": 31.8035,
+    "population": 46461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naja' Ḥammādī",
+    "region": "Qena",
+    "lat": 26.0495,
+    "lon": 32.2414,
+    "population": 45213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quwaysinā",
+    "region": "Monufia",
+    "lat": 30.5648,
+    "lon": 31.1578,
+    "population": 45060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Balyanā",
+    "region": "Sohag",
+    "lat": 26.2357,
+    "lon": 32.0035,
+    "population": 44815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quţūr",
+    "region": "Gharbia",
+    "lat": 30.9722,
+    "lon": 30.9561,
+    "population": 44800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suez",
+    "region": "Suez",
+    "lat": 29.9737,
+    "lon": 32.5263,
+    "population": 44574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ain Sukhna",
+    "region": "Suez",
+    "lat": 29.6002,
+    "lon": 32.3167,
+    "population": 44562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qanāţir al Khayrīyah",
+    "region": "Qalyubia",
+    "lat": 30.1933,
+    "lon": 31.137,
+    "population": 44450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madīnat Sittah Uktūbar",
+    "region": "Giza",
+    "lat": 29.8167,
+    "lon": 31.05,
+    "population": 44154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sohag",
+    "region": "Sohag",
+    "lat": 26.557,
+    "lon": 31.6948,
+    "population": 44113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Disūq",
+    "region": "Kafr el-Sheikh",
+    "lat": 31.1326,
+    "lon": 30.6478,
+    "population": 43925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mersa Matruh",
+    "region": "Matrouh",
+    "lat": 31.3529,
+    "lon": 27.2372,
+    "population": 43898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farshūţ",
+    "region": "Qena",
+    "lat": 26.0549,
+    "lon": 32.1633,
+    "population": 43594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toukh",
+    "region": "Qalyubia",
+    "lat": 30.3549,
+    "lon": 31.201,
+    "population": 43396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abū Qurqāş",
+    "region": "Minya",
+    "lat": 27.9312,
+    "lon": 30.8384,
+    "population": 43249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagazig",
+    "region": "Sharqia",
+    "lat": 30.5846,
+    "lon": 31.3475,
+    "population": 43242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Cairo",
+    "region": "Cairo",
+    "lat": 30.03,
+    "lon": 31.47,
+    "population": 42992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luxor",
+    "region": "Luxor",
+    "lat": 25.6989,
+    "lon": 32.6421,
+    "population": 41996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khārijah",
+    "region": "New Valley",
+    "lat": 25.4514,
+    "lon": 30.5464,
+    "population": 41685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ţalkhā",
+    "region": "Dakahlia",
+    "lat": 31.0539,
+    "lon": 31.3779,
+    "population": 41169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Quşayr",
+    "region": "Red Sea",
+    "lat": 26.1043,
+    "lon": 34.2779,
+    "population": 41039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alexandria",
+    "region": "Alexandria",
+    "lat": 31.2018,
+    "lon": 29.9158,
+    "population": 40848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El-Tor",
+    "region": "South Sinai",
+    "lat": 28.2417,
+    "lon": 33.6222,
+    "population": 40550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ras Gharib",
+    "region": "Red Sea",
+    "lat": 28.3583,
+    "lon": 33.0783,
+    "population": 40366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diyarb Negm",
+    "region": "Sharqia",
+    "lat": 30.748,
+    "lon": 31.3889,
+    "population": 40213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banī Mazār",
+    "region": "Minya",
+    "lat": 28.5036,
+    "lon": 30.8004,
+    "population": 40104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dahab",
+    "region": "South Sinai",
+    "lat": 28.4821,
+    "lon": 34.495,
+    "population": 40069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Awlad Saqr",
+    "region": "Sharqia",
+    "lat": 30.931,
+    "lon": 31.6913,
+    "population": 39605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilqās",
+    "region": "Dakahlia",
+    "lat": 31.2145,
+    "lon": 31.358,
+    "population": 39296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Gouna",
+    "region": "Red Sea",
+    "lat": 27.3942,
+    "lon": 33.6782,
+    "population": 39004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kawm Ḩamādah",
+    "region": "Beheira",
+    "lat": 30.7613,
+    "lon": 30.6997,
+    "population": 38511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abnūb",
+    "region": "Asyut",
+    "lat": 27.2696,
+    "lon": 31.1511,
+    "population": 38216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marsa Alam",
+    "region": "Red Sea",
+    "lat": 25.0631,
+    "lon": 34.8901,
+    "population": 37515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaz Disūq",
+    "region": "Kafr el-Sheikh",
+    "lat": 31.1459,
+    "lon": 30.7161,
+    "population": 36436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaşr al Farāfirah",
+    "region": "New Valley",
+    "lat": 27.0568,
+    "lon": 27.9698,
+    "population": 36403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhmīm",
+    "region": "Sohag",
+    "lat": 26.5622,
+    "lon": 31.745,
+    "population": 36240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaz Sūhāj",
+    "region": "Sohag",
+    "lat": 26.5395,
+    "lon": 31.6752,
+    "population": 35141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Minyā",
+    "region": "Minya",
+    "lat": 28.1099,
+    "lon": 30.7503,
+    "population": 35071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dayr Mawās",
+    "region": "Minya",
+    "lat": 27.6418,
+    "lon": 30.8466,
+    "population": 34478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wāsiţah",
+    "region": "Faiyum",
+    "lat": 29.3378,
+    "lon": 31.2056,
+    "population": 34310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Simbel",
+    "region": "Aswan",
+    "lat": 22.3457,
+    "lon": 31.6162,
+    "population": 33516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sīdī Sālim",
+    "region": "Kafr el-Sheikh",
+    "lat": 31.2713,
+    "lon": 30.7862,
+    "population": 33515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr az Zayyāt",
+    "region": "Gharbia",
+    "lat": 30.8248,
+    "lon": 30.818,
+    "population": 32625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arish",
+    "region": "North Sinai",
+    "lat": 31.1316,
+    "lon": 33.7984,
+    "population": 32478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajā",
+    "region": "Dakahlia",
+    "lat": 30.9416,
+    "lon": 31.2904,
+    "population": 32138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jammālīyah",
+    "region": "Dakahlia",
+    "lat": 31.1806,
+    "lon": 31.865,
+    "population": 31974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qūşīyah",
+    "region": "Asyut",
+    "lat": 27.4402,
+    "lon": 30.8184,
+    "population": 30814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Alamayn",
+    "region": "Matrouh",
+    "lat": 30.8301,
+    "lon": 28.955,
+    "population": 30484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zarqā",
+    "region": "Damietta",
+    "lat": 31.2086,
+    "lon": 31.6353,
+    "population": 30258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaz Abū Ḩammād",
+    "region": "Sharqia",
+    "lat": 30.536,
+    "lon": 31.6597,
+    "population": 29972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qalyūb",
+    "region": "Qalyubia",
+    "lat": 30.1792,
+    "lon": 31.2056,
+    "population": 29820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qurein",
+    "region": "Sharqia",
+    "lat": 26.293,
+    "lon": 31.8495,
+    "population": 29100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kousa",
+    "region": "Qena",
+    "lat": 25.9141,
+    "lon": 32.7636,
+    "population": 28975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanda",
+    "region": "Gharbia",
+    "lat": 30.7885,
+    "lon": 31.0019,
+    "population": 28759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abū Tīj",
+    "region": "Asyut",
+    "lat": 27.0441,
+    "lon": 31.319,
+    "population": 28543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shibīn al Qanāṭir",
+    "region": "Qalyubia",
+    "lat": 30.3127,
+    "lon": 31.3202,
+    "population": 28528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siwa Oasis",
+    "region": "Matrouh",
+    "lat": 29.2032,
+    "lon": 25.5196,
+    "population": 28108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idfū",
+    "region": "Aswan",
+    "lat": 24.9792,
+    "lon": 32.8772,
+    "population": 27888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Manzalah",
+    "region": "Dakahlia",
+    "lat": 31.1582,
+    "lon": 31.936,
+    "population": 27834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isnā",
+    "region": "Qena",
+    "lat": 25.2934,
+    "lon": 32.554,
+    "population": 27563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Said",
+    "region": "Port Said",
+    "lat": 31.2565,
+    "lon": 32.2841,
+    "population": 27522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩalwān",
+    "region": "Cairo",
+    "lat": 29.8414,
+    "lon": 31.3008,
+    "population": 27187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ţahţā",
+    "region": "Sohag",
+    "lat": 26.7693,
+    "lon": 31.5021,
+    "population": 26333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kawm Umbū",
+    "region": "Aswan",
+    "lat": 24.4767,
+    "lon": 32.9463,
+    "population": 26208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dilinjāt",
+    "region": "Beheira",
+    "lat": 30.828,
+    "lon": 30.5355,
+    "population": 25933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibshawāy",
+    "region": "Faiyum",
+    "lat": 29.359,
+    "lon": 30.6806,
+    "population": 25565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idkū",
+    "region": "Beheira",
+    "lat": 31.3073,
+    "lon": 30.2981,
+    "population": 25455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jirjā",
+    "region": "Sohag",
+    "lat": 26.3383,
+    "lon": 31.8916,
+    "population": 25397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuwwah",
+    "region": "Kafr el-Sheikh",
+    "lat": 31.2036,
+    "lon": 30.5491,
+    "population": 25394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aswan",
+    "region": "Aswan",
+    "lat": 24.0908,
+    "lon": 32.8994,
+    "population": 24989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makadi Bay",
+    "region": "Red Sea",
+    "lat": 26.9912,
+    "lon": 33.8995,
+    "population": 24917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Manşūrah",
+    "region": "Dakahlia",
+    "lat": 31.0364,
+    "lon": 31.3807,
+    "population": 24873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qinā",
+    "region": "Qena",
+    "lat": 26.1642,
+    "lon": 32.7267,
+    "population": 24768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munūf",
+    "region": "Monufia",
+    "lat": 30.466,
+    "lon": 30.932,
+    "population": 24322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aş Şaff",
+    "region": "Giza",
+    "lat": 29.5647,
+    "lon": 31.2811,
+    "population": 24239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minya El Qamh",
+    "region": "Sharqia",
+    "lat": 30.5004,
+    "lon": 31.2377,
+    "population": 23839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maţāy",
+    "region": "Minya",
+    "lat": 28.419,
+    "lon": 30.7792,
+    "population": 23219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munshāt ‘Alī Āghā",
+    "region": "Kafr el-Sheikh",
+    "lat": 31.1579,
+    "lon": 30.7018,
+    "population": 23049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dishnā",
+    "region": "Qena",
+    "lat": 26.1247,
+    "lon": 32.476,
+    "population": 22919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩawsh ‘Īsá",
+    "region": "Beheira",
+    "lat": 30.9128,
+    "lon": 30.2902,
+    "population": 22732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharm el-Sheikh",
+    "region": "South Sinai",
+    "lat": 27.9158,
+    "lon": 34.3299,
+    "population": 22704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩawāmidīyah",
+    "region": "Giza",
+    "lat": 29.9,
+    "lon": 31.25,
+    "population": 22665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Safaga",
+    "region": "Red Sea",
+    "lat": 26.7491,
+    "lon": 33.9389,
+    "population": 22457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bawīţī",
+    "region": "Giza",
+    "lat": 28.3492,
+    "lon": 28.8659,
+    "population": 22196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mallawī",
+    "region": "Minya",
+    "lat": 27.7314,
+    "lon": 30.8417,
+    "population": 21452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Husseiniya",
+    "region": "Sharqia",
+    "lat": 31.1393,
+    "lon": 32.1495,
+    "population": 21195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minyat an Naşr",
+    "region": "Dakahlia",
+    "lat": 31.1262,
+    "lon": 31.6431,
+    "population": 21165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talā",
+    "region": "Monufia",
+    "lat": 30.6798,
+    "lon": 30.9436,
+    "population": 20916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banhā",
+    "region": "Qalyubia",
+    "lat": 30.4598,
+    "lon": 31.1842,
+    "population": 20396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dayrūţ",
+    "region": "Asyut",
+    "lat": 27.556,
+    "lon": 30.8076,
+    "population": 20045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Salhia",
+    "region": "Sharqia",
+    "lat": 30.6287,
+    "lon": 31.921,
+    "population": 19839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fashn",
+    "region": "Beni Suef",
+    "lat": 28.8243,
+    "lon": 30.8995,
+    "population": 19615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basyūn",
+    "region": "Gharbia",
+    "lat": 30.9398,
+    "lon": 30.8134,
+    "population": 19038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashmūn",
+    "region": "Monufia",
+    "lat": 30.2974,
+    "lon": 30.9764,
+    "population": 18974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maţarīyah",
+    "region": "Dakahlia",
+    "lat": 31.1829,
+    "lon": 32.0311,
+    "population": 18357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "10th of Ramadan",
+    "region": "Sharqia",
+    "lat": 30.2994,
+    "lon": 31.6142,
+    "population": 18234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuwaybi‘a",
+    "region": "South Sinai",
+    "lat": 29.0468,
+    "lon": 34.6634,
+    "population": 18211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faqous",
+    "region": "Sharqia",
+    "lat": 30.7229,
+    "lon": 31.7614,
+    "population": 18137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Awsīm",
+    "region": "Giza",
+    "lat": 30.123,
+    "lon": 31.1357,
+    "population": 17838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abū al Maţāmīr",
+    "region": "Beheira",
+    "lat": 30.9102,
+    "lon": 30.1744,
+    "population": 17663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asyūţ",
+    "region": "Asyut",
+    "lat": 27.181,
+    "lon": 31.1837,
+    "population": 17276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosetta",
+    "region": "Beheira",
+    "lat": 31.3995,
+    "lon": 30.4172,
+    "population": 16864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bājūr",
+    "region": "Monufia",
+    "lat": 30.4305,
+    "lon": 31.0368,
+    "population": 16781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maḩallah al Kubrá",
+    "region": "Gharbia",
+    "lat": 30.9706,
+    "lon": 31.1669,
+    "population": 16501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khānkah",
+    "region": "Qalyubia",
+    "lat": 30.2103,
+    "lon": 31.3681,
+    "population": 16368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dikirnis",
+    "region": "Dakahlia",
+    "lat": 31.089,
+    "lon": 31.5948,
+    "population": 15782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hihya",
+    "region": "Sharqia",
+    "lat": 30.6552,
+    "lon": 31.5067,
+    "population": 15451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Catherine",
+    "region": "South Sinai",
+    "lat": 28.5619,
+    "lon": 33.9493,
+    "population": 15091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juhaynah",
+    "region": "Sohag",
+    "lat": 26.6732,
+    "lon": 31.4976,
+    "population": 14460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Būsh",
+    "region": "Beni Suef",
+    "lat": 29.1482,
+    "lon": 31.1273,
+    "population": 14430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shirbīn",
+    "region": "Dakahlia",
+    "lat": 31.1969,
+    "lon": 31.5243,
+    "population": 14401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shuhadā’",
+    "region": "Monufia",
+    "lat": 30.5968,
+    "lon": 30.8993,
+    "population": 14289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zefta",
+    "region": "Gharbia",
+    "lat": 30.7142,
+    "lon": 31.2443,
+    "population": 14272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr ash Shaykh",
+    "region": "Kafr el-Sheikh",
+    "lat": 31.1117,
+    "lon": 30.9399,
+    "population": 14189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr ad Dawwār",
+    "region": "Beheira",
+    "lat": 31.1338,
+    "lon": 30.1297,
+    "population": 13973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Izbat al Burj",
+    "region": "Dakahlia",
+    "lat": 31.5084,
+    "lon": 31.8411,
+    "population": 13849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ţāmiyah",
+    "region": "Faiyum",
+    "lat": 29.4764,
+    "lon": 30.9612,
+    "population": 13792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilbeis",
+    "region": "Sharqia",
+    "lat": 30.4168,
+    "lon": 31.5543,
+    "population": 13753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mashtoul El Souk",
+    "region": "Sharqia",
+    "lat": 30.3557,
+    "lon": 31.3628,
+    "population": 12856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr Saqr",
+    "region": "Sharqia",
+    "lat": 30.7796,
+    "lon": 31.6177,
+    "population": 12291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumusţā as Sulţānī",
+    "region": "Beni Suef",
+    "lat": 28.9167,
+    "lon": 30.85,
+    "population": 11826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fayyūm",
+    "region": "Faiyum",
+    "lat": 29.31,
+    "lon": 30.8418,
+    "population": 10855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaz al Uqşur",
+    "region": "Luxor",
+    "lat": 25.6299,
+    "lon": 32.5902,
+    "population": 10574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iţsā",
+    "region": "Faiyum",
+    "lat": 29.2376,
+    "lon": 30.7894,
+    "population": 10258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fāraskūr",
+    "region": "Damietta",
+    "lat": 31.3298,
+    "lon": 31.7151,
+    "population": 10184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shibīn al Kawm",
+    "region": "Monufia",
+    "lat": 30.5526,
+    "lon": 31.009,
+    "population": 10015,
+    "timezone": "UTC"
+  }
+]

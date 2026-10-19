@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Benque Viejo el Carmen",
+    "region": "Cayo District",
+    "lat": 17.075,
+    "lon": -89.1392,
+    "population": 46185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio",
+    "region": "Cayo District",
+    "lat": 17.1588,
+    "lon": -89.0696,
+    "population": 46145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shipyard",
+    "region": "Orange Walk District",
+    "lat": 17.8938,
+    "lon": -88.6545,
+    "population": 40065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "Belize District",
+    "lat": 17.916,
+    "lon": -87.9659,
+    "population": 40021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dangriga",
+    "region": "Stann Creek District",
+    "lat": 16.9697,
+    "lon": -88.2331,
+    "population": 38233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corozal",
+    "region": "Corozal District",
+    "lat": 18.3938,
+    "lon": -88.3885,
+    "population": 28239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hopelchén",
+    "region": "Orange Walk District",
+    "lat": 17.8,
+    "lon": -89.1,
+    "population": 26060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belmopan",
+    "region": "Cayo District",
+    "lat": 17.25,
+    "lon": -88.7667,
+    "population": 25696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Gorda",
+    "region": "Toledo District",
+    "lat": 16.0983,
+    "lon": -88.8097,
+    "population": 24828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orange Walk",
+    "region": "Orange Walk District",
+    "lat": 18.0812,
+    "lon": -88.5633,
+    "population": 15466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Placencia",
+    "region": "Stann Creek District",
+    "lat": 16.5142,
+    "lon": -88.3665,
+    "population": 15298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belize City",
+    "region": "Belize District",
+    "lat": 17.4995,
+    "lon": -88.1976,
+    "population": 14318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valley of Peace",
+    "region": "Cayo District",
+    "lat": 17.3347,
+    "lon": -88.8347,
+    "population": 11193,
+    "timezone": "UTC"
+  }
+]

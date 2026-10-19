@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Al Ḩadd",
+    "region": "Muharraq Governorate",
+    "lat": 26.2456,
+    "lon": 50.6542,
+    "population": 44233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dār Kulayb",
+    "region": "Southern Governorate",
+    "lat": 26.0686,
+    "lon": 50.5039,
+    "population": 43602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jidd Ḩafş",
+    "region": "Capital Governorate",
+    "lat": 26.2186,
+    "lon": 50.5478,
+    "population": 34550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rifā‘",
+    "region": "Southern Governorate",
+    "lat": 26.13,
+    "lon": 50.555,
+    "population": 31733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muharraq",
+    "region": "Muharraq Governorate",
+    "lat": 26.2572,
+    "lon": 50.6119,
+    "population": 30359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manama",
+    "region": "Capital Governorate",
+    "lat": 26.2279,
+    "lon": 50.5857,
+    "population": 26825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madīnat Ḩamad",
+    "region": "Central Governorate",
+    "lat": 26.1153,
+    "lon": 50.5069,
+    "population": 23849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sitrah",
+    "region": "Capital Governorate",
+    "lat": 26.1547,
+    "lon": 50.6206,
+    "population": 12569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madīnat ‘Īsá",
+    "region": "Southern Governorate",
+    "lat": 26.1736,
+    "lon": 50.5478,
+    "population": 11074,
+    "timezone": "UTC"
+  }
+]

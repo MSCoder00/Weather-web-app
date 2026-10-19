@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Matam",
+    "region": "Matam",
+    "lat": 15.6559,
+    "lon": -13.2554,
+    "population": 49329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oussouye",
+    "region": "Ziguinchor",
+    "lat": 12.485,
+    "lon": -16.5469,
+    "population": 48738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Passi",
+    "region": "Fatick",
+    "lat": 13.9833,
+    "lon": -16.2667,
+    "population": 47965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koungheul",
+    "region": "Kaffrine",
+    "lat": 13.9833,
+    "lon": -14.8,
+    "population": 47288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kayar",
+    "region": "Thiès Region",
+    "lat": 14.9189,
+    "lon": -17.1198,
+    "population": 45143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambacounda",
+    "region": "Tambacounda Region",
+    "lat": 13.7707,
+    "lon": -13.6673,
+    "population": 44324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pourham",
+    "region": "Fatick",
+    "lat": 14.35,
+    "lon": -16.4167,
+    "population": 43381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warang",
+    "region": "Thiès Region",
+    "lat": 14.3735,
+    "lon": -16.9437,
+    "population": 43059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokone",
+    "region": "Fatick",
+    "lat": 13.8833,
+    "lon": -16.3667,
+    "population": 42345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joal-Fadiout",
+    "region": "Thiès Region",
+    "lat": 14.1667,
+    "lon": -16.8333,
+    "population": 41989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gandiaye",
+    "region": "Kaolack",
+    "lat": 14.2333,
+    "lon": -16.2667,
+    "population": 41741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waoundé",
+    "region": "Matam",
+    "lat": 15.2637,
+    "lon": -12.8682,
+    "population": 40107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mékhé",
+    "region": "Thiès Region",
+    "lat": 15.1097,
+    "lon": -16.6218,
+    "population": 40023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dara",
+    "region": "Louga",
+    "lat": 15.3484,
+    "lon": -15.4799,
+    "population": 39714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nguékhokh",
+    "region": "Thiès Region",
+    "lat": 14.5125,
+    "lon": -17.0045,
+    "population": 39225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kédougou Department",
+    "region": "Kédougou",
+    "lat": 12.8172,
+    "lon": -12.1783,
+    "population": 38927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nioro du Rip",
+    "region": "Kaolack",
+    "lat": 13.75,
+    "lon": -15.8,
+    "population": 38126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndioum",
+    "region": "Saint-Louis",
+    "lat": 16.5129,
+    "lon": -14.6471,
+    "population": 38082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fatick Department",
+    "region": "Fatick",
+    "lat": 14.2591,
+    "lon": -16.4988,
+    "population": 38040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khombole",
+    "region": "Thiès Region",
+    "lat": 14.7667,
+    "lon": -16.7,
+    "population": 36752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbacké",
+    "region": "Diourbel Region",
+    "lat": 14.8083,
+    "lon": -15.8645,
+    "population": 35438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "N’diareme limamoulaye",
+    "region": "Dakar",
+    "lat": 14.7815,
+    "lon": -17.3841,
+    "population": 34198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Louga",
+    "region": "Louga",
+    "lat": 15.6187,
+    "lon": -16.2244,
+    "population": 34189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranérou",
+    "region": "Matam",
+    "lat": 15.3,
+    "lon": -13.9667,
+    "population": 34139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint-Louis",
+    "region": "Saint-Louis",
+    "lat": 16.0179,
+    "lon": -16.4896,
+    "population": 32589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolda",
+    "region": "Kolda",
+    "lat": 12.8939,
+    "lon": -14.9413,
+    "population": 32575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiadiaye",
+    "region": "Thiès Region",
+    "lat": 14.4167,
+    "lon": -16.7,
+    "population": 31462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polel Diaoubé",
+    "region": "Saint-Louis",
+    "lat": 15.2667,
+    "lon": -13,
+    "population": 29709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marsassoum",
+    "region": "Kolda",
+    "lat": 12.8275,
+    "lon": -15.9806,
+    "population": 29050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guédiawaye Department",
+    "region": "Dakar",
+    "lat": 14.7761,
+    "lon": -17.3956,
+    "population": 28617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dakar Department",
+    "region": "Dakar",
+    "lat": 14.714,
+    "lon": -17.4553,
+    "population": 28321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambacounda Department",
+    "region": "Tambacounda Region",
+    "lat": 13.605,
+    "lon": -13.647,
+    "population": 26708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foundiougne",
+    "region": "Fatick",
+    "lat": 14.1333,
+    "lon": -16.4667,
+    "population": 26700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanel",
+    "region": "Matam",
+    "lat": 15.4916,
+    "lon": -13.1763,
+    "population": 26676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diawara",
+    "region": "Matam",
+    "lat": 15.022,
+    "lon": -12.5437,
+    "population": 26480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goléré",
+    "region": "Saint-Louis",
+    "lat": 16.2557,
+    "lon": -14.1016,
+    "population": 26091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dakar",
+    "region": "Dakar",
+    "lat": 14.6937,
+    "lon": -17.4441,
+    "population": 25107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pout",
+    "region": "Thiès Region",
+    "lat": 14.771,
+    "lon": -17.0611,
+    "population": 24171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbour",
+    "region": "Thiès Region",
+    "lat": 14.4057,
+    "lon": -16.8556,
+    "population": 23964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thiès",
+    "region": "Thiès Region",
+    "lat": 14.73,
+    "lon": -16.8697,
+    "population": 23886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndibène Dahra",
+    "region": "Louga",
+    "lat": 15.3338,
+    "lon": -15.4766,
+    "population": 23378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sémé",
+    "region": "Matam",
+    "lat": 15.1942,
+    "lon": -12.9448,
+    "population": 23089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thiès Nones",
+    "region": "Thiès Region",
+    "lat": 14.7833,
+    "lon": -16.9667,
+    "population": 22913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goudomp Department",
+    "region": "Sédhiou",
+    "lat": 12.5778,
+    "lon": -15.8722,
+    "population": 22698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richard-Toll",
+    "region": "Saint-Louis",
+    "lat": 16.4625,
+    "lon": -15.7008,
+    "population": 22208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiébo",
+    "region": "Diourbel Region",
+    "lat": 14.6333,
+    "lon": -16.2333,
+    "population": 22019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rufisque Department",
+    "region": "Dakar",
+    "lat": 14.7434,
+    "lon": -17.1984,
+    "population": 21450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diofior",
+    "region": "Fatick",
+    "lat": 14.1833,
+    "lon": -16.6667,
+    "population": 20558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosso",
+    "region": "Saint-Louis",
+    "lat": 16.4203,
+    "lon": -15.7983,
+    "population": 20493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matam Department",
+    "region": "Matam",
+    "lat": 15.7319,
+    "lon": -13.6339,
+    "population": 20483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adéane",
+    "region": "Ziguinchor",
+    "lat": 12.63,
+    "lon": -16.0169,
+    "population": 19152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Salémata",
+    "region": "Kédougou",
+    "lat": 12.5997,
+    "lon": -12.7762,
+    "population": 19152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pikine",
+    "region": "Dakar",
+    "lat": 14.7646,
+    "lon": -17.3907,
+    "population": 18809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sédhiou",
+    "region": "Sédhiou",
+    "lat": 12.7081,
+    "lon": -15.5569,
+    "population": 18708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guinguinéo",
+    "region": "Fatick",
+    "lat": 14.2667,
+    "lon": -15.95,
+    "population": 18232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolda Department",
+    "region": "Kolda",
+    "lat": 12.883,
+    "lon": -14.95,
+    "population": 17288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guéoul",
+    "region": "Louga",
+    "lat": 15.4833,
+    "lon": -16.35,
+    "population": 15612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vélingara",
+    "region": "Kolda",
+    "lat": 13.15,
+    "lon": -14.1167,
+    "population": 15141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saraya",
+    "region": "Kédougou",
+    "lat": 13.0015,
+    "lon": -11.7963,
+    "population": 15114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bignona",
+    "region": "Ziguinchor",
+    "lat": 12.8103,
+    "lon": -16.2264,
+    "population": 14874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kédougou",
+    "region": "Kédougou",
+    "lat": 12.5556,
+    "lon": -12.1808,
+    "population": 14486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tivaouane",
+    "region": "Thiès Region",
+    "lat": 15.0852,
+    "lon": -16.7106,
+    "population": 14077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pikine Department",
+    "region": "Dakar",
+    "lat": 14.7652,
+    "lon": -17.352,
+    "population": 13702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbaké",
+    "region": "Diourbel Region",
+    "lat": 14.7903,
+    "lon": -15.908,
+    "population": 13550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaolack",
+    "region": "Kaolack",
+    "lat": 14.152,
+    "lon": -16.0726,
+    "population": 12580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaffrine",
+    "region": "Kaffrine",
+    "lat": 14.1059,
+    "lon": -15.5508,
+    "population": 12307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ziguinchor",
+    "region": "Ziguinchor",
+    "lat": 12.568,
+    "lon": -16.2733,
+    "population": 12286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndofane",
+    "region": "Kaolack",
+    "lat": 13.9167,
+    "lon": -15.9333,
+    "population": 12238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linguere Department",
+    "region": "Louga",
+    "lat": 15.359,
+    "lon": -15.158,
+    "population": 11437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tionk Essil",
+    "region": "Ziguinchor",
+    "lat": 12.7856,
+    "lon": -16.5217,
+    "population": 11359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mermoz Boabab",
+    "region": "Dakar",
+    "lat": 14.7065,
+    "lon": -17.4758,
+    "population": 11173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouro Sogui",
+    "region": "Matam",
+    "lat": 15.6059,
+    "lon": -13.3223,
+    "population": 10979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Touba",
+    "region": "Diourbel Region",
+    "lat": 14.85,
+    "lon": -15.8833,
+    "population": 10314,
+    "timezone": "UTC"
+  }
+]

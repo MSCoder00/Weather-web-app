@@ -1,0 +1,3394 @@
+[
+  {
+    "name": "Koton-Karfe",
+    "region": "Kogi",
+    "lat": 8.0912,
+    "lon": 6.7978,
+    "population": 49962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olupona",
+    "region": "Osun",
+    "lat": 7.6,
+    "lon": 4.1833,
+    "population": 49608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abraka",
+    "region": "Delta",
+    "lat": 5.7902,
+    "lon": 6.1047,
+    "population": 49595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jega",
+    "region": "Kebbi",
+    "lat": 12.2234,
+    "lon": 4.3797,
+    "population": 49593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ila Orangun",
+    "region": "Osun",
+    "lat": 8.0171,
+    "lon": 4.9042,
+    "population": 49501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jos",
+    "region": "Plateau",
+    "lat": 9.9285,
+    "lon": 8.8921,
+    "population": 49489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doma",
+    "region": "Nasarawa",
+    "lat": 8.3931,
+    "lon": 8.3554,
+    "population": 49454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monguno",
+    "region": "Borno",
+    "lat": 12.6706,
+    "lon": 13.6122,
+    "population": 49296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konkwesso",
+    "region": "Niger",
+    "lat": 10.8469,
+    "lon": 4.0983,
+    "population": 49180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siluko",
+    "region": "Edo",
+    "lat": 6.5359,
+    "lon": 5.1601,
+    "population": 49112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaya",
+    "region": "Kano",
+    "lat": 11.8606,
+    "lon": 9.0027,
+    "population": 49048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beli",
+    "region": "Taraba",
+    "lat": 7.8587,
+    "lon": 10.9719,
+    "population": 48954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mallammaduri",
+    "region": "Jigawa",
+    "lat": 12.5643,
+    "lon": 9.9573,
+    "population": 48935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lere",
+    "region": "Bauchi",
+    "lat": 9.7105,
+    "lon": 9.3403,
+    "population": 48859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itu",
+    "region": "Akwa Ibom",
+    "lat": 5.2013,
+    "lon": 7.9837,
+    "population": 48847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikem",
+    "region": "Enugu",
+    "lat": 6.7799,
+    "lon": 7.7148,
+    "population": 48826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arochukwu",
+    "region": "Abia",
+    "lat": 5.3894,
+    "lon": 7.9123,
+    "population": 48720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorgoram",
+    "region": "Yobe",
+    "lat": 12.6396,
+    "lon": 10.7042,
+    "population": 48603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ochobo",
+    "region": "Benue",
+    "lat": 7.1805,
+    "lon": 7.9824,
+    "population": 48573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isara",
+    "region": "Ogun",
+    "lat": 6.9935,
+    "lon": 3.6815,
+    "population": 48569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jimeta",
+    "region": "Adamawa",
+    "lat": 9.2795,
+    "lon": 12.4582,
+    "population": 48470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isieke",
+    "region": "Ebonyi",
+    "lat": 6.3819,
+    "lon": 8.0374,
+    "population": 48449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omoku",
+    "region": "Rivers",
+    "lat": 5.342,
+    "lon": 6.656,
+    "population": 48198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruma",
+    "region": "Katsina",
+    "lat": 12.8626,
+    "lon": 7.2347,
+    "population": 47965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mashi",
+    "region": "Katsina",
+    "lat": 12.9804,
+    "lon": 7.947,
+    "population": 47807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toungo",
+    "region": "Adamawa",
+    "lat": 8.1173,
+    "lon": 12.0461,
+    "population": 47607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goronyo",
+    "region": "Sokoto",
+    "lat": 13.4423,
+    "lon": 5.6723,
+    "population": 47431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ondo",
+    "region": "Ondo",
+    "lat": 7.0932,
+    "lon": 4.8353,
+    "population": 47424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wasagu",
+    "region": "Kebbi",
+    "lat": 11.3764,
+    "lon": 5.7954,
+    "population": 47424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalanga",
+    "region": "Bauchi",
+    "lat": 10.6143,
+    "lon": 10.1765,
+    "population": 47400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igbeti",
+    "region": "Oyo",
+    "lat": 8.7492,
+    "lon": 4.1311,
+    "population": 47230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billiri",
+    "region": "Gombe",
+    "lat": 9.8654,
+    "lon": 11.2262,
+    "population": 47221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dikwa",
+    "region": "Borno",
+    "lat": 12.0361,
+    "lon": 13.9182,
+    "population": 47186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marte",
+    "region": "Borno",
+    "lat": 12.3653,
+    "lon": 13.8293,
+    "population": 47108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ijebu-Igbo",
+    "region": "Ogun",
+    "lat": 6.972,
+    "lon": 3.9994,
+    "population": 46949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minna",
+    "region": "Niger",
+    "lat": 9.6152,
+    "lon": 6.5478,
+    "population": 46925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bin Yauri",
+    "region": "Kebbi",
+    "lat": 10.7823,
+    "lon": 4.8114,
+    "population": 46780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okene",
+    "region": "Kogi",
+    "lat": 7.5512,
+    "lon": 6.2359,
+    "population": 46698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilesa",
+    "region": "Osun",
+    "lat": 7.6279,
+    "lon": 4.7416,
+    "population": 46666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kende",
+    "region": "Kebbi",
+    "lat": 11.5197,
+    "lon": 4.2603,
+    "population": 46576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagos",
+    "region": "Lagos",
+    "lat": 6.4541,
+    "lon": 3.3947,
+    "population": 46474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otukpa",
+    "region": "Benue",
+    "lat": 7.1017,
+    "lon": 7.6594,
+    "population": 46182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riti",
+    "region": "Taraba",
+    "lat": 7.9084,
+    "lon": 9.6169,
+    "population": 46167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sofo-Birnin-Gwari",
+    "region": "Kaduna",
+    "lat": 11.0154,
+    "lon": 6.7804,
+    "population": 46097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obolo-Eke (1)",
+    "region": "Enugu",
+    "lat": 6.8833,
+    "lon": 7.6333,
+    "population": 46051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikang",
+    "region": "Cross River",
+    "lat": 4.7898,
+    "lon": 8.5316,
+    "population": 45881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafin Hausa",
+    "region": "Jigawa",
+    "lat": 12.2393,
+    "lon": 9.911,
+    "population": 45847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omuo-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.7583,
+    "lon": 5.7223,
+    "population": 45845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadiya",
+    "region": "Gombe",
+    "lat": 9.6167,
+    "lon": 11.4333,
+    "population": 45806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ijebu-Jesa",
+    "region": "Osun",
+    "lat": 7.6829,
+    "lon": 4.8177,
+    "population": 45620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bauchi",
+    "region": "Bauchi",
+    "lat": 10.3103,
+    "lon": 9.8439,
+    "population": 45315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abuja",
+    "region": "Abuja Federal Capital Territory",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "population": 45256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Misau",
+    "region": "Bauchi",
+    "lat": 11.3137,
+    "lon": 10.4666,
+    "population": 45250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kankara",
+    "region": "Katsina",
+    "lat": 11.9311,
+    "lon": 7.4112,
+    "population": 45045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lere",
+    "region": "Kaduna",
+    "lat": 10.3858,
+    "lon": 8.5729,
+    "population": 44938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igbo-Ukwu",
+    "region": "Anambra",
+    "lat": 6.018,
+    "lon": 7.0203,
+    "population": 44880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agulu",
+    "region": "Anambra",
+    "lat": 6.1005,
+    "lon": 7.061,
+    "population": 44631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mubi",
+    "region": "Adamawa",
+    "lat": 10.2686,
+    "lon": 13.267,
+    "population": 44625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boju",
+    "region": "Benue",
+    "lat": 7.3557,
+    "lon": 7.893,
+    "population": 44594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dutsen Wai",
+    "region": "Kaduna",
+    "lat": 10.8501,
+    "lon": 8.199,
+    "population": 44515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lafiagi",
+    "region": "Kwara",
+    "lat": 8.853,
+    "lon": 5.4164,
+    "population": 44490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enugu",
+    "region": "Enugu",
+    "lat": 6.4413,
+    "lon": 7.4988,
+    "population": 44066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuje",
+    "region": "Abuja Federal Capital Territory",
+    "lat": 8.8795,
+    "lon": 7.2276,
+    "population": 44011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulma",
+    "region": "Kebbi",
+    "lat": 12.6423,
+    "lon": 4.3555,
+    "population": 44002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dengi",
+    "region": "Plateau",
+    "lat": 9.3687,
+    "lon": 9.9622,
+    "population": 43839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agbor",
+    "region": "Delta",
+    "lat": 6.2538,
+    "lon": 6.1942,
+    "population": 43800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burumburum",
+    "region": "Kaduna",
+    "lat": 11.3911,
+    "lon": 8.7234,
+    "population": 43782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daura",
+    "region": "Yobe",
+    "lat": 11.5541,
+    "lon": 11.406,
+    "population": 43743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akankpa",
+    "region": "Cross River",
+    "lat": 5.1264,
+    "lon": 8.1898,
+    "population": 43632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikere-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.4975,
+    "lon": 5.2304,
+    "population": 43512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gombi",
+    "region": "Adamawa",
+    "lat": 10.1676,
+    "lon": 12.7368,
+    "population": 43110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amagunze",
+    "region": "Enugu",
+    "lat": 6.3306,
+    "lon": 7.6525,
+    "population": 42997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benin City",
+    "region": "Edo",
+    "lat": 6.3381,
+    "lon": 5.6258,
+    "population": 42876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nguru",
+    "region": "Yobe",
+    "lat": 12.877,
+    "lon": 10.4554,
+    "population": 42868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bena",
+    "region": "Kebbi",
+    "lat": 11.2844,
+    "lon": 5.9347,
+    "population": 42823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nasarawa",
+    "region": "Nasarawa",
+    "lat": 8.5389,
+    "lon": 7.7082,
+    "population": 42689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ogaminana",
+    "region": "Kogi",
+    "lat": 7.5938,
+    "lon": 6.218,
+    "population": 42685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eha Amufu",
+    "region": "Enugu",
+    "lat": 6.6592,
+    "lon": 7.7596,
+    "population": 42628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayo-Belwa",
+    "region": "Adamawa",
+    "lat": 9.0542,
+    "lon": 12.0579,
+    "population": 42489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orerokpe",
+    "region": "Delta",
+    "lat": 5.6375,
+    "lon": 5.8901,
+    "population": 42475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onne",
+    "region": "Rivers",
+    "lat": 4.7444,
+    "lon": 7.0361,
+    "population": 42387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uromi",
+    "region": "Edo",
+    "lat": 6.7,
+    "lon": 6.3333,
+    "population": 42376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orlu",
+    "region": "Imo",
+    "lat": 5.7957,
+    "lon": 7.0351,
+    "population": 42354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Effium",
+    "region": "Ebonyi",
+    "lat": 6.6311,
+    "lon": 8.0581,
+    "population": 42196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajasse Ipo",
+    "region": "Kwara",
+    "lat": 8.2333,
+    "lon": 4.8167,
+    "population": 42175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abalama",
+    "region": "Rivers",
+    "lat": 4.7631,
+    "lon": 6.8403,
+    "population": 41890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wagini",
+    "region": "Katsina",
+    "lat": 12.6878,
+    "lon": 7.1958,
+    "population": 41842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badeggi",
+    "region": "Niger",
+    "lat": 9.0563,
+    "lon": 6.143,
+    "population": 41826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwoza",
+    "region": "Borno",
+    "lat": 11.0831,
+    "lon": 13.6959,
+    "population": 41825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amassoma",
+    "region": "Bayelsa",
+    "lat": 4.9703,
+    "lon": 6.1091,
+    "population": 41792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ogwashi-Uku",
+    "region": "Delta",
+    "lat": 6.1781,
+    "lon": 6.5246,
+    "population": 41750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baro",
+    "region": "Niger",
+    "lat": 8.6157,
+    "lon": 6.4185,
+    "population": 41748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gabarin",
+    "region": "Bauchi",
+    "lat": 11.1093,
+    "lon": 10.4441,
+    "population": 41739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ebute Ikorodu",
+    "region": "Lagos",
+    "lat": 6.6009,
+    "lon": 3.4882,
+    "population": 41434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gusau",
+    "region": "Zamfara",
+    "lat": 12.1702,
+    "lon": 6.6641,
+    "population": 41297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inisa",
+    "region": "Osun",
+    "lat": 7.85,
+    "lon": 4.3333,
+    "population": 41239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lame",
+    "region": "Bauchi",
+    "lat": 10.4415,
+    "lon": 9.2395,
+    "population": 41046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imeko",
+    "region": "Ogun",
+    "lat": 7.4489,
+    "lon": 2.8429,
+    "population": 40923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uruobo-Okija",
+    "region": "Anambra",
+    "lat": 5.9002,
+    "lon": 6.8431,
+    "population": 40810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fiditi",
+    "region": "Oyo",
+    "lat": 7.7136,
+    "lon": 3.9172,
+    "population": 40756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ezza-Ohu",
+    "region": "Ebonyi",
+    "lat": 6.4409,
+    "lon": 8.0843,
+    "population": 40507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkpor",
+    "region": "Anambra",
+    "lat": 6.1504,
+    "lon": 6.8304,
+    "population": 40191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yashikera",
+    "region": "Kwara",
+    "lat": 9.7667,
+    "lon": 3.4,
+    "population": 40103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilaro",
+    "region": "Ogun",
+    "lat": 6.889,
+    "lon": 3.0142,
+    "population": 40088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calabar",
+    "region": "Cross River",
+    "lat": 4.9589,
+    "lon": 8.327,
+    "population": 40048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nsukka",
+    "region": "Enugu",
+    "lat": 6.8578,
+    "lon": 7.3958,
+    "population": 40015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Funtua",
+    "region": "Katsina",
+    "lat": 11.472,
+    "lon": 7.307,
+    "population": 39979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokoto",
+    "region": "Sokoto",
+    "lat": 13.0627,
+    "lon": 5.2432,
+    "population": 39683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaura Namoda",
+    "region": "Zamfara",
+    "lat": 12.5937,
+    "lon": 6.5865,
+    "population": 39525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adoru",
+    "region": "Kogi",
+    "lat": 6.9769,
+    "lon": 7.1626,
+    "population": 39334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumagunnam",
+    "region": "Yobe",
+    "lat": 13.155,
+    "lon": 10.6347,
+    "population": 39081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onitsha",
+    "region": "Anambra",
+    "lat": 6.1498,
+    "lon": 6.7857,
+    "population": 39027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bomadi",
+    "region": "Delta",
+    "lat": 5.1607,
+    "lon": 5.9238,
+    "population": 39010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Twon-Brass",
+    "region": "Bayelsa",
+    "lat": 4.3123,
+    "lon": 6.2409,
+    "population": 38950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elele",
+    "region": "Rivers",
+    "lat": 5.1018,
+    "lon": 6.819,
+    "population": 38909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dindima",
+    "region": "Bauchi",
+    "lat": 10.2263,
+    "lon": 10.1513,
+    "population": 38844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asaba",
+    "region": "Delta",
+    "lat": 6.1982,
+    "lon": 6.7319,
+    "population": 38706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gombe",
+    "region": "Gombe",
+    "lat": 10.2897,
+    "lon": 11.1673,
+    "population": 38676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apapa",
+    "region": "Lagos",
+    "lat": 6.4488,
+    "lon": 3.359,
+    "population": 38644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Epe",
+    "region": "Lagos",
+    "lat": 6.5841,
+    "lon": 3.9834,
+    "population": 38576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oyo",
+    "region": "Oyo",
+    "lat": 7.8526,
+    "lon": 3.9312,
+    "population": 38554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ogbomoso",
+    "region": "Oyo",
+    "lat": 8.1337,
+    "lon": 4.2401,
+    "population": 38524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damasak",
+    "region": "Borno",
+    "lat": 13.1052,
+    "lon": 12.5085,
+    "population": 38521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aku",
+    "region": "Enugu",
+    "lat": 6.709,
+    "lon": 7.3183,
+    "population": 38491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miringa",
+    "region": "Borno",
+    "lat": 10.7311,
+    "lon": 12.1463,
+    "population": 38386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Runka",
+    "region": "Katsina",
+    "lat": 12.4479,
+    "lon": 7.3092,
+    "population": 38280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ado-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.6233,
+    "lon": 5.2209,
+    "population": 38273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagudo",
+    "region": "Kebbi",
+    "lat": 11.4035,
+    "lon": 4.2257,
+    "population": 38271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esuk Oron",
+    "region": "Akwa Ibom",
+    "lat": 4.8029,
+    "lon": 8.2534,
+    "population": 38234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makurdi",
+    "region": "Benue",
+    "lat": 7.7337,
+    "lon": 8.5214,
+    "population": 38192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumuokoro",
+    "region": "Rivers",
+    "lat": 4.8667,
+    "lon": 6.9833,
+    "population": 38189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dutsin-Ma",
+    "region": "Katsina",
+    "lat": 12.4539,
+    "lon": 7.4972,
+    "population": 38034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dan Gora",
+    "region": "Kano",
+    "lat": 11.5349,
+    "lon": 8.1522,
+    "population": 38001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ago Are",
+    "region": "Oyo",
+    "lat": 8.5,
+    "lon": 3.4167,
+    "population": 37982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ohafia-Ifigh",
+    "region": "Abia",
+    "lat": 5.6146,
+    "lon": 7.8119,
+    "population": 37893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birnin Kudu",
+    "region": "Jigawa",
+    "lat": 11.4521,
+    "lon": 9.4786,
+    "population": 37880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opi",
+    "region": "Enugu",
+    "lat": 6.7822,
+    "lon": 7.4332,
+    "population": 37663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zungeru",
+    "region": "Niger",
+    "lat": 9.8073,
+    "lon": 6.1524,
+    "population": 37586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gummi",
+    "region": "Zamfara",
+    "lat": 12.1448,
+    "lon": 5.1178,
+    "population": 37568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibadan",
+    "region": "Oyo",
+    "lat": 7.3776,
+    "lon": 3.9059,
+    "population": 37555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goniri",
+    "region": "Yobe",
+    "lat": 11.4845,
+    "lon": 12.3126,
+    "population": 37298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngala",
+    "region": "Borno",
+    "lat": 12.3405,
+    "lon": 14.1867,
+    "population": 37016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wawa",
+    "region": "Niger",
+    "lat": 9.9022,
+    "lon": 4.4192,
+    "population": 36917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kachia",
+    "region": "Kaduna",
+    "lat": 9.8734,
+    "lon": 7.9541,
+    "population": 36787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damaturu",
+    "region": "Yobe",
+    "lat": 11.747,
+    "lon": 11.9608,
+    "population": 36691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baissa",
+    "region": "Taraba",
+    "lat": 7.2309,
+    "lon": 10.6244,
+    "population": 36634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madala",
+    "region": "Abuja Federal Capital Territory",
+    "lat": 9.1044,
+    "lon": 7.2133,
+    "population": 36608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ete",
+    "region": "Enugu",
+    "lat": 7.0896,
+    "lon": 7.4534,
+    "population": 36464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekpoma",
+    "region": "Edo",
+    "lat": 6.743,
+    "lon": 6.1403,
+    "population": 36422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otan Ayegbaju",
+    "region": "Osun",
+    "lat": 7.9478,
+    "lon": 4.7884,
+    "population": 36355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kagoro",
+    "region": "Kaduna",
+    "lat": 9.6078,
+    "lon": 8.3904,
+    "population": 36351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ifo",
+    "region": "Ogun",
+    "lat": 6.8149,
+    "lon": 3.1952,
+    "population": 36334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amper",
+    "region": "Plateau",
+    "lat": 9.3551,
+    "lon": 9.7012,
+    "population": 36310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agbabu",
+    "region": "Ondo",
+    "lat": 6.5886,
+    "lon": 4.8343,
+    "population": 36233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warri",
+    "region": "Delta",
+    "lat": 5.5174,
+    "lon": 5.7501,
+    "population": 36036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badagry",
+    "region": "Lagos",
+    "lat": 6.415,
+    "lon": 2.8813,
+    "population": 36001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osogbo",
+    "region": "Osun",
+    "lat": 7.771,
+    "lon": 4.557,
+    "population": 35869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agenebode",
+    "region": "Edo",
+    "lat": 7.1051,
+    "lon": 6.6938,
+    "population": 35846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keffi",
+    "region": "Nasarawa",
+    "lat": 8.8465,
+    "lon": 7.8735,
+    "population": 35594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikot Ekpene",
+    "region": "Akwa Ibom",
+    "lat": 5.1819,
+    "lon": 7.7148,
+    "population": 35572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ihiala",
+    "region": "Anambra",
+    "lat": 5.8548,
+    "lon": 6.8594,
+    "population": 35519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jebba",
+    "region": "Kwara",
+    "lat": 9.1197,
+    "lon": 4.8236,
+    "population": 35491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiyawa",
+    "region": "Jigawa",
+    "lat": 11.7844,
+    "lon": 9.6069,
+    "population": 35400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benisheikh",
+    "region": "Borno",
+    "lat": 11.8092,
+    "lon": 12.4915,
+    "population": 35207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sapele",
+    "region": "Delta",
+    "lat": 5.8941,
+    "lon": 5.6767,
+    "population": 35149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ake-Eze",
+    "region": "Enugu",
+    "lat": 5.9168,
+    "lon": 7.6761,
+    "population": 35054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Illushi",
+    "region": "Edo",
+    "lat": 6.6703,
+    "lon": 6.6291,
+    "population": 35027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iho",
+    "region": "Imo",
+    "lat": 5.5823,
+    "lon": 7.099,
+    "population": 35024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langtang",
+    "region": "Plateau",
+    "lat": 9.1416,
+    "lon": 9.791,
+    "population": 34997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bori",
+    "region": "Rivers",
+    "lat": 4.6728,
+    "lon": 7.3703,
+    "population": 34673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamba",
+    "region": "Kebbi",
+    "lat": 11.8517,
+    "lon": 3.6548,
+    "population": 34661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lafia",
+    "region": "Nasarawa",
+    "lat": 8.4939,
+    "lon": 8.5153,
+    "population": 34658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magumeri",
+    "region": "Borno",
+    "lat": 12.1145,
+    "lon": 12.8262,
+    "population": 34597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deba",
+    "region": "Gombe",
+    "lat": 10.2119,
+    "lon": 11.3871,
+    "population": 34376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orita Eruwa",
+    "region": "Oyo",
+    "lat": 7.55,
+    "lon": 3.4333,
+    "population": 34076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aba",
+    "region": "Abia",
+    "lat": 5.1066,
+    "lon": 7.3667,
+    "population": 33907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saminaka",
+    "region": "Kaduna",
+    "lat": 10.4123,
+    "lon": 8.6875,
+    "population": 33853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sade",
+    "region": "Bauchi",
+    "lat": 11.3595,
+    "lon": 10.6732,
+    "population": 33789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madagali",
+    "region": "Adamawa",
+    "lat": 10.8894,
+    "lon": 13.6283,
+    "population": 33736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gembu",
+    "region": "Taraba",
+    "lat": 6.7256,
+    "lon": 11.2565,
+    "population": 33645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makoko",
+    "region": "Lagos",
+    "lat": 6.4961,
+    "lon": 3.3878,
+    "population": 33563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panyam",
+    "region": "Plateau",
+    "lat": 9.4076,
+    "lon": 9.2148,
+    "population": 33480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuta",
+    "region": "Niger",
+    "lat": 9.8686,
+    "lon": 6.7104,
+    "population": 33382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwadabawa",
+    "region": "Sokoto",
+    "lat": 13.3582,
+    "lon": 5.2381,
+    "population": 33356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bende",
+    "region": "Abia",
+    "lat": 5.5587,
+    "lon": 7.6336,
+    "population": 33346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apomu",
+    "region": "Osun",
+    "lat": 7.3516,
+    "lon": 4.1833,
+    "population": 33307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gumel",
+    "region": "Jigawa",
+    "lat": 12.6269,
+    "lon": 9.3881,
+    "population": 33278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babura",
+    "region": "Jigawa",
+    "lat": 12.7726,
+    "lon": 9.0152,
+    "population": 33212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auchi",
+    "region": "Edo",
+    "lat": 7.0676,
+    "lon": 6.2636,
+    "population": 33106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisi",
+    "region": "Oyo",
+    "lat": 9.083,
+    "lon": 3.852,
+    "population": 32914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mberubu",
+    "region": "Enugu",
+    "lat": 6.1731,
+    "lon": 7.6302,
+    "population": 32892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ozubulu",
+    "region": "Anambra",
+    "lat": 5.9575,
+    "lon": 6.853,
+    "population": 32892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patigi",
+    "region": "Kwara",
+    "lat": 8.7285,
+    "lon": 5.7556,
+    "population": 32594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abocho",
+    "region": "Kogi",
+    "lat": 7.5677,
+    "lon": 6.9863,
+    "population": 32568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Owo",
+    "region": "Ondo",
+    "lat": 7.1962,
+    "lon": 5.5868,
+    "population": 32543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringim",
+    "region": "Jigawa",
+    "lat": 12.1514,
+    "lon": 9.1622,
+    "population": 32494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okeho",
+    "region": "Oyo",
+    "lat": 8.0339,
+    "lon": 3.3476,
+    "population": 32379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tegina",
+    "region": "Niger",
+    "lat": 10.0706,
+    "lon": 6.1906,
+    "population": 32287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akko",
+    "region": "Gombe",
+    "lat": 10.289,
+    "lon": 10.9732,
+    "population": 32196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ado Odo",
+    "region": "Ogun",
+    "lat": 6.6,
+    "lon": 2.9333,
+    "population": 32094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wamba",
+    "region": "Nasarawa",
+    "lat": 8.9415,
+    "lon": 8.6031,
+    "population": 32053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gassol",
+    "region": "Taraba",
+    "lat": 8.5353,
+    "lon": 10.4461,
+    "population": 31915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ijebu-Ife",
+    "region": "Ogun",
+    "lat": 6.7784,
+    "lon": 4.0339,
+    "population": 31719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kusheriki",
+    "region": "Niger",
+    "lat": 10.5328,
+    "lon": 6.4422,
+    "population": 31714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auna",
+    "region": "Niger",
+    "lat": 10.1881,
+    "lon": 4.7232,
+    "population": 31599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darazo",
+    "region": "Bauchi",
+    "lat": 10.9992,
+    "lon": 10.4106,
+    "population": 31577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zuru",
+    "region": "Kebbi",
+    "lat": 11.4352,
+    "lon": 5.2349,
+    "population": 31399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afikpo",
+    "region": "Ebonyi",
+    "lat": 5.8926,
+    "lon": 7.9353,
+    "population": 31193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takum",
+    "region": "Benue",
+    "lat": 7.2667,
+    "lon": 9.9833,
+    "population": 31063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalupon",
+    "region": "Oyo",
+    "lat": 7.4679,
+    "lon": 4.0659,
+    "population": 31057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ijebu-Ode",
+    "region": "Ogun",
+    "lat": 6.8194,
+    "lon": 3.9173,
+    "population": 30979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zadawa",
+    "region": "Bauchi",
+    "lat": 11.4496,
+    "lon": 10.3672,
+    "population": 30657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kujama",
+    "region": "Kaduna",
+    "lat": 10.4577,
+    "lon": 7.6381,
+    "population": 30633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dan Sadau",
+    "region": "Zamfara",
+    "lat": 11.2962,
+    "lon": 6.4952,
+    "population": 30618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idanre",
+    "region": "Ondo",
+    "lat": 7.1127,
+    "lon": 5.1159,
+    "population": 30423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ifon",
+    "region": "Ondo",
+    "lat": 6.9297,
+    "lon": 5.7737,
+    "population": 30110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaduna",
+    "region": "Kaduna",
+    "lat": 10.5264,
+    "lon": 7.4388,
+    "population": 30110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obonoma",
+    "region": "Rivers",
+    "lat": 4.7114,
+    "lon": 6.7908,
+    "population": 30055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bununu",
+    "region": "Bauchi",
+    "lat": 9.8822,
+    "lon": 9.6806,
+    "population": 30049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafanchan",
+    "region": "Kaduna",
+    "lat": 9.5813,
+    "lon": 8.2926,
+    "population": 29853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngurore",
+    "region": "Adamawa",
+    "lat": 9.2887,
+    "lon": 12.2403,
+    "population": 29852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lapai",
+    "region": "Niger",
+    "lat": 9.0444,
+    "lon": 6.5709,
+    "population": 29831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igbara-Odo",
+    "region": "Ekiti",
+    "lat": 7.5025,
+    "lon": 5.0626,
+    "population": 29779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tokombere",
+    "region": "Borno",
+    "lat": 11.2213,
+    "lon": 13.4878,
+    "population": 29726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ijero-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.8151,
+    "lon": 5.0672,
+    "population": 29614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kontagora",
+    "region": "Niger",
+    "lat": 10.4032,
+    "lon": 5.4708,
+    "population": 29448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazaure",
+    "region": "Jigawa",
+    "lat": 12.6485,
+    "lon": 8.4118,
+    "population": 29387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabba",
+    "region": "Kogi",
+    "lat": 7.8272,
+    "lon": 6.075,
+    "population": 29373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igede-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.6685,
+    "lon": 5.1263,
+    "population": 29302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dankama",
+    "region": "Katsina",
+    "lat": 13.2978,
+    "lon": 7.7949,
+    "population": 29116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abonnema",
+    "region": "Rivers",
+    "lat": 4.7231,
+    "lon": 6.7788,
+    "population": 29115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chokocho",
+    "region": "Rivers",
+    "lat": 4.9908,
+    "lon": 7.0544,
+    "population": 28965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gora",
+    "region": "Katsina",
+    "lat": 11.9129,
+    "lon": 7.6653,
+    "population": 28935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madara",
+    "region": "Bauchi",
+    "lat": 11.7798,
+    "lon": 10.4479,
+    "population": 28886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajere",
+    "region": "Yobe",
+    "lat": 11.9802,
+    "lon": 11.44,
+    "population": 28668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwali",
+    "region": "Abuja Federal Capital Territory",
+    "lat": 8.8835,
+    "lon": 7.0186,
+    "population": 28666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Disina",
+    "region": "Bauchi",
+    "lat": 11.4814,
+    "lon": 9.919,
+    "population": 28663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aramoko-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.7048,
+    "lon": 5.0405,
+    "population": 28626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwandu",
+    "region": "Kebbi",
+    "lat": 12.502,
+    "lon": 4.6429,
+    "population": 28124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Owerri",
+    "region": "Imo",
+    "lat": 5.4836,
+    "lon": 7.0332,
+    "population": 28069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omu-Aran",
+    "region": "Kwara",
+    "lat": 8.1386,
+    "lon": 5.1026,
+    "population": 28000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwio Kura",
+    "region": "Yobe",
+    "lat": 12.6748,
+    "lon": 11.0669,
+    "population": 27942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gujba",
+    "region": "Yobe",
+    "lat": 11.4996,
+    "lon": 11.934,
+    "population": 27927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oke Ila",
+    "region": "Ekiti",
+    "lat": 7.95,
+    "lon": 4.9833,
+    "population": 27907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Illela",
+    "region": "Sokoto",
+    "lat": 13.7306,
+    "lon": 5.2978,
+    "population": 27904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wurno",
+    "region": "Sokoto",
+    "lat": 13.2905,
+    "lon": 5.4237,
+    "population": 27843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanga",
+    "region": "Kebbi",
+    "lat": 11.2137,
+    "lon": 4.5794,
+    "population": 27518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dekina",
+    "region": "Kogi",
+    "lat": 7.6897,
+    "lon": 7.0438,
+    "population": 27392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibeto",
+    "region": "Niger",
+    "lat": 10.4854,
+    "lon": 5.145,
+    "population": 27308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Awka",
+    "region": "Anambra",
+    "lat": 6.2127,
+    "lon": 7.072,
+    "population": 27121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Harcourt",
+    "region": "Rivers",
+    "lat": 4.75,
+    "lon": 7,
+    "population": 27108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soba",
+    "region": "Kaduna",
+    "lat": 10.9813,
+    "lon": 8.0575,
+    "population": 27025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lokoja",
+    "region": "Kogi",
+    "lat": 7.7969,
+    "lon": 6.7405,
+    "population": 26951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalingo",
+    "region": "Taraba",
+    "lat": 8.8937,
+    "lon": 11.3596,
+    "population": 26863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwaram",
+    "region": "Jigawa",
+    "lat": 11.2773,
+    "lon": 9.8839,
+    "population": 26758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uyo",
+    "region": "Akwa Ibom",
+    "lat": 5.0513,
+    "lon": 7.9335,
+    "population": 26730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilobu",
+    "region": "Osun",
+    "lat": 7.8404,
+    "lon": 4.4856,
+    "population": 26645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idah",
+    "region": "Kogi",
+    "lat": 7.1135,
+    "lon": 6.7387,
+    "population": 26641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maiyama",
+    "region": "Kebbi",
+    "lat": 12.0823,
+    "lon": 4.3691,
+    "population": 26564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahoada",
+    "region": "Rivers",
+    "lat": 5.0833,
+    "lon": 6.65,
+    "population": 26554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ode",
+    "region": "Ondo",
+    "lat": 7.7899,
+    "lon": 5.7117,
+    "population": 26552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ejigbo",
+    "region": "Osun",
+    "lat": 7.9029,
+    "lon": 4.3142,
+    "population": 26523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anchau",
+    "region": "Kaduna",
+    "lat": 10.9625,
+    "lon": 8.3923,
+    "population": 26261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argungu",
+    "region": "Kebbi",
+    "lat": 12.7448,
+    "lon": 4.5251,
+    "population": 26190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maiduguri",
+    "region": "Borno",
+    "lat": 11.8469,
+    "lon": 13.1571,
+    "population": 26133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ogurugu",
+    "region": "Kogi",
+    "lat": 6.7864,
+    "lon": 6.9502,
+    "population": 26130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabai",
+    "region": "Kebbi",
+    "lat": 11.4765,
+    "lon": 5.2062,
+    "population": 26028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bode Saadu",
+    "region": "Kwara",
+    "lat": 8.939,
+    "lon": 4.7823,
+    "population": 25976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsafe",
+    "region": "Zamfara",
+    "lat": 11.9578,
+    "lon": 6.9208,
+    "population": 25943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wukari",
+    "region": "Taraba",
+    "lat": 7.8714,
+    "lon": 9.7779,
+    "population": 25841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garko",
+    "region": "Gombe",
+    "lat": 10.1751,
+    "lon": 11.1646,
+    "population": 25812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saki",
+    "region": "Oyo",
+    "lat": 8.6676,
+    "lon": 3.3939,
+    "population": 25783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamboru",
+    "region": "Borno",
+    "lat": 12.373,
+    "lon": 14.2069,
+    "population": 25736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaria",
+    "region": "Kaduna",
+    "lat": 11.1113,
+    "lon": 7.7227,
+    "population": 25656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanda Bayo",
+    "region": "Bauchi",
+    "lat": 11.5071,
+    "lon": 10.7459,
+    "population": 25495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gbongan",
+    "region": "Osun",
+    "lat": 7.4773,
+    "lon": 4.3535,
+    "population": 25379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amaigbo",
+    "region": "Abia",
+    "lat": 5.7892,
+    "lon": 7.8383,
+    "population": 25339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dapchi",
+    "region": "Yobe",
+    "lat": 12.4954,
+    "lon": 11.4998,
+    "population": 25118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwasero",
+    "region": "Kwara",
+    "lat": 9.4833,
+    "lon": 3.5,
+    "population": 25092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geidam",
+    "region": "Yobe",
+    "lat": 12.8944,
+    "lon": 11.9265,
+    "population": 25054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iwo",
+    "region": "Osun",
+    "lat": 7.6353,
+    "lon": 4.1816,
+    "population": 25021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ile-Ife",
+    "region": "Osun",
+    "lat": 7.4824,
+    "lon": 4.5603,
+    "population": 24924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Awgu",
+    "region": "Enugu",
+    "lat": 6.0728,
+    "lon": 7.4774,
+    "population": 24880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oguta",
+    "region": "Imo",
+    "lat": 5.7104,
+    "lon": 6.8094,
+    "population": 24869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oyan",
+    "region": "Osun",
+    "lat": 8.05,
+    "lon": 4.7667,
+    "population": 24803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaiama",
+    "region": "Kwara",
+    "lat": 9.6053,
+    "lon": 3.941,
+    "population": 24793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nafada",
+    "region": "Gombe",
+    "lat": 11.096,
+    "lon": 11.3326,
+    "population": 24660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orodo",
+    "region": "Imo",
+    "lat": 5.6167,
+    "lon": 7.0333,
+    "population": 24580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaffa",
+    "region": "Borno",
+    "lat": 10.5067,
+    "lon": 12.3331,
+    "population": 24500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damboa",
+    "region": "Borno",
+    "lat": 11.1553,
+    "lon": 12.7564,
+    "population": 24353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igboho",
+    "region": "Oyo",
+    "lat": 8.8378,
+    "lon": 3.7563,
+    "population": 24335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suleja",
+    "region": "Niger",
+    "lat": 9.1806,
+    "lon": 7.1794,
+    "population": 24282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Owode",
+    "region": "Ogun",
+    "lat": 6.9485,
+    "lon": 3.5056,
+    "population": 24267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vom",
+    "region": "Plateau",
+    "lat": 9.7291,
+    "lon": 8.7914,
+    "population": 24231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaltungo",
+    "region": "Gombe",
+    "lat": 9.82,
+    "lon": 11.3087,
+    "population": 24082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mando",
+    "region": "Kaduna",
+    "lat": 10.7167,
+    "lon": 6.5667,
+    "population": 24038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igbor",
+    "region": "Benue",
+    "lat": 7.4512,
+    "lon": 8.6081,
+    "population": 23863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fika",
+    "region": "Yobe",
+    "lat": 11.377,
+    "lon": 11.2375,
+    "population": 23843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabah",
+    "region": "Sokoto",
+    "lat": 13.1226,
+    "lon": 5.5076,
+    "population": 23792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kajuru",
+    "region": "Kaduna",
+    "lat": 10.3228,
+    "lon": 7.6846,
+    "population": 23589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bama",
+    "region": "Borno",
+    "lat": 11.5213,
+    "lon": 13.6895,
+    "population": 23207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birnin Kebbi",
+    "region": "Kebbi",
+    "lat": 12.4539,
+    "lon": 4.1975,
+    "population": 23149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patani",
+    "region": "Delta",
+    "lat": 5.2289,
+    "lon": 6.1914,
+    "population": 23096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwale",
+    "region": "Delta",
+    "lat": 5.7077,
+    "lon": 6.434,
+    "population": 22927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iperu",
+    "region": "Ogun",
+    "lat": 6.91,
+    "lon": 3.6656,
+    "population": 22677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Offa",
+    "region": "Kwara",
+    "lat": 8.1491,
+    "lon": 4.7207,
+    "population": 22676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ughelli",
+    "region": "Delta",
+    "lat": 5.4896,
+    "lon": 6.0041,
+    "population": 22657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kari",
+    "region": "Bauchi",
+    "lat": 11.2471,
+    "lon": 10.561,
+    "population": 22572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikeja",
+    "region": "Lagos",
+    "lat": 6.5965,
+    "lon": 3.342,
+    "population": 22447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sauri",
+    "region": "Zamfara",
+    "lat": 11.7265,
+    "lon": 6.7837,
+    "population": 22434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babana",
+    "region": "Niger",
+    "lat": 10.4295,
+    "lon": 3.815,
+    "population": 22377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Egbe",
+    "region": "Kogi",
+    "lat": 8.2167,
+    "lon": 5.5167,
+    "population": 22354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kano",
+    "region": "Kano",
+    "lat": 12.0001,
+    "lon": 8.5167,
+    "population": 22347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oke Mesi",
+    "region": "Osun",
+    "lat": 7.8167,
+    "lon": 4.9167,
+    "population": 22309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jibia",
+    "region": "Katsina",
+    "lat": 13.0938,
+    "lon": 7.2262,
+    "population": 22127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Shagunnu",
+    "region": "Niger",
+    "lat": 10.3396,
+    "lon": 4.4688,
+    "population": 22072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ukata",
+    "region": "Niger",
+    "lat": 10.8312,
+    "lon": 5.8249,
+    "population": 21942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwatarkwashi",
+    "region": "Zamfara",
+    "lat": 12.1408,
+    "lon": 6.822,
+    "population": 21681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutum Biyu",
+    "region": "Taraba",
+    "lat": 8.6414,
+    "lon": 10.7736,
+    "population": 21566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jikamshi",
+    "region": "Katsina",
+    "lat": 12.1733,
+    "lon": 7.7742,
+    "population": 21503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modakeke",
+    "region": "Osun",
+    "lat": 7.383,
+    "lon": 4.2603,
+    "population": 21202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potiskum",
+    "region": "Yobe",
+    "lat": 11.7139,
+    "lon": 11.0811,
+    "population": 21146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugep",
+    "region": "Cross River",
+    "lat": 5.8087,
+    "lon": 8.081,
+    "population": 21130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uba",
+    "region": "Borno",
+    "lat": 10.4551,
+    "lon": 13.2223,
+    "population": 21116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ore",
+    "region": "Ondo",
+    "lat": 6.7472,
+    "lon": 4.8761,
+    "population": 21101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahuta",
+    "region": "Kebbi",
+    "lat": 11.5534,
+    "lon": 4.9814,
+    "population": 21087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Numan",
+    "region": "Adamawa",
+    "lat": 9.4637,
+    "lon": 12.0306,
+    "population": 21004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganye",
+    "region": "Adamawa",
+    "lat": 8.435,
+    "lon": 12.0511,
+    "population": 20925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Efon-Alaaye",
+    "region": "Ekiti",
+    "lat": 7.6565,
+    "lon": 4.9223,
+    "population": 20685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumo",
+    "region": "Gombe",
+    "lat": 10.0481,
+    "lon": 11.2105,
+    "population": 20590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gboko",
+    "region": "Benue",
+    "lat": 7.3316,
+    "lon": 8.976,
+    "population": 20564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okuta",
+    "region": "Kwara",
+    "lat": 9.2167,
+    "lon": 3.1833,
+    "population": 20526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boi",
+    "region": "Bauchi",
+    "lat": 9.5611,
+    "lon": 9.5015,
+    "population": 20514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yajiwa",
+    "region": "Borno",
+    "lat": 11.3862,
+    "lon": 12.7199,
+    "population": 20501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umuahia",
+    "region": "Abia",
+    "lat": 5.5249,
+    "lon": 7.4946,
+    "population": 20435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emure-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.4364,
+    "lon": 5.4592,
+    "population": 20399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dakingari",
+    "region": "Kebbi",
+    "lat": 11.6481,
+    "lon": 4.0618,
+    "population": 20163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ejirin",
+    "region": "Lagos",
+    "lat": 6.6142,
+    "lon": 3.9002,
+    "population": 19907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obiaruku",
+    "region": "Delta",
+    "lat": 5.8467,
+    "lon": 6.1529,
+    "population": 19840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umunede",
+    "region": "Delta",
+    "lat": 6.2655,
+    "lon": 6.3096,
+    "population": 19833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akure",
+    "region": "Ondo",
+    "lat": 7.2526,
+    "lon": 5.1931,
+    "population": 19769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danja",
+    "region": "Katsina",
+    "lat": 11.3771,
+    "lon": 7.561,
+    "population": 19714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enugu-Ukwu",
+    "region": "Anambra",
+    "lat": 6.1715,
+    "lon": 7.0053,
+    "population": 19681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ipoti",
+    "region": "Ekiti",
+    "lat": 7.8738,
+    "lon": 5.0769,
+    "population": 19665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atani",
+    "region": "Anambra",
+    "lat": 6.0128,
+    "lon": 6.7477,
+    "population": 19618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ankpa",
+    "region": "Kogi",
+    "lat": 7.4025,
+    "lon": 7.632,
+    "population": 19521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eket",
+    "region": "Akwa Ibom",
+    "lat": 4.6423,
+    "lon": 7.9244,
+    "population": 19436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugbokpo",
+    "region": "Benue",
+    "lat": 7.6532,
+    "lon": 7.8841,
+    "population": 19231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birniwa",
+    "region": "Jigawa",
+    "lat": 12.7907,
+    "lon": 10.2361,
+    "population": 19153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igbo-Ora",
+    "region": "Oyo",
+    "lat": 7.4338,
+    "lon": 3.2879,
+    "population": 19083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abakaliki",
+    "region": "Ebonyi",
+    "lat": 6.3248,
+    "lon": 8.1137,
+    "population": 19046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dange",
+    "region": "Sokoto",
+    "lat": 12.8531,
+    "lon": 5.3457,
+    "population": 19004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilorin",
+    "region": "Kwara",
+    "lat": 8.4966,
+    "lon": 4.5421,
+    "population": 18791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Icheu",
+    "region": "Kogi",
+    "lat": 7.7067,
+    "lon": 6.7718,
+    "population": 18760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anka",
+    "region": "Zamfara",
+    "lat": 12.1135,
+    "lon": 5.9268,
+    "population": 18556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buguma",
+    "region": "Rivers",
+    "lat": 4.7333,
+    "lon": 6.8667,
+    "population": 18490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gagarawa",
+    "region": "Jigawa",
+    "lat": 12.4085,
+    "lon": 9.5288,
+    "population": 18440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nnewi",
+    "region": "Anambra",
+    "lat": 6.0196,
+    "lon": 6.9173,
+    "population": 18259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hinna",
+    "region": "Gombe",
+    "lat": 10.3043,
+    "lon": 11.4991,
+    "population": 18237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yamrat",
+    "region": "Bauchi",
+    "lat": 10.1116,
+    "lon": 9.826,
+    "population": 18159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikire",
+    "region": "Osun",
+    "lat": 7.3698,
+    "lon": 4.1863,
+    "population": 18139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lau",
+    "region": "Taraba",
+    "lat": 9.2083,
+    "lon": 11.2754,
+    "population": 18124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bornu Yassu",
+    "region": "Borno",
+    "lat": 12.275,
+    "lon": 12.5686,
+    "population": 18106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daura",
+    "region": "Katsina",
+    "lat": 13.033,
+    "lon": 8.3235,
+    "population": 17913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwaram",
+    "region": "Bauchi",
+    "lat": 10.233,
+    "lon": 10.2857,
+    "population": 17850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idi Iroko",
+    "region": "Ogun",
+    "lat": 6.6333,
+    "lon": 2.7333,
+    "population": 17635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dankalwa",
+    "region": "Yobe",
+    "lat": 11.7445,
+    "lon": 12.1854,
+    "population": 17601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machina",
+    "region": "Yobe",
+    "lat": 13.1364,
+    "lon": 10.0492,
+    "population": 17551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uga",
+    "region": "Anambra",
+    "lat": 5.9358,
+    "lon": 7.0793,
+    "population": 17442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gashua",
+    "region": "Yobe",
+    "lat": 12.874,
+    "lon": 11.0406,
+    "population": 17343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambuwal",
+    "region": "Sokoto",
+    "lat": 12.4059,
+    "lon": 4.646,
+    "population": 17279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikirun",
+    "region": "Osun",
+    "lat": 7.9128,
+    "lon": 4.6674,
+    "population": 17256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dass",
+    "region": "Bauchi",
+    "lat": 10.0007,
+    "lon": 9.516,
+    "population": 17143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilare",
+    "region": "Ondo",
+    "lat": 7.3507,
+    "lon": 5.1133,
+    "population": 17059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadejia",
+    "region": "Jigawa",
+    "lat": 12.4535,
+    "lon": 10.0412,
+    "population": 16861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okigwe",
+    "region": "Imo",
+    "lat": 5.8292,
+    "lon": 7.3506,
+    "population": 16824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abeokuta",
+    "region": "Ogun",
+    "lat": 7.1557,
+    "lon": 3.3451,
+    "population": 16788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugana",
+    "region": "Kogi",
+    "lat": 7.9992,
+    "lon": 7.5836,
+    "population": 16183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isanlu-Itedoijowa",
+    "region": "Kogi",
+    "lat": 8.2744,
+    "lon": 5.8353,
+    "population": 16058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pindiga",
+    "region": "Gombe",
+    "lat": 9.9843,
+    "lon": 10.9523,
+    "population": 16029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwolla",
+    "region": "Plateau",
+    "lat": 8.9036,
+    "lon": 9.2909,
+    "population": 15945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hunkuyi",
+    "region": "Kaduna",
+    "lat": 11.2668,
+    "lon": 7.6492,
+    "population": 15877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alapa",
+    "region": "Oyo",
+    "lat": 8.6167,
+    "lon": 4.3833,
+    "population": 15871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Udi",
+    "region": "Enugu",
+    "lat": 6.3159,
+    "lon": 7.4209,
+    "population": 15497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samamiya",
+    "region": "Jigawa",
+    "lat": 11.3487,
+    "lon": 9.6399,
+    "population": 15380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangiwa",
+    "region": "Kebbi",
+    "lat": 12.5534,
+    "lon": 3.8181,
+    "population": 15376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yola",
+    "region": "Adamawa",
+    "lat": 9.2084,
+    "lon": 12.4815,
+    "population": 15366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibi",
+    "region": "Taraba",
+    "lat": 8.1812,
+    "lon": 9.7443,
+    "population": 15236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaki Biam",
+    "region": "Benue",
+    "lat": 7.5067,
+    "lon": 9.6104,
+    "population": 15190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moriki",
+    "region": "Zamfara",
+    "lat": 12.8741,
+    "lon": 6.4875,
+    "population": 15103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buga",
+    "region": "Nasarawa",
+    "lat": 8.4906,
+    "lon": 7.3414,
+    "population": 15055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adani",
+    "region": "Enugu",
+    "lat": 6.7397,
+    "lon": 7.0112,
+    "population": 14811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pankshin",
+    "region": "Plateau",
+    "lat": 9.3254,
+    "lon": 9.4352,
+    "population": 14679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azare",
+    "region": "Bauchi",
+    "lat": 11.6748,
+    "lon": 10.1907,
+    "population": 14321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yenagoa",
+    "region": "Bayelsa",
+    "lat": 4.9268,
+    "lon": 6.2676,
+    "population": 14314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enugu-Ezike",
+    "region": "Enugu",
+    "lat": 6.9827,
+    "lon": 7.4553,
+    "population": 14221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suya",
+    "region": "Kwara",
+    "lat": 9.4667,
+    "lon": 3.1833,
+    "population": 14067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aliade",
+    "region": "Benue",
+    "lat": 7.2963,
+    "lon": 8.4828,
+    "population": 13969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafarati",
+    "region": "Gombe",
+    "lat": 10.383,
+    "lon": 11.0957,
+    "population": 13951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gandi",
+    "region": "Sokoto",
+    "lat": 12.9636,
+    "lon": 5.7434,
+    "population": 13902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gakem",
+    "region": "Cross River",
+    "lat": 6.7696,
+    "lon": 8.9912,
+    "population": 13875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ise-Ekiti",
+    "region": "Ekiti",
+    "lat": 7.4648,
+    "lon": 5.4233,
+    "population": 13618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuli",
+    "region": "Bauchi",
+    "lat": 9.6971,
+    "lon": 10.2735,
+    "population": 13592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igarra",
+    "region": "Edo",
+    "lat": 7.2937,
+    "lon": 6.1043,
+    "population": 13444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ifaki",
+    "region": "Ekiti",
+    "lat": 7.7894,
+    "lon": 5.2485,
+    "population": 13351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bara",
+    "region": "Gombe",
+    "lat": 10.3744,
+    "lon": 10.7288,
+    "population": 13118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burutu",
+    "region": "Delta",
+    "lat": 5.3533,
+    "lon": 5.5083,
+    "population": 13079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holma",
+    "region": "Adamawa",
+    "lat": 9.8986,
+    "lon": 13.0545,
+    "population": 13064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katsina",
+    "region": "Katsina",
+    "lat": 12.9908,
+    "lon": 7.6018,
+    "population": 12800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukuru",
+    "region": "Plateau",
+    "lat": 9.794,
+    "lon": 8.864,
+    "population": 12593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maru",
+    "region": "Zamfara",
+    "lat": 12.3336,
+    "lon": 6.4037,
+    "population": 12559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opobo",
+    "region": "Rivers",
+    "lat": 4.5114,
+    "lon": 7.54,
+    "population": 12326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biu",
+    "region": "Borno",
+    "lat": 10.6128,
+    "lon": 12.1946,
+    "population": 12221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binji",
+    "region": "Sokoto",
+    "lat": 13.2229,
+    "lon": 4.9089,
+    "population": 12015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yelwa",
+    "region": "Plateau",
+    "lat": 8.8333,
+    "lon": 9.6333,
+    "population": 11959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yandev",
+    "region": "Benue",
+    "lat": 7.3631,
+    "lon": 9.0424,
+    "population": 11733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ubiaja",
+    "region": "Edo",
+    "lat": 6.6558,
+    "lon": 6.3849,
+    "population": 11461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shani",
+    "region": "Borno",
+    "lat": 10.2182,
+    "lon": 12.0606,
+    "population": 11424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dukku",
+    "region": "Gombe",
+    "lat": 10.8238,
+    "lon": 10.7722,
+    "population": 11386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duku",
+    "region": "Niger",
+    "lat": 11.2361,
+    "lon": 4.9073,
+    "population": 11340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuyo",
+    "region": "Borno",
+    "lat": 10.3852,
+    "lon": 11.6968,
+    "population": 11298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bokani",
+    "region": "Niger",
+    "lat": 9.4333,
+    "lon": 5.2,
+    "population": 11224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kukawa",
+    "region": "Borno",
+    "lat": 12.9247,
+    "lon": 13.5662,
+    "population": 10590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dutse",
+    "region": "Jigawa",
+    "lat": 11.7562,
+    "lon": 9.339,
+    "population": 10526,
+    "timezone": "UTC"
+  }
+]

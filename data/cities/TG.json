@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Préfecture de Bassar",
+    "region": "Kara Region",
+    "lat": 9.25,
+    "lon": 0.75,
+    "population": 49352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niamtougou",
+    "region": "Kara Region",
+    "lat": 9.7681,
+    "lon": 1.1053,
+    "population": 46673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabligbo",
+    "region": "Maritime",
+    "lat": 6.5833,
+    "lon": 1.5,
+    "population": 42059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kpalimé",
+    "region": "Plateaux Region",
+    "lat": 6.9,
+    "lon": 0.6333,
+    "population": 40858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amlamé",
+    "region": "Plateaux Region",
+    "lat": 7.4667,
+    "lon": 0.9,
+    "population": 40337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pagouda",
+    "region": "Kara Region",
+    "lat": 9.7525,
+    "lon": 1.3278,
+    "population": 38467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kara",
+    "region": "Kara Region",
+    "lat": 9.5511,
+    "lon": 1.1861,
+    "population": 36554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aného",
+    "region": "Maritime",
+    "lat": 6.228,
+    "lon": 1.5919,
+    "population": 32780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vogan",
+    "region": "Maritime",
+    "lat": 6.3333,
+    "lon": 1.5333,
+    "population": 26829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notsé",
+    "region": "Plateaux Region",
+    "lat": 6.95,
+    "lon": 1.1667,
+    "population": 26486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badou",
+    "region": "Plateaux Region",
+    "lat": 7.5833,
+    "lon": 0.6,
+    "population": 25466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsévié",
+    "region": "Maritime",
+    "lat": 6.4261,
+    "lon": 1.2133,
+    "population": 24951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tchamba",
+    "region": "Centrale Region",
+    "lat": 9.0333,
+    "lon": 1.4167,
+    "population": 21293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sansanné-Mango",
+    "region": "Savanes Region",
+    "lat": 10.3592,
+    "lon": 0.4708,
+    "population": 21044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dapaong",
+    "region": "Savanes Region",
+    "lat": 10.8622,
+    "lon": 0.2076,
+    "population": 20670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lomé",
+    "region": "Maritime",
+    "lat": 6.1287,
+    "lon": 1.2215,
+    "population": 20518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sotouboua",
+    "region": "Centrale Region",
+    "lat": 8.5634,
+    "lon": 0.984,
+    "population": 15536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atakpamé",
+    "region": "Plateaux Region",
+    "lat": 7.5333,
+    "lon": 1.1333,
+    "population": 14921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokodé",
+    "region": "Centrale Region",
+    "lat": 8.9833,
+    "lon": 1.1333,
+    "population": 14681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandé",
+    "region": "Kara Region",
+    "lat": 9.9578,
+    "lon": 1.0447,
+    "population": 14435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bafilo",
+    "region": "Kara Region",
+    "lat": 9.35,
+    "lon": 1.2667,
+    "population": 13007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bassar",
+    "region": "Kara Region",
+    "lat": 9.2502,
+    "lon": 0.7821,
+    "population": 11095,
+    "timezone": "UTC"
+  }
+]

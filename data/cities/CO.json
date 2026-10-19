@@ -1,0 +1,8986 @@
+[
+  {
+    "name": "Nariño",
+    "region": "Cundinamarca",
+    "lat": 4.3991,
+    "lon": -74.8224,
+    "population": 49993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amagá",
+    "region": "Antioquia",
+    "lat": 6.04,
+    "lon": -75.7031,
+    "population": 49940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malambo",
+    "region": "Atlántico",
+    "lat": 10.8595,
+    "lon": -74.7739,
+    "population": 49869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Banco",
+    "region": "Magdalena",
+    "lat": 9.0011,
+    "lon": -73.9758,
+    "population": 49811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinavita",
+    "region": "Boyacá",
+    "lat": 5.1791,
+    "lon": -73.3715,
+    "population": 49805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Alberto",
+    "region": "Cesar",
+    "lat": 7.7611,
+    "lon": -73.3922,
+    "population": 49795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acevedo",
+    "region": "Huila",
+    "lat": 1.8361,
+    "lon": -75.855,
+    "population": 49680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cogua",
+    "region": "Cundinamarca",
+    "lat": 5.0605,
+    "lon": -73.9792,
+    "population": 49664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Providencia",
+    "region": "Nariño",
+    "lat": 1.2389,
+    "lon": -77.5976,
+    "population": 49576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pulí",
+    "region": "Cundinamarca",
+    "lat": 4.6812,
+    "lon": -74.7141,
+    "population": 49554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarqui",
+    "region": "Huila",
+    "lat": 2.1106,
+    "lon": -75.8231,
+    "population": 49528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayapel",
+    "region": "Córdoba",
+    "lat": 8.3137,
+    "lon": -75.1398,
+    "population": 49520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matanza",
+    "region": "Santander",
+    "lat": 7.356,
+    "lon": -73.053,
+    "population": 49505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maripí",
+    "region": "Boyacá",
+    "lat": 5.5519,
+    "lon": -74.0086,
+    "population": 49497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cartagena del Chairá",
+    "region": "Caquetá",
+    "lat": 1.3349,
+    "lon": -74.8429,
+    "population": 49462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrancabermeja",
+    "region": "Santander",
+    "lat": 7.0653,
+    "lon": -73.8547,
+    "population": 49432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedras",
+    "region": "Tolima",
+    "lat": 4.5,
+    "lon": -74.9167,
+    "population": 49410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua de Dios",
+    "region": "Cundinamarca",
+    "lat": 4.3765,
+    "lon": -74.67,
+    "population": 49374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cepitá",
+    "region": "Santander",
+    "lat": 6.7543,
+    "lon": -72.9744,
+    "population": 49373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín de Loba",
+    "region": "Bolívar",
+    "lat": 8.8821,
+    "lon": -74.0035,
+    "population": 49259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zona Bananera",
+    "region": "Magdalena",
+    "lat": 10.7642,
+    "lon": -74.1572,
+    "population": 49220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmar",
+    "region": "Santander",
+    "lat": 6.4974,
+    "lon": -73.3074,
+    "population": 49180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curumaní",
+    "region": "Cesar",
+    "lat": 9.1999,
+    "lon": -73.5427,
+    "population": 49149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acandí",
+    "region": "Chocó",
+    "lat": 8.5116,
+    "lon": -77.2772,
+    "population": 49139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andalucía",
+    "region": "Valle del Cauca",
+    "lat": 4.1403,
+    "lon": -76.1474,
+    "population": 49098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenavista",
+    "region": "Córdoba",
+    "lat": 9.0496,
+    "lon": -76.0028,
+    "population": 49002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle de San José",
+    "region": "Santander",
+    "lat": 6.4198,
+    "lon": -73.1295,
+    "population": 48951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Victoria",
+    "region": "Valle del Cauca",
+    "lat": 4.5248,
+    "lon": -76.0392,
+    "population": 48871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mapiripana",
+    "region": "Guainía",
+    "lat": 2.81,
+    "lon": -70.2857,
+    "population": 48846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mesa",
+    "region": "Cundinamarca",
+    "lat": 4.6537,
+    "lon": -74.4732,
+    "population": 48830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padilla",
+    "region": "Cauca",
+    "lat": 3.2204,
+    "lon": -76.3139,
+    "population": 48829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Espino",
+    "region": "Boyacá",
+    "lat": 6.5081,
+    "lon": -72.4804,
+    "population": 48810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caloto",
+    "region": "Cauca",
+    "lat": 3.0359,
+    "lon": -76.4079,
+    "population": 48751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Planadas",
+    "region": "Tolima",
+    "lat": 3.1033,
+    "lon": -75.8168,
+    "population": 48746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iza",
+    "region": "Boyacá",
+    "lat": 5.612,
+    "lon": -72.9793,
+    "population": 48697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castilla la Nueva",
+    "region": "Meta",
+    "lat": 3.8272,
+    "lon": -73.6883,
+    "population": 48683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leticia",
+    "region": "Amazonas",
+    "lat": -4.2153,
+    "lon": -69.9406,
+    "population": 48609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Betulia",
+    "region": "Antioquia",
+    "lat": 6.1128,
+    "lon": -75.9838,
+    "population": 48593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sasaima",
+    "region": "Cundinamarca",
+    "lat": 4.9671,
+    "lon": -74.4351,
+    "population": 48531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Momil",
+    "region": "Córdoba",
+    "lat": 9.2377,
+    "lon": -75.6749,
+    "population": 48502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sogamoso",
+    "region": "Boyacá",
+    "lat": 5.7143,
+    "lon": -72.9339,
+    "population": 48440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guapi",
+    "region": "Cauca",
+    "lat": 2.5521,
+    "lon": -77.8786,
+    "population": 48400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibacuy",
+    "region": "Cundinamarca",
+    "lat": 4.3061,
+    "lon": -74.5164,
+    "population": 48396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melgar",
+    "region": "Tolima",
+    "lat": 4.2047,
+    "lon": -74.6407,
+    "population": 48374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marulanda",
+    "region": "Caldas",
+    "lat": 5.2839,
+    "lon": -75.2602,
+    "population": 48366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Granada",
+    "region": "Magdalena",
+    "lat": 9.8017,
+    "lon": -74.393,
+    "population": 48362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosas",
+    "region": "Cauca",
+    "lat": 2.2609,
+    "lon": -76.7399,
+    "population": 48322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Segovia",
+    "region": "Antioquia",
+    "lat": 7.2813,
+    "lon": -74.6427,
+    "population": 48319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anza",
+    "region": "Antioquia",
+    "lat": 6.3333,
+    "lon": -75.9167,
+    "population": 48284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cereté",
+    "region": "Córdoba",
+    "lat": 8.8848,
+    "lon": -75.7905,
+    "population": 48250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Huila",
+    "lat": 2.9378,
+    "lon": -75.5869,
+    "population": 48245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabrera",
+    "region": "Cundinamarca",
+    "lat": 3.986,
+    "lon": -74.4828,
+    "population": 48241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belmira",
+    "region": "Antioquia",
+    "lat": 6.6051,
+    "lon": -75.6662,
+    "population": 48237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercaderes",
+    "region": "Cauca",
+    "lat": 1.8017,
+    "lon": -77.1703,
+    "population": 48222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Tolima",
+    "lat": 4.1667,
+    "lon": -75.0833,
+    "population": 48217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamalameque",
+    "region": "Cesar",
+    "lat": 8.8642,
+    "lon": -73.7811,
+    "population": 48194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granada",
+    "region": "Meta",
+    "lat": 3.5463,
+    "lon": -73.7069,
+    "population": 48149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páez",
+    "region": "Boyacá",
+    "lat": 5.1011,
+    "lon": -73.0512,
+    "population": 48113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaragoza",
+    "region": "Antioquia",
+    "lat": 7.4897,
+    "lon": -74.8692,
+    "population": 48089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cartago",
+    "region": "Valle del Cauca",
+    "lat": 4.7464,
+    "lon": -75.9117,
+    "population": 47961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sopetrán",
+    "region": "Antioquia",
+    "lat": 6.5227,
+    "lon": -75.7461,
+    "population": 47945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yarumal",
+    "region": "Antioquia",
+    "lat": 6.9853,
+    "lon": -75.454,
+    "population": 47923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concordia",
+    "region": "Antioquia",
+    "lat": 6.0464,
+    "lon": -75.907,
+    "population": 47775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolívar",
+    "region": "Valle del Cauca",
+    "lat": 4.3771,
+    "lon": -76.3487,
+    "population": 47772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Retén",
+    "region": "Magdalena",
+    "lat": 10.6113,
+    "lon": -74.2682,
+    "population": 47766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "California",
+    "region": "Santander",
+    "lat": 7.3434,
+    "lon": -72.9582,
+    "population": 47746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chipatá",
+    "region": "Santander",
+    "lat": 6.062,
+    "lon": -73.6372,
+    "population": 47699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salento",
+    "region": "Quindío",
+    "lat": 4.6364,
+    "lon": -75.5674,
+    "population": 47684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sevilla",
+    "region": "Valle del Cauca",
+    "lat": 4.1935,
+    "lon": -75.8883,
+    "population": 47680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugalagrande",
+    "region": "Valle del Cauca",
+    "lat": 4.2121,
+    "lon": -76.1556,
+    "population": 47668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebradanegra",
+    "region": "Cundinamarca",
+    "lat": 5.0826,
+    "lon": -74.5212,
+    "population": 47576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesetas",
+    "region": "Meta",
+    "lat": 3.3846,
+    "lon": -74.0442,
+    "population": 47510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ricaurte",
+    "region": "Nariño",
+    "lat": 1.2147,
+    "lon": -77.998,
+    "population": 47430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cimitarra",
+    "region": "Santander",
+    "lat": 6.3142,
+    "lon": -73.9497,
+    "population": 47420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norcasia",
+    "region": "Caldas",
+    "lat": 5.5754,
+    "lon": -74.8883,
+    "population": 47362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Arama",
+    "region": "Meta",
+    "lat": 3.2903,
+    "lon": -73.8207,
+    "population": 47139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Asís",
+    "region": "Putumayo",
+    "lat": 0.5051,
+    "lon": -76.4957,
+    "population": 47127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo de Borbur",
+    "region": "Boyacá",
+    "lat": 5.6664,
+    "lon": -74.1372,
+    "population": 47062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivor",
+    "region": "Boyacá",
+    "lat": 4.8856,
+    "lon": -73.3689,
+    "population": 47049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblorrico",
+    "region": "Antioquia",
+    "lat": 5.8,
+    "lon": -75.85,
+    "population": 47002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tubará",
+    "region": "Atlántico",
+    "lat": 10.8756,
+    "lon": -74.9787,
+    "population": 46988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oicatá",
+    "region": "Boyacá",
+    "lat": 5.5955,
+    "lon": -73.3082,
+    "population": 46958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Plata",
+    "region": "Huila",
+    "lat": 2.39,
+    "lon": -75.8919,
+    "population": 46939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Restrepo",
+    "region": "Valle del Cauca",
+    "lat": 3.822,
+    "lon": -76.5224,
+    "population": 46938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Encanto",
+    "region": "Amazonas",
+    "lat": -1.5626,
+    "lon": -73.2568,
+    "population": 46866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albán",
+    "region": "Cundinamarca",
+    "lat": 4.8943,
+    "lon": -74.4439,
+    "population": 46807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Versalles",
+    "region": "Valle del Cauca",
+    "lat": 4.6634,
+    "lon": -76.2465,
+    "population": 46765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Málaga",
+    "region": "Santander",
+    "lat": 6.699,
+    "lon": -72.7323,
+    "population": 46724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocamonte",
+    "region": "Santander",
+    "lat": 6.34,
+    "lon": -73.1221,
+    "population": 46607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filadelfia",
+    "region": "Caldas",
+    "lat": 5.2961,
+    "lon": -75.5612,
+    "population": 46593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ancuya",
+    "region": "Nariño",
+    "lat": 1.2633,
+    "lon": -77.5138,
+    "population": 46569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiquisio",
+    "region": "Bolívar",
+    "lat": 8.5567,
+    "lon": -74.2635,
+    "population": 46555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nilo",
+    "region": "Cundinamarca",
+    "lat": 4.306,
+    "lon": -74.6208,
+    "population": 46382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oporapa",
+    "region": "Huila",
+    "lat": 2.0231,
+    "lon": -75.9953,
+    "population": 46221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ataco",
+    "region": "Tolima",
+    "lat": 3.5915,
+    "lon": -75.3818,
+    "population": 46186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarzal",
+    "region": "Valle del Cauca",
+    "lat": 4.3946,
+    "lon": -76.0715,
+    "population": 46174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caparrapí",
+    "region": "Cundinamarca",
+    "lat": 5.3464,
+    "lon": -74.4915,
+    "population": 46149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labateca",
+    "region": "Norte de Santander",
+    "lat": 7.2456,
+    "lon": -72.5529,
+    "population": 46041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Antioquia",
+    "lat": 5.8894,
+    "lon": -75.5825,
+    "population": 45997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villagarzón",
+    "region": "Putumayo",
+    "lat": 0.8966,
+    "lon": -76.7279,
+    "population": 45975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bernardo",
+    "region": "Cundinamarca",
+    "lat": 4.1296,
+    "lon": -74.359,
+    "population": 45937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Túquerres",
+    "region": "Nariño",
+    "lat": 1.0865,
+    "lon": -77.6186,
+    "population": 45918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaitarilla",
+    "region": "Nariño",
+    "lat": 1.131,
+    "lon": -77.5482,
+    "population": 45902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Esperanza",
+    "region": "Norte de Santander",
+    "lat": 8.2104,
+    "lon": -72.464,
+    "population": 45858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guachucal",
+    "region": "Nariño",
+    "lat": 0.9609,
+    "lon": -77.7316,
+    "population": 45783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neiva",
+    "region": "Huila",
+    "lat": 2.9275,
+    "lon": -75.2875,
+    "population": 45664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campamento",
+    "region": "Antioquia",
+    "lat": 7.0391,
+    "lon": -75.2894,
+    "population": 45645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campoalegre",
+    "region": "Huila",
+    "lat": 2.6867,
+    "lon": -75.3256,
+    "population": 45587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Palma",
+    "region": "Cundinamarca",
+    "lat": 5.3173,
+    "lon": -74.43,
+    "population": 45582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caldas",
+    "region": "Boyacá",
+    "lat": 5.5783,
+    "lon": -73.8807,
+    "population": 45574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carolina",
+    "region": "Antioquia",
+    "lat": 6.7481,
+    "lon": -75.3213,
+    "population": 45557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatapé",
+    "region": "Antioquia",
+    "lat": 6.2555,
+    "lon": -75.1643,
+    "population": 45513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuaspud",
+    "region": "Nariño",
+    "lat": 0.8757,
+    "lon": -77.7364,
+    "population": 45490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guática",
+    "region": "Risaralda",
+    "lat": 5.3157,
+    "lon": -75.7983,
+    "population": 45488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belalcázar",
+    "region": "Caldas",
+    "lat": 4.9953,
+    "lon": -75.8128,
+    "population": 45474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apulo",
+    "region": "Cundinamarca",
+    "lat": 4.5195,
+    "lon": -74.5929,
+    "population": 45429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inzá",
+    "region": "Cauca",
+    "lat": 2.5545,
+    "lon": -76.0672,
+    "population": 45429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manaure",
+    "region": "La Guajira",
+    "lat": 11.7751,
+    "lon": -72.4445,
+    "population": 45397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Nariño",
+    "region": "Amazonas",
+    "lat": -3.7889,
+    "lon": -70.3558,
+    "population": 45349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guasca",
+    "region": "Cundinamarca",
+    "lat": 4.866,
+    "lon": -73.8775,
+    "population": 45333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Palmitos",
+    "region": "Sucre",
+    "lat": 9.379,
+    "lon": -75.2677,
+    "population": 45315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sotará",
+    "region": "Cauca",
+    "lat": 2.25,
+    "lon": -76.5833,
+    "population": 45285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibú",
+    "region": "Norte de Santander",
+    "lat": 8.6389,
+    "lon": -72.7358,
+    "population": 45267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astrea",
+    "region": "Cesar",
+    "lat": 9.4983,
+    "lon": -73.9759,
+    "population": 45198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumbitara",
+    "region": "Nariño",
+    "lat": 1.6479,
+    "lon": -77.5782,
+    "population": 45197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarapacá",
+    "region": "Amazonas",
+    "lat": -2.8854,
+    "lon": -69.7769,
+    "population": 45154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaguaní",
+    "region": "Cundinamarca",
+    "lat": 4.9483,
+    "lon": -74.5939,
+    "population": 45117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timana",
+    "region": "Huila",
+    "lat": 1.9714,
+    "lon": -75.9312,
+    "population": 45112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norosí",
+    "region": "Bolívar",
+    "lat": 8.5269,
+    "lon": -74.0374,
+    "population": 45094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Sierra",
+    "region": "Cauca",
+    "lat": 2.1966,
+    "lon": -76.7859,
+    "population": 45058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albania",
+    "region": "Caquetá",
+    "lat": 1.2632,
+    "lon": -75.9537,
+    "population": 45034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pamplona",
+    "region": "Norte de Santander",
+    "lat": 7.3757,
+    "lon": -72.6479,
+    "population": 44963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bochalema",
+    "region": "Norte de Santander",
+    "lat": 7.6022,
+    "lon": -72.6884,
+    "population": 44960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linares",
+    "region": "Nariño",
+    "lat": 1.3508,
+    "lon": -77.5234,
+    "population": 44960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baraya",
+    "region": "Huila",
+    "lat": 3.1531,
+    "lon": -75.0525,
+    "population": 44912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riosucio",
+    "region": "Caldas",
+    "lat": 5.4216,
+    "lon": -75.7032,
+    "population": 44911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caimito",
+    "region": "Sucre",
+    "lat": 8.7883,
+    "lon": -75.1358,
+    "population": 44889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caucasia",
+    "region": "Antioquia",
+    "lat": 7.9865,
+    "lon": -75.1935,
+    "population": 44879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río de Oro",
+    "region": "Cesar",
+    "lat": 8.1788,
+    "lon": -73.5122,
+    "population": 44758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pupiales",
+    "region": "Nariño",
+    "lat": 0.8714,
+    "lon": -77.6403,
+    "population": 44707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín",
+    "region": "Cesar",
+    "lat": 8.0015,
+    "lon": -73.5113,
+    "population": 44703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caldas",
+    "region": "Antioquia",
+    "lat": 6.0911,
+    "lon": -75.6357,
+    "population": 44636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Recetor",
+    "region": "Casanare",
+    "lat": 5.2295,
+    "lon": -72.761,
+    "population": 44608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenza",
+    "region": "Boyacá",
+    "lat": 5.0766,
+    "lon": -73.4208,
+    "population": 44584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quípama",
+    "region": "Boyacá",
+    "lat": 5.5194,
+    "lon": -74.1776,
+    "population": 44548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valparaíso",
+    "region": "Antioquia",
+    "lat": 5.615,
+    "lon": -75.6242,
+    "population": 44532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Belleza",
+    "region": "Santander",
+    "lat": 5.8637,
+    "lon": -73.9617,
+    "population": 44498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Algeciras",
+    "region": "Huila",
+    "lat": 2.5219,
+    "lon": -75.3144,
+    "population": 44488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zapatoca",
+    "region": "Santander",
+    "lat": 6.8153,
+    "lon": -73.2677,
+    "population": 44423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de Tolú",
+    "region": "Sucre",
+    "lat": 9.5239,
+    "lon": -75.5814,
+    "population": 44418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ricaurte",
+    "region": "Cundinamarca",
+    "lat": 4.2808,
+    "lon": -74.7647,
+    "population": 44409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yalí",
+    "region": "Antioquia",
+    "lat": 6.7026,
+    "lon": -74.7902,
+    "population": 44347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Águila",
+    "region": "Valle del Cauca",
+    "lat": 4.9195,
+    "lon": -76.0568,
+    "population": 44290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cúcuta",
+    "region": "Norte de Santander",
+    "lat": 7.8939,
+    "lon": -72.5078,
+    "population": 44270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Dorado",
+    "region": "Meta",
+    "lat": 3.7392,
+    "lon": -73.8353,
+    "population": 44263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Girardota",
+    "region": "Antioquia",
+    "lat": 6.3679,
+    "lon": -75.4623,
+    "population": 44222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Nariño",
+    "lat": 2.3018,
+    "lon": -77.9149,
+    "population": 44210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de la Montaña",
+    "region": "Antioquia",
+    "lat": 6.822,
+    "lon": -75.6976,
+    "population": 44208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Chorrera",
+    "region": "Amazonas",
+    "lat": -1.4889,
+    "lon": -72.7293,
+    "population": 44202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florida",
+    "region": "Valle del Cauca",
+    "lat": 3.3094,
+    "lon": -76.1899,
+    "population": 44132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anapoima",
+    "region": "Cundinamarca",
+    "lat": 4.551,
+    "lon": -74.5352,
+    "population": 44114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suárez",
+    "region": "Cauca",
+    "lat": 2.9539,
+    "lon": -76.6964,
+    "population": 43973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manaure Balcón del Cesar",
+    "region": "Cesar",
+    "lat": 10.3928,
+    "lon": -73.0325,
+    "population": 43932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toledo",
+    "region": "Antioquia",
+    "lat": 7.0131,
+    "lon": -75.6953,
+    "population": 43915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Briceño",
+    "region": "Antioquia",
+    "lat": 7.05,
+    "lon": -75.509,
+    "population": 43859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cantagallo",
+    "region": "Bolívar",
+    "lat": 7.3793,
+    "lon": -73.9155,
+    "population": 43859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uramita",
+    "region": "Antioquia",
+    "lat": 6.8994,
+    "lon": -76.1742,
+    "population": 43804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesús María",
+    "region": "Santander",
+    "lat": 5.8772,
+    "lon": -73.781,
+    "population": 43788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murindó",
+    "region": "Antioquia",
+    "lat": 6.847,
+    "lon": -76.7154,
+    "population": 43779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tesalia",
+    "region": "Huila",
+    "lat": 2.4847,
+    "lon": -75.73,
+    "population": 43743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel de Sema",
+    "region": "Boyacá",
+    "lat": 5.5185,
+    "lon": -73.7224,
+    "population": 43730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Venecia",
+    "region": "Cundinamarca",
+    "lat": 4.0881,
+    "lon": -74.4775,
+    "population": 43607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente de Chucurí",
+    "region": "Santander",
+    "lat": 6.881,
+    "lon": -73.4098,
+    "population": 43602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anserma",
+    "region": "Caldas",
+    "lat": 5.2043,
+    "lon": -75.7917,
+    "population": 43579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sora",
+    "region": "Boyacá",
+    "lat": 5.5651,
+    "lon": -73.4502,
+    "population": 43552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Antioquia",
+    "lat": 6.3941,
+    "lon": -75.2583,
+    "population": 43477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palestina",
+    "region": "Caldas",
+    "lat": 5.0457,
+    "lon": -75.6955,
+    "population": 43435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gachala",
+    "region": "Cundinamarca",
+    "lat": 4.6667,
+    "lon": -73.5,
+    "population": 43378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Santander",
+    "lat": 6.7662,
+    "lon": -72.694,
+    "population": 43335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valencia",
+    "region": "Córdoba",
+    "lat": 8.2335,
+    "lon": -76.2143,
+    "population": 43306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saldaña",
+    "region": "Tolima",
+    "lat": 3.9292,
+    "lon": -75.0152,
+    "population": 43296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuchín",
+    "region": "Córdoba",
+    "lat": 9.1858,
+    "lon": -75.5553,
+    "population": 43215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chía",
+    "region": "Cundinamarca",
+    "lat": 4.8445,
+    "lon": -74.0585,
+    "population": 43198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gigante",
+    "region": "Huila",
+    "lat": 2.3867,
+    "lon": -75.5461,
+    "population": 43194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenguazaque",
+    "region": "Cundinamarca",
+    "lat": 5.3071,
+    "lon": -73.7115,
+    "population": 43137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cácota",
+    "region": "Norte de Santander",
+    "lat": 7.2679,
+    "lon": -72.642,
+    "population": 43078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Agustín",
+    "region": "Huila",
+    "lat": 1.8792,
+    "lon": -76.2683,
+    "population": 43027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sativanorte",
+    "region": "Boyacá",
+    "lat": 6.1316,
+    "lon": -72.709,
+    "population": 43025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle de San Juan",
+    "region": "Tolima",
+    "lat": 4.1987,
+    "lon": -75.1173,
+    "population": 43007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santuario",
+    "region": "Risaralda",
+    "lat": 5.0532,
+    "lon": -75.9906,
+    "population": 42961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Playa",
+    "region": "Norte de Santander",
+    "lat": 8.2583,
+    "lon": -73.1922,
+    "population": 42945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Pare",
+    "region": "Boyacá",
+    "lat": 6.0175,
+    "lon": -73.547,
+    "population": 42938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajarito",
+    "region": "Boyacá",
+    "lat": 5.3475,
+    "lon": -72.7207,
+    "population": 42919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fonseca",
+    "region": "La Guajira",
+    "lat": 10.8297,
+    "lon": -72.7978,
+    "population": 42875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acacías",
+    "region": "Meta",
+    "lat": 3.987,
+    "lon": -73.758,
+    "population": 42793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guacamayas",
+    "region": "Boyacá",
+    "lat": 6.446,
+    "lon": -72.5168,
+    "population": 42793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Benito Abad",
+    "region": "Sucre",
+    "lat": 8.7883,
+    "lon": -74.9567,
+    "population": 42769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bojayá",
+    "region": "Chocó",
+    "lat": 6.5564,
+    "lon": -76.8839,
+    "population": 42755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabuyaro",
+    "region": "Meta",
+    "lat": 4.2817,
+    "lon": -72.794,
+    "population": 42723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tocancipá",
+    "region": "Cundinamarca",
+    "lat": 4.9653,
+    "lon": -73.913,
+    "population": 42723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Castillo",
+    "region": "Meta",
+    "lat": 3.5636,
+    "lon": -73.7949,
+    "population": 42718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labranzagrande",
+    "region": "Boyacá",
+    "lat": 5.5622,
+    "lon": -72.575,
+    "population": 42577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Putumayo",
+    "lat": 0.3436,
+    "lon": -76.9108,
+    "population": 42563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Estrella",
+    "region": "Antioquia",
+    "lat": 6.1424,
+    "lon": -75.6526,
+    "population": 42490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neira",
+    "region": "Caldas",
+    "lat": 5.1753,
+    "lon": -75.5241,
+    "population": 42401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isnos",
+    "region": "Huila",
+    "lat": 1.9289,
+    "lon": -76.2158,
+    "population": 42395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suesca",
+    "region": "Cundinamarca",
+    "lat": 5.1029,
+    "lon": -73.7985,
+    "population": 42384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tasco",
+    "region": "Boyacá",
+    "lat": 5.9104,
+    "lon": -72.78,
+    "population": 42356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montecristo",
+    "region": "Bolívar",
+    "lat": 8.2971,
+    "lon": -74.4733,
+    "population": 42344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mocoa",
+    "region": "Putumayo",
+    "lat": 1.1528,
+    "lon": -76.6521,
+    "population": 42292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suan",
+    "region": "Atlántico",
+    "lat": 10.3021,
+    "lon": -74.9193,
+    "population": 42183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Betania",
+    "region": "Antioquia",
+    "lat": 5.7357,
+    "lon": -75.9896,
+    "population": 42140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gómez Plata",
+    "region": "Antioquia",
+    "lat": 6.6818,
+    "lon": -75.2191,
+    "population": 42090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caqueza",
+    "region": "Cundinamarca",
+    "lat": 4.3871,
+    "lon": -73.9572,
+    "population": 42018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gama",
+    "region": "Cundinamarca",
+    "lat": 4.7629,
+    "lon": -73.6109,
+    "population": 41988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosquera",
+    "region": "Nariño",
+    "lat": 2.4914,
+    "lon": -78.4431,
+    "population": 41946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ponedera",
+    "region": "Atlántico",
+    "lat": 10.643,
+    "lon": -74.7539,
+    "population": 41936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villavieja",
+    "region": "Huila",
+    "lat": 3.2189,
+    "lon": -75.2183,
+    "population": 41898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murillo",
+    "region": "Tolima",
+    "lat": 4.8739,
+    "lon": -75.1715,
+    "population": 41877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topaipí",
+    "region": "Cundinamarca",
+    "lat": 5.3346,
+    "lon": -74.3029,
+    "population": 41794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ipiales",
+    "region": "Nariño",
+    "lat": 0.825,
+    "lon": -77.6397,
+    "population": 41793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simijaca",
+    "region": "Cundinamarca",
+    "lat": 5.5042,
+    "lon": -73.8694,
+    "population": 41792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolívar",
+    "region": "Cauca",
+    "lat": 1.8467,
+    "lon": -76.9829,
+    "population": 41788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rosario",
+    "region": "Nariño",
+    "lat": 1.8459,
+    "lon": -77.4062,
+    "population": 41745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miraflores",
+    "region": "Boyacá",
+    "lat": 5.1222,
+    "lon": -73.2121,
+    "population": 41724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hato",
+    "region": "Santander",
+    "lat": 6.5611,
+    "lon": -73.3589,
+    "population": 41703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medio Baudó",
+    "region": "Chocó",
+    "lat": 5.05,
+    "lon": -77.05,
+    "population": 41697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toro",
+    "region": "Valle del Cauca",
+    "lat": 4.6117,
+    "lon": -76.0814,
+    "population": 41644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sapuyes",
+    "region": "Nariño",
+    "lat": 1.0373,
+    "lon": -77.6209,
+    "population": 41635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmas del Socorro",
+    "region": "Santander",
+    "lat": 6.4076,
+    "lon": -73.2882,
+    "population": 41568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guamal",
+    "region": "Meta",
+    "lat": 3.8804,
+    "lon": -73.7657,
+    "population": 41557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanalarga",
+    "region": "Casanare",
+    "lat": 4.8543,
+    "lon": -73.04,
+    "population": 41554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Venadillo",
+    "region": "Tolima",
+    "lat": 4.6918,
+    "lon": -74.9367,
+    "population": 41550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montelíbano",
+    "region": "Córdoba",
+    "lat": 7.9792,
+    "lon": -75.4202,
+    "population": 41390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pijao",
+    "region": "Quindío",
+    "lat": 4.3335,
+    "lon": -75.7046,
+    "population": 41364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Rondón",
+    "region": "Arauca",
+    "lat": 6.2805,
+    "lon": -71.1,
+    "population": 41337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamundí",
+    "region": "Valle del Cauca",
+    "lat": 3.2607,
+    "lon": -76.535,
+    "population": 41293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Fe de Antioquia",
+    "region": "Antioquia",
+    "lat": 6.5569,
+    "lon": -75.8281,
+    "population": 41292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anzoátegui",
+    "region": "Tolima",
+    "lat": 4.6223,
+    "lon": -75.1805,
+    "population": 41276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "María la Baja",
+    "region": "Bolívar",
+    "lat": 9.9923,
+    "lon": -75.3436,
+    "population": 41261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fundación",
+    "region": "Magdalena",
+    "lat": 10.5207,
+    "lon": -74.185,
+    "population": 41210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granada",
+    "region": "Cundinamarca",
+    "lat": 5.0667,
+    "lon": -74.5667,
+    "population": 41150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paz de Río",
+    "region": "Boyacá",
+    "lat": 6.0022,
+    "lon": -72.7886,
+    "population": 41080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guadalupe",
+    "region": "Huila",
+    "lat": 2.025,
+    "lon": -75.7564,
+    "population": 40985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Pedrera",
+    "region": "Amazonas",
+    "lat": -1.656,
+    "lon": -70.2219,
+    "population": 40942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arbeláez",
+    "region": "Cundinamarca",
+    "lat": 4.2125,
+    "lon": -74.4146,
+    "population": 40898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yotoco",
+    "region": "Valle del Cauca",
+    "lat": 3.8605,
+    "lon": -76.3836,
+    "population": 40884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palermo",
+    "region": "Huila",
+    "lat": 2.8883,
+    "lon": -75.4339,
+    "population": 40871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enciso",
+    "region": "Santander",
+    "lat": 6.6465,
+    "lon": -72.7071,
+    "population": 40783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ovejas",
+    "region": "Sucre",
+    "lat": 9.5408,
+    "lon": -75.1833,
+    "population": 40756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Apartada",
+    "region": "Córdoba",
+    "lat": 8.0479,
+    "lon": -75.301,
+    "population": 40688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carepa",
+    "region": "Antioquia",
+    "lat": 7.7585,
+    "lon": -76.6526,
+    "population": 40677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candelaria",
+    "region": "Valle del Cauca",
+    "lat": 3.3837,
+    "lon": -76.4247,
+    "population": 40630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Antioquia",
+    "lat": 5.9464,
+    "lon": -75.3592,
+    "population": 40580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yondó",
+    "region": "Antioquia",
+    "lat": 6.9074,
+    "lon": -74.1769,
+    "population": 40527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagadó",
+    "region": "Chocó",
+    "lat": 5.4116,
+    "lon": -76.4152,
+    "population": 40454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balboa",
+    "region": "Cauca",
+    "lat": 2.0844,
+    "lon": -77.2078,
+    "population": 40447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guateque",
+    "region": "Boyacá",
+    "lat": 5.0062,
+    "lon": -73.4727,
+    "population": 40412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roldanillo",
+    "region": "Valle del Cauca",
+    "lat": 4.4126,
+    "lon": -76.1546,
+    "population": 40405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urumita",
+    "region": "La Guajira",
+    "lat": 10.5589,
+    "lon": -73.0123,
+    "population": 40344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baranoa",
+    "region": "Atlántico",
+    "lat": 10.795,
+    "lon": -74.9207,
+    "population": 40341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lorica",
+    "region": "Córdoba",
+    "lat": 9.2365,
+    "lon": -75.8135,
+    "population": 40261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenavista",
+    "region": "Sucre",
+    "lat": 9.3197,
+    "lon": -74.9717,
+    "population": 40249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Cabal",
+    "region": "Risaralda",
+    "lat": 4.8681,
+    "lon": -75.6214,
+    "population": 40242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soacha",
+    "region": "Cundinamarca",
+    "lat": 4.5794,
+    "lon": -74.2168,
+    "population": 40241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santana",
+    "region": "Boyacá",
+    "lat": 6.0446,
+    "lon": -73.5111,
+    "population": 40235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nocaima",
+    "region": "Cundinamarca",
+    "lat": 5.067,
+    "lon": -74.3844,
+    "population": 40212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hato Corozal",
+    "region": "Casanare",
+    "lat": 6.1547,
+    "lon": -71.7653,
+    "population": 40203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simacota",
+    "region": "Santander",
+    "lat": 6.4429,
+    "lon": -73.3369,
+    "population": 40163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lourdes",
+    "region": "Norte de Santander",
+    "lat": 7.9677,
+    "lon": -72.8452,
+    "population": 40158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahates",
+    "region": "Bolívar",
+    "lat": 10.2329,
+    "lon": -75.1899,
+    "population": 40113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "Sucre",
+    "lat": 9.3956,
+    "lon": -75.0648,
+    "population": 40096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Agrado",
+    "region": "Huila",
+    "lat": 2.2583,
+    "lon": -75.7725,
+    "population": 40086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mapiripán",
+    "region": "Meta",
+    "lat": 2.8912,
+    "lon": -72.1333,
+    "population": 40021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibasosa",
+    "region": "Boyacá",
+    "lat": 5.7472,
+    "lon": -73.0109,
+    "population": 40008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rosal",
+    "region": "Cundinamarca",
+    "lat": 4.8531,
+    "lon": -74.26,
+    "population": 39986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soracá",
+    "region": "Boyacá",
+    "lat": 5.5005,
+    "lon": -73.333,
+    "population": 39900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albania",
+    "region": "La Guajira",
+    "lat": 11.161,
+    "lon": -72.5924,
+    "population": 39874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Honda",
+    "region": "Tolima",
+    "lat": 5.2086,
+    "lon": -74.7358,
+    "population": 39866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Atlántico",
+    "lat": 10.3242,
+    "lon": -74.9602,
+    "population": 39854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miranda",
+    "region": "Cauca",
+    "lat": 3.2377,
+    "lon": -76.2209,
+    "population": 39847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Susacón",
+    "region": "Boyacá",
+    "lat": 6.2298,
+    "lon": -72.6901,
+    "population": 39669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vélez",
+    "region": "Santander",
+    "lat": 6.2327,
+    "lon": -73.7258,
+    "population": 39649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macanal",
+    "region": "Boyacá",
+    "lat": 4.9505,
+    "lon": -73.3203,
+    "population": 39613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocaña",
+    "region": "Norte de Santander",
+    "lat": 8.2377,
+    "lon": -73.356,
+    "population": 39579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coyaima",
+    "region": "Tolima",
+    "lat": 3.7278,
+    "lon": -75.174,
+    "population": 39570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paratebueno",
+    "region": "Cundinamarca",
+    "lat": 4.3758,
+    "lon": -73.2155,
+    "population": 39537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aquitania",
+    "region": "Boyacá",
+    "lat": 5.4034,
+    "lon": -72.9019,
+    "population": 39519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andes",
+    "region": "Antioquia",
+    "lat": 5.6697,
+    "lon": -75.8991,
+    "population": 39516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamina",
+    "region": "Caldas",
+    "lat": 5.3701,
+    "lon": -75.4155,
+    "population": 39487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cotorra",
+    "region": "Córdoba",
+    "lat": 9.0389,
+    "lon": -75.7897,
+    "population": 39410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sitionuevo",
+    "region": "Magdalena",
+    "lat": 10.7774,
+    "lon": -74.7205,
+    "population": 39385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caicedo",
+    "region": "Antioquia",
+    "lat": 6.428,
+    "lon": -75.9972,
+    "population": 39342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paz de Ariporo",
+    "region": "Casanare",
+    "lat": 5.8811,
+    "lon": -71.8917,
+    "population": 39288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suárez",
+    "region": "Tolima",
+    "lat": 4.049,
+    "lon": -74.8182,
+    "population": 39242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itagui",
+    "region": "Antioquia",
+    "lat": 6.1787,
+    "lon": -75.6312,
+    "population": 39231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanagrande",
+    "region": "Atlántico",
+    "lat": 10.8008,
+    "lon": -74.7705,
+    "population": 39202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Guzmán",
+    "region": "Putumayo",
+    "lat": 0.9703,
+    "lon": -76.5858,
+    "population": 39141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cantón de San Pablo",
+    "region": "Chocó",
+    "lat": 5.3389,
+    "lon": -76.7314,
+    "population": 39126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan de Acosta",
+    "region": "Atlántico",
+    "lat": 10.8293,
+    "lon": -75.0335,
+    "population": 39092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Sofía",
+    "region": "Boyacá",
+    "lat": 5.7021,
+    "lon": -73.6298,
+    "population": 39048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fortul",
+    "region": "Arauca",
+    "lat": 6.7461,
+    "lon": -71.8567,
+    "population": 39040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén de Umbría",
+    "region": "Risaralda",
+    "lat": 5.2009,
+    "lon": -75.8687,
+    "population": 39030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Bello",
+    "region": "Cesar",
+    "lat": 10.4164,
+    "lon": -73.5867,
+    "population": 39008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañasgordas",
+    "region": "Antioquia",
+    "lat": 6.8095,
+    "lon": -76.0395,
+    "population": 39003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marmato",
+    "region": "Caldas",
+    "lat": 5.4755,
+    "lon": -75.5971,
+    "population": 38976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balboa",
+    "region": "Risaralda",
+    "lat": 4.9228,
+    "lon": -75.9403,
+    "population": 38941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guacamayo",
+    "region": "Santander",
+    "lat": 6.2486,
+    "lon": -73.5296,
+    "population": 38939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitaraque",
+    "region": "Boyacá",
+    "lat": 5.9617,
+    "lon": -73.4576,
+    "population": 38891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pelayo",
+    "region": "Córdoba",
+    "lat": 8.9583,
+    "lon": -75.8363,
+    "population": 38891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinácota",
+    "region": "Norte de Santander",
+    "lat": 7.6073,
+    "lon": -72.6011,
+    "population": 38881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cacahual",
+    "region": "Guainía",
+    "lat": 3.3253,
+    "lon": -67.624,
+    "population": 38843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santander de Quilichao",
+    "region": "Cauca",
+    "lat": 3.0095,
+    "lon": -76.4849,
+    "population": 38831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Girón",
+    "region": "Santander",
+    "lat": 7.0682,
+    "lon": -73.1698,
+    "population": 38771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Caro",
+    "region": "Norte de Santander",
+    "lat": 7.9147,
+    "lon": -72.9719,
+    "population": 38631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Triunfo",
+    "region": "Antioquia",
+    "lat": 5.8726,
+    "lon": -74.6405,
+    "population": 38621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabeiba",
+    "region": "Antioquia",
+    "lat": 7.0337,
+    "lon": -76.3416,
+    "population": 38578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carmen de Chucurí",
+    "region": "Santander",
+    "lat": 6.6974,
+    "lon": -73.5112,
+    "population": 38473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alpujarra",
+    "region": "Tolima",
+    "lat": 3.3922,
+    "lon": -74.9327,
+    "population": 38468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pereira",
+    "region": "Risaralda",
+    "lat": 4.769,
+    "lon": -75.7222,
+    "population": 38431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenaventura",
+    "region": "Valle del Cauca",
+    "lat": 3.8801,
+    "lon": -77.0312,
+    "population": 38377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Tola",
+    "region": "Nariño",
+    "lat": 2.3995,
+    "lon": -78.1892,
+    "population": 38340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heliconia",
+    "region": "Antioquia",
+    "lat": 6.2083,
+    "lon": -75.7357,
+    "population": 38318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hobo",
+    "region": "Huila",
+    "lat": 2.5825,
+    "lon": -75.4511,
+    "population": 38298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fomeque",
+    "region": "Cundinamarca",
+    "lat": 4.5281,
+    "lon": -73.7888,
+    "population": 38231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muzo",
+    "region": "Boyacá",
+    "lat": 5.5353,
+    "lon": -74.1078,
+    "population": 38221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián de Mariquita",
+    "region": "Tolima",
+    "lat": 5.2427,
+    "lon": -74.9077,
+    "population": 38214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viterbo",
+    "region": "Caldas",
+    "lat": 5.0624,
+    "lon": -75.8716,
+    "population": 38185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Jagua del Pilar",
+    "region": "La Guajira",
+    "lat": 10.5106,
+    "lon": -73.0718,
+    "population": 38153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campo de la Cruz",
+    "region": "Atlántico",
+    "lat": 10.3784,
+    "lon": -74.9026,
+    "population": 38144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambalema",
+    "region": "Tolima",
+    "lat": 4.784,
+    "lon": -74.7627,
+    "population": 38135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Restrepo",
+    "region": "Meta",
+    "lat": 4.2583,
+    "lon": -73.5614,
+    "population": 38106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Peñón",
+    "region": "Santander",
+    "lat": 6.099,
+    "lon": -73.9283,
+    "population": 38104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Dorada",
+    "region": "Caldas",
+    "lat": 5.5333,
+    "lon": -74.7,
+    "population": 38098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tona",
+    "region": "Santander",
+    "lat": 7.1573,
+    "lon": -72.9656,
+    "population": 38097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carmen del Darien",
+    "region": "Chocó",
+    "lat": 7.1578,
+    "lon": -76.9708,
+    "population": 38083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente del Caguán",
+    "region": "Caquetá",
+    "lat": 2.1153,
+    "lon": -74.7778,
+    "population": 38070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayabetal",
+    "region": "Cundinamarca",
+    "lat": 4.2147,
+    "lon": -73.8172,
+    "population": 38041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguada",
+    "region": "Santander",
+    "lat": 6.1602,
+    "lon": -73.5275,
+    "population": 38030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Diego",
+    "region": "Cesar",
+    "lat": 10.3362,
+    "lon": -73.182,
+    "population": 38023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zipacón",
+    "region": "Cundinamarca",
+    "lat": 4.7588,
+    "lon": -74.3802,
+    "population": 38009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Boyacá",
+    "region": "Boyacá",
+    "lat": 5.9721,
+    "lon": -74.4635,
+    "population": 37993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolores",
+    "region": "Tolima",
+    "lat": 3.6053,
+    "lon": -74.8059,
+    "population": 37906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Copey",
+    "region": "Cesar",
+    "lat": 10.1503,
+    "lon": -73.9614,
+    "population": 37904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nimaima",
+    "region": "Cundinamarca",
+    "lat": 5.1261,
+    "lon": -74.385,
+    "population": 37840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guataquí",
+    "region": "Cundinamarca",
+    "lat": 4.5157,
+    "lon": -74.7893,
+    "population": 37831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villapinzón",
+    "region": "Cundinamarca",
+    "lat": 5.2162,
+    "lon": -73.5949,
+    "population": 37797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cayetano",
+    "region": "Cundinamarca",
+    "lat": 5.3169,
+    "lon": -74.0714,
+    "population": 37791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calarca",
+    "region": "Quindío",
+    "lat": 4.5,
+    "lon": -75.6333,
+    "population": 37745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuítiva",
+    "region": "Boyacá",
+    "lat": 5.5801,
+    "lon": -72.9669,
+    "population": 37741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peque",
+    "region": "Antioquia",
+    "lat": 7.0212,
+    "lon": -75.9093,
+    "population": 37737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paicol",
+    "region": "Huila",
+    "lat": 2.4497,
+    "lon": -75.7739,
+    "population": 37711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cocorná",
+    "region": "Antioquia",
+    "lat": 6.0058,
+    "lon": -75.1698,
+    "population": 37689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Llanada",
+    "region": "Nariño",
+    "lat": 1.4731,
+    "lon": -77.5802,
+    "population": 37685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flandes",
+    "region": "Tolima",
+    "lat": 4.25,
+    "lon": -74.8333,
+    "population": 37681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Peñol",
+    "region": "Nariño",
+    "lat": 1.4537,
+    "lon": -77.4402,
+    "population": 37668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riohacha",
+    "region": "La Guajira",
+    "lat": 11.5444,
+    "lon": -72.9072,
+    "population": 37649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guacarí",
+    "region": "Valle del Cauca",
+    "lat": 3.7638,
+    "lon": -76.3329,
+    "population": 37518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "Valle del Cauca",
+    "lat": 3.9994,
+    "lon": -76.2612,
+    "population": 37514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa de San Diego de Ubate",
+    "region": "Cundinamarca",
+    "lat": 5.3154,
+    "lon": -73.8204,
+    "population": 37482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villagómez",
+    "region": "Cundinamarca",
+    "lat": 5.2737,
+    "lon": -74.1961,
+    "population": 37461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cisneros",
+    "region": "Antioquia",
+    "lat": 6.5451,
+    "lon": -75.0941,
+    "population": 37456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Calixto",
+    "region": "Norte de Santander",
+    "lat": 8.4021,
+    "lon": -73.2074,
+    "population": 37415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Consaca",
+    "region": "Nariño",
+    "lat": 1.2084,
+    "lon": -77.4632,
+    "population": 37382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boavita",
+    "region": "Boyacá",
+    "lat": 6.3303,
+    "lon": -72.585,
+    "population": 37353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Betulia",
+    "region": "Sucre",
+    "lat": 9.2735,
+    "lon": -75.241,
+    "population": 37338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oiba",
+    "region": "Santander",
+    "lat": 6.2639,
+    "lon": -73.2988,
+    "population": 37283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinchiná",
+    "region": "Caldas",
+    "lat": 4.9752,
+    "lon": -75.7042,
+    "population": 37245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tadó",
+    "region": "Chocó",
+    "lat": 5.266,
+    "lon": -76.5649,
+    "population": 37186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argelia",
+    "region": "Cauca",
+    "lat": 2.3173,
+    "lon": -77.257,
+    "population": 37151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitagá",
+    "region": "Norte de Santander",
+    "lat": 7.1378,
+    "lon": -72.6646,
+    "population": 37130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mongua",
+    "region": "Boyacá",
+    "lat": 5.7508,
+    "lon": -72.8034,
+    "population": 37127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Firavitoba",
+    "region": "Boyacá",
+    "lat": 5.6688,
+    "lon": -72.9929,
+    "population": 37105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Viterbo",
+    "region": "Boyacá",
+    "lat": 5.874,
+    "lon": -72.9822,
+    "population": 37100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Litoral del San Juan",
+    "region": "Chocó",
+    "lat": 4.2588,
+    "lon": -77.3652,
+    "population": 37081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uribe",
+    "region": "Meta",
+    "lat": 3.2408,
+    "lon": -74.3536,
+    "population": 37042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Lleras",
+    "region": "Meta",
+    "lat": 3.2179,
+    "lon": -73.2322,
+    "population": 37036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ventaquemada",
+    "region": "Boyacá",
+    "lat": 5.3599,
+    "lon": -73.5503,
+    "population": 36938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carmen",
+    "region": "Norte de Santander",
+    "lat": 8.5106,
+    "lon": -73.4478,
+    "population": 36937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cajicá",
+    "region": "Cundinamarca",
+    "lat": 4.9186,
+    "lon": -74.028,
+    "population": 36898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón",
+    "region": "Nariño",
+    "lat": 1.6285,
+    "lon": -77.0293,
+    "population": 36898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Alegría",
+    "region": "Amazonas",
+    "lat": -0.9689,
+    "lon": -73.7496,
+    "population": 36851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis de Gaceno",
+    "region": "Boyacá",
+    "lat": 4.8205,
+    "lon": -73.1685,
+    "population": 36847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duitama",
+    "region": "Boyacá",
+    "lat": 5.8245,
+    "lon": -73.0341,
+    "population": 36815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Totoró",
+    "region": "Cauca",
+    "lat": 2.5052,
+    "lon": -76.3925,
+    "population": 36807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olaya",
+    "region": "Antioquia",
+    "lat": 6.6277,
+    "lon": -75.8127,
+    "population": 36736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tutazá",
+    "region": "Boyacá",
+    "lat": 6.0323,
+    "lon": -72.8564,
+    "population": 36736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plato",
+    "region": "Magdalena",
+    "lat": 9.7727,
+    "lon": -74.7455,
+    "population": 36722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onzaga",
+    "region": "Santander",
+    "lat": 6.3443,
+    "lon": -72.8173,
+    "population": 36646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marsella",
+    "region": "Risaralda",
+    "lat": 4.9524,
+    "lon": -75.7527,
+    "population": 36530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calima",
+    "region": "Valle del Cauca",
+    "lat": 3.9251,
+    "lon": -76.6265,
+    "population": 36465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarso",
+    "region": "Antioquia",
+    "lat": 5.8647,
+    "lon": -75.8219,
+    "population": 36460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Argentina",
+    "region": "Huila",
+    "lat": 2.1976,
+    "lon": -75.9889,
+    "population": 36439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumbal",
+    "region": "Nariño",
+    "lat": 0.9087,
+    "lon": -77.7914,
+    "population": 36420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente Ferrer",
+    "region": "Antioquia",
+    "lat": 6.3224,
+    "lon": -75.3302,
+    "population": 36384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín",
+    "region": "Meta",
+    "lat": 3.5082,
+    "lon": -73.0397,
+    "population": 36359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angostura",
+    "region": "Antioquia",
+    "lat": 6.8712,
+    "lon": -75.3595,
+    "population": 36355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guadalupe",
+    "region": "Santander",
+    "lat": 6.2464,
+    "lon": -73.4183,
+    "population": 36350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Zulia",
+    "region": "Norte de Santander",
+    "lat": 7.9325,
+    "lon": -72.6012,
+    "population": 36347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Caicedo",
+    "region": "Putumayo",
+    "lat": 0.6856,
+    "lon": -76.6044,
+    "population": 36328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Victoria",
+    "region": "Boyacá",
+    "lat": 5.5228,
+    "lon": -74.2328,
+    "population": 36295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pital",
+    "region": "Huila",
+    "lat": 2.2664,
+    "lon": -75.8044,
+    "population": 36164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Combita",
+    "region": "Boyacá",
+    "lat": 5.6333,
+    "lon": -73.3167,
+    "population": 36151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chameza",
+    "region": "Casanare",
+    "lat": 5.1924,
+    "lon": -72.8895,
+    "population": 36147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charalá",
+    "region": "Santander",
+    "lat": 6.1751,
+    "lon": -73.1759,
+    "population": 36133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "González",
+    "region": "Cesar",
+    "lat": 8.3674,
+    "lon": -73.4003,
+    "population": 36081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Útica",
+    "region": "Cundinamarca",
+    "lat": 5.1698,
+    "lon": -74.5013,
+    "population": 36040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vergara",
+    "region": "Cundinamarca",
+    "lat": 5.136,
+    "lon": -74.3154,
+    "population": 35989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrancas",
+    "region": "La Guajira",
+    "lat": 10.9718,
+    "lon": -72.6911,
+    "population": 35965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vistahermosa",
+    "region": "Meta",
+    "lat": 3.1243,
+    "lon": -73.7516,
+    "population": 35954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Bagre",
+    "region": "Antioquia",
+    "lat": 7.6035,
+    "lon": -74.8095,
+    "population": 35953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jardín",
+    "region": "Antioquia",
+    "lat": 5.5904,
+    "lon": -75.8185,
+    "population": 35919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Salgar",
+    "region": "Cundinamarca",
+    "lat": 5.6189,
+    "lon": -74.5848,
+    "population": 35910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabaneta",
+    "region": "Antioquia",
+    "lat": 6.1515,
+    "lon": -75.6166,
+    "population": 35884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mistrató",
+    "region": "Risaralda",
+    "lat": 5.2962,
+    "lon": -75.8839,
+    "population": 35728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choachí",
+    "region": "Cundinamarca",
+    "lat": 4.529,
+    "lon": -73.9227,
+    "population": 35661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Purificación",
+    "region": "Tolima",
+    "lat": 3.8587,
+    "lon": -74.9313,
+    "population": 35573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barbacoas",
+    "region": "Nariño",
+    "lat": 1.6715,
+    "lon": -78.1398,
+    "population": 35522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan del Cesar",
+    "region": "La Guajira",
+    "lat": 10.7711,
+    "lon": -73.0031,
+    "population": 35462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Busbanzá",
+    "region": "Boyacá",
+    "lat": 5.8305,
+    "lon": -72.8842,
+    "population": 35434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Estanislao",
+    "region": "Bolívar",
+    "lat": 10.3983,
+    "lon": -75.1511,
+    "population": 35404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibaná",
+    "region": "Boyacá",
+    "lat": 5.3173,
+    "lon": -73.3966,
+    "population": 35357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alvarado",
+    "region": "Tolima",
+    "lat": 4.5883,
+    "lon": -74.9781,
+    "population": 35318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remedios",
+    "region": "Antioquia",
+    "lat": 7.0283,
+    "lon": -74.6938,
+    "population": 35304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sincelejo",
+    "region": "Sucre",
+    "lat": 9.3047,
+    "lon": -75.3978,
+    "population": 35290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remolino",
+    "region": "Magdalena",
+    "lat": 10.6505,
+    "lon": -74.5844,
+    "population": 35258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pailitas",
+    "region": "Cesar",
+    "lat": 8.9565,
+    "lon": -73.6255,
+    "population": 35134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Colombia",
+    "region": "Atlántico",
+    "lat": 11.0085,
+    "lon": -74.9089,
+    "population": 35126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sucre",
+    "region": "Cauca",
+    "lat": 2.0618,
+    "lon": -76.9144,
+    "population": 35087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián",
+    "region": "Cauca",
+    "lat": 1.9167,
+    "lon": -76.6667,
+    "population": 35085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alcalá",
+    "region": "Valle del Cauca",
+    "lat": 4.6746,
+    "lon": -75.7719,
+    "population": 35056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potosí",
+    "region": "Nariño",
+    "lat": 0.8074,
+    "lon": -77.5722,
+    "population": 34944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tunja",
+    "region": "Boyacá",
+    "lat": 5.5353,
+    "lon": -73.3678,
+    "population": 34902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montería",
+    "region": "Córdoba",
+    "lat": 8.748,
+    "lon": -75.8814,
+    "population": 34807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marquetalia",
+    "region": "Caldas",
+    "lat": 5.2907,
+    "lon": -75.0803,
+    "population": 34799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinjacá",
+    "region": "Boyacá",
+    "lat": 5.5792,
+    "lon": -73.6449,
+    "population": 34797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coloso",
+    "region": "Sucre",
+    "lat": 9.5118,
+    "lon": -75.3623,
+    "population": 34777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barbosa",
+    "region": "Antioquia",
+    "lat": 6.4381,
+    "lon": -75.3314,
+    "population": 34743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatillo de Loba",
+    "region": "Bolívar",
+    "lat": 8.9564,
+    "lon": -74.0782,
+    "population": 34632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos",
+    "region": "Sucre",
+    "lat": 8.5833,
+    "lon": -75.1667,
+    "population": 34631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bello",
+    "region": "Antioquia",
+    "lat": 6.3616,
+    "lon": -75.5873,
+    "population": 34615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Cauca",
+    "lat": 3.0482,
+    "lon": -76.6307,
+    "population": 34504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chíquiza",
+    "region": "Boyacá",
+    "lat": 5.6041,
+    "lon": -73.4852,
+    "population": 34463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montebello",
+    "region": "Antioquia",
+    "lat": 5.937,
+    "lon": -75.5274,
+    "population": 34443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polonuevo",
+    "region": "Atlántico",
+    "lat": 10.777,
+    "lon": -74.8534,
+    "population": 34443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herveo",
+    "region": "Tolima",
+    "lat": 5.08,
+    "lon": -75.1756,
+    "population": 34428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "Córdoba",
+    "lat": 8.2411,
+    "lon": -74.9582,
+    "population": 34403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Santander",
+    "lat": 6.9902,
+    "lon": -72.907,
+    "population": 34366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coveñas",
+    "region": "Sucre",
+    "lat": 9.4025,
+    "lon": -75.6803,
+    "population": 34354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutatá",
+    "region": "Antioquia",
+    "lat": 7.2441,
+    "lon": -76.4356,
+    "population": 34340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivera",
+    "region": "Huila",
+    "lat": 2.7772,
+    "lon": -75.2564,
+    "population": 34319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jacinto del Cauca",
+    "region": "Bolívar",
+    "lat": 8.2373,
+    "lon": -74.6678,
+    "population": 34274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manta",
+    "region": "Cundinamarca",
+    "lat": 4.9572,
+    "lon": -73.5858,
+    "population": 34237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cairo",
+    "region": "Valle del Cauca",
+    "lat": 4.7489,
+    "lon": -76.2444,
+    "population": 34230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tablón de Gómez",
+    "region": "Nariño",
+    "lat": 1.4272,
+    "lon": -77.0969,
+    "population": 34143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Floridablanca",
+    "region": "Santander",
+    "lat": 7.0632,
+    "lon": -73.0859,
+    "population": 34126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Calera",
+    "region": "Cundinamarca",
+    "lat": 4.6868,
+    "lon": -73.9359,
+    "population": 33943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana de Torres",
+    "region": "Santander",
+    "lat": 7.3915,
+    "lon": -73.4957,
+    "population": 33843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mompós",
+    "region": "Bolívar",
+    "lat": 9.1399,
+    "lon": -74.5451,
+    "population": 33795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samaniego",
+    "region": "Nariño",
+    "lat": 1.3385,
+    "lon": -77.5957,
+    "population": 33760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contadero",
+    "region": "Nariño",
+    "lat": 0.9307,
+    "lon": -77.5333,
+    "population": 33759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palestina",
+    "region": "Huila",
+    "lat": 1.7225,
+    "lon": -76.1306,
+    "population": 33749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jordán",
+    "region": "Santander",
+    "lat": 6.6986,
+    "lon": -73.1097,
+    "population": 33736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciénega",
+    "region": "Boyacá",
+    "lat": 5.4087,
+    "lon": -73.2957,
+    "population": 33707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Antioquia",
+    "lat": 6.1167,
+    "lon": -75.9833,
+    "population": 33676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tarra",
+    "region": "Norte de Santander",
+    "lat": 8.5756,
+    "lon": -73.0949,
+    "population": 33665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutamarchán",
+    "region": "Boyacá",
+    "lat": 5.6154,
+    "lon": -73.617,
+    "population": 33654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tausa",
+    "region": "Cundinamarca",
+    "lat": 5.199,
+    "lon": -73.8913,
+    "population": 33601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramiriquí",
+    "region": "Boyacá",
+    "lat": 5.4002,
+    "lon": -73.3354,
+    "population": 33598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villeta",
+    "region": "Cundinamarca",
+    "lat": 5.0001,
+    "lon": -74.505,
+    "population": 33482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cajibío",
+    "region": "Cauca",
+    "lat": 2.6227,
+    "lon": -76.5704,
+    "population": 33439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranca de Upía",
+    "region": "Meta",
+    "lat": 4.5696,
+    "lon": -72.9668,
+    "population": 33391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anolaima",
+    "region": "Cundinamarca",
+    "lat": 4.8336,
+    "lon": -74.4995,
+    "population": 33246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villahermosa",
+    "region": "Tolima",
+    "lat": 4.965,
+    "lon": -75.1565,
+    "population": 33226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Circasia",
+    "region": "Quindío",
+    "lat": 4.5994,
+    "lon": -75.6854,
+    "population": 33218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumaral",
+    "region": "Meta",
+    "lat": 4.2381,
+    "lon": -73.341,
+    "population": 33152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nariño",
+    "region": "Antioquia",
+    "lat": 5.6089,
+    "lon": -75.1766,
+    "population": 33108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cajamarca",
+    "region": "Tolima",
+    "lat": 4.4167,
+    "lon": -75.5,
+    "population": 33101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulloa",
+    "region": "Valle del Cauca",
+    "lat": 4.7074,
+    "lon": -75.7778,
+    "population": 33089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciénaga",
+    "region": "Magdalena",
+    "lat": 10.8333,
+    "lon": -74.0833,
+    "population": 33085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara de Pinto",
+    "region": "Magdalena",
+    "lat": 9.5211,
+    "lon": -74.6491,
+    "population": 32988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cucaita",
+    "region": "Boyacá",
+    "lat": 5.5437,
+    "lon": -73.4543,
+    "population": 32958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Felipe",
+    "region": "Guainía",
+    "lat": 2.1432,
+    "lon": -67.3412,
+    "population": 32956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timbío",
+    "region": "Cauca",
+    "lat": 2.3528,
+    "lon": -76.6819,
+    "population": 32930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florián",
+    "region": "Santander",
+    "lat": 5.8049,
+    "lon": -73.9703,
+    "population": 32886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guamo",
+    "region": "Tolima",
+    "lat": 4.0746,
+    "lon": -74.9769,
+    "population": 32851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suaza",
+    "region": "Huila",
+    "lat": 1.975,
+    "lon": -75.7956,
+    "population": 32845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Nepomuceno",
+    "region": "Bolívar",
+    "lat": 9.9498,
+    "lon": -75.0743,
+    "population": 32814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toledo",
+    "region": "Norte de Santander",
+    "lat": 7.3098,
+    "lon": -72.483,
+    "population": 32782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Berrío",
+    "region": "Antioquia",
+    "lat": 6.5075,
+    "lon": -74.5227,
+    "population": 32682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Cartago",
+    "region": "Nariño",
+    "lat": 1.5515,
+    "lon": -77.1195,
+    "population": 32658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Becerril",
+    "region": "Cesar",
+    "lat": 9.7041,
+    "lon": -73.2793,
+    "population": 32643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moñitos",
+    "region": "Córdoba",
+    "lat": 9.2262,
+    "lon": -76.1359,
+    "population": 32629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Leguízamo",
+    "region": "Putumayo",
+    "lat": -0.1934,
+    "lon": -74.7819,
+    "population": 32622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón",
+    "region": "Putumayo",
+    "lat": 1.1903,
+    "lon": -76.9737,
+    "population": 32585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Montañita",
+    "region": "Caquetá",
+    "lat": 1.4639,
+    "lon": -75.3036,
+    "population": 32497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valdivia",
+    "region": "Antioquia",
+    "lat": 7.2938,
+    "lon": -75.3919,
+    "population": 32491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacho",
+    "region": "Cundinamarca",
+    "lat": 5.1306,
+    "lon": -74.1583,
+    "population": 32440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manizales",
+    "region": "Caldas",
+    "lat": 5.0689,
+    "lon": -75.5174,
+    "population": 32432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chachagüí",
+    "region": "Nariño",
+    "lat": 1.3594,
+    "lon": -77.2837,
+    "population": 32368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Nariño",
+    "lat": 1.5573,
+    "lon": -77.246,
+    "population": 32243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pachavita",
+    "region": "Boyacá",
+    "lat": 5.1397,
+    "lon": -73.3974,
+    "population": 32240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galapa",
+    "region": "Atlántico",
+    "lat": 10.8979,
+    "lon": -74.887,
+    "population": 32172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Purísima",
+    "region": "Córdoba",
+    "lat": 9.2366,
+    "lon": -75.7219,
+    "population": 32151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pana Pana",
+    "region": "Guainía",
+    "lat": 1.9625,
+    "lon": -69.126,
+    "population": 32137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orito",
+    "region": "Putumayo",
+    "lat": 0.6675,
+    "lon": -76.873,
+    "population": 32130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apía",
+    "region": "Risaralda",
+    "lat": 5.1066,
+    "lon": -75.9424,
+    "population": 32110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualmatán",
+    "region": "Nariño",
+    "lat": 0.9199,
+    "lon": -77.5674,
+    "population": 32079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silos",
+    "region": "Norte de Santander",
+    "lat": 7.2052,
+    "lon": -72.7564,
+    "population": 32046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corrales",
+    "region": "Boyacá",
+    "lat": 5.825,
+    "lon": -72.8454,
+    "population": 32003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sucre",
+    "region": "Santander",
+    "lat": 5.9699,
+    "lon": -73.9663,
+    "population": 31858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Une",
+    "region": "Cundinamarca",
+    "lat": 4.3069,
+    "lon": -74.071,
+    "population": 31857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedecuesta",
+    "region": "Santander",
+    "lat": 6.9744,
+    "lon": -73.0228,
+    "population": 31828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talaigua Nuevo",
+    "region": "Bolívar",
+    "lat": 9.3035,
+    "lon": -74.5648,
+    "population": 31773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jerusalén",
+    "region": "Cundinamarca",
+    "lat": 4.5631,
+    "lon": -74.6952,
+    "population": 31731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prado",
+    "region": "Tolima",
+    "lat": 3.7322,
+    "lon": -74.8649,
+    "population": 31720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bajo Baudó",
+    "region": "Chocó",
+    "lat": 4.9533,
+    "lon": -77.366,
+    "population": 31542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villanueva",
+    "region": "La Guajira",
+    "lat": 10.5833,
+    "lon": -72.9608,
+    "population": 31533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fusagasugá",
+    "region": "Cundinamarca",
+    "lat": 4.3365,
+    "lon": -74.3638,
+    "population": 31527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenavista",
+    "region": "Boyacá",
+    "lat": 5.5,
+    "lon": -73.9667,
+    "population": 31446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebrija",
+    "region": "Santander",
+    "lat": 7.1132,
+    "lon": -73.2178,
+    "population": 31377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sáchica",
+    "region": "Boyacá",
+    "lat": 5.5845,
+    "lon": -73.5418,
+    "population": 31249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silvia",
+    "region": "Cauca",
+    "lat": 2.6156,
+    "lon": -76.3826,
+    "population": 31201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morroa",
+    "region": "Sucre",
+    "lat": 9.3335,
+    "lon": -75.3054,
+    "population": 31166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falan",
+    "region": "Tolima",
+    "lat": 5.1238,
+    "lon": -74.9518,
+    "population": 31161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filandia",
+    "region": "Quindío",
+    "lat": 4.6753,
+    "lon": -75.6714,
+    "population": 31138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonson",
+    "region": "Antioquia",
+    "lat": 5.75,
+    "lon": -75,
+    "population": 31083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cachipay",
+    "region": "Cundinamarca",
+    "lat": 5.2667,
+    "lon": -74.5667,
+    "population": 30990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanalarga",
+    "region": "Antioquia",
+    "lat": 6.8489,
+    "lon": -75.8171,
+    "population": 30843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Socha",
+    "region": "Boyacá",
+    "lat": 5.9293,
+    "lon": -72.7007,
+    "population": 30753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Colegio",
+    "region": "Cundinamarca",
+    "lat": 4.5605,
+    "lon": -74.4261,
+    "population": 30721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Istmina",
+    "region": "Chocó",
+    "lat": 5.1605,
+    "lon": -76.684,
+    "population": 30622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angelópolis",
+    "region": "Antioquia",
+    "lat": 6.1223,
+    "lon": -75.7143,
+    "population": 30563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogotá D.C.",
+    "region": "Bogotá D.C.",
+    "lat": 4.6126,
+    "lon": -74.0705,
+    "population": 30524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miraflores",
+    "region": "Guaviare",
+    "lat": 1.3367,
+    "lon": -71.9511,
+    "population": 30496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gameza",
+    "region": "Boyacá",
+    "lat": 5.8031,
+    "lon": -72.7372,
+    "population": 30488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatonuevo",
+    "region": "La Guajira",
+    "lat": 11.0694,
+    "lon": -72.7669,
+    "population": 30479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranco de Loba",
+    "region": "Bolívar",
+    "lat": 8.946,
+    "lon": -74.1065,
+    "population": 30427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tierralta",
+    "region": "Córdoba",
+    "lat": 7.8786,
+    "lon": -76.2131,
+    "population": 30424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madrid",
+    "region": "Cundinamarca",
+    "lat": 4.7556,
+    "lon": -74.2771,
+    "population": 30407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candelaria",
+    "region": "Atlántico",
+    "lat": 10.4739,
+    "lon": -74.8858,
+    "population": 30386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle del Guamuez",
+    "region": "Putumayo",
+    "lat": 0.4525,
+    "lon": -76.9192,
+    "population": 30340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Retorno",
+    "region": "Guaviare",
+    "lat": 2.3302,
+    "lon": -72.6277,
+    "population": 30309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelaya",
+    "region": "Cesar",
+    "lat": 8.6882,
+    "lon": -73.6645,
+    "population": 30217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiriguaná",
+    "region": "Cesar",
+    "lat": 9.3624,
+    "lon": -73.6031,
+    "population": 30216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villamaría",
+    "region": "Caldas",
+    "lat": 4.9508,
+    "lon": -75.4368,
+    "population": 30210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Achí",
+    "region": "Bolívar",
+    "lat": 8.5695,
+    "lon": -74.5571,
+    "population": 30177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arjona",
+    "region": "Bolívar",
+    "lat": 10.1759,
+    "lon": -75.3588,
+    "population": 30122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Motavita",
+    "region": "Boyacá",
+    "lat": 5.5766,
+    "lon": -73.367,
+    "population": 30068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Concordia",
+    "region": "Meta",
+    "lat": 2.6221,
+    "lon": -72.7572,
+    "population": 30062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taminango",
+    "region": "Nariño",
+    "lat": 1.5703,
+    "lon": -77.2804,
+    "population": 30031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pamplonita",
+    "region": "Norte de Santander",
+    "lat": 7.4581,
+    "lon": -72.6596,
+    "population": 30014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Peñón",
+    "region": "Cundinamarca",
+    "lat": 5.2526,
+    "lon": -74.2907,
+    "population": 29998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranco Minas",
+    "region": "Guainía",
+    "lat": 3.099,
+    "lon": -69.583,
+    "population": 29955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maicao",
+    "region": "La Guajira",
+    "lat": 11.3784,
+    "lon": -72.2395,
+    "population": 29911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papunaua",
+    "region": "Vaupés",
+    "lat": 1.6833,
+    "lon": -70.7097,
+    "population": 29869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Algarrobo",
+    "region": "Magdalena",
+    "lat": 10.1855,
+    "lon": -74.0616,
+    "population": 29865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medellín",
+    "region": "Antioquia",
+    "lat": 6.2518,
+    "lon": -75.5636,
+    "population": 29743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Colón",
+    "region": "Boyacá",
+    "lat": 5.3537,
+    "lon": -73.4566,
+    "population": 29665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerinza",
+    "region": "Boyacá",
+    "lat": 5.9365,
+    "lon": -72.9913,
+    "population": 29638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ortega",
+    "region": "Tolima",
+    "lat": 3.9451,
+    "lon": -75.2725,
+    "population": 29628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umbita",
+    "region": "Boyacá",
+    "lat": 5.1841,
+    "lon": -73.4834,
+    "population": 29541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galán",
+    "region": "Santander",
+    "lat": 6.6627,
+    "lon": -73.3423,
+    "population": 29516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ebéjico",
+    "region": "Antioquia",
+    "lat": 6.326,
+    "lon": -75.7683,
+    "population": 29466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "López de Micay",
+    "region": "Cauca",
+    "lat": 3,
+    "lon": -77.25,
+    "population": 29428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "Bolívar",
+    "lat": 10.4731,
+    "lon": -75.3616,
+    "population": 29358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuente de Oro",
+    "region": "Meta",
+    "lat": 3.4626,
+    "lon": -73.6216,
+    "population": 29309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Margarita",
+    "region": "Bolívar",
+    "lat": 9.0633,
+    "lon": -74.2813,
+    "population": 29299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jenesano",
+    "region": "Boyacá",
+    "lat": 5.3854,
+    "lon": -73.3636,
+    "population": 29291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saravena",
+    "region": "Arauca",
+    "lat": 6.9632,
+    "lon": -71.8823,
+    "population": 29250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riosucio",
+    "region": "Chocó",
+    "lat": 7.4167,
+    "lon": -77.1667,
+    "population": 29205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Santander",
+    "region": "Norte de Santander",
+    "lat": 8.3636,
+    "lon": -72.4063,
+    "population": 29165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Florida",
+    "region": "Nariño",
+    "lat": 1.3569,
+    "lon": -77.4127,
+    "population": 29128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Andes",
+    "region": "Nariño",
+    "lat": 1.4947,
+    "lon": -77.5214,
+    "population": 29099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto López",
+    "region": "Meta",
+    "lat": 4.0443,
+    "lon": -72.6573,
+    "population": 29089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerres",
+    "region": "Nariño",
+    "lat": 1.1937,
+    "lon": -77.2666,
+    "population": 29008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Calvario",
+    "region": "Meta",
+    "lat": 4.3543,
+    "lon": -73.7443,
+    "population": 28985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hacarí",
+    "region": "Norte de Santander",
+    "lat": 8.3233,
+    "lon": -73.1489,
+    "population": 28950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaranda",
+    "region": "Sucre",
+    "lat": 8.4675,
+    "lon": -74.5362,
+    "population": 28908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacoa",
+    "region": "Vaupés",
+    "lat": 0.1564,
+    "lon": -70.8927,
+    "population": 28905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turbaná",
+    "region": "Bolívar",
+    "lat": 10.2717,
+    "lon": -75.4422,
+    "population": 28872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Caldas",
+    "lat": 5.0822,
+    "lon": -75.7911,
+    "population": 28812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timbiquí",
+    "region": "Cauca",
+    "lat": 2.7717,
+    "lon": -77.6654,
+    "population": 28797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cubará",
+    "region": "Boyacá",
+    "lat": 7.0058,
+    "lon": -72.1057,
+    "population": 28709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coromoro",
+    "region": "Santander",
+    "lat": 6.2946,
+    "lon": -73.0402,
+    "population": 28650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tame",
+    "region": "Arauca",
+    "lat": 6.4607,
+    "lon": -71.7362,
+    "population": 28638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albania",
+    "region": "Santander",
+    "lat": 5.7589,
+    "lon": -73.9138,
+    "population": 28632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Mateo",
+    "region": "Boyacá",
+    "lat": 6.377,
+    "lon": -72.578,
+    "population": 28629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uribia",
+    "region": "La Guajira",
+    "lat": 12.0264,
+    "lon": -71.7489,
+    "population": 28588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Betéitiva",
+    "region": "Boyacá",
+    "lat": 5.911,
+    "lon": -72.8093,
+    "population": 28577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pijiño del Carmen",
+    "region": "Magdalena",
+    "lat": 9.3291,
+    "lon": -74.453,
+    "population": 28532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Santos",
+    "region": "Santander",
+    "lat": 6.7973,
+    "lon": -73.1249,
+    "population": 28492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto Baudó",
+    "region": "Chocó",
+    "lat": 5.516,
+    "lon": -76.9745,
+    "population": 28411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nunchía",
+    "region": "Casanare",
+    "lat": 5.6359,
+    "lon": -72.1954,
+    "population": 28371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colombia",
+    "region": "Huila",
+    "lat": 3.375,
+    "lon": -74.8019,
+    "population": 28362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmito",
+    "region": "Sucre",
+    "lat": 9.3367,
+    "lon": -75.5633,
+    "population": 28268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bituima",
+    "region": "Cundinamarca",
+    "lat": 4.8725,
+    "lon": -74.5392,
+    "population": 28244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitú",
+    "region": "Vaupés",
+    "lat": 1.2578,
+    "lon": -70.2347,
+    "population": 28219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Boyacá",
+    "lat": 5.9889,
+    "lon": -72.9125,
+    "population": 28195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Libertador",
+    "region": "Córdoba",
+    "lat": 7.6818,
+    "lon": -75.7831,
+    "population": 28166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Antioquia",
+    "lat": 7.7918,
+    "lon": -74.7732,
+    "population": 28166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ceja",
+    "region": "Antioquia",
+    "lat": 6,
+    "lon": -75.4331,
+    "population": 28101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolú Viejo",
+    "region": "Sucre",
+    "lat": 9.4508,
+    "lon": -75.4386,
+    "population": 28098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lloró",
+    "region": "Chocó",
+    "lat": 5.4961,
+    "lon": -76.5494,
+    "population": 28062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Córdoba",
+    "region": "Quindío",
+    "lat": 4.3806,
+    "lon": -75.6668,
+    "population": 28049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago",
+    "region": "Norte de Santander",
+    "lat": 7.8693,
+    "lon": -72.7375,
+    "population": 28036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beltrán",
+    "region": "Cundinamarca",
+    "lat": 4.7195,
+    "lon": -74.7566,
+    "population": 28022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Condoto",
+    "region": "Chocó",
+    "lat": 5.0935,
+    "lon": -76.6497,
+    "population": 28018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vianí",
+    "region": "Cundinamarca",
+    "lat": 4.8958,
+    "lon": -74.554,
+    "population": 27990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morelia",
+    "region": "Caquetá",
+    "lat": 1.4875,
+    "lon": -75.7258,
+    "population": 27923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pivijay",
+    "region": "Magdalena",
+    "lat": 10.4617,
+    "lon": -74.6162,
+    "population": 27896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaca",
+    "region": "Santander",
+    "lat": 6.8762,
+    "lon": -72.8559,
+    "population": 27860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vijes",
+    "region": "Valle del Cauca",
+    "lat": 3.7328,
+    "lon": -76.4936,
+    "population": 27858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turbo",
+    "region": "Antioquia",
+    "lat": 8.0926,
+    "lon": -76.7282,
+    "population": 27805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Tebaida",
+    "region": "Quindío",
+    "lat": 4.4335,
+    "lon": -75.8148,
+    "population": 27723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carmen de Carupa",
+    "region": "Cundinamarca",
+    "lat": 5.3486,
+    "lon": -73.9017,
+    "population": 27714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Molino",
+    "region": "La Guajira",
+    "lat": 10.653,
+    "lon": -72.9246,
+    "population": 27714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viracachá",
+    "region": "Boyacá",
+    "lat": 5.4364,
+    "lon": -73.2961,
+    "population": 27708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz",
+    "region": "Santander",
+    "lat": 6.1785,
+    "lon": -73.5895,
+    "population": 27670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "Bolívar",
+    "lat": 10.0515,
+    "lon": -75.2678,
+    "population": 27580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siachoque",
+    "region": "Boyacá",
+    "lat": 5.5124,
+    "lon": -73.2444,
+    "population": 27574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Wilches",
+    "region": "Santander",
+    "lat": 7.3483,
+    "lon": -73.896,
+    "population": 27550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Valle del Cauca",
+    "lat": 4.5328,
+    "lon": -76.1032,
+    "population": 27440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolívar",
+    "region": "Santander",
+    "lat": 5.9893,
+    "lon": -73.7706,
+    "population": 27434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis de Sincé",
+    "region": "Sucre",
+    "lat": 9.2439,
+    "lon": -75.1467,
+    "population": 27333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palocabildo",
+    "region": "Tolima",
+    "lat": 5.117,
+    "lon": -75.0173,
+    "population": 27259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Santuario",
+    "region": "Antioquia",
+    "lat": 6.1383,
+    "lon": -75.2642,
+    "population": 27255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Uraba",
+    "region": "Antioquia",
+    "lat": 8.4229,
+    "lon": -76.3175,
+    "population": 27121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donmatías",
+    "region": "Antioquia",
+    "lat": 6.4857,
+    "lon": -75.395,
+    "population": 27094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somondoco",
+    "region": "Boyacá",
+    "lat": 4.985,
+    "lon": -73.4324,
+    "population": 27080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Parra",
+    "region": "Santander",
+    "lat": 6.6515,
+    "lon": -74.0573,
+    "population": 27077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Onofre",
+    "region": "Sucre",
+    "lat": 9.7359,
+    "lon": -75.5263,
+    "population": 27040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santacruz",
+    "region": "Nariño",
+    "lat": 1.5209,
+    "lon": -77.2621,
+    "population": 27027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abejorral",
+    "region": "Antioquia",
+    "lat": 5.7893,
+    "lon": -75.4273,
+    "population": 26972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Magdalena",
+    "lat": 9.5148,
+    "lon": -74.3433,
+    "population": 26929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Rico",
+    "region": "Meta",
+    "lat": 2.9383,
+    "lon": -73.2083,
+    "population": 26907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinidad",
+    "region": "Casanare",
+    "lat": 5.3478,
+    "lon": -71.2019,
+    "population": 26901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zapayán",
+    "region": "Magdalena",
+    "lat": 10.1185,
+    "lon": -74.6914,
+    "population": 26858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aracataca",
+    "region": "Magdalena",
+    "lat": 10.5918,
+    "lon": -74.1898,
+    "population": 26802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sucre",
+    "region": "Sucre",
+    "lat": 8.8114,
+    "lon": -74.7208,
+    "population": 26789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Facatativá",
+    "region": "Cundinamarca",
+    "lat": 4.8137,
+    "lon": -74.3545,
+    "population": 26714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Arica",
+    "region": "Amazonas",
+    "lat": -1.9068,
+    "lon": -71.1465,
+    "population": 26712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frontino",
+    "region": "Antioquia",
+    "lat": 6.7713,
+    "lon": -76.1332,
+    "population": 26652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinú",
+    "region": "Córdoba",
+    "lat": 9.0387,
+    "lon": -75.3427,
+    "population": 26607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Paujil",
+    "region": "Caquetá",
+    "lat": 1.5709,
+    "lon": -75.314,
+    "population": 26585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Putumayo",
+    "lat": 1.1764,
+    "lon": -76.8784,
+    "population": 26489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medina",
+    "region": "Cundinamarca",
+    "lat": 4.51,
+    "lon": -73.3498,
+    "population": 26488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahía Solano",
+    "region": "Chocó",
+    "lat": 6.2252,
+    "lon": -77.3915,
+    "population": 26484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anorí",
+    "region": "Antioquia",
+    "lat": 7.0736,
+    "lon": -75.1469,
+    "population": 26463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caracolí",
+    "region": "Antioquia",
+    "lat": 6.4092,
+    "lon": -74.7571,
+    "population": 26439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arcabuco",
+    "region": "Boyacá",
+    "lat": 5.7546,
+    "lon": -73.4367,
+    "population": 26343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zipaquirá",
+    "region": "Cundinamarca",
+    "lat": 5.0221,
+    "lon": -74.0048,
+    "population": 26326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vegachí",
+    "region": "Antioquia",
+    "lat": 6.7614,
+    "lon": -74.7947,
+    "population": 26317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Gil",
+    "region": "Santander",
+    "lat": 6.5595,
+    "lon": -73.1364,
+    "population": 26157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clemencia",
+    "region": "Bolívar",
+    "lat": 10.5664,
+    "lon": -75.325,
+    "population": 26147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Funes",
+    "region": "Nariño",
+    "lat": 1.0008,
+    "lon": -77.4492,
+    "population": 26126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morichal",
+    "region": "Guainía",
+    "lat": 2.4298,
+    "lon": -69.8328,
+    "population": 26098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usiacurí",
+    "region": "Atlántico",
+    "lat": 10.7431,
+    "lon": -74.976,
+    "population": 26083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rovira",
+    "region": "Tolima",
+    "lat": 4.2122,
+    "lon": -75.3421,
+    "population": 26035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elias",
+    "region": "Huila",
+    "lat": 2.0136,
+    "lon": -75.9397,
+    "population": 25862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chipaque",
+    "region": "Cundinamarca",
+    "lat": 4.4425,
+    "lon": -74.0442,
+    "population": 25830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yolombó",
+    "region": "Antioquia",
+    "lat": 6.6657,
+    "lon": -74.9912,
+    "population": 25823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piamonte",
+    "region": "Cauca",
+    "lat": 1.1158,
+    "lon": -76.3261,
+    "population": 25745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trujillo",
+    "region": "Valle del Cauca",
+    "lat": 4.237,
+    "lon": -76.3473,
+    "population": 25685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Supatá",
+    "region": "Cundinamarca",
+    "lat": 5.061,
+    "lon": -74.2372,
+    "population": 25629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roncesvalles",
+    "region": "Tolima",
+    "lat": 4.0108,
+    "lon": -75.6049,
+    "population": 25530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Zenón",
+    "region": "Magdalena",
+    "lat": 9.3269,
+    "lon": -74.3291,
+    "population": 25503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangua",
+    "region": "Nariño",
+    "lat": 1.0919,
+    "lon": -77.3864,
+    "population": 25456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encino",
+    "region": "Santander",
+    "lat": 6.1373,
+    "lon": -73.0985,
+    "population": 25372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Supía",
+    "region": "Caldas",
+    "lat": 5.453,
+    "lon": -75.6507,
+    "population": 25320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vigía del Fuerte",
+    "region": "Antioquia",
+    "lat": 6.5893,
+    "lon": -76.896,
+    "population": 25282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magangué",
+    "region": "Bolívar",
+    "lat": 9.242,
+    "lon": -74.7547,
+    "population": 25273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sotaquirá",
+    "region": "Boyacá",
+    "lat": 5.7648,
+    "lon": -73.2476,
+    "population": 25262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Funza",
+    "region": "Cundinamarca",
+    "lat": 4.7164,
+    "lon": -74.212,
+    "population": 25224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cumbre",
+    "region": "Valle del Cauca",
+    "lat": 3.7225,
+    "lon": -76.0208,
+    "population": 25188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manatí",
+    "region": "Atlántico",
+    "lat": 10.464,
+    "lon": -74.9822,
+    "population": 25155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Colombia",
+    "region": "Guainía",
+    "lat": 2.439,
+    "lon": -68.1642,
+    "population": 25107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jacinto",
+    "region": "Bolívar",
+    "lat": 9.8391,
+    "lon": -75.1104,
+    "population": 25101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Floresta",
+    "region": "Boyacá",
+    "lat": 5.859,
+    "lon": -72.9251,
+    "population": 25091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dosquebradas",
+    "region": "Risaralda",
+    "lat": 4.8392,
+    "lon": -75.6673,
+    "population": 25040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Repelón",
+    "region": "Atlántico",
+    "lat": 10.5094,
+    "lon": -75.1283,
+    "population": 25015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guachetá",
+    "region": "Cundinamarca",
+    "lat": 5.3842,
+    "lon": -73.6862,
+    "population": 24990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Río Seco",
+    "region": "Cundinamarca",
+    "lat": 4.8308,
+    "lon": -74.6825,
+    "population": 24954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Capilla",
+    "region": "Boyacá",
+    "lat": 5.0808,
+    "lon": -73.4808,
+    "population": 24947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Uvita",
+    "region": "Boyacá",
+    "lat": 6.2426,
+    "lon": -72.5645,
+    "population": 24944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sahagún",
+    "region": "Córdoba",
+    "lat": 8.9462,
+    "lon": -75.4428,
+    "population": 24929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Córdoba",
+    "region": "Bolívar",
+    "lat": 9.5515,
+    "lon": -74.898,
+    "population": 24847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Espinal",
+    "region": "Tolima",
+    "lat": 4.1492,
+    "lon": -74.8843,
+    "population": 24840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimichagua",
+    "region": "Cesar",
+    "lat": 9.2578,
+    "lon": -73.8123,
+    "population": 24827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarazá",
+    "region": "Antioquia",
+    "lat": 7.5836,
+    "lon": -75.4007,
+    "population": 24802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quibdó",
+    "region": "Chocó",
+    "lat": 5.7607,
+    "lon": -76.837,
+    "population": 24769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Cundinamarca",
+    "lat": 4.9634,
+    "lon": -74.2661,
+    "population": 24761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Victoria",
+    "region": "Amazonas",
+    "lat": -0.1831,
+    "lon": -71.0376,
+    "population": 24749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Escondido",
+    "region": "Córdoba",
+    "lat": 8.9945,
+    "lon": -76.1935,
+    "population": 24738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tambo",
+    "region": "Nariño",
+    "lat": 1.4305,
+    "lon": -77.3833,
+    "population": 24737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villanueva",
+    "region": "Casanare",
+    "lat": 5.2833,
+    "lon": -71.9667,
+    "population": 24712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén de Los Andaquies",
+    "region": "Caquetá",
+    "lat": 1.4167,
+    "lon": -75.9167,
+    "population": 24689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Carreño",
+    "region": "Vichada",
+    "lat": 6.189,
+    "lon": -67.4859,
+    "population": 24642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bucarasica",
+    "region": "Norte de Santander",
+    "lat": 8.041,
+    "lon": -72.8654,
+    "population": 24625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Eduardo",
+    "region": "Boyacá",
+    "lat": 5.224,
+    "lon": -73.077,
+    "population": 24568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yopal",
+    "region": "Casanare",
+    "lat": 5.3377,
+    "lon": -72.3959,
+    "population": 24551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valparaíso",
+    "region": "Caquetá",
+    "lat": 1.194,
+    "lon": -75.7075,
+    "population": 24513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Policarpa",
+    "region": "Nariño",
+    "lat": 1.6284,
+    "lon": -77.4596,
+    "population": 24512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogotá D.C.",
+    "region": "Cundinamarca",
+    "lat": 4.6126,
+    "lon": -74.0705,
+    "population": 24479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanalarga",
+    "region": "Atlántico",
+    "lat": 10.6164,
+    "lon": -74.9572,
+    "population": 24395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amalfi",
+    "region": "Antioquia",
+    "lat": 6.9102,
+    "lon": -75.0776,
+    "population": 24362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jericó",
+    "region": "Boyacá",
+    "lat": 6.1458,
+    "lon": -72.586,
+    "population": 24280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paipa",
+    "region": "Boyacá",
+    "lat": 5.7801,
+    "lon": -73.1171,
+    "population": 24273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otanche",
+    "region": "Boyacá",
+    "lat": 5.7753,
+    "lon": -74.2031,
+    "population": 24259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro de San Antonio",
+    "region": "Magdalena",
+    "lat": 10.3259,
+    "lon": -74.8693,
+    "population": 24250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rionegro",
+    "region": "Santander",
+    "lat": 7.5,
+    "lon": -73.3333,
+    "population": 24233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Nare",
+    "region": "Antioquia",
+    "lat": 6.1917,
+    "lon": -74.5867,
+    "population": 24224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Virginia",
+    "region": "Risaralda",
+    "lat": 4.8997,
+    "lon": -75.8825,
+    "population": 24183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Susa",
+    "region": "Cundinamarca",
+    "lat": 5.427,
+    "lon": -73.8479,
+    "population": 24003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Copacabana",
+    "region": "Antioquia",
+    "lat": 6.3623,
+    "lon": -75.4992,
+    "population": 23990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Playón",
+    "region": "Santander",
+    "lat": 7.4713,
+    "lon": -73.2031,
+    "population": 23976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olaya Herrera",
+    "region": "Nariño",
+    "lat": 1.248,
+    "lon": -77.4908,
+    "population": 23873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puracé",
+    "region": "Cauca",
+    "lat": 2.3385,
+    "lon": -76.3876,
+    "population": 23865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cucutilla",
+    "region": "Norte de Santander",
+    "lat": 7.5394,
+    "lon": -72.7724,
+    "population": 23839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Gloria",
+    "region": "Cesar",
+    "lat": 8.6116,
+    "lon": -73.6304,
+    "population": 23809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liborina",
+    "region": "Antioquia",
+    "lat": 6.6779,
+    "lon": -75.8122,
+    "population": 23796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villarrica",
+    "region": "Tolima",
+    "lat": 3.831,
+    "lon": -74.6526,
+    "population": 23780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tauramena",
+    "region": "Casanare",
+    "lat": 5.0179,
+    "lon": -72.7468,
+    "population": 23774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quipile",
+    "region": "Cundinamarca",
+    "lat": 4.7452,
+    "lon": -74.5338,
+    "population": 23749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carmen de Bolívar",
+    "region": "Bolívar",
+    "lat": 9.7174,
+    "lon": -75.1202,
+    "population": 23733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morales",
+    "region": "Cauca",
+    "lat": 2.7545,
+    "lon": -76.6279,
+    "population": 23648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soplaviento",
+    "region": "Bolívar",
+    "lat": 10.3318,
+    "lon": -75.1185,
+    "population": 23640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altamira",
+    "region": "Huila",
+    "lat": 2.0633,
+    "lon": -75.7878,
+    "population": 23637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zetaquira",
+    "region": "Boyacá",
+    "lat": 5.2582,
+    "lon": -73.1827,
+    "population": 23618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Planeta Rica",
+    "region": "Córdoba",
+    "lat": 8.4115,
+    "lon": -75.5851,
+    "population": 23617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manzanares",
+    "region": "Caldas",
+    "lat": 5.2331,
+    "lon": -75.1517,
+    "population": 23582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macaravita",
+    "region": "Santander",
+    "lat": 6.5057,
+    "lon": -72.593,
+    "population": 23492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rioblanco",
+    "region": "Tolima",
+    "lat": 3.5,
+    "lon": -75.8333,
+    "population": 23490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suratá",
+    "region": "Santander",
+    "lat": 7.3663,
+    "lon": -72.9836,
+    "population": 23489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Briceño",
+    "region": "Boyacá",
+    "lat": 5.6882,
+    "lon": -73.9178,
+    "population": 23443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "Nariño",
+    "lat": 1.6725,
+    "lon": -77.0139,
+    "population": 23404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés",
+    "region": "Santander",
+    "lat": 6.8115,
+    "lon": -72.8493,
+    "population": 23356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmar de Varela",
+    "region": "Atlántico",
+    "lat": 10.7406,
+    "lon": -74.7544,
+    "population": 23349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Bolívar",
+    "region": "Antioquia",
+    "lat": 5.8539,
+    "lon": -76.0253,
+    "population": 23343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fredonia",
+    "region": "Antioquia",
+    "lat": 5.8924,
+    "lon": -75.6855,
+    "population": 23333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chigorodó",
+    "region": "Antioquia",
+    "lat": 7.6664,
+    "lon": -76.6811,
+    "population": 23322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ráquira",
+    "region": "Boyacá",
+    "lat": 5.5379,
+    "lon": -73.632,
+    "population": 23270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majagual",
+    "region": "Sucre",
+    "lat": 8.535,
+    "lon": -74.715,
+    "population": 23253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obando",
+    "region": "Valle del Cauca",
+    "lat": 4.5959,
+    "lon": -75.9488,
+    "population": 23233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Córdoba",
+    "lat": 8.7958,
+    "lon": -75.6995,
+    "population": 23124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nobsa",
+    "region": "Boyacá",
+    "lat": 5.7698,
+    "lon": -72.941,
+    "population": 23114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pradera",
+    "region": "Valle del Cauca",
+    "lat": 3.4279,
+    "lon": -76.1716,
+    "population": 23008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cali",
+    "region": "Valle del Cauca",
+    "lat": 3.4103,
+    "lon": -76.581,
+    "population": 22944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atrato",
+    "region": "Chocó",
+    "lat": 5.5736,
+    "lon": -76.6406,
+    "population": 22843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guachené",
+    "region": "Cauca",
+    "lat": 3.1336,
+    "lon": -76.3926,
+    "population": 22802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayatá",
+    "region": "Boyacá",
+    "lat": 4.9642,
+    "lon": -73.4875,
+    "population": 22775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nataga",
+    "region": "Huila",
+    "lat": 2.5439,
+    "lon": -75.8086,
+    "population": 22736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teruel",
+    "region": "Huila",
+    "lat": 2.7406,
+    "lon": -75.5683,
+    "population": 22729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "Caldas",
+    "lat": 5.4567,
+    "lon": -74.8406,
+    "population": 22695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Providencia",
+    "region": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+    "lat": 13.3848,
+    "lon": -81.3747,
+    "population": 22690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Urabá",
+    "region": "Antioquia",
+    "lat": 8.7592,
+    "lon": -76.5297,
+    "population": 22687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maní",
+    "region": "Casanare",
+    "lat": 4.8164,
+    "lon": -72.2795,
+    "population": 22618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arauquita",
+    "region": "Arauca",
+    "lat": 7.0292,
+    "lon": -71.4281,
+    "population": 22556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sesquilé",
+    "region": "Cundinamarca",
+    "lat": 5.0446,
+    "lon": -73.7972,
+    "population": 22420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Vega",
+    "region": "Cundinamarca",
+    "lat": 4.9738,
+    "lon": -74.3448,
+    "population": 22399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Betulia",
+    "region": "Santander",
+    "lat": 6.9007,
+    "lon": -73.2835,
+    "population": 22337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juradó",
+    "region": "Chocó",
+    "lat": 7.1042,
+    "lon": -77.762,
+    "population": 22328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Nariño",
+    "lat": 1.6045,
+    "lon": -77.1315,
+    "population": 22308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abriaquí",
+    "region": "Antioquia",
+    "lat": 6.6315,
+    "lon": -76.0644,
+    "population": 22279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sácama",
+    "region": "Casanare",
+    "lat": 6.0991,
+    "lon": -72.2488,
+    "population": 22190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Celia",
+    "region": "Risaralda",
+    "lat": 5.0033,
+    "lon": -76.0036,
+    "population": 22141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivolo",
+    "region": "Magdalena",
+    "lat": 10.0264,
+    "lon": -74.6214,
+    "population": 22116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monguí",
+    "region": "Boyacá",
+    "lat": 5.6975,
+    "lon": -72.8336,
+    "population": 22067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamina",
+    "region": "Magdalena",
+    "lat": 10.4903,
+    "lon": -74.7946,
+    "population": 22004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paime",
+    "region": "Cundinamarca",
+    "lat": 5.3705,
+    "lon": -74.1522,
+    "population": 21953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Entrerrios",
+    "region": "Antioquia",
+    "lat": 6.5833,
+    "lon": -75.5833,
+    "population": 21949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael",
+    "region": "Antioquia",
+    "lat": 6.3123,
+    "lon": -75.0243,
+    "population": 21939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutatausa",
+    "region": "Cundinamarca",
+    "lat": 5.2478,
+    "lon": -73.8524,
+    "population": 21937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yavaraté",
+    "region": "Vaupés",
+    "lat": 0.8283,
+    "lon": -69.6296,
+    "population": 21888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Rico",
+    "region": "Risaralda",
+    "lat": 5.2945,
+    "lon": -76.067,
+    "population": 21877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamarra",
+    "region": "Cesar",
+    "lat": 8.3297,
+    "lon": -73.7177,
+    "population": 21871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salgar",
+    "region": "Antioquia",
+    "lat": 5.9671,
+    "lon": -75.9875,
+    "population": 21849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moniquirá",
+    "region": "Boyacá",
+    "lat": 5.8431,
+    "lon": -73.5777,
+    "population": 21817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Uré",
+    "region": "Córdoba",
+    "lat": 7.7872,
+    "lon": -75.5331,
+    "population": 21816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pinillos",
+    "region": "Bolívar",
+    "lat": 8.9192,
+    "lon": -74.4677,
+    "population": 21792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Güicán",
+    "region": "Boyacá",
+    "lat": 6.4655,
+    "lon": -72.4154,
+    "population": 21745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago",
+    "region": "Putumayo",
+    "lat": 1.1484,
+    "lon": -77.0045,
+    "population": 21738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saboyá",
+    "region": "Boyacá",
+    "lat": 5.6964,
+    "lon": -73.7693,
+    "population": 21718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toca",
+    "region": "Boyacá",
+    "lat": 5.5639,
+    "lon": -73.184,
+    "population": 21701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalán",
+    "region": "Sucre",
+    "lat": 9.5477,
+    "lon": -75.3113,
+    "population": 21662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cerrito",
+    "region": "Valle del Cauca",
+    "lat": 3.6427,
+    "lon": -76.2096,
+    "population": 21554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tello",
+    "region": "Huila",
+    "lat": 3.0667,
+    "lon": -75.1386,
+    "population": 21542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Antioquia",
+    "lat": 6.0422,
+    "lon": -74.9933,
+    "population": 21537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berbeo",
+    "region": "Boyacá",
+    "lat": 5.2276,
+    "lon": -73.1253,
+    "population": 21495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chocontá",
+    "region": "Cundinamarca",
+    "lat": 5.1447,
+    "lon": -73.6858,
+    "population": 21434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ariguaní",
+    "region": "Magdalena",
+    "lat": 9.8938,
+    "lon": -74.1358,
+    "population": 21328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cértegui",
+    "region": "Chocó",
+    "lat": 5.3707,
+    "lon": -76.6044,
+    "population": 21296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pinchote",
+    "region": "Santander",
+    "lat": 6.5323,
+    "lon": -73.1731,
+    "population": 21233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pesca",
+    "region": "Boyacá",
+    "lat": 5.5021,
+    "lon": -73.0879,
+    "population": 21182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Peñón",
+    "region": "Bolívar",
+    "lat": 8.9869,
+    "lon": -73.947,
+    "population": 21151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayabal de Siquima",
+    "region": "Cundinamarca",
+    "lat": 4.8788,
+    "lon": -74.4831,
+    "population": 21099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medio San Juan",
+    "region": "Chocó",
+    "lat": 5.0928,
+    "lon": -76.6953,
+    "population": 21066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medio Atrato",
+    "region": "Chocó",
+    "lat": 5.995,
+    "lon": -76.7825,
+    "population": 21003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Catalina",
+    "region": "Bolívar",
+    "lat": 10.6045,
+    "lon": -75.2956,
+    "population": 20993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Tejada",
+    "region": "Cauca",
+    "lat": 3.2339,
+    "lon": -76.4193,
+    "population": 20990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panqueba",
+    "region": "Boyacá",
+    "lat": 6.4453,
+    "lon": -72.4627,
+    "population": 20974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Merced",
+    "region": "Caldas",
+    "lat": 5.3806,
+    "lon": -75.5884,
+    "population": 20953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Girardot",
+    "region": "Cundinamarca",
+    "lat": 4.318,
+    "lon": -74.835,
+    "population": 20935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "Cauca",
+    "lat": 1.7006,
+    "lon": -76.5728,
+    "population": 20812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corinto",
+    "region": "Cauca",
+    "lat": 3.136,
+    "lon": -76.2065,
+    "population": 20788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imués",
+    "region": "Nariño",
+    "lat": 1.0552,
+    "lon": -77.4967,
+    "population": 20714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calamar",
+    "region": "Guaviare",
+    "lat": 1.9596,
+    "lon": -72.6531,
+    "population": 20713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guadalajara de Buga",
+    "region": "Valle del Cauca",
+    "lat": 3.9009,
+    "lon": -76.2978,
+    "population": 20706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retiro",
+    "region": "Antioquia",
+    "lat": 6.0591,
+    "lon": -75.5149,
+    "population": 20692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quetame",
+    "region": "Cundinamarca",
+    "lat": 4.3323,
+    "lon": -73.8614,
+    "population": 20678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jericó",
+    "region": "Antioquia",
+    "lat": 5.7921,
+    "lon": -75.786,
+    "population": 20611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alejandría",
+    "region": "Antioquia",
+    "lat": 6.3667,
+    "lon": -75.0833,
+    "population": 20575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián de Buenavista",
+    "region": "Magdalena",
+    "lat": 9.2392,
+    "lon": -74.3519,
+    "population": 20557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caruru",
+    "region": "Vaupés",
+    "lat": 1.0208,
+    "lon": -71.3379,
+    "population": 20539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Necoclí",
+    "region": "Antioquia",
+    "lat": 8.4263,
+    "lon": -76.7893,
+    "population": 20536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arboletes",
+    "region": "Antioquia",
+    "lat": 8.8505,
+    "lon": -76.4269,
+    "population": 20522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soledad",
+    "region": "Atlántico",
+    "lat": 10.8999,
+    "lon": -74.7879,
+    "population": 20477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ragonvalia",
+    "region": "Norte de Santander",
+    "lat": 7.5775,
+    "lon": -72.4757,
+    "population": 20419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caicedonia",
+    "region": "Valle del Cauca",
+    "lat": 4.3324,
+    "lon": -75.8267,
+    "population": 20373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apartadó",
+    "region": "Antioquia",
+    "lat": 7.883,
+    "lon": -76.6259,
+    "population": 20346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toribio",
+    "region": "Cauca",
+    "lat": 3,
+    "lon": -76.1667,
+    "population": 20326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenerife",
+    "region": "Magdalena",
+    "lat": 9.932,
+    "lon": -74.7347,
+    "population": 20295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paya",
+    "region": "Boyacá",
+    "lat": 5.6249,
+    "lon": -72.4235,
+    "population": 20293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Dovio",
+    "region": "Valle del Cauca",
+    "lat": 4.5079,
+    "lon": -76.2362,
+    "population": 20259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almeida",
+    "region": "Boyacá",
+    "lat": 4.9708,
+    "lon": -73.3797,
+    "population": 20243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argelia",
+    "region": "Antioquia",
+    "lat": 5.7313,
+    "lon": -75.1426,
+    "population": 20189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandoná",
+    "region": "Nariño",
+    "lat": 1.2863,
+    "lon": -77.4692,
+    "population": 20172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguachica",
+    "region": "Cesar",
+    "lat": 8.3084,
+    "lon": -73.6166,
+    "population": 20166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hispania",
+    "region": "Antioquia",
+    "lat": 5.7992,
+    "lon": -75.9072,
+    "population": 20141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Regidor",
+    "region": "Bolívar",
+    "lat": 8.7223,
+    "lon": -73.8489,
+    "population": 19993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nariño",
+    "region": "Nariño",
+    "lat": 1.2899,
+    "lon": -77.3572,
+    "population": 19981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curillo",
+    "region": "Caquetá",
+    "lat": 1.0333,
+    "lon": -75.9191,
+    "population": 19956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Subachoque",
+    "region": "Cundinamarca",
+    "lat": 4.9261,
+    "lon": -74.173,
+    "population": 19950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmira",
+    "region": "Valle del Cauca",
+    "lat": 3.5397,
+    "lon": -76.2261,
+    "population": 19892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arboledas",
+    "region": "Norte de Santander",
+    "lat": 7.6349,
+    "lon": -72.8605,
+    "population": 19861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Quito",
+    "region": "Chocó",
+    "lat": 5.5167,
+    "lon": -76.75,
+    "population": 19845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páez",
+    "region": "Cauca",
+    "lat": 2.6464,
+    "lon": -75.9727,
+    "population": 19823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valledupar",
+    "region": "Cesar",
+    "lat": 10.4631,
+    "lon": -73.2532,
+    "population": 19805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Salina",
+    "region": "Casanare",
+    "lat": 6.1276,
+    "lon": -72.3342,
+    "population": 19766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Albán",
+    "region": "Nariño",
+    "lat": 1.4739,
+    "lon": -77.0808,
+    "population": 19743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gachancipá",
+    "region": "Cundinamarca",
+    "lat": 4.9911,
+    "lon": -73.8715,
+    "population": 19732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sativasur",
+    "region": "Boyacá",
+    "lat": 6.0896,
+    "lon": -72.7243,
+    "population": 19725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tópaga",
+    "region": "Boyacá",
+    "lat": 5.7598,
+    "lon": -72.8258,
+    "population": 19653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zambrano",
+    "region": "Bolívar",
+    "lat": 9.7482,
+    "lon": -74.8849,
+    "population": 19595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sopó",
+    "region": "Cundinamarca",
+    "lat": 4.9075,
+    "lon": -73.9384,
+    "population": 19483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Rico",
+    "region": "Caquetá",
+    "lat": 1.91,
+    "lon": -75.1593,
+    "population": 19467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almaguer",
+    "region": "Cauca",
+    "lat": 1.9147,
+    "lon": -76.8548,
+    "population": 19457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Nariño",
+    "lat": 1.5948,
+    "lon": -77.0541,
+    "population": 19394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capitanejo",
+    "region": "Santander",
+    "lat": 6.5288,
+    "lon": -72.6959,
+    "population": 19333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Antioquia",
+    "lat": 6.4728,
+    "lon": -75.1655,
+    "population": 19245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juanito",
+    "region": "Meta",
+    "lat": 4.4586,
+    "lon": -73.6756,
+    "population": 19240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samaná",
+    "region": "Caldas",
+    "lat": 5.5406,
+    "lon": -74.9935,
+    "population": 19229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guamo",
+    "region": "Bolívar",
+    "lat": 10.0175,
+    "lon": -74.9348,
+    "population": 19206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranquilla",
+    "region": "Atlántico",
+    "lat": 10.9685,
+    "lon": -74.7813,
+    "population": 19181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villanueva",
+    "region": "Santander",
+    "lat": 6.6717,
+    "lon": -73.1742,
+    "population": 19181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Socorro",
+    "region": "Santander",
+    "lat": 6.4565,
+    "lon": -73.255,
+    "population": 19165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaparral",
+    "region": "Tolima",
+    "lat": 3.75,
+    "lon": -75.5833,
+    "population": 19162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ospina",
+    "region": "Nariño",
+    "lat": 1.0296,
+    "lon": -77.5525,
+    "population": 19069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Macarena",
+    "region": "Meta",
+    "lat": 2.007,
+    "lon": -74.0732,
+    "population": 19029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taraira",
+    "region": "Vaupés",
+    "lat": -0.7483,
+    "lon": -69.8966,
+    "population": 19019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florencia",
+    "region": "Caquetá",
+    "lat": 1.7162,
+    "lon": -75.5962,
+    "population": 19000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aldana",
+    "region": "Nariño",
+    "lat": 0.8828,
+    "lon": -77.701,
+    "population": 18976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Natagaima",
+    "region": "Tolima",
+    "lat": 3.5521,
+    "lon": -75.1135,
+    "population": 18923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ginebra",
+    "region": "Valle del Cauca",
+    "lat": 3.743,
+    "lon": -76.1941,
+    "population": 18863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuta",
+    "region": "Boyacá",
+    "lat": 5.6897,
+    "lon": -73.2278,
+    "population": 18849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa del Sur",
+    "region": "Bolívar",
+    "lat": 7.9644,
+    "lon": -74.0544,
+    "population": 18816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yumbo",
+    "region": "Valle del Cauca",
+    "lat": 3.5823,
+    "lon": -76.4915,
+    "population": 18731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cáceres",
+    "region": "Antioquia",
+    "lat": 7.6825,
+    "lon": -75.2248,
+    "population": 18727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Sucre",
+    "lat": 8.8497,
+    "lon": -75.2794,
+    "population": 18722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viotá",
+    "region": "Cundinamarca",
+    "lat": 4.4371,
+    "lon": -74.5216,
+    "population": 18701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Confines",
+    "region": "Santander",
+    "lat": 6.3487,
+    "lon": -73.2099,
+    "population": 18670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charta",
+    "region": "Santander",
+    "lat": 7.2802,
+    "lon": -72.9678,
+    "population": 18634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumaco",
+    "region": "Nariño",
+    "lat": 1.7911,
+    "lon": -78.7927,
+    "population": 18633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dibulla",
+    "region": "La Guajira",
+    "lat": 11.2725,
+    "lon": -73.3091,
+    "population": 18629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Paso",
+    "region": "Cesar",
+    "lat": 9.6572,
+    "lon": -73.7468,
+    "population": 18622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armenia",
+    "region": "Quindío",
+    "lat": 4.5331,
+    "lon": -75.7044,
+    "population": 18616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miriti - Paraná",
+    "region": "Amazonas",
+    "lat": -0.8186,
+    "lon": -70.7892,
+    "population": 18615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tena",
+    "region": "Cundinamarca",
+    "lat": 4.66,
+    "lon": -74.3926,
+    "population": 18604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Roque",
+    "region": "Antioquia",
+    "lat": 6.4851,
+    "lon": -75.0196,
+    "population": 18594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés de Cuerquía",
+    "region": "Antioquia",
+    "lat": 6.9033,
+    "lon": -75.6825,
+    "population": 18565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fernando",
+    "region": "Bolívar",
+    "lat": 9.2797,
+    "lon": -74.5339,
+    "population": 18486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arboleda",
+    "region": "Nariño",
+    "lat": 1.4983,
+    "lon": -77.1361,
+    "population": 18481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Icononzo",
+    "region": "Tolima",
+    "lat": 4.177,
+    "lon": -74.5325,
+    "population": 18471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Támesis",
+    "region": "Antioquia",
+    "lat": 5.6646,
+    "lon": -75.7134,
+    "population": 18390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cunday",
+    "region": "Tolima",
+    "lat": 4.0028,
+    "lon": -74.6929,
+    "population": 18360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coper",
+    "region": "Boyacá",
+    "lat": 5.4768,
+    "lon": -74.0442,
+    "population": 18339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carmen de Viboral",
+    "region": "Antioquia",
+    "lat": 6.0824,
+    "lon": -75.3351,
+    "population": 18300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gutiérrez",
+    "region": "Cundinamarca",
+    "lat": 4.1849,
+    "lon": -74.0117,
+    "population": 18249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Guadalupe",
+    "region": "Guainía",
+    "lat": 1.3958,
+    "lon": -67.0015,
+    "population": 18220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casabianca",
+    "region": "Tolima",
+    "lat": 5.0796,
+    "lon": -75.1206,
+    "population": 18185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Covarachía",
+    "region": "Boyacá",
+    "lat": 6.5056,
+    "lon": -72.7331,
+    "population": 18160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salazar",
+    "region": "Norte de Santander",
+    "lat": 7.7825,
+    "lon": -72.8574,
+    "population": 18159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boyacá",
+    "region": "Boyacá",
+    "lat": 5.4537,
+    "lon": -73.3625,
+    "population": 18090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contratación",
+    "region": "Santander",
+    "lat": 6.29,
+    "lon": -73.4735,
+    "population": 18040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abrego",
+    "region": "Norte de Santander",
+    "lat": 8,
+    "lon": -73.2,
+    "population": 18015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agustín Codazzi",
+    "region": "Cesar",
+    "lat": 10.0367,
+    "lon": -73.2356,
+    "population": 17943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marinilla",
+    "region": "Antioquia",
+    "lat": 6.1961,
+    "lon": -75.3031,
+    "population": 17927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Socotá",
+    "region": "Boyacá",
+    "lat": 6.0403,
+    "lon": -72.6351,
+    "population": 17791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cicuco",
+    "region": "Bolívar",
+    "lat": 9.2776,
+    "lon": -74.6431,
+    "population": 17735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaduas",
+    "region": "Cundinamarca",
+    "lat": 5.0743,
+    "lon": -74.5985,
+    "population": 17691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenavista",
+    "region": "Quindío",
+    "lat": 4.3597,
+    "lon": -75.7389,
+    "population": 17655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pácora",
+    "region": "Caldas",
+    "lat": 5.5063,
+    "lon": -75.4905,
+    "population": 17654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ansermanuevo",
+    "region": "Valle del Cauca",
+    "lat": 4.7972,
+    "lon": -75.995,
+    "population": 17647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teorama",
+    "region": "Norte de Santander",
+    "lat": 8.4353,
+    "lon": -73.2864,
+    "population": 17638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Santander",
+    "region": "Amazonas",
+    "lat": -1.0987,
+    "lon": -71.9391,
+    "population": 17598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nemocón",
+    "region": "Cundinamarca",
+    "lat": 5.0677,
+    "lon": -73.8777,
+    "population": 17590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pore",
+    "region": "Casanare",
+    "lat": 5.7279,
+    "lon": -71.9927,
+    "population": 17546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buriticá",
+    "region": "Antioquia",
+    "lat": 6.8055,
+    "lon": -75.9209,
+    "population": 17496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sardinata",
+    "region": "Norte de Santander",
+    "lat": 8.0829,
+    "lon": -72.8007,
+    "population": 17401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gachantivá",
+    "region": "Boyacá",
+    "lat": 5.7442,
+    "lon": -73.5425,
+    "population": 17385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cruz",
+    "region": "Nariño",
+    "lat": 1.6022,
+    "lon": -76.9713,
+    "population": 17383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Primavera",
+    "region": "Vichada",
+    "lat": 5.4906,
+    "lon": -70.4092,
+    "population": 17356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasto",
+    "region": "Nariño",
+    "lat": 1.2147,
+    "lon": -77.2786,
+    "population": 17252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitalito",
+    "region": "Huila",
+    "lat": 1.8539,
+    "lon": -76.0514,
+    "population": 17189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gachetá",
+    "region": "Cundinamarca",
+    "lat": 4.871,
+    "lon": -73.6173,
+    "population": 17183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aranzazu",
+    "region": "Caldas",
+    "lat": 5.2552,
+    "lon": -75.5098,
+    "population": 17137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivatá",
+    "region": "Boyacá",
+    "lat": 5.5582,
+    "lon": -73.282,
+    "population": 17130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landázuri",
+    "region": "Santander",
+    "lat": 6.2183,
+    "lon": -73.8112,
+    "population": 17106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fúquene",
+    "region": "Cundinamarca",
+    "lat": 5.4199,
+    "lon": -73.77,
+    "population": 17100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caramanta",
+    "region": "Antioquia",
+    "lat": 5.5414,
+    "lon": -75.6696,
+    "population": 17079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gambita",
+    "region": "Santander",
+    "lat": 5.9027,
+    "lon": -73.3679,
+    "population": 17061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chita",
+    "region": "Boyacá",
+    "lat": 6.0779,
+    "lon": -72.4677,
+    "population": 17003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Piñon",
+    "region": "Magdalena",
+    "lat": 10.3333,
+    "lon": -74.6667,
+    "population": 16998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garzón",
+    "region": "Huila",
+    "lat": 2.1961,
+    "lon": -75.6292,
+    "population": 16984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puebloviejo",
+    "region": "Magdalena",
+    "lat": 10.8424,
+    "lon": -74.3854,
+    "population": 16951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Vega",
+    "region": "Cauca",
+    "lat": 2.062,
+    "lon": -76.7681,
+    "population": 16941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ubalá",
+    "region": "Cundinamarca",
+    "lat": 4.7478,
+    "lon": -72.5369,
+    "population": 16933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calamar",
+    "region": "Bolívar",
+    "lat": 10.2338,
+    "lon": -74.9424,
+    "population": 16896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giraldo",
+    "region": "Antioquia",
+    "lat": 6.6667,
+    "lon": -75.9535,
+    "population": 16880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simití",
+    "region": "Bolívar",
+    "lat": 7.8163,
+    "lon": -73.9792,
+    "population": 16819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabio",
+    "region": "Cundinamarca",
+    "lat": 4.9173,
+    "lon": -74.0936,
+    "population": 16802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aipe",
+    "region": "Huila",
+    "lat": 3.2219,
+    "lon": -75.2375,
+    "population": 16754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rionegro",
+    "region": "Antioquia",
+    "lat": 6.1667,
+    "lon": -75.4167,
+    "population": 16693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aratoca",
+    "region": "Santander",
+    "lat": 6.6943,
+    "lon": -73.0187,
+    "population": 16692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Togüí",
+    "region": "Boyacá",
+    "lat": 5.9346,
+    "lon": -73.513,
+    "population": 16647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz",
+    "region": "Cesar",
+    "lat": 10.1049,
+    "lon": -73.2206,
+    "population": 16569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José del Fragua",
+    "region": "Caquetá",
+    "lat": 1.3078,
+    "lon": -76.1655,
+    "population": 16545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Titiribí",
+    "region": "Antioquia",
+    "lat": 6.0628,
+    "lon": -75.7937,
+    "population": 16530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bucaramanga",
+    "region": "Santander",
+    "lat": 7.1254,
+    "lon": -73.1198,
+    "population": 16506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaguará",
+    "region": "Huila",
+    "lat": 2.6636,
+    "lon": -75.5175,
+    "population": 16504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solano",
+    "region": "Caquetá",
+    "lat": 0.2284,
+    "lon": -73.276,
+    "population": 16497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florencia",
+    "region": "Cauca",
+    "lat": 1.6832,
+    "lon": -77.0733,
+    "population": 16449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Güepsa",
+    "region": "Santander",
+    "lat": 6.0251,
+    "lon": -73.5731,
+    "population": 16436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buesaco",
+    "region": "Nariño",
+    "lat": 1.3836,
+    "lon": -77.1562,
+    "population": 16424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caldono",
+    "region": "Cauca",
+    "lat": 2.7974,
+    "lon": -76.4832,
+    "population": 16423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Génova",
+    "region": "Quindío",
+    "lat": 4.2274,
+    "lon": -75.7548,
+    "population": 16418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luruaco",
+    "region": "Atlántico",
+    "lat": 10.6171,
+    "lon": -75.1515,
+    "population": 16417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piojó",
+    "region": "Atlántico",
+    "lat": 10.7485,
+    "lon": -75.1078,
+    "population": 16376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Doncello",
+    "region": "Caquetá",
+    "lat": 1.6782,
+    "lon": -75.2847,
+    "population": 16194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Risaralda",
+    "region": "Caldas",
+    "lat": 5.1124,
+    "lon": -75.7586,
+    "population": 16188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cocuy",
+    "region": "Boyacá",
+    "lat": 6.3284,
+    "lon": -72.4358,
+    "population": 16067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fosca",
+    "region": "Cundinamarca",
+    "lat": 4.3392,
+    "lon": -73.9385,
+    "population": 16049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa del Rosario",
+    "region": "Norte de Santander",
+    "lat": 7.7582,
+    "lon": -72.4818,
+    "population": 16019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Córdobas",
+    "region": "Córdoba",
+    "lat": 8.894,
+    "lon": -76.3546,
+    "population": 15948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altos del Rosario",
+    "region": "Bolívar",
+    "lat": 8.7916,
+    "lon": -74.1656,
+    "population": 15902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Peña",
+    "region": "Cundinamarca",
+    "lat": 5.1985,
+    "lon": -74.3937,
+    "population": 15899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José del Guaviare",
+    "region": "Guaviare",
+    "lat": 2.5729,
+    "lon": -72.6459,
+    "population": 15895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cachirá",
+    "region": "Norte de Santander",
+    "lat": 7.75,
+    "lon": -73.1667,
+    "population": 15884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lejanías",
+    "region": "Meta",
+    "lat": 3.5276,
+    "lon": -74.0233,
+    "population": 15815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dagua",
+    "region": "Valle del Cauca",
+    "lat": 3.6568,
+    "lon": -76.6886,
+    "population": 15789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lérida",
+    "region": "Tolima",
+    "lat": 4.8624,
+    "lon": -74.9098,
+    "population": 15695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turmequé",
+    "region": "Boyacá",
+    "lat": 5.3236,
+    "lon": -73.4907,
+    "population": 15626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasca",
+    "region": "Cundinamarca",
+    "lat": 4.3072,
+    "lon": -74.3006,
+    "population": 15603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiscas",
+    "region": "Boyacá",
+    "lat": 6.5564,
+    "lon": -72.5038,
+    "population": 15567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabrera",
+    "region": "Santander",
+    "lat": 6.5644,
+    "lon": -73.2677,
+    "population": 15549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibaté",
+    "region": "Cundinamarca",
+    "lat": 4.4915,
+    "lon": -74.2596,
+    "population": 15526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés",
+    "region": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+    "lat": 12.5832,
+    "lon": -81.7064,
+    "population": 15515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carmen de Apicalá",
+    "region": "Tolima",
+    "lat": 4.1472,
+    "lon": -74.7201,
+    "population": 15476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenjo",
+    "region": "Cundinamarca",
+    "lat": 4.8727,
+    "lon": -74.1444,
+    "population": 15466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mallama",
+    "region": "Nariño",
+    "lat": 1.1411,
+    "lon": -77.8648,
+    "population": 15465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guamal",
+    "region": "Magdalena",
+    "lat": 9.1433,
+    "lon": -74.2238,
+    "population": 15378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durania",
+    "region": "Norte de Santander",
+    "lat": 7.7131,
+    "lon": -72.6576,
+    "population": 15339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Gaitán",
+    "region": "Meta",
+    "lat": 4.3133,
+    "lon": -72.0816,
+    "population": 15312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José del Palmar",
+    "region": "Chocó",
+    "lat": 4.8962,
+    "lon": -76.2342,
+    "population": 15297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés de Sotavento",
+    "region": "Córdoba",
+    "lat": 9.1218,
+    "lon": -75.5163,
+    "population": 15284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Córdoba",
+    "region": "Nariño",
+    "lat": 0.8536,
+    "lon": -77.5182,
+    "population": 15279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tununguá",
+    "region": "Boyacá",
+    "lat": 5.7297,
+    "lon": -73.9414,
+    "population": 15258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguadas",
+    "region": "Caldas",
+    "lat": 5.6116,
+    "lon": -75.4562,
+    "population": 15204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Convención",
+    "region": "Norte de Santander",
+    "lat": 8.8224,
+    "lon": -73.2285,
+    "population": 15194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuquí",
+    "region": "Chocó",
+    "lat": 5.7125,
+    "lon": -77.2708,
+    "population": 15157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magüí Payán",
+    "region": "Nariño",
+    "lat": 1.7665,
+    "lon": -78.1833,
+    "population": 15156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyohondo",
+    "region": "Bolívar",
+    "lat": 10.2522,
+    "lon": -75.0198,
+    "population": 15108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yacopí",
+    "region": "Cundinamarca",
+    "lat": 5.4595,
+    "lon": -74.3382,
+    "population": 15015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monterrey",
+    "region": "Casanare",
+    "lat": 4.8201,
+    "lon": -72.879,
+    "population": 15012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nechí",
+    "region": "Antioquia",
+    "lat": 8.0942,
+    "lon": -74.7757,
+    "population": 14979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Pintada",
+    "region": "Antioquia",
+    "lat": 5.7487,
+    "lon": -75.6063,
+    "population": 14921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armenia",
+    "region": "Antioquia",
+    "lat": 6.1755,
+    "lon": -75.8123,
+    "population": 14831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milán",
+    "region": "Caquetá",
+    "lat": 1.2903,
+    "lon": -75.5076,
+    "population": 14808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Miranda",
+    "region": "Santander",
+    "lat": 6.6305,
+    "lon": -72.7315,
+    "population": 14765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guapotá",
+    "region": "Santander",
+    "lat": 6.307,
+    "lon": -73.3285,
+    "population": 14712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gramalote",
+    "region": "Norte de Santander",
+    "lat": 7.8875,
+    "lon": -72.7975,
+    "population": 14695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiquinquirá",
+    "region": "Boyacá",
+    "lat": 5.6136,
+    "lon": -73.8385,
+    "population": 14669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ituango",
+    "region": "Antioquia",
+    "lat": 7.1712,
+    "lon": -75.764,
+    "population": 14632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanas de San Angel",
+    "region": "Magdalena",
+    "lat": 10.1107,
+    "lon": -74.2601,
+    "population": 14604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maceo",
+    "region": "Antioquia",
+    "lat": 6.552,
+    "lon": -74.7874,
+    "population": 14581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jerónimo",
+    "region": "Antioquia",
+    "lat": 6.4414,
+    "lon": -75.7078,
+    "population": 14541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Junín",
+    "region": "Cundinamarca",
+    "lat": 4.7073,
+    "lon": -73.6955,
+    "population": 14531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Santander",
+    "lat": 6.5758,
+    "lon": -72.6459,
+    "population": 14502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barichara",
+    "region": "Santander",
+    "lat": 6.6357,
+    "lon": -73.2228,
+    "population": 14468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solita",
+    "region": "Caquetá",
+    "lat": 0.8758,
+    "lon": -75.6197,
+    "population": 14420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canalete",
+    "region": "Córdoba",
+    "lat": 8.6761,
+    "lon": -76.2042,
+    "population": 14413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iquira",
+    "region": "Huila",
+    "lat": 2.6483,
+    "lon": -75.6364,
+    "population": 14413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chima",
+    "region": "Santander",
+    "lat": 6.3629,
+    "lon": -73.4253,
+    "population": 14406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distracción",
+    "region": "La Guajira",
+    "lat": 10.8978,
+    "lon": -72.8867,
+    "population": 14365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cravo Norte",
+    "region": "Arauca",
+    "lat": 6.3017,
+    "lon": -70.2041,
+    "population": 14245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villanueva",
+    "region": "Bolívar",
+    "lat": 10.4476,
+    "lon": -75.2657,
+    "population": 14113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barbosa",
+    "region": "Santander",
+    "lat": 5.9317,
+    "lon": -73.6151,
+    "population": 14092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cota",
+    "region": "Cundinamarca",
+    "lat": 4.8094,
+    "lon": -74.098,
+    "population": 14092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armero",
+    "region": "Tolima",
+    "lat": 5.0306,
+    "lon": -74.8844,
+    "population": 14078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coello",
+    "region": "Tolima",
+    "lat": 4.3733,
+    "lon": -74.8865,
+    "population": 14060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutiscua",
+    "region": "Norte de Santander",
+    "lat": 7.2981,
+    "lon": -72.7988,
+    "population": 14018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibirita",
+    "region": "Cundinamarca",
+    "lat": 5.0523,
+    "lon": -73.5046,
+    "population": 13962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Támara",
+    "region": "Casanare",
+    "lat": 5.83,
+    "lon": -72.1629,
+    "population": 13957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galeras",
+    "region": "Sucre",
+    "lat": 9.1609,
+    "lon": -75.0481,
+    "population": 13936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vetas",
+    "region": "Santander",
+    "lat": 7.3091,
+    "lon": -72.8712,
+    "population": 13885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Popayán",
+    "region": "Cauca",
+    "lat": 2.4382,
+    "lon": -76.6132,
+    "population": 13827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tocaima",
+    "region": "Cundinamarca",
+    "lat": 4.4607,
+    "lon": -74.6572,
+    "population": 13769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macheta",
+    "region": "Cundinamarca",
+    "lat": 5.0833,
+    "lon": -73.6167,
+    "population": 13745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silvania",
+    "region": "Cundinamarca",
+    "lat": 4.4037,
+    "lon": -74.3867,
+    "population": 13731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Helena Del Opón",
+    "region": "Santander",
+    "lat": 6.3392,
+    "lon": -73.6167,
+    "population": 13663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unguía",
+    "region": "Chocó",
+    "lat": 8.0436,
+    "lon": -77.0914,
+    "population": 13599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedraza",
+    "region": "Magdalena",
+    "lat": 10.1874,
+    "lon": -74.915,
+    "population": 13572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Viejo",
+    "region": "Bolívar",
+    "lat": 8.5874,
+    "lon": -73.839,
+    "population": 13519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Venecia",
+    "region": "Antioquia",
+    "lat": 5.9542,
+    "lon": -75.799,
+    "population": 13511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inírida",
+    "region": "Guainía",
+    "lat": 3.8653,
+    "lon": -67.9239,
+    "population": 13484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerrito",
+    "region": "Santander",
+    "lat": 6.8431,
+    "lon": -72.694,
+    "population": 13418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatavita",
+    "region": "Cundinamarca",
+    "lat": 4.9366,
+    "lon": -73.8331,
+    "population": 13372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turbaco",
+    "region": "Bolívar",
+    "lat": 10.3571,
+    "lon": -75.3804,
+    "population": 13372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quinchía",
+    "region": "Risaralda",
+    "lat": 5.3396,
+    "lon": -75.7302,
+    "population": 13336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pensilvania",
+    "region": "Caldas",
+    "lat": 5.3884,
+    "lon": -75.2042,
+    "population": 13320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carcasí",
+    "region": "Santander",
+    "lat": 6.6271,
+    "lon": -72.6262,
+    "population": 13252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montenegro",
+    "region": "Quindío",
+    "lat": 4.5268,
+    "lon": -75.8226,
+    "population": 13248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Líbano",
+    "region": "Tolima",
+    "lat": 4.8356,
+    "lon": -75.1083,
+    "population": 13163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Patios",
+    "region": "Norte de Santander",
+    "lat": 7.8379,
+    "lon": -72.5037,
+    "population": 13154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de los Milagros",
+    "region": "Antioquia",
+    "lat": 6.4594,
+    "lon": -75.5578,
+    "population": 13094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ubaque",
+    "region": "Cundinamarca",
+    "lat": 4.4867,
+    "lon": -73.9375,
+    "population": 13077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fresno",
+    "region": "Tolima",
+    "lat": 5.1526,
+    "lon": -75.0362,
+    "population": 13055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nóvita",
+    "region": "Chocó",
+    "lat": 4.9551,
+    "lon": -76.6053,
+    "population": 13044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibundoy",
+    "region": "Putumayo",
+    "lat": 1.203,
+    "lon": -76.9227,
+    "population": 12967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granada",
+    "region": "Antioquia",
+    "lat": 6.1435,
+    "lon": -75.1853,
+    "population": 12966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pisba",
+    "region": "Boyacá",
+    "lat": 5.724,
+    "lon": -72.4865,
+    "population": 12922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal",
+    "region": "Bolívar",
+    "lat": 9.8781,
+    "lon": -75.2525,
+    "population": 12917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quimbaya",
+    "region": "Quindío",
+    "lat": 4.5934,
+    "lon": -75.8376,
+    "population": 12801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cartagena de Indias",
+    "region": "Bolívar",
+    "lat": 10.3997,
+    "lon": -75.5144,
+    "population": 12798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saladoblanco",
+    "region": "Huila",
+    "lat": 1.9933,
+    "lon": -76.0453,
+    "population": 12733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arenal",
+    "region": "Bolívar",
+    "lat": 8.4593,
+    "lon": -73.9433,
+    "population": 12730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumaribo",
+    "region": "Vichada",
+    "lat": 4.4455,
+    "lon": -69.799,
+    "population": 12700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Iro",
+    "region": "Chocó",
+    "lat": 5.1833,
+    "lon": -76.4833,
+    "population": 12672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iles",
+    "region": "Nariño",
+    "lat": 0.9704,
+    "lon": -77.5215,
+    "population": 12647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cayetano",
+    "region": "Norte de Santander",
+    "lat": 7.8477,
+    "lon": -72.6101,
+    "population": 12629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tota",
+    "region": "Boyacá",
+    "lat": 5.5583,
+    "lon": -72.9876,
+    "population": 12607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimá",
+    "region": "Córdoba",
+    "lat": 9.1489,
+    "lon": -75.6284,
+    "population": 12541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Rica",
+    "region": "Cauca",
+    "lat": 2.5142,
+    "lon": -76.8494,
+    "population": 12529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bernardo",
+    "region": "Nariño",
+    "lat": 1.5152,
+    "lon": -77.0468,
+    "population": 12516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa de Leyva",
+    "region": "Boyacá",
+    "lat": 5.6706,
+    "lon": -73.5155,
+    "population": 12479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Tolima",
+    "lat": 3.9566,
+    "lon": -75.5,
+    "population": 12471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bernardo del Viento",
+    "region": "Córdoba",
+    "lat": 9.3533,
+    "lon": -75.9524,
+    "population": 12467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Isabel",
+    "region": "Tolima",
+    "lat": 4.7263,
+    "lon": -75.2239,
+    "population": 12416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosconia",
+    "region": "Cesar",
+    "lat": 9.9761,
+    "lon": -73.8903,
+    "population": 12325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roberto Payán",
+    "region": "Nariño",
+    "lat": 1.9176,
+    "lon": -78.3819,
+    "population": 12276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unión Panamericana",
+    "region": "Chocó",
+    "lat": 5.2814,
+    "lon": -76.63,
+    "population": 12116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campohermoso",
+    "region": "Boyacá",
+    "lat": 4.9773,
+    "lon": -73.1671,
+    "population": 12101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soatá",
+    "region": "Boyacá",
+    "lat": 6.2997,
+    "lon": -72.7242,
+    "population": 12086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuluá",
+    "region": "Valle del Cauca",
+    "lat": 4.0847,
+    "lon": -76.1954,
+    "population": 12071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carmen de Atrato",
+    "region": "Chocó",
+    "lat": 5.8333,
+    "lon": -76.25,
+    "population": 12044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Joaquín",
+    "region": "Santander",
+    "lat": 6.4655,
+    "lon": -72.8485,
+    "population": 12031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosquera",
+    "region": "Cundinamarca",
+    "lat": 4.6894,
+    "lon": -74.236,
+    "population": 11972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argelia",
+    "region": "Valle del Cauca",
+    "lat": 4.729,
+    "lon": -76.1164,
+    "population": 11926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rondón",
+    "region": "Boyacá",
+    "lat": 5.3817,
+    "lon": -73.1968,
+    "population": 11921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molagavita",
+    "region": "Santander",
+    "lat": 6.6731,
+    "lon": -72.8088,
+    "population": 11873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutatenza",
+    "region": "Boyacá",
+    "lat": 5.0231,
+    "lon": -73.4523,
+    "population": 11847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riofrío",
+    "region": "Valle del Cauca",
+    "lat": 4.1571,
+    "lon": -76.2885,
+    "population": 11816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villavicencio",
+    "region": "Meta",
+    "lat": 4.0742,
+    "lon": -73.4915,
+    "population": 11804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bojacá",
+    "region": "Cundinamarca",
+    "lat": 4.7318,
+    "lon": -74.3413,
+    "population": 11775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cubarral",
+    "region": "Meta",
+    "lat": 3.7954,
+    "lon": -73.8406,
+    "population": 11766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urrao",
+    "region": "Antioquia",
+    "lat": 6.317,
+    "lon": -76.1342,
+    "population": 11731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concordia",
+    "region": "Magdalena",
+    "lat": 9.8354,
+    "lon": -74.4555,
+    "population": 11676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piendamo",
+    "region": "Cauca",
+    "lat": 2.6392,
+    "lon": -76.5306,
+    "population": 11662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patía",
+    "region": "Cauca",
+    "lat": 2.1402,
+    "lon": -77.0174,
+    "population": 11651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leiva",
+    "region": "Nariño",
+    "lat": 1.935,
+    "lon": -77.3063,
+    "population": 11594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orocué",
+    "region": "Casanare",
+    "lat": 4.7904,
+    "lon": -71.3392,
+    "population": 11590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sipí",
+    "region": "Chocó",
+    "lat": 4.6537,
+    "lon": -76.6444,
+    "population": 11586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peñol",
+    "region": "Antioquia",
+    "lat": 6.2343,
+    "lon": -75.2257,
+    "population": 11584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arauca",
+    "region": "Arauca",
+    "lat": 7.0847,
+    "lon": -70.7591,
+    "population": 11583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curití",
+    "region": "Santander",
+    "lat": 6.6052,
+    "lon": -73.0681,
+    "population": 11530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pandi",
+    "region": "Cundinamarca",
+    "lat": 4.1803,
+    "lon": -74.471,
+    "population": 11495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guadalupe",
+    "region": "Antioquia",
+    "lat": 6.8145,
+    "lon": -75.2406,
+    "population": 11490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosalia",
+    "region": "Vichada",
+    "lat": 5.1336,
+    "lon": -70.8623,
+    "population": 11459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tipacoque",
+    "region": "Boyacá",
+    "lat": 6.4203,
+    "lon": -72.6918,
+    "population": 11458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corozal",
+    "region": "Sucre",
+    "lat": 9.3185,
+    "lon": -75.2933,
+    "population": 11421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garagoa",
+    "region": "Boyacá",
+    "lat": 5.0824,
+    "lon": -73.3633,
+    "population": 11388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Jagua de Ibirico",
+    "region": "Cesar",
+    "lat": 9.5623,
+    "lon": -73.3341,
+    "population": 11372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guavatá",
+    "region": "Santander",
+    "lat": 5.955,
+    "lon": -73.7002,
+    "population": 11362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yacuanquer",
+    "region": "Nariño",
+    "lat": 1.1158,
+    "lon": -77.4017,
+    "population": 11349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguazul",
+    "region": "Casanare",
+    "lat": 5.1728,
+    "lon": -72.5471,
+    "population": 11142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibagué",
+    "region": "Tolima",
+    "lat": 4.4389,
+    "lon": -75.2322,
+    "population": 11055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Marta",
+    "region": "Magdalena",
+    "lat": 11.2435,
+    "lon": -74.2083,
+    "population": 11020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puente Nacional",
+    "region": "Santander",
+    "lat": 5.8774,
+    "lon": -73.6781,
+    "population": 10919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomás",
+    "region": "Atlántico",
+    "lat": 10.7577,
+    "lon": -74.7545,
+    "population": 10862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Charco",
+    "region": "Nariño",
+    "lat": 2.4793,
+    "lon": -78.1097,
+    "population": 10820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos de Guaroa",
+    "region": "Meta",
+    "lat": 3.7116,
+    "lon": -73.2434,
+    "population": 10760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samacá",
+    "region": "Boyacá",
+    "lat": 5.4927,
+    "lon": -73.4854,
+    "population": 10735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Boyacá",
+    "lat": 4.8228,
+    "lon": -73.2537,
+    "population": 10719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antero",
+    "region": "Córdoba",
+    "lat": 9.3741,
+    "lon": -75.7589,
+    "population": 10708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis de Palenque",
+    "region": "Casanare",
+    "lat": 5.4214,
+    "lon": -71.7317,
+    "population": 10680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pauna",
+    "region": "Boyacá",
+    "lat": 5.6586,
+    "lon": -73.9825,
+    "population": 10588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tambo",
+    "region": "Cauca",
+    "lat": 2.452,
+    "lon": -76.8103,
+    "population": 10576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Benito",
+    "region": "Santander",
+    "lat": 6.1021,
+    "lon": -73.5375,
+    "population": 10549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jambaló",
+    "region": "Cauca",
+    "lat": 2.8506,
+    "lon": -76.3251,
+    "population": 10544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Francisco Pizarro",
+    "region": "Nariño",
+    "lat": 2.0406,
+    "lon": -78.6588,
+    "population": 10541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suaita",
+    "region": "Santander",
+    "lat": 6.0822,
+    "lon": -73.3701,
+    "population": 10448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páramo",
+    "region": "Santander",
+    "lat": 6.4375,
+    "lon": -73.1803,
+    "population": 10431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciénaga de Oro",
+    "region": "Córdoba",
+    "lat": 8.8358,
+    "lon": -75.6042,
+    "population": 10375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morales",
+    "region": "Bolívar",
+    "lat": 8.2752,
+    "lon": -73.8688,
+    "population": 10358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cucunubá",
+    "region": "Cundinamarca",
+    "lat": 5.2496,
+    "lon": -73.7661,
+    "population": 10261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarne",
+    "region": "Antioquia",
+    "lat": 6.2835,
+    "lon": -75.4436,
+    "population": 10221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sampués",
+    "region": "Sucre",
+    "lat": 9.1836,
+    "lon": -75.3817,
+    "population": 10212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio del Tequendama",
+    "region": "Cundinamarca",
+    "lat": 4.6167,
+    "lon": -74.35,
+    "population": 10195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Roble",
+    "region": "Sucre",
+    "lat": 9.1019,
+    "lon": -75.1951,
+    "population": 10191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogotes",
+    "region": "Santander",
+    "lat": 6.4756,
+    "lon": -72.9705,
+    "population": 10110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Osos",
+    "region": "Antioquia",
+    "lat": 6.6474,
+    "lon": -75.4603,
+    "population": 10047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Envigado",
+    "region": "Antioquia",
+    "lat": 6.1759,
+    "lon": -75.5917,
+    "population": 10035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herrán",
+    "region": "Norte de Santander",
+    "lat": 7.5061,
+    "lon": -72.4833,
+    "population": 10025,
+    "timezone": "UTC"
+  }
+]

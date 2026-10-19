@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Kyain Seikgyi Township",
+    "region": "Kayin State",
+    "lat": 15.8229,
+    "lon": 98.2526,
+    "population": 48883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myeik",
+    "region": "Tanintharyi Region",
+    "lat": 12.4395,
+    "lon": 98.6003,
+    "population": 48642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hakha",
+    "region": "Chin State",
+    "lat": 22.6445,
+    "lon": 93.6108,
+    "population": 48121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hpa-An",
+    "region": "Kayin State",
+    "lat": 16.8895,
+    "lon": 97.6348,
+    "population": 47961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monywa",
+    "region": "Sagaing Region",
+    "lat": 22.1086,
+    "lon": 95.1358,
+    "population": 47765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taungdwingyi",
+    "region": "Magway Region",
+    "lat": 20.0065,
+    "lon": 95.5453,
+    "population": 45268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loikaw",
+    "region": "Kayah State",
+    "lat": 19.678,
+    "lon": 97.2097,
+    "population": 44803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawlamyine",
+    "region": "Mon State",
+    "lat": 16.4905,
+    "lon": 97.6282,
+    "population": 44635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhamo",
+    "region": "Kachin State",
+    "lat": 24.2526,
+    "lon": 97.2336,
+    "population": 44351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyin Oo Lwin",
+    "region": "Mandalay Region",
+    "lat": 22.035,
+    "lon": 96.4568,
+    "population": 43975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pulei",
+    "region": "Kayin State",
+    "lat": 16.0624,
+    "lon": 97.8828,
+    "population": 39904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thanatpin",
+    "region": "Bago",
+    "lat": 17.2914,
+    "lon": 96.5752,
+    "population": 39758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyapon",
+    "region": "Ayeyarwady Region",
+    "lat": 16.2854,
+    "lon": 95.6788,
+    "population": 39591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyaukse",
+    "region": "Mandalay Region",
+    "lat": 21.6056,
+    "lon": 96.1351,
+    "population": 39560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letpandan",
+    "region": "Bago",
+    "lat": 17.7866,
+    "lon": 95.7508,
+    "population": 39123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myingyan",
+    "region": "Mandalay Region",
+    "lat": 21.46,
+    "lon": 95.3884,
+    "population": 38977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paungde",
+    "region": "Bago",
+    "lat": 18.4917,
+    "lon": 95.5059,
+    "population": 38548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hinthada",
+    "region": "Ayeyarwady Region",
+    "lat": 17.6494,
+    "lon": 95.457,
+    "population": 38068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sagaing",
+    "region": "Sagaing Region",
+    "lat": 21.8787,
+    "lon": 95.9797,
+    "population": 37809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawlaik",
+    "region": "Sagaing Region",
+    "lat": 23.6425,
+    "lon": 94.4048,
+    "population": 37678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dellok",
+    "region": "Kayin State",
+    "lat": 16.0407,
+    "lon": 97.9177,
+    "population": 37355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawei",
+    "region": "Tanintharyi Region",
+    "lat": 14.0823,
+    "lon": 98.1915,
+    "population": 37239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myanaung",
+    "region": "Ayeyarwady Region",
+    "lat": 18.2865,
+    "lon": 95.3201,
+    "population": 36763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawlamyinegyunn",
+    "region": "Ayeyarwady Region",
+    "lat": 16.3772,
+    "lon": 95.2649,
+    "population": 36518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sittwe",
+    "region": "Rakhine State",
+    "lat": 20.1462,
+    "lon": 92.8983,
+    "population": 36505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falam",
+    "region": "Chin State",
+    "lat": 22.9134,
+    "lon": 93.6778,
+    "population": 36289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyaikkami",
+    "region": "Mon State",
+    "lat": 16.0769,
+    "lon": 97.5639,
+    "population": 35615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minbu",
+    "region": "Magway Region",
+    "lat": 20.1806,
+    "lon": 94.876,
+    "population": 35557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Syriam",
+    "region": "Yangon Region",
+    "lat": 16.7689,
+    "lon": 96.245,
+    "population": 34662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogok",
+    "region": "Mandalay Region",
+    "lat": 22.9177,
+    "lon": 96.5098,
+    "population": 34273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikenaungea",
+    "region": "Kayin State",
+    "lat": 15.9585,
+    "lon": 98.4272,
+    "population": 34081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martaban",
+    "region": "Mon State",
+    "lat": 16.5283,
+    "lon": 97.6157,
+    "population": 33082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thongwa",
+    "region": "Yangon Region",
+    "lat": 16.76,
+    "lon": 96.525,
+    "population": 32411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakokku",
+    "region": "Magway Region",
+    "lat": 21.3349,
+    "lon": 95.0844,
+    "population": 32143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanbe",
+    "region": "Yangon Region",
+    "lat": 16.7073,
+    "lon": 96.0017,
+    "population": 31388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamoowoug",
+    "region": "Kayin State",
+    "lat": 16.0345,
+    "lon": 97.9146,
+    "population": 31064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tachilek",
+    "region": "Shan State",
+    "lat": 20.4475,
+    "lon": 99.8808,
+    "population": 30956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meiktila",
+    "region": "Mandalay Region",
+    "lat": 20.8778,
+    "lon": 95.8584,
+    "population": 30492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bago",
+    "region": "Bago",
+    "lat": 17.3352,
+    "lon": 96.4814,
+    "population": 30406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thayetmyo",
+    "region": "Magway Region",
+    "lat": 19.3208,
+    "lon": 95.1827,
+    "population": 30301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyay",
+    "region": "Bago",
+    "lat": 18.8246,
+    "lon": 95.2222,
+    "population": 30094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yamethin",
+    "region": "Mandalay Region",
+    "lat": 20.4319,
+    "lon": 96.1388,
+    "population": 28592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myaydo",
+    "region": "Magway Region",
+    "lat": 19.3684,
+    "lon": 95.2151,
+    "population": 27630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maubin",
+    "region": "Ayeyarwady Region",
+    "lat": 16.7315,
+    "lon": 95.6544,
+    "population": 27489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taungoo",
+    "region": "Bago",
+    "lat": 18.9429,
+    "lon": 96.4341,
+    "population": 26917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myawadi",
+    "region": "Kayin State",
+    "lat": 16.6891,
+    "lon": 98.5089,
+    "population": 26900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kayan",
+    "region": "Yangon Region",
+    "lat": 16.908,
+    "lon": 96.5604,
+    "population": 26767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyaikto",
+    "region": "Mon State",
+    "lat": 17.3086,
+    "lon": 97.0112,
+    "population": 25142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tharyarwady",
+    "region": "Bago",
+    "lat": 17.654,
+    "lon": 95.7881,
+    "population": 24679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyaungdon",
+    "region": "Ayeyarwady Region",
+    "lat": 17.0446,
+    "lon": 95.6396,
+    "population": 23958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nay Pyi Taw",
+    "region": "Naypyidaw Union Territory",
+    "lat": 19.745,
+    "lon": 96.1297,
+    "population": 23946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yenangyaung",
+    "region": "Magway Region",
+    "lat": 20.465,
+    "lon": 94.8712,
+    "population": 23516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magway",
+    "region": "Magway Region",
+    "lat": 20.1496,
+    "lon": 94.9325,
+    "population": 22590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyaungshwe",
+    "region": "Mandalay Region",
+    "lat": 20.6608,
+    "lon": 96.934,
+    "population": 22311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thaton",
+    "region": "Mon State",
+    "lat": 16.9187,
+    "lon": 97.37,
+    "population": 21610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyaunglebin",
+    "region": "Bago",
+    "lat": 17.9536,
+    "lon": 96.7225,
+    "population": 21530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyu",
+    "region": "Bago",
+    "lat": 18.4813,
+    "lon": 96.4374,
+    "population": 21240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klonhtoug",
+    "region": "Kayin State",
+    "lat": 15.9541,
+    "lon": 98.4325,
+    "population": 21146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Twante",
+    "region": "Yangon Region",
+    "lat": 16.7105,
+    "lon": 95.9287,
+    "population": 20630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mudon",
+    "region": "Mon State",
+    "lat": 16.2562,
+    "lon": 97.7246,
+    "population": 20266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pathein",
+    "region": "Ayeyarwady Region",
+    "lat": 16.7792,
+    "lon": 94.7321,
+    "population": 19069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyinmana",
+    "region": "Naypyidaw Union Territory",
+    "lat": 19.7381,
+    "lon": 96.2074,
+    "population": 18545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wakema",
+    "region": "Ayeyarwady Region",
+    "lat": 16.6033,
+    "lon": 95.1828,
+    "population": 17344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chauk",
+    "region": "Magway Region",
+    "lat": 20.8992,
+    "lon": 94.8178,
+    "population": 16713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyaiklat",
+    "region": "Ayeyarwady Region",
+    "lat": 16.445,
+    "lon": 95.7237,
+    "population": 15590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kawthoung",
+    "region": "Tanintharyi Region",
+    "lat": 9.9824,
+    "lon": 98.5503,
+    "population": 15563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogale",
+    "region": "Ayeyarwady Region",
+    "lat": 16.2941,
+    "lon": 95.3974,
+    "population": 15012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandalay",
+    "region": "Mandalay Region",
+    "lat": 21.9747,
+    "lon": 96.0836,
+    "population": 13646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taunggyi",
+    "region": "Shan State",
+    "lat": 20.7892,
+    "lon": 97.0378,
+    "population": 13461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myitkyina",
+    "region": "Kachin State",
+    "lat": 25.3833,
+    "lon": 97.3964,
+    "population": 13252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shwebo",
+    "region": "Sagaing Region",
+    "lat": 22.5693,
+    "lon": 95.6982,
+    "population": 12382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tagondaing",
+    "region": "Kayin State",
+    "lat": 16.0675,
+    "lon": 97.9069,
+    "population": 12217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lashio",
+    "region": "Shan State",
+    "lat": 22.9359,
+    "lon": 97.7498,
+    "population": 12192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangon",
+    "region": "Yangon Region",
+    "lat": 16.8053,
+    "lon": 96.1561,
+    "population": 10120,
+    "timezone": "UTC"
+  }
+]

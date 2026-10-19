@@ -1,0 +1,3666 @@
+[
+  {
+    "name": "Gojra",
+    "region": "Punjab",
+    "lat": 31.1493,
+    "lon": 72.6832,
+    "population": 49963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mianwali",
+    "region": "Punjab",
+    "lat": 32.5776,
+    "lon": 71.5285,
+    "population": 49911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitha Tiwana",
+    "region": "Punjab",
+    "lat": 32.2454,
+    "lon": 72.1061,
+    "population": 49869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alizai",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 33.5361,
+    "lon": 70.3461,
+    "population": 49853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanjwal",
+    "region": "Punjab",
+    "lat": 33.761,
+    "lon": 72.4331,
+    "population": 49783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pindi Gheb",
+    "region": "Punjab",
+    "lat": 33.2409,
+    "lon": 72.2648,
+    "population": 49640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sadiqabad",
+    "region": "Punjab",
+    "lat": 28.3091,
+    "lon": 70.1265,
+    "population": 49610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehmand Chak",
+    "region": "Punjab",
+    "lat": 32.7852,
+    "lon": 73.8231,
+    "population": 49579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallar Kahar",
+    "region": "Punjab",
+    "lat": 32.78,
+    "lon": 72.6979,
+    "population": 49460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanga Dogran",
+    "region": "Punjab",
+    "lat": 31.8329,
+    "lon": 73.6221,
+    "population": 49447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murree",
+    "region": "Punjab",
+    "lat": 33.9084,
+    "lon": 73.3903,
+    "population": 49285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miran Shah",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 33.0006,
+    "lon": 70.0712,
+    "population": 49024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhok Awan",
+    "region": "Punjab",
+    "lat": 32.8445,
+    "lon": 72.5236,
+    "population": 48917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tando Bago",
+    "region": "Sindh",
+    "lat": 24.7891,
+    "lon": 68.9654,
+    "population": 48768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehar",
+    "region": "Sindh",
+    "lat": 27.1803,
+    "lon": 67.8205,
+    "population": 48764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhang Sadar",
+    "region": "Punjab",
+    "lat": 31.2698,
+    "lon": 72.3169,
+    "population": 48409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hazro",
+    "region": "Punjab",
+    "lat": 33.9099,
+    "lon": 72.4918,
+    "population": 48345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulishah Kach",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 32.6709,
+    "lon": 70.3392,
+    "population": 48216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chak",
+    "region": "Sindh",
+    "lat": 27.8584,
+    "lon": 68.8338,
+    "population": 48185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fazilpur",
+    "region": "Punjab",
+    "lat": 32.1763,
+    "lon": 75.0658,
+    "population": 48174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhag",
+    "region": "Balochistan",
+    "lat": 29.0417,
+    "lon": 67.8239,
+    "population": 47893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehrabpur",
+    "region": "Balochistan",
+    "lat": 28.1077,
+    "lon": 68.0255,
+    "population": 47882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gujranwala",
+    "region": "Punjab",
+    "lat": 32.1557,
+    "lon": 74.187,
+    "population": 47602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phalia",
+    "region": "Punjab",
+    "lat": 32.431,
+    "lon": 73.579,
+    "population": 47573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arifwala",
+    "region": "Punjab",
+    "lat": 30.2906,
+    "lon": 73.0657,
+    "population": 47516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Radha Kishan",
+    "region": "Punjab",
+    "lat": 31.1707,
+    "lon": 74.1013,
+    "population": 47400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aman Garh",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0058,
+    "lon": 71.9297,
+    "population": 47218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalat",
+    "region": "Balochistan",
+    "lat": 29.0266,
+    "lon": 66.5936,
+    "population": 47202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hafizabad",
+    "region": "Punjab",
+    "lat": 32.071,
+    "lon": 73.688,
+    "population": 47188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Mirpur",
+    "region": "Azad Kashmir",
+    "lat": 33.1478,
+    "lon": 73.7519,
+    "population": 46965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sillanwali",
+    "region": "Punjab",
+    "lat": 31.8254,
+    "lon": 72.5406,
+    "population": 46907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nasirabad",
+    "region": "Sindh",
+    "lat": 27.3814,
+    "lon": 67.9164,
+    "population": 46831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakrand",
+    "region": "Sindh",
+    "lat": 26.1384,
+    "lon": 68.2744,
+    "population": 46707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bannu",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 32.9853,
+    "lon": 70.604,
+    "population": 46449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duki",
+    "region": "Balochistan",
+    "lat": 30.1531,
+    "lon": 68.5732,
+    "population": 46100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talhar",
+    "region": "Sindh",
+    "lat": 24.8845,
+    "lon": 68.8144,
+    "population": 46046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nowshera Cantonment",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.9983,
+    "lon": 71.9983,
+    "population": 46034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tando Adam",
+    "region": "Sindh",
+    "lat": 25.7682,
+    "lon": 68.662,
+    "population": 46008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diplo",
+    "region": "Sindh",
+    "lat": 24.4669,
+    "lon": 69.5811,
+    "population": 45761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhakkar",
+    "region": "Punjab",
+    "lat": 31.6269,
+    "lon": 71.0647,
+    "population": 45757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mingora",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.7795,
+    "lon": 72.3627,
+    "population": 45719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daultala",
+    "region": "Punjab",
+    "lat": 33.1928,
+    "lon": 73.141,
+    "population": 45619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nazir Town",
+    "region": "Punjab",
+    "lat": 33.3061,
+    "lon": 73.4833,
+    "population": 45416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chak One Hundred Twenty Nine Left",
+    "region": "Punjab",
+    "lat": 30.4292,
+    "lon": 73.0452,
+    "population": 45355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalur Kot",
+    "region": "Punjab",
+    "lat": 32.1551,
+    "lon": 71.2663,
+    "population": 44950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuhar Jamali",
+    "region": "Sindh",
+    "lat": 24.3944,
+    "lon": 67.993,
+    "population": 44817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahawalpur",
+    "region": "Punjab",
+    "lat": 29.3978,
+    "lon": 71.6752,
+    "population": 44749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamshoro",
+    "region": "Sindh",
+    "lat": 25.4361,
+    "lon": 68.2802,
+    "population": 44544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barishal",
+    "region": "Gilgit-Baltistan",
+    "lat": 36.3216,
+    "lon": 74.695,
+    "population": 44499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dera Bugti District",
+    "region": "Balochistan",
+    "lat": 28.9425,
+    "lon": 69.0688,
+    "population": 44443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalian",
+    "region": "Punjab",
+    "lat": 31.8246,
+    "lon": 72.8012,
+    "population": 44403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qila Didar Singh",
+    "region": "Punjab",
+    "lat": 32.8,
+    "lon": 74.1,
+    "population": 44384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhal Magsi District",
+    "region": "Balochistan",
+    "lat": 28.3688,
+    "lon": 67.543,
+    "population": 44303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sukheke Mandi",
+    "region": "Punjab",
+    "lat": 31.8654,
+    "lon": 73.5088,
+    "population": 44266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eminabad",
+    "region": "Punjab",
+    "lat": 32.0424,
+    "lon": 74.26,
+    "population": 44235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shabqadar",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.216,
+    "lon": 71.5548,
+    "population": 44180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhol",
+    "region": "Sindh",
+    "lat": 25.9553,
+    "lon": 68.8887,
+    "population": 44163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gambat",
+    "region": "Sindh",
+    "lat": 27.3517,
+    "lon": 68.5215,
+    "population": 44146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lala Musa",
+    "region": "Punjab",
+    "lat": 32.7014,
+    "lon": 73.9575,
+    "population": 44136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandi Bahauddin District",
+    "region": "Punjab",
+    "lat": 32.5833,
+    "lon": 73.5,
+    "population": 44047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunga Bunga",
+    "region": "Punjab",
+    "lat": 29.7497,
+    "lon": 73.2429,
+    "population": 43875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johi",
+    "region": "Sindh",
+    "lat": 26.6923,
+    "lon": 67.6143,
+    "population": 43875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wana",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 32.2989,
+    "lon": 69.5725,
+    "population": 43481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Multan",
+    "region": "Punjab",
+    "lat": 30.1968,
+    "lon": 71.4782,
+    "population": 43443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choa Saidanshah",
+    "region": "Punjab",
+    "lat": 32.7196,
+    "lon": 72.9862,
+    "population": 43270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiwani",
+    "region": "Balochistan",
+    "lat": 25.0485,
+    "lon": 61.7457,
+    "population": 43104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Malik Barkhurdar",
+    "region": "Balochistan",
+    "lat": 30.2038,
+    "lon": 66.9872,
+    "population": 43002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pind Dadan Khan",
+    "region": "Punjab",
+    "lat": 32.5866,
+    "lon": 73.0446,
+    "population": 42932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bārkhān District",
+    "region": "Balochistan",
+    "lat": 29.9848,
+    "lon": 69.6994,
+    "population": 42896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chamber",
+    "region": "Sindh",
+    "lat": 25.2936,
+    "lon": 68.8118,
+    "population": 42874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alik Ghund",
+    "region": "Balochistan",
+    "lat": 30.4898,
+    "lon": 67.5218,
+    "population": 42865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ubauro",
+    "region": "Sindh",
+    "lat": 28.1643,
+    "lon": 69.7311,
+    "population": 42715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Rajkour",
+    "region": "Punjab",
+    "lat": 32.4121,
+    "lon": 74.6286,
+    "population": 42681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khewra",
+    "region": "Punjab",
+    "lat": 32.6491,
+    "lon": 73.0106,
+    "population": 42274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khairpur Mir’s",
+    "region": "Sindh",
+    "lat": 27.5295,
+    "lon": 68.7592,
+    "population": 42264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gujar Khan",
+    "region": "Punjab",
+    "lat": 33.2541,
+    "lon": 73.3043,
+    "population": 42240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kharan",
+    "region": "Balochistan",
+    "lat": 28.5846,
+    "lon": 65.415,
+    "population": 42117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harunabad",
+    "region": "Punjab",
+    "lat": 29.6121,
+    "lon": 73.138,
+    "population": 42047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malakwal",
+    "region": "Punjab",
+    "lat": 32.5545,
+    "lon": 73.2127,
+    "population": 41972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jāfarābād District",
+    "region": "Balochistan",
+    "lat": 28.301,
+    "lon": 68.1978,
+    "population": 41954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muzaffargarh",
+    "region": "Punjab",
+    "lat": 30.0726,
+    "lon": 71.1938,
+    "population": 41930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jati",
+    "region": "Sindh",
+    "lat": 24.3549,
+    "lon": 68.2673,
+    "population": 41916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naukot",
+    "region": "Sindh",
+    "lat": 24.8582,
+    "lon": 69.4015,
+    "population": 41790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warburton",
+    "region": "Punjab",
+    "lat": 31.55,
+    "lon": 73.8333,
+    "population": 41786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daska",
+    "region": "Punjab",
+    "lat": 32.3242,
+    "lon": 74.3504,
+    "population": 41743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amirabad",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.1873,
+    "lon": 73.0908,
+    "population": 41614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upper Dir",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 35.2074,
+    "lon": 71.8768,
+    "population": 41507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pishin",
+    "region": "Balochistan",
+    "lat": 30.5818,
+    "lon": 66.9941,
+    "population": 41405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khangarh",
+    "region": "Punjab",
+    "lat": 29.9145,
+    "lon": 71.1607,
+    "population": 41300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bozdar Wada",
+    "region": "Sindh",
+    "lat": 27.183,
+    "lon": 68.6358,
+    "population": 41297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gadani",
+    "region": "Balochistan",
+    "lat": 25.1188,
+    "lon": 66.7322,
+    "population": 41297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hangu",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.532,
+    "lon": 71.0595,
+    "population": 41146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jandiala Sher Khan",
+    "region": "Punjab",
+    "lat": 31.821,
+    "lon": 73.9181,
+    "population": 41141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Digri",
+    "region": "Sindh",
+    "lat": 25.1566,
+    "lon": 69.111,
+    "population": 41023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khandowa",
+    "region": "Punjab",
+    "lat": 32.7426,
+    "lon": 72.7348,
+    "population": 40921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loralai District",
+    "region": "Balochistan",
+    "lat": 30.3025,
+    "lon": 68.8464,
+    "population": 40887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhanot",
+    "region": "Punjab",
+    "lat": 29.5799,
+    "lon": 71.7521,
+    "population": 40671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shujaabad",
+    "region": "Punjab",
+    "lat": 29.8809,
+    "lon": 71.2934,
+    "population": 40533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uthal",
+    "region": "Balochistan",
+    "lat": 25.8072,
+    "lon": 66.6219,
+    "population": 40333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topi",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0703,
+    "lon": 72.6215,
+    "population": 40285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhawarian",
+    "region": "Punjab",
+    "lat": 32.3619,
+    "lon": 72.6227,
+    "population": 40016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chishtian",
+    "region": "Punjab",
+    "lat": 29.7971,
+    "lon": 72.8577,
+    "population": 39866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nasīrābād District",
+    "region": "Balochistan",
+    "lat": 28.6264,
+    "lon": 68.1292,
+    "population": 39814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moro",
+    "region": "Sindh",
+    "lat": 26.6632,
+    "lon": 68.0002,
+    "population": 39813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shingli Bala",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.6787,
+    "lon": 72.9849,
+    "population": 39730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasulnagar",
+    "region": "Punjab",
+    "lat": 32.3279,
+    "lon": 73.7804,
+    "population": 39665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barkhan",
+    "region": "Balochistan",
+    "lat": 29.8977,
+    "lon": 69.5256,
+    "population": 39643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hingorja",
+    "region": "Sindh",
+    "lat": 27.2109,
+    "lon": 68.416,
+    "population": 39638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakki Shagwanwali",
+    "region": "Punjab",
+    "lat": 30.7903,
+    "lon": 70.8714,
+    "population": 39433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chowki Jamali",
+    "region": "Balochistan",
+    "lat": 28.0194,
+    "lon": 67.9208,
+    "population": 39413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qila Saifullāh District",
+    "region": "Balochistan",
+    "lat": 30.9539,
+    "lon": 68.34,
+    "population": 39238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Diji",
+    "region": "Sindh",
+    "lat": 27.3416,
+    "lon": 68.7082,
+    "population": 39190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mangla",
+    "region": "Punjab",
+    "lat": 31.8931,
+    "lon": 72.3817,
+    "population": 39078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahr Sultan",
+    "region": "Punjab",
+    "lat": 29.5752,
+    "lon": 71.0221,
+    "population": 39076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalalpur Jattan",
+    "region": "Punjab",
+    "lat": 32.6412,
+    "lon": 74.2056,
+    "population": 38985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ziārat District",
+    "region": "Balochistan",
+    "lat": 30.4359,
+    "lon": 67.5096,
+    "population": 38900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarai Sidhu",
+    "region": "Punjab",
+    "lat": 30.5948,
+    "lon": 71.9699,
+    "population": 38853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Ghulam Muhammad",
+    "region": "Punjab",
+    "lat": 32.3331,
+    "lon": 74.5469,
+    "population": 38719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shikarpur",
+    "region": "Sindh",
+    "lat": 27.9556,
+    "lon": 68.6382,
+    "population": 38635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goth Phulji",
+    "region": "Sindh",
+    "lat": 26.881,
+    "lon": 67.6824,
+    "population": 38632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faruka",
+    "region": "Punjab",
+    "lat": 31.8864,
+    "lon": 72.4136,
+    "population": 38416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matli",
+    "region": "Sindh",
+    "lat": 25.0429,
+    "lon": 68.6559,
+    "population": 38261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Mahal",
+    "region": "Punjab",
+    "lat": 30.7666,
+    "lon": 72.4346,
+    "population": 38219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Risalpur Cantonment",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0605,
+    "lon": 71.9928,
+    "population": 38195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mamu Kanjan",
+    "region": "Punjab",
+    "lat": 30.8304,
+    "lon": 72.7994,
+    "population": 38158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chakwal",
+    "region": "Punjab",
+    "lat": 32.9329,
+    "lon": 72.8539,
+    "population": 38126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Islamabad",
+    "region": "Islamabad Capital Territory",
+    "lat": 33.7215,
+    "lon": 73.0433,
+    "population": 38119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miro Khan",
+    "region": "Sindh",
+    "lat": 27.7599,
+    "lon": 68.0919,
+    "population": 37987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajo Khanani",
+    "region": "Sindh",
+    "lat": 24.9839,
+    "lon": 68.8537,
+    "population": 37507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garh Maharaja",
+    "region": "Punjab",
+    "lat": 30.8338,
+    "lon": 71.9049,
+    "population": 37412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badin",
+    "region": "Sindh",
+    "lat": 24.656,
+    "lon": 68.837,
+    "population": 37404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muridke",
+    "region": "Punjab",
+    "lat": 31.8026,
+    "lon": 74.2577,
+    "population": 37391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pad Idan",
+    "region": "Sindh",
+    "lat": 26.7746,
+    "lon": 68.3009,
+    "population": 37361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Islamkot",
+    "region": "Sindh",
+    "lat": 24.699,
+    "lon": 70.1798,
+    "population": 37156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thul",
+    "region": "Sindh",
+    "lat": 28.2403,
+    "lon": 68.7755,
+    "population": 37089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunri",
+    "region": "Sindh",
+    "lat": 25.1787,
+    "lon": 69.5657,
+    "population": 37079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chak Thirty-one -Eleven Left",
+    "region": "Punjab",
+    "lat": 30.4239,
+    "lon": 72.6974,
+    "population": 37013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhimbar",
+    "region": "Azad Kashmir",
+    "lat": 32.9746,
+    "lon": 74.0785,
+    "population": 36980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pattoki",
+    "region": "Punjab",
+    "lat": 31.0202,
+    "lon": 73.8533,
+    "population": 36878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pano Aqil",
+    "region": "Sindh",
+    "lat": 27.8562,
+    "lon": 69.1111,
+    "population": 36749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sahiwal",
+    "region": "Punjab",
+    "lat": 30.6659,
+    "lon": 73.1019,
+    "population": 36622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khushab",
+    "region": "Punjab",
+    "lat": 32.2967,
+    "lon": 72.3525,
+    "population": 36500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karachi",
+    "region": "Sindh",
+    "lat": 24.8608,
+    "lon": 67.0104,
+    "population": 36464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khuzdār District",
+    "region": "Balochistan",
+    "lat": 27.4868,
+    "lon": 66.587,
+    "population": 36448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarai Alamgir",
+    "region": "Punjab",
+    "lat": 32.9049,
+    "lon": 73.7552,
+    "population": 36413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naudero",
+    "region": "Sindh",
+    "lat": 27.6668,
+    "lon": 68.3609,
+    "population": 36232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naushahra Virkan",
+    "region": "Punjab",
+    "lat": 31.9626,
+    "lon": 73.9712,
+    "population": 36060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhob District",
+    "region": "Balochistan",
+    "lat": 31.3644,
+    "lon": 69.2075,
+    "population": 36028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toba Tek Singh",
+    "region": "Punjab",
+    "lat": 30.9713,
+    "lon": 72.4827,
+    "population": 35984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matiari",
+    "region": "Sindh",
+    "lat": 25.5971,
+    "lon": 68.4467,
+    "population": 35924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rustam",
+    "region": "Sindh",
+    "lat": 27.9671,
+    "lon": 68.8039,
+    "population": 35859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadali",
+    "region": "Punjab",
+    "lat": 32.6404,
+    "lon": 74.569,
+    "population": 35727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirpur Khas",
+    "region": "Sindh",
+    "lat": 25.5276,
+    "lon": 69.0126,
+    "population": 35682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lodhran",
+    "region": "Punjab",
+    "lat": 29.5339,
+    "lon": 71.6324,
+    "population": 35636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malir Cantonment",
+    "region": "Sindh",
+    "lat": 24.9434,
+    "lon": 67.2059,
+    "population": 35571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daulatpur",
+    "region": "Sindh",
+    "lat": 26.5016,
+    "lon": 67.9708,
+    "population": 35363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jand",
+    "region": "Punjab",
+    "lat": 33.433,
+    "lon": 72.0188,
+    "population": 35312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagarji",
+    "region": "Sindh",
+    "lat": 27.7543,
+    "lon": 68.7587,
+    "population": 35305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raja Jang",
+    "region": "Punjab",
+    "lat": 31.2208,
+    "lon": 74.2548,
+    "population": 35259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajanpur",
+    "region": "Punjab",
+    "lat": 29.1041,
+    "lon": 70.3297,
+    "population": 35161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akora",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0034,
+    "lon": 72.1256,
+    "population": 35149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berani",
+    "region": "Sindh",
+    "lat": 25.785,
+    "lon": 68.8075,
+    "population": 34706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanganpur",
+    "region": "Punjab",
+    "lat": 30.7647,
+    "lon": 74.1229,
+    "population": 34601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranipur",
+    "region": "Sindh",
+    "lat": 27.2872,
+    "lon": 68.5062,
+    "population": 34545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darya Khan Marri",
+    "region": "Sindh",
+    "lat": 26.6776,
+    "lon": 68.2867,
+    "population": 34334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darya Khan",
+    "region": "Punjab",
+    "lat": 31.7845,
+    "lon": 71.102,
+    "population": 34316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakpattan",
+    "region": "Punjab",
+    "lat": 30.3431,
+    "lon": 73.3894,
+    "population": 34187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sīta Road",
+    "region": "Sindh",
+    "lat": 27.0333,
+    "lon": 67.85,
+    "population": 34104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahkot Tehsil",
+    "region": "Punjab",
+    "lat": 31.5617,
+    "lon": 73.4875,
+    "population": 34068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rahim Yar Khan",
+    "region": "Punjab",
+    "lat": 28.4199,
+    "lon": 70.3034,
+    "population": 34057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhopalwala",
+    "region": "Punjab",
+    "lat": 32.4297,
+    "lon": 74.3635,
+    "population": 33979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samaro",
+    "region": "Sindh",
+    "lat": 25.2814,
+    "lon": 69.3962,
+    "population": 33938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cherat Cantonement",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.8234,
+    "lon": 71.8929,
+    "population": 33919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utmanzai",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.1878,
+    "lon": 71.7627,
+    "population": 33789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahpur",
+    "region": "Punjab",
+    "lat": 32.2682,
+    "lon": 72.4688,
+    "population": 33587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitral",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 35.8518,
+    "lon": 71.7864,
+    "population": 33467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Battagram District",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.6805,
+    "lon": 73.0054,
+    "population": 33426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhelum",
+    "region": "Punjab",
+    "lat": 32.9345,
+    "lon": 73.731,
+    "population": 33384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shorkot",
+    "region": "Punjab",
+    "lat": 30.5,
+    "lon": 72.4,
+    "population": 33375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanghar",
+    "region": "Sindh",
+    "lat": 26.0469,
+    "lon": 68.9492,
+    "population": 33370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadhan",
+    "region": "Sindh",
+    "lat": 24.4804,
+    "lon": 68.9855,
+    "population": 33204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rojhan",
+    "region": "Punjab",
+    "lat": 28.6873,
+    "lon": 69.9535,
+    "population": 33194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ziarat",
+    "region": "Balochistan",
+    "lat": 30.3824,
+    "lon": 67.7256,
+    "population": 33107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jatoi Shimali",
+    "region": "Punjab",
+    "lat": 29.5183,
+    "lon": 70.8447,
+    "population": 33016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haripur",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.9978,
+    "lon": 72.9349,
+    "population": 32960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasrur",
+    "region": "Punjab",
+    "lat": 32.2629,
+    "lon": 74.6633,
+    "population": 32895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narowal",
+    "region": "Punjab",
+    "lat": 32.102,
+    "lon": 74.873,
+    "population": 32813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyderabad",
+    "region": "Sindh",
+    "lat": 25.3924,
+    "lon": 68.3737,
+    "population": 32687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Setharja Old",
+    "region": "Sindh",
+    "lat": 27.2127,
+    "lon": 68.4688,
+    "population": 32653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacobabad",
+    "region": "Sindh",
+    "lat": 28.2819,
+    "lon": 68.4376,
+    "population": 32608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gujranwala Division",
+    "region": "Punjab",
+    "lat": 32.45,
+    "lon": 74.1333,
+    "population": 32293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhera",
+    "region": "Punjab",
+    "lat": 32.4821,
+    "lon": 72.9086,
+    "population": 31984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jauharabad",
+    "region": "Punjab",
+    "lat": 32.2902,
+    "lon": 72.2818,
+    "population": 31923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warah",
+    "region": "Sindh",
+    "lat": 27.448,
+    "lon": 67.7965,
+    "population": 31691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandiari",
+    "region": "Sindh",
+    "lat": 26.9155,
+    "lon": 68.5219,
+    "population": 31683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khairpur Tamiwali",
+    "region": "Punjab",
+    "lat": 29.5814,
+    "lon": 72.238,
+    "population": 31552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Attock Tehsil",
+    "region": "Punjab",
+    "lat": 33.7667,
+    "lon": 72.3598,
+    "population": 31523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hala",
+    "region": "Sindh",
+    "lat": 25.8146,
+    "lon": 68.422,
+    "population": 31128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pindi Bhattian",
+    "region": "Punjab",
+    "lat": 31.8984,
+    "lon": 73.2734,
+    "population": 31071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talagang",
+    "region": "Punjab",
+    "lat": 32.9277,
+    "lon": 72.4159,
+    "population": 31066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mūsa Khel District",
+    "region": "Balochistan",
+    "lat": 30.8494,
+    "lon": 69.9007,
+    "population": 31040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loralai",
+    "region": "Balochistan",
+    "lat": 30.3705,
+    "lon": 68.5979,
+    "population": 30997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dajal",
+    "region": "Punjab",
+    "lat": 29.5577,
+    "lon": 70.3761,
+    "population": 30956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhiria",
+    "region": "Sindh",
+    "lat": 26.9104,
+    "lon": 68.1947,
+    "population": 30952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rahimyar Khan District",
+    "region": "Punjab",
+    "lat": 28.4602,
+    "lon": 70.5284,
+    "population": 30841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanpur",
+    "region": "Punjab",
+    "lat": 28.6474,
+    "lon": 70.6569,
+    "population": 30742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mach",
+    "region": "Balochistan",
+    "lat": 29.8637,
+    "lon": 67.3302,
+    "population": 30717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landi Kotal",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 34.0988,
+    "lon": 71.1411,
+    "population": 30648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalāt District",
+    "region": "Balochistan",
+    "lat": 28.8824,
+    "lon": 66.5316,
+    "population": 30574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangwani",
+    "region": "Sindh",
+    "lat": 28.2789,
+    "lon": 68.9976,
+    "population": 30369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chak Jhumra",
+    "region": "Punjab",
+    "lat": 31.5681,
+    "lon": 73.1832,
+    "population": 30176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuhar Kana",
+    "region": "Punjab",
+    "lat": 31.75,
+    "lon": 73.8,
+    "population": 30099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dera Bugti",
+    "region": "Balochistan",
+    "lat": 29.0362,
+    "lon": 69.1585,
+    "population": 29991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rawalpindi",
+    "region": "Punjab",
+    "lat": 33.5973,
+    "lon": 73.0479,
+    "population": 29987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanpur Mahar",
+    "region": "Sindh",
+    "lat": 27.8409,
+    "lon": 69.413,
+    "population": 29934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tandlianwala",
+    "region": "Punjab",
+    "lat": 31.0336,
+    "lon": 73.1327,
+    "population": 29898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alipur Chatha",
+    "region": "Punjab",
+    "lat": 29.3824,
+    "lon": 70.9111,
+    "population": 29837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karor",
+    "region": "Punjab",
+    "lat": 31.2246,
+    "lon": 70.9515,
+    "population": 29822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mansehra",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.3302,
+    "lon": 73.1968,
+    "population": 29787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yazman",
+    "region": "Punjab",
+    "lat": 29.1212,
+    "lon": 71.7446,
+    "population": 29733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doaba",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.4245,
+    "lon": 70.7368,
+    "population": 29608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanewal",
+    "region": "Punjab",
+    "lat": 30.3017,
+    "lon": 71.9321,
+    "population": 29608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Havelian",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0535,
+    "lon": 73.1599,
+    "population": 29479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pabbi",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0097,
+    "lon": 71.7944,
+    "population": 29421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harnoli",
+    "region": "Punjab",
+    "lat": 32.2787,
+    "lon": 71.5543,
+    "population": 29414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Punjab",
+    "region": "Punjab",
+    "lat": 31,
+    "lon": 72,
+    "population": 29375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Renala Khurd",
+    "region": "Punjab",
+    "lat": 30.8788,
+    "lon": 73.5986,
+    "population": 29337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karak",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.1163,
+    "lon": 71.0935,
+    "population": 29210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasilpur",
+    "region": "Punjab",
+    "lat": 29.6922,
+    "lon": 72.5457,
+    "population": 29186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulachi",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 31.9306,
+    "lon": 70.4596,
+    "population": 29157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tando Jam",
+    "region": "Sindh",
+    "lat": 25.4281,
+    "lon": 68.5292,
+    "population": 29131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahuta",
+    "region": "Punjab",
+    "lat": 33.5918,
+    "lon": 73.3874,
+    "population": 29075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaleke Mandi",
+    "region": "Punjab",
+    "lat": 31.976,
+    "lon": 73.6,
+    "population": 28952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kambar",
+    "region": "Sindh",
+    "lat": 27.5875,
+    "lon": 68.0007,
+    "population": 28848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinjhoro",
+    "region": "Sindh",
+    "lat": 26.0301,
+    "lon": 68.8087,
+    "population": 28790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Bādāh",
+    "region": "Sindh",
+    "lat": 27.3417,
+    "lon": 68.0319,
+    "population": 28779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shinpokh",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 34.3296,
+    "lon": 71.1785,
+    "population": 28763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gharo",
+    "region": "Sindh",
+    "lat": 24.7418,
+    "lon": 67.5853,
+    "population": 28742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Layyah",
+    "region": "Punjab",
+    "lat": 30.9613,
+    "lon": 70.939,
+    "population": 28675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keshupur",
+    "region": "Punjab",
+    "lat": 32.26,
+    "lon": 72.5,
+    "population": 28659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dokri",
+    "region": "Sindh",
+    "lat": 27.3742,
+    "lon": 68.0971,
+    "population": 28619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotri",
+    "region": "Sindh",
+    "lat": 25.3657,
+    "lon": 68.3083,
+    "population": 28424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wazirabad",
+    "region": "Punjab",
+    "lat": 32.4432,
+    "lon": 74.12,
+    "population": 28377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rawala Kot",
+    "region": "Azad Kashmir",
+    "lat": 33.8578,
+    "lon": 73.7604,
+    "population": 28259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Abbas",
+    "region": "Punjab",
+    "lat": 29.1934,
+    "lon": 72.8552,
+    "population": 28088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daur",
+    "region": "Sindh",
+    "lat": 26.4553,
+    "lon": 68.3183,
+    "population": 28058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kharian",
+    "region": "Punjab",
+    "lat": 32.8161,
+    "lon": 73.887,
+    "population": 28055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charsadda",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.1482,
+    "lon": 71.7406,
+    "population": 28033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakhi",
+    "region": "Sindh",
+    "lat": 27.8488,
+    "lon": 68.6997,
+    "population": 27985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mastung",
+    "region": "Balochistan",
+    "lat": 29.7997,
+    "lon": 66.8455,
+    "population": 27891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandi Bahauddin",
+    "region": "Punjab",
+    "lat": 32.587,
+    "lon": 73.4912,
+    "population": 27874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surkhpur",
+    "region": "Punjab",
+    "lat": 32.7182,
+    "lon": 74.4477,
+    "population": 27869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hujra Shah Muqeem",
+    "region": "Punjab",
+    "lat": 30.7417,
+    "lon": 73.8233,
+    "population": 27812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nabisar",
+    "region": "Sindh",
+    "lat": 25.0672,
+    "lon": 69.6434,
+    "population": 27796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jahanian Shah",
+    "region": "Punjab",
+    "lat": 31.8054,
+    "lon": 72.2774,
+    "population": 27748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiniot",
+    "region": "Punjab",
+    "lat": 31.7209,
+    "lon": 72.9784,
+    "population": 27721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabirwala",
+    "region": "Punjab",
+    "lat": 30.4047,
+    "lon": 71.8627,
+    "population": 27721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lachi",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.3829,
+    "lon": 71.3373,
+    "population": 27711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mailsi",
+    "region": "Punjab",
+    "lat": 29.8012,
+    "lon": 72.174,
+    "population": 27661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garhi Khairo",
+    "region": "Balochistan",
+    "lat": 28.0603,
+    "lon": 67.9803,
+    "population": 27653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalaswala",
+    "region": "Punjab",
+    "lat": 32.2008,
+    "lon": 74.6486,
+    "population": 27638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dullewala",
+    "region": "Punjab",
+    "lat": 31.8344,
+    "lon": 71.4364,
+    "population": 27604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gujrat",
+    "region": "Punjab",
+    "lat": 32.5742,
+    "lon": 74.0754,
+    "population": 27597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharqpur",
+    "region": "Punjab",
+    "lat": 31.4612,
+    "lon": 74.1009,
+    "population": 27549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adilpur",
+    "region": "Sindh",
+    "lat": 27.9368,
+    "lon": 69.3194,
+    "population": 27424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirpur Mathelo",
+    "region": "Sindh",
+    "lat": 28.0214,
+    "lon": 69.5491,
+    "population": 27359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chāgai District",
+    "region": "Balochistan",
+    "lat": 28.9876,
+    "lon": 63.5909,
+    "population": 27148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarai Naurang",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 32.8258,
+    "lon": 70.7811,
+    "population": 27074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faisalabad",
+    "region": "Punjab",
+    "lat": 31.4155,
+    "lon": 73.0897,
+    "population": 27069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basti Dosa",
+    "region": "Punjab",
+    "lat": 30.7877,
+    "lon": 70.8685,
+    "population": 26994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotli Loharan",
+    "region": "Punjab",
+    "lat": 32.5889,
+    "lon": 74.4947,
+    "population": 26994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dera Ismāīl Khān District",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 31.8596,
+    "lon": 70.6488,
+    "population": 26969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qadirpur Ran",
+    "region": "Punjab",
+    "lat": 30.2918,
+    "lon": 71.6716,
+    "population": 26945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minchinabad",
+    "region": "Punjab",
+    "lat": 30.1636,
+    "lon": 73.5686,
+    "population": 26939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Wazīristān Agency",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 32.9509,
+    "lon": 69.9576,
+    "population": 26820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skardu",
+    "region": "Gilgit-Baltistan",
+    "lat": 35.2979,
+    "lon": 75.6337,
+    "population": 26722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamar Mushani",
+    "region": "Punjab",
+    "lat": 32.8432,
+    "lon": 71.3619,
+    "population": 26638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sukkur",
+    "region": "Sindh",
+    "lat": 27.7032,
+    "lon": 68.8589,
+    "population": 26532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaida",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0595,
+    "lon": 72.4669,
+    "population": 26405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goth Garelo",
+    "region": "Sindh",
+    "lat": 27.4352,
+    "lon": 68.0757,
+    "population": 26032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buner District",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.443,
+    "lon": 72.4993,
+    "population": 25970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasan Abdal",
+    "region": "Punjab",
+    "lat": 33.8195,
+    "lon": 72.689,
+    "population": 25850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tando Mitha Khan",
+    "region": "Sindh",
+    "lat": 25.9962,
+    "lon": 69.2025,
+    "population": 25842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larkana",
+    "region": "Sindh",
+    "lat": 27.559,
+    "lon": 68.212,
+    "population": 25832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chunian",
+    "region": "Punjab",
+    "lat": 30.9662,
+    "lon": 73.9791,
+    "population": 25530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Awārān District",
+    "region": "Balochistan",
+    "lat": 26.2116,
+    "lon": 65.4294,
+    "population": 25149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daromehar",
+    "region": "Sindh",
+    "lat": 24.7938,
+    "lon": 68.1798,
+    "population": 25077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandiaro",
+    "region": "Sindh",
+    "lat": 27.0592,
+    "lon": 68.2102,
+    "population": 25074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garhiyasin",
+    "region": "Sindh",
+    "lat": 27.9063,
+    "lon": 68.5121,
+    "population": 24896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khadan Khak",
+    "region": "Balochistan",
+    "lat": 30.7524,
+    "lon": 67.7113,
+    "population": 24641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirpur District",
+    "region": "Azad Kashmir",
+    "lat": 33.2156,
+    "lon": 73.7514,
+    "population": 24611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahmedpur East",
+    "region": "Punjab",
+    "lat": 29.1427,
+    "lon": 71.2577,
+    "population": 24155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirpur Bhtoro",
+    "region": "Sindh",
+    "lat": 24.7285,
+    "lon": 68.2601,
+    "population": 24038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Battagram",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.6772,
+    "lon": 73.0233,
+    "population": 24000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamra",
+    "region": "Punjab",
+    "lat": 33.747,
+    "lon": 73.5123,
+    "population": 23976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shakargarh",
+    "region": "Punjab",
+    "lat": 32.2636,
+    "lon": 75.1601,
+    "population": 23905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okara",
+    "region": "Punjab",
+    "lat": 30.8103,
+    "lon": 73.4515,
+    "population": 23549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jampur",
+    "region": "Punjab",
+    "lat": 29.6424,
+    "lon": 70.5952,
+    "population": 23537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ratodero",
+    "region": "Sindh",
+    "lat": 27.8023,
+    "lon": 68.289,
+    "population": 23497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulri",
+    "region": "Sindh",
+    "lat": 24.8667,
+    "lon": 68.3333,
+    "population": 23436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tando Muhammad Khan",
+    "region": "Sindh",
+    "lat": 25.1238,
+    "lon": 68.5368,
+    "population": 23337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasni",
+    "region": "Balochistan",
+    "lat": 25.263,
+    "lon": 63.4692,
+    "population": 23283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sargodha",
+    "region": "Punjab",
+    "lat": 32.0859,
+    "lon": 72.6742,
+    "population": 23281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabwah",
+    "region": "Punjab",
+    "lat": 31.7551,
+    "lon": 72.914,
+    "population": 23269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mithi",
+    "region": "Sindh",
+    "lat": 24.737,
+    "lon": 69.7971,
+    "population": 23249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahpur Chakar",
+    "region": "Sindh",
+    "lat": 26.1541,
+    "lon": 68.6501,
+    "population": 23224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muzaffarābād",
+    "region": "Azad Kashmir",
+    "lat": 34.37,
+    "lon": 73.4708,
+    "population": 23166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baddomalhi",
+    "region": "Punjab",
+    "lat": 31.9904,
+    "lon": 74.6641,
+    "population": 23142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chhor",
+    "region": "Sindh",
+    "lat": 25.5126,
+    "lon": 69.7844,
+    "population": 23118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sann",
+    "region": "Sindh",
+    "lat": 26.0403,
+    "lon": 68.1376,
+    "population": 23085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lasbela District",
+    "region": "Balochistan",
+    "lat": 25.7863,
+    "lon": 66.6033,
+    "population": 22983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibi",
+    "region": "Balochistan",
+    "lat": 29.543,
+    "lon": 67.8773,
+    "population": 22983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mianke Mor",
+    "region": "Punjab",
+    "lat": 31.2024,
+    "lon": 73.9486,
+    "population": 22871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakhri Ahmad Khan",
+    "region": "Punjab",
+    "lat": 30.7359,
+    "lon": 70.838,
+    "population": 22796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasur",
+    "region": "Punjab",
+    "lat": 31.1187,
+    "lon": 74.4502,
+    "population": 22709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pithoro",
+    "region": "Sindh",
+    "lat": 25.5112,
+    "lon": 69.378,
+    "population": 22661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daud Khel",
+    "region": "Punjab",
+    "lat": 32.875,
+    "lon": 71.5701,
+    "population": 22604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quetta District",
+    "region": "Balochistan",
+    "lat": 30.1746,
+    "lon": 66.762,
+    "population": 22520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Wazīristān Agency",
+    "region": "Federally Administered Tribal Areas",
+    "lat": 32.304,
+    "lon": 69.6821,
+    "population": 22361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalabagh",
+    "region": "Punjab",
+    "lat": 32.9616,
+    "lon": 71.5464,
+    "population": 22220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khurrianwala",
+    "region": "Punjab",
+    "lat": 31.4994,
+    "lon": 73.2676,
+    "population": 22213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malakwal City",
+    "region": "Punjab",
+    "lat": 32.5549,
+    "lon": 73.2122,
+    "population": 22164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhit Shah",
+    "region": "Sindh",
+    "lat": 25.8056,
+    "lon": 68.4914,
+    "population": 22026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandhi",
+    "region": "Sindh",
+    "lat": 26.5876,
+    "lon": 68.3021,
+    "population": 21887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mankera",
+    "region": "Punjab",
+    "lat": 31.3877,
+    "lon": 71.4405,
+    "population": 21850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhang",
+    "region": "Punjab",
+    "lat": 31.3057,
+    "lon": 72.3259,
+    "population": 21512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Multan District",
+    "region": "Punjab",
+    "lat": 30.0833,
+    "lon": 71.6667,
+    "population": 21497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunjah",
+    "region": "Punjab",
+    "lat": 32.5298,
+    "lon": 73.9749,
+    "population": 21453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohlu",
+    "region": "Balochistan",
+    "lat": 29.8965,
+    "lon": 69.2532,
+    "population": 21389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faqirwali",
+    "region": "Punjab",
+    "lat": 29.468,
+    "lon": 73.0349,
+    "population": 21380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khuzdar",
+    "region": "Balochistan",
+    "lat": 27.8119,
+    "lon": 66.611,
+    "population": 21309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangi",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.3009,
+    "lon": 71.6524,
+    "population": 21291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madeji",
+    "region": "Sindh",
+    "lat": 27.7531,
+    "lon": 68.4517,
+    "population": 21156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohat",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 33.582,
+    "lon": 71.4493,
+    "population": 20776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Jo Goth",
+    "region": "Sindh",
+    "lat": 27.5918,
+    "lon": 68.6185,
+    "population": 20679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daira Din Panah",
+    "region": "Punjab",
+    "lat": 30.5705,
+    "lon": 70.9372,
+    "population": 20664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zahir Pir",
+    "region": "Punjab",
+    "lat": 28.8128,
+    "lon": 70.5234,
+    "population": 20648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Sultan",
+    "region": "Punjab",
+    "lat": 30.7737,
+    "lon": 70.9313,
+    "population": 20502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kashmor",
+    "region": "Sindh",
+    "lat": 28.4326,
+    "lon": 69.5836,
+    "population": 20469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khairpur Nathan Shah",
+    "region": "Sindh",
+    "lat": 27.0906,
+    "lon": 67.7349,
+    "population": 20408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadhar",
+    "region": "Balochistan",
+    "lat": 29.4749,
+    "lon": 67.6517,
+    "population": 20263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahdad Kot",
+    "region": "Sindh",
+    "lat": 27.8473,
+    "lon": 67.9068,
+    "population": 20241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhalwal",
+    "region": "Punjab",
+    "lat": 32.2658,
+    "lon": 72.8981,
+    "population": 20159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dijkot",
+    "region": "Punjab",
+    "lat": 31.2173,
+    "lon": 72.9962,
+    "population": 20116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakki",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 32.6072,
+    "lon": 70.9123,
+    "population": 19934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naushahro Firoz",
+    "region": "Sindh",
+    "lat": 26.8401,
+    "lon": 68.1226,
+    "population": 19902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narang Mandi",
+    "region": "Punjab",
+    "lat": 31.9038,
+    "lon": 74.5159,
+    "population": 19887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wah",
+    "region": "Punjab",
+    "lat": 33.81,
+    "lon": 72.7097,
+    "population": 19705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rohri",
+    "region": "Sindh",
+    "lat": 27.692,
+    "lon": 68.895,
+    "population": 19513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talamba",
+    "region": "Punjab",
+    "lat": 30.5269,
+    "lon": 72.2408,
+    "population": 19080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahawalnagar",
+    "region": "Punjab",
+    "lat": 29.9983,
+    "lon": 73.2527,
+    "population": 19016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandhkot",
+    "region": "Sindh",
+    "lat": 28.2457,
+    "lon": 69.1797,
+    "population": 18943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sheikhupura",
+    "region": "Punjab",
+    "lat": 31.7129,
+    "lon": 73.9856,
+    "population": 18644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalalpur Pirwala",
+    "region": "Punjab",
+    "lat": 29.5051,
+    "lon": 71.222,
+    "population": 18514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaman",
+    "region": "Balochistan",
+    "lat": 30.9177,
+    "lon": 66.4526,
+    "population": 18462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhan",
+    "region": "Sindh",
+    "lat": 26.5583,
+    "lon": 67.7214,
+    "population": 18376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohror Pakka",
+    "region": "Punjab",
+    "lat": 29.6238,
+    "lon": 71.9167,
+    "population": 18170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadu",
+    "region": "Sindh",
+    "lat": 26.7303,
+    "lon": 67.7769,
+    "population": 18164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamalia",
+    "region": "Punjab",
+    "lat": 30.7271,
+    "lon": 72.6461,
+    "population": 18154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tharu Shah",
+    "region": "Sindh",
+    "lat": 26.9423,
+    "lon": 68.1176,
+    "population": 18047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sohbatpur",
+    "region": "Balochistan",
+    "lat": 28.5204,
+    "lon": 68.543,
+    "population": 17821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwadar",
+    "region": "Balochistan",
+    "lat": 25.1216,
+    "lon": 62.3254,
+    "population": 17808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surab",
+    "region": "Balochistan",
+    "lat": 28.4928,
+    "lon": 66.26,
+    "population": 17527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khairpur",
+    "region": "Sindh",
+    "lat": 28.0644,
+    "lon": 69.7036,
+    "population": 17174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haveli Lakha",
+    "region": "Punjab",
+    "lat": 30.451,
+    "lon": 73.6937,
+    "population": 16884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mian Channun",
+    "region": "Punjab",
+    "lat": 30.4407,
+    "lon": 72.3568,
+    "population": 16750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panjgūr District",
+    "region": "Balochistan",
+    "lat": 26.7375,
+    "lon": 64.2038,
+    "population": 16670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bat Khela",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.6178,
+    "lon": 71.9725,
+    "population": 16519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taunsa",
+    "region": "Punjab",
+    "lat": 30.7036,
+    "lon": 70.6505,
+    "population": 16429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunyapur",
+    "region": "Punjab",
+    "lat": 29.8027,
+    "lon": 71.7434,
+    "population": 16395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhob",
+    "region": "Balochistan",
+    "lat": 31.3408,
+    "lon": 69.4493,
+    "population": 16393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangla Hill",
+    "region": "Punjab",
+    "lat": 31.7167,
+    "lon": 73.3833,
+    "population": 16249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basirpur",
+    "region": "Punjab",
+    "lat": 30.5776,
+    "lon": 73.8391,
+    "population": 16241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Samaba",
+    "region": "Punjab",
+    "lat": 28.5521,
+    "lon": 70.4684,
+    "population": 16219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mastung District",
+    "region": "Balochistan",
+    "lat": 29.7946,
+    "lon": 66.7207,
+    "population": 15972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotli",
+    "region": "Azad Kashmir",
+    "lat": 33.5184,
+    "lon": 73.9022,
+    "population": 15803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dera Ghazi Khan",
+    "region": "Punjab",
+    "lat": 30.0459,
+    "lon": 70.6403,
+    "population": 15794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghauspur",
+    "region": "Sindh",
+    "lat": 28.1388,
+    "lon": 69.0824,
+    "population": 15593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noorabad",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.252,
+    "lon": 71.9666,
+    "population": 15590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nushki",
+    "region": "Balochistan",
+    "lat": 29.5522,
+    "lon": 66.0229,
+    "population": 15405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dipalpur",
+    "region": "Punjab",
+    "lat": 30.6698,
+    "lon": 73.6531,
+    "population": 15313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Addu Tehsil",
+    "region": "Punjab",
+    "lat": 30.4691,
+    "lon": 70.967,
+    "population": 15298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chichawatni",
+    "region": "Punjab",
+    "lat": 30.5301,
+    "lon": 72.6916,
+    "population": 15257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khārān District",
+    "region": "Balochistan",
+    "lat": 27.9631,
+    "lon": 64.5711,
+    "population": 15087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sodhra",
+    "region": "Punjab",
+    "lat": 32.4621,
+    "lon": 74.1821,
+    "population": 14975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mardan",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.1979,
+    "lon": 72.0496,
+    "population": 14940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sehwan",
+    "region": "Sindh",
+    "lat": 26.4249,
+    "lon": 67.8613,
+    "population": 14845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keti Bandar",
+    "region": "Sindh",
+    "lat": 24.1442,
+    "lon": 67.4509,
+    "population": 14843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kakad Wari Dir Upper",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.998,
+    "lon": 72.073,
+    "population": 14756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chak Two Hundred Forty-Nine TDA",
+    "region": "Punjab",
+    "lat": 31.1777,
+    "lon": 71.2048,
+    "population": 14640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dinga",
+    "region": "Punjab",
+    "lat": 32.641,
+    "lon": 73.7204,
+    "population": 14609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quetta",
+    "region": "Balochistan",
+    "lat": 30.1841,
+    "lon": 67.0014,
+    "population": 14602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nowshera",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.0158,
+    "lon": 71.9812,
+    "population": 14583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vihari",
+    "region": "Punjab",
+    "lat": 30.0445,
+    "lon": 72.3556,
+    "population": 14565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nankana Sahib",
+    "region": "Punjab",
+    "lat": 31.4501,
+    "lon": 73.7065,
+    "population": 14562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paharpur",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 32.105,
+    "lon": 70.9706,
+    "population": 14478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ladhewala Waraich",
+    "region": "Punjab",
+    "lat": 32.1569,
+    "lon": 74.1156,
+    "population": 14346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghotki",
+    "region": "Sindh",
+    "lat": 28.0044,
+    "lon": 69.3157,
+    "population": 14294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahdadpur",
+    "region": "Sindh",
+    "lat": 25.9254,
+    "lon": 68.6228,
+    "population": 14199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turbat",
+    "region": "Balochistan",
+    "lat": 26.0012,
+    "lon": 63.0485,
+    "population": 14159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raiwind",
+    "region": "Punjab",
+    "lat": 31.249,
+    "lon": 74.2153,
+    "population": 14139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhawana",
+    "region": "Punjab",
+    "lat": 31.5688,
+    "lon": 72.6492,
+    "population": 14039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sobhodero",
+    "region": "Sindh",
+    "lat": 27.3047,
+    "lon": 68.3971,
+    "population": 13997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kario Ghanwar",
+    "region": "Sindh",
+    "lat": 24.8082,
+    "lon": 68.6048,
+    "population": 13918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Begowala",
+    "region": "Punjab",
+    "lat": 32.4382,
+    "lon": 74.2679,
+    "population": 13886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zafarwal",
+    "region": "Punjab",
+    "lat": 32.3446,
+    "lon": 74.8999,
+    "population": 13623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalbandin",
+    "region": "Balochistan",
+    "lat": 28.8885,
+    "lon": 64.4062,
+    "population": 13481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dandot RS",
+    "region": "Punjab",
+    "lat": 32.6417,
+    "lon": 72.975,
+    "population": 13447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tando Allahyar",
+    "region": "Sindh",
+    "lat": 25.4605,
+    "lon": 68.7174,
+    "population": 13424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abbottabad",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.1463,
+    "lon": 73.2117,
+    "population": 13423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baffa",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.4377,
+    "lon": 73.2237,
+    "population": 13336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tank",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 32.2171,
+    "lon": 70.3832,
+    "population": 13213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shorkot",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 31.9102,
+    "lon": 70.8776,
+    "population": 13211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nawabshah",
+    "region": "Sindh",
+    "lat": 26.2394,
+    "lon": 68.4037,
+    "population": 13100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kot Mumin",
+    "region": "Punjab",
+    "lat": 32.1884,
+    "lon": 73.0299,
+    "population": 13090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirpur Sakro",
+    "region": "Sindh",
+    "lat": 24.5469,
+    "lon": 67.628,
+    "population": 13072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ormara",
+    "region": "Balochistan",
+    "lat": 25.2102,
+    "lon": 64.6363,
+    "population": 13067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dinan Bashnoian Wala",
+    "region": "Punjab",
+    "lat": 29.7658,
+    "lon": 73.2656,
+    "population": 13054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chak Azam Saffo",
+    "region": "Punjab",
+    "lat": 30.752,
+    "lon": 73.0283,
+    "population": 13039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mananwala",
+    "region": "Punjab",
+    "lat": 31.588,
+    "lon": 73.6893,
+    "population": 12836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khadro",
+    "region": "Sindh",
+    "lat": 26.1471,
+    "lon": 68.7178,
+    "population": 12687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umerkot",
+    "region": "Punjab",
+    "lat": 25.3614,
+    "lon": 69.7361,
+    "population": 12576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gilgit",
+    "region": "Gilgit-Baltistan",
+    "lat": 35.9187,
+    "lon": 74.3124,
+    "population": 12492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umarkot",
+    "region": "Sindh",
+    "lat": 25.3633,
+    "lon": 69.7418,
+    "population": 12261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thatta",
+    "region": "Sindh",
+    "lat": 24.7475,
+    "lon": 67.9235,
+    "population": 12210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kundian",
+    "region": "Punjab",
+    "lat": 32.4577,
+    "lon": 71.4789,
+    "population": 12069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thal",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 35.4784,
+    "lon": 72.2438,
+    "population": 12061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotli District",
+    "region": "Azad Kashmir",
+    "lat": 33.4456,
+    "lon": 73.9156,
+    "population": 11949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chawinda",
+    "region": "Punjab",
+    "lat": 32.3443,
+    "lon": 74.7051,
+    "population": 11871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahmadpur Sial",
+    "region": "Punjab",
+    "lat": 30.6779,
+    "lon": 71.7434,
+    "population": 11845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liliani",
+    "region": "Punjab",
+    "lat": 32.2039,
+    "lon": 72.9512,
+    "population": 11790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamoke",
+    "region": "Punjab",
+    "lat": 31.9753,
+    "lon": 74.223,
+    "population": 11746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swabi",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.1202,
+    "lon": 72.4698,
+    "population": 11642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moza Shahwala",
+    "region": "Punjab",
+    "lat": 30.8056,
+    "lon": 70.8491,
+    "population": 11623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Layyah District",
+    "region": "Punjab",
+    "lat": 30.968,
+    "lon": 70.943,
+    "population": 11556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rawalpindi District",
+    "region": "Punjab",
+    "lat": 33.4299,
+    "lon": 73.2309,
+    "population": 11548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dera Ismail Khan",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 31.8313,
+    "lon": 70.9017,
+    "population": 11532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burewala",
+    "region": "Punjab",
+    "lat": 30.1667,
+    "lon": 72.65,
+    "population": 11479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lahore",
+    "region": "Punjab",
+    "lat": 31.558,
+    "lon": 74.3507,
+    "population": 11246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashanagro Koto",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.1077,
+    "lon": 72.2452,
+    "population": 11217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jām Sāhib",
+    "region": "Sindh",
+    "lat": 26.2958,
+    "lon": 68.6292,
+    "population": 11206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhaunkal",
+    "region": "Punjab",
+    "lat": 32.4061,
+    "lon": 74.1371,
+    "population": 11048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sialkot",
+    "region": "Punjab",
+    "lat": 32.4927,
+    "lon": 74.5313,
+    "population": 11016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karaundi",
+    "region": "Sindh",
+    "lat": 26.8971,
+    "lon": 68.4064,
+    "population": 10999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khalabat",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.06,
+    "lon": 72.8896,
+    "population": 10917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirwah Gorchani",
+    "region": "Sindh",
+    "lat": 25.3098,
+    "lon": 69.0502,
+    "population": 10819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harnai",
+    "region": "Balochistan",
+    "lat": 30.1008,
+    "lon": 67.9382,
+    "population": 10670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goth Radhan",
+    "region": "Sindh",
+    "lat": 27.1985,
+    "lon": 67.9535,
+    "population": 10619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peshawar",
+    "region": "Khyber Pakhtunkhwa",
+    "lat": 34.008,
+    "lon": 71.5785,
+    "population": 10573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaranwala",
+    "region": "Punjab",
+    "lat": 31.3332,
+    "lon": 73.4187,
+    "population": 10469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahna Nau",
+    "region": "Punjab",
+    "lat": 31.3671,
+    "lon": 74.369,
+    "population": 10333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sambrial",
+    "region": "Punjab",
+    "lat": 32.4783,
+    "lon": 74.3534,
+    "population": 10235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bela",
+    "region": "Balochistan",
+    "lat": 26.2272,
+    "lon": 66.3118,
+    "population": 10150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umerkot District",
+    "region": "Sindh",
+    "lat": 25.37,
+    "lon": 69.73,
+    "population": 10145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mustafabad",
+    "region": "Punjab",
+    "lat": 30.8922,
+    "lon": 73.4989,
+    "population": 10129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhoro Naro",
+    "region": "Sindh",
+    "lat": 25.5048,
+    "lon": 69.5709,
+    "population": 10078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usta Muhammad",
+    "region": "Balochistan",
+    "lat": 28.1772,
+    "lon": 68.0437,
+    "population": 10019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferozewala",
+    "region": "Punjab",
+    "lat": 29.3,
+    "lon": 70.4333,
+    "population": 10005,
+    "timezone": "UTC"
+  }
+]

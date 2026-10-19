@@ -1,0 +1,1138 @@
+[
+  {
+    "name": "As Salamīyah",
+    "region": "Hama Governorate",
+    "lat": 35.0113,
+    "lon": 37.0532,
+    "population": 49868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hama District",
+    "region": "Hama Governorate",
+    "lat": 35.2858,
+    "lon": 37.1263,
+    "population": 49775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muzayrīb",
+    "region": "Daraa Governorate",
+    "lat": 32.7108,
+    "lon": 36.0275,
+    "population": 49567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr Lāhā",
+    "region": "Homs Governorate",
+    "lat": 34.8947,
+    "lon": 36.4958,
+    "population": 49218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Haffah District",
+    "region": "Latakia Governorate",
+    "lat": 35.5969,
+    "lon": 36.112,
+    "population": 49144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tadmur District",
+    "region": "Homs Governorate",
+    "lat": 34.424,
+    "lon": 38.6458,
+    "population": 49096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tadmur",
+    "region": "Homs Governorate",
+    "lat": 34.5624,
+    "lon": 38.284,
+    "population": 48947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deir ez-Zor",
+    "region": "Deir ez-Zor Governorate",
+    "lat": 35.3359,
+    "lon": 40.1408,
+    "population": 48800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghanţū",
+    "region": "Homs Governorate",
+    "lat": 34.822,
+    "lon": 36.6961,
+    "population": 48795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kassab",
+    "region": "Latakia Governorate",
+    "lat": 35.9264,
+    "lon": 35.9897,
+    "population": 48705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Thawrah District",
+    "region": "Al-Raqqah Governorate",
+    "lat": 35.7984,
+    "lon": 38.3455,
+    "population": 48339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Irbīn",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.5372,
+    "lon": 36.3663,
+    "population": 48232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tartouss",
+    "region": "Tartus Governorate",
+    "lat": 34.889,
+    "lon": 35.8866,
+    "population": 48141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Sanamayn District",
+    "region": "Daraa Governorate",
+    "lat": 33.1256,
+    "lon": 36.2754,
+    "population": 47980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damascus",
+    "region": "Damascus Governorate",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "population": 47940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manbij District",
+    "region": "Aleppo Governorate",
+    "lat": 36.0669,
+    "lon": 37.9173,
+    "population": 47746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr Takhārīm",
+    "region": "Idlib Governorate",
+    "lat": 36.1168,
+    "lon": 36.5152,
+    "population": 47690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dayr al ‘Aşāfīr",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.4659,
+    "lon": 36.4204,
+    "population": 47450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarābulus",
+    "region": "Aleppo Governorate",
+    "lat": 36.8175,
+    "lon": 38.0111,
+    "population": 46459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mayādīn",
+    "region": "Deir ez-Zor Governorate",
+    "lat": 35.0198,
+    "lon": 40.4515,
+    "population": 46426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Quşayr",
+    "region": "Homs Governorate",
+    "lat": 34.5078,
+    "lon": 36.5803,
+    "population": 46046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dārayyā",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.4584,
+    "lon": 36.2326,
+    "population": 45665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jisr ash Shughūr",
+    "region": "Idlib Governorate",
+    "lat": 35.8142,
+    "lon": 36.3198,
+    "population": 45450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zabadānī",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.7249,
+    "lon": 36.1005,
+    "population": 44561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manbij",
+    "region": "Aleppo Governorate",
+    "lat": 36.5281,
+    "lon": 37.9549,
+    "population": 44151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taftanāz",
+    "region": "Idlib Governorate",
+    "lat": 35.9983,
+    "lon": 36.7858,
+    "population": 44067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Atārib",
+    "region": "Aleppo Governorate",
+    "lat": 36.1391,
+    "lon": 36.825,
+    "population": 44033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩalfāyā",
+    "region": "Hama Governorate",
+    "lat": 35.2601,
+    "lon": 36.6058,
+    "population": 44004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dayr Ḩāfir",
+    "region": "Aleppo Governorate",
+    "lat": 36.1569,
+    "lon": 37.7078,
+    "population": 43780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douma",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.5718,
+    "lon": 36.4027,
+    "population": 43453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Salamiyah District",
+    "region": "Hama Governorate",
+    "lat": 35.144,
+    "lon": 37.5924,
+    "population": 43318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tallkalakh",
+    "region": "Homs Governorate",
+    "lat": 34.6684,
+    "lon": 36.26,
+    "population": 42748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "I‘zāz",
+    "region": "Aleppo Governorate",
+    "lat": 36.5866,
+    "lon": 37.0463,
+    "population": 42429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaramānā",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.4862,
+    "lon": 36.3461,
+    "population": 41717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Suqaylibīyah",
+    "region": "Hama Governorate",
+    "lat": 35.3667,
+    "lon": 36.3936,
+    "population": 41660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Safīrah",
+    "region": "Aleppo Governorate",
+    "lat": 36.077,
+    "lon": 37.3725,
+    "population": 41626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şlinfah",
+    "region": "Latakia Governorate",
+    "lat": 35.5982,
+    "lon": 36.1877,
+    "population": 41359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩarāk",
+    "region": "Daraa Governorate",
+    "lat": 32.7493,
+    "lon": 36.3099,
+    "population": 41096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghabāghib",
+    "region": "Daraa Governorate",
+    "lat": 33.1823,
+    "lon": 36.2253,
+    "population": 40815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩamāh",
+    "region": "Hama Governorate",
+    "lat": 35.1318,
+    "lon": 36.7578,
+    "population": 40312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Subaykhān",
+    "region": "Deir ez-Zor Governorate",
+    "lat": 34.8531,
+    "lon": 40.5999,
+    "population": 40243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şūrān",
+    "region": "Aleppo Governorate",
+    "lat": 36.5658,
+    "lon": 37.2127,
+    "population": 39911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izra‘",
+    "region": "Daraa Governorate",
+    "lat": 32.8706,
+    "lon": 36.2545,
+    "population": 39652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Latakia District",
+    "region": "Latakia Governorate",
+    "lat": 35.7243,
+    "lon": 35.9415,
+    "population": 39019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As-Suwayda District",
+    "region": "As-Suwayda Governorate",
+    "lat": 32.7813,
+    "lon": 36.865,
+    "population": 38894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tall Rif‘at",
+    "region": "Aleppo Governorate",
+    "lat": 36.4723,
+    "lon": 37.0947,
+    "population": 38438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ath Thawrah",
+    "region": "Al-Raqqah Governorate",
+    "lat": 35.8376,
+    "lon": 38.5483,
+    "population": 38210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kiswah",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.3581,
+    "lon": 36.2419,
+    "population": 37973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafranbel",
+    "region": "Idlib Governorate",
+    "lat": 35.6138,
+    "lon": 36.5645,
+    "population": 37469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bāb",
+    "region": "Aleppo Governorate",
+    "lat": 36.3705,
+    "lon": 37.5157,
+    "population": 37004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jableh District",
+    "region": "Latakia Governorate",
+    "lat": 35.2905,
+    "lon": 36.0449,
+    "population": 36989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Safita District",
+    "region": "Tartus Governorate",
+    "lat": 34.8042,
+    "lon": 36.1229,
+    "population": 36752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amude",
+    "region": "Al-Hasakah Governorate",
+    "lat": 37.1042,
+    "lon": 40.93,
+    "population": 36743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tallbīsah",
+    "region": "Homs Governorate",
+    "lat": 34.8407,
+    "lon": 36.7309,
+    "population": 36251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Quţayfah",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.7385,
+    "lon": 36.6007,
+    "population": 35750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Darbāsīyah",
+    "region": "Al-Hasakah Governorate",
+    "lat": 37.0728,
+    "lon": 40.652,
+    "population": 35670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şaydnāyā",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.6947,
+    "lon": 36.3715,
+    "population": 34774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tall Abyaḑ",
+    "region": "Al-Raqqah Governorate",
+    "lat": 36.6965,
+    "lon": 38.9538,
+    "population": 34570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hisya",
+    "region": "Homs Governorate",
+    "lat": 34.412,
+    "lon": 36.7587,
+    "population": 34122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aleppo",
+    "region": "Aleppo Governorate",
+    "lat": 36.2012,
+    "lon": 37.1612,
+    "population": 33671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩarastā",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.5587,
+    "lon": 36.3651,
+    "population": 33498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩasakah",
+    "region": "Al-Hasakah Governorate",
+    "lat": 36.5024,
+    "lon": 40.7477,
+    "population": 33442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Latakia",
+    "region": "Latakia Governorate",
+    "lat": 35.5317,
+    "lon": 35.7901,
+    "population": 31846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buşrá ash Shām",
+    "region": "Daraa Governorate",
+    "lat": 32.5201,
+    "lon": 36.4826,
+    "population": 31839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şalkhad",
+    "region": "As-Suwayda Governorate",
+    "lat": 32.492,
+    "lon": 36.7111,
+    "population": 31766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qardaha District",
+    "region": "Latakia Governorate",
+    "lat": 35.3959,
+    "lon": 36.086,
+    "population": 31719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jayrūd",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.8071,
+    "lon": 36.7386,
+    "population": 31646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aş Şanamayn",
+    "region": "Daraa Governorate",
+    "lat": 33.0719,
+    "lon": 36.1832,
+    "population": 31380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ma‘arratmişrīn",
+    "region": "Idlib Governorate",
+    "lat": 36.0115,
+    "lon": 36.6718,
+    "population": 30997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tasīl",
+    "region": "Daraa Governorate",
+    "lat": 32.834,
+    "lon": 35.9697,
+    "population": 30914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harem District",
+    "region": "Idlib Governorate",
+    "lat": 36.1401,
+    "lon": 36.5654,
+    "population": 30754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tell Abyad District",
+    "region": "Al-Raqqah Governorate",
+    "lat": 36.4828,
+    "lon": 39.2136,
+    "population": 30366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mūrak",
+    "region": "Hama Governorate",
+    "lat": 35.3762,
+    "lon": 36.6897,
+    "population": 30074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Nabk",
+    "region": "Rif Dimashq Governorate",
+    "lat": 34.024,
+    "lon": 36.7285,
+    "population": 30033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Rastan District",
+    "region": "Homs Governorate",
+    "lat": 34.871,
+    "lon": 36.7724,
+    "population": 29329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajīn",
+    "region": "Deir ez-Zor Governorate",
+    "lat": 34.6951,
+    "lon": 40.8314,
+    "population": 29297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ţayyibat al Imām",
+    "region": "Hama Governorate",
+    "lat": 35.2659,
+    "lon": 36.7122,
+    "population": 29263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salqīn",
+    "region": "Idlib Governorate",
+    "lat": 36.1386,
+    "lon": 36.4524,
+    "population": 29041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yabrūd",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.9692,
+    "lon": 36.6573,
+    "population": 28728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Simeon District",
+    "region": "Aleppo Governorate",
+    "lat": 35.9996,
+    "lon": 37.0847,
+    "population": 28444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Homs",
+    "region": "Homs Governorate",
+    "lat": 34.7268,
+    "lon": 36.7234,
+    "population": 28263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qārah",
+    "region": "Rif Dimashq Governorate",
+    "lat": 34.1556,
+    "lon": 36.7428,
+    "population": 27905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shaykh Miskīn",
+    "region": "Daraa Governorate",
+    "lat": 32.8294,
+    "lon": 36.1593,
+    "population": 27778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salkhad District",
+    "region": "As-Suwayda Governorate",
+    "lat": 32.5178,
+    "lon": 36.9195,
+    "population": 27692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanāşir",
+    "region": "Aleppo Governorate",
+    "lat": 35.7816,
+    "lon": 37.4992,
+    "population": 26727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr Şaghīr",
+    "region": "Aleppo Governorate",
+    "lat": 36.2926,
+    "lon": 37.2559,
+    "population": 26443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahba District",
+    "region": "As-Suwayda Governorate",
+    "lat": 33.0428,
+    "lon": 36.7203,
+    "population": 26427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inkhil",
+    "region": "Daraa Governorate",
+    "lat": 33.0181,
+    "lon": 36.1283,
+    "population": 26331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tall",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.6103,
+    "lon": 36.3107,
+    "population": 26137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tremseh",
+    "region": "Hama Governorate",
+    "lat": 35.2718,
+    "lon": 36.504,
+    "population": 26108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arīḩā",
+    "region": "Idlib Governorate",
+    "lat": 35.8137,
+    "lon": 36.6096,
+    "population": 25569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qāmishlī",
+    "region": "Al-Hasakah Governorate",
+    "lat": 37.0521,
+    "lon": 41.2314,
+    "population": 25049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Afrīn",
+    "region": "Aleppo Governorate",
+    "lat": 36.5119,
+    "lon": 36.8695,
+    "population": 24555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mukharram al Fawqānī",
+    "region": "Homs Governorate",
+    "lat": 34.8152,
+    "lon": 37.0868,
+    "population": 24471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şalākhid",
+    "region": "As-Suwayda Governorate",
+    "lat": 32.8727,
+    "lon": 36.5727,
+    "population": 23794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jāsim",
+    "region": "Daraa Governorate",
+    "lat": 32.9923,
+    "lon": 36.0602,
+    "population": 23786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medaya",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.6903,
+    "lon": 36.1035,
+    "population": 23474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maarrat al-Nu'man District",
+    "region": "Idlib Governorate",
+    "lat": 35.5386,
+    "lon": 36.7919,
+    "population": 23375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Satita",
+    "region": "Tartus Governorate",
+    "lat": 34.821,
+    "lon": 36.1177,
+    "population": 23259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Bab District",
+    "region": "Aleppo Governorate",
+    "lat": 36.3095,
+    "lon": 37.5328,
+    "population": 23224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souran",
+    "region": "Hama Governorate",
+    "lat": 35.2919,
+    "lon": 36.7485,
+    "population": 22951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izra District",
+    "region": "Daraa Governorate",
+    "lat": 32.9012,
+    "lon": 36.1614,
+    "population": 22888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaff al-Jaa",
+    "region": "Tartus Governorate",
+    "lat": 35.0864,
+    "lon": 36.206,
+    "population": 22193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tall Salḩab",
+    "region": "Hama Governorate",
+    "lat": 35.2588,
+    "lon": 36.3846,
+    "population": 22022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafr Zaytā",
+    "region": "Hama Governorate",
+    "lat": 35.3743,
+    "lon": 36.6033,
+    "population": 22014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darkūsh",
+    "region": "Idlib Governorate",
+    "lat": 35.9918,
+    "lon": 36.3936,
+    "population": 21562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masyaf District",
+    "region": "Hama Governorate",
+    "lat": 35.1033,
+    "lon": 36.3392,
+    "population": 21242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idlib",
+    "region": "Idlib Governorate",
+    "lat": 35.9306,
+    "lon": 36.6339,
+    "population": 20881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As-Suwayda",
+    "region": "As-Suwayda Governorate",
+    "lat": 32.709,
+    "lon": 36.5695,
+    "population": 20601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Duraykīsh",
+    "region": "Tartus Governorate",
+    "lat": 34.8951,
+    "lon": 36.143,
+    "population": 20582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maşyāf",
+    "region": "Hama Governorate",
+    "lat": 35.0653,
+    "lon": 36.3406,
+    "population": 20324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarāqib",
+    "region": "Idlib Governorate",
+    "lat": 35.8645,
+    "lon": 36.8059,
+    "population": 20320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qunayţirah",
+    "region": "Quneitra Governorate",
+    "lat": 33.126,
+    "lon": 35.8246,
+    "population": 20027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩārim",
+    "region": "Idlib Governorate",
+    "lat": 36.2118,
+    "lon": 36.5208,
+    "population": 19854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nubl",
+    "region": "Aleppo Governorate",
+    "lat": 36.3787,
+    "lon": 36.9929,
+    "population": 19788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mālikīyah",
+    "region": "Al-Hasakah Governorate",
+    "lat": 37.177,
+    "lon": 42.1401,
+    "population": 19662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarmīn",
+    "region": "Idlib Governorate",
+    "lat": 35.904,
+    "lon": 36.725,
+    "population": 19161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khān Shaykhūn",
+    "region": "Idlib Governorate",
+    "lat": 35.4421,
+    "lon": 36.651,
+    "population": 18749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāniyās",
+    "region": "Tartus Governorate",
+    "lat": 35.1819,
+    "lon": 35.9487,
+    "population": 18221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jablah",
+    "region": "Latakia Governorate",
+    "lat": 35.3621,
+    "lon": 35.9276,
+    "population": 17946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Ayn al ‘Arab",
+    "region": "Aleppo Governorate",
+    "lat": 36.8909,
+    "lon": 38.3535,
+    "population": 17918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rastan",
+    "region": "Homs Governorate",
+    "lat": 34.9267,
+    "lon": 36.7324,
+    "population": 17838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar-Raqqah District",
+    "region": "Al-Raqqah Governorate",
+    "lat": 35.872,
+    "lon": 39.0471,
+    "population": 17803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dānā",
+    "region": "Idlib Governorate",
+    "lat": 36.2125,
+    "lon": 36.77,
+    "population": 17558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tādif",
+    "region": "Aleppo Governorate",
+    "lat": 36.3481,
+    "lon": 37.5309,
+    "population": 16916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahbā",
+    "region": "As-Suwayda Governorate",
+    "lat": 32.8551,
+    "lon": 36.629,
+    "population": 15780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ālbū Kamāl",
+    "region": "Deir ez-Zor Governorate",
+    "lat": 34.4523,
+    "lon": 40.9185,
+    "population": 15611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armanāz",
+    "region": "Idlib Governorate",
+    "lat": 36.0836,
+    "lon": 36.5031,
+    "population": 15233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Zabadani District",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.7082,
+    "lon": 36.112,
+    "population": 14765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azaz District",
+    "region": "Aleppo Governorate",
+    "lat": 36.4999,
+    "lon": 37.1838,
+    "population": 14606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ţafas",
+    "region": "Daraa Governorate",
+    "lat": 32.7371,
+    "lon": 36.0665,
+    "population": 14011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Malikiyah District",
+    "region": "Al-Hasakah Governorate",
+    "lat": 36.9411,
+    "lon": 41.9016,
+    "population": 13632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qaryatayn",
+    "region": "Homs Governorate",
+    "lat": 34.2296,
+    "lon": 37.2407,
+    "population": 13544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afrin District",
+    "region": "Aleppo Governorate",
+    "lat": 36.5489,
+    "lon": 36.7929,
+    "population": 12425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Raqqah",
+    "region": "Al-Raqqah Governorate",
+    "lat": 35.9528,
+    "lon": 39.0079,
+    "population": 12376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jisr al-Shughur District",
+    "region": "Idlib Governorate",
+    "lat": 35.8776,
+    "lon": 36.329,
+    "population": 12067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binnish",
+    "region": "Idlib Governorate",
+    "lat": 35.9566,
+    "lon": 36.7138,
+    "population": 11907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şadad",
+    "region": "Homs Governorate",
+    "lat": 34.3125,
+    "lon": 36.9256,
+    "population": 11381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaţanā",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.4376,
+    "lon": 36.0789,
+    "population": 11349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dar‘ā",
+    "region": "Daraa Governorate",
+    "lat": 32.6189,
+    "lon": 36.1021,
+    "population": 11255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nawá",
+    "region": "Daraa Governorate",
+    "lat": 32.8904,
+    "lon": 36.0399,
+    "population": 10119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ma‘lūlā",
+    "region": "Rif Dimashq Governorate",
+    "lat": 33.8453,
+    "lon": 36.5451,
+    "population": 10016,
+    "timezone": "UTC"
+  }
+]

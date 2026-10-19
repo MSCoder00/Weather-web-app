@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Soyapango",
+    "region": "San Salvador Department",
+    "lat": 13.7102,
+    "lon": -89.1399,
+    "population": 49367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonacatepeque",
+    "region": "San Salvador Department",
+    "lat": 13.7811,
+    "lon": -89.1186,
+    "population": 48977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "La Libertad Department",
+    "lat": 13.4883,
+    "lon": -89.3222,
+    "population": 48378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín",
+    "region": "Cuscatlán Department",
+    "lat": 13.7833,
+    "lon": -88.9167,
+    "population": 48201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guazapa",
+    "region": "San Salvador Department",
+    "lat": 13.8769,
+    "lon": -89.1731,
+    "population": 48199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Armenia",
+    "region": "Sonsonate Department",
+    "lat": 13.7436,
+    "lon": -89.4989,
+    "population": 47891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasaquina",
+    "region": "La Unión Department",
+    "lat": 13.5844,
+    "lon": -87.8411,
+    "population": 47569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Agustín",
+    "region": "Usulután Department",
+    "lat": 13.4333,
+    "lon": -88.6,
+    "population": 47518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Tecla",
+    "region": "La Libertad Department",
+    "lat": 13.6769,
+    "lon": -89.2797,
+    "population": 47419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olocuilta",
+    "region": "La Paz Department",
+    "lat": 13.5697,
+    "lon": -89.1172,
+    "population": 46889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilopango",
+    "region": "San Salvador Department",
+    "lat": 13.7017,
+    "lon": -89.1094,
+    "population": 46637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tecoluca",
+    "region": "Cuscatlán Department",
+    "lat": 13.7892,
+    "lon": -89.0053,
+    "population": 46393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Esparta",
+    "region": "La Unión Department",
+    "lat": 13.7836,
+    "lon": -87.8386,
+    "population": 45178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalchuapa",
+    "region": "Santa Ana Department",
+    "lat": 13.9867,
+    "lon": -89.6811,
+    "population": 44750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos",
+    "region": "San Salvador Department",
+    "lat": 13.6589,
+    "lon": -89.1831,
+    "population": 44486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antiguo Cuscatlán",
+    "region": "La Libertad Department",
+    "lat": 13.6649,
+    "lon": -89.2532,
+    "population": 44376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ozatlán",
+    "region": "Usulután Department",
+    "lat": 13.3833,
+    "lon": -88.5,
+    "population": 44299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anamorós",
+    "region": "La Unión Department",
+    "lat": 13.7406,
+    "lon": -87.8736,
+    "population": 43761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jucuapa",
+    "region": "Usulután Department",
+    "lat": 13.5167,
+    "lon": -88.3833,
+    "population": 43088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiquilisco",
+    "region": "Usulután Department",
+    "lat": 13.3167,
+    "lon": -88.5833,
+    "population": 42618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Lima",
+    "region": "La Unión Department",
+    "lat": 13.6247,
+    "lon": -87.8936,
+    "population": 40672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Congo",
+    "region": "Santa Ana Department",
+    "lat": 13.9089,
+    "lon": -89.4958,
+    "population": 40131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juayúa",
+    "region": "Sonsonate Department",
+    "lat": 13.8414,
+    "lon": -89.7456,
+    "population": 38988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacuba",
+    "region": "Ahuachapán Department",
+    "lat": 13.9011,
+    "lon": -89.9297,
+    "population": 38881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berlín",
+    "region": "Usulután Department",
+    "lat": 13.5,
+    "lon": -88.5333,
+    "population": 38613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Paisnal",
+    "region": "San Salvador Department",
+    "lat": 13.9736,
+    "lon": -89.2186,
+    "population": 38149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción de Ataco",
+    "region": "Ahuachapán Department",
+    "lat": 13.8703,
+    "lon": -89.8486,
+    "population": 38009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atiquizaya",
+    "region": "Ahuachapán Department",
+    "lat": 13.9769,
+    "lon": -89.7525,
+    "population": 37871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Conchagua",
+    "region": "La Unión Department",
+    "lat": 13.3078,
+    "lon": -87.8647,
+    "population": 37161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción Batres",
+    "region": "Usulután Department",
+    "lat": 13.35,
+    "lon": -88.3667,
+    "population": 35785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tránsito",
+    "region": "San Miguel Department",
+    "lat": 13.35,
+    "lon": -88.35,
+    "population": 35646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chapeltique",
+    "region": "San Miguel Department",
+    "lat": 13.6333,
+    "lon": -88.2667,
+    "population": 34909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosario de Mora",
+    "region": "San Salvador Department",
+    "lat": 13.5753,
+    "lon": -89.2089,
+    "population": 34757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cojutepeque",
+    "region": "Cuscatlán Department",
+    "lat": 13.7167,
+    "lon": -88.9333,
+    "population": 34711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Guadalupe",
+    "region": "San Miguel Department",
+    "lat": 13.5333,
+    "lon": -88.35,
+    "population": 34183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenancingo",
+    "region": "Cuscatlán Department",
+    "lat": 13.8333,
+    "lon": -88.9833,
+    "population": 34143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto El Triunfo",
+    "region": "Usulután Department",
+    "lat": 13.2833,
+    "lon": -88.55,
+    "population": 33916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Texistepeque",
+    "region": "Santa Ana Department",
+    "lat": 14.1333,
+    "lon": -89.5,
+    "population": 33883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahuachapán",
+    "region": "Ahuachapán Department",
+    "lat": 13.9214,
+    "lon": -89.845,
+    "population": 33537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaymango",
+    "region": "Ahuachapán Department",
+    "lat": 13.7503,
+    "lon": -89.8422,
+    "population": 33449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Opico",
+    "region": "La Libertad Department",
+    "lat": 13.8761,
+    "lon": -89.3597,
+    "population": 33351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "Cabañas Department",
+    "lat": 13.95,
+    "lon": -88.6333,
+    "population": 33308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatajiagua",
+    "region": "Morazán Department",
+    "lat": 13.6667,
+    "lon": -88.2,
+    "population": 32585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Alejo",
+    "region": "La Unión Department",
+    "lat": 13.4314,
+    "lon": -87.9631,
+    "population": 32434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apopa",
+    "region": "San Salvador Department",
+    "lat": 13.8072,
+    "lon": -89.1792,
+    "population": 32045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio del Monte",
+    "region": "Sonsonate Department",
+    "lat": 13.7164,
+    "lon": -89.7383,
+    "population": 30801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zacatecoluca",
+    "region": "La Paz Department",
+    "lat": 13.5,
+    "lon": -88.8667,
+    "population": 30651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acajutla",
+    "region": "Sonsonate Department",
+    "lat": 13.5928,
+    "lon": -89.8275,
+    "population": 30322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moncagua",
+    "region": "San Miguel Department",
+    "lat": 13.5333,
+    "lon": -88.25,
+    "population": 29941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sesori",
+    "region": "San Miguel Department",
+    "lat": 13.7167,
+    "lon": -88.3667,
+    "population": 29374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "La Unión Department",
+    "lat": 13.3369,
+    "lon": -87.8439,
+    "population": 28816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panchimalco",
+    "region": "San Salvador Department",
+    "lat": 13.6128,
+    "lon": -89.18,
+    "population": 28772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago Nonualco",
+    "region": "La Paz Department",
+    "lat": 13.5167,
+    "lon": -88.95,
+    "population": 28713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nahuizalco",
+    "region": "Sonsonate Department",
+    "lat": 13.7775,
+    "lon": -89.7367,
+    "population": 28706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Concepción",
+    "region": "Chalatenango Department",
+    "lat": 14.1333,
+    "lon": -89.3,
+    "population": 28623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Cuscatlán",
+    "region": "La Libertad Department",
+    "lat": 13.6486,
+    "lon": -89.2653,
+    "population": 28258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quezaltepeque",
+    "region": "La Libertad Department",
+    "lat": 13.8312,
+    "lon": -89.2722,
+    "population": 28197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Santa Ana Department",
+    "lat": 13.9942,
+    "lon": -89.5597,
+    "population": 27586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonzacate",
+    "region": "Sonsonate Department",
+    "lat": 13.7342,
+    "lon": -89.7147,
+    "population": 27555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delgado",
+    "region": "San Salvador Department",
+    "lat": 13.7242,
+    "lon": -89.1703,
+    "population": 27031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apastepeque",
+    "region": "San Vicente Department",
+    "lat": 13.6667,
+    "lon": -88.7833,
+    "population": 26083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jocoro",
+    "region": "Morazán Department",
+    "lat": 13.6167,
+    "lon": -88.0167,
+    "population": 25111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suchitoto",
+    "region": "Cuscatlán Department",
+    "lat": 13.9381,
+    "lon": -89.0278,
+    "population": 24443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lolotique",
+    "region": "San Miguel Department",
+    "lat": 13.55,
+    "lon": -88.35,
+    "population": 23577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Salvador",
+    "region": "San Salvador Department",
+    "lat": 13.6893,
+    "lon": -89.1872,
+    "population": 23396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalatenango",
+    "region": "Chalatenango Department",
+    "lat": 14.0333,
+    "lon": -88.9333,
+    "population": 23332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael Oriente",
+    "region": "San Miguel Department",
+    "lat": 13.3833,
+    "lon": -88.35,
+    "population": 23147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinameca",
+    "region": "San Miguel Department",
+    "lat": 13.5,
+    "lon": -88.35,
+    "population": 22763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonsonate",
+    "region": "Sonsonate Department",
+    "lat": 13.7189,
+    "lon": -89.7242,
+    "population": 21324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Masahuat",
+    "region": "La Paz Department",
+    "lat": 13.5436,
+    "lon": -89.0386,
+    "population": 20817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jucuarán",
+    "region": "Usulután Department",
+    "lat": 13.2539,
+    "lon": -88.2478,
+    "population": 20658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián",
+    "region": "San Vicente Department",
+    "lat": 13.7333,
+    "lon": -88.8333,
+    "population": 19945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Barrios",
+    "region": "San Miguel Department",
+    "lat": 13.7667,
+    "lon": -88.2667,
+    "population": 19743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sociedad",
+    "region": "Morazán Department",
+    "lat": 13.7,
+    "lon": -88.0167,
+    "population": 19733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de María",
+    "region": "Usulután Department",
+    "lat": 13.4833,
+    "lon": -88.4667,
+    "population": 19650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaragoza",
+    "region": "La Libertad Department",
+    "lat": 13.5894,
+    "lon": -89.2889,
+    "population": 19002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Morazán Department",
+    "lat": 13.7,
+    "lon": -88.1,
+    "population": 18735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sensuntepeque",
+    "region": "Cabañas Department",
+    "lat": 13.8667,
+    "lon": -88.6333,
+    "population": 18462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metapán",
+    "region": "Santa Ana Department",
+    "lat": 14.3333,
+    "lon": -89.45,
+    "population": 18152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayutuxtepeque",
+    "region": "San Salvador Department",
+    "lat": 13.7456,
+    "lon": -89.2064,
+    "population": 17572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "San Miguel Department",
+    "lat": 13.4833,
+    "lon": -88.1833,
+    "population": 17362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usulután",
+    "region": "Usulután Department",
+    "lat": 13.35,
+    "lon": -88.45,
+    "population": 16322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rosario",
+    "region": "La Paz Department",
+    "lat": 13.4978,
+    "lon": -89.0297,
+    "population": 15907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mejicanos",
+    "region": "San Salvador Department",
+    "lat": 13.7403,
+    "lon": -89.2131,
+    "population": 15214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuscatancingo",
+    "region": "San Salvador Department",
+    "lat": 13.7361,
+    "lon": -89.1814,
+    "population": 13846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguilares",
+    "region": "San Salvador Department",
+    "lat": 13.9572,
+    "lon": -89.1897,
+    "population": 13326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coatepeque",
+    "region": "Santa Ana Department",
+    "lat": 13.9286,
+    "lon": -89.5042,
+    "population": 12944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candelaria de La Frontera",
+    "region": "Santa Ana Department",
+    "lat": 14.1167,
+    "lon": -89.65,
+    "population": 12321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cacaopera",
+    "region": "Morazán Department",
+    "lat": 13.7667,
+    "lon": -88.0833,
+    "population": 11831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Intipucá",
+    "region": "La Unión Department",
+    "lat": 13.1969,
+    "lon": -88.0544,
+    "population": 11746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corinto",
+    "region": "Morazán Department",
+    "lat": 13.8108,
+    "lon": -87.9714,
+    "population": 11605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chirilagua",
+    "region": "San Miguel Department",
+    "lat": 13.2203,
+    "lon": -88.1386,
+    "population": 11595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Elena",
+    "region": "Usulután Department",
+    "lat": 13.3833,
+    "lon": -88.4167,
+    "population": 11551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izalco",
+    "region": "Sonsonate Department",
+    "lat": 13.7447,
+    "lon": -89.6731,
+    "population": 11378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Arce",
+    "region": "La Libertad Department",
+    "lat": 13.8403,
+    "lon": -89.4472,
+    "population": 11264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jujutla",
+    "region": "Ahuachapán Department",
+    "lat": 13.7869,
+    "lon": -89.8572,
+    "population": 11229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo Tacachico",
+    "region": "La Libertad Department",
+    "lat": 13.9756,
+    "lon": -89.34,
+    "population": 10877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente",
+    "region": "San Vicente Department",
+    "lat": 13.6333,
+    "lon": -88.8,
+    "population": 10728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomás",
+    "region": "San Salvador Department",
+    "lat": 13.6408,
+    "lon": -89.1333,
+    "population": 10307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco Menéndez",
+    "region": "Ahuachapán Department",
+    "lat": 13.8431,
+    "lon": -90.0158,
+    "population": 10088,
+    "timezone": "UTC"
+  }
+]

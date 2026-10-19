@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Dhuusamarreeb",
+    "region": "Galguduud",
+    "lat": 5.536,
+    "lon": 46.3867,
+    "population": 49828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jilib",
+    "region": "Middle Juba",
+    "lat": 0.4883,
+    "lon": 42.7854,
+    "population": 49656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hobyo",
+    "region": "Mudug",
+    "lat": 5.3505,
+    "lon": 48.5268,
+    "population": 47978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandarbeyla",
+    "region": "Bari",
+    "lat": 9.4942,
+    "lon": 50.8122,
+    "population": 47042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baidoa",
+    "region": "Bay",
+    "lat": 3.1138,
+    "lon": 43.6498,
+    "population": 46572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosaso",
+    "region": "Bari",
+    "lat": 11.2842,
+    "lon": 49.1816,
+    "population": 46511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burao",
+    "region": "Togdheer Region",
+    "lat": 9.5221,
+    "lon": 45.5336,
+    "population": 46341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afgooye",
+    "region": "Lower Shebelle",
+    "lat": 2.1381,
+    "lon": 45.1212,
+    "population": 46205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceerigaabo",
+    "region": "Sanaag Region",
+    "lat": 10.6162,
+    "lon": 47.368,
+    "population": 45730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Khorey",
+    "region": "Sanaag Region",
+    "lat": 11.1595,
+    "lon": 48.1967,
+    "population": 44725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qoryooley",
+    "region": "Lower Shebelle",
+    "lat": 1.7878,
+    "lon": 44.53,
+    "population": 43339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bereeda",
+    "region": "Bari",
+    "lat": 11.8704,
+    "lon": 51.0579,
+    "population": 42832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buur Gaabo",
+    "region": "Lower Juba",
+    "lat": -1.2192,
+    "lon": 41.8372,
+    "population": 41669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamaame",
+    "region": "Lower Juba",
+    "lat": 0.0697,
+    "lon": 42.745,
+    "population": 40527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baardheere",
+    "region": "Gedo",
+    "lat": 2.3446,
+    "lon": 42.2764,
+    "population": 39995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceelbuur",
+    "region": "Galguduud",
+    "lat": 4.685,
+    "lon": 46.6176,
+    "population": 39765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dujuuma",
+    "region": "Middle Juba",
+    "lat": 1.2531,
+    "lon": 42.5738,
+    "population": 38229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oodweyne",
+    "region": "Togdheer Region",
+    "lat": 9.4092,
+    "lon": 45.064,
+    "population": 37750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeed",
+    "region": "Bakool",
+    "lat": 4.55,
+    "lon": 43.0333,
+    "population": 37649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saacow",
+    "region": "Middle Juba",
+    "lat": 1.6279,
+    "lon": 42.4407,
+    "population": 36287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalalaqsi",
+    "region": "Hiran",
+    "lat": 3.3766,
+    "lon": 45.5996,
+    "population": 35848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogadishu",
+    "region": "Banaadir",
+    "lat": 2.0371,
+    "lon": 45.3438,
+    "population": 35443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xuddur",
+    "region": "Bakool",
+    "lat": 4.1213,
+    "lon": 43.8894,
+    "population": 35011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tayeeglow",
+    "region": "Bakool",
+    "lat": 4.019,
+    "lon": 44.5111,
+    "population": 34335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanlaweyn",
+    "region": "Lower Shebelle",
+    "lat": 2.6185,
+    "lon": 44.8938,
+    "population": 31810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garoowe",
+    "region": "Nugal",
+    "lat": 8.4021,
+    "lon": 48.4828,
+    "population": 31292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luuq",
+    "region": "Gedo",
+    "lat": 3.8032,
+    "lon": 42.5442,
+    "population": 29561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garbahaarrey",
+    "region": "Gedo",
+    "lat": 3.3289,
+    "lon": 42.2209,
+    "population": 27423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buulobarde",
+    "region": "Hiran",
+    "lat": 3.8537,
+    "lon": 45.5674,
+    "population": 26436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jawhar",
+    "region": "Middle Shebelle",
+    "lat": 2.7809,
+    "lon": 45.5005,
+    "population": 25956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaalkacyo",
+    "region": "Mudug",
+    "lat": 6.7697,
+    "lon": 47.4308,
+    "population": 25871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qandala",
+    "region": "Bari",
+    "lat": 11.472,
+    "lon": 49.8728,
+    "population": 25826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waajid",
+    "region": "Bakool",
+    "lat": 3.8096,
+    "lon": 43.2463,
+    "population": 24771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceeldheer",
+    "region": "Galguduud",
+    "lat": 3.8488,
+    "lon": 47.1806,
+    "population": 24723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cadale",
+    "region": "Middle Shebelle",
+    "lat": 2.7603,
+    "lon": 46.3222,
+    "population": 23445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beledweyne",
+    "region": "Hiran",
+    "lat": 4.7358,
+    "lon": 45.2036,
+    "population": 22861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eyl",
+    "region": "Nugal",
+    "lat": 7.9803,
+    "lon": 49.8164,
+    "population": 20291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bargaal",
+    "region": "Bari",
+    "lat": 11.2864,
+    "lon": 51.0773,
+    "population": 20152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kismayo",
+    "region": "Lower Juba",
+    "lat": -0.3582,
+    "lon": 42.5454,
+    "population": 19506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buurhakaba",
+    "region": "Bay",
+    "lat": 2.8026,
+    "lon": 44.078,
+    "population": 18811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caluula",
+    "region": "Bari",
+    "lat": 11.9661,
+    "lon": 50.7569,
+    "population": 18013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahaddayweyne",
+    "region": "Middle Shebelle",
+    "lat": 2.9726,
+    "lon": 45.5347,
+    "population": 16830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceek",
+    "region": "Togdheer Region",
+    "lat": 8.9991,
+    "lon": 45.3582,
+    "population": 15012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xarardheere",
+    "region": "Mudug",
+    "lat": 4.6544,
+    "lon": 47.8575,
+    "population": 14391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iskushuban",
+    "region": "Bari",
+    "lat": 10.2837,
+    "lon": 50.23,
+    "population": 12559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marka",
+    "region": "Lower Shebelle",
+    "lat": 1.7159,
+    "lon": 44.7717,
+    "population": 11852,
+    "timezone": "UTC"
+  }
+]

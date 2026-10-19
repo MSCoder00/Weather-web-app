@@ -1,0 +1,1034 @@
+[
+  {
+    "name": "Rasos",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6788,
+    "lon": 25.3117,
+    "population": 49927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramygala",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.514,
+    "lon": 24.3,
+    "population": 49204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plateliai",
+    "region": "Telšiai District Municipality",
+    "lat": 56.0466,
+    "lon": 21.8162,
+    "population": 48800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fabijoniškės",
+    "region": "Vilnius City Municipality",
+    "lat": 54.7333,
+    "lon": 25.2417,
+    "population": 47822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ukmerge",
+    "region": "Vilnius City Municipality",
+    "lat": 55.25,
+    "lon": 24.75,
+    "population": 47679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasvalys",
+    "region": "Panevėžys District Municipality",
+    "lat": 56.0667,
+    "lon": 24.4,
+    "population": 47428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelmė",
+    "region": "Šiauliai City Municipality",
+    "lat": 55.6333,
+    "lon": 22.9333,
+    "population": 47420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varėna",
+    "region": "Alytus City Municipality",
+    "lat": 54.2167,
+    "lon": 24.5667,
+    "population": 47057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirvintos",
+    "region": "Vilnius City Municipality",
+    "lat": 55.05,
+    "lon": 24.95,
+    "population": 46701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kudirkos Naumiestis",
+    "region": "Marijampolė Municipality",
+    "lat": 54.7735,
+    "lon": 22.8614,
+    "population": 46293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trakai",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6378,
+    "lon": 24.9343,
+    "population": 46243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daugai",
+    "region": "Alytus City Municipality",
+    "lat": 54.3667,
+    "lon": 24.3333,
+    "population": 46165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ariogala",
+    "region": "Kaunas City Municipality",
+    "lat": 55.262,
+    "lon": 23.477,
+    "population": 44793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karmėlava",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9706,
+    "lon": 24.0618,
+    "population": 44470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rūdiškės",
+    "region": "Vilnius City Municipality",
+    "lat": 54.5161,
+    "lon": 24.8308,
+    "population": 44401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ignalina",
+    "region": "Utena County",
+    "lat": 55.35,
+    "lon": 26.1667,
+    "population": 44177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birštonas",
+    "region": "Kaunas City Municipality",
+    "lat": 54.6167,
+    "lon": 24.0333,
+    "population": 44101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palanga",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.9175,
+    "lon": 21.0686,
+    "population": 43176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tytuvėnėliai",
+    "region": "Šiauliai City Municipality",
+    "lat": 55.6234,
+    "lon": 23.1716,
+    "population": 42991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birzai",
+    "region": "Panevėžys District Municipality",
+    "lat": 56.2,
+    "lon": 24.75,
+    "population": 42881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mastaiciai",
+    "region": "Kaunas City Municipality",
+    "lat": 54.82,
+    "lon": 23.8446,
+    "population": 42776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilkpėdė",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6697,
+    "lon": 25.2477,
+    "population": 42212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Druskininkai",
+    "region": "Alytus City Municipality",
+    "lat": 54.0157,
+    "lon": 23.987,
+    "population": 41498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rietavas",
+    "region": "Telšiai District Municipality",
+    "lat": 55.7238,
+    "lon": 21.9327,
+    "population": 41195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prienai",
+    "region": "Kaunas City Municipality",
+    "lat": 54.6333,
+    "lon": 23.95,
+    "population": 40668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramučiai",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9483,
+    "lon": 24.0305,
+    "population": 40504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klaipėda",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.7167,
+    "lon": 21.1167,
+    "population": 40267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rokiškis",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.9667,
+    "lon": 25.5833,
+    "population": 40267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dainava (Kaunas)",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9153,
+    "lon": 23.9683,
+    "population": 39481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jonava",
+    "region": "Kaunas City Municipality",
+    "lat": 55.0833,
+    "lon": 24.2833,
+    "population": 39245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rusnė",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.2982,
+    "lon": 21.3712,
+    "population": 38883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šilalė",
+    "region": "Tauragė County",
+    "lat": 55.4667,
+    "lon": 22.2,
+    "population": 38563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilkaviskis",
+    "region": "Marijampolė Municipality",
+    "lat": 54.6517,
+    "lon": 23.0322,
+    "population": 38462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulautuva",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9421,
+    "lon": 23.6422,
+    "population": 38321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilnius District Municipality",
+    "region": "Vilnius City Municipality",
+    "lat": 54.7333,
+    "lon": 25.3833,
+    "population": 38304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pašilaičiai",
+    "region": "Vilnius City Municipality",
+    "lat": 54.7343,
+    "lon": 25.2191,
+    "population": 37705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alytus",
+    "region": "Alytus City Municipality",
+    "lat": 54.3963,
+    "lon": 24.0414,
+    "population": 37647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svencionys",
+    "region": "Vilnius City Municipality",
+    "lat": 55.15,
+    "lon": 26.1667,
+    "population": 37590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veisiejai",
+    "region": "Alytus City Municipality",
+    "lat": 54.1011,
+    "lon": 23.6961,
+    "population": 37436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pabradė",
+    "region": "Vilnius City Municipality",
+    "lat": 54.981,
+    "lon": 25.761,
+    "population": 37396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Švenčionėliai",
+    "region": "Vilnius City Municipality",
+    "lat": 55.1616,
+    "lon": 26.0018,
+    "population": 36717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vievis",
+    "region": "Vilnius City Municipality",
+    "lat": 54.7667,
+    "lon": 24.8,
+    "population": 36340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sargėnai",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9493,
+    "lon": 23.8832,
+    "population": 36233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šeškinė",
+    "region": "Vilnius City Municipality",
+    "lat": 54.7097,
+    "lon": 25.2505,
+    "population": 35564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kretinga",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.8888,
+    "lon": 21.2445,
+    "population": 35117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jurbarkas",
+    "region": "Tauragė County",
+    "lat": 55.1086,
+    "lon": 22.7989,
+    "population": 34980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silute",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.3489,
+    "lon": 21.4831,
+    "population": 34839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obeliai",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.9689,
+    "lon": 25.1565,
+    "population": 34701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nemenčinė",
+    "region": "Vilnius City Municipality",
+    "lat": 54.8478,
+    "lon": 25.4699,
+    "population": 34655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skuodas",
+    "region": "Klaipėda District Municipality",
+    "lat": 56.2667,
+    "lon": 21.5333,
+    "population": 34414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marijampolė Municipality",
+    "region": "Marijampolė Municipality",
+    "lat": 54.5667,
+    "lon": 23.35,
+    "population": 33978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Visaginas",
+    "region": "Utena County",
+    "lat": 55.6,
+    "lon": 26.4167,
+    "population": 33423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naujamiestis",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6795,
+    "lon": 25.2686,
+    "population": 32764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žagarė",
+    "region": "Šiauliai City Municipality",
+    "lat": 56.3615,
+    "lon": 23.2509,
+    "population": 32338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elektrėnai",
+    "region": "Vilnius City Municipality",
+    "lat": 54.7854,
+    "lon": 24.663,
+    "population": 32099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazeikiai",
+    "region": "Telšiai District Municipality",
+    "lat": 56.3167,
+    "lon": 22.3333,
+    "population": 31861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šiauliai",
+    "region": "Šiauliai City Municipality",
+    "lat": 55.9333,
+    "lon": 23.3167,
+    "population": 31607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panevėžys District Municipality",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.733,
+    "lon": 24.3761,
+    "population": 31422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aukstadvaris",
+    "region": "Vilnius City Municipality",
+    "lat": 54.5795,
+    "lon": 24.5268,
+    "population": 31386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilnius",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6892,
+    "lon": 25.2798,
+    "population": 31338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kėdainiai",
+    "region": "Kaunas City Municipality",
+    "lat": 55.2833,
+    "lon": 23.9667,
+    "population": 30859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senieji Trakai",
+    "region": "Vilnius City Municipality",
+    "lat": 54.609,
+    "lon": 24.98,
+    "population": 30835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Venta",
+    "region": "Šiauliai City Municipality",
+    "lat": 56.1916,
+    "lon": 22.6953,
+    "population": 30000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raseiniai",
+    "region": "Kaunas City Municipality",
+    "lat": 55.3667,
+    "lon": 23.1167,
+    "population": 29849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simnas",
+    "region": "Alytus City Municipality",
+    "lat": 54.382,
+    "lon": 23.646,
+    "population": 29730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ežerėlis",
+    "region": "Kaunas City Municipality",
+    "lat": 54.8832,
+    "lon": 23.604,
+    "population": 29179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kybartai",
+    "region": "Marijampolė Municipality",
+    "lat": 54.6386,
+    "lon": 22.7632,
+    "population": 29161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juodupė",
+    "region": "Panevėžys District Municipality",
+    "lat": 56.087,
+    "lon": 25.607,
+    "population": 29044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Priekulė",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.5543,
+    "lon": 21.319,
+    "population": 28539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pagėgiai",
+    "region": "Tauragė County",
+    "lat": 55.134,
+    "lon": 21.9045,
+    "population": 28140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garliava",
+    "region": "Kaunas City Municipality",
+    "lat": 54.8214,
+    "lon": 23.8713,
+    "population": 28049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dūkštas",
+    "region": "Utena County",
+    "lat": 55.522,
+    "lon": 26.321,
+    "population": 27916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žiežmariai",
+    "region": "Kaunas City Municipality",
+    "lat": 54.8073,
+    "lon": 24.4407,
+    "population": 26489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lentvaris",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6436,
+    "lon": 25.0516,
+    "population": 26436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radviliskis",
+    "region": "Šiauliai City Municipality",
+    "lat": 55.8167,
+    "lon": 23.5333,
+    "population": 26149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taurage",
+    "region": "Tauragė County",
+    "lat": 55.2522,
+    "lon": 22.2897,
+    "population": 25908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaišiadorys",
+    "region": "Kaunas City Municipality",
+    "lat": 54.8667,
+    "lon": 24.45,
+    "population": 25392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaunas",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9027,
+    "lon": 23.9096,
+    "population": 25317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilkaviškis District Municipality",
+    "region": "Marijampolė Municipality",
+    "lat": 54.65,
+    "lon": 23.0333,
+    "population": 25096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linkuva",
+    "region": "Šiauliai City Municipality",
+    "lat": 56.086,
+    "lon": 23.9706,
+    "population": 25077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilaitė",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6998,
+    "lon": 25.1839,
+    "population": 24980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Justiniškės",
+    "region": "Vilnius City Municipality",
+    "lat": 54.7166,
+    "lon": 25.2174,
+    "population": 24934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aleksotas",
+    "region": "Kaunas City Municipality",
+    "lat": 54.8804,
+    "lon": 23.9084,
+    "population": 24338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazlų Rūda Municipality",
+    "region": "Marijampolė Municipality",
+    "lat": 54.7475,
+    "lon": 23.4927,
+    "population": 24305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vabalninkas",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.9815,
+    "lon": 24.7483,
+    "population": 24297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akademija (Kaunas)",
+    "region": "Kaunas City Municipality",
+    "lat": 54.8964,
+    "lon": 23.8241,
+    "population": 24270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Būgai",
+    "region": "Tauragė County",
+    "lat": 55.4139,
+    "lon": 22.6089,
+    "population": 24069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šilainiai",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9291,
+    "lon": 23.886,
+    "population": 23966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seda",
+    "region": "Telšiai District Municipality",
+    "lat": 56.1685,
+    "lon": 22.0907,
+    "population": 23758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazlų Rūda",
+    "region": "Marijampolė Municipality",
+    "lat": 54.749,
+    "lon": 23.49,
+    "population": 23622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baltoji Vokė",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6,
+    "lon": 25.1932,
+    "population": 23343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalvarija",
+    "region": "Marijampolė Municipality",
+    "lat": 54.417,
+    "lon": 23.223,
+    "population": 23169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eiguliai",
+    "region": "Kaunas City Municipality",
+    "lat": 54.9313,
+    "lon": 23.9324,
+    "population": 22974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žemaičių Naumiestis",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.3594,
+    "lon": 21.7036,
+    "population": 22627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plunge",
+    "region": "Telšiai District Municipality",
+    "lat": 55.9114,
+    "lon": 21.8442,
+    "population": 21397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalvarija Municipality",
+    "region": "Marijampolė Municipality",
+    "lat": 54.4147,
+    "lon": 23.2248,
+    "population": 21182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panevėžys",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.7333,
+    "lon": 24.35,
+    "population": 21028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilkija",
+    "region": "Kaunas City Municipality",
+    "lat": 55.0461,
+    "lon": 23.5855,
+    "population": 20747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakiai",
+    "region": "Marijampolė Municipality",
+    "lat": 54.95,
+    "lon": 23.05,
+    "population": 19853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akmenė",
+    "region": "Šiauliai City Municipality",
+    "lat": 56.25,
+    "lon": 22.75,
+    "population": 19736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joniškis",
+    "region": "Šiauliai City Municipality",
+    "lat": 56.2333,
+    "lon": 23.6167,
+    "population": 19694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nida",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.3086,
+    "lon": 20.9965,
+    "population": 19629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utena",
+    "region": "Utena County",
+    "lat": 55.4976,
+    "lon": 25.5992,
+    "population": 19600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moletai",
+    "region": "Utena County",
+    "lat": 55.2333,
+    "lon": 25.4167,
+    "population": 19421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virbalis",
+    "region": "Marijampolė Municipality",
+    "lat": 54.6286,
+    "lon": 22.8227,
+    "population": 18848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jieznas",
+    "region": "Kaunas City Municipality",
+    "lat": 54.5994,
+    "lon": 24.1759,
+    "population": 18406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panevėžys City",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.736,
+    "lon": 24.3435,
+    "population": 18257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kupiskis",
+    "region": "Panevėžys District Municipality",
+    "lat": 55.8403,
+    "lon": 24.9798,
+    "population": 18015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakruojis",
+    "region": "Šiauliai City Municipality",
+    "lat": 55.9667,
+    "lon": 23.8667,
+    "population": 17460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viekšniai",
+    "region": "Telšiai District Municipality",
+    "lat": 56.236,
+    "lon": 22.5167,
+    "population": 17457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lazdynai",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6681,
+    "lon": 25.2068,
+    "population": 17217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neringa",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.3667,
+    "lon": 21.0667,
+    "population": 16895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuršėnai",
+    "region": "Šiauliai City Municipality",
+    "lat": 56.0032,
+    "lon": 22.9366,
+    "population": 16769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salantai",
+    "region": "Klaipėda District Municipality",
+    "lat": 56.0565,
+    "lon": 21.5689,
+    "population": 16532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anyksciai",
+    "region": "Utena County",
+    "lat": 55.5256,
+    "lon": 25.1026,
+    "population": 15884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skaidiškės",
+    "region": "Vilnius City Municipality",
+    "lat": 54.614,
+    "lon": 25.3957,
+    "population": 15341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarasai",
+    "region": "Utena County",
+    "lat": 55.7333,
+    "lon": 26.25,
+    "population": 15194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telsiai",
+    "region": "Telšiai District Municipality",
+    "lat": 55.9814,
+    "lon": 22.2472,
+    "population": 14809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šalčininkai",
+    "region": "Vilnius City Municipality",
+    "lat": 54.3,
+    "lon": 25.3833,
+    "population": 14372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marijampolė",
+    "region": "Marijampolė Municipality",
+    "lat": 54.5599,
+    "lon": 23.3541,
+    "population": 14158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varniai",
+    "region": "Telšiai District Municipality",
+    "lat": 55.7443,
+    "lon": 22.3725,
+    "population": 13980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lazdijai",
+    "region": "Alytus City Municipality",
+    "lat": 54.2333,
+    "lon": 23.5167,
+    "population": 13828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šeduva",
+    "region": "Šiauliai City Municipality",
+    "lat": 55.7493,
+    "lon": 23.7561,
+    "population": 13740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eišiškės",
+    "region": "Vilnius City Municipality",
+    "lat": 54.1741,
+    "lon": 24.9992,
+    "population": 13227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šventoji",
+    "region": "Klaipėda District Municipality",
+    "lat": 56.0261,
+    "lon": 21.0841,
+    "population": 13120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grigiškės",
+    "region": "Vilnius City Municipality",
+    "lat": 54.6833,
+    "lon": 25.0833,
+    "population": 12468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gargždai",
+    "region": "Klaipėda District Municipality",
+    "lat": 55.7095,
+    "lon": 21.3944,
+    "population": 12059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gelgaudiškis",
+    "region": "Marijampolė Municipality",
+    "lat": 55.0769,
+    "lon": 22.977,
+    "population": 11025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naujoji Akmene",
+    "region": "Šiauliai City Municipality",
+    "lat": 56.3167,
+    "lon": 22.9,
+    "population": 10165,
+    "timezone": "UTC"
+  }
+]

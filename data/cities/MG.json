@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Mahavelona",
+    "region": "Antsiranana Province",
+    "lat": -17.6848,
+    "lon": 49.5087,
+    "population": 42429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vohibinany",
+    "region": "Antsiranana Province",
+    "lat": -17.35,
+    "lon": 49.0333,
+    "population": 38872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marolambo",
+    "region": "Antsiranana Province",
+    "lat": -20.05,
+    "lon": 48.1167,
+    "population": 32907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andovoranto",
+    "region": "Antsiranana Province",
+    "lat": -18.9544,
+    "lon": 49.1094,
+    "population": 32567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toamasina",
+    "region": "Antsiranana Province",
+    "lat": -18.1492,
+    "lon": 49.4023,
+    "population": 31026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toamasina II",
+    "region": "Antsiranana Province",
+    "lat": -17.9405,
+    "lon": 49.1461,
+    "population": 19393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toamasina I",
+    "region": "Antsiranana Province",
+    "lat": -18.1386,
+    "lon": 49.392,
+    "population": 17620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahanoro",
+    "region": "Antsiranana Province",
+    "lat": -19.9,
+    "lon": 48.8,
+    "population": 17169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ampasimanolotra",
+    "region": "Antsiranana Province",
+    "lat": -18.8167,
+    "lon": 49.0667,
+    "population": 14826,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Mentiri",
+    "region": "Brunei-Muara District",
+    "lat": 4.9706,
+    "lon": 115.0208,
+    "population": 46660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berakas A",
+    "region": "Brunei-Muara District",
+    "lat": 4.9703,
+    "lon": 114.9299,
+    "population": 45136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandar Seri Begawan",
+    "region": "Brunei-Muara District",
+    "lat": 4.8903,
+    "lon": 114.9401,
+    "population": 44897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serasa",
+    "region": "Brunei-Muara District",
+    "lat": 5.0172,
+    "lon": 115.0584,
+    "population": 39761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangar",
+    "region": "Temburong District",
+    "lat": 4.7086,
+    "lon": 115.0717,
+    "population": 31313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Belait",
+    "region": "Belait District",
+    "lat": 4.5836,
+    "lon": 114.2312,
+    "population": 21361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seria",
+    "region": "Belait District",
+    "lat": 4.6064,
+    "lon": 114.3248,
+    "population": 19026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapok",
+    "region": "Brunei-Muara District",
+    "lat": 5.0245,
+    "lon": 115.0466,
+    "population": 18677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tutong",
+    "region": "Tutong District",
+    "lat": 4.8028,
+    "lon": 114.6492,
+    "population": 17166,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,3866 @@
+[
+  {
+    "name": "San Ramón",
+    "region": "Junín",
+    "lat": -11.1242,
+    "lon": -75.3573,
+    "population": 49927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lomas",
+    "region": "Piura",
+    "lat": -4.6533,
+    "lon": -80.2467,
+    "population": 49883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Chachapoyas",
+    "region": "Amazonas",
+    "lat": -6.2748,
+    "lon": -77.8107,
+    "population": 49785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de San Miguel",
+    "region": "Cajamarca",
+    "lat": -7,
+    "lon": -79,
+    "population": 49775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cajabamba",
+    "region": "Cajamarca",
+    "lat": -7.6167,
+    "lon": -78.05,
+    "population": 49718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Dos de Mayo",
+    "region": "Huanuco",
+    "lat": -9.9167,
+    "lon": -76.75,
+    "population": 49694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chicama",
+    "region": "La Libertad",
+    "lat": -7.8447,
+    "lon": -79.1469,
+    "population": 49663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lluta",
+    "region": "Arequipa",
+    "lat": -16.0147,
+    "lon": -72.0142,
+    "population": 49656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Caravelí",
+    "region": "Arequipa",
+    "lat": -15.5833,
+    "lon": -74,
+    "population": 49647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imperial",
+    "region": "Lima",
+    "lat": -13.0593,
+    "lon": -76.3527,
+    "population": 49634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llongasora",
+    "region": "Arequipa",
+    "lat": -15.6395,
+    "lon": -71.2992,
+    "population": 49556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomas",
+    "region": "Cusco",
+    "lat": -14.4456,
+    "lon": -72.0842,
+    "population": 49522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Piura",
+    "lat": -5.4023,
+    "lon": -80.7422,
+    "population": 49244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Mariscal Cáceres",
+    "region": "San Martín",
+    "lat": -7.2739,
+    "lon": -77.1822,
+    "population": 49176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Végueta",
+    "region": "Lima",
+    "lat": -11.0225,
+    "lon": -77.6438,
+    "population": 49170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Santa",
+    "region": "Áncash",
+    "lat": -8.9877,
+    "lon": -78.6473,
+    "population": 48781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jayobamba",
+    "region": "Cusco",
+    "lat": -14.0943,
+    "lon": -71.3392,
+    "population": 48776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de San Ignacio",
+    "region": "Cajamarca",
+    "lat": -5.0833,
+    "lon": -79,
+    "population": 48705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Maldonado",
+    "region": "Madre de Dios",
+    "lat": -12.5933,
+    "lon": -69.1891,
+    "population": 48675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta de Bombón",
+    "region": "Arequipa",
+    "lat": -17.1719,
+    "lon": -71.7924,
+    "population": 48661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Canta",
+    "region": "Lima",
+    "lat": -11.4667,
+    "lon": -76.6167,
+    "population": 48510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utcubamba",
+    "region": "Amazonas",
+    "lat": -5.7703,
+    "lon": -78.3285,
+    "population": 48461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Sucre",
+    "region": "Ayacucho",
+    "lat": -14.103,
+    "lon": -73.786,
+    "population": 48404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cajamarca",
+    "region": "Cajamarca",
+    "lat": -7.3333,
+    "lon": -78.4167,
+    "population": 48327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de General Sánchez Cerro",
+    "region": "Moquegua",
+    "lat": -16.5,
+    "lon": -70.6667,
+    "population": 48206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sisa",
+    "region": "San Martín",
+    "lat": -6.6109,
+    "lon": -76.693,
+    "population": 48140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mala",
+    "region": "Lima",
+    "lat": -12.6581,
+    "lon": -76.6308,
+    "population": 47974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Contralmirante Villar",
+    "region": "Tumbes",
+    "lat": -4,
+    "lon": -80.75,
+    "population": 47958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gran Chimu",
+    "region": "La Libertad",
+    "lat": -7.5798,
+    "lon": -78.6472,
+    "population": 47800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Lucanas",
+    "region": "Ayacucho",
+    "lat": -14.5,
+    "lon": -74.3333,
+    "population": 47562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayacucho",
+    "region": "Ayacucho",
+    "lat": -13.1588,
+    "lon": -74.2232,
+    "population": 47477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Nazca",
+    "region": "Ica",
+    "lat": -15,
+    "lon": -75.0833,
+    "population": 47304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Peca",
+    "region": "Amazonas",
+    "lat": -5.6111,
+    "lon": -78.435,
+    "population": 47296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Lima",
+    "lat": -12.0054,
+    "lon": -76.8933,
+    "population": 47061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Talara",
+    "region": "Piura",
+    "lat": -4.4167,
+    "lon": -81.0833,
+    "population": 47058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andahuaylas",
+    "region": "Apurímac",
+    "lat": -13.6556,
+    "lon": -73.3872,
+    "population": 47038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trujillo",
+    "region": "La Libertad",
+    "lat": -8.116,
+    "lon": -79.03,
+    "population": 46929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Alto",
+    "region": "Piura",
+    "lat": -4.2685,
+    "lon": -81.2172,
+    "population": 46915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Yauyos",
+    "region": "Lima",
+    "lat": -12.4167,
+    "lon": -76,
+    "population": 46852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Ica",
+    "region": "Ica",
+    "lat": -14.3386,
+    "lon": -75.6483,
+    "population": 46802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaral",
+    "region": "Lima",
+    "lat": -11.495,
+    "lon": -77.2078,
+    "population": 46718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huancavelica",
+    "region": "Huancavelica",
+    "lat": -12.6667,
+    "lon": -75.25,
+    "population": 46690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguas Verdes",
+    "region": "Tumbes",
+    "lat": -3.4814,
+    "lon": -80.245,
+    "population": 46676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Marañón",
+    "region": "Huanuco",
+    "lat": -8.75,
+    "lon": -76.6667,
+    "population": 46597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Camaná",
+    "region": "Arequipa",
+    "lat": -16.4167,
+    "lon": -72.8333,
+    "population": 46382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quiruvilca",
+    "region": "La Libertad",
+    "lat": -7.9667,
+    "lon": -78.2,
+    "population": 46379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Lambayeque",
+    "lat": -6.7381,
+    "lon": -79.8275,
+    "population": 46325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Espinar",
+    "region": "Cusco",
+    "lat": -14.75,
+    "lon": -71.4167,
+    "population": 46311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Grau",
+    "region": "Apurímac",
+    "lat": -14,
+    "lon": -72.5833,
+    "population": 46059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cajatambo",
+    "region": "Lima",
+    "lat": -10.6667,
+    "lon": -77,
+    "population": 46008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lambayeque",
+    "region": "Lambayeque",
+    "lat": -6.7011,
+    "lon": -79.9061,
+    "population": 45744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Aquijes",
+    "region": "Ica",
+    "lat": -14.0967,
+    "lon": -75.6908,
+    "population": 45672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chancay",
+    "region": "Lima",
+    "lat": -11.5714,
+    "lon": -77.2672,
+    "population": 45462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Grande",
+    "region": "Ica",
+    "lat": -14.516,
+    "lon": -75.1993,
+    "population": 45457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Chupaca",
+    "region": "Junín",
+    "lat": -12.3,
+    "lon": -75.433,
+    "population": 45373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Palpa",
+    "region": "Ica",
+    "lat": -14.4167,
+    "lon": -75.1667,
+    "population": 45350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayaviri",
+    "region": "Puno",
+    "lat": -14.8864,
+    "lon": -70.5889,
+    "population": 45278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chocope",
+    "region": "La Libertad",
+    "lat": -7.7914,
+    "lon": -79.2217,
+    "population": 45155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pujocucho",
+    "region": "Tacna",
+    "lat": -17.1578,
+    "lon": -70.3522,
+    "population": 45064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Castilla",
+    "region": "Arequipa",
+    "lat": -15.5833,
+    "lon": -72.4167,
+    "population": 44999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayabaca",
+    "region": "Piura",
+    "lat": -4.6398,
+    "lon": -79.7149,
+    "population": 44976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaén",
+    "region": "Cajamarca",
+    "lat": -5.7073,
+    "lon": -78.8079,
+    "population": 44926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Tupac Amaru",
+    "region": "Ica",
+    "lat": -13.7113,
+    "lon": -76.1498,
+    "population": 44887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sicaya",
+    "region": "Junín",
+    "lat": -12.0333,
+    "lon": -75.2833,
+    "population": 44867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mollendo",
+    "region": "Arequipa",
+    "lat": -17.0231,
+    "lon": -72.0147,
+    "population": 44866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cutervo",
+    "region": "Cajamarca",
+    "lat": -6.3667,
+    "lon": -78.85,
+    "population": 44856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago",
+    "region": "Ica",
+    "lat": -14.1847,
+    "lon": -75.7112,
+    "population": 44742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinchero",
+    "region": "Cusco",
+    "lat": -13.3922,
+    "lon": -72.0478,
+    "population": 44734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pucara",
+    "region": "Arequipa",
+    "lat": -15.9799,
+    "lon": -71.4599,
+    "population": 44624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Manú",
+    "region": "Madre de Dios",
+    "lat": -12.25,
+    "lon": -71,
+    "population": 44591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Trujillo",
+    "region": "La Libertad",
+    "lat": -8.0833,
+    "lon": -78.9167,
+    "population": 44583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carlos Fermin Fitzcarrald",
+    "region": "Áncash",
+    "lat": -9.0442,
+    "lon": -77.2417,
+    "population": 44540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huarmey",
+    "region": "Áncash",
+    "lat": -9.9167,
+    "lon": -78,
+    "population": 44493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ccaquiracunca",
+    "region": "Cusco",
+    "lat": -14.2768,
+    "lon": -71.4503,
+    "population": 44343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Celendín",
+    "region": "Cajamarca",
+    "lat": -6.8333,
+    "lon": -78.25,
+    "population": 44288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Carabaya",
+    "region": "Puno",
+    "lat": -13.8333,
+    "lon": -70.25,
+    "population": 44243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paiján",
+    "region": "La Libertad",
+    "lat": -7.7329,
+    "lon": -79.3015,
+    "population": 44122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viru",
+    "region": "La Libertad",
+    "lat": -8.522,
+    "lon": -78.6035,
+    "population": 44057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huanca Sancos",
+    "region": "Ayacucho",
+    "lat": -14.076,
+    "lon": -74.428,
+    "population": 44016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Acobamba",
+    "region": "Huancavelica",
+    "lat": -12.75,
+    "lon": -74.6667,
+    "population": 43974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Layo",
+    "region": "Cusco",
+    "lat": -14.4936,
+    "lon": -71.155,
+    "population": 43915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinta",
+    "region": "Cusco",
+    "lat": -14.145,
+    "lon": -71.4069,
+    "population": 43912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Totoral",
+    "region": "Tacna",
+    "lat": -17.4062,
+    "lon": -70.3646,
+    "population": 43902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cotahuasi",
+    "region": "Arequipa",
+    "lat": -15.2131,
+    "lon": -72.8886,
+    "population": 43819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Conchopata",
+    "region": "Cusco",
+    "lat": -14.4697,
+    "lon": -71.1984,
+    "population": 43615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ascope",
+    "region": "La Libertad",
+    "lat": -7.7144,
+    "lon": -79.1078,
+    "population": 43544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olmos",
+    "region": "Lambayeque",
+    "lat": -5.9847,
+    "lon": -79.7453,
+    "population": 43471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rioja",
+    "region": "San Martín",
+    "lat": -6.0568,
+    "lon": -77.1665,
+    "population": 43320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Angaraes",
+    "region": "Huancavelica",
+    "lat": -13,
+    "lon": -74.75,
+    "population": 43274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Subtanjalla",
+    "region": "Ica",
+    "lat": -14.0189,
+    "lon": -75.7581,
+    "population": 43192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jayanca",
+    "region": "Lambayeque",
+    "lat": -6.3908,
+    "lon": -79.8219,
+    "population": 43096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Carhuaz",
+    "region": "Áncash",
+    "lat": -9.317,
+    "lon": -77.551,
+    "population": 43012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paita",
+    "region": "Piura",
+    "lat": -5.0892,
+    "lon": -81.1144,
+    "population": 42841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acolla",
+    "region": "Junín",
+    "lat": -11.7319,
+    "lon": -75.5463,
+    "population": 42809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanacancha",
+    "region": "Huanuco",
+    "lat": -10.2411,
+    "lon": -76.6456,
+    "population": 42776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambopata",
+    "region": "Madre de Dios",
+    "lat": -12.6719,
+    "lon": -69.3555,
+    "population": 42718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paucartambo",
+    "region": "Pasco",
+    "lat": -10.7733,
+    "lon": -75.8111,
+    "population": 42570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagunas",
+    "region": "Loreto",
+    "lat": -5.2269,
+    "lon": -75.6753,
+    "population": 42557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaupimarca",
+    "region": "Pasco",
+    "lat": -10.407,
+    "lon": -76.4617,
+    "population": 42449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pangoa",
+    "region": "Cusco",
+    "lat": -12.1167,
+    "lon": -73,
+    "population": 42415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carhuamayo",
+    "region": "Junín",
+    "lat": -10.9167,
+    "lon": -76.0333,
+    "population": 42402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vizcachane",
+    "region": "Arequipa",
+    "lat": -15.8086,
+    "lon": -71.2011,
+    "population": 42396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asuncion",
+    "region": "Áncash",
+    "lat": -9.1899,
+    "lon": -77.3988,
+    "population": 42274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeberos",
+    "region": "Loreto",
+    "lat": -5.2833,
+    "lon": -76.2833,
+    "population": 42192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pisac",
+    "region": "Cusco",
+    "lat": -13.4225,
+    "lon": -71.8467,
+    "population": 42138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Caylloma",
+    "region": "Arequipa",
+    "lat": -15.6667,
+    "lon": -71.5833,
+    "population": 42009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Chincha",
+    "region": "Ica",
+    "lat": -13.3179,
+    "lon": -75.9393,
+    "population": 41946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tingo María",
+    "region": "Huanuco",
+    "lat": -9.2953,
+    "lon": -75.9957,
+    "population": 41885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cahuanuyo",
+    "region": "Cusco",
+    "lat": -14.3415,
+    "lon": -71.4631,
+    "population": 41642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morococha",
+    "region": "Junín",
+    "lat": -11.5997,
+    "lon": -76.1411,
+    "population": 41473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Independencia",
+    "region": "Lima",
+    "lat": -11.99,
+    "lon": -77.0458,
+    "population": 41354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papayal",
+    "region": "Tumbes",
+    "lat": -4.0777,
+    "lon": -80.7369,
+    "population": 41328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huarochirí",
+    "region": "Lima",
+    "lat": -11.9167,
+    "lon": -76.4167,
+    "population": 41323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Puno",
+    "lat": -15.6979,
+    "lon": -70.6061,
+    "population": 41215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "Cusco",
+    "lat": -14.2028,
+    "lon": -71.3156,
+    "population": 41177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "Loreto",
+    "lat": -4.0192,
+    "lon": -71.1028,
+    "population": 41097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talara",
+    "region": "Piura",
+    "lat": -4.5772,
+    "lon": -81.2719,
+    "population": 41031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carhuaz",
+    "region": "Áncash",
+    "lat": -9.2819,
+    "lon": -77.6447,
+    "population": 40971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de La Convención",
+    "region": "Cusco",
+    "lat": -12,
+    "lon": -73,
+    "population": 40939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huallaga",
+    "region": "San Martín",
+    "lat": -6.7566,
+    "lon": -76.9014,
+    "population": 40849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de San Martín",
+    "region": "San Martín",
+    "lat": -6.5833,
+    "lon": -76.1667,
+    "population": 40825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Jauja",
+    "region": "Junín",
+    "lat": -11.726,
+    "lon": -75.547,
+    "population": 40726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Clemente",
+    "region": "Ica",
+    "lat": -13.6667,
+    "lon": -76.15,
+    "population": 40542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bernal",
+    "region": "Piura",
+    "lat": -5.45,
+    "lon": -80.75,
+    "population": 40526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Lloc",
+    "region": "La Libertad",
+    "lat": -7.4289,
+    "lon": -79.5042,
+    "population": 40521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambo",
+    "region": "Ayacucho",
+    "lat": -14.7985,
+    "lon": -73.9244,
+    "population": 40509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Bongará",
+    "region": "Amazonas",
+    "lat": -5.6834,
+    "lon": -77.8731,
+    "population": 40240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Recuay",
+    "region": "Áncash",
+    "lat": -10,
+    "lon": -77.4167,
+    "population": 40178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puquio",
+    "region": "Ayacucho",
+    "lat": -14.7,
+    "lon": -74.1333,
+    "population": 40174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urubamba",
+    "region": "Cusco",
+    "lat": -13.3047,
+    "lon": -72.1158,
+    "population": 40163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Santa Cruz",
+    "region": "Cajamarca",
+    "lat": -6.8333,
+    "lon": -79,
+    "population": 40004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cusco",
+    "region": "Cusco",
+    "lat": -13.5,
+    "lon": -72,
+    "population": 39800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente de Cañete",
+    "region": "Lima",
+    "lat": -13.0756,
+    "lon": -76.3853,
+    "population": 39788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Concepción",
+    "region": "Junín",
+    "lat": -11.75,
+    "lon": -75,
+    "population": 39729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Paita",
+    "region": "Piura",
+    "lat": -5.1019,
+    "lon": -81.097,
+    "population": 39644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chota",
+    "region": "Cajamarca",
+    "lat": -6.55,
+    "lon": -78.65,
+    "population": 39562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lima Pampa",
+    "region": "Cusco",
+    "lat": -14.0898,
+    "lon": -71.3366,
+    "population": 39500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Contumazá",
+    "region": "Cajamarca",
+    "lat": -7.3333,
+    "lon": -78.9167,
+    "population": 39370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Tambopata",
+    "region": "Madre de Dios",
+    "lat": -12.1995,
+    "lon": -70.0501,
+    "population": 39181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Imperial",
+    "region": "Lima",
+    "lat": -13.0754,
+    "lon": -76.3172,
+    "population": 39162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarumilla",
+    "region": "Tumbes",
+    "lat": -3.5031,
+    "lon": -80.2731,
+    "population": 39039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huanta",
+    "region": "Ayacucho",
+    "lat": -12.5,
+    "lon": -74.1667,
+    "population": 38864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bartolo",
+    "region": "Lima",
+    "lat": -12.3833,
+    "lon": -76.7833,
+    "population": 38862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torata",
+    "region": "Moquegua",
+    "lat": -17.0769,
+    "lon": -70.8433,
+    "population": 38789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilo",
+    "region": "Moquegua",
+    "lat": -17.6319,
+    "lon": -71.3411,
+    "population": 38759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Parinacochas",
+    "region": "Ayacucho",
+    "lat": -15.0297,
+    "lon": -73.6349,
+    "population": 38740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Antabamba",
+    "region": "Apurímac",
+    "lat": -14.4167,
+    "lon": -72.75,
+    "population": 38729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jerónimo",
+    "region": "Apurímac",
+    "lat": -13.6514,
+    "lon": -73.3639,
+    "population": 38615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayna",
+    "region": "Ayacucho",
+    "lat": -12.65,
+    "lon": -73.9167,
+    "population": 38607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maras",
+    "region": "Cusco",
+    "lat": -13.335,
+    "lon": -72.1567,
+    "population": 38458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambo",
+    "region": "Huanuco",
+    "lat": -10.1308,
+    "lon": -76.2047,
+    "population": 38358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaraz",
+    "region": "Áncash",
+    "lat": -9.5278,
+    "lon": -77.5278,
+    "population": 38353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Corongo",
+    "region": "Áncash",
+    "lat": -8.5833,
+    "lon": -77.9167,
+    "population": 38123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queromarca",
+    "region": "Cusco",
+    "lat": -14.1839,
+    "lon": -71.3834,
+    "population": 38117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jerónimo",
+    "region": "Junín",
+    "lat": -11.9559,
+    "lon": -75.2841,
+    "population": 38072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de Chuco",
+    "region": "La Libertad",
+    "lat": -8.141,
+    "lon": -78.1733,
+    "population": 38046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salinera Colán",
+    "region": "Piura",
+    "lat": -5.0333,
+    "lon": -81.0667,
+    "population": 38036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juliaca",
+    "region": "Puno",
+    "lat": -15.5,
+    "lon": -70.1333,
+    "population": 37947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosoc Cancha",
+    "region": "Cusco",
+    "lat": -14.2851,
+    "lon": -71.0877,
+    "population": 37742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Aija",
+    "region": "Áncash",
+    "lat": -9.8333,
+    "lon": -77.6667,
+    "population": 37656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juli",
+    "region": "Puno",
+    "lat": -16.2167,
+    "lon": -69.45,
+    "population": 37594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Pachitea",
+    "region": "Huanuco",
+    "lat": -9.9526,
+    "lon": -75.8139,
+    "population": 37382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lampa",
+    "region": "Puno",
+    "lat": -15.35,
+    "lon": -70.3667,
+    "population": 37330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catacaos",
+    "region": "Piura",
+    "lat": -5.2667,
+    "lon": -80.6833,
+    "population": 37186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Islay",
+    "region": "Arequipa",
+    "lat": -17,
+    "lon": -71.8333,
+    "population": 36997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huasahuasi",
+    "region": "Junín",
+    "lat": -11.2653,
+    "lon": -75.6472,
+    "population": 36967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huaylas",
+    "region": "Áncash",
+    "lat": -8.9167,
+    "lon": -77.8333,
+    "population": 36934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bellavista",
+    "region": "San Martín",
+    "lat": -7.0561,
+    "lon": -76.5911,
+    "population": 36911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minas de Marcona",
+    "region": "Ica",
+    "lat": -15.2119,
+    "lon": -75.1103,
+    "population": 36842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilca",
+    "region": "Lima",
+    "lat": -12.5211,
+    "lon": -76.7372,
+    "population": 36813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarata",
+    "region": "Tacna",
+    "lat": -17.4744,
+    "lon": -70.0328,
+    "population": 36698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Castrovirreyna",
+    "region": "Huancavelica",
+    "lat": -13.1454,
+    "lon": -75.406,
+    "population": 36694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Rodríguez de Mendoza",
+    "region": "Amazonas",
+    "lat": -6.3333,
+    "lon": -77.4167,
+    "population": 36580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Ilo",
+    "region": "Moquegua",
+    "lat": -17.4969,
+    "lon": -71.1672,
+    "population": 36449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cangallo",
+    "region": "Ayacucho",
+    "lat": -13.573,
+    "lon": -74.389,
+    "population": 36403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cullcuyre",
+    "region": "Cusco",
+    "lat": -14.0927,
+    "lon": -71.3312,
+    "population": 36188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Canas",
+    "region": "Cusco",
+    "lat": -14.4108,
+    "lon": -71.3369,
+    "population": 36100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Anta",
+    "region": "Cusco",
+    "lat": -13.5,
+    "lon": -72.3333,
+    "population": 36095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monsefú",
+    "region": "Lambayeque",
+    "lat": -6.8743,
+    "lon": -79.8687,
+    "population": 35935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Calca",
+    "region": "Cusco",
+    "lat": -13,
+    "lon": -72.1667,
+    "population": 35886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qquea",
+    "region": "Cusco",
+    "lat": -14.0542,
+    "lon": -71.3858,
+    "population": 35862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puno",
+    "region": "Puno",
+    "lat": -15.8422,
+    "lon": -70.0199,
+    "population": 35839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de Cao",
+    "region": "La Libertad",
+    "lat": -7.9589,
+    "lon": -79.2392,
+    "population": 35816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chincha Alta",
+    "region": "Ica",
+    "lat": -13.4099,
+    "lon": -76.1324,
+    "population": 35716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Lampa",
+    "region": "Puno",
+    "lat": -15.4167,
+    "lon": -70.5833,
+    "population": 35652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro de Pasco",
+    "region": "Pasco",
+    "lat": -10.6675,
+    "lon": -76.2567,
+    "population": 35623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacocha",
+    "region": "Moquegua",
+    "lat": -17.646,
+    "lon": -71.3448,
+    "population": 35569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "Lambayeque",
+    "lat": -6.7577,
+    "lon": -79.8275,
+    "population": 35550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macusani",
+    "region": "Puno",
+    "lat": -14.0833,
+    "lon": -70.4333,
+    "population": 35528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huancabamba",
+    "region": "Piura",
+    "lat": -5.2386,
+    "lon": -79.4506,
+    "population": 35453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cajamarca",
+    "region": "Cajamarca",
+    "lat": -7.1638,
+    "lon": -78.5003,
+    "population": 35405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otuzco",
+    "region": "La Libertad",
+    "lat": -7.9,
+    "lon": -78.5833,
+    "population": 35350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Dorado",
+    "region": "San Martín",
+    "lat": -6.563,
+    "lon": -76.7413,
+    "population": 35257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Pataz",
+    "region": "La Libertad",
+    "lat": -8.25,
+    "lon": -77.3333,
+    "population": 35210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilcomay",
+    "region": "Junín",
+    "lat": -12.0472,
+    "lon": -75.2493,
+    "population": 35097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chulucanas",
+    "region": "Piura",
+    "lat": -5.0925,
+    "lon": -80.1625,
+    "population": 35078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andoas",
+    "region": "Loreto",
+    "lat": -2.9025,
+    "lon": -76.4025,
+    "population": 34964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Cusco",
+    "lat": -12.8667,
+    "lon": -72.7167,
+    "population": 34796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Celendín",
+    "region": "Cajamarca",
+    "lat": -6.8659,
+    "lon": -78.1458,
+    "population": 34715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Picota",
+    "region": "San Martín",
+    "lat": -6.9203,
+    "lon": -76.3314,
+    "population": 34667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atalaya",
+    "region": "Ucayali",
+    "lat": -10.3898,
+    "lon": -73.2198,
+    "population": 34601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Supe",
+    "region": "Lima",
+    "lat": -10.8013,
+    "lon": -77.7433,
+    "population": 34526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jepelacio",
+    "region": "San Martín",
+    "lat": -6.1167,
+    "lon": -76.95,
+    "population": 34324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campoverde",
+    "region": "Ucayali",
+    "lat": -8.4753,
+    "lon": -74.8071,
+    "population": 34148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chignayhua",
+    "region": "Cusco",
+    "lat": -14.2461,
+    "lon": -71.4444,
+    "population": 34021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de La Unión",
+    "region": "Arequipa",
+    "lat": -15,
+    "lon": -72.8333,
+    "population": 33987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salvación",
+    "region": "Madre de Dios",
+    "lat": -12.8361,
+    "lon": -71.3649,
+    "population": 33975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Ambo",
+    "region": "Huanuco",
+    "lat": -10.1667,
+    "lon": -76.1667,
+    "population": 33968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yungay",
+    "region": "Áncash",
+    "lat": -9.1383,
+    "lon": -77.7436,
+    "population": 33884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padre Abad",
+    "region": "Ucayali",
+    "lat": -8.7968,
+    "lon": -75.4285,
+    "population": 33772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Piura",
+    "region": "Piura",
+    "lat": -5.2142,
+    "lon": -80.4062,
+    "population": 33747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huayna Alcalde",
+    "region": "Cusco",
+    "lat": -14.2699,
+    "lon": -71.096,
+    "population": 33687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Breita",
+    "region": "Piura",
+    "lat": -4.2569,
+    "lon": -80.886,
+    "population": 33678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Indiana",
+    "region": "Loreto",
+    "lat": -3.5014,
+    "lon": -73.0481,
+    "population": 33564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oyon",
+    "region": "Lima",
+    "lat": -10.7587,
+    "lon": -76.8763,
+    "population": 33406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualmay",
+    "region": "Lima",
+    "lat": -11.0964,
+    "lon": -77.6139,
+    "population": 33376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampamarca",
+    "region": "Cusco",
+    "lat": -14.1464,
+    "lon": -71.4594,
+    "population": 33219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarapoto",
+    "region": "San Martín",
+    "lat": -6.5014,
+    "lon": -76.3656,
+    "population": 33092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morropon",
+    "region": "Piura",
+    "lat": -5.25,
+    "lon": -80,
+    "population": 33048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazamari",
+    "region": "Junín",
+    "lat": -11.3258,
+    "lon": -74.5308,
+    "population": 32915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Loreto",
+    "lat": -4.8167,
+    "lon": -76.6,
+    "population": 32824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Acomayo",
+    "region": "Cusco",
+    "lat": -13.9167,
+    "lon": -71.6667,
+    "population": 32782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chanchamayo",
+    "region": "Junín",
+    "lat": -11.05,
+    "lon": -75.3167,
+    "population": 32720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Combapata",
+    "region": "Cusco",
+    "lat": -14.1011,
+    "lon": -71.4294,
+    "population": 32386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Desaguadero",
+    "region": "Puno",
+    "lat": -16.5656,
+    "lon": -69.0417,
+    "population": 32375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "La Libertad",
+    "lat": -7.1881,
+    "lon": -79.5153,
+    "population": 32348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ccuntuma",
+    "region": "Cusco",
+    "lat": -14.1254,
+    "lon": -71.4122,
+    "population": 32269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Pallasca",
+    "region": "Áncash",
+    "lat": -8.3333,
+    "lon": -77.9167,
+    "population": 32143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ccolo",
+    "region": "Arequipa",
+    "lat": -15.5061,
+    "lon": -71.4918,
+    "population": 32083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Otuzco",
+    "region": "La Libertad",
+    "lat": -7.9046,
+    "lon": -78.5636,
+    "population": 32083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Mariscal Nieto",
+    "region": "Moquegua",
+    "lat": -17.0836,
+    "lon": -71.0033,
+    "population": 32073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salitral",
+    "region": "Piura",
+    "lat": -4.8572,
+    "lon": -80.6811,
+    "population": 31973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huamachuco",
+    "region": "La Libertad",
+    "lat": -7.8,
+    "lon": -78.0667,
+    "population": 31895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Bolognesi",
+    "region": "Áncash",
+    "lat": -10.1072,
+    "lon": -77.148,
+    "population": 31887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Pacasmayo",
+    "region": "La Libertad",
+    "lat": -7.25,
+    "lon": -79.5,
+    "population": 31859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acarí",
+    "region": "Arequipa",
+    "lat": -15.4239,
+    "lon": -74.6136,
+    "population": 31842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayán",
+    "region": "Lima",
+    "lat": -11.1333,
+    "lon": -77.1946,
+    "population": 31797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Tacna",
+    "region": "Tacna",
+    "lat": -17.8333,
+    "lon": -70.5,
+    "population": 31735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moche",
+    "region": "La Libertad",
+    "lat": -8.1711,
+    "lon": -79.0092,
+    "population": 31680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Lambayeque",
+    "region": "Lambayeque",
+    "lat": -6.0833,
+    "lon": -80.0833,
+    "population": 31669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huarancante",
+    "region": "Arequipa",
+    "lat": -15.768,
+    "lon": -71.4595,
+    "population": 31520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Requena",
+    "region": "Loreto",
+    "lat": -6.748,
+    "lon": -75.0549,
+    "population": 31463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coracora",
+    "region": "Ayacucho",
+    "lat": -15.0333,
+    "lon": -73.7833,
+    "population": 31445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lima",
+    "region": "Lima",
+    "lat": -12.0432,
+    "lon": -77.0282,
+    "population": 31301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambo Grande",
+    "region": "Piura",
+    "lat": -4.9269,
+    "lon": -80.3447,
+    "population": 31258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilahuani",
+    "region": "Tacna",
+    "lat": -17.3178,
+    "lon": -70.2581,
+    "population": 31246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Pasco",
+    "region": "Pasco",
+    "lat": -10.6667,
+    "lon": -76.0833,
+    "population": 31171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Picsi",
+    "region": "Lambayeque",
+    "lat": -6.7178,
+    "lon": -79.7697,
+    "population": 31157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Rica",
+    "region": "Pasco",
+    "lat": -10.7394,
+    "lon": -75.2697,
+    "population": 31092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oropesa",
+    "region": "Cusco",
+    "lat": -13.5928,
+    "lon": -71.7719,
+    "population": 30657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pomabamba",
+    "region": "Áncash",
+    "lat": -8.8333,
+    "lon": -77.4667,
+    "population": 30619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Huaca",
+    "region": "Piura",
+    "lat": -4.9117,
+    "lon": -80.96,
+    "population": 30615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Paucartambo",
+    "region": "Cusco",
+    "lat": -13.1667,
+    "lon": -71.4167,
+    "population": 30603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huari",
+    "region": "Áncash",
+    "lat": -9.3333,
+    "lon": -77.1667,
+    "population": 30448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urb. Santo Domingo",
+    "region": "Lima",
+    "lat": -11.8765,
+    "lon": -77.0335,
+    "population": 30433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de Surco",
+    "region": "Lima",
+    "lat": -12.1359,
+    "lon": -77.0074,
+    "population": 30073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Leoncio Prado",
+    "region": "Huanuco",
+    "lat": -9.1667,
+    "lon": -76,
+    "population": 29597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camaná",
+    "region": "Arequipa",
+    "lat": -16.6238,
+    "lon": -72.7105,
+    "population": 29555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chipispaya",
+    "region": "Tacna",
+    "lat": -17.4979,
+    "lon": -70.2171,
+    "population": 29529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huarichancara",
+    "region": "Arequipa",
+    "lat": -15.6397,
+    "lon": -71.0611,
+    "population": 29462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oyotún",
+    "region": "Lambayeque",
+    "lat": -6.8444,
+    "lon": -79.3009,
+    "population": 29401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mochumí",
+    "region": "Lambayeque",
+    "lat": -6.5436,
+    "lon": -79.8622,
+    "population": 29349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Túcume",
+    "region": "Lambayeque",
+    "lat": -6.5064,
+    "lon": -79.8572,
+    "population": 29347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilave",
+    "region": "Puno",
+    "lat": -16.0833,
+    "lon": -69.6667,
+    "population": 29224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Lima",
+    "lat": -12.0767,
+    "lon": -76.9943,
+    "population": 29224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Rioja",
+    "region": "San Martín",
+    "lat": -6,
+    "lon": -77.4167,
+    "population": 29180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Bagua",
+    "region": "Amazonas",
+    "lat": -5.0901,
+    "lon": -78.3997,
+    "population": 28968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Jaén",
+    "region": "Cajamarca",
+    "lat": -5.7107,
+    "lon": -79.0044,
+    "population": 28817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soritor",
+    "region": "San Martín",
+    "lat": -6.1392,
+    "lon": -77.1039,
+    "population": 28697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huancavelica",
+    "region": "Huancavelica",
+    "lat": -12.7826,
+    "lon": -74.9727,
+    "population": 28681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yarowilca",
+    "region": "Huanuco",
+    "lat": -9.8026,
+    "lon": -76.5952,
+    "population": 28583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Checacupe",
+    "region": "Cusco",
+    "lat": -14.0269,
+    "lon": -71.4528,
+    "population": 28580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iberia",
+    "region": "Madre de Dios",
+    "lat": -11.35,
+    "lon": -69.5833,
+    "population": 28535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Canchis",
+    "region": "Cusco",
+    "lat": -14.0819,
+    "lon": -71.1856,
+    "population": 28461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punchana",
+    "region": "Loreto",
+    "lat": -3.7167,
+    "lon": -73.2333,
+    "population": 28214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Bolívar",
+    "region": "La Libertad",
+    "lat": -7.3333,
+    "lon": -77.75,
+    "population": 28162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huacho",
+    "region": "Lima",
+    "lat": -11.1067,
+    "lon": -77.605,
+    "population": 28161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Puno",
+    "region": "Puno",
+    "lat": -16,
+    "lon": -70,
+    "population": 28086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Arequipa",
+    "region": "Arequipa",
+    "lat": -16.3333,
+    "lon": -71.5,
+    "population": 28062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Oroya",
+    "region": "Junín",
+    "lat": -11.5189,
+    "lon": -75.8993,
+    "population": 27929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Melgar",
+    "region": "Puno",
+    "lat": -14.75,
+    "lon": -70.75,
+    "population": 27873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Santa",
+    "region": "Áncash",
+    "lat": -9,
+    "lon": -78.25,
+    "population": 27782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranca",
+    "region": "Lima",
+    "lat": -10.75,
+    "lon": -77.7667,
+    "population": 27758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reque",
+    "region": "Lambayeque",
+    "lat": -6.8656,
+    "lon": -79.8178,
+    "population": 27731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Piura",
+    "lat": -5.2608,
+    "lon": -79.9642,
+    "population": 27598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacanga",
+    "region": "La Libertad",
+    "lat": -7.1667,
+    "lon": -79.5,
+    "population": 27592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oxapampa",
+    "region": "Pasco",
+    "lat": -10.5775,
+    "lon": -75.4017,
+    "population": 27553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Condorcanqui",
+    "region": "Amazonas",
+    "lat": -4.1651,
+    "lon": -78.0384,
+    "population": 27535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Luya",
+    "region": "Amazonas",
+    "lat": -6.4167,
+    "lon": -78,
+    "population": 27527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arequipa",
+    "region": "Arequipa",
+    "lat": -16.3989,
+    "lon": -71.535,
+    "population": 27452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huancané",
+    "region": "Puno",
+    "lat": -15.1667,
+    "lon": -69.5833,
+    "population": 27276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Yungay",
+    "region": "Áncash",
+    "lat": -9.1667,
+    "lon": -77.75,
+    "population": 27153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sicuani",
+    "region": "Cusco",
+    "lat": -14.2694,
+    "lon": -71.2261,
+    "population": 27153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talavera",
+    "region": "Apurímac",
+    "lat": -13.6531,
+    "lon": -73.4292,
+    "population": 27140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Satipo",
+    "region": "Junín",
+    "lat": -11.2522,
+    "lon": -74.6386,
+    "population": 27130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagua Grande",
+    "region": "Amazonas",
+    "lat": -5.7561,
+    "lon": -78.4411,
+    "population": 27055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orcotuna",
+    "region": "Junín",
+    "lat": -11.9689,
+    "lon": -75.3078,
+    "population": 26840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio De Putina",
+    "region": "Puno",
+    "lat": -14.7118,
+    "lon": -69.6156,
+    "population": 26772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coishco",
+    "region": "Áncash",
+    "lat": -9.0231,
+    "lon": -78.6156,
+    "population": 26674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calca",
+    "region": "Cusco",
+    "lat": -13.3333,
+    "lon": -71.95,
+    "population": 26613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urcos",
+    "region": "Cusco",
+    "lat": -13.6861,
+    "lon": -71.6228,
+    "population": 26582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cape Pantoja",
+    "region": "Loreto",
+    "lat": -0.9644,
+    "lon": -75.1814,
+    "population": 26425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abancay",
+    "region": "Apurímac",
+    "lat": -13.6339,
+    "lon": -72.8814,
+    "population": 26374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iquitos",
+    "region": "Loreto",
+    "lat": -3.7333,
+    "lon": -73.25,
+    "population": 26341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferreñafe",
+    "region": "Lambayeque",
+    "lat": -6.6389,
+    "lon": -79.7889,
+    "population": 26319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Oxapampa",
+    "region": "Pasco",
+    "lat": -10.3333,
+    "lon": -75.0833,
+    "population": 26287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maranganí",
+    "region": "Cusco",
+    "lat": -14.3567,
+    "lon": -71.1692,
+    "population": 25944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moquegua",
+    "region": "Moquegua",
+    "lat": -17.1983,
+    "lon": -70.9357,
+    "population": 25935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Hualgayoc",
+    "region": "Cajamarca",
+    "lat": -6.68,
+    "lon": -78.53,
+    "population": 25934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yura",
+    "region": "Arequipa",
+    "lat": -16.2522,
+    "lon": -71.6797,
+    "population": 25931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Chiclayo",
+    "region": "Lambayeque",
+    "lat": -6.7667,
+    "lon": -79.85,
+    "population": 25898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamshiyacu",
+    "region": "Loreto",
+    "lat": -4.0032,
+    "lon": -73.1585,
+    "population": 25731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Ferreñafe",
+    "region": "Lambayeque",
+    "lat": -6.3333,
+    "lon": -79.5,
+    "population": 25670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Moyobamba",
+    "region": "San Martín",
+    "lat": -5.75,
+    "lon": -77.25,
+    "population": 25579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ricardo Palma",
+    "region": "Lima",
+    "lat": -11.9198,
+    "lon": -76.6561,
+    "population": 25548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuquitira",
+    "region": "Tacna",
+    "lat": -17.2889,
+    "lon": -70.0436,
+    "population": 25522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nauta",
+    "region": "Loreto",
+    "lat": -4.5083,
+    "lon": -73.5833,
+    "population": 25512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tungasuca",
+    "region": "Cusco",
+    "lat": -14.1639,
+    "lon": -71.4767,
+    "population": 25466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Pisco",
+    "region": "Ica",
+    "lat": -13.8038,
+    "lon": -75.9426,
+    "population": 25437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Callanca",
+    "region": "Cusco",
+    "lat": -14.1814,
+    "lon": -71.1407,
+    "population": 25426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabalosos",
+    "region": "San Martín",
+    "lat": -6.35,
+    "lon": -76.6833,
+    "population": 25366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chepen",
+    "region": "La Libertad",
+    "lat": -7.1437,
+    "lon": -79.4567,
+    "population": 25170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Isidro",
+    "region": "Lima",
+    "lat": -12.1167,
+    "lon": -77.05,
+    "population": 25153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Rinconada",
+    "region": "Puno",
+    "lat": -14.6313,
+    "lon": -69.4464,
+    "population": 25071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Inca",
+    "region": "Huanuco",
+    "lat": -9.367,
+    "lon": -75.0896,
+    "population": 25060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jatun Orcochiri",
+    "region": "Arequipa",
+    "lat": -15.75,
+    "lon": -71.3464,
+    "population": 25007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zorritos",
+    "region": "Tumbes",
+    "lat": -3.6805,
+    "lon": -80.6782,
+    "population": 24993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huánuco",
+    "region": "Huanuco",
+    "lat": -9.6667,
+    "lon": -76.0833,
+    "population": 24973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caballococha",
+    "region": "Loreto",
+    "lat": -3.9058,
+    "lon": -70.5164,
+    "population": 24794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chupaca",
+    "region": "Junín",
+    "lat": -12.0667,
+    "lon": -75.2833,
+    "population": 24714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambamarca",
+    "region": "Cajamarca",
+    "lat": -6.6833,
+    "lon": -78.5333,
+    "population": 24557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Azángaro",
+    "region": "Puno",
+    "lat": -14.8333,
+    "lon": -70.1667,
+    "population": 24504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Chumbivilcas",
+    "region": "Cusco",
+    "lat": -14.4167,
+    "lon": -72,
+    "population": 24231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Lamas",
+    "region": "San Martín",
+    "lat": -6.3333,
+    "lon": -76.6667,
+    "population": 24220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huaral",
+    "region": "Lima",
+    "lat": -11.25,
+    "lon": -76.9167,
+    "population": 24033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palpa",
+    "region": "Ica",
+    "lat": -14.5336,
+    "lon": -75.1856,
+    "population": 23984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Junín",
+    "region": "Junín",
+    "lat": -11.0833,
+    "lon": -76,
+    "population": 23923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Ayacucho",
+    "lat": -13.0125,
+    "lon": -73.9808,
+    "population": 23918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Abancay",
+    "region": "Apurímac",
+    "lat": -13.6667,
+    "lon": -72.9167,
+    "population": 23885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borja",
+    "region": "Loreto",
+    "lat": -4.4333,
+    "lon": -77.55,
+    "population": 23710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llata",
+    "region": "Huanuco",
+    "lat": -9.4167,
+    "lon": -76.7833,
+    "population": 23646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Querecotillo",
+    "region": "Piura",
+    "lat": -4.8378,
+    "lon": -80.6456,
+    "population": 23577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosoc Llacta",
+    "region": "Cusco",
+    "lat": -14.12,
+    "lon": -71.4728,
+    "population": 23565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sechura",
+    "region": "Piura",
+    "lat": -5.5569,
+    "lon": -80.8222,
+    "population": 23564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Vilcas Huamán",
+    "region": "Ayacucho",
+    "lat": -13.632,
+    "lon": -73.888,
+    "population": 23401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Yauli",
+    "region": "Junín",
+    "lat": -11.6667,
+    "lon": -76.1667,
+    "population": 23326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azángaro",
+    "region": "Puno",
+    "lat": -14.9084,
+    "lon": -70.1962,
+    "population": 23316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jayune",
+    "region": "Arequipa",
+    "lat": -15.5628,
+    "lon": -71.3031,
+    "population": 23291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Tahuamanú",
+    "region": "Madre de Dios",
+    "lat": -11.25,
+    "lon": -70.5,
+    "population": 23090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Andahuaylas",
+    "region": "Apurímac",
+    "lat": -13.6667,
+    "lon": -73.4167,
+    "population": 22952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel de Cauri",
+    "region": "Huanuco",
+    "lat": -10.1382,
+    "lon": -76.6229,
+    "population": 22741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanchez Carrion",
+    "region": "La Libertad",
+    "lat": -7.7854,
+    "lon": -77.9259,
+    "population": 22602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Urubamba",
+    "region": "Cusco",
+    "lat": -13.25,
+    "lon": -72.3333,
+    "population": 22424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huicungo",
+    "region": "San Martín",
+    "lat": -7.3186,
+    "lon": -76.7756,
+    "population": 22423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caleta de Carquín",
+    "region": "Lima",
+    "lat": -11.0925,
+    "lon": -77.6267,
+    "population": 22341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Mariscal Luzuriaga",
+    "region": "Áncash",
+    "lat": -8.8333,
+    "lon": -77.25,
+    "population": 22011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huamanga",
+    "region": "Ayacucho",
+    "lat": -13.2,
+    "lon": -74.25,
+    "population": 21953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vice",
+    "region": "Piura",
+    "lat": -5.4167,
+    "lon": -80.7833,
+    "population": 21872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanta",
+    "region": "Ayacucho",
+    "lat": -12.9333,
+    "lon": -74.25,
+    "population": 21520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaytara",
+    "region": "Huancavelica",
+    "lat": -13.6562,
+    "lon": -75.0923,
+    "population": 21484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pisco",
+    "region": "Ica",
+    "lat": -13.7103,
+    "lon": -76.2054,
+    "population": 21408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Callao",
+    "region": "Callao",
+    "lat": -12.0566,
+    "lon": -77.1181,
+    "population": 21343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio del Estrecho",
+    "region": "Loreto",
+    "lat": -2.4501,
+    "lon": -72.669,
+    "population": 21210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Huanuco",
+    "lat": -9.827,
+    "lon": -76.802,
+    "population": 21064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cañete",
+    "region": "Lima",
+    "lat": -12.75,
+    "lon": -76.3333,
+    "population": 21011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jauja",
+    "region": "Junín",
+    "lat": -11.7758,
+    "lon": -75.4966,
+    "population": 20910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Pomabamba",
+    "region": "Áncash",
+    "lat": -8.8231,
+    "lon": -77.4756,
+    "population": 20885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paucartambo",
+    "region": "Cusco",
+    "lat": -13.3152,
+    "lon": -71.5936,
+    "population": 20857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cajabamba",
+    "region": "Cajamarca",
+    "lat": -7.5,
+    "lon": -78.1667,
+    "population": 20788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cocachacra",
+    "region": "Arequipa",
+    "lat": -17.0883,
+    "lon": -71.7575,
+    "population": 20715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paramonga",
+    "region": "Lima",
+    "lat": -10.6667,
+    "lon": -77.8333,
+    "population": 20531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lauricocha",
+    "region": "Huanuco",
+    "lat": -10.2005,
+    "lon": -76.7036,
+    "population": 20411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chachapoyas",
+    "region": "Amazonas",
+    "lat": -6.2317,
+    "lon": -77.869,
+    "population": 20327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Sullana",
+    "region": "Piura",
+    "lat": -4.5,
+    "lon": -80.6667,
+    "population": 20235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huarmey",
+    "region": "Áncash",
+    "lat": -10.0681,
+    "lon": -78.1522,
+    "population": 20068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Casma",
+    "region": "Áncash",
+    "lat": -9.4764,
+    "lon": -78.2474,
+    "population": 20065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paracas",
+    "region": "Ica",
+    "lat": -13.8667,
+    "lon": -76.2667,
+    "population": 20040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sullana",
+    "region": "Piura",
+    "lat": -4.9039,
+    "lon": -80.6853,
+    "population": 19945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pampas",
+    "region": "Huancavelica",
+    "lat": -12.3949,
+    "lon": -74.8669,
+    "population": 19919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Agustin",
+    "region": "Junín",
+    "lat": -11.9719,
+    "lon": -75.2556,
+    "population": 19845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Tumbes",
+    "region": "Tumbes",
+    "lat": -3.75,
+    "lon": -80.4167,
+    "population": 19758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Churcampa",
+    "region": "Huancavelica",
+    "lat": -12.6,
+    "lon": -74.52,
+    "population": 19724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Roman",
+    "region": "Puno",
+    "lat": -15.8333,
+    "lon": -70.5,
+    "population": 19716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huánuco",
+    "region": "Huanuco",
+    "lat": -9.9306,
+    "lon": -76.2422,
+    "population": 19645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "Lambayeque",
+    "lat": -5.7167,
+    "lon": -79.8833,
+    "population": 19576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Supe",
+    "region": "Lima",
+    "lat": -10.7975,
+    "lon": -77.7131,
+    "population": 19423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eten",
+    "region": "Lambayeque",
+    "lat": -6.9081,
+    "lon": -79.8642,
+    "population": 19405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yurimaguas",
+    "region": "Loreto",
+    "lat": -5.9,
+    "lon": -76.0833,
+    "population": 19279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carás",
+    "region": "Áncash",
+    "lat": -9.0469,
+    "lon": -77.809,
+    "population": 19247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cajaruro",
+    "region": "Amazonas",
+    "lat": -5.7364,
+    "lon": -78.4256,
+    "population": 19246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Checca",
+    "region": "Cusco",
+    "lat": -14.4728,
+    "lon": -71.3939,
+    "population": 19170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Tarata",
+    "region": "Tacna",
+    "lat": -17.4167,
+    "lon": -70.0833,
+    "population": 19008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiclayo",
+    "region": "Lambayeque",
+    "lat": -6.7714,
+    "lon": -79.8409,
+    "population": 18974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Antonio Raymondi",
+    "region": "Áncash",
+    "lat": -9.0833,
+    "lon": -77.0833,
+    "population": 18909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juanjuí",
+    "region": "San Martín",
+    "lat": -7.177,
+    "lon": -76.7277,
+    "population": 18782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huaraz",
+    "region": "Áncash",
+    "lat": -9.5611,
+    "lon": -77.6461,
+    "population": 18731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimbote",
+    "region": "Áncash",
+    "lat": -9.0853,
+    "lon": -78.5783,
+    "population": 18548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saña",
+    "region": "Lambayeque",
+    "lat": -6.9189,
+    "lon": -79.582,
+    "population": 18430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarma",
+    "region": "Junín",
+    "lat": -11.419,
+    "lon": -75.6899,
+    "population": 18326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Motupe",
+    "region": "Lambayeque",
+    "lat": -6.1519,
+    "lon": -79.7142,
+    "population": 18232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chivay",
+    "region": "Arequipa",
+    "lat": -15.6383,
+    "lon": -71.6011,
+    "population": 17956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hacienda Huancane",
+    "region": "Puno",
+    "lat": -15.8233,
+    "lon": -70.8854,
+    "population": 17876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orcopampa",
+    "region": "Arequipa",
+    "lat": -15.2661,
+    "lon": -72.3417,
+    "population": 17776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pativilca",
+    "region": "Lima",
+    "lat": -10.7,
+    "lon": -77.7833,
+    "population": 17554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinyahuarco",
+    "region": "Pasco",
+    "lat": -10.7677,
+    "lon": -76.2752,
+    "population": 17390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tocache",
+    "region": "San Martín",
+    "lat": -8.1877,
+    "lon": -76.5205,
+    "population": 17383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Ayabaca",
+    "region": "Piura",
+    "lat": -4.75,
+    "lon": -79.8333,
+    "population": 17302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chongoyape",
+    "region": "Lambayeque",
+    "lat": -6.6406,
+    "lon": -79.3892,
+    "population": 17082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atuncolla",
+    "region": "Puno",
+    "lat": -15.6833,
+    "lon": -70.15,
+    "population": 16988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilmaná",
+    "region": "Lima",
+    "lat": -12.9486,
+    "lon": -76.3811,
+    "population": 16809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mórrope",
+    "region": "Lambayeque",
+    "lat": -6.5354,
+    "lon": -80.011,
+    "population": 16801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Quispicanchis",
+    "region": "Cusco",
+    "lat": -13.4167,
+    "lon": -71,
+    "population": 16796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Santiago de Chuco",
+    "region": "La Libertad",
+    "lat": -8.3333,
+    "lon": -78.25,
+    "population": 16687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacasmayo",
+    "region": "La Libertad",
+    "lat": -7.4006,
+    "lon": -79.5714,
+    "population": 16589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamas",
+    "region": "San Martín",
+    "lat": -6.4167,
+    "lon": -76.5333,
+    "population": 16580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huancabamba",
+    "region": "Piura",
+    "lat": -5.5,
+    "lon": -79.5833,
+    "population": 16482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ollantaytambo",
+    "region": "Cusco",
+    "lat": -13.2572,
+    "lon": -72.2631,
+    "population": 16369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langui",
+    "region": "Cusco",
+    "lat": -14.4319,
+    "lon": -71.2731,
+    "population": 16340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Chucuito",
+    "region": "Puno",
+    "lat": -16.6055,
+    "lon": -69.3576,
+    "population": 16258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Julcan",
+    "region": "La Libertad",
+    "lat": -8.1724,
+    "lon": -78.4636,
+    "population": 15949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calana",
+    "region": "Tacna",
+    "lat": -17.9417,
+    "lon": -70.1869,
+    "population": 15794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanaoca",
+    "region": "Cusco",
+    "lat": -14.2181,
+    "lon": -71.4317,
+    "population": 15680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saposoa",
+    "region": "San Martín",
+    "lat": -6.934,
+    "lon": -76.7716,
+    "population": 15579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huancayo",
+    "region": "Junín",
+    "lat": -12.0651,
+    "lon": -75.2049,
+    "population": 15530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chazuta",
+    "region": "San Martín",
+    "lat": -6.5709,
+    "lon": -76.1375,
+    "population": 15515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Máncora",
+    "region": "Piura",
+    "lat": -4.1078,
+    "lon": -81.0475,
+    "population": 15300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ñuñoa",
+    "region": "Puno",
+    "lat": -14.4779,
+    "lon": -70.6358,
+    "population": 15299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cascas",
+    "region": "La Libertad",
+    "lat": -7.4833,
+    "lon": -78.8167,
+    "population": 15199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paucar Del Sara Sara",
+    "region": "Ayacucho",
+    "lat": -15.1227,
+    "lon": -73.2618,
+    "population": 14993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piura",
+    "region": "Piura",
+    "lat": -5.1945,
+    "lon": -80.6328,
+    "population": 14928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilabaya",
+    "region": "Tacna",
+    "lat": -17.4208,
+    "lon": -70.5133,
+    "population": 14921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huamalíes",
+    "region": "Huanuco",
+    "lat": -9.25,
+    "lon": -76.5,
+    "population": 14905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marcavelica",
+    "region": "Piura",
+    "lat": -4.8778,
+    "lon": -80.7053,
+    "population": 14865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huayucachi",
+    "region": "Junín",
+    "lat": -12.1333,
+    "lon": -75.2333,
+    "population": 14594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guadalupe",
+    "region": "La Libertad",
+    "lat": -7.25,
+    "lon": -79.4833,
+    "population": 14554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Junín",
+    "region": "Junín",
+    "lat": -11.159,
+    "lon": -75.993,
+    "population": 14359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Tarma",
+    "region": "Junín",
+    "lat": -11.4056,
+    "lon": -75.6913,
+    "population": 14336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Daniel Carrión",
+    "region": "Pasco",
+    "lat": -10.5,
+    "lon": -76.5,
+    "population": 14239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Cotabambas",
+    "region": "Apurímac",
+    "lat": -14,
+    "lon": -72.2,
+    "population": 14161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pucallpa",
+    "region": "Ucayali",
+    "lat": -8.3791,
+    "lon": -74.5539,
+    "population": 14111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Junín",
+    "lat": -11.9176,
+    "lon": -75.314,
+    "population": 13961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yauya",
+    "region": "Áncash",
+    "lat": -8.9833,
+    "lon": -77.3,
+    "population": 13957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Satipo",
+    "region": "Junín",
+    "lat": -11.5,
+    "lon": -74.25,
+    "population": 13943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anta",
+    "region": "Cusco",
+    "lat": -13.4706,
+    "lon": -72.1483,
+    "population": 13933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laredo",
+    "region": "La Libertad",
+    "lat": -8.0897,
+    "lon": -78.9602,
+    "population": 13908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Zarumilla",
+    "region": "Tumbes",
+    "lat": -3.6667,
+    "lon": -80.25,
+    "population": 13902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Coronel Portillo",
+    "region": "Ucayali",
+    "lat": -9.5,
+    "lon": -73.3333,
+    "population": 13791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bellavista",
+    "region": "Cajamarca",
+    "lat": -5.6642,
+    "lon": -78.6772,
+    "population": 13782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yunguyo",
+    "region": "Puno",
+    "lat": -16.25,
+    "lon": -69.0833,
+    "population": 13719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candarave",
+    "region": "Tacna",
+    "lat": -17.2678,
+    "lon": -70.2494,
+    "population": 13694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumbes",
+    "region": "Tumbes",
+    "lat": -3.5669,
+    "lon": -80.4515,
+    "population": 13693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Chota",
+    "region": "Cajamarca",
+    "lat": -6.3833,
+    "lon": -79.1805,
+    "population": 13613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cusco",
+    "region": "Cusco",
+    "lat": -13.5226,
+    "lon": -71.9673,
+    "population": 13547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaura",
+    "region": "Lima",
+    "lat": -11.07,
+    "lon": -77.5994,
+    "population": 13540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Tayacaja",
+    "region": "Huancavelica",
+    "lat": -12.25,
+    "lon": -74.75,
+    "population": 13311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taquile",
+    "region": "Puno",
+    "lat": -15.7667,
+    "lon": -69.6833,
+    "population": 13293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Bautista",
+    "region": "Ica",
+    "lat": -14.0108,
+    "lon": -75.7358,
+    "population": 13099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perené",
+    "region": "Junín",
+    "lat": -10.9451,
+    "lon": -75.2239,
+    "population": 12920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Collao",
+    "region": "Puno",
+    "lat": -16.7264,
+    "lon": -69.7552,
+    "population": 12670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Purus",
+    "region": "Ucayali",
+    "lat": -10.3733,
+    "lon": -71.5823,
+    "population": 12658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de La Mar",
+    "region": "Ayacucho",
+    "lat": -12.9167,
+    "lon": -73.8333,
+    "population": 12607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Sihuas",
+    "region": "Áncash",
+    "lat": -8.5,
+    "lon": -77.5,
+    "population": 12384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huacaybamba",
+    "region": "Huanuco",
+    "lat": -8.9948,
+    "lon": -76.8103,
+    "population": 12346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matucana",
+    "region": "Lima",
+    "lat": -11.85,
+    "lon": -76.4,
+    "population": 12130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moyobamba",
+    "region": "San Martín",
+    "lat": -6.0342,
+    "lon": -76.9717,
+    "population": 12012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nazca",
+    "region": "Ica",
+    "lat": -14.831,
+    "lon": -74.939,
+    "population": 11986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio",
+    "region": "Cajamarca",
+    "lat": -5.1458,
+    "lon": -79.0014,
+    "population": 11907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chosica",
+    "region": "Lima",
+    "lat": -11.9431,
+    "lon": -76.7094,
+    "population": 11896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jenaro Herrera",
+    "region": "Loreto",
+    "lat": -4.9074,
+    "lon": -73.6678,
+    "population": 11733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pimentel",
+    "region": "Lambayeque",
+    "lat": -6.8367,
+    "lon": -79.9342,
+    "population": 11638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Condesuyos",
+    "region": "Arequipa",
+    "lat": -15.5833,
+    "lon": -72.8333,
+    "population": 11432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asentamiento Humano Nicolas de Pierola",
+    "region": "Lima",
+    "lat": -11.9357,
+    "lon": -76.7061,
+    "population": 11146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Cajas",
+    "region": "Junín",
+    "lat": -11.2506,
+    "lon": -75.8612,
+    "population": 11080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jorge Basadre",
+    "region": "Tacna",
+    "lat": -17.5792,
+    "lon": -70.7308,
+    "population": 10808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Víctor Fajardo",
+    "region": "Ayacucho",
+    "lat": -13.75,
+    "lon": -74.3333,
+    "population": 10766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Sandia",
+    "region": "Puno",
+    "lat": -13.8333,
+    "lon": -69.3333,
+    "population": 10462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ica",
+    "region": "Ica",
+    "lat": -14.0678,
+    "lon": -75.7286,
+    "population": 10447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Huancayo",
+    "region": "Junín",
+    "lat": -12.1732,
+    "lon": -75.1617,
+    "population": 10400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Paruro",
+    "region": "Cusco",
+    "lat": -13.9167,
+    "lon": -71.9167,
+    "population": 10232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salaverry",
+    "region": "La Libertad",
+    "lat": -8.221,
+    "lon": -78.977,
+    "population": 10193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacna",
+    "region": "Tacna",
+    "lat": -18.0146,
+    "lon": -70.2536,
+    "population": 10103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provincia de Aymaraes",
+    "region": "Apurímac",
+    "lat": -14.4167,
+    "lon": -73.25,
+    "population": 10036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uchiza",
+    "region": "San Martín",
+    "lat": -8.4592,
+    "lon": -76.4633,
+    "population": 10027,
+    "timezone": "UTC"
+  }
+]
