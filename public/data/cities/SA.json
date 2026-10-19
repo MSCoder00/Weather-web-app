@@ -1,0 +1,4506 @@
+[
+  {
+    "name": "Mina",
+    "region": "Makkah",
+    "lat": 21.4133,
+    "lon": 39.8933,
+    "population": 49879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Birk",
+    "region": "Al Bahah",
+    "lat": 18.2163,
+    "lon": 41.5359,
+    "population": 49730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haddat ash Sham",
+    "region": "Makkah",
+    "lat": 21.7967,
+    "lon": 39.6833,
+    "population": 49577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madsus",
+    "region": "Al Madinah",
+    "lat": 24.35,
+    "lon": 38.55,
+    "population": 49495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al `Usaylah",
+    "region": "Jizan",
+    "lat": 16.9203,
+    "lon": 42.7353,
+    "population": 49414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maghal",
+    "region": "Makkah",
+    "lat": 21.9667,
+    "lon": 39.55,
+    "population": 49362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabt Al Alayah",
+    "region": "'Asir",
+    "lat": 19.7,
+    "lon": 41.9167,
+    "population": 49229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maghal",
+    "region": "Al Bahah",
+    "lat": 21.9667,
+    "lon": 39.55,
+    "population": 49000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kura`",
+    "region": "Makkah",
+    "lat": 21.8,
+    "lon": 39.1333,
+    "population": 48972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mahjar",
+    "region": "Al Bahah",
+    "lat": 21.4333,
+    "lon": 39.2,
+    "population": 48939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Najran",
+    "region": "Riyadh",
+    "lat": 17.4917,
+    "lon": 44.1322,
+    "population": 48771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kharabah, Jizan",
+    "region": "Jizan",
+    "lat": 16.7558,
+    "lon": 42.9547,
+    "population": 48754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nujayl",
+    "region": "Al Madinah",
+    "lat": 24.2667,
+    "lon": 38.65,
+    "population": 48683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Radamah",
+    "region": "Al-Qassim",
+    "lat": 28.6798,
+    "lon": 44.6955,
+    "population": 48665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Lajj",
+    "region": "Tabuk",
+    "lat": 25.0213,
+    "lon": 37.2685,
+    "population": 48643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghran",
+    "region": "Makkah",
+    "lat": 21.9803,
+    "lon": 39.3652,
+    "population": 48558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abqaiq",
+    "region": "Eastern Province",
+    "lat": 25.934,
+    "lon": 49.6688,
+    "population": 48545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mashajji",
+    "region": "Makkah",
+    "lat": 21.7389,
+    "lon": 39.9667,
+    "population": 48419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thuwal",
+    "region": "Makkah",
+    "lat": 22.2833,
+    "lon": 39.1,
+    "population": 48386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Madiq, Makkah",
+    "region": "Makkah",
+    "lat": 21.6758,
+    "lon": 40.1308,
+    "population": 48301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muqr",
+    "region": "Makkah",
+    "lat": 22,
+    "lon": 39.3833,
+    "population": 48284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ma`rash",
+    "region": "Al Bahah",
+    "lat": 21.1333,
+    "lon": 40.6,
+    "population": 47926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Hisani",
+    "region": "Makkah",
+    "lat": 21.7306,
+    "lon": 39.7833,
+    "population": 47923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khulasah",
+    "region": "Al Bahah",
+    "lat": 21.6833,
+    "lon": 39.9167,
+    "population": 47855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Faydah",
+    "region": "Makkah",
+    "lat": 21.9844,
+    "lon": 39.3847,
+    "population": 47823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fawwarah",
+    "region": "Makkah",
+    "lat": 21.8328,
+    "lon": 40.1611,
+    "population": 47808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuzlat al Faqin",
+    "region": "Makkah",
+    "lat": 22,
+    "lon": 39.4167,
+    "population": 47657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muqayti`",
+    "region": "Al Bahah",
+    "lat": 21.5486,
+    "lon": 39.7861,
+    "population": 47628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shara'i`",
+    "region": "Al Bahah",
+    "lat": 21.4631,
+    "lon": 39.9461,
+    "population": 47621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halat Ammar",
+    "region": "Al Jawf",
+    "lat": 29.1594,
+    "lon": 36.075,
+    "population": 47448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hawiyah",
+    "region": "Al Bahah",
+    "lat": 21.4242,
+    "lon": 40.493,
+    "population": 47421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qirshan",
+    "region": "Al Bahah",
+    "lat": 21.5667,
+    "lon": 39.7,
+    "population": 47388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shishah",
+    "region": "Makkah",
+    "lat": 21.3503,
+    "lon": 39.8919,
+    "population": 47263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Masarrah",
+    "region": "Makkah",
+    "lat": 21.3667,
+    "lon": 40.4667,
+    "population": 47194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bardiyah",
+    "region": "Al Madinah",
+    "lat": 24.0439,
+    "lon": 39.6061,
+    "population": 47160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khaydar",
+    "region": "Makkah",
+    "lat": 21.4694,
+    "lon": 40.6306,
+    "population": 47142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Turqi",
+    "region": "Al Bahah",
+    "lat": 21.9492,
+    "lon": 39.4131,
+    "population": 46880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mundassah",
+    "region": "Al Bahah",
+    "lat": 21.6333,
+    "lon": 39.7486,
+    "population": 46849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sayl as Saghir",
+    "region": "Al Bahah",
+    "lat": 21.5064,
+    "lon": 40.4822,
+    "population": 46828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fuwayliq",
+    "region": "Al Madinah",
+    "lat": 26.4436,
+    "lon": 43.2516,
+    "population": 46647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simira",
+    "region": "Ha'il",
+    "lat": 26.4942,
+    "lon": 42.1249,
+    "population": 46619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zurra`",
+    "region": "Makkah",
+    "lat": 21.9106,
+    "lon": 39.4,
+    "population": 46446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Masfalah",
+    "region": "Makkah",
+    "lat": 21.4167,
+    "lon": 39.8167,
+    "population": 46415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suqubiya",
+    "region": "Al Madinah",
+    "lat": 24.2333,
+    "lon": 38.5,
+    "population": 46295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baranah",
+    "region": "Al Bahah",
+    "lat": 21.5542,
+    "lon": 39.8222,
+    "population": 46010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şafwá",
+    "region": "Eastern Province",
+    "lat": 26.6497,
+    "lon": 49.9552,
+    "population": 45920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sulaym",
+    "region": "Makkah",
+    "lat": 22.5833,
+    "lon": 39.6333,
+    "population": 45870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tūbī",
+    "region": "Eastern Province",
+    "lat": 26.5578,
+    "lon": 49.9917,
+    "population": 45841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sadiliyah",
+    "region": "Jizan",
+    "lat": 16.9264,
+    "lon": 42.83,
+    "population": 45777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sifyani",
+    "region": "Al Bahah",
+    "lat": 21.4756,
+    "lon": 39.8431,
+    "population": 45746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khadra', Jizan",
+    "region": "Jizan",
+    "lat": 16.5858,
+    "lon": 42.9633,
+    "population": 45696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mislīyah",
+    "region": "Jizan",
+    "lat": 17.4599,
+    "lon": 42.5572,
+    "population": 45691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sulayyil",
+    "region": "Riyadh",
+    "lat": 20.4607,
+    "lon": 45.5779,
+    "population": 45688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khushaym",
+    "region": "Jizan",
+    "lat": 16.88,
+    "lon": 43.1372,
+    "population": 45632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khalas",
+    "region": "Al Bahah",
+    "lat": 21.7,
+    "lon": 39.8,
+    "population": 45570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kura`",
+    "region": "Al Bahah",
+    "lat": 21.8,
+    "lon": 39.1333,
+    "population": 45540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajrah",
+    "region": "'Asir",
+    "lat": 20.2333,
+    "lon": 41.05,
+    "population": 45538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buraidah",
+    "region": "Al Madinah",
+    "lat": 26.3333,
+    "lon": 43.9667,
+    "population": 45531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Awjām",
+    "region": "Eastern Province",
+    "lat": 26.5632,
+    "lon": 49.9433,
+    "population": 45498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarwal",
+    "region": "Al Bahah",
+    "lat": 21.4333,
+    "lon": 39.8167,
+    "population": 45261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hawiyah",
+    "region": "Makkah",
+    "lat": 21.4242,
+    "lon": 40.493,
+    "population": 45225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Faqirah",
+    "region": "Al Madinah",
+    "lat": 23.4217,
+    "lon": 39.7097,
+    "population": 45005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suq Suwayq",
+    "region": "Al Madinah",
+    "lat": 24.3667,
+    "lon": 38.45,
+    "population": 44950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khadra', Makkah",
+    "region": "Makkah",
+    "lat": 21.4678,
+    "lon": 39.9047,
+    "population": 44942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rahwan",
+    "region": "Jizan",
+    "lat": 16.8333,
+    "lon": 43.2167,
+    "population": 44920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Radamah",
+    "region": "Northern Borders",
+    "lat": 28.6798,
+    "lon": 44.6955,
+    "population": 44851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dabbah",
+    "region": "Makkah",
+    "lat": 21.7167,
+    "lon": 39.8333,
+    "population": 44839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jadidah",
+    "region": "Al Bahah",
+    "lat": 21.6703,
+    "lon": 40.1264,
+    "population": 44757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Gharith",
+    "region": "Al Bahah",
+    "lat": 21.6,
+    "lon": 41.8833,
+    "population": 44723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Layla",
+    "region": "Riyadh",
+    "lat": 22.2833,
+    "lon": 46.7333,
+    "population": 44718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khadra', Makkah",
+    "region": "Al Bahah",
+    "lat": 21.4678,
+    "lon": 39.9047,
+    "population": 44712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabālah",
+    "region": "Makkah",
+    "lat": 19.95,
+    "lon": 42.4,
+    "population": 44710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baranah",
+    "region": "Makkah",
+    "lat": 21.5542,
+    "lon": 39.8222,
+    "population": 44709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hadrur",
+    "region": "Jizan",
+    "lat": 16.5436,
+    "lon": 42.8672,
+    "population": 44691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murshidiyah",
+    "region": "Al Bahah",
+    "lat": 21.4889,
+    "lon": 39.7944,
+    "population": 44502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabwah Ghran",
+    "region": "Al Bahah",
+    "lat": 21.9833,
+    "lon": 39.4167,
+    "population": 44469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maqrah",
+    "region": "Al Bahah",
+    "lat": 21.2667,
+    "lon": 39.95,
+    "population": 44433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghulah",
+    "region": "Makkah",
+    "lat": 21.95,
+    "lon": 39.3167,
+    "population": 44380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanbu",
+    "region": "Al Madinah",
+    "lat": 24.0895,
+    "lon": 38.0618,
+    "population": 44329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bi'ar",
+    "region": "Makkah",
+    "lat": 22.6497,
+    "lon": 39.6703,
+    "population": 44315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arar",
+    "region": "Al-Qassim",
+    "lat": 30.9833,
+    "lon": 41.0167,
+    "population": 44278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Faydah",
+    "region": "Al Bahah",
+    "lat": 21.9844,
+    "lon": 39.3847,
+    "population": 44210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dammam",
+    "region": "Eastern Province",
+    "lat": 26.4344,
+    "lon": 50.1033,
+    "population": 44200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Husnah",
+    "region": "Makkah",
+    "lat": 21.8,
+    "lon": 39.5917,
+    "population": 44158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burayman",
+    "region": "Al Bahah",
+    "lat": 21.6375,
+    "lon": 39.2264,
+    "population": 44105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kawahilah",
+    "region": "Jizan",
+    "lat": 16.9614,
+    "lon": 42.6725,
+    "population": 44035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rawdah ash Shamaliyah",
+    "region": "Makkah",
+    "lat": 21.7333,
+    "lon": 39.9667,
+    "population": 44013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masihat Mahd al Hayl",
+    "region": "Makkah",
+    "lat": 21.9417,
+    "lon": 39.8861,
+    "population": 43871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afif",
+    "region": "Riyadh",
+    "lat": 23.9065,
+    "lon": 42.9172,
+    "population": 43786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "`Ushayrah",
+    "region": "Al Madinah",
+    "lat": 24.0186,
+    "lon": 39.6731,
+    "population": 43746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haddat ash Sham",
+    "region": "Al Bahah",
+    "lat": 21.7967,
+    "lon": 39.6833,
+    "population": 43497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Quwah",
+    "region": "Jizan",
+    "lat": 16.7994,
+    "lon": 43.225,
+    "population": 43430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dughaybjah",
+    "region": "Makkah",
+    "lat": 22.5903,
+    "lon": 41.3597,
+    "population": 43324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Karbus",
+    "region": "Jizan",
+    "lat": 16.8733,
+    "lon": 42.6317,
+    "population": 43040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masahili",
+    "region": "Al Madinah",
+    "lat": 24.0333,
+    "lon": 38.2333,
+    "population": 42981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shishah",
+    "region": "Al Bahah",
+    "lat": 21.3503,
+    "lon": 39.8919,
+    "population": 42948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jubayl",
+    "region": "Eastern Province",
+    "lat": 27.0174,
+    "lon": 49.6225,
+    "population": 42924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khumsiyah",
+    "region": "Jizan",
+    "lat": 16.7714,
+    "lon": 42.8019,
+    "population": 42866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumayr",
+    "region": "Riyadh",
+    "lat": 25.7035,
+    "lon": 45.8683,
+    "population": 42832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shi`b `amir",
+    "region": "Al Bahah",
+    "lat": 21.4333,
+    "lon": 39.8333,
+    "population": 42783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hair",
+    "region": "Riyadh",
+    "lat": 24.3907,
+    "lon": 46.9868,
+    "population": 42714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jubbah",
+    "region": "Ha'il",
+    "lat": 28.0062,
+    "lon": 40.9416,
+    "population": 42642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shajwah",
+    "region": "Makkah",
+    "lat": 21.6644,
+    "lon": 40.0114,
+    "population": 42604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qawba`iyah",
+    "region": "Makkah",
+    "lat": 21.6667,
+    "lon": 39.9833,
+    "population": 42546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Salamiyah",
+    "region": "Riyadh",
+    "lat": 24.2015,
+    "lon": 47.2887,
+    "population": 42498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "`Ajmiyah",
+    "region": "Al Madinah",
+    "lat": 24.2167,
+    "lon": 38.5,
+    "population": 42395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fayd",
+    "region": "Makkah",
+    "lat": 21.9172,
+    "lon": 39.3883,
+    "population": 42279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qa'im",
+    "region": "Jizan",
+    "lat": 16.7194,
+    "lon": 42.9767,
+    "population": 42248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Iskan",
+    "region": "Makkah",
+    "lat": 21.4,
+    "lon": 39.7833,
+    "population": 42238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şāmitah",
+    "region": "Jizan",
+    "lat": 16.596,
+    "lon": 42.9444,
+    "population": 42193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kharj",
+    "region": "Riyadh",
+    "lat": 24.1554,
+    "lon": 47.3346,
+    "population": 42178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakakah",
+    "region": "Al Jawf",
+    "lat": 29.9697,
+    "lon": 40.2064,
+    "population": 42067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qārah",
+    "region": "Eastern Province",
+    "lat": 25.4167,
+    "lon": 49.6667,
+    "population": 42056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajur",
+    "region": "Al Bahah",
+    "lat": 23.0178,
+    "lon": 39.7303,
+    "population": 42025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sumariyah",
+    "region": "Al Madinah",
+    "lat": 24.9214,
+    "lon": 39.6178,
+    "population": 42021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rudaymah",
+    "region": "Al Bahah",
+    "lat": 21.7667,
+    "lon": 39.6833,
+    "population": 42020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tan`im",
+    "region": "Al Bahah",
+    "lat": 21.4825,
+    "lon": 39.805,
+    "population": 41924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khamrah",
+    "region": "Makkah",
+    "lat": 22.4333,
+    "lon": 39.4667,
+    "population": 41910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marāt",
+    "region": "Riyadh",
+    "lat": 25.0706,
+    "lon": 45.4577,
+    "population": 41808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jadidah",
+    "region": "Makkah",
+    "lat": 21.6703,
+    "lon": 40.1264,
+    "population": 41802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dawh",
+    "region": "Al Bahah",
+    "lat": 21.7722,
+    "lon": 39.7014,
+    "population": 41798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Husnah",
+    "region": "Al Bahah",
+    "lat": 21.8,
+    "lon": 39.5917,
+    "population": 41738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bustan",
+    "region": "Al Madinah",
+    "lat": 23.2783,
+    "lon": 39.2428,
+    "population": 41705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qaţīf",
+    "region": "Eastern Province",
+    "lat": 26.5654,
+    "lon": 50.0089,
+    "population": 41683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "CITY GHRAN",
+    "region": "Al Bahah",
+    "lat": 21.9738,
+    "lon": 39.3682,
+    "population": 41636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Majāridah",
+    "region": "'Asir",
+    "lat": 19.1236,
+    "lon": 41.9111,
+    "population": 41577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şabyā",
+    "region": "Jizan",
+    "lat": 17.1495,
+    "lon": 42.6254,
+    "population": 41548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Safra'",
+    "region": "Al Madinah",
+    "lat": 24.0128,
+    "lon": 38.9228,
+    "population": 41515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tan`im",
+    "region": "Makkah",
+    "lat": 21.4825,
+    "lon": 39.805,
+    "population": 41481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tharwah",
+    "region": "Al Bahah",
+    "lat": 21.5167,
+    "lon": 39.6167,
+    "population": 41434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jarādīyah",
+    "region": "Jizan",
+    "lat": 16.5795,
+    "lon": 42.9124,
+    "population": 41389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahatah",
+    "region": "Jizan",
+    "lat": 16.8333,
+    "lon": 43.1667,
+    "population": 41343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumaymah",
+    "region": "Makkah",
+    "lat": 21.25,
+    "lon": 39.1667,
+    "population": 41309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khamis Mushait",
+    "region": "Makkah",
+    "lat": 18.3,
+    "lon": 42.7333,
+    "population": 41243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wasitah",
+    "region": "Al Madinah",
+    "lat": 23.8833,
+    "lon": 38.9,
+    "population": 41169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajur",
+    "region": "Makkah",
+    "lat": 23.0178,
+    "lon": 39.7303,
+    "population": 41163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abha",
+    "region": "'Asir",
+    "lat": 18.2164,
+    "lon": 42.5053,
+    "population": 41153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arya`",
+    "region": "Makkah",
+    "lat": 21.0856,
+    "lon": 40.6239,
+    "population": 41124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farasān",
+    "region": "Jizan",
+    "lat": 16.7022,
+    "lon": 42.1183,
+    "population": 40912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ka`lul",
+    "region": "Jizan",
+    "lat": 16.8975,
+    "lon": 42.8467,
+    "population": 40882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Hamzah",
+    "region": "Al Madinah",
+    "lat": 24.5,
+    "lon": 39.6167,
+    "population": 40673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khamis Mushait",
+    "region": "'Asir",
+    "lat": 18.3,
+    "lon": 42.7333,
+    "population": 40611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Samd ash Shamali",
+    "region": "Al Bahah",
+    "lat": 21.675,
+    "lon": 39.75,
+    "population": 40600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qufayf",
+    "region": "Al Bahah",
+    "lat": 21.8333,
+    "lon": 40.45,
+    "population": 40586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rass",
+    "region": "Al-Qassim",
+    "lat": 25.8694,
+    "lon": 43.4973,
+    "population": 40428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hamimah",
+    "region": "Makkah",
+    "lat": 21.5167,
+    "lon": 39.6333,
+    "population": 40323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khamrah",
+    "region": "Al Bahah",
+    "lat": 22.4333,
+    "lon": 39.4667,
+    "population": 40288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medina",
+    "region": "Al Madinah",
+    "lat": 24.4686,
+    "lon": 39.6142,
+    "population": 40193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birkah",
+    "region": "Al Madinah",
+    "lat": 23.8203,
+    "lon": 38.8597,
+    "population": 40168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mafruq",
+    "region": "Makkah",
+    "lat": 21.5222,
+    "lon": 40.1794,
+    "population": 40010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rafah",
+    "region": "Al Bahah",
+    "lat": 21.5167,
+    "lon": 40.2,
+    "population": 39918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wadi al Jalil",
+    "region": "Al Bahah",
+    "lat": 21.4667,
+    "lon": 39.85,
+    "population": 39838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jirbah",
+    "region": "Jizan",
+    "lat": 16.9264,
+    "lon": 42.8861,
+    "population": 39822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buraykah",
+    "region": "Al Bahah",
+    "lat": 22.3444,
+    "lon": 39.32,
+    "population": 39804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Suwadah",
+    "region": "Al Bahah",
+    "lat": 21.1339,
+    "lon": 40.5117,
+    "population": 39546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hufūf",
+    "region": "Eastern Province",
+    "lat": 25.3647,
+    "lon": 49.5876,
+    "population": 39477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hijfar",
+    "region": "Jizan",
+    "lat": 16.5444,
+    "lon": 42.8472,
+    "population": 39447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabyah",
+    "region": "Makkah",
+    "lat": 22.4247,
+    "lon": 39.4461,
+    "population": 39427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Shu`ayb",
+    "region": "Al Bahah",
+    "lat": 21.5833,
+    "lon": 39.7,
+    "population": 39385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fawwarah",
+    "region": "Al Bahah",
+    "lat": 21.8328,
+    "lon": 40.1611,
+    "population": 39360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sudayrah, Makkah",
+    "region": "Makkah",
+    "lat": 21.3619,
+    "lon": 40.8547,
+    "population": 39323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mifa",
+    "region": "'Asir",
+    "lat": 18.8917,
+    "lon": 41.9633,
+    "population": 39248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diriyah",
+    "region": "Riyadh",
+    "lat": 24.7519,
+    "lon": 46.5387,
+    "population": 39226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Dhiba",
+    "region": "Al Madinah",
+    "lat": 23.1989,
+    "lon": 39.5578,
+    "population": 39014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Udhailiyah",
+    "region": "Eastern Province",
+    "lat": 25.1333,
+    "lon": 49.3,
+    "population": 38906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mindak",
+    "region": "Al Bahah",
+    "lat": 20.1588,
+    "lon": 41.2834,
+    "population": 38734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suwadah",
+    "region": "Al Madinah",
+    "lat": 24.0333,
+    "lon": 38.2,
+    "population": 38734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mali",
+    "region": "Jizan",
+    "lat": 16.7953,
+    "lon": 42.9536,
+    "population": 38679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abū Shayţānah",
+    "region": "Al Madinah",
+    "lat": 23.8667,
+    "lon": 38.3667,
+    "population": 38599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matiyah",
+    "region": "Al Bahah",
+    "lat": 21.5417,
+    "lon": 39.8194,
+    "population": 38406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asira",
+    "region": "Al Madinah",
+    "lat": 24.3333,
+    "lon": 38.6333,
+    "population": 38364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tārūt",
+    "region": "Eastern Province",
+    "lat": 26.5733,
+    "lon": 50.0403,
+    "population": 38340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Najamiyah",
+    "region": "Jizan",
+    "lat": 16.5647,
+    "lon": 42.9439,
+    "population": 38335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mindak",
+    "region": "'Asir",
+    "lat": 20.1589,
+    "lon": 41.2833,
+    "population": 38163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rabwah as Sufla",
+    "region": "Makkah",
+    "lat": 21.9553,
+    "lon": 39.4367,
+    "population": 38118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shuwaybit",
+    "region": "Al Bahah",
+    "lat": 21.3797,
+    "lon": 40.5194,
+    "population": 38086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qushashiyah",
+    "region": "Al Bahah",
+    "lat": 21.4333,
+    "lon": 39.8333,
+    "population": 38037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ha'il ",
+    "region": "Eastern Province",
+    "lat": 27.5167,
+    "lon": 41.6833,
+    "population": 37926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeddah",
+    "region": "Makkah",
+    "lat": 21.5424,
+    "lon": 39.198,
+    "population": 37916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hada",
+    "region": "Al Bahah",
+    "lat": 21.3686,
+    "lon": 40.2847,
+    "population": 37800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khafjī",
+    "region": "Eastern Province",
+    "lat": 28.4391,
+    "lon": 48.4913,
+    "population": 37490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Radif",
+    "region": "Jizan",
+    "lat": 16.6186,
+    "lon": 43.1311,
+    "population": 37484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uqair",
+    "region": "Eastern Province",
+    "lat": 25.6431,
+    "lon": 50.2144,
+    "population": 37451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Suwadah",
+    "region": "Makkah",
+    "lat": 21.1339,
+    "lon": 40.5117,
+    "population": 37393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sulaym",
+    "region": "Al Bahah",
+    "lat": 22.5833,
+    "lon": 39.6333,
+    "population": 37169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghulah",
+    "region": "Al Bahah",
+    "lat": 21.95,
+    "lon": 39.3167,
+    "population": 37025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dilam",
+    "region": "Riyadh",
+    "lat": 23.991,
+    "lon": 47.1618,
+    "population": 37005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wasili",
+    "region": "Jizan",
+    "lat": 16.9469,
+    "lon": 42.6903,
+    "population": 36959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Halaqah",
+    "region": "Al Bahah",
+    "lat": 21.35,
+    "lon": 40.45,
+    "population": 36850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadda'",
+    "region": "Makkah",
+    "lat": 21.4503,
+    "lon": 39.5544,
+    "population": 36807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghran",
+    "region": "Al Bahah",
+    "lat": 21.9803,
+    "lon": 39.3652,
+    "population": 36776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tarfa'",
+    "region": "Al Bahah",
+    "lat": 21.7064,
+    "lon": 39.8714,
+    "population": 36606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hanashah",
+    "region": "Jizan",
+    "lat": 16.5581,
+    "lon": 42.7653,
+    "population": 36540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahwil",
+    "region": "Al Bahah",
+    "lat": 22.4294,
+    "lon": 39.4294,
+    "population": 36500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Madiq, Makkah",
+    "region": "Al Bahah",
+    "lat": 21.6758,
+    "lon": 40.1308,
+    "population": 36476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khumrah",
+    "region": "Al Bahah",
+    "lat": 21.3728,
+    "lon": 39.2261,
+    "population": 36450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madrakah",
+    "region": "Al Bahah",
+    "lat": 21.9797,
+    "lon": 39.9875,
+    "population": 36423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shamiyah",
+    "region": "Makkah",
+    "lat": 21.8411,
+    "lon": 39.5244,
+    "population": 36295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaba'",
+    "region": "Al Madinah",
+    "lat": 24.4,
+    "lon": 39.65,
+    "population": 36181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Awjam",
+    "region": "Eastern Province",
+    "lat": 26.5583,
+    "lon": 49.9503,
+    "population": 36161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jubbah",
+    "region": "Eastern Province",
+    "lat": 28.0062,
+    "lon": 40.9416,
+    "population": 36100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munayzir",
+    "region": "'Asir",
+    "lat": 18.9464,
+    "lon": 41.9164,
+    "population": 36068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muţayrifī",
+    "region": "Eastern Province",
+    "lat": 25.4788,
+    "lon": 49.5582,
+    "population": 35834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Baţţālīyah",
+    "region": "Eastern Province",
+    "lat": 25.4333,
+    "lon": 49.6333,
+    "population": 35721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mulayha'",
+    "region": "Makkah",
+    "lat": 21.8,
+    "lon": 40.35,
+    "population": 35601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ukhaydir",
+    "region": "Al Bahah",
+    "lat": 21.9333,
+    "lon": 40.0167,
+    "population": 35408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rudaymah",
+    "region": "Makkah",
+    "lat": 21.7667,
+    "lon": 39.6833,
+    "population": 35313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khalas",
+    "region": "Makkah",
+    "lat": 21.7,
+    "lon": 39.8,
+    "population": 35310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Masfalah",
+    "region": "Al Bahah",
+    "lat": 21.4167,
+    "lon": 39.8167,
+    "population": 35194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Far`",
+    "region": "Al Madinah",
+    "lat": 23.8167,
+    "lon": 38.8667,
+    "population": 35044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qararah",
+    "region": "Makkah",
+    "lat": 21.4289,
+    "lon": 39.8281,
+    "population": 35029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baq`a'",
+    "region": "Al Madinah",
+    "lat": 24.2167,
+    "lon": 38.7167,
+    "population": 34918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mina",
+    "region": "Al Bahah",
+    "lat": 21.4133,
+    "lon": 39.8933,
+    "population": 34900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Hisani",
+    "region": "Al Bahah",
+    "lat": 21.7306,
+    "lon": 39.7833,
+    "population": 34746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Waht",
+    "region": "Makkah",
+    "lat": 21.2333,
+    "lon": 40.35,
+    "population": 34733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ţubarjal",
+    "region": "Al Jawf",
+    "lat": 30.4999,
+    "lon": 38.216,
+    "population": 34726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malgocta",
+    "region": "Jizan",
+    "lat": 16.9978,
+    "lon": 42.6739,
+    "population": 34713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dawādimī",
+    "region": "Riyadh",
+    "lat": 24.5077,
+    "lon": 44.3924,
+    "population": 34695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barzah",
+    "region": "Makkah",
+    "lat": 21.98,
+    "lon": 39.6756,
+    "population": 34668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aţ Ţaraf",
+    "region": "Eastern Province",
+    "lat": 25.3623,
+    "lon": 49.7276,
+    "population": 34424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jawah",
+    "region": "Jizan",
+    "lat": 16.9567,
+    "lon": 43.0297,
+    "population": 34354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khubah",
+    "region": "Jizan",
+    "lat": 16.7886,
+    "lon": 43.2219,
+    "population": 34350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raqiyah",
+    "region": "Makkah",
+    "lat": 21.7667,
+    "lon": 40.35,
+    "population": 34135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhahran",
+    "region": "Eastern Province",
+    "lat": 26.2886,
+    "lon": 50.114,
+    "population": 34127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wadi al Jalil",
+    "region": "Makkah",
+    "lat": 21.4667,
+    "lon": 39.85,
+    "population": 34082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sayl al Kabir",
+    "region": "Al Bahah",
+    "lat": 21.6264,
+    "lon": 40.4153,
+    "population": 34037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Madiq, Al Madinah",
+    "region": "Al Madinah",
+    "lat": 23.3222,
+    "lon": 39.6203,
+    "population": 33993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mufrihat",
+    "region": "Al Madinah",
+    "lat": 24.35,
+    "lon": 39.4167,
+    "population": 33981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabālah",
+    "region": "'Asir",
+    "lat": 19.95,
+    "lon": 42.4,
+    "population": 33943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simira",
+    "region": "Eastern Province",
+    "lat": 26.4942,
+    "lon": 42.1249,
+    "population": 33829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Husayniyah",
+    "region": "Al Madinah",
+    "lat": 23.8667,
+    "lon": 38.9,
+    "population": 33639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abyar 'Ali",
+    "region": "Al Madinah",
+    "lat": 24.4167,
+    "lon": 39.55,
+    "population": 33621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Gharith",
+    "region": "Makkah",
+    "lat": 21.6,
+    "lon": 41.8833,
+    "population": 33539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiba",
+    "region": "Al-Qassim",
+    "lat": 27.4029,
+    "lon": 44.3277,
+    "population": 33508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Harra', Makkah",
+    "region": "Al Bahah",
+    "lat": 21.95,
+    "lon": 39.4833,
+    "population": 33463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabuhah",
+    "region": "Makkah",
+    "lat": 21.5833,
+    "lon": 40.1167,
+    "population": 33362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mifa",
+    "region": "Makkah",
+    "lat": 18.8917,
+    "lon": 41.9633,
+    "population": 33335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dawh",
+    "region": "Makkah",
+    "lat": 21.7722,
+    "lon": 39.7014,
+    "population": 33142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qu`tubah",
+    "region": "Makkah",
+    "lat": 21.9333,
+    "lon": 40.3667,
+    "population": 32990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shafā",
+    "region": "Makkah",
+    "lat": 21.0721,
+    "lon": 40.3118,
+    "population": 32972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mashayikh",
+    "region": "Makkah",
+    "lat": 21.35,
+    "lon": 40.3333,
+    "population": 32845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Musayjid",
+    "region": "Al Madinah",
+    "lat": 24.0833,
+    "lon": 39.1,
+    "population": 32725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Badawi",
+    "region": "Jizan",
+    "lat": 16.6333,
+    "lon": 42.865,
+    "population": 32707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shi`b",
+    "region": "Al Bahah",
+    "lat": 21.9689,
+    "lon": 39.4861,
+    "population": 32685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burayman",
+    "region": "Makkah",
+    "lat": 21.6375,
+    "lon": 39.2264,
+    "population": 32647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ma`ayin",
+    "region": "Jizan",
+    "lat": 16.6108,
+    "lon": 43.1472,
+    "population": 32635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Luqiyah",
+    "region": "Jizan",
+    "lat": 16.6606,
+    "lon": 43.04,
+    "population": 32609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabarjal",
+    "region": "Al Jawf",
+    "lat": 30.5,
+    "lon": 38.2167,
+    "population": 32548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qahab",
+    "region": "Makkah",
+    "lat": 18.9256,
+    "lon": 41.955,
+    "population": 32543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Masarrah",
+    "region": "Al Bahah",
+    "lat": 21.3667,
+    "lon": 40.4667,
+    "population": 32528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dukhnah",
+    "region": "Al Madinah",
+    "lat": 25.3562,
+    "lon": 43.6227,
+    "population": 32507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Najrān",
+    "region": "Najran",
+    "lat": 17.4933,
+    "lon": 44.1277,
+    "population": 32453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dur`iyah",
+    "region": "Jizan",
+    "lat": 16.5842,
+    "lon": 42.8431,
+    "population": 32394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kidwah",
+    "region": "Al Bahah",
+    "lat": 21.7833,
+    "lon": 39.6833,
+    "population": 32385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fazz",
+    "region": "Makkah",
+    "lat": 21.9833,
+    "lon": 39.5222,
+    "population": 32369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dur",
+    "region": "Makkah",
+    "lat": 21.8167,
+    "lon": 39.7667,
+    "population": 32238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Haditha",
+    "region": "Al Jawf",
+    "lat": 31.456,
+    "lon": 37.1481,
+    "population": 32216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dabbah",
+    "region": "Al Bahah",
+    "lat": 21.7167,
+    "lon": 39.8333,
+    "population": 32090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buraidah",
+    "region": "Al-Qassim",
+    "lat": 26.3333,
+    "lon": 43.9667,
+    "population": 32080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Harra', Makkah",
+    "region": "Makkah",
+    "lat": 21.95,
+    "lon": 39.4833,
+    "population": 32036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hasamah",
+    "region": "Jizan",
+    "lat": 16.6833,
+    "lon": 42.9269,
+    "population": 32013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malakan",
+    "region": "Al Bahah",
+    "lat": 21.2158,
+    "lon": 39.9503,
+    "population": 31965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shufayyah",
+    "region": "Al Madinah",
+    "lat": 23.8167,
+    "lon": 39.15,
+    "population": 31815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ashraf",
+    "region": "Makkah",
+    "lat": 21.5236,
+    "lon": 39.6167,
+    "population": 31651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabwah Ghran",
+    "region": "Makkah",
+    "lat": 21.9833,
+    "lon": 39.4167,
+    "population": 31532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jid`",
+    "region": "Al Bahah",
+    "lat": 21.9333,
+    "lon": 39.5833,
+    "population": 31498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bahah",
+    "region": "Al Bahah",
+    "lat": 20.0129,
+    "lon": 41.4677,
+    "population": 31475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jadidah",
+    "region": "Al Madinah",
+    "lat": 23.8167,
+    "lon": 38.8333,
+    "population": 31449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khatib, Saudi Arabia",
+    "region": "Jizan",
+    "lat": 16.8961,
+    "lon": 41.8575,
+    "population": 31413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Shu`ayb",
+    "region": "Makkah",
+    "lat": 21.5833,
+    "lon": 39.7,
+    "population": 31235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nughayshiyah",
+    "region": "Makkah",
+    "lat": 21.2167,
+    "lon": 40.75,
+    "population": 31222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khobar",
+    "region": "Eastern Province",
+    "lat": 26.2794,
+    "lon": 50.2083,
+    "population": 31133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sadr",
+    "region": "Al Bahah",
+    "lat": 21.5189,
+    "lon": 40.1975,
+    "population": 31092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Buraykah",
+    "region": "Makkah",
+    "lat": 21.7861,
+    "lon": 39.7167,
+    "population": 31010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakhshat Yamani",
+    "region": "Jizan",
+    "lat": 16.8986,
+    "lon": 42.5989,
+    "population": 30959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kharma'",
+    "region": "Al Madinah",
+    "lat": 23.9,
+    "lon": 38.9,
+    "population": 30910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shajwah",
+    "region": "Al Bahah",
+    "lat": 21.6644,
+    "lon": 40.0114,
+    "population": 30906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "`Alya'",
+    "region": "Al Madinah",
+    "lat": 23.8236,
+    "lon": 38.8833,
+    "population": 30870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mastoorah",
+    "region": "Al Madinah",
+    "lat": 23.1109,
+    "lon": 38.8507,
+    "population": 30817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanūmah",
+    "region": "Al-Qassim",
+    "lat": 27.1,
+    "lon": 44.1333,
+    "population": 30796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fuwayliq",
+    "region": "Al-Qassim",
+    "lat": 26.4436,
+    "lon": 43.2516,
+    "population": 30688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Suwayriqiyah",
+    "region": "Al Madinah",
+    "lat": 23.35,
+    "lon": 40.3167,
+    "population": 30600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ju`ranah",
+    "region": "Makkah",
+    "lat": 21.5667,
+    "lon": 39.95,
+    "population": 30572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulakh",
+    "region": "Al Bahah",
+    "lat": 21.2964,
+    "lon": 40.7969,
+    "population": 30547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Adl",
+    "region": "Al Bahah",
+    "lat": 21.4436,
+    "lon": 39.8561,
+    "population": 30367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mecca",
+    "region": "Al Bahah",
+    "lat": 21.4225,
+    "lon": 39.8261,
+    "population": 30317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Arţāwīyah",
+    "region": "Riyadh",
+    "lat": 26.5039,
+    "lon": 45.3481,
+    "population": 30191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adh Dhibiyah",
+    "region": "Al-Qassim",
+    "lat": 26.027,
+    "lon": 43.157,
+    "population": 30011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadhah",
+    "region": "Al Bahah",
+    "lat": 21.6525,
+    "lon": 40.0142,
+    "population": 29841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quwayda'",
+    "region": "Jizan",
+    "lat": 16.7333,
+    "lon": 42.8903,
+    "population": 29745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Saffānīyah",
+    "region": "Eastern Province",
+    "lat": 27.9708,
+    "lon": 48.73,
+    "population": 29700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jid`",
+    "region": "Makkah",
+    "lat": 21.9333,
+    "lon": 39.5833,
+    "population": 29601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sadr",
+    "region": "Makkah",
+    "lat": 21.5189,
+    "lon": 40.1975,
+    "population": 29592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ashraf",
+    "region": "Al Bahah",
+    "lat": 21.5236,
+    "lon": 39.6167,
+    "population": 29555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raqiyah",
+    "region": "Al Bahah",
+    "lat": 21.7667,
+    "lon": 40.35,
+    "population": 29532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al `Ulayin",
+    "region": "Jizan",
+    "lat": 17.15,
+    "lon": 43.1708,
+    "population": 29508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mubarraz",
+    "region": "Eastern Province",
+    "lat": 25.4077,
+    "lon": 49.5903,
+    "population": 28904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haylat Radi al Baham",
+    "region": "Al Madinah",
+    "lat": 24.0839,
+    "lon": 39.725,
+    "population": 28881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quwayzah",
+    "region": "Makkah",
+    "lat": 21.4903,
+    "lon": 39.2767,
+    "population": 28879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Malbanah",
+    "region": "Al Madinah",
+    "lat": 23.1833,
+    "lon": 39.5167,
+    "population": 28841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Multasa",
+    "region": "Al Madinah",
+    "lat": 24.0833,
+    "lon": 38.15,
+    "population": 28755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qaryat",
+    "region": "Makkah",
+    "lat": 21.4667,
+    "lon": 39.2,
+    "population": 28632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rass",
+    "region": "Al Madinah",
+    "lat": 25.8667,
+    "lon": 43.5,
+    "population": 28617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Majāridah",
+    "region": "Makkah",
+    "lat": 19.1236,
+    "lon": 41.9111,
+    "population": 28519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shamiyah",
+    "region": "Al Bahah",
+    "lat": 21.8411,
+    "lon": 39.5244,
+    "population": 28437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tarfa'",
+    "region": "Makkah",
+    "lat": 21.7064,
+    "lon": 39.8714,
+    "population": 28364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ābār",
+    "region": "Al Bahah",
+    "lat": 21.0981,
+    "lon": 39.9103,
+    "population": 28288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Harani",
+    "region": "Jizan",
+    "lat": 16.775,
+    "lon": 42.9097,
+    "population": 28225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mundaraq",
+    "region": "Jizan",
+    "lat": 16.7542,
+    "lon": 43.1489,
+    "population": 28123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dahaban",
+    "region": "Al Bahah",
+    "lat": 21.9333,
+    "lon": 39.1167,
+    "population": 28010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manfuha",
+    "region": "Riyadh",
+    "lat": 24.5961,
+    "lon": 46.7272,
+    "population": 27991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dulu`",
+    "region": "Al Madinah",
+    "lat": 24.7667,
+    "lon": 39.5333,
+    "population": 27919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Halaqah",
+    "region": "Makkah",
+    "lat": 21.35,
+    "lon": 40.45,
+    "population": 27873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murshidiyah",
+    "region": "Makkah",
+    "lat": 21.4889,
+    "lon": 39.7944,
+    "population": 27815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jumūm",
+    "region": "Makkah",
+    "lat": 21.6169,
+    "lon": 39.6981,
+    "population": 27683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Munayzilah",
+    "region": "Eastern Province",
+    "lat": 25.3833,
+    "lon": 49.6667,
+    "population": 27645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mayasam",
+    "region": "Jizan",
+    "lat": 16.9478,
+    "lon": 42.7211,
+    "population": 27471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qufar",
+    "region": "Eastern Province",
+    "lat": 27.4153,
+    "lon": 41.619,
+    "population": 27420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Thybiyah",
+    "region": "Al Madinah",
+    "lat": 26.027,
+    "lon": 43.157,
+    "population": 27248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ābār",
+    "region": "Makkah",
+    "lat": 21.0981,
+    "lon": 39.9103,
+    "population": 27203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rukubah",
+    "region": "Jizan",
+    "lat": 16.6222,
+    "lon": 42.9675,
+    "population": 27168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rawdah ash Shamaliyah",
+    "region": "Al Bahah",
+    "lat": 21.7333,
+    "lon": 39.9667,
+    "population": 26946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayhāt",
+    "region": "Eastern Province",
+    "lat": 26.475,
+    "lon": 50.0417,
+    "population": 26879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nisab",
+    "region": "Al-Qassim",
+    "lat": 29.1927,
+    "lon": 44.716,
+    "population": 26857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mubarak",
+    "region": "Al Bahah",
+    "lat": 21.7,
+    "lon": 39.9,
+    "population": 26715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muqr",
+    "region": "Al Bahah",
+    "lat": 22,
+    "lon": 39.3833,
+    "population": 26699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nariyah",
+    "region": "Eastern Province",
+    "lat": 27.4699,
+    "lon": 48.4844,
+    "population": 26689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mahjar",
+    "region": "Makkah",
+    "lat": 21.4333,
+    "lon": 39.2,
+    "population": 26674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ma`riyah",
+    "region": "'Asir",
+    "lat": 18.85,
+    "lon": 41.9667,
+    "population": 26605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadhah",
+    "region": "Makkah",
+    "lat": 21.6525,
+    "lon": 40.0142,
+    "population": 26573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalajil",
+    "region": "Riyadh",
+    "lat": 25.6667,
+    "lon": 45.45,
+    "population": 26336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şuwayr",
+    "region": "Al Jawf",
+    "lat": 30.1171,
+    "lon": 40.3892,
+    "population": 26270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qurayb",
+    "region": "Jizan",
+    "lat": 16.975,
+    "lon": 42.7253,
+    "population": 26228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeddah",
+    "region": "Al Bahah",
+    "lat": 21.5428,
+    "lon": 39.1728,
+    "population": 26219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Qirfah",
+    "region": "Makkah",
+    "lat": 21.7667,
+    "lon": 39.6833,
+    "population": 26208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sudayrah, Makkah",
+    "region": "Al Bahah",
+    "lat": 21.3619,
+    "lon": 40.8547,
+    "population": 26206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duba",
+    "region": "Tabuk",
+    "lat": 27.3513,
+    "lon": 35.6901,
+    "population": 26185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarwal",
+    "region": "Makkah",
+    "lat": 21.4333,
+    "lon": 39.8167,
+    "population": 26156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khaydar",
+    "region": "Al Bahah",
+    "lat": 21.4694,
+    "lon": 40.6306,
+    "population": 26088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hafar Al-Batin",
+    "region": "Eastern Province",
+    "lat": 28.4328,
+    "lon": 45.9708,
+    "population": 26066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamah",
+    "region": "Jizan",
+    "lat": 16.9753,
+    "lon": 42.7564,
+    "population": 25928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bi'ar",
+    "region": "Al Bahah",
+    "lat": 22.6497,
+    "lon": 39.6703,
+    "population": 25905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tharwah",
+    "region": "Makkah",
+    "lat": 21.5167,
+    "lon": 39.6167,
+    "population": 25883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashm",
+    "region": "Al Bahah",
+    "lat": 21.4822,
+    "lon": 39.8208,
+    "population": 25874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jadi",
+    "region": "Jizan",
+    "lat": 16.645,
+    "lon": 42.9947,
+    "population": 25852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "`Ushash",
+    "region": "Al Madinah",
+    "lat": 23.5,
+    "lon": 38.9167,
+    "population": 25852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sadayir",
+    "region": "Al Madinah",
+    "lat": 24.25,
+    "lon": 39.1833,
+    "population": 25816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kidwah",
+    "region": "Makkah",
+    "lat": 21.7833,
+    "lon": 39.6833,
+    "population": 25779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kharadilah",
+    "region": "Jizan",
+    "lat": 16.9272,
+    "lon": 42.6264,
+    "population": 25709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sājir",
+    "region": "Riyadh",
+    "lat": 25.1825,
+    "lon": 44.5996,
+    "population": 25670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quwayzah",
+    "region": "Al Bahah",
+    "lat": 21.4903,
+    "lon": 39.2767,
+    "population": 25657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rābigh",
+    "region": "Makkah",
+    "lat": 22.7986,
+    "lon": 39.0349,
+    "population": 25600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mushrif",
+    "region": "Makkah",
+    "lat": 22.6292,
+    "lon": 41.3567,
+    "population": 25579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ukhaydir",
+    "region": "Makkah",
+    "lat": 21.9333,
+    "lon": 40.0167,
+    "population": 25372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajrah",
+    "region": "Al Bahah",
+    "lat": 20.2333,
+    "lon": 41.05,
+    "population": 25262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jabriyah",
+    "region": "Al Madinah",
+    "lat": 24.25,
+    "lon": 38.5167,
+    "population": 25134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mashayikh",
+    "region": "Al Bahah",
+    "lat": 21.35,
+    "lon": 40.3333,
+    "population": 25036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shaybi",
+    "region": "Makkah",
+    "lat": 21.6958,
+    "lon": 39.9417,
+    "population": 24989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qaryat",
+    "region": "Al Bahah",
+    "lat": 21.4667,
+    "lon": 39.2,
+    "population": 24941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Mubarraz",
+    "region": "Eastern Province",
+    "lat": 25.4416,
+    "lon": 49.6642,
+    "population": 24817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghassalah",
+    "region": "Al Bahah",
+    "lat": 21.45,
+    "lon": 39.8667,
+    "population": 24772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shuwaybit",
+    "region": "Makkah",
+    "lat": 21.3797,
+    "lon": 40.5194,
+    "population": 24528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mudawwarah",
+    "region": "Makkah",
+    "lat": 21.2667,
+    "lon": 39.9667,
+    "population": 24463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abū ‘Arīsh",
+    "region": "Jizan",
+    "lat": 16.9689,
+    "lon": 42.8325,
+    "population": 24150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abha",
+    "region": "Makkah",
+    "lat": 18.2167,
+    "lon": 42.5,
+    "population": 24142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Akhal",
+    "region": "Al Madinah",
+    "lat": 23.3156,
+    "lon": 39.8594,
+    "population": 24031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Barabir",
+    "region": "Al Bahah",
+    "lat": 21.5203,
+    "lon": 39.6325,
+    "population": 24028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dukhnah",
+    "region": "Al-Qassim",
+    "lat": 25.3562,
+    "lon": 43.6227,
+    "population": 23994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hadā",
+    "region": "Makkah",
+    "lat": 21.3675,
+    "lon": 40.2869,
+    "population": 23990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maqshush",
+    "region": "Al Madinah",
+    "lat": 23.5833,
+    "lon": 38.6,
+    "population": 23796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shuqayq",
+    "region": "Jizan",
+    "lat": 17.7031,
+    "lon": 42.0294,
+    "population": 23792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahrat al Qadimah",
+    "region": "Makkah",
+    "lat": 21.4133,
+    "lon": 39.4939,
+    "population": 23683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabyah",
+    "region": "Al Bahah",
+    "lat": 22.4247,
+    "lon": 39.4461,
+    "population": 23680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qurayyat",
+    "region": "Al Jawf",
+    "lat": 31.3318,
+    "lon": 37.3428,
+    "population": 23677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shi`b",
+    "region": "Makkah",
+    "lat": 21.9689,
+    "lon": 39.4861,
+    "population": 23673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khulasah",
+    "region": "Makkah",
+    "lat": 21.6833,
+    "lon": 39.9167,
+    "population": 23261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Samd ash Shamali",
+    "region": "Makkah",
+    "lat": 21.675,
+    "lon": 39.75,
+    "population": 23246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mithnab",
+    "region": "Al-Qassim",
+    "lat": 25.8601,
+    "lon": 44.2223,
+    "population": 23177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zurra`",
+    "region": "Al Bahah",
+    "lat": 21.9106,
+    "lon": 39.4,
+    "population": 22952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halamah",
+    "region": "Makkah",
+    "lat": 21.9542,
+    "lon": 39.7028,
+    "population": 22709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bartiyah",
+    "region": "Al Madinah",
+    "lat": 24.2833,
+    "lon": 38.5833,
+    "population": 22580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu `Urwah",
+    "region": "Al Bahah",
+    "lat": 21.65,
+    "lon": 39.7,
+    "population": 22562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haradh",
+    "region": "Eastern Province",
+    "lat": 24.1456,
+    "lon": 49.0653,
+    "population": 22469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Awamiyah",
+    "region": "Eastern Province",
+    "lat": 26.5833,
+    "lon": 49.9833,
+    "population": 22428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mecca",
+    "region": "Makkah",
+    "lat": 21.4266,
+    "lon": 39.8256,
+    "population": 22365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jizan",
+    "region": "Jizan",
+    "lat": 16.8892,
+    "lon": 42.5511,
+    "population": 22354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al `Awali",
+    "region": "Al Madinah",
+    "lat": 24.45,
+    "lon": 39.6167,
+    "population": 22238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muwassam",
+    "region": "Jizan",
+    "lat": 16.4167,
+    "lon": 42.8258,
+    "population": 22229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ubaylah",
+    "region": "Eastern Province",
+    "lat": 21.9842,
+    "lon": 50.9397,
+    "population": 22212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jafr",
+    "region": "Eastern Province",
+    "lat": 25.3774,
+    "lon": 49.7215,
+    "population": 22164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rayn",
+    "region": "Riyadh",
+    "lat": 23.5499,
+    "lon": 45.5046,
+    "population": 22112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hamimah",
+    "region": "Al Bahah",
+    "lat": 21.5167,
+    "lon": 39.6333,
+    "population": 22024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghawiyah",
+    "region": "Jizan",
+    "lat": 16.565,
+    "lon": 43.1108,
+    "population": 21776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fazz",
+    "region": "Al Bahah",
+    "lat": 21.9833,
+    "lon": 39.5222,
+    "population": 21701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shi`b `amir",
+    "region": "Makkah",
+    "lat": 21.4333,
+    "lon": 39.8333,
+    "population": 21701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thuwal",
+    "region": "Al Bahah",
+    "lat": 22.2833,
+    "lon": 39.1,
+    "population": 21514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Quful",
+    "region": "Jizan",
+    "lat": 16.6733,
+    "lon": 43.0789,
+    "population": 21339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiya",
+    "region": "Al Bahah",
+    "lat": 21.0667,
+    "lon": 41.0167,
+    "population": 21316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sayl as Saghir",
+    "region": "Makkah",
+    "lat": 21.5064,
+    "lon": 40.4822,
+    "population": 21300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Balad",
+    "region": "Makkah",
+    "lat": 21.4878,
+    "lon": 39.1936,
+    "population": 21288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mathnah",
+    "region": "Makkah",
+    "lat": 21.2667,
+    "lon": 40.3833,
+    "population": 21246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasa, Al Madinah",
+    "region": "Al Madinah",
+    "lat": 24.2833,
+    "lon": 38.6,
+    "population": 21174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Adl",
+    "region": "Makkah",
+    "lat": 21.4436,
+    "lon": 39.8561,
+    "population": 21112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashm",
+    "region": "Makkah",
+    "lat": 21.4822,
+    "lon": 39.8208,
+    "population": 21055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mulayha'",
+    "region": "Al Bahah",
+    "lat": 21.8,
+    "lon": 40.35,
+    "population": 21007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rabwah as Sufla",
+    "region": "Al Bahah",
+    "lat": 21.9553,
+    "lon": 39.4367,
+    "population": 20992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Isawiyah",
+    "region": "Al Jawf",
+    "lat": 30.7168,
+    "lon": 37.9777,
+    "population": 20866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Nimāş",
+    "region": "'Asir",
+    "lat": 19.1455,
+    "lon": 42.1201,
+    "population": 20785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mubarak",
+    "region": "Makkah",
+    "lat": 21.7,
+    "lon": 39.9,
+    "population": 20472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamdah",
+    "region": "Jizan",
+    "lat": 16.7619,
+    "lon": 42.9222,
+    "population": 20418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "shokhaibٍ",
+    "region": "Riyadh",
+    "lat": 24.4902,
+    "lon": 46.2687,
+    "population": 20368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Balad",
+    "region": "Al Bahah",
+    "lat": 21.4878,
+    "lon": 39.1936,
+    "population": 20362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halamah",
+    "region": "Al Bahah",
+    "lat": 21.9542,
+    "lon": 39.7028,
+    "population": 20317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rafah",
+    "region": "Makkah",
+    "lat": 21.5167,
+    "lon": 40.2,
+    "population": 20278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shaybi",
+    "region": "Al Bahah",
+    "lat": 21.6958,
+    "lon": 39.9417,
+    "population": 20246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masihat Mahd al Hayl",
+    "region": "Al Bahah",
+    "lat": 21.9417,
+    "lon": 39.8861,
+    "population": 20171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fayd",
+    "region": "Al Bahah",
+    "lat": 21.9172,
+    "lon": 39.3883,
+    "population": 20165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zughbah",
+    "region": "Al Bahah",
+    "lat": 21.7167,
+    "lon": 39.9458,
+    "population": 20128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Qirfah",
+    "region": "Al Bahah",
+    "lat": 21.7667,
+    "lon": 39.6833,
+    "population": 20092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shira`ayn",
+    "region": "Makkah",
+    "lat": 21.2833,
+    "lon": 40.7833,
+    "population": 20013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zaymah",
+    "region": "Makkah",
+    "lat": 21.6186,
+    "lon": 40.1133,
+    "population": 19990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turabah",
+    "region": "Makkah",
+    "lat": 21.2141,
+    "lon": 41.6331,
+    "population": 19725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ta'if",
+    "region": "Makkah",
+    "lat": 21.2703,
+    "lon": 40.4158,
+    "population": 19638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bahah",
+    "region": "'Asir",
+    "lat": 20.0129,
+    "lon": 41.4677,
+    "population": 19624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muwayh",
+    "region": "Al Bahah",
+    "lat": 22.4333,
+    "lon": 41.7583,
+    "population": 19572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mafruq",
+    "region": "Al Bahah",
+    "lat": 21.5222,
+    "lon": 40.1794,
+    "population": 19499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suways",
+    "region": "Al Bahah",
+    "lat": 21.95,
+    "lon": 39.9667,
+    "population": 19433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dughaybjah",
+    "region": "Al Bahah",
+    "lat": 22.5903,
+    "lon": 41.3597,
+    "population": 19319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawqaq",
+    "region": "Eastern Province",
+    "lat": 27.384,
+    "lon": 41.1763,
+    "population": 19275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khayf",
+    "region": "Al Bahah",
+    "lat": 21.6833,
+    "lon": 39.7333,
+    "population": 19144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ju`ranah",
+    "region": "Al Bahah",
+    "lat": 21.5667,
+    "lon": 39.95,
+    "population": 19110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mushrif",
+    "region": "Al Bahah",
+    "lat": 22.6292,
+    "lon": 41.3567,
+    "population": 19050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maqrah",
+    "region": "Makkah",
+    "lat": 21.2667,
+    "lon": 39.95,
+    "population": 19036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nughayshiyah",
+    "region": "Al Bahah",
+    "lat": 21.2167,
+    "lon": 40.75,
+    "population": 19031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm as Sāhik",
+    "region": "Eastern Province",
+    "lat": 26.6536,
+    "lon": 49.9164,
+    "population": 19024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muqayti`",
+    "region": "Makkah",
+    "lat": 21.5486,
+    "lon": 39.7861,
+    "population": 18980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Najan",
+    "region": "Riyadh",
+    "lat": 24.0775,
+    "lon": 47.1659,
+    "population": 18951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sayl al Kabir",
+    "region": "Makkah",
+    "lat": 21.6264,
+    "lon": 40.4153,
+    "population": 18928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamayyah",
+    "region": "Jizan",
+    "lat": 16.9894,
+    "lon": 43.1603,
+    "population": 18788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raḩīmah",
+    "region": "Eastern Province",
+    "lat": 26.7079,
+    "lon": 50.0619,
+    "population": 18340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Barabir",
+    "region": "Makkah",
+    "lat": 21.5203,
+    "lon": 39.6325,
+    "population": 18211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Jafr",
+    "region": "Al Madinah",
+    "lat": 25.4167,
+    "lon": 49.6167,
+    "population": 17982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qitabir",
+    "region": "Jizan",
+    "lat": 17.3333,
+    "lon": 43.25,
+    "population": 17964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawarah",
+    "region": "Al Madinah",
+    "lat": 24.2,
+    "lon": 38.4333,
+    "population": 17927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milhah",
+    "region": "Al Madinah",
+    "lat": 24.05,
+    "lon": 38.3,
+    "population": 17904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rayyis",
+    "region": "Al Madinah",
+    "lat": 23.5667,
+    "lon": 38.6,
+    "population": 17833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu `Urwah",
+    "region": "Makkah",
+    "lat": 21.65,
+    "lon": 39.7,
+    "population": 17814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dur",
+    "region": "Al Bahah",
+    "lat": 21.8167,
+    "lon": 39.7667,
+    "population": 17793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mashajji",
+    "region": "Al Bahah",
+    "lat": 21.7389,
+    "lon": 39.9667,
+    "population": 17652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qufayf",
+    "region": "Makkah",
+    "lat": 21.8333,
+    "lon": 40.45,
+    "population": 17587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shira`ayn",
+    "region": "Al Bahah",
+    "lat": 21.2833,
+    "lon": 40.7833,
+    "population": 17585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juha, Saudi Arabia",
+    "region": "Jizan",
+    "lat": 16.6694,
+    "lon": 42.8922,
+    "population": 17393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "CITY GHRAN",
+    "region": "Makkah",
+    "lat": 21.9738,
+    "lon": 39.3682,
+    "population": 17159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qadimah",
+    "region": "Makkah",
+    "lat": 22.35,
+    "lon": 39.15,
+    "population": 17067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khalfah",
+    "region": "Jizan",
+    "lat": 16.5547,
+    "lon": 43.0894,
+    "population": 17049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Ula",
+    "region": "Al Madinah",
+    "lat": 26.6085,
+    "lon": 37.9232,
+    "population": 16934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Birk",
+    "region": "Makkah",
+    "lat": 18.2163,
+    "lon": 41.5359,
+    "population": 16873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barzah",
+    "region": "Al Bahah",
+    "lat": 21.98,
+    "lon": 39.6756,
+    "population": 16847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ain AlBaraha",
+    "region": "Riyadh",
+    "lat": 24.7581,
+    "lon": 43.7739,
+    "population": 16658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Iskan",
+    "region": "Al Bahah",
+    "lat": 21.4,
+    "lon": 39.7833,
+    "population": 16641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mukambal",
+    "region": "Jizan",
+    "lat": 16.5936,
+    "lon": 43.0328,
+    "population": 16619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arar",
+    "region": "Northern Borders",
+    "lat": 30.9753,
+    "lon": 41.0381,
+    "population": 16564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Buraykah",
+    "region": "Al Bahah",
+    "lat": 21.7861,
+    "lon": 39.7167,
+    "population": 16539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulakh",
+    "region": "Makkah",
+    "lat": 21.2964,
+    "lon": 40.7969,
+    "population": 16492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kirs",
+    "region": "Jizan",
+    "lat": 16.5772,
+    "lon": 42.9475,
+    "population": 16476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adh Dhagharir",
+    "region": "Jizan",
+    "lat": 16.6778,
+    "lon": 42.9592,
+    "population": 16473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zuwayb",
+    "region": "Makkah",
+    "lat": 21.9167,
+    "lon": 39.9694,
+    "population": 16188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badr Ḩunayn",
+    "region": "Al Madinah",
+    "lat": 23.7829,
+    "lon": 38.7905,
+    "population": 16152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qahab",
+    "region": "'Asir",
+    "lat": 18.9256,
+    "lon": 41.955,
+    "population": 16080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qal‘at Bīshah",
+    "region": "'Asir",
+    "lat": 20.0005,
+    "lon": 42.6052,
+    "population": 16036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahattat al Hafah",
+    "region": "Al Madinah",
+    "lat": 23.75,
+    "lon": 39.3,
+    "population": 15940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usfan",
+    "region": "Al Bahah",
+    "lat": 21.9231,
+    "lon": 39.3559,
+    "population": 15917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanūmah",
+    "region": "Al Madinah",
+    "lat": 27.1,
+    "lon": 44.1333,
+    "population": 15859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qawba`iyah",
+    "region": "Al Bahah",
+    "lat": 21.6667,
+    "lon": 39.9833,
+    "population": 15745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jami`ah",
+    "region": "Al Bahah",
+    "lat": 21.4667,
+    "lon": 39.25,
+    "population": 15677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ma`riyah",
+    "region": "Makkah",
+    "lat": 18.85,
+    "lon": 41.9667,
+    "population": 15657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malakan",
+    "region": "Makkah",
+    "lat": 21.2158,
+    "lon": 39.9503,
+    "population": 15628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matiyah",
+    "region": "Makkah",
+    "lat": 21.5417,
+    "lon": 39.8194,
+    "population": 15420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khumrah",
+    "region": "Makkah",
+    "lat": 21.3728,
+    "lon": 39.2261,
+    "population": 15279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiya",
+    "region": "Makkah",
+    "lat": 21.0667,
+    "lon": 41.0167,
+    "population": 15241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madrakah",
+    "region": "Makkah",
+    "lat": 21.9797,
+    "lon": 39.9875,
+    "population": 15019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ma`rash",
+    "region": "Makkah",
+    "lat": 21.1333,
+    "lon": 40.6,
+    "population": 15004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahrat al Qadimah",
+    "region": "Al Bahah",
+    "lat": 21.4133,
+    "lon": 39.4939,
+    "population": 14906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khashabiyah",
+    "region": "Jizan",
+    "lat": 16.9403,
+    "lon": 42.6431,
+    "population": 14778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawqaq",
+    "region": "Ha'il",
+    "lat": 27.384,
+    "lon": 41.1763,
+    "population": 14749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawadmi",
+    "region": "Riyadh",
+    "lat": 24.5077,
+    "lon": 44.3924,
+    "population": 14635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wajh",
+    "region": "Tabuk",
+    "lat": 26.2455,
+    "lon": 36.4525,
+    "population": 14506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jurayfah",
+    "region": "Riyadh",
+    "lat": 25.5293,
+    "lon": 45.2564,
+    "population": 14475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usfan",
+    "region": "Makkah",
+    "lat": 21.9231,
+    "lon": 39.3559,
+    "population": 14393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaisumah",
+    "region": "Eastern Province",
+    "lat": 28.3112,
+    "lon": 46.1273,
+    "population": 14365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khayf",
+    "region": "Makkah",
+    "lat": 21.6833,
+    "lon": 39.7333,
+    "population": 14348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shumaysi",
+    "region": "Makkah",
+    "lat": 21.5833,
+    "lon": 39.6833,
+    "population": 14300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bir",
+    "region": "Riyadh",
+    "lat": 25.3,
+    "lon": 45.9667,
+    "population": 14270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sifyani",
+    "region": "Makkah",
+    "lat": 21.4756,
+    "lon": 39.8431,
+    "population": 14269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadda'",
+    "region": "Al Bahah",
+    "lat": 21.4503,
+    "lon": 39.5544,
+    "population": 14266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bukayrīyah",
+    "region": "Al-Qassim",
+    "lat": 26.1392,
+    "lon": 43.6578,
+    "population": 13865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riyadh",
+    "region": "Riyadh",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "population": 13808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuzlat al Faqin",
+    "region": "Al Bahah",
+    "lat": 22,
+    "lon": 39.4167,
+    "population": 13786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Madaya",
+    "region": "Jizan",
+    "lat": 16.7697,
+    "lon": 42.7311,
+    "population": 13759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khayf Fadil",
+    "region": "Al Madinah",
+    "lat": 24.2667,
+    "lon": 38.5667,
+    "population": 13752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bi'r al Mashi",
+    "region": "Al Madinah",
+    "lat": 24.2167,
+    "lon": 39.55,
+    "population": 13703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahwil",
+    "region": "Makkah",
+    "lat": 22.4294,
+    "lon": 39.4294,
+    "population": 13655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Darb",
+    "region": "Jizan",
+    "lat": 17.7229,
+    "lon": 42.2526,
+    "population": 13614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zuwayb",
+    "region": "Al Bahah",
+    "lat": 21.9167,
+    "lon": 39.9694,
+    "population": 13612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buraykah",
+    "region": "Makkah",
+    "lat": 22.3444,
+    "lon": 39.32,
+    "population": 13582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zaymah",
+    "region": "Al Bahah",
+    "lat": 21.6186,
+    "lon": 40.1133,
+    "population": 13487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qararah",
+    "region": "Al Bahah",
+    "lat": 21.4289,
+    "lon": 39.8281,
+    "population": 13433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shara'i`",
+    "region": "Makkah",
+    "lat": 21.4631,
+    "lon": 39.9461,
+    "population": 13384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khabath Sa`id",
+    "region": "Jizan",
+    "lat": 16.9978,
+    "lon": 42.7322,
+    "population": 13369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sulţānah",
+    "region": "Al Madinah",
+    "lat": 24.4926,
+    "lon": 39.5857,
+    "population": 13363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nisab",
+    "region": "Northern Borders",
+    "lat": 29.1927,
+    "lon": 44.716,
+    "population": 13344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mulayjah",
+    "region": "Eastern Province",
+    "lat": 27.271,
+    "lon": 48.4242,
+    "population": 13330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arya`",
+    "region": "Al Bahah",
+    "lat": 21.0856,
+    "lon": 40.6239,
+    "population": 13308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Turqi",
+    "region": "Makkah",
+    "lat": 21.9492,
+    "lon": 39.4131,
+    "population": 13298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghassalah",
+    "region": "Makkah",
+    "lat": 21.45,
+    "lon": 39.8667,
+    "population": 13256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zilal",
+    "region": "Makkah",
+    "lat": 21.4889,
+    "lon": 39.5942,
+    "population": 13223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qadimah",
+    "region": "Al Bahah",
+    "lat": 22.35,
+    "lon": 39.15,
+    "population": 13200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mizhirah",
+    "region": "Jizan",
+    "lat": 16.8261,
+    "lon": 42.7333,
+    "population": 13141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ta'if",
+    "region": "Al Bahah",
+    "lat": 21.2667,
+    "lon": 40.4167,
+    "population": 13126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Furaysh",
+    "region": "Al Madinah",
+    "lat": 24.22,
+    "lon": 39.2814,
+    "population": 13119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turaif",
+    "region": "Northern Borders",
+    "lat": 31.6725,
+    "lon": 38.6637,
+    "population": 13026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Waht",
+    "region": "Al Bahah",
+    "lat": 21.2333,
+    "lon": 40.35,
+    "population": 12970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zilal",
+    "region": "Al Bahah",
+    "lat": 21.4889,
+    "lon": 39.5942,
+    "population": 12937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qirshan",
+    "region": "Makkah",
+    "lat": 21.5667,
+    "lon": 39.7,
+    "population": 12906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabuk",
+    "region": "Tabuk",
+    "lat": 28.3998,
+    "lon": 36.5715,
+    "population": 12867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maskar",
+    "region": "Makkah",
+    "lat": 21.75,
+    "lon": 40.3164,
+    "population": 12818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jissah",
+    "region": "Al Madinah",
+    "lat": 23.3333,
+    "lon": 40.3,
+    "population": 12761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munayzir",
+    "region": "Makkah",
+    "lat": 18.9464,
+    "lon": 41.9164,
+    "population": 12723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Muwayh",
+    "region": "Makkah",
+    "lat": 22.4333,
+    "lon": 41.7583,
+    "population": 12712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qushashiyah",
+    "region": "Makkah",
+    "lat": 21.4333,
+    "lon": 39.8333,
+    "population": 12534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jami`ah",
+    "region": "Makkah",
+    "lat": 21.4667,
+    "lon": 39.25,
+    "population": 12509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shumaysi",
+    "region": "Al Bahah",
+    "lat": 21.5833,
+    "lon": 39.6833,
+    "population": 12348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mudawwarah",
+    "region": "Al Bahah",
+    "lat": 21.2667,
+    "lon": 39.9667,
+    "population": 12273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mundassah",
+    "region": "Makkah",
+    "lat": 21.6333,
+    "lon": 39.7486,
+    "population": 12144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dahaban",
+    "region": "Makkah",
+    "lat": 21.9333,
+    "lon": 39.1167,
+    "population": 12073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Julayyil",
+    "region": "Makkah",
+    "lat": 21.9583,
+    "lon": 39.7583,
+    "population": 11971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qufar",
+    "region": "Ha'il",
+    "lat": 27.4153,
+    "lon": 41.619,
+    "population": 11924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fiji",
+    "region": "Al Madinah",
+    "lat": 24.2667,
+    "lon": 38.5667,
+    "population": 11778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suways",
+    "region": "Makkah",
+    "lat": 21.95,
+    "lon": 39.9667,
+    "population": 11775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harmah",
+    "region": "Riyadh",
+    "lat": 25.9167,
+    "lon": 45.3333,
+    "population": 11714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harthiyah",
+    "region": "Al Madinah",
+    "lat": 24.25,
+    "lon": 38.55,
+    "population": 11692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Julayjilah",
+    "region": "Eastern Province",
+    "lat": 25.5,
+    "lon": 49.6,
+    "population": 11678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Markaz",
+    "region": "Eastern Province",
+    "lat": 25.4,
+    "lon": 49.7333,
+    "population": 11658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Biqa'",
+    "region": "Al Madinah",
+    "lat": 24.3886,
+    "lon": 38.5989,
+    "population": 11500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Thybiyah",
+    "region": "Al-Qassim",
+    "lat": 26.027,
+    "lon": 43.157,
+    "population": 11487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al `Uqul",
+    "region": "Al Madinah",
+    "lat": 24.5,
+    "lon": 39.8167,
+    "population": 11481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rawkhah",
+    "region": "Jizan",
+    "lat": 16.9478,
+    "lon": 42.7933,
+    "population": 11408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wuday",
+    "region": "Al Madinah",
+    "lat": 24.1789,
+    "lon": 39.5481,
+    "population": 11392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mathnah",
+    "region": "Al Bahah",
+    "lat": 21.2667,
+    "lon": 40.3833,
+    "population": 11352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zulfī",
+    "region": "Riyadh",
+    "lat": 26.2995,
+    "lon": 44.8154,
+    "population": 11287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumaymah",
+    "region": "Al Bahah",
+    "lat": 21.25,
+    "lon": 39.1667,
+    "population": 11098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ha'il",
+    "region": "Ha'il",
+    "lat": 27.5219,
+    "lon": 41.6907,
+    "population": 10998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabuhah",
+    "region": "Al Bahah",
+    "lat": 21.5833,
+    "lon": 40.1167,
+    "population": 10733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buraydah",
+    "region": "Al-Qassim",
+    "lat": 26.326,
+    "lon": 43.975,
+    "population": 10577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zughbah",
+    "region": "Makkah",
+    "lat": 21.7167,
+    "lon": 39.9458,
+    "population": 10571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maqrah",
+    "region": "Al Madinah",
+    "lat": 24.4167,
+    "lon": 38.7,
+    "population": 10522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qu`tubah",
+    "region": "Al Bahah",
+    "lat": 21.9333,
+    "lon": 40.3667,
+    "population": 10435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qurayn",
+    "region": "Eastern Province",
+    "lat": 25.4833,
+    "lon": 49.6,
+    "population": 10391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Julayyil",
+    "region": "Al Bahah",
+    "lat": 21.9583,
+    "lon": 39.7583,
+    "population": 10283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiba",
+    "region": "Al Madinah",
+    "lat": 27.4029,
+    "lon": 44.3277,
+    "population": 10246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maskar",
+    "region": "Al Bahah",
+    "lat": 21.75,
+    "lon": 40.3164,
+    "population": 10160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sha`tha'",
+    "region": "Al Madinah",
+    "lat": 24.2333,
+    "lon": 38.5333,
+    "population": 10133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wed Alnkil",
+    "region": "Al-Qassim",
+    "lat": 25.4267,
+    "lon": 42.8343,
+    "population": 10110,
+    "timezone": "UTC"
+  }
+]

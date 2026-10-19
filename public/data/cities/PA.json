@@ -1,0 +1,4802 @@
+[
+  {
+    "name": "Cerro Cama",
+    "region": "Panamá Oeste Province",
+    "lat": 9.028,
+    "lon": -79.9074,
+    "population": 49984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahía Azul",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 9.1418,
+    "lon": -81.8942,
+    "population": 49874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cocal",
+    "region": "Los Santos Province",
+    "lat": 7.737,
+    "lon": -80.2798,
+    "population": 49829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca de Cupé",
+    "region": "Darién Province",
+    "lat": 8.03,
+    "lon": -77.5898,
+    "population": 49806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano de La Cruz",
+    "region": "Herrera Province",
+    "lat": 7.9518,
+    "lon": -80.6424,
+    "population": 49799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Coco",
+    "region": "Coclé Province",
+    "lat": 8.3972,
+    "lon": -80.35,
+    "population": 49695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Los Santos",
+    "region": "Los Santos Province",
+    "lat": 7.8833,
+    "lon": -80.45,
+    "population": 49669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Fé",
+    "region": "Veraguas Province",
+    "lat": 8.5106,
+    "lon": -81.078,
+    "population": 49649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Díaz",
+    "region": "Coclé Province",
+    "lat": 8.4624,
+    "lon": -80.2828,
+    "population": 49557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gatuncillo",
+    "region": "Colón Province",
+    "lat": 9.2435,
+    "lon": -79.6486,
+    "population": 49542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Enea",
+    "region": "Los Santos Province",
+    "lat": 7.8333,
+    "lon": -80.2742,
+    "population": 49504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Balboa",
+    "region": "Panamá Province",
+    "lat": 8.4667,
+    "lon": -79,
+    "population": 49476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ancón",
+    "region": "Panamá Province",
+    "lat": 8.9602,
+    "lon": -79.5514,
+    "population": 49421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Isidro",
+    "region": "Chiriquí Province",
+    "lat": 8.5303,
+    "lon": -82.8272,
+    "population": 49401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Asientos",
+    "region": "Los Santos Province",
+    "lat": 7.5166,
+    "lon": -80.1352,
+    "population": 49145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bijagual",
+    "region": "Chiriquí Province",
+    "lat": 8.5149,
+    "lon": -82.3336,
+    "population": 49096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de San Francisco",
+    "region": "Veraguas Province",
+    "lat": 8.2697,
+    "lon": -81.0011,
+    "population": 49074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Pesa",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8507,
+    "lon": -79.8237,
+    "population": 49012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mesa",
+    "region": "Panamá Province",
+    "lat": 9.1731,
+    "lon": -79.274,
+    "population": 48967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Plata",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4773,
+    "lon": -81.5459,
+    "population": 48872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peña Blanca",
+    "region": "Los Santos Province",
+    "lat": 7.7193,
+    "lon": -80.2837,
+    "population": 48869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Alto",
+    "region": "Veraguas Province",
+    "lat": 8.5119,
+    "lon": -81.0365,
+    "population": 48857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "David",
+    "region": "Chiriquí Province",
+    "lat": 8.4273,
+    "lon": -82.4309,
+    "population": 48852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Gualaca",
+    "region": "Chiriquí Province",
+    "lat": 8.574,
+    "lon": -82.2221,
+    "population": 48790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curundú",
+    "region": "Panamá Province",
+    "lat": 8.9709,
+    "lon": -79.5461,
+    "population": 48754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Achutupo",
+    "region": "Guna Yala",
+    "lat": 9.1983,
+    "lon": -77.9873,
+    "population": 48700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Panamá Province",
+    "lat": 8.4568,
+    "lon": -78.9369,
+    "population": 48690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaca Arriba",
+    "region": "Chiriquí Province",
+    "lat": 8.5373,
+    "lon": -82.4928,
+    "population": 48538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Capira",
+    "region": "Panamá Oeste Province",
+    "lat": 8.7623,
+    "lon": -79.8828,
+    "population": 48429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potrerillos Abajo",
+    "region": "Chiriquí Province",
+    "lat": 8.6398,
+    "lon": -82.4856,
+    "population": 48363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Calobre",
+    "region": "Veraguas Province",
+    "lat": 8.3968,
+    "lon": -80.8512,
+    "population": 48344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Garceana",
+    "region": "Veraguas Province",
+    "lat": 7.9371,
+    "lon": -81.0164,
+    "population": 48150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés",
+    "region": "Chiriquí Province",
+    "lat": 8.6026,
+    "lon": -82.7259,
+    "population": 47944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Palmas",
+    "region": "Veraguas Province",
+    "lat": 8.1356,
+    "lon": -81.4567,
+    "population": 47933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boquerón",
+    "region": "Chiriquí Province",
+    "lat": 8.5051,
+    "lon": -82.5703,
+    "population": 47874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boquete",
+    "region": "Chiriquí Province",
+    "lat": 8.7802,
+    "lon": -82.4414,
+    "population": 47665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cucunatí",
+    "region": "Darién Province",
+    "lat": 8.5751,
+    "lon": -78.2567,
+    "population": 47654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Vidal",
+    "region": "Veraguas Province",
+    "lat": 8.0483,
+    "lon": -81.605,
+    "population": 47630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "María Chiquita",
+    "region": "Colón Province",
+    "lat": 9.4399,
+    "lon": -79.7545,
+    "population": 47601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolega District",
+    "region": "Chiriquí Province",
+    "lat": 8.5667,
+    "lon": -82.4141,
+    "population": 47568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caimitillo",
+    "region": "Panamá Province",
+    "lat": 9.1556,
+    "lon": -79.5397,
+    "population": 47495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Díaz",
+    "region": "Panamá Province",
+    "lat": 9.05,
+    "lon": -79.45,
+    "population": 47372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Clara",
+    "region": "Chiriquí Province",
+    "lat": 8.8338,
+    "lon": -82.7794,
+    "population": 47314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Margaritas",
+    "region": "Colón Province",
+    "lat": 9.326,
+    "lon": -79.8903,
+    "population": 47220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Naranjos",
+    "region": "Chiriquí Province",
+    "lat": 8.7921,
+    "lon": -82.4467,
+    "population": 47161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Ejido",
+    "region": "Los Santos Province",
+    "lat": 7.9163,
+    "lon": -80.3869,
+    "population": 47135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca de Balsa",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.5299,
+    "lon": -82.0313,
+    "population": 47125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Largo",
+    "region": "Herrera Province",
+    "lat": 7.8338,
+    "lon": -80.8317,
+    "population": 47094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brujas",
+    "region": "Panamá Province",
+    "lat": 8.5854,
+    "lon": -78.5301,
+    "population": 47086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Portobelo",
+    "region": "Colón Province",
+    "lat": 9.4975,
+    "lon": -79.6073,
+    "population": 47070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Porvenir",
+    "region": "Guna Yala",
+    "lat": 9.5528,
+    "lon": -78.9523,
+    "population": 47036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Palmas",
+    "region": "Los Santos Province",
+    "lat": 7.6831,
+    "lon": -80.4973,
+    "population": 46725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmira",
+    "region": "Chiriquí Province",
+    "lat": 8.734,
+    "lon": -82.4589,
+    "population": 46609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Laja",
+    "region": "Los Santos Province",
+    "lat": 7.731,
+    "lon": -80.253,
+    "population": 46554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Uvito",
+    "region": "Veraguas Province",
+    "lat": 8.1165,
+    "lon": -80.9846,
+    "population": 46537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boró",
+    "region": "Veraguas Province",
+    "lat": 8.1693,
+    "lon": -81.3007,
+    "population": 46522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8568,
+    "lon": -79.8795,
+    "population": 46481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Dolega",
+    "region": "Chiriquí Province",
+    "lat": 8.6167,
+    "lon": -82.45,
+    "population": 46449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cristo",
+    "region": "Coclé Province",
+    "lat": 8.2507,
+    "lon": -80.6209,
+    "population": 46399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de David",
+    "region": "Chiriquí Province",
+    "lat": 8.4,
+    "lon": -82.4,
+    "population": 46385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Líbano",
+    "region": "Panamá Oeste Province",
+    "lat": 8.6168,
+    "lon": -79.8348,
+    "population": 46377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Clara",
+    "region": "Panamá Oeste Province",
+    "lat": 9.0288,
+    "lon": -79.7544,
+    "population": 46315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chame",
+    "region": "Panamá Oeste Province",
+    "lat": 8.5775,
+    "lon": -79.8859,
+    "population": 46126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "Chiriquí Province",
+    "lat": 8.2322,
+    "lon": -81.9132,
+    "population": 46061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Montañuela",
+    "region": "Veraguas Province",
+    "lat": 8.0249,
+    "lon": -80.8632,
+    "population": 46060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paredón Arriba",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4598,
+    "lon": -81.1959,
+    "population": 46038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Cañazas",
+    "region": "Veraguas Province",
+    "lat": 8.356,
+    "lon": -81.2863,
+    "population": 46025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Sereno",
+    "region": "Chiriquí Province",
+    "lat": 8.8174,
+    "lon": -82.8573,
+    "population": 46009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bejuco",
+    "region": "Panamá Oeste Province",
+    "lat": 8.6004,
+    "lon": -79.8899,
+    "population": 45970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Minas",
+    "region": "Coclé Province",
+    "lat": 8.6412,
+    "lon": -80.3943,
+    "population": 45969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrio Guadalupe",
+    "region": "Chiriquí Province",
+    "lat": 8.8648,
+    "lon": -82.5652,
+    "population": 45929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocrí",
+    "region": "Los Santos Province",
+    "lat": 7.6582,
+    "lon": -80.1212,
+    "population": 45899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Loma",
+    "region": "Veraguas Province",
+    "lat": 7.4371,
+    "lon": -80.8912,
+    "population": 45875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Hato",
+    "region": "Coclé Province",
+    "lat": 8.3794,
+    "lon": -80.1662,
+    "population": 45865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Retiro",
+    "region": "Coclé Province",
+    "lat": 8.4801,
+    "lon": -80.1543,
+    "population": 45855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito Penonomé",
+    "region": "Coclé Province",
+    "lat": 8.63,
+    "lon": -80.2833,
+    "population": 45648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bastimentos",
+    "region": "Bocas del Toro Province",
+    "lat": 9.3471,
+    "lon": -82.2088,
+    "population": 45587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Palmar",
+    "region": "Chiriquí Province",
+    "lat": 8.301,
+    "lon": -82.8534,
+    "population": 45536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Dios",
+    "region": "Coclé Province",
+    "lat": 8.5512,
+    "lon": -80.2262,
+    "population": 45443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mitra",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8409,
+    "lon": -79.7865,
+    "population": 45437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito Arraiján",
+    "region": "Panamá Oeste Province",
+    "lat": 8.95,
+    "lon": -79.7,
+    "population": 45396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmas Bellas",
+    "region": "Colón Province",
+    "lat": 9.2284,
+    "lon": -80.085,
+    "population": 45251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alanje",
+    "region": "Chiriquí Province",
+    "lat": 8.3979,
+    "lon": -82.5595,
+    "population": 45250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Grande",
+    "region": "Coclé Province",
+    "lat": 8.6382,
+    "lon": -80.4385,
+    "population": 45236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Chiriquí Province",
+    "lat": 8.3056,
+    "lon": -82.1011,
+    "population": 45181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Toro",
+    "region": "Herrera Province",
+    "lat": 7.7511,
+    "lon": -80.8694,
+    "population": 45121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Capurí",
+    "region": "Herrera Province",
+    "lat": 7.7257,
+    "lon": -80.6435,
+    "population": 45008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Muñoz",
+    "region": "Los Santos Province",
+    "lat": 7.6758,
+    "lon": -80.3213,
+    "population": 44966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rincón Hondo",
+    "region": "Herrera Province",
+    "lat": 7.8444,
+    "lon": -80.604,
+    "population": 44928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Renacimiento",
+    "region": "Chiriquí Province",
+    "lat": 8.7167,
+    "lon": -82.7667,
+    "population": 44924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Santos",
+    "region": "Los Santos Province",
+    "lat": 7.9333,
+    "lon": -80.4167,
+    "population": 44840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cauchero",
+    "region": "Bocas del Toro Province",
+    "lat": 9.1523,
+    "lon": -82.2645,
+    "population": 44837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arenas",
+    "region": "Veraguas Province",
+    "lat": 7.3686,
+    "lon": -80.8627,
+    "population": 44832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de San Lorenzo",
+    "region": "Chiriquí Province",
+    "lat": 8.2937,
+    "lon": -82.0892,
+    "population": 44828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olá",
+    "region": "Coclé Province",
+    "lat": 8.4181,
+    "lon": -80.6512,
+    "population": 44795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Largo",
+    "region": "Los Santos Province",
+    "lat": 7.9061,
+    "lon": -80.4256,
+    "population": 44717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Bugaba",
+    "region": "Chiriquí Province",
+    "lat": 8.6879,
+    "lon": -82.6794,
+    "population": 44572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Colinas",
+    "region": "Panamá Oeste Province",
+    "lat": 8.55,
+    "lon": -80.0833,
+    "population": 44557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Boquete",
+    "region": "Chiriquí Province",
+    "lat": 8.749,
+    "lon": -82.3684,
+    "population": 44531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraíso",
+    "region": "Los Santos Province",
+    "lat": 7.6851,
+    "lon": -80.1608,
+    "population": 44505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mesa",
+    "region": "Bocas del Toro Province",
+    "lat": 9.4959,
+    "lon": -82.6753,
+    "population": 44457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Remedios",
+    "region": "Chiriquí Province",
+    "lat": 8.2025,
+    "lon": -81.8116,
+    "population": 44418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guabo",
+    "region": "Colón Province",
+    "lat": 9.0784,
+    "lon": -80.0832,
+    "population": 44399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Palma",
+    "region": "Darién Province",
+    "lat": 8.4061,
+    "lon": -78.1396,
+    "population": 44374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Olivos",
+    "region": "Los Santos Province",
+    "lat": 7.9159,
+    "lon": -80.4888,
+    "population": 44280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4138,
+    "lon": -81.4844,
+    "population": 44139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mata del Nance",
+    "region": "Chiriquí Province",
+    "lat": 8.4506,
+    "lon": -82.4006,
+    "population": 44013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Obaldía",
+    "region": "Guna Yala",
+    "lat": 8.6663,
+    "lon": -77.4192,
+    "population": 43991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Uvas",
+    "region": "Panamá Oeste Province",
+    "lat": 8.4594,
+    "lon": -80.0007,
+    "population": 43890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manaca Norte",
+    "region": "Chiriquí Province",
+    "lat": 8.3342,
+    "lon": -82.81,
+    "population": 43857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiriquí",
+    "region": "Chiriquí Province",
+    "lat": 8.3929,
+    "lon": -82.3199,
+    "population": 43801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chupampa",
+    "region": "Herrera Province",
+    "lat": 8.0762,
+    "lon": -80.7766,
+    "population": 43794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boquerón",
+    "region": "Veraguas Province",
+    "lat": 8.2441,
+    "lon": -80.859,
+    "population": 43781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Arraiján",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9245,
+    "lon": -79.72,
+    "population": 43765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Esperanza",
+    "region": "Panamá Province",
+    "lat": 9.1021,
+    "lon": -79.3341,
+    "population": 43735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manaca Civil",
+    "region": "Chiriquí Province",
+    "lat": 8.3246,
+    "lon": -82.8157,
+    "population": 43675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabuya",
+    "region": "Panamá Oeste Province",
+    "lat": 8.5747,
+    "lon": -79.9271,
+    "population": 43579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajas de Tolé",
+    "region": "Chiriquí Province",
+    "lat": 8.1699,
+    "lon": -81.6965,
+    "population": 43563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle Rico",
+    "region": "Los Santos Province",
+    "lat": 7.6201,
+    "lon": -80.3508,
+    "population": 43545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Minas",
+    "region": "Herrera Province",
+    "lat": 7.7958,
+    "lon": -80.7457,
+    "population": 43544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breñón",
+    "region": "Chiriquí Province",
+    "lat": 8.6249,
+    "lon": -82.8128,
+    "population": 43513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca de Parita",
+    "region": "Herrera Province",
+    "lat": 8.008,
+    "lon": -80.4532,
+    "population": 43504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Anastacios",
+    "region": "Chiriquí Province",
+    "lat": 8.5303,
+    "lon": -82.423,
+    "population": 43486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañas",
+    "region": "Los Santos Province",
+    "lat": 7.4471,
+    "lon": -80.2648,
+    "population": 43467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Donoso",
+    "region": "Colón Province",
+    "lat": 9.02,
+    "lon": -80.4297,
+    "population": 43424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changuinola",
+    "region": "Bocas del Toro Province",
+    "lat": 9.43,
+    "lon": -82.52,
+    "population": 43336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Chagres",
+    "region": "Colón Province",
+    "lat": 9.2398,
+    "lon": -80.0827,
+    "population": 43328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguadulce",
+    "region": "Coclé Province",
+    "lat": 8.2418,
+    "lon": -80.5461,
+    "population": 43318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguelito",
+    "region": "Panamá Province",
+    "lat": 9.0503,
+    "lon": -79.4707,
+    "population": 43287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuario",
+    "region": "Los Santos Province",
+    "lat": 7.5305,
+    "lon": -80.3269,
+    "population": 43152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Volcán",
+    "region": "Chiriquí Province",
+    "lat": 8.7729,
+    "lon": -82.6382,
+    "population": 42939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gómez",
+    "region": "Chiriquí Province",
+    "lat": 8.5609,
+    "lon": -82.7414,
+    "population": 42907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañita",
+    "region": "Panamá Province",
+    "lat": 9.2224,
+    "lon": -78.8951,
+    "population": 42890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Escondido",
+    "region": "Colón Province",
+    "lat": 9.1933,
+    "lon": -80.0883,
+    "population": 42839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portobelo",
+    "region": "Colón Province",
+    "lat": 9.553,
+    "lon": -79.6569,
+    "population": 42826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tortí",
+    "region": "Panamá Province",
+    "lat": 8.9213,
+    "lon": -78.4055,
+    "population": 42808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parita",
+    "region": "Herrera Province",
+    "lat": 7.9939,
+    "lon": -80.521,
+    "population": 42740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cirí de Los Sotos",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9721,
+    "lon": -80.0921,
+    "population": 42703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rovira Arriba",
+    "region": "Chiriquí Province",
+    "lat": 8.6382,
+    "lon": -82.4997,
+    "population": 42552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bajo Boquete",
+    "region": "Chiriquí Province",
+    "lat": 8.7706,
+    "lon": -82.4331,
+    "population": 42516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Rosario",
+    "region": "Panamá Oeste Province",
+    "lat": 8.7738,
+    "lon": -79.8755,
+    "population": 42371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodeo Viejo",
+    "region": "Veraguas Province",
+    "lat": 8.112,
+    "lon": -81.3168,
+    "population": 42358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Veraguas Province",
+    "lat": 8.467,
+    "lon": -80.8051,
+    "population": 42295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada del Rosario",
+    "region": "Herrera Province",
+    "lat": 7.7124,
+    "lon": -80.7422,
+    "population": 42268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Canelos",
+    "region": "Herrera Province",
+    "lat": 8.1172,
+    "lon": -80.7077,
+    "population": 42267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Pesé",
+    "region": "Herrera Province",
+    "lat": 7.8819,
+    "lon": -80.6326,
+    "population": 42207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Herrera Province",
+    "lat": 8.1114,
+    "lon": -80.6658,
+    "population": 42173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zapotillo",
+    "region": "Veraguas Province",
+    "lat": 8.0053,
+    "lon": -81.5065,
+    "population": 42023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Higos",
+    "region": "Veraguas Province",
+    "lat": 8.2055,
+    "lon": -80.8602,
+    "population": 41648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Marias",
+    "region": "Coclé Province",
+    "lat": 8.8881,
+    "lon": -80.2189,
+    "population": 41636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sioguí Arriba",
+    "region": "Chiriquí Province",
+    "lat": 8.5387,
+    "lon": -82.6862,
+    "population": 41561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta de Burica",
+    "region": "Chiriquí Province",
+    "lat": 8.0333,
+    "lon": -82.8667,
+    "population": 41360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Progreso",
+    "region": "Panamá Province",
+    "lat": 9.2667,
+    "lon": -79.1167,
+    "population": 41275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mulatupo",
+    "region": "Guna Yala",
+    "lat": 8.9467,
+    "lon": -77.7508,
+    "population": 41149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tebario",
+    "region": "Veraguas Province",
+    "lat": 7.7137,
+    "lon": -80.9783,
+    "population": 41145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Marañón",
+    "region": "Veraguas Province",
+    "lat": 8.0358,
+    "lon": -81.2149,
+    "population": 41110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miramar",
+    "region": "Colón Province",
+    "lat": 9.5754,
+    "lon": -79.3357,
+    "population": 41013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Arenosa",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8694,
+    "lon": -79.9947,
+    "population": 40999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guararé",
+    "region": "Los Santos Province",
+    "lat": 7.8153,
+    "lon": -80.2835,
+    "population": 40856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Querévalo",
+    "region": "Chiriquí Province",
+    "lat": 8.3717,
+    "lon": -82.5267,
+    "population": 40849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vista Hermosa",
+    "region": "Coclé Province",
+    "lat": 8.5269,
+    "lon": -80.3749,
+    "population": 40792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaqué",
+    "region": "Darién Province",
+    "lat": 7.5183,
+    "lon": -78.1634,
+    "population": 40737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coclé del Norte",
+    "region": "Colón Province",
+    "lat": 9.0754,
+    "lon": -80.5718,
+    "population": 40694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Bonito",
+    "region": "Herrera Province",
+    "lat": 7.9764,
+    "lon": -80.4165,
+    "population": 40676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Colorada",
+    "region": "Veraguas Province",
+    "lat": 8.0132,
+    "lon": -80.9859,
+    "population": 40486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabuya",
+    "region": "Coclé Province",
+    "lat": 8.547,
+    "lon": -80.1676,
+    "population": 40480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limones",
+    "region": "Chiriquí Province",
+    "lat": 8.1001,
+    "lon": -82.8668,
+    "population": 40179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soná",
+    "region": "Veraguas Province",
+    "lat": 8.0122,
+    "lon": -81.3216,
+    "population": 40148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanitas",
+    "region": "Colón Province",
+    "lat": 9.3427,
+    "lon": -79.8096,
+    "population": 40143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hato Chami",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4428,
+    "lon": -81.772,
+    "population": 40138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Buena",
+    "region": "Los Santos Province",
+    "lat": 7.8346,
+    "lon": -80.394,
+    "population": 40131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Picador",
+    "region": "Veraguas Province",
+    "lat": 8.378,
+    "lon": -81.2562,
+    "population": 39993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Colorada",
+    "region": "Panamá Province",
+    "lat": 9.1022,
+    "lon": -79.416,
+    "population": 39981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miramar",
+    "region": "Bocas del Toro Province",
+    "lat": 8.9948,
+    "lon": -82.2415,
+    "population": 39953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cañafístulo",
+    "region": "Los Santos Province",
+    "lat": 7.6177,
+    "lon": -80.2332,
+    "population": 39909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto Boquete",
+    "region": "Chiriquí Province",
+    "lat": 8.7346,
+    "lon": -82.4321,
+    "population": 39834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Palmitas",
+    "region": "Los Santos Province",
+    "lat": 7.7652,
+    "lon": -80.2935,
+    "population": 39828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de Veraguas",
+    "region": "Veraguas Province",
+    "lat": 8.1,
+    "lon": -80.9833,
+    "population": 39816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cortezo",
+    "region": "Los Santos Province",
+    "lat": 7.4266,
+    "lon": -80.6331,
+    "population": 39651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de La Pintada",
+    "region": "Coclé Province",
+    "lat": 8.718,
+    "lon": -80.5395,
+    "population": 39614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guadalupe",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8545,
+    "lon": -79.8141,
+    "population": 39545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Estrella",
+    "region": "Chiriquí Province",
+    "lat": 8.5157,
+    "lon": -82.6721,
+    "population": 39513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cacao",
+    "region": "Panamá Oeste Province",
+    "lat": 8.7613,
+    "lon": -80.0129,
+    "population": 39506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocú",
+    "region": "Herrera Province",
+    "lat": 7.9405,
+    "lon": -80.7794,
+    "population": 39433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Barú",
+    "region": "Chiriquí Province",
+    "lat": 8.2948,
+    "lon": -82.9273,
+    "population": 39426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Taboga",
+    "region": "Panamá Province",
+    "lat": 8.7833,
+    "lon": -79.5583,
+    "population": 39370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallerriquito",
+    "region": "Los Santos Province",
+    "lat": 7.6216,
+    "lon": -80.3197,
+    "population": 39367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hato Montaña",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9194,
+    "lon": -79.7391,
+    "population": 39332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Guabas",
+    "region": "Herrera Province",
+    "lat": 7.9095,
+    "lon": -80.8071,
+    "population": 39304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cativá",
+    "region": "Colón Province",
+    "lat": 9.3622,
+    "lon": -79.8323,
+    "population": 39298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paja de Sombrero",
+    "region": "Chiriquí Province",
+    "lat": 8.6834,
+    "lon": -82.3191,
+    "population": 39286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Higo",
+    "region": "Panamá Oeste Province",
+    "lat": 8.4473,
+    "lon": -80.036,
+    "population": 39256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guararé Arriba",
+    "region": "Los Santos Province",
+    "lat": 7.8002,
+    "lon": -80.3598,
+    "population": 39231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Congo",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9667,
+    "lon": -79.761,
+    "population": 39196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río de Jesús",
+    "region": "Veraguas Province",
+    "lat": 7.9788,
+    "lon": -81.1616,
+    "population": 39064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimán",
+    "region": "Panamá Province",
+    "lat": 8.6913,
+    "lon": -78.6357,
+    "population": 39062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Raya de Santa María",
+    "region": "Veraguas Province",
+    "lat": 8.1643,
+    "lon": -80.8214,
+    "population": 38903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo San Carlitos",
+    "region": "Chiriquí Province",
+    "lat": 8.457,
+    "lon": -82.4371,
+    "population": 38791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarumal",
+    "region": "Veraguas Province",
+    "lat": 7.794,
+    "lon": -81.259,
+    "population": 38691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Santa María",
+    "region": "Herrera Province",
+    "lat": 8.1167,
+    "lon": -80.6833,
+    "population": 38687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Pedregoso",
+    "region": "Los Santos Province",
+    "lat": 7.6917,
+    "lon": -80.3279,
+    "population": 38626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corozal",
+    "region": "Veraguas Province",
+    "lat": 8.0771,
+    "lon": -81.4399,
+    "population": 38530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cortezo",
+    "region": "Coclé Province",
+    "lat": 8.3456,
+    "lon": -80.5872,
+    "population": 38501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carate",
+    "region": "Los Santos Province",
+    "lat": 7.7312,
+    "lon": -80.2969,
+    "population": 38476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Espigadilla",
+    "region": "Los Santos Province",
+    "lat": 7.8839,
+    "lon": -80.3904,
+    "population": 38466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Santa Fé",
+    "region": "Veraguas Province",
+    "lat": 8.7206,
+    "lon": -80.9586,
+    "population": 38418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Coco",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8701,
+    "lon": -79.8042,
+    "population": 38383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca Chica",
+    "region": "Chiriquí Province",
+    "lat": 8.2191,
+    "lon": -82.2159,
+    "population": 38328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Chimán",
+    "region": "Panamá Province",
+    "lat": 8.7604,
+    "lon": -78.5647,
+    "population": 38214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plan de Chorcha",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4617,
+    "lon": -82.1592,
+    "population": 38170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Veraguas Province",
+    "lat": 8.0667,
+    "lon": -81.3667,
+    "population": 38113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Isabel",
+    "region": "Colón Province",
+    "lat": 9.5392,
+    "lon": -79.1957,
+    "population": 38105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atalaya",
+    "region": "Veraguas Province",
+    "lat": 8.0421,
+    "lon": -80.9253,
+    "population": 38056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilibre",
+    "region": "Panamá Province",
+    "lat": 9.1509,
+    "lon": -79.621,
+    "population": 38031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugabita Arriba",
+    "region": "Chiriquí Province",
+    "lat": 8.5214,
+    "lon": -82.6364,
+    "population": 37968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palenque",
+    "region": "Colón Province",
+    "lat": 9.5697,
+    "lon": -79.3634,
+    "population": 37951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Panamá",
+    "region": "Panamá Province",
+    "lat": 9.3061,
+    "lon": -79.4525,
+    "population": 37937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Valle de la Unión",
+    "region": "Colón Province",
+    "lat": 9.2363,
+    "lon": -79.6599,
+    "population": 37915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viento Frío",
+    "region": "Colón Province",
+    "lat": 9.5826,
+    "lon": -79.4069,
+    "population": 37739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaviza",
+    "region": "Darién Province",
+    "lat": 8.1584,
+    "lon": -77.6928,
+    "population": 37706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montijo",
+    "region": "Veraguas Province",
+    "lat": 7.9886,
+    "lon": -81.0564,
+    "population": 37693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caimito",
+    "region": "Coclé Province",
+    "lat": 8.6227,
+    "lon": -80.2392,
+    "population": 37642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Esperanza",
+    "region": "Chiriquí Province",
+    "lat": 8.4034,
+    "lon": -82.792,
+    "population": 37624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canto del Llano",
+    "region": "Veraguas Province",
+    "lat": 8.1247,
+    "lon": -80.9637,
+    "population": 37523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penonomé",
+    "region": "Coclé Province",
+    "lat": 8.5189,
+    "lon": -80.3573,
+    "population": 37462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Natá",
+    "region": "Coclé Province",
+    "lat": 8.3321,
+    "lon": -80.5197,
+    "population": 37373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Pocrí",
+    "region": "Los Santos Province",
+    "lat": 7.6372,
+    "lon": -80.1647,
+    "population": 37215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buena Vista",
+    "region": "Colón Province",
+    "lat": 9.2736,
+    "lon": -79.6955,
+    "population": 36988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Gorgona",
+    "region": "Panamá Oeste Province",
+    "lat": 8.55,
+    "lon": -79.8755,
+    "population": 36981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toza",
+    "region": "Coclé Province",
+    "lat": 8.3454,
+    "lon": -80.6401,
+    "population": 36920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Ocú",
+    "region": "Herrera Province",
+    "lat": 7.9064,
+    "lon": -80.7975,
+    "population": 36886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yape",
+    "region": "Emberá-Wounaan Comarca",
+    "lat": 8.0984,
+    "lon": -77.5982,
+    "population": 36689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Pilón",
+    "region": "Colón Province",
+    "lat": 9.3632,
+    "lon": -79.7933,
+    "population": 36682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camarón Arriba",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3832,
+    "lon": -81.9934,
+    "population": 36646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinajas",
+    "region": "Chiriquí Province",
+    "lat": 8.5528,
+    "lon": -82.4596,
+    "population": 36576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Calabacito",
+    "region": "Herrera Province",
+    "lat": 7.7184,
+    "lon": -80.5976,
+    "population": 36570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pesé",
+    "region": "Herrera Province",
+    "lat": 7.9086,
+    "lon": -80.6143,
+    "population": 36480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nombre de Dios",
+    "region": "Colón Province",
+    "lat": 9.5794,
+    "lon": -79.4711,
+    "population": 36414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Giral",
+    "region": "Colón Province",
+    "lat": 9.2451,
+    "lon": -79.6927,
+    "population": 36358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabuya",
+    "region": "Herrera Province",
+    "lat": 8.0314,
+    "lon": -80.6323,
+    "population": 36334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto de La Estancia",
+    "region": "Coclé Province",
+    "lat": 8.5879,
+    "lon": -80.1844,
+    "population": 36270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolé",
+    "region": "Chiriquí Province",
+    "lat": 8.2399,
+    "lon": -81.6717,
+    "population": 36197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Chorrera",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8803,
+    "lon": -79.7833,
+    "population": 36167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Tronosa",
+    "region": "Los Santos Province",
+    "lat": 7.4361,
+    "lon": -80.587,
+    "population": 36083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Marín",
+    "region": "Coclé Province",
+    "lat": 8.477,
+    "lon": -80.325,
+    "population": 35942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Panamá Oeste Province",
+    "lat": 8.6315,
+    "lon": -79.9477,
+    "population": 35796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayano",
+    "region": "Los Santos Province",
+    "lat": 7.6301,
+    "lon": -80.382,
+    "population": 35776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flores",
+    "region": "Los Santos Province",
+    "lat": 7.4816,
+    "lon": -80.4069,
+    "population": 35580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Pedasí",
+    "region": "Los Santos Province",
+    "lat": 7.4853,
+    "lon": -80.1275,
+    "population": 35513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Playa Chiquita",
+    "region": "Colón Province",
+    "lat": 9.5662,
+    "lon": -79.2918,
+    "population": 35483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Guabas",
+    "region": "Los Santos Province",
+    "lat": 7.8147,
+    "lon": -80.5015,
+    "population": 35382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Armuelles",
+    "region": "Chiriquí Province",
+    "lat": 8.2777,
+    "lon": -82.8621,
+    "population": 35373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón",
+    "region": "Colón Province",
+    "lat": 9.3545,
+    "lon": -79.9001,
+    "population": 35292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ensenada",
+    "region": "Panamá Province",
+    "lat": 8.3662,
+    "lon": -78.8461,
+    "population": 35241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Castillos",
+    "region": "Veraguas Province",
+    "lat": 8.0233,
+    "lon": -81.1194,
+    "population": 35136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calzada Larga",
+    "region": "Panamá Province",
+    "lat": 9.1727,
+    "lon": -79.5621,
+    "population": 35024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacora",
+    "region": "Panamá Province",
+    "lat": 9.0794,
+    "lon": -79.29,
+    "population": 34979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguas Blancas",
+    "region": "Coclé Province",
+    "lat": 8.5035,
+    "lon": -80.3117,
+    "population": 34922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caimito",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8114,
+    "lon": -79.9474,
+    "population": 34834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altos de San Francisco",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8617,
+    "lon": -79.79,
+    "population": 34824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Boquerón",
+    "region": "Chiriquí Province",
+    "lat": 8.6167,
+    "lon": -82.5667,
+    "population": 34773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potrerillos Arriba",
+    "region": "Chiriquí Province",
+    "lat": 8.6855,
+    "lon": -82.4909,
+    "population": 34650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Aguadulce",
+    "region": "Coclé Province",
+    "lat": 8.2127,
+    "lon": -80.6144,
+    "population": 34648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vista Hermosa",
+    "region": "Panamá Province",
+    "lat": 9.1118,
+    "lon": -79.3611,
+    "population": 34601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Guías Abajo",
+    "region": "Veraguas Province",
+    "lat": 8.1945,
+    "lon": -80.7549,
+    "population": 34596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Chiriquí Province",
+    "lat": 8.5166,
+    "lon": -82.5091,
+    "population": 34574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tres Quebradas",
+    "region": "Los Santos Province",
+    "lat": 7.8402,
+    "lon": -80.4074,
+    "population": 34574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariato District",
+    "region": "Veraguas Province",
+    "lat": 7.6781,
+    "lon": -81.0041,
+    "population": 34572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.8807,
+    "lon": -82.2241,
+    "population": 34554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ustupo",
+    "region": "Guna Yala",
+    "lat": 9.1311,
+    "lon": -77.9262,
+    "population": 34531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hato",
+    "region": "Los Santos Province",
+    "lat": 7.7932,
+    "lon": -80.3827,
+    "population": 34468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mortí",
+    "region": "Darién Province",
+    "lat": 8.8425,
+    "lon": -77.9754,
+    "population": 34235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bisvalles",
+    "region": "Veraguas Province",
+    "lat": 8.183,
+    "lon": -81.2209,
+    "population": 34062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Coclá",
+    "region": "Veraguas Province",
+    "lat": 8.3214,
+    "lon": -80.9207,
+    "population": 33936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Pollos",
+    "region": "Coclé Province",
+    "lat": 8.399,
+    "lon": -80.1573,
+    "population": 33884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remedios",
+    "region": "Chiriquí Province",
+    "lat": 8.2244,
+    "lon": -81.8275,
+    "population": 33881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañaveral",
+    "region": "Coclé Province",
+    "lat": 8.517,
+    "lon": -80.4292,
+    "population": 33851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Tolé",
+    "region": "Chiriquí Province",
+    "lat": 8.1901,
+    "lon": -81.6601,
+    "population": 33620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alcalde Díaz",
+    "region": "Panamá Province",
+    "lat": 9.1202,
+    "lon": -79.5564,
+    "population": 33583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Loma",
+    "region": "Coclé Province",
+    "lat": 8.1667,
+    "lon": -80.6374,
+    "population": 33344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayabito",
+    "region": "Panamá Oeste Province",
+    "lat": 8.5483,
+    "lon": -80.0135,
+    "population": 33328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toabré",
+    "region": "Coclé Province",
+    "lat": 8.6513,
+    "lon": -80.3202,
+    "population": 33281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Huacas del Quije",
+    "region": "Coclé Province",
+    "lat": 8.467,
+    "lon": -80.7509,
+    "population": 33228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antón",
+    "region": "Coclé Province",
+    "lat": 8.3973,
+    "lon": -80.2606,
+    "population": 33173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Bocas del Toro",
+    "region": "Bocas del Toro Province",
+    "lat": 9.3623,
+    "lon": -82.2629,
+    "population": 33129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Colón",
+    "region": "Colón Province",
+    "lat": 9.2431,
+    "lon": -79.7946,
+    "population": 33002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Tiza",
+    "region": "Los Santos Province",
+    "lat": 7.7511,
+    "lon": -80.2922,
+    "population": 32814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Alanje",
+    "region": "Chiriquí Province",
+    "lat": 8.3984,
+    "lon": -82.6406,
+    "population": 32811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boca del Monte",
+    "region": "Chiriquí Province",
+    "lat": 8.353,
+    "lon": -82.1138,
+    "population": 32806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calovébora",
+    "region": "Veraguas Province",
+    "lat": 8.787,
+    "lon": -81.2106,
+    "population": 32750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayabal",
+    "region": "Chiriquí Province",
+    "lat": 8.6219,
+    "lon": -82.5794,
+    "population": 32726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Ángeles",
+    "region": "Los Santos Province",
+    "lat": 7.8842,
+    "lon": -80.3577,
+    "population": 32628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Pantano",
+    "region": "Veraguas Province",
+    "lat": 8.5375,
+    "lon": -81.0694,
+    "population": 32557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedregal",
+    "region": "Chiriquí Province",
+    "lat": 8.3659,
+    "lon": -82.4352,
+    "population": 32474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potuga",
+    "region": "Herrera Province",
+    "lat": 8.0632,
+    "lon": -80.6227,
+    "population": 32388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bartolo",
+    "region": "Veraguas Province",
+    "lat": 8.2106,
+    "lon": -81.2757,
+    "population": 32345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Concepción",
+    "region": "Chiriquí Province",
+    "lat": 8.5121,
+    "lon": -82.6186,
+    "population": 32278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veladero",
+    "region": "Chiriquí Province",
+    "lat": 8.2314,
+    "lon": -81.6542,
+    "population": 32268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle del Risco",
+    "region": "Bocas del Toro Province",
+    "lat": 9.2306,
+    "lon": -82.4275,
+    "population": 32237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9333,
+    "lon": -79.7333,
+    "population": 32156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Hondo",
+    "region": "Los Santos Province",
+    "lat": 7.7119,
+    "lon": -80.359,
+    "population": 32044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmira Centro",
+    "region": "Chiriquí Province",
+    "lat": 8.7396,
+    "lon": -82.4523,
+    "population": 32042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Peña",
+    "region": "Bocas del Toro Province",
+    "lat": 8.9166,
+    "lon": -82.1849,
+    "population": 31857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almirante",
+    "region": "Bocas del Toro Province",
+    "lat": 9.3009,
+    "lon": -82.4018,
+    "population": 31835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Unida",
+    "region": "Panamá Province",
+    "lat": 9.1891,
+    "lon": -79.6245,
+    "population": 31797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Churuquita Grande",
+    "region": "Coclé Province",
+    "lat": 8.5945,
+    "lon": -80.2718,
+    "population": 31738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Grande",
+    "region": "Herrera Province",
+    "lat": 7.9741,
+    "lon": -80.711,
+    "population": 31705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bajo Corral",
+    "region": "Los Santos Province",
+    "lat": 7.6046,
+    "lon": -80.2602,
+    "population": 31691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quinteño",
+    "region": "Chiriquí Province",
+    "lat": 8.471,
+    "lon": -82.3935,
+    "population": 31673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Las Tablas",
+    "region": "Los Santos Province",
+    "lat": 7.6484,
+    "lon": -80.2993,
+    "population": 31619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kankintú",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.895,
+    "lon": -81.8575,
+    "population": 31544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedasí",
+    "region": "Los Santos Province",
+    "lat": 7.5303,
+    "lon": -80.027,
+    "population": 31521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Algarrobos",
+    "region": "Veraguas Province",
+    "lat": 8.109,
+    "lon": -81.0135,
+    "population": 31448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cochea Abajo",
+    "region": "Chiriquí Province",
+    "lat": 8.5051,
+    "lon": -82.3588,
+    "population": 31349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Bautista",
+    "region": "Herrera Province",
+    "lat": 7.961,
+    "lon": -80.4128,
+    "population": 31341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Las Minas",
+    "region": "Herrera Province",
+    "lat": 7.7652,
+    "lon": -80.8225,
+    "population": 31328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portobelillo",
+    "region": "Herrera Province",
+    "lat": 8.0174,
+    "lon": -80.5954,
+    "population": 31246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tobobe",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 9.1211,
+    "lon": -81.8247,
+    "population": 31167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cémaco",
+    "region": "Emberá-Wounaan Comarca",
+    "lat": 8.0829,
+    "lon": -77.5421,
+    "population": 30684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Alejandro",
+    "region": "Colón Province",
+    "lat": 9.3715,
+    "lon": -79.7881,
+    "population": 30662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guabal",
+    "region": "Chiriquí Province",
+    "lat": 8.5747,
+    "lon": -82.5373,
+    "population": 30630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Pájaro",
+    "region": "Veraguas Province",
+    "lat": 7.9534,
+    "lon": -81.1215,
+    "population": 30597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonosí",
+    "region": "Los Santos Province",
+    "lat": 7.4068,
+    "lon": -80.4422,
+    "population": 30446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corozal",
+    "region": "Emberá-Wounaan Comarca",
+    "lat": 8.2011,
+    "lon": -77.5964,
+    "population": 30384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mesa",
+    "region": "Veraguas Province",
+    "lat": 8.1471,
+    "lon": -81.1811,
+    "population": 30349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Cerritos",
+    "region": "Herrera Province",
+    "lat": 7.7975,
+    "lon": -80.6107,
+    "population": 30340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Chepo",
+    "region": "Panamá Province",
+    "lat": 9.1739,
+    "lon": -78.7037,
+    "population": 30337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paso Canoas Arriba",
+    "region": "Chiriquí Province",
+    "lat": 8.5652,
+    "lon": -82.8221,
+    "population": 30274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sioguí Abajo",
+    "region": "Chiriquí Province",
+    "lat": 8.4868,
+    "lon": -82.6654,
+    "population": 30166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Herradura",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8485,
+    "lon": -79.804,
+    "population": 30165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Róbalo",
+    "region": "Bocas del Toro Province",
+    "lat": 9.0363,
+    "lon": -82.2495,
+    "population": 30144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Yeguada",
+    "region": "Veraguas Province",
+    "lat": 8.4306,
+    "lon": -80.8575,
+    "population": 30125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hato Corotú",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3352,
+    "lon": -81.9703,
+    "population": 30030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monjarás",
+    "region": "Veraguas Province",
+    "lat": 8.3694,
+    "lon": -80.8667,
+    "population": 29869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chumical",
+    "region": "Herrera Province",
+    "lat": 7.8448,
+    "lon": -80.7263,
+    "population": 29773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Roble",
+    "region": "Coclé Province",
+    "lat": 8.1685,
+    "lon": -80.659,
+    "population": 29769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Panamá Province",
+    "lat": 9.1729,
+    "lon": -79.5474,
+    "population": 29447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "París",
+    "region": "Herrera Province",
+    "lat": 8.0505,
+    "lon": -80.5541,
+    "population": 29397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Peñón",
+    "region": "Veraguas Province",
+    "lat": 8.35,
+    "lon": -80.9762,
+    "population": 29285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calidonia",
+    "region": "Veraguas Province",
+    "lat": 7.9576,
+    "lon": -81.3863,
+    "population": 29164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonzalillo",
+    "region": "Panamá Province",
+    "lat": 9.0918,
+    "lon": -79.5193,
+    "population": 29133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Santa Isabel",
+    "region": "Colón Province",
+    "lat": 9.4833,
+    "lon": -79.3167,
+    "population": 29113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañazas",
+    "region": "Veraguas Province",
+    "lat": 8.32,
+    "lon": -81.2115,
+    "population": 29024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraíso",
+    "region": "Chiriquí Province",
+    "lat": 8.6584,
+    "lon": -82.5863,
+    "population": 29008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Chirú",
+    "region": "Coclé Province",
+    "lat": 8.3988,
+    "lon": -80.1872,
+    "population": 28884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guabito",
+    "region": "Bocas del Toro Province",
+    "lat": 9.4897,
+    "lon": -82.6128,
+    "population": 28715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranco",
+    "region": "Bocas del Toro Province",
+    "lat": 9.5198,
+    "lon": -82.7042,
+    "population": 28710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barnizal",
+    "region": "Veraguas Province",
+    "lat": 8.4046,
+    "lon": -80.7776,
+    "population": 28660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vista Alegre",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9277,
+    "lon": -79.7028,
+    "population": 28645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farallón",
+    "region": "Coclé Province",
+    "lat": 8.3566,
+    "lon": -80.1372,
+    "population": 28634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Los Pozos",
+    "region": "Herrera Province",
+    "lat": 7.7094,
+    "lon": -80.6431,
+    "population": 28578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Panamá Oeste Province",
+    "lat": 8.4732,
+    "lon": -79.961,
+    "population": 28473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Los Santos Province",
+    "lat": 7.7461,
+    "lon": -80.2417,
+    "population": 28421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lídice",
+    "region": "Panamá Province",
+    "lat": 8.7487,
+    "lon": -79.9097,
+    "population": 28333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de La Chorrera",
+    "region": "Panamá Oeste Province",
+    "lat": 8.95,
+    "lon": -79.85,
+    "population": 28309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chichica",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3589,
+    "lon": -81.6658,
+    "population": 28222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Caño",
+    "region": "Coclé Province",
+    "lat": 8.4019,
+    "lon": -80.5179,
+    "population": 28181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto del Espino",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8421,
+    "lon": -79.8455,
+    "population": 28123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sitio Prado",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3723,
+    "lon": -81.5814,
+    "population": 28097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Cerros de Paja",
+    "region": "Herrera Province",
+    "lat": 7.7182,
+    "lon": -80.6727,
+    "population": 27877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Huacas",
+    "region": "Veraguas Province",
+    "lat": 7.9017,
+    "lon": -81.1406,
+    "population": 27865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unión de Azuero",
+    "region": "Panamá Province",
+    "lat": 9.1526,
+    "lon": -79.1701,
+    "population": 27857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Rita",
+    "region": "Colón Province",
+    "lat": 9.303,
+    "lon": -79.7923,
+    "population": 27750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Pozos",
+    "region": "Herrera Province",
+    "lat": 7.783,
+    "lon": -80.6452,
+    "population": 27644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plaza de Caisán",
+    "region": "Chiriquí Province",
+    "lat": 8.7367,
+    "lon": -82.8197,
+    "population": 27639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Azul",
+    "region": "Panamá Province",
+    "lat": 9.1573,
+    "lon": -79.421,
+    "population": 27570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gatún",
+    "region": "Colón Province",
+    "lat": 9.2892,
+    "lon": -79.772,
+    "population": 27541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Margaritas",
+    "region": "Panamá Province",
+    "lat": 9.1843,
+    "lon": -79.0873,
+    "population": 27531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Trancas",
+    "region": "Los Santos Province",
+    "lat": 7.734,
+    "lon": -80.3738,
+    "population": 27338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Howard",
+    "region": "Panamá Province",
+    "lat": 8.9394,
+    "lon": -79.591,
+    "population": 27305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo Nuevo Abajo",
+    "region": "Chiriquí Province",
+    "lat": 8.4256,
+    "lon": -82.5017,
+    "population": 27288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Copé",
+    "region": "Coclé Province",
+    "lat": 8.6204,
+    "lon": -80.5843,
+    "population": 27257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Olá",
+    "region": "Coclé Province",
+    "lat": 8.4805,
+    "lon": -80.6532,
+    "population": 27248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sorá",
+    "region": "Panamá Oeste Province",
+    "lat": 8.6319,
+    "lon": -80.0089,
+    "population": 27186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada de Piedra",
+    "region": "Chiriquí Province",
+    "lat": 8.0942,
+    "lon": -81.6792,
+    "population": 27092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cedro",
+    "region": "Herrera Province",
+    "lat": 7.6856,
+    "lon": -80.6593,
+    "population": 27056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomás",
+    "region": "Chiriquí Province",
+    "lat": 8.3896,
+    "lon": -82.6506,
+    "population": 26996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bágala",
+    "region": "Chiriquí Province",
+    "lat": 8.464,
+    "lon": -82.5262,
+    "population": 26848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guarumal",
+    "region": "Chiriquí Province",
+    "lat": 8.3452,
+    "lon": -82.532,
+    "population": 26782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayamón",
+    "region": "Emberá-Wounaan Comarca",
+    "lat": 7.9682,
+    "lon": -78.2165,
+    "population": 26671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Soná",
+    "region": "Veraguas Province",
+    "lat": 7.8438,
+    "lon": -81.3661,
+    "population": 26237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmira",
+    "region": "Colón Province",
+    "lat": 9.5436,
+    "lon": -79.2195,
+    "population": 26169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajas Adentro",
+    "region": "Chiriquí Province",
+    "lat": 8.2498,
+    "lon": -81.8778,
+    "population": 26116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ermita",
+    "region": "Panamá Oeste Province",
+    "lat": 8.4562,
+    "lon": -80.0683,
+    "population": 26061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Banco",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.458,
+    "lon": -82.0308,
+    "population": 26027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capira",
+    "region": "Panamá Oeste Province",
+    "lat": 8.7564,
+    "lon": -79.88,
+    "population": 26019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio de Tupile",
+    "region": "Guna Yala",
+    "lat": 9.289,
+    "lon": -78.1521,
+    "population": 26015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oria Arriba",
+    "region": "Los Santos Province",
+    "lat": 7.505,
+    "lon": -80.2057,
+    "population": 25922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Chorrillo",
+    "region": "Panamá Province",
+    "lat": 8.9496,
+    "lon": -79.5472,
+    "population": 25863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Espino",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8379,
+    "lon": -79.8492,
+    "population": 25820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitaloza Arriba",
+    "region": "Herrera Province",
+    "lat": 7.6422,
+    "lon": -80.6679,
+    "population": 25621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiriquí Grande",
+    "region": "Bocas del Toro Province",
+    "lat": 8.9456,
+    "lon": -82.1177,
+    "population": 25582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Macaracas",
+    "region": "Los Santos Province",
+    "lat": 7.6582,
+    "lon": -80.5353,
+    "population": 25487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Emperador",
+    "region": "Panamá Oeste Province",
+    "lat": 9.0027,
+    "lon": -79.7314,
+    "population": 25485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isla Bastimentos",
+    "region": "Bocas del Toro Province",
+    "lat": 9.3,
+    "lon": -82.1333,
+    "population": 25482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Marta",
+    "region": "Chiriquí Province",
+    "lat": 8.5141,
+    "lon": -82.6987,
+    "population": 25465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Espino de Santa Rosa",
+    "region": "Veraguas Province",
+    "lat": 8.0929,
+    "lon": -80.8238,
+    "population": 25452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kusapín",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 9.1712,
+    "lon": -81.8962,
+    "population": 25363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Chiriquí Province",
+    "lat": 8.508,
+    "lon": -82.713,
+    "population": 25273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cartí Sugdup",
+    "region": "Guna Yala",
+    "lat": 9.4646,
+    "lon": -78.9593,
+    "population": 25027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Empalme",
+    "region": "Bocas del Toro Province",
+    "lat": 9.4167,
+    "lon": -82.5167,
+    "population": 24965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narganá",
+    "region": "Guna Yala",
+    "lat": 9.4439,
+    "lon": -78.5867,
+    "population": 24733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leones Arriba",
+    "region": "Veraguas Province",
+    "lat": 7.7542,
+    "lon": -81.1156,
+    "population": 24673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmira",
+    "region": "Los Santos Province",
+    "lat": 7.6635,
+    "lon": -80.3573,
+    "population": 24646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ave María",
+    "region": "Los Santos Province",
+    "lat": 7.3248,
+    "lon": -80.4536,
+    "population": 24633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rincón",
+    "region": "Chiriquí Province",
+    "lat": 8.4637,
+    "lon": -82.2795,
+    "population": 24622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Laguna",
+    "region": "Panamá Oeste Province",
+    "lat": 9.044,
+    "lon": -79.8422,
+    "population": 24571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rita Arriba",
+    "region": "Colón Province",
+    "lat": 9.3303,
+    "lon": -79.7936,
+    "population": 24518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Progreso",
+    "region": "Chiriquí Province",
+    "lat": 8.4467,
+    "lon": -82.8386,
+    "population": 24434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contadora",
+    "region": "Panamá Province",
+    "lat": 8.6248,
+    "lon": -79.0375,
+    "population": 24297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Finca Blanco",
+    "region": "Chiriquí Province",
+    "lat": 8.3798,
+    "lon": -82.8739,
+    "population": 24149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogollón",
+    "region": "Los Santos Province",
+    "lat": 7.6426,
+    "lon": -80.4595,
+    "population": 23794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Duque",
+    "region": "Colón Province",
+    "lat": 9.2569,
+    "lon": -79.6794,
+    "population": 23589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Silencio",
+    "region": "Bocas del Toro Province",
+    "lat": 9.3722,
+    "lon": -82.5288,
+    "population": 23295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Viejo",
+    "region": "Chiriquí Province",
+    "lat": 8.2535,
+    "lon": -81.5766,
+    "population": 23281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Playa Leona",
+    "region": "Panamá Oeste Province",
+    "lat": 8.7839,
+    "lon": -79.7755,
+    "population": 23216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo San Juan",
+    "region": "Colón Province",
+    "lat": 9.222,
+    "lon": -79.666,
+    "population": 23072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calobre",
+    "region": "Veraguas Province",
+    "lat": 8.3189,
+    "lon": -80.8407,
+    "population": 22898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Sabanas",
+    "region": "Coclé Province",
+    "lat": 8.5814,
+    "lon": -80.6798,
+    "population": 22864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Llanitos",
+    "region": "Panamá Oeste Province",
+    "lat": 8.5979,
+    "lon": -80.095,
+    "population": 22567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente",
+    "region": "Panamá Province",
+    "lat": 9.1144,
+    "lon": -79.5975,
+    "population": 22377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macaracas",
+    "region": "Los Santos Province",
+    "lat": 7.7317,
+    "lon": -80.5536,
+    "population": 22347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unión Chocó",
+    "region": "Emberá-Wounaan Comarca",
+    "lat": 8.084,
+    "lon": -77.5351,
+    "population": 22226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Barrito",
+    "region": "Veraguas Province",
+    "lat": 7.9606,
+    "lon": -80.948,
+    "population": 22187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Felipe",
+    "region": "Panamá Province",
+    "lat": 8.9512,
+    "lon": -79.5373,
+    "population": 22034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirono",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4047,
+    "lon": -81.8306,
+    "population": 22004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garachiné",
+    "region": "Darién Province",
+    "lat": 8.0668,
+    "lon": -78.3644,
+    "population": 21909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto de Jesús",
+    "region": "Veraguas Province",
+    "lat": 8.2615,
+    "lon": -81.4841,
+    "population": 21898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monagrillo",
+    "region": "Herrera Province",
+    "lat": 7.9818,
+    "lon": -80.4376,
+    "population": 21818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gualaca",
+    "region": "Chiriquí Province",
+    "lat": 8.5301,
+    "lon": -82.2996,
+    "population": 21800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tubualá",
+    "region": "Guna Yala",
+    "lat": 9.5167,
+    "lon": -79.0333,
+    "population": 21785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Entradero",
+    "region": "Coclé Province",
+    "lat": 8.5688,
+    "lon": -80.2074,
+    "population": 21776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Manantial",
+    "region": "Los Santos Province",
+    "lat": 7.7824,
+    "lon": -80.2471,
+    "population": 21774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayabito",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.5395,
+    "lon": -81.4822,
+    "population": 21750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Pinogana",
+    "region": "Darién Province",
+    "lat": 7.8934,
+    "lon": -77.5256,
+    "population": 21633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Ñopo",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.42,
+    "lon": -81.6187,
+    "population": 21611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana Grande",
+    "region": "Los Santos Province",
+    "lat": 7.8354,
+    "lon": -80.3649,
+    "population": 21601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Río de Jesús",
+    "region": "Veraguas Province",
+    "lat": 7.9144,
+    "lon": -81.1613,
+    "population": 21566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Guararé",
+    "region": "Los Santos Province",
+    "lat": 7.7702,
+    "lon": -80.3752,
+    "population": 21543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cristóbal",
+    "region": "Colón Province",
+    "lat": 9.3522,
+    "lon": -79.9044,
+    "population": 21408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peñas Chatas",
+    "region": "Herrera Province",
+    "lat": 8.015,
+    "lon": -80.8037,
+    "population": 21404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cabima",
+    "region": "Panamá Province",
+    "lat": 9.1187,
+    "lon": -79.5366,
+    "population": 21251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chepillo",
+    "region": "Panamá Province",
+    "lat": 8.954,
+    "lon": -79.1286,
+    "population": 21235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caimito",
+    "region": "Chiriquí Province",
+    "lat": 8.5416,
+    "lon": -82.419,
+    "population": 21088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Ángeles",
+    "region": "Chiriquí Province",
+    "lat": 8.5227,
+    "lon": -82.2,
+    "population": 21080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lolá",
+    "region": "Veraguas Province",
+    "lat": 8.0933,
+    "lon": -81.4716,
+    "population": 21047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Las Palmas",
+    "region": "Veraguas Province",
+    "lat": 8.1453,
+    "lon": -81.4285,
+    "population": 20789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Grande",
+    "region": "Veraguas Province",
+    "lat": 7.7191,
+    "lon": -81.3342,
+    "population": 20665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo Viejo Abajo",
+    "region": "Chiriquí Province",
+    "lat": 8.4534,
+    "lon": -82.5018,
+    "population": 20512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Púcuro",
+    "region": "Darién Province",
+    "lat": 7.9788,
+    "lon": -77.4876,
+    "population": 20487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Antón",
+    "region": "Coclé Province",
+    "lat": 8.4539,
+    "lon": -80.1836,
+    "population": 20442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Vigía",
+    "region": "Colón Province",
+    "lat": 9.2426,
+    "lon": -79.6076,
+    "population": 20434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Caña",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3517,
+    "lon": -81.6105,
+    "population": 20371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedras Gordas",
+    "region": "Coclé Province",
+    "lat": 8.6378,
+    "lon": -80.5102,
+    "population": 20271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utirá",
+    "region": "Veraguas Province",
+    "lat": 7.9721,
+    "lon": -81.2178,
+    "population": 20254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paritilla",
+    "region": "Los Santos Province",
+    "lat": 7.6285,
+    "lon": -80.1724,
+    "population": 20205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedras Gordas",
+    "region": "Veraguas Province",
+    "lat": 8.5242,
+    "lon": -80.9115,
+    "population": 20129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ailigandí",
+    "region": "Guna Yala",
+    "lat": 9.2281,
+    "lon": -78.0278,
+    "population": 20090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Espavé",
+    "region": "Panamá Oeste Province",
+    "lat": 8.6616,
+    "lon": -79.8758,
+    "population": 20018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Laguna",
+    "region": "Veraguas Province",
+    "lat": 8.3388,
+    "lon": -80.7295,
+    "population": 19922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Divalá",
+    "region": "Chiriquí Province",
+    "lat": 8.4107,
+    "lon": -82.7133,
+    "population": 19848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de San Carlos",
+    "region": "Panamá Oeste Province",
+    "lat": 8.532,
+    "lon": -80.0691,
+    "population": 19767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calabacito",
+    "region": "Veraguas Province",
+    "lat": 8.2482,
+    "lon": -81.0819,
+    "population": 19665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sesteadero",
+    "region": "Los Santos Province",
+    "lat": 7.7389,
+    "lon": -80.2485,
+    "population": 19644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Punta",
+    "region": "Chiriquí Province",
+    "lat": 8.8497,
+    "lon": -82.5726,
+    "population": 19612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Atalaya",
+    "region": "Veraguas Province",
+    "lat": 8.029,
+    "lon": -80.9174,
+    "population": 19586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chigoré",
+    "region": "Coclé Province",
+    "lat": 8.5304,
+    "lon": -80.3512,
+    "population": 19482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rincón",
+    "region": "Veraguas Province",
+    "lat": 8.1842,
+    "lon": -81.4333,
+    "population": 19254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lajas",
+    "region": "Panamá Oeste Province",
+    "lat": 8.5496,
+    "lon": -79.9352,
+    "population": 19149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Grande",
+    "region": "Coclé Province",
+    "lat": 8.4268,
+    "lon": -80.4846,
+    "population": 18941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tijeras",
+    "region": "Chiriquí Province",
+    "lat": 8.4751,
+    "lon": -82.5606,
+    "population": 18701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Lirio",
+    "region": "Chiriquí Province",
+    "lat": 8.7894,
+    "lon": -82.8286,
+    "population": 18668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aserrío de Gariché",
+    "region": "Chiriquí Province",
+    "lat": 8.4826,
+    "lon": -82.7909,
+    "population": 18539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Chepigana",
+    "region": "Darién Province",
+    "lat": 7.8437,
+    "lon": -77.8383,
+    "population": 18526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente de Bique",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9114,
+    "lon": -79.6736,
+    "population": 18518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Macano",
+    "region": "Los Santos Province",
+    "lat": 7.6849,
+    "lon": -80.4031,
+    "population": 18511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Guinea",
+    "region": "Panamá Province",
+    "lat": 8.3425,
+    "lon": -78.9343,
+    "population": 18386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sambú",
+    "region": "Emberá-Wounaan Comarca",
+    "lat": 7.8201,
+    "lon": -78.1101,
+    "population": 18296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Viejo",
+    "region": "Chiriquí Province",
+    "lat": 8.2508,
+    "lon": -81.6626,
+    "population": 18183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El María",
+    "region": "Veraguas Province",
+    "lat": 8.029,
+    "lon": -81.4438,
+    "population": 18150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bella Vista",
+    "region": "Los Santos Province",
+    "lat": 7.75,
+    "lon": -80.2333,
+    "population": 18147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Carmen",
+    "region": "Panamá Oeste Province",
+    "lat": 8.7983,
+    "lon": -79.8693,
+    "population": 18107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Chame",
+    "region": "Panamá Oeste Province",
+    "lat": 8.6,
+    "lon": -79.9167,
+    "population": 17996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajamina",
+    "region": "Los Santos Province",
+    "lat": 7.5859,
+    "lon": -80.1321,
+    "population": 17956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Fé",
+    "region": "Darién Province",
+    "lat": 8.6553,
+    "lon": -78.1614,
+    "population": 17883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perales",
+    "region": "Los Santos Province",
+    "lat": 7.7746,
+    "lon": -80.3249,
+    "population": 17826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Potrero",
+    "region": "Veraguas Province",
+    "lat": 8.3769,
+    "lon": -80.7943,
+    "population": 17780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Nancito",
+    "region": "Chiriquí Province",
+    "lat": 8.2381,
+    "lon": -81.7322,
+    "population": 17663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caballero",
+    "region": "Coclé Province",
+    "lat": 8.5434,
+    "lon": -80.1977,
+    "population": 17455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Pintada",
+    "region": "Coclé Province",
+    "lat": 8.593,
+    "lon": -80.4435,
+    "population": 17255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Porvenir",
+    "region": "Chiriquí Province",
+    "lat": 8.2292,
+    "lon": -81.8328,
+    "population": 17221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañas Gordas",
+    "region": "Chiriquí Province",
+    "lat": 8.7431,
+    "lon": -82.9128,
+    "population": 17149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cordillera",
+    "region": "Chiriquí Province",
+    "lat": 8.7068,
+    "lon": -82.6033,
+    "population": 17084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nole Düima",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3268,
+    "lon": -81.8153,
+    "population": 17015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tejar",
+    "region": "Chiriquí Province",
+    "lat": 8.4297,
+    "lon": -82.5729,
+    "population": 16825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Grande",
+    "region": "Veraguas Province",
+    "lat": 8.0747,
+    "lon": -81.1363,
+    "population": 16767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leones Arriba",
+    "region": "Herrera Province",
+    "lat": 7.7659,
+    "lon": -80.8452,
+    "population": 16750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Changuinola",
+    "region": "Bocas del Toro Province",
+    "lat": 9.25,
+    "lon": -82.6333,
+    "population": 16714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viguí",
+    "region": "Veraguas Province",
+    "lat": 8.3392,
+    "lon": -81.4982,
+    "population": 16521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lomas",
+    "region": "Chiriquí Province",
+    "lat": 8.4293,
+    "lon": -82.3874,
+    "population": 16351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana Arriba",
+    "region": "Los Santos Province",
+    "lat": 7.933,
+    "lon": -80.3637,
+    "population": 16316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Santiago",
+    "region": "Veraguas Province",
+    "lat": 8.1242,
+    "lon": -80.8783,
+    "population": 16305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Churuquita Chiquita",
+    "region": "Coclé Province",
+    "lat": 8.5755,
+    "lon": -80.2716,
+    "population": 16284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan",
+    "region": "Veraguas Province",
+    "lat": 8.3031,
+    "lon": -81.0157,
+    "population": 16271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bocas del Toro",
+    "region": "Bocas del Toro Province",
+    "lat": 9.3403,
+    "lon": -82.242,
+    "population": 16224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "Chiriquí Province",
+    "lat": 8.5996,
+    "lon": -82.6849,
+    "population": 16195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oma",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3502,
+    "lon": -81.8018,
+    "population": 16092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parque Lefevre",
+    "region": "Panamá Province",
+    "lat": 9.0167,
+    "lon": -79.4833,
+    "population": 15983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panamá",
+    "region": "Panamá Province",
+    "lat": 8.9936,
+    "lon": -79.5197,
+    "population": 15933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unión Santeña",
+    "region": "Panamá Province",
+    "lat": 8.8353,
+    "lon": -78.651,
+    "population": 15852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugaba",
+    "region": "Chiriquí Province",
+    "lat": 8.4825,
+    "lon": -82.6199,
+    "population": 15843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiguirí Arriba",
+    "region": "Coclé Province",
+    "lat": 8.6719,
+    "lon": -80.1898,
+    "population": 15812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nurun",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4781,
+    "lon": -81.4702,
+    "population": 15803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mendoza",
+    "region": "Panamá Oeste Province",
+    "lat": 9.0147,
+    "lon": -79.8507,
+    "population": 15775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Los Santos Province",
+    "lat": 7.6739,
+    "lon": -80.2444,
+    "population": 15706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Largo",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8346,
+    "lon": -79.8076,
+    "population": 15699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahía Honda",
+    "region": "Los Santos Province",
+    "lat": 7.7052,
+    "lon": -80.4534,
+    "population": 15697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada de Oro",
+    "region": "Veraguas Province",
+    "lat": 8.0355,
+    "lon": -81.3869,
+    "population": 15657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arraiján",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9519,
+    "lon": -79.6601,
+    "population": 15466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Playón Chico",
+    "region": "Guna Yala",
+    "lat": 9.3113,
+    "lon": -78.2327,
+    "population": 15408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Peña",
+    "region": "Veraguas Province",
+    "lat": 8.1278,
+    "lon": -81.0269,
+    "population": 15265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Chitré",
+    "region": "Herrera Province",
+    "lat": 7.9833,
+    "lon": -80.4333,
+    "population": 15168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Cumbres",
+    "region": "Panamá Province",
+    "lat": 9.0892,
+    "lon": -79.5281,
+    "population": 15059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Escobal",
+    "region": "Colón Province",
+    "lat": 9.1437,
+    "lon": -79.9644,
+    "population": 14937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Müna",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.3504,
+    "lon": -81.6722,
+    "population": 14903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranco Colorado",
+    "region": "Coclé Province",
+    "lat": 8.3894,
+    "lon": -80.6355,
+    "population": 14898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada Canoa",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.4333,
+    "lon": -81.7833,
+    "population": 14661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caldera",
+    "region": "Chiriquí Province",
+    "lat": 8.6491,
+    "lon": -82.3806,
+    "population": 14629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cambutal",
+    "region": "Los Santos Province",
+    "lat": 7.2653,
+    "lon": -80.4911,
+    "population": 14604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito Chiriquí Grande",
+    "region": "Bocas del Toro Province",
+    "lat": 8.9475,
+    "lon": -82.1242,
+    "population": 14544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Abajo",
+    "region": "Panamá Province",
+    "lat": 9.0167,
+    "lon": -79.5,
+    "population": 14528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cedro Arriba",
+    "region": "Los Santos Province",
+    "lat": 7.781,
+    "lon": -80.5306,
+    "population": 14524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Miel",
+    "region": "Los Santos Province",
+    "lat": 7.5602,
+    "lon": -80.3274,
+    "population": 14484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Tonosí",
+    "region": "Los Santos Province",
+    "lat": 7.436,
+    "lon": -80.4583,
+    "population": 14474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Natá",
+    "region": "Coclé Province",
+    "lat": 8.3442,
+    "lon": -80.6093,
+    "population": 14332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horconcitos",
+    "region": "Chiriquí Province",
+    "lat": 8.3114,
+    "lon": -82.151,
+    "population": 14320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guásimo",
+    "region": "Los Santos Province",
+    "lat": 7.8064,
+    "lon": -80.5299,
+    "population": 14301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcelo",
+    "region": "Veraguas Province",
+    "lat": 8.2725,
+    "lon": -81.1599,
+    "population": 14244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Besiko",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.5486,
+    "lon": -82.0898,
+    "population": 14084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Mesa",
+    "region": "Los Santos Province",
+    "lat": 7.6567,
+    "lon": -80.6179,
+    "population": 14042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Laurel",
+    "region": "Bocas del Toro Province",
+    "lat": 9.141,
+    "lon": -82.1272,
+    "population": 14012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arenosa",
+    "region": "Panamá Oeste Province",
+    "lat": 9.0398,
+    "lon": -79.9513,
+    "population": 14005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitré",
+    "region": "Herrera Province",
+    "lat": 7.9608,
+    "lon": -80.4294,
+    "population": 13992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tocumen",
+    "region": "Panamá Province",
+    "lat": 9.0894,
+    "lon": -79.3831,
+    "population": 13927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pásiga",
+    "region": "Panamá Province",
+    "lat": 8.9365,
+    "lon": -78.9092,
+    "population": 13865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Lajas",
+    "region": "Chiriquí Province",
+    "lat": 8.2418,
+    "lon": -81.8693,
+    "population": 13773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Castillos",
+    "region": "Herrera Province",
+    "lat": 7.9856,
+    "lon": -80.6189,
+    "population": 13726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuestro Amo",
+    "region": "Coclé Province",
+    "lat": 8.4449,
+    "lon": -80.5893,
+    "population": 13695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barranco Adentro",
+    "region": "Bocas del Toro Province",
+    "lat": 9.5276,
+    "lon": -82.7334,
+    "population": 13635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajero Arriba",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.2906,
+    "lon": -81.7705,
+    "population": 13589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Algarrobos Arriba",
+    "region": "Chiriquí Province",
+    "lat": 8.5155,
+    "lon": -82.4226,
+    "population": 13313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Palma",
+    "region": "Los Santos Province",
+    "lat": 7.7167,
+    "lon": -80.3833,
+    "population": 13306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Chagres",
+    "region": "Colón Province",
+    "lat": 9.123,
+    "lon": -80.1184,
+    "population": 13267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Pedregoso",
+    "region": "Herrera Province",
+    "lat": 7.9364,
+    "lon": -80.6381,
+    "population": 13200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Parita",
+    "region": "Herrera Province",
+    "lat": 8.0624,
+    "lon": -80.5637,
+    "population": 13115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chepo",
+    "region": "Panamá Province",
+    "lat": 9.1702,
+    "lon": -79.1008,
+    "population": 13078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Trinidad",
+    "region": "Herrera Province",
+    "lat": 7.9146,
+    "lon": -80.7033,
+    "population": 12963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camogantí",
+    "region": "Darién Province",
+    "lat": 8.0417,
+    "lon": -77.8868,
+    "population": 12959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arosemena",
+    "region": "Panamá Oeste Province",
+    "lat": 8.9709,
+    "lon": -79.9664,
+    "population": 12928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada Tula",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.8404,
+    "lon": -81.9964,
+    "population": 12924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Tablas",
+    "region": "Los Santos Province",
+    "lat": 7.7647,
+    "lon": -80.2748,
+    "population": 12821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veracruz",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8899,
+    "lon": -79.626,
+    "population": 12805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Celmira",
+    "region": "Chiriquí Province",
+    "lat": 8.5403,
+    "lon": -82.8002,
+    "population": 12804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Cruces",
+    "region": "Los Santos Province",
+    "lat": 7.8228,
+    "lon": -80.43,
+    "population": 12643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coclé",
+    "region": "Coclé Province",
+    "lat": 8.456,
+    "lon": -80.429,
+    "population": 12618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Belén",
+    "region": "Panamá Province",
+    "lat": 9.0794,
+    "lon": -79.3956,
+    "population": 12424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedregal",
+    "region": "Panamá Province",
+    "lat": 9.0667,
+    "lon": -79.4333,
+    "population": 12392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Arena",
+    "region": "Herrera Province",
+    "lat": 7.9677,
+    "lon": -80.4652,
+    "population": 12326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bisira",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.8955,
+    "lon": -81.8535,
+    "population": 12308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loma Yuca",
+    "region": "Ngöbe-Buglé Comarca",
+    "lat": 8.7182,
+    "lon": -81.4049,
+    "population": 12219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Potrero",
+    "region": "Coclé Province",
+    "lat": 8.5215,
+    "lon": -80.5168,
+    "population": 12168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de La Mesa",
+    "region": "Veraguas Province",
+    "lat": 8.1098,
+    "lon": -81.1777,
+    "population": 12102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Lourdes",
+    "region": "Los Santos Province",
+    "lat": 7.8114,
+    "lon": -80.4703,
+    "population": 12064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro del Espino",
+    "region": "Veraguas Province",
+    "lat": 8.1401,
+    "lon": -81.0866,
+    "population": 12037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Raya de Calobre",
+    "region": "Veraguas Province",
+    "lat": 8.2163,
+    "lon": -80.8273,
+    "population": 11943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guzman",
+    "region": "Coclé Province",
+    "lat": 8.5197,
+    "lon": -80.5841,
+    "population": 11829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de San Félix",
+    "region": "Chiriquí Province",
+    "lat": 8.2777,
+    "lon": -81.8738,
+    "population": 11786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano Abajo",
+    "region": "Los Santos Province",
+    "lat": 7.786,
+    "lon": -80.4106,
+    "population": 11701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocrí",
+    "region": "Coclé Province",
+    "lat": 8.2581,
+    "lon": -80.55,
+    "population": 11681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cermeño",
+    "region": "Panamá Oeste Province",
+    "lat": 8.7408,
+    "lon": -79.853,
+    "population": 11620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Félix",
+    "region": "Chiriquí Province",
+    "lat": 8.2906,
+    "lon": -81.867,
+    "population": 11530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Caimito",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8702,
+    "lon": -79.7142,
+    "population": 11425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Colorada",
+    "region": "Los Santos Province",
+    "lat": 7.8236,
+    "lon": -80.5555,
+    "population": 11415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Distrito de Montijo",
+    "region": "Veraguas Province",
+    "lat": 7.9532,
+    "lon": -81.053,
+    "population": 11405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sortova",
+    "region": "Chiriquí Province",
+    "lat": 8.5464,
+    "lon": -82.6517,
+    "population": 11289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabra Número Uno",
+    "region": "Panamá Province",
+    "lat": 9.1086,
+    "lon": -79.3369,
+    "population": 11186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llano de Piedra",
+    "region": "Los Santos Province",
+    "lat": 7.6597,
+    "lon": -80.5635,
+    "population": 11153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Esmeralda",
+    "region": "Panamá Province",
+    "lat": 8.2682,
+    "lon": -78.9246,
+    "population": 11041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ponuga",
+    "region": "Veraguas Province",
+    "lat": 7.8825,
+    "lon": -80.9788,
+    "population": 11002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebrada Bonita Adentro",
+    "region": "Colón Province",
+    "lat": 9.2966,
+    "lon": -79.7061,
+    "population": 10922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Pasera",
+    "region": "Los Santos Province",
+    "lat": 7.7976,
+    "lon": -80.3034,
+    "population": 10816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metetí",
+    "region": "Darién Province",
+    "lat": 8.4991,
+    "lon": -77.979,
+    "population": 10759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potrero Grande",
+    "region": "Panamá Oeste Province",
+    "lat": 8.8805,
+    "lon": -79.828,
+    "population": 10709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cacao",
+    "region": "Los Santos Province",
+    "lat": 7.4457,
+    "lon": -80.4094,
+    "population": 10642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rincón",
+    "region": "Herrera Province",
+    "lat": 8.1192,
+    "lon": -80.6171,
+    "population": 10498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limón de Tijeras",
+    "region": "Herrera Province",
+    "lat": 7.8176,
+    "lon": -80.9133,
+    "population": 10476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capellanía",
+    "region": "Coclé Province",
+    "lat": 8.2986,
+    "lon": -80.5548,
+    "population": 10419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Algarrobos",
+    "region": "Chiriquí Province",
+    "lat": 8.496,
+    "lon": -82.4242,
+    "population": 10172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabana Grande",
+    "region": "Herrera Province",
+    "lat": 7.88,
+    "lon": -80.6382,
+    "population": 10159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Lotes",
+    "region": "Panamá Province",
+    "lat": 9.1242,
+    "lon": -79.2893,
+    "population": 10048,
+    "timezone": "UTC"
+  }
+]

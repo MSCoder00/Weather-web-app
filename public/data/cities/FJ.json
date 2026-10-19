@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Lomaiviti Province",
+    "region": "Eastern Division",
+    "lat": -17.6667,
+    "lon": 178.8,
+    "population": 48613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lau Province",
+    "region": "Eastern Division",
+    "lat": -18.2049,
+    "lon": -178.7925,
+    "population": 45576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levuka",
+    "region": "Eastern Division",
+    "lat": -18.0667,
+    "lon": 179.3167,
+    "population": 44987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ba",
+    "region": "Western Division",
+    "lat": -17.5343,
+    "lon": 177.6741,
+    "population": 44959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nandronga and Navosa Province",
+    "region": "Western Division",
+    "lat": -18,
+    "lon": 177.6667,
+    "population": 42295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macuata Province",
+    "region": "Northern Division",
+    "lat": -16.5,
+    "lon": 179.25,
+    "population": 41648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rewa Province",
+    "region": "Central Division",
+    "lat": -18.0833,
+    "lon": 178.3333,
+    "population": 37583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namosi Province",
+    "region": "Central Division",
+    "lat": -18.05,
+    "lon": 178.1333,
+    "population": 36517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cakaudrove Province",
+    "region": "Northern Division",
+    "lat": -16.6667,
+    "lon": 179.4167,
+    "population": 36439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naitasiri Province",
+    "region": "Central Division",
+    "lat": -17.8333,
+    "lon": 178.25,
+    "population": 31291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ra Province",
+    "region": "Western Division",
+    "lat": -17.5,
+    "lon": 178.1667,
+    "population": 30797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labasa",
+    "region": "Northern Division",
+    "lat": -16.4332,
+    "lon": 179.3645,
+    "population": 24416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadavu Province",
+    "region": "Eastern Division",
+    "lat": -18.9933,
+    "lon": 178.2202,
+    "population": 21049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bua Province",
+    "region": "Northern Division",
+    "lat": -16.8333,
+    "lon": 178.75,
+    "population": 19996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serua Province",
+    "region": "Central Division",
+    "lat": -18.1667,
+    "lon": 178,
+    "population": 19561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nadi",
+    "region": "Western Division",
+    "lat": -17.8031,
+    "lon": 177.4162,
+    "population": 19065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ba Province",
+    "region": "Western Division",
+    "lat": -17.6667,
+    "lon": 177.6667,
+    "population": 16523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suva",
+    "region": "Central Division",
+    "lat": -18.1416,
+    "lon": 178.4415,
+    "population": 16516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lautoka",
+    "region": "Western Division",
+    "lat": -17.6169,
+    "lon": 177.4505,
+    "population": 15427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tailevu Province",
+    "region": "Central Division",
+    "lat": -17.8333,
+    "lon": 178.5,
+    "population": 14375,
+    "timezone": "UTC"
+  }
+]

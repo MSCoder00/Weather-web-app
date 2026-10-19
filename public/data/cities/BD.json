@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "Dhaka",
+    "region": "Dhaka District",
+    "lat": 23.8109,
+    "lon": 90.3654,
+    "population": 12000000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chittagong",
+    "region": "Chittagong Division",
+    "lat": 22.4875,
+    "lon": 91.9633,
+    "population": 5200000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gazipur",
+    "region": "Dhaka District",
+    "lat": 24.2069,
+    "lon": 90.4724,
+    "population": 2400000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narayanganj",
+    "region": "Dhaka District",
+    "lat": 23.75,
+    "lon": 90.5833,
+    "population": 1650000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khulna",
+    "region": "Khulna District",
+    "lat": 22.5,
+    "lon": 89.3333,
+    "population": 1500000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sylhet",
+    "region": "Sylhet District",
+    "lat": 24.9167,
+    "lon": 91.7667,
+    "population": 920000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajshahi",
+    "region": "Rajshahi District",
+    "lat": 24.3696,
+    "lon": 88.6075,
+    "population": 850000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogra",
+    "region": "Rajshahi District",
+    "lat": 24.7833,
+    "lon": 89.35,
+    "population": 500000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mymensingh",
+    "region": "Mymensingh District",
+    "lat": 24.75,
+    "lon": 90.4,
+    "population": 400000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comilla",
+    "region": "Chittagong Division",
+    "lat": 23.4417,
+    "lon": 91.0099,
+    "population": 340000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rangpur",
+    "region": "Rangpur District",
+    "lat": 25.7333,
+    "lon": 89.25,
+    "population": 340000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cox's Bazar",
+    "region": "Chittagong Division",
+    "lat": 21.5839,
+    "lon": 92.0153,
+    "population": 250000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jessore",
+    "region": "Khulna District",
+    "lat": 23.0833,
+    "lon": 89.1667,
+    "population": 250000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangail",
+    "region": "Dhaka District",
+    "lat": 24.3385,
+    "lon": 89.9867,
+    "population": 200000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dinajpur",
+    "region": "Rangpur District",
+    "lat": 25.6167,
+    "lon": 88.75,
+    "population": 190000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Feni",
+    "region": "Chittagong Division",
+    "lat": 22.9667,
+    "lon": 91.3167,
+    "population": 160000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamalpur",
+    "region": "Mymensingh District",
+    "lat": 25,
+    "lon": 89.8333,
+    "population": 150000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pabna",
+    "region": "Rajshahi District",
+    "lat": 24.0063,
+    "lon": 89.3353,
+    "population": 140000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kushtia",
+    "region": "Khulna District",
+    "lat": 23.8333,
+    "lon": 88.9167,
+    "population": 135000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noakhali",
+    "region": "Chittagong Division",
+    "lat": 22.75,
+    "lon": 91.1667,
+    "population": 130000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faridpur",
+    "region": "Dhaka District",
+    "lat": 23.5942,
+    "lon": 89.8215,
+    "population": 125000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nāgarpur",
+    "region": "Dhaka District",
+    "lat": 24.0578,
+    "lon": 89.877,
+    "population": 49939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nawābganj",
+    "region": "Rajshahi District",
+    "lat": 24.5903,
+    "lon": 88.2744,
+    "population": 49841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gafargaon",
+    "region": "Mymensingh District",
+    "lat": 24.432,
+    "lon": 90.5585,
+    "population": 49714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phultala",
+    "region": "Khulna District",
+    "lat": 22.7167,
+    "lon": 89.5119,
+    "population": 49610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joymontop",
+    "region": "Dhaka District",
+    "lat": 23.7879,
+    "lon": 90.1647,
+    "population": 49409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shāhzādpur",
+    "region": "Rajshahi District",
+    "lat": 24.1769,
+    "lon": 89.5988,
+    "population": 48960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaibandha",
+    "region": "Rangpur District",
+    "lat": 25.25,
+    "lon": 89.5,
+    "population": 48864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parvez Ali Hossain",
+    "region": "Dhaka District",
+    "lat": 23.7876,
+    "lon": 90.1649,
+    "population": 48761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burhānuddin",
+    "region": "Barisal District",
+    "lat": 22.4952,
+    "lon": 90.7239,
+    "population": 48632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kishoregonj",
+    "region": "Dhaka District",
+    "lat": 24.4167,
+    "lon": 90.95,
+    "population": 48507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nilphamari Zila",
+    "region": "Rangpur District",
+    "lat": 25.9667,
+    "lon": 88.95,
+    "population": 48294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Char Bhadrāsan",
+    "region": "Dhaka District",
+    "lat": 23.3092,
+    "lon": 90.227,
+    "population": 47744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarankhola",
+    "region": "Khulna District",
+    "lat": 22.3101,
+    "lon": 89.7911,
+    "population": 47470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sātkania",
+    "region": "Chittagong Division",
+    "lat": 22.0764,
+    "lon": 92.0495,
+    "population": 46732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muktāgācha",
+    "region": "Mymensingh District",
+    "lat": 24.7648,
+    "lon": 90.257,
+    "population": 45140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raojān",
+    "region": "Chittagong Division",
+    "lat": 22.5351,
+    "lon": 91.9192,
+    "population": 44424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dohār",
+    "region": "Dhaka District",
+    "lat": 23.5931,
+    "lon": 90.1425,
+    "population": 44219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalmonirhat",
+    "region": "Rangpur District",
+    "lat": 25.9172,
+    "lon": 89.4459,
+    "population": 43928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramnagar",
+    "region": "Dhaka District",
+    "lat": 23.7772,
+    "lon": 90.176,
+    "population": 42566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manikchari",
+    "region": "Chittagong Division",
+    "lat": 22.8396,
+    "lon": 91.8413,
+    "population": 42550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patuakhali",
+    "region": "Barisal District",
+    "lat": 22.3333,
+    "lon": 90.3333,
+    "population": 42338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pār Naogaon",
+    "region": "Rajshahi District",
+    "lat": 24.8042,
+    "lon": 88.9488,
+    "population": 41664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panchagarh",
+    "region": "Rangpur District",
+    "lat": 26.3333,
+    "lon": 88.5667,
+    "population": 41533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Satkhira",
+    "region": "Khulna District",
+    "lat": 22.35,
+    "lon": 89.15,
+    "population": 41031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azimpur",
+    "region": "Dhaka District",
+    "lat": 23.7298,
+    "lon": 90.3854,
+    "population": 40904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khagrachhari",
+    "region": "Chittagong Division",
+    "lat": 23.1667,
+    "lon": 91.9,
+    "population": 40309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chapai Nababganj",
+    "region": "Rajshahi District",
+    "lat": 24.6833,
+    "lon": 88.25,
+    "population": 40227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puthia",
+    "region": "Rajshahi District",
+    "lat": 24.3654,
+    "lon": 88.8343,
+    "population": 39778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehendiganj",
+    "region": "Barisal District",
+    "lat": 22.8226,
+    "lon": 90.5286,
+    "population": 39543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hājīganj",
+    "region": "Chittagong Division",
+    "lat": 23.2519,
+    "lon": 90.8551,
+    "population": 38834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonārgaon",
+    "region": "Dhaka District",
+    "lat": 23.65,
+    "lon": 90.6167,
+    "population": 38170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narsingdi",
+    "region": "Dhaka District",
+    "lat": 23.923,
+    "lon": 90.7177,
+    "population": 36958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Char Golora",
+    "region": "Dhaka District",
+    "lat": 23.8204,
+    "lon": 90.1218,
+    "population": 36858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tungi",
+    "region": "Dhaka District",
+    "lat": 23.8915,
+    "lon": 90.4023,
+    "population": 36534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bibir Hat",
+    "region": "Chittagong Division",
+    "lat": 22.6835,
+    "lon": 91.7906,
+    "population": 36239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sherpur",
+    "region": "Mymensingh District",
+    "lat": 25.0833,
+    "lon": 90.0833,
+    "population": 36130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cox’s Bāzār",
+    "region": "Chittagong Division",
+    "lat": 21.4397,
+    "lon": 92.0096,
+    "population": 35455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunamganj",
+    "region": "Sylhet District",
+    "lat": 24.8667,
+    "lon": 91.4167,
+    "population": 35246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joypur Hāt",
+    "region": "Rajshahi District",
+    "lat": 25.1015,
+    "lon": 89.0273,
+    "population": 35022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shibganj",
+    "region": "Rajshahi District",
+    "lat": 25.0015,
+    "lon": 89.3227,
+    "population": 34346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirajganj",
+    "region": "Rajshahi District",
+    "lat": 24.3333,
+    "lon": 89.6167,
+    "population": 33939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kālīganj",
+    "region": "Khulna District",
+    "lat": 23.4096,
+    "lon": 89.138,
+    "population": 33023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhingergācha",
+    "region": "Khulna District",
+    "lat": 23.1113,
+    "lon": 89.0906,
+    "population": 32763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parvez Ali",
+    "region": "Dhaka District",
+    "lat": 23.8174,
+    "lon": 90.1192,
+    "population": 32087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kālia",
+    "region": "Khulna District",
+    "lat": 23.043,
+    "lon": 89.6309,
+    "population": 31854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madaripur",
+    "region": "Dhaka District",
+    "lat": 23.25,
+    "lon": 90.2,
+    "population": 31833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manikganj",
+    "region": "Dhaka District",
+    "lat": 23.8667,
+    "lon": 89.95,
+    "population": 31234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mathba",
+    "region": "Barisal District",
+    "lat": 22.2862,
+    "lon": 89.9588,
+    "population": 30925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magura",
+    "region": "Khulna District",
+    "lat": 23.4333,
+    "lon": 89.4333,
+    "population": 30840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chandpur",
+    "region": "Chittagong Division",
+    "lat": 23.25,
+    "lon": 90.8333,
+    "population": 30420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaurnadi",
+    "region": "Barisal District",
+    "lat": 22.9737,
+    "lon": 90.2238,
+    "population": 30220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayani",
+    "region": "Dhaka District",
+    "lat": 23.7912,
+    "lon": 90.1697,
+    "population": 30201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maulvibazar",
+    "region": "Sylhet District",
+    "lat": 24.5,
+    "lon": 91.8333,
+    "population": 30189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meherpur",
+    "region": "Khulna District",
+    "lat": 23.75,
+    "lon": 88.7,
+    "population": 30023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thakurgaon",
+    "region": "Rangpur District",
+    "lat": 25.9667,
+    "lon": 88.3333,
+    "population": 30017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paltan",
+    "region": "Dhaka District",
+    "lat": 23.7362,
+    "lon": 90.4143,
+    "population": 29413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tungipāra",
+    "region": "Dhaka District",
+    "lat": 22.8998,
+    "lon": 89.9033,
+    "population": 29303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Netrakona",
+    "region": "Mymensingh District",
+    "lat": 24.8667,
+    "lon": 90.8667,
+    "population": 29219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajbari",
+    "region": "Dhaka District",
+    "lat": 23.6667,
+    "lon": 89.55,
+    "population": 28535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bera",
+    "region": "Rajshahi District",
+    "lat": 24.0782,
+    "lon": 89.6326,
+    "population": 28482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarishābāri",
+    "region": "Mymensingh District",
+    "lat": 24.7513,
+    "lon": 89.8313,
+    "population": 28142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhalokati",
+    "region": "Barisal District",
+    "lat": 22.6,
+    "lon": 90.2,
+    "population": 27958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Natore",
+    "region": "Rajshahi District",
+    "lat": 24.35,
+    "lon": 89.0833,
+    "population": 27948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhairab Bāzār",
+    "region": "Dhaka District",
+    "lat": 24.0524,
+    "lon": 90.9764,
+    "population": 27605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhātpāra Abhaynagar",
+    "region": "Khulna District",
+    "lat": 23.0147,
+    "lon": 89.4394,
+    "population": 27338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chhāgalnāiya",
+    "region": "Chittagong Division",
+    "lat": 23.0248,
+    "lon": 91.5109,
+    "population": 27192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurigram",
+    "region": "Rangpur District",
+    "lat": 25.75,
+    "lon": 89.6667,
+    "population": 27153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narail",
+    "region": "Khulna District",
+    "lat": 23.1333,
+    "lon": 89.6,
+    "population": 26950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barisal",
+    "region": "Barisal District",
+    "lat": 22.8,
+    "lon": 90.5,
+    "population": 26857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nageswari",
+    "region": "Rangpur District",
+    "lat": 25.9682,
+    "lon": 89.6915,
+    "population": 26665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nowlamary",
+    "region": "Khulna District",
+    "lat": 23.6735,
+    "lon": 88.9888,
+    "population": 26348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joypurhat",
+    "region": "Rajshahi District",
+    "lat": 25.0833,
+    "lon": 89.1,
+    "population": 25918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munshiganj",
+    "region": "Dhaka District",
+    "lat": 23.55,
+    "lon": 90.3667,
+    "population": 25862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nālchiti",
+    "region": "Barisal District",
+    "lat": 22.637,
+    "lon": 90.272,
+    "population": 25388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakshmipur",
+    "region": "Chittagong Division",
+    "lat": 22.9167,
+    "lon": 90.8333,
+    "population": 25344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pālang",
+    "region": "Dhaka District",
+    "lat": 23.2182,
+    "lon": 90.3508,
+    "population": 24825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saidpur",
+    "region": "Rajshahi District",
+    "lat": 25.7777,
+    "lon": 88.8917,
+    "population": 24809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habiganj",
+    "region": "Sylhet District",
+    "lat": 24.4333,
+    "lon": 91.4167,
+    "population": 24732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baniachang",
+    "region": "Sylhet District",
+    "lat": 24.5186,
+    "lon": 91.3579,
+    "population": 24690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parbatipur",
+    "region": "Rangpur District",
+    "lat": 25.6637,
+    "lon": 88.9309,
+    "population": 24669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandarban",
+    "region": "Chittagong Division",
+    "lat": 22,
+    "lon": 92.3333,
+    "population": 24566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirojpur",
+    "region": "Barisal District",
+    "lat": 22.5367,
+    "lon": 90.0003,
+    "population": 23215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kishorganj",
+    "region": "Dhaka District",
+    "lat": 24.4394,
+    "lon": 90.7829,
+    "population": 22408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lākshām",
+    "region": "Chittagong Division",
+    "lat": 23.2402,
+    "lon": 91.1214,
+    "population": 22092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gopalganj",
+    "region": "Dhaka District",
+    "lat": 23.1667,
+    "lon": 89.9167,
+    "population": 21457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lālmohan",
+    "region": "Barisal District",
+    "lat": 22.3377,
+    "lon": 90.7371,
+    "population": 21237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāmganj",
+    "region": "Chittagong Division",
+    "lat": 23.1006,
+    "lon": 90.8499,
+    "population": 21069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilmāri",
+    "region": "Rangpur District",
+    "lat": 25.5561,
+    "lon": 89.671,
+    "population": 20966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagerhat",
+    "region": "Khulna District",
+    "lat": 22.4,
+    "lon": 89.75,
+    "population": 20947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bājitpur",
+    "region": "Dhaka District",
+    "lat": 24.2162,
+    "lon": 90.95,
+    "population": 18492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakhipur",
+    "region": "Dhaka District",
+    "lat": 24.3199,
+    "lon": 90.1694,
+    "population": 17947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shariatpur",
+    "region": "Dhaka District",
+    "lat": 23.25,
+    "lon": 90.3667,
+    "population": 17909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ujalpur",
+    "region": "Khulna District",
+    "lat": 23.8056,
+    "lon": 88.6244,
+    "population": 17662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandwīp",
+    "region": "Chittagong Division",
+    "lat": 22.5141,
+    "lon": 91.4549,
+    "population": 17226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanbaniara",
+    "region": "Dhaka District",
+    "lat": 23.7823,
+    "lon": 90.1838,
+    "population": 16390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morrelgonj",
+    "region": "Khulna District",
+    "lat": 22.4557,
+    "lon": 89.8558,
+    "population": 15958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brahmanbaria",
+    "region": "Chittagong Division",
+    "lat": 23.9833,
+    "lon": 91.1667,
+    "population": 15918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahasthangarh",
+    "region": "Rajshahi District",
+    "lat": 24.9611,
+    "lon": 89.3428,
+    "population": 15540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirzāpur",
+    "region": "Dhaka District",
+    "lat": 24.1029,
+    "lon": 90.0984,
+    "population": 15538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuadanga",
+    "region": "Khulna District",
+    "lat": 23.6333,
+    "lon": 88.85,
+    "population": 14939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nabīnagar",
+    "region": "Chittagong Division",
+    "lat": 23.8879,
+    "lon": 90.9679,
+    "population": 14377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chhātak",
+    "region": "Sylhet District",
+    "lat": 25.0385,
+    "lon": 91.6696,
+    "population": 14023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teknāf",
+    "region": "Chittagong Division",
+    "lat": 20.8583,
+    "lon": 92.2977,
+    "population": 13958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barguna",
+    "region": "Barisal District",
+    "lat": 22.1333,
+    "lon": 90.1333,
+    "population": 13508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhāndāria",
+    "region": "Barisal District",
+    "lat": 22.489,
+    "lon": 90.0627,
+    "population": 13231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uttar Char Fasson",
+    "region": "Khulna District",
+    "lat": 22.2265,
+    "lon": 90.7127,
+    "population": 13222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ishurdi",
+    "region": "Rajshahi District",
+    "lat": 24.1286,
+    "lon": 89.0657,
+    "population": 13183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jahedpur",
+    "region": "Sylhet District",
+    "lat": 24.8333,
+    "lon": 91.65,
+    "population": 12581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rangamati",
+    "region": "Chittagong Division",
+    "lat": 22.6333,
+    "lon": 92.2,
+    "population": 12507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bherāmāra",
+    "region": "Khulna District",
+    "lat": 24.0245,
+    "lon": 88.9923,
+    "population": 12481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jhenaidah",
+    "region": "Khulna District",
+    "lat": 23.5,
+    "lon": 89.1667,
+    "population": 11834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patiya",
+    "region": "Chittagong Division",
+    "lat": 22.2954,
+    "lon": 91.979,
+    "population": 11486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maulavi Bāzār",
+    "region": "Sylhet District",
+    "lat": 24.4889,
+    "lon": 91.7708,
+    "population": 11289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naogaon",
+    "region": "Rajshahi District",
+    "lat": 24.8118,
+    "lon": 88.9466,
+    "population": 11223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhola",
+    "region": "Barisal District",
+    "lat": 22.3667,
+    "lon": 90.8167,
+    "population": 11142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badarganj",
+    "region": "Rangpur District",
+    "lat": 25.6742,
+    "lon": 89.0538,
+    "population": 11116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalmonirhat District",
+    "region": "Rangpur District",
+    "lat": 26,
+    "lon": 89.25,
+    "population": 10914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kesabpur",
+    "region": "Khulna District",
+    "lat": 22.9073,
+    "lon": 89.2195,
+    "population": 10590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pīrgaaj",
+    "region": "Rangpur District",
+    "lat": 25.8559,
+    "lon": 88.3594,
+    "population": 10323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāipur",
+    "region": "Chittagong Division",
+    "lat": 23.0391,
+    "lon": 90.7681,
+    "population": 10178,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Ocniţa",
+    "region": "Ocnița District",
+    "lat": 48.3827,
+    "lon": 27.4381,
+    "population": 49903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crasnoe",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 46.6484,
+    "lon": 29.804,
+    "population": 49441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sîngera",
+    "region": "Chișinău Municipality",
+    "lat": 46.9156,
+    "lon": 28.9667,
+    "population": 49221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cocieri",
+    "region": "Dubăsari District",
+    "lat": 47.3017,
+    "lon": 29.1176,
+    "population": 48598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varniţa",
+    "region": "Anenii Noi District",
+    "lat": 46.8661,
+    "lon": 29.4664,
+    "population": 48225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cimişlia",
+    "region": "Cimișlia District",
+    "lat": 46.5269,
+    "lon": 28.7644,
+    "population": 47340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Briceni",
+    "region": "Dondușeni District",
+    "lat": 48.3563,
+    "lon": 27.7029,
+    "population": 47135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otaci",
+    "region": "Ocnița District",
+    "lat": 48.4329,
+    "lon": 27.7991,
+    "population": 46635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edineţ",
+    "region": "Edineț District",
+    "lat": 48.1722,
+    "lon": 27.3034,
+    "population": 46601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vadul lui Vodă",
+    "region": "Chișinău Municipality",
+    "lat": 47.0901,
+    "lon": 29.0757,
+    "population": 45951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chisinau",
+    "region": "Chișinău Municipality",
+    "lat": 47.0056,
+    "lon": 28.8575,
+    "population": 45734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pervomaisc",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 46.7325,
+    "lon": 29.9617,
+    "population": 45614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilicenii Vechi",
+    "region": "Sîngerei District",
+    "lat": 47.6558,
+    "lon": 28.0473,
+    "population": 45546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mărculeşti",
+    "region": "Florești District",
+    "lat": 47.869,
+    "lon": 28.2411,
+    "population": 45301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tvardița",
+    "region": "Taraclia District",
+    "lat": 46.1483,
+    "lon": 28.9649,
+    "population": 44959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ialoveni",
+    "region": "Ialoveni District",
+    "lat": 46.9435,
+    "lon": 28.7823,
+    "population": 43809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giurgiuleşti",
+    "region": "Cahul District",
+    "lat": 45.4817,
+    "lon": 28.1972,
+    "population": 43750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiraspol",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 46.8427,
+    "lon": 29.6291,
+    "population": 41838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slobozia",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 46.7293,
+    "lon": 29.7045,
+    "population": 41523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubăsari",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 47.2656,
+    "lon": 29.1667,
+    "population": 41470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anenii Noi",
+    "region": "Anenii Noi District",
+    "lat": 46.8784,
+    "lon": 29.2348,
+    "population": 41408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vulcăneşti",
+    "region": "Gagauzia",
+    "lat": 45.6849,
+    "lon": 28.4061,
+    "population": 41326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rîbniţa",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 47.7682,
+    "lon": 29.01,
+    "population": 41245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Briceni",
+    "region": "Briceni District",
+    "lat": 48.3629,
+    "lon": 27.0779,
+    "population": 40903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maiac",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 47.2373,
+    "lon": 29.385,
+    "population": 39685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cricova",
+    "region": "Chișinău Municipality",
+    "lat": 47.1384,
+    "lon": 28.8616,
+    "population": 39086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiraspolul Nou",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 46.8287,
+    "lon": 29.5217,
+    "population": 37150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Floreşti",
+    "region": "Florești District",
+    "lat": 47.8914,
+    "lon": 28.2931,
+    "population": 37058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orhei",
+    "region": "Orhei District",
+    "lat": 47.3849,
+    "lon": 28.8245,
+    "population": 36766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basarabeasca",
+    "region": "Basarabeasca District",
+    "lat": 46.3317,
+    "lon": 28.9637,
+    "population": 36754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiţcani",
+    "region": "Căușeni District",
+    "lat": 46.783,
+    "lon": 29.6168,
+    "population": 36202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ustia",
+    "region": "Dubăsari District",
+    "lat": 47.2552,
+    "lon": 29.1241,
+    "population": 35865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cantemir",
+    "region": "Cantemir District",
+    "lat": 46.2774,
+    "lon": 28.2027,
+    "population": 35857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Căuşeni",
+    "region": "Căușeni District",
+    "lat": 46.6367,
+    "lon": 29.4111,
+    "population": 35214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghindești",
+    "region": "Florești District",
+    "lat": 47.8548,
+    "lon": 28.3768,
+    "population": 33562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bălţi",
+    "region": "Bălți Municipality",
+    "lat": 47.7631,
+    "lon": 27.9293,
+    "population": 33442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bender",
+    "region": "Bender Municipality",
+    "lat": 46.8316,
+    "lon": 29.4777,
+    "population": 33364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drochia",
+    "region": "Drochia District",
+    "lat": 48.0356,
+    "lon": 27.8129,
+    "population": 33159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fălești",
+    "region": "Fălești District",
+    "lat": 47.5767,
+    "lon": 27.7126,
+    "population": 32097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soroca",
+    "region": "Soroca District",
+    "lat": 48.1566,
+    "lon": 28.2849,
+    "population": 30426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugeac",
+    "region": "Gagauzia",
+    "lat": 46.3655,
+    "lon": 28.6625,
+    "population": 30216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saharna",
+    "region": "Rezina District",
+    "lat": 47.6911,
+    "lon": 28.9746,
+    "population": 29104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ştefan Vodă",
+    "region": "Ștefan Vodă District",
+    "lat": 46.5129,
+    "lon": 29.6619,
+    "population": 28938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rezina",
+    "region": "Rezina District",
+    "lat": 47.7493,
+    "lon": 28.9658,
+    "population": 28757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iargara",
+    "region": "Cantemir District",
+    "lat": 46.4252,
+    "lon": 28.4268,
+    "population": 28521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dancu",
+    "region": "Hîncești District",
+    "lat": 46.7582,
+    "lon": 28.2072,
+    "population": 27068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bucovăţ",
+    "region": "Strășeni District",
+    "lat": 47.1906,
+    "lon": 28.458,
+    "population": 26893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hînceşti",
+    "region": "Hîncești District",
+    "lat": 46.8305,
+    "lon": 28.5906,
+    "population": 25444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mîndreşti",
+    "region": "Telenești District",
+    "lat": 47.5052,
+    "lon": 28.2769,
+    "population": 25254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comrat",
+    "region": "Gagauzia",
+    "lat": 46.2946,
+    "lon": 28.6565,
+    "population": 24543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stăuceni",
+    "region": "Chișinău Municipality",
+    "lat": 47.0964,
+    "lon": 28.8679,
+    "population": 23877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceadîr-Lunga",
+    "region": "Gagauzia",
+    "lat": 46.0617,
+    "lon": 28.8308,
+    "population": 23015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cahul",
+    "region": "Cahul District",
+    "lat": 45.9042,
+    "lon": 28.1993,
+    "population": 22627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taraclia",
+    "region": "Taraclia District",
+    "lat": 45.9027,
+    "lon": 28.6682,
+    "population": 22228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Călăraşi",
+    "region": "Călărași District",
+    "lat": 47.2556,
+    "lon": 28.3099,
+    "population": 22216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camenca",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 48.0323,
+    "lon": 28.699,
+    "population": 22119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vatra",
+    "region": "Chișinău Municipality",
+    "lat": 47.0746,
+    "lon": 28.7369,
+    "population": 21990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rîşcani",
+    "region": "Rîșcani District",
+    "lat": 47.9479,
+    "lon": 27.5638,
+    "population": 20656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sîngerei",
+    "region": "Sîngerei District",
+    "lat": 47.6363,
+    "lon": 28.143,
+    "population": 19418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glodeni",
+    "region": "Glodeni District",
+    "lat": 47.7751,
+    "lon": 27.5189,
+    "population": 19288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Criuleni",
+    "region": "Criuleni District",
+    "lat": 47.2131,
+    "lon": 29.1593,
+    "population": 19225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biruinţa",
+    "region": "Sîngerei District",
+    "lat": 47.8135,
+    "lon": 28.07,
+    "population": 17397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciorescu",
+    "region": "Chișinău Municipality",
+    "lat": 47.13,
+    "lon": 28.8894,
+    "population": 17212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dnestrovsc",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 46.6164,
+    "lon": 29.9193,
+    "population": 16806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şoldăneşti",
+    "region": "Șoldănești District",
+    "lat": 47.8161,
+    "lon": 28.7972,
+    "population": 15914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nisporeni",
+    "region": "Nisporeni District",
+    "lat": 47.0816,
+    "lon": 28.1714,
+    "population": 15424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strășeni",
+    "region": "Strășeni District",
+    "lat": 47.1422,
+    "lon": 28.6077,
+    "population": 15131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ungheni",
+    "region": "Ungheni District",
+    "lat": 47.2108,
+    "lon": 27.8005,
+    "population": 13783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hryhoriopol",
+    "region": "Transnistria autonomous territorial unit",
+    "lat": 47.1541,
+    "lon": 29.3001,
+    "population": 12512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vişniovca",
+    "region": "Cantemir District",
+    "lat": 46.3326,
+    "lon": 28.448,
+    "population": 12254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donduşeni",
+    "region": "Dondușeni District",
+    "lat": 48.2427,
+    "lon": 27.6101,
+    "population": 10753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teleneşti",
+    "region": "Telenești District",
+    "lat": 47.5011,
+    "lon": 28.3654,
+    "population": 10617,
+    "timezone": "UTC"
+  }
+]

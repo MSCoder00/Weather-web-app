@@ -1,0 +1,898 @@
+[
+  {
+    "name": "P’ot’i",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.1462,
+    "lon": 41.672,
+    "population": 49811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzegvi",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 41.8457,
+    "lon": 44.601,
+    "population": 49273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gardabnis Munitsip’alit’et’i",
+    "region": "Kvemo Kartli",
+    "lat": 41.6167,
+    "lon": 45,
+    "population": 49250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khashuri",
+    "region": "Shida Kartli",
+    "lat": 41.9941,
+    "lon": 43.5999,
+    "population": 49151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tbilisi",
+    "region": "Tbilisi",
+    "lat": 41.6941,
+    "lon": 44.8337,
+    "population": 47899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gurjaani",
+    "region": "Kakheti",
+    "lat": 41.7429,
+    "lon": 45.8011,
+    "population": 47661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gudauri",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 42.478,
+    "lon": 44.4762,
+    "population": 46961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vale",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.6156,
+    "lon": 42.8722,
+    "population": 46691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mest’iis Munitsip’alit’et’i",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 43.05,
+    "lon": 42.55,
+    "population": 46623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtskheta",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 41.8451,
+    "lon": 44.7188,
+    "population": 46192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sighnaghis Munitsip’alit’et’i",
+    "region": "Kakheti",
+    "lat": 41.5667,
+    "lon": 45.85,
+    "population": 45819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mart’vili",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.4144,
+    "lon": 42.3792,
+    "population": 45444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsikhisdziri",
+    "region": "Adjara",
+    "lat": 41.7666,
+    "lon": 41.7552,
+    "population": 45407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lent’ekhi",
+    "region": "Racha-Lechkhumi and Kvemo Svaneti",
+    "lat": 42.7889,
+    "lon": 42.7223,
+    "population": 44584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ochkhamuri",
+    "region": "Adjara",
+    "lat": 41.8597,
+    "lon": 41.8531,
+    "population": 44557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ts’khinvali",
+    "region": "Shida Kartli",
+    "lat": 42.2276,
+    "lon": 43.9686,
+    "population": 43754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "P’asanauri",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 42.3506,
+    "lon": 44.6891,
+    "population": 43493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelasuri",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 42.9788,
+    "lon": 41.0707,
+    "population": 41974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsnori",
+    "region": "Kakheti",
+    "lat": 41.6209,
+    "lon": 45.9694,
+    "population": 41496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abasha",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.2,
+    "lon": 42.2,
+    "population": 41182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adigeni",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.6819,
+    "lon": 42.6987,
+    "population": 40969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kharagauli",
+    "region": "Imereti",
+    "lat": 42.0214,
+    "lon": 43.1977,
+    "population": 40780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ts’alk’is Munitsip’alit’et’i",
+    "region": "Kvemo Kartli",
+    "lat": 41.6333,
+    "lon": 43.9667,
+    "population": 40222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhmet’a",
+    "region": "Kakheti",
+    "lat": 42.0311,
+    "lon": 45.2075,
+    "population": 39739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rust’avi",
+    "region": "Kvemo Kartli",
+    "lat": 41.5495,
+    "lon": 44.9932,
+    "population": 39036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kutaisi",
+    "region": "Imereti",
+    "lat": 42.2679,
+    "lon": 42.6946,
+    "population": 38941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhalgori",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 42.126,
+    "lon": 44.4833,
+    "population": 38649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gardabani",
+    "region": "Kvemo Kartli",
+    "lat": 41.4605,
+    "lon": 45.0928,
+    "population": 38178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zestap’oni",
+    "region": "Imereti",
+    "lat": 42.11,
+    "lon": 43.0525,
+    "population": 37411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jvari",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.7169,
+    "lon": 42.052,
+    "population": 36950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khoni",
+    "region": "Imereti",
+    "lat": 42.3226,
+    "lon": 42.4206,
+    "population": 36448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sighnaghi",
+    "region": "Kakheti",
+    "lat": 41.6205,
+    "lon": 45.922,
+    "population": 36164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuakhevi",
+    "region": "Adjara",
+    "lat": 41.63,
+    "lon": 42.1908,
+    "population": 36020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marneulis Munitsip’alit’et’i",
+    "region": "Kvemo Kartli",
+    "lat": 41.3833,
+    "lon": 44.85,
+    "population": 35845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Och’amch’ire",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 42.7123,
+    "lon": 41.4686,
+    "population": 34207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gori",
+    "region": "Shida Kartli",
+    "lat": 41.9842,
+    "lon": 44.1158,
+    "population": 33526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tqvarch'eli",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 42.8404,
+    "lon": 41.6801,
+    "population": 33500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsinandali",
+    "region": "Kakheti",
+    "lat": 41.8931,
+    "lon": 45.5713,
+    "population": 33464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaspi",
+    "region": "Shida Kartli",
+    "lat": 41.9252,
+    "lon": 44.4257,
+    "population": 33355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "K’ulashi",
+    "region": "Imereti",
+    "lat": 42.2041,
+    "lon": 42.3429,
+    "population": 32632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senak’i",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.2704,
+    "lon": 42.0675,
+    "population": 32629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gantiadi",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 43.3811,
+    "lon": 40.0794,
+    "population": 32554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "P’rimorsk’oe",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 43.0924,
+    "lon": 40.6965,
+    "population": 32356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batumi",
+    "region": "Adjara",
+    "lat": 41.6423,
+    "lon": 41.6339,
+    "population": 32255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kobuleti",
+    "region": "Adjara",
+    "lat": 41.8214,
+    "lon": 41.7792,
+    "population": 30132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dmanisis Munitsip’alit’et’i",
+    "region": "Kvemo Kartli",
+    "lat": 41.35,
+    "lon": 44.1333,
+    "population": 29594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qvareli",
+    "region": "Kakheti",
+    "lat": 41.9549,
+    "lon": 45.8172,
+    "population": 29500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sach’khere",
+    "region": "Imereti",
+    "lat": 42.3453,
+    "lon": 43.4194,
+    "population": 29096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mest’ia",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 43.0458,
+    "lon": 42.7278,
+    "population": 29056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zugdidi",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.5088,
+    "lon": 41.8709,
+    "population": 28602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khobi",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.3156,
+    "lon": 41.8987,
+    "population": 28418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsalenjikha",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.6044,
+    "lon": 42.0682,
+    "population": 28218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolnisi",
+    "region": "Kvemo Kartli",
+    "lat": 41.4479,
+    "lon": 44.5384,
+    "population": 28001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ozurgeti",
+    "region": "Guria",
+    "lat": 41.9244,
+    "lon": 42.0068,
+    "population": 27906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambrolauri",
+    "region": "Racha-Lechkhumi and Kvemo Svaneti",
+    "lat": 42.5211,
+    "lon": 43.1622,
+    "population": 27403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolnisis Munitsip’alit’et’i",
+    "region": "Kvemo Kartli",
+    "lat": 41.3667,
+    "lon": 44.5167,
+    "population": 27240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samtredia",
+    "region": "Imereti",
+    "lat": 42.1537,
+    "lon": 42.3352,
+    "population": 26851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Java",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 42.3997,
+    "lon": 43.9367,
+    "population": 26645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gali",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 42.6266,
+    "lon": 41.7381,
+    "population": 26353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gagra",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 43.2786,
+    "lon": 40.2712,
+    "population": 25329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Didi Lilo",
+    "region": "Kvemo Kartli",
+    "lat": 41.7361,
+    "lon": 44.9647,
+    "population": 25023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhaltsikhe",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.639,
+    "lon": 42.9826,
+    "population": 24678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tqibuli",
+    "region": "Imereti",
+    "lat": 42.3512,
+    "lon": 42.9987,
+    "population": 23250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tetrits’q’alos Munitsip’alit’et’i",
+    "region": "Kvemo Kartli",
+    "lat": 41.6,
+    "lon": 44.5,
+    "population": 22898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surami",
+    "region": "Shida Kartli",
+    "lat": 42.0243,
+    "lon": 43.5556,
+    "population": 22850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oni",
+    "region": "Racha-Lechkhumi and Kvemo Svaneti",
+    "lat": 42.5794,
+    "lon": 43.4425,
+    "population": 22230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsalka",
+    "region": "Kvemo Kartli",
+    "lat": 41.5946,
+    "lon": 44.0891,
+    "population": 22000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gudauta",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 43.1055,
+    "lon": 40.6207,
+    "population": 21894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vani",
+    "region": "Imereti",
+    "lat": 42.0832,
+    "lon": 42.5216,
+    "population": 21354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goris Munitsip’alit’et’i",
+    "region": "Shida Kartli",
+    "lat": 42.0667,
+    "lon": 44.1167,
+    "population": 21295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhaldaba",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.9295,
+    "lon": 43.4876,
+    "population": 21271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Step’antsminda",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 42.6567,
+    "lon": 44.6433,
+    "population": 21010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhinvali",
+    "region": "Mtskheta-Mtianeti",
+    "lat": 42.1318,
+    "lon": 44.7726,
+    "population": 19847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stantsiya Novyy Afon",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 43.0806,
+    "lon": 40.8383,
+    "population": 19729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urek’i",
+    "region": "Guria",
+    "lat": 41.9956,
+    "lon": 41.7786,
+    "population": 19367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asp’indzis Munitsip’alit’et’i",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.5,
+    "lon": 43.25,
+    "population": 19110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhaldaba",
+    "region": "Adjara",
+    "lat": 41.654,
+    "lon": 42.1516,
+    "population": 19093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baghdatis Munitsip’alit’et’i",
+    "region": "Imereti",
+    "lat": 42,
+    "lon": 42.9,
+    "population": 18925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khulo",
+    "region": "Adjara",
+    "lat": 41.6435,
+    "lon": 42.304,
+    "population": 18276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chakvi",
+    "region": "Adjara",
+    "lat": 41.7253,
+    "lon": 41.7328,
+    "population": 18207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakuriani",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.7497,
+    "lon": 43.5325,
+    "population": 17881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dranda",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 42.8717,
+    "lon": 41.1533,
+    "population": 17737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "K’alak’i Chiat’ura",
+    "region": "Imereti",
+    "lat": 42.2833,
+    "lon": 43.25,
+    "population": 17642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naruja",
+    "region": "Guria",
+    "lat": 41.9069,
+    "lon": 41.9542,
+    "population": 17538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsqaltubo",
+    "region": "Imereti",
+    "lat": 42.3413,
+    "lon": 42.5976,
+    "population": 17374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marneuli",
+    "region": "Kvemo Kartli",
+    "lat": 41.4759,
+    "lon": 44.809,
+    "population": 17170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makhinjauri",
+    "region": "Adjara",
+    "lat": 41.6739,
+    "lon": 41.694,
+    "population": 17131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telavi",
+    "region": "Kakheti",
+    "lat": 41.9198,
+    "lon": 45.4731,
+    "population": 16978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiat’ura",
+    "region": "Imereti",
+    "lat": 42.2981,
+    "lon": 43.2989,
+    "population": 16827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokhumi",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 43.007,
+    "lon": 40.9893,
+    "population": 16733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orsant’ia",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.4678,
+    "lon": 41.6738,
+    "population": 16479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhmet’is Munitsip’alit’et’i",
+    "region": "Kakheti",
+    "lat": 42.25,
+    "lon": 45.3333,
+    "population": 16382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manglisi",
+    "region": "Kvemo Kartli",
+    "lat": 41.697,
+    "lon": 44.3845,
+    "population": 16160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagodekhi",
+    "region": "Kakheti",
+    "lat": 41.8268,
+    "lon": 46.2767,
+    "population": 15975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanchkhuti",
+    "region": "Guria",
+    "lat": 42.0903,
+    "lon": 42.0324,
+    "population": 15570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dioknisi",
+    "region": "Adjara",
+    "lat": 41.6293,
+    "lon": 42.3917,
+    "population": 14929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kveda Chkhorots’q’u",
+    "region": "Samegrelo-Zemo Svaneti",
+    "lat": 42.481,
+    "lon": 42.0966,
+    "population": 14562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambrolauris Munitsip’alit’et’i",
+    "region": "Racha-Lechkhumi and Kvemo Svaneti",
+    "lat": 42.5667,
+    "lon": 43.1,
+    "population": 14520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhalk’alak’i",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.4051,
+    "lon": 43.4863,
+    "population": 14396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khelvachauri",
+    "region": "Adjara",
+    "lat": 41.5856,
+    "lon": 41.6689,
+    "population": 14334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsaghveri",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.8036,
+    "lon": 43.4819,
+    "population": 14117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sagarejo",
+    "region": "Kakheti",
+    "lat": 41.734,
+    "lon": 45.3315,
+    "population": 14011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shorapani",
+    "region": "Imereti",
+    "lat": 42.0898,
+    "lon": 43.0866,
+    "population": 13702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhaltsikhis Munitsip’alit’et’i",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.6333,
+    "lon": 43,
+    "population": 13477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naghvarevi",
+    "region": "Kvemo Kartli",
+    "lat": 41.3527,
+    "lon": 44.7618,
+    "population": 12873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bich’vinta",
+    "region": "Autonomous Republic of Abkhazia",
+    "lat": 43.162,
+    "lon": 40.341,
+    "population": 12774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aspindza",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.5739,
+    "lon": 43.2483,
+    "population": 12727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ninotsminda",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.2646,
+    "lon": 43.5916,
+    "population": 12077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adigeni Municipality",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.7167,
+    "lon": 42.7333,
+    "population": 11183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agara",
+    "region": "Shida Kartli",
+    "lat": 42.0376,
+    "lon": 43.8238,
+    "population": 10498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "T’et’ri Tsqaro",
+    "region": "Kvemo Kartli",
+    "lat": 41.5445,
+    "lon": 44.4615,
+    "population": 10482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borjomi",
+    "region": "Samtskhe-Javakheti",
+    "lat": 41.8527,
+    "lon": 43.4128,
+    "population": 10447,
+    "timezone": "UTC"
+  }
+]

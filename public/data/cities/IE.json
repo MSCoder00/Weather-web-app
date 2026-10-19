@@ -1,0 +1,2978 @@
+[
+  {
+    "name": "Youghal",
+    "region": "Munster",
+    "lat": 51.95,
+    "lon": -7.8506,
+    "population": 49999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crossmolina",
+    "region": "Connacht",
+    "lat": 54.1,
+    "lon": -9.3167,
+    "population": 49860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mallow",
+    "region": "Munster",
+    "lat": 52.1333,
+    "lon": -8.6333,
+    "population": 49853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athgarvan",
+    "region": "Leinster",
+    "lat": 53.1523,
+    "lon": -6.7817,
+    "population": 49670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boyle",
+    "region": "Connacht",
+    "lat": 53.9667,
+    "lon": -8.3,
+    "population": 49239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athenry",
+    "region": "Connacht",
+    "lat": 53.2964,
+    "lon": -8.7431,
+    "population": 49211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belturbet",
+    "region": "Ulster",
+    "lat": 54.1,
+    "lon": -7.45,
+    "population": 49210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballybofey",
+    "region": "Ulster",
+    "lat": 54.8,
+    "lon": -7.7833,
+    "population": 48788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bunclody",
+    "region": "Leinster",
+    "lat": 52.6553,
+    "lon": -6.6536,
+    "population": 48727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilbeggan",
+    "region": "Leinster",
+    "lat": 53.3694,
+    "lon": -7.5033,
+    "population": 48493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Ross",
+    "region": "Leinster",
+    "lat": 52.3967,
+    "lon": -6.9367,
+    "population": 48475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laytown",
+    "region": "Leinster",
+    "lat": 53.6819,
+    "lon": -6.2392,
+    "population": 48319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moone",
+    "region": "Leinster",
+    "lat": 52.9756,
+    "lon": -6.815,
+    "population": 48249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballymahon",
+    "region": "Leinster",
+    "lat": 53.5667,
+    "lon": -7.7667,
+    "population": 48089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Killybegs",
+    "region": "Ulster",
+    "lat": 54.6333,
+    "lon": -8.45,
+    "population": 47672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maynooth",
+    "region": "Leinster",
+    "lat": 53.385,
+    "lon": -6.5936,
+    "population": 47654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foxford",
+    "region": "Connacht",
+    "lat": 53.9807,
+    "lon": -9.1155,
+    "population": 47632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oughterard",
+    "region": "Connacht",
+    "lat": 53.4167,
+    "lon": -9.3333,
+    "population": 47559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathkeale",
+    "region": "Munster",
+    "lat": 52.5244,
+    "lon": -8.9381,
+    "population": 47418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Croom",
+    "region": "Munster",
+    "lat": 52.5194,
+    "lon": -8.7178,
+    "population": 47275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Confey",
+    "region": "Leinster",
+    "lat": 53.3792,
+    "lon": -6.4905,
+    "population": 47235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandyford",
+    "region": "Leinster",
+    "lat": 53.2747,
+    "lon": -6.2253,
+    "population": 47214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dublin",
+    "region": "Leinster",
+    "lat": 53.3331,
+    "lon": -6.2489,
+    "population": 46999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ardee",
+    "region": "Leinster",
+    "lat": 53.8597,
+    "lon": -6.5406,
+    "population": 46862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newcastle West",
+    "region": "Munster",
+    "lat": 52.4492,
+    "lon": -9.0611,
+    "population": 46862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramelton",
+    "region": "Ulster",
+    "lat": 55.0367,
+    "lon": -7.6492,
+    "population": 46861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clogherhead",
+    "region": "Leinster",
+    "lat": 53.7936,
+    "lon": -6.2375,
+    "population": 46716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naas",
+    "region": "Leinster",
+    "lat": 53.2158,
+    "lon": -6.6669,
+    "population": 46555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milltown",
+    "region": "Leinster",
+    "lat": 53.313,
+    "lon": -6.2453,
+    "population": 46542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loch Garman",
+    "region": "Leinster",
+    "lat": 52.5,
+    "lon": -6.6667,
+    "population": 46536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prosperous",
+    "region": "Leinster",
+    "lat": 53.2903,
+    "lon": -6.7539,
+    "population": 46483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballinroad",
+    "region": "Leinster",
+    "lat": 52.5179,
+    "lon": -6.4062,
+    "population": 46390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galway City",
+    "region": "Connacht",
+    "lat": 53.2877,
+    "lon": -9.05,
+    "population": 46361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swinford",
+    "region": "Connacht",
+    "lat": 53.95,
+    "lon": -8.95,
+    "population": 45904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterford",
+    "region": "Munster",
+    "lat": 52.2583,
+    "lon": -7.1119,
+    "population": 45855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dromiskin",
+    "region": "Leinster",
+    "lat": 53.9254,
+    "lon": -6.4029,
+    "population": 45697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitchelstown",
+    "region": "Munster",
+    "lat": 52.2658,
+    "lon": -8.2681,
+    "population": 45664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabra",
+    "region": "Leinster",
+    "lat": 53.3669,
+    "lon": -6.2944,
+    "population": 45556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letterkenny",
+    "region": "Ulster",
+    "lat": 54.95,
+    "lon": -7.7333,
+    "population": 45517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athy",
+    "region": "Leinster",
+    "lat": 52.9914,
+    "lon": -6.9803,
+    "population": 45143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terenure",
+    "region": "Leinster",
+    "lat": 53.3097,
+    "lon": -6.2853,
+    "population": 44971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loughrea",
+    "region": "Connacht",
+    "lat": 53.1969,
+    "lon": -8.5669,
+    "population": 44892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thomastown",
+    "region": "Leinster",
+    "lat": 52.5267,
+    "lon": -7.1372,
+    "population": 44707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabinteely",
+    "region": "Leinster",
+    "lat": 53.2697,
+    "lon": -6.1606,
+    "population": 44618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlebridge",
+    "region": "Leinster",
+    "lat": 52.3864,
+    "lon": -6.4494,
+    "population": 44604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trim",
+    "region": "Leinster",
+    "lat": 53.555,
+    "lon": -6.7917,
+    "population": 44601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingscourt",
+    "region": "Ulster",
+    "lat": 53.9081,
+    "lon": -6.8056,
+    "population": 44322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathcoole",
+    "region": "Leinster",
+    "lat": 53.2828,
+    "lon": -6.4728,
+    "population": 44198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monkstown",
+    "region": "Leinster",
+    "lat": 53.2931,
+    "lon": -6.1531,
+    "population": 44165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mountrath",
+    "region": "Leinster",
+    "lat": 52.9989,
+    "lon": -7.4728,
+    "population": 43856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castledermot",
+    "region": "Leinster",
+    "lat": 52.9089,
+    "lon": -6.8422,
+    "population": 43813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newcastle",
+    "region": "Leinster",
+    "lat": 53.3011,
+    "lon": -6.5022,
+    "population": 43284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Firhouse",
+    "region": "Leinster",
+    "lat": 53.2817,
+    "lon": -6.3392,
+    "population": 43186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newtownmountkennedy",
+    "region": "Leinster",
+    "lat": 53.0905,
+    "lon": -6.1115,
+    "population": 43062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rochfortbridge",
+    "region": "Leinster",
+    "lat": 53.4142,
+    "lon": -7.2961,
+    "population": 43003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashbourne",
+    "region": "Leinster",
+    "lat": 53.5116,
+    "lon": -6.3982,
+    "population": 42997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roscommon",
+    "region": "Connacht",
+    "lat": 53.75,
+    "lon": -8.25,
+    "population": 42843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drogheda",
+    "region": "Leinster",
+    "lat": 53.7189,
+    "lon": -6.3478,
+    "population": 42784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Mhí",
+    "region": "Leinster",
+    "lat": 53.6667,
+    "lon": -6.6667,
+    "population": 42539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cavan",
+    "region": "Ulster",
+    "lat": 53.9908,
+    "lon": -7.3606,
+    "population": 42515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greenhills",
+    "region": "Leinster",
+    "lat": 53.3347,
+    "lon": -6.303,
+    "population": 42480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Longfort",
+    "region": "Leinster",
+    "lat": 53.6667,
+    "lon": -7.75,
+    "population": 42443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanturk",
+    "region": "Munster",
+    "lat": 52.1667,
+    "lon": -8.9,
+    "population": 42427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baldoyle",
+    "region": "Leinster",
+    "lat": 53.3997,
+    "lon": -6.1258,
+    "population": 42344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Templeogue",
+    "region": "Leinster",
+    "lat": 53.2953,
+    "lon": -6.3089,
+    "population": 42308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballinrobe",
+    "region": "Connacht",
+    "lat": 53.6333,
+    "lon": -9.2333,
+    "population": 42214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Ros",
+    "region": "Leinster",
+    "lat": 53.5242,
+    "lon": -6.105,
+    "population": 41861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moycullen",
+    "region": "Connacht",
+    "lat": 53.3378,
+    "lon": -9.18,
+    "population": 41854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clondalkin",
+    "region": "Leinster",
+    "lat": 53.3244,
+    "lon": -6.3972,
+    "population": 41722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buncrana",
+    "region": "Ulster",
+    "lat": 55.1333,
+    "lon": -7.45,
+    "population": 41703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiltamagh",
+    "region": "Connacht",
+    "lat": 53.85,
+    "lon": -9,
+    "population": 41538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banagher",
+    "region": "Leinster",
+    "lat": 53.1886,
+    "lon": -7.9867,
+    "population": 41521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilcullen",
+    "region": "Leinster",
+    "lat": 53.1303,
+    "lon": -6.7444,
+    "population": 41464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "County Monaghan",
+    "region": "Ulster",
+    "lat": 54.25,
+    "lon": -7,
+    "population": 41451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Cabhán",
+    "region": "Ulster",
+    "lat": 53.9167,
+    "lon": -7.25,
+    "population": 41375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balrothery",
+    "region": "Leinster",
+    "lat": 53.5883,
+    "lon": -6.1873,
+    "population": 41186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abbeyfeale",
+    "region": "Munster",
+    "lat": 52.3814,
+    "lon": -9.3025,
+    "population": 40626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malahide",
+    "region": "Leinster",
+    "lat": 53.4508,
+    "lon": -6.1544,
+    "population": 40116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashford",
+    "region": "Leinster",
+    "lat": 53.0083,
+    "lon": -6.1114,
+    "population": 40028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dún Laoghaire",
+    "region": "Leinster",
+    "lat": 53.294,
+    "lon": -6.1359,
+    "population": 40023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derry",
+    "region": "Munster",
+    "lat": 51.5867,
+    "lon": -9.0503,
+    "population": 39846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cherry Orchard",
+    "region": "Leinster",
+    "lat": 53.3361,
+    "lon": -6.378,
+    "population": 39811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosslare",
+    "region": "Leinster",
+    "lat": 52.2758,
+    "lon": -6.3844,
+    "population": 39810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blackrock",
+    "region": "Leinster",
+    "lat": 53.3015,
+    "lon": -6.1778,
+    "population": 39733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charlesland",
+    "region": "Leinster",
+    "lat": 53.1277,
+    "lon": -6.0635,
+    "population": 39707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tullyallen",
+    "region": "Leinster",
+    "lat": 53.7361,
+    "lon": -6.4228,
+    "population": 39690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballyfermot",
+    "region": "Leinster",
+    "lat": 53.3428,
+    "lon": -6.3548,
+    "population": 39263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longwood",
+    "region": "Leinster",
+    "lat": 53.4539,
+    "lon": -6.9219,
+    "population": 39263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rialto",
+    "region": "Leinster",
+    "lat": 53.3362,
+    "lon": -6.2972,
+    "population": 39260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castleconnell",
+    "region": "Munster",
+    "lat": 52.7139,
+    "lon": -8.4994,
+    "population": 39210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skibbereen",
+    "region": "Munster",
+    "lat": 51.55,
+    "lon": -9.2667,
+    "population": 39033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Droichead Nua",
+    "region": "Leinster",
+    "lat": 53.1819,
+    "lon": -6.7967,
+    "population": 38988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sligo",
+    "region": "Connacht",
+    "lat": 54.25,
+    "lon": -8.6667,
+    "population": 38736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballina",
+    "region": "Munster",
+    "lat": 52.8078,
+    "lon": -8.4356,
+    "population": 38682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lú",
+    "region": "Leinster",
+    "lat": 53.8333,
+    "lon": -6.5,
+    "population": 38351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castleknock",
+    "region": "Leinster",
+    "lat": 53.3748,
+    "lon": -6.3634,
+    "population": 38123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manorhamilton",
+    "region": "Connacht",
+    "lat": 54.3064,
+    "lon": -8.1761,
+    "population": 38084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballymote",
+    "region": "Connacht",
+    "lat": 54.0833,
+    "lon": -8.5167,
+    "population": 37992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballisodare",
+    "region": "Connacht",
+    "lat": 54.2111,
+    "lon": -8.5086,
+    "population": 37725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thurles",
+    "region": "Munster",
+    "lat": 52.6819,
+    "lon": -7.8022,
+    "population": 37600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilpedder",
+    "region": "Leinster",
+    "lat": 53.1092,
+    "lon": -6.1067,
+    "population": 37586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blarney",
+    "region": "Munster",
+    "lat": 51.9333,
+    "lon": -8.5667,
+    "population": 37498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathdowney",
+    "region": "Leinster",
+    "lat": 52.8547,
+    "lon": -7.5803,
+    "population": 37458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slane",
+    "region": "Leinster",
+    "lat": 53.71,
+    "lon": -6.5433,
+    "population": 37390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilkenny",
+    "region": "Leinster",
+    "lat": 52.5833,
+    "lon": -7.25,
+    "population": 37379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "County Cork",
+    "region": "Munster",
+    "lat": 51.9667,
+    "lon": -8.5833,
+    "population": 37348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cootehill",
+    "region": "Ulster",
+    "lat": 54.0725,
+    "lon": -7.0819,
+    "population": 37312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Collooney",
+    "region": "Connacht",
+    "lat": 54.1833,
+    "lon": -8.5,
+    "population": 37305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laois",
+    "region": "Leinster",
+    "lat": 53,
+    "lon": -7.4,
+    "population": 37282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cork City",
+    "region": "Munster",
+    "lat": 51.8976,
+    "lon": -8.4677,
+    "population": 37268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enfield",
+    "region": "Leinster",
+    "lat": 53.4142,
+    "lon": -6.8323,
+    "population": 37170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coolock",
+    "region": "Leinster",
+    "lat": 53.3887,
+    "lon": -6.2,
+    "population": 36965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferns",
+    "region": "Leinster",
+    "lat": 52.5883,
+    "lon": -6.4997,
+    "population": 36952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jobstown",
+    "region": "Leinster",
+    "lat": 53.2787,
+    "lon": -6.408,
+    "population": 36931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cloyne",
+    "region": "Munster",
+    "lat": 51.8628,
+    "lon": -8.1244,
+    "population": 36886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carlow",
+    "region": "Leinster",
+    "lat": 52.8408,
+    "lon": -6.9261,
+    "population": 36700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballygerry",
+    "region": "Leinster",
+    "lat": 52.2492,
+    "lon": -6.3574,
+    "population": 36625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portmarnock",
+    "region": "Leinster",
+    "lat": 53.4231,
+    "lon": -6.1375,
+    "population": 36515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wicklow",
+    "region": "Leinster",
+    "lat": 53,
+    "lon": -6.4167,
+    "population": 36497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Graiguenamanagh",
+    "region": "Leinster",
+    "lat": 52.5403,
+    "lon": -6.9547,
+    "population": 36390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portumna",
+    "region": "Connacht",
+    "lat": 53.0892,
+    "lon": -8.2189,
+    "population": 36333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newport",
+    "region": "Munster",
+    "lat": 52.7111,
+    "lon": -8.4097,
+    "population": 36188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dublin City",
+    "region": "Leinster",
+    "lat": 53.3551,
+    "lon": -6.2492,
+    "population": 36187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlemartyr",
+    "region": "Munster",
+    "lat": 51.9103,
+    "lon": -8.0539,
+    "population": 35750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donabate",
+    "region": "Leinster",
+    "lat": 53.4872,
+    "lon": -6.1519,
+    "population": 35599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Millstreet",
+    "region": "Munster",
+    "lat": 52.0594,
+    "lon": -9.0603,
+    "population": 35576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stradbally",
+    "region": "Leinster",
+    "lat": 53.0156,
+    "lon": -7.1528,
+    "population": 35528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fethard",
+    "region": "Munster",
+    "lat": 52.4672,
+    "lon": -7.6911,
+    "population": 35465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inishcrone",
+    "region": "Connacht",
+    "lat": 54.2159,
+    "lon": -9.092,
+    "population": 35422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinlough",
+    "region": "Connacht",
+    "lat": 54.45,
+    "lon": -8.2833,
+    "population": 35403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muff",
+    "region": "Ulster",
+    "lat": 55.0667,
+    "lon": -7.2667,
+    "population": 35297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrick-on-Shannon",
+    "region": "Connacht",
+    "lat": 53.9469,
+    "lon": -8.09,
+    "population": 35296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathmines",
+    "region": "Leinster",
+    "lat": 53.3203,
+    "lon": -6.2633,
+    "population": 35260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castletown",
+    "region": "Leinster",
+    "lat": 52.7231,
+    "lon": -6.1894,
+    "population": 35223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abbeyleix",
+    "region": "Leinster",
+    "lat": 52.9133,
+    "lon": -7.3446,
+    "population": 35054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nenagh Bridge",
+    "region": "Munster",
+    "lat": 52.8817,
+    "lon": -8.1958,
+    "population": 34863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuam",
+    "region": "Connacht",
+    "lat": 53.5167,
+    "lon": -8.85,
+    "population": 34820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granard",
+    "region": "Leinster",
+    "lat": 53.7793,
+    "lon": -7.4943,
+    "population": 34712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Navan",
+    "region": "Leinster",
+    "lat": 53.6528,
+    "lon": -6.6814,
+    "population": 34518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Passage West",
+    "region": "Munster",
+    "lat": 51.8739,
+    "lon": -8.3444,
+    "population": 34462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oldbawn",
+    "region": "Leinster",
+    "lat": 53.2756,
+    "lon": -6.3675,
+    "population": 34182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaumont",
+    "region": "Leinster",
+    "lat": 53.3872,
+    "lon": -6.2271,
+    "population": 34152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derrybeg",
+    "region": "Ulster",
+    "lat": 55.0833,
+    "lon": -8.2894,
+    "population": 33975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kentstown",
+    "region": "Leinster",
+    "lat": 53.6275,
+    "lon": -6.5267,
+    "population": 33894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dollymount",
+    "region": "Leinster",
+    "lat": 53.3649,
+    "lon": -6.1803,
+    "population": 33785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valleymount",
+    "region": "Leinster",
+    "lat": 53.1039,
+    "lon": -6.5536,
+    "population": 33710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathnew",
+    "region": "Leinster",
+    "lat": 52.9906,
+    "lon": -6.0853,
+    "population": 33708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilmallock",
+    "region": "Munster",
+    "lat": 52.4,
+    "lon": -8.5772,
+    "population": 33669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lusk",
+    "region": "Leinster",
+    "lat": 53.5274,
+    "lon": -6.1642,
+    "population": 33619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathangan",
+    "region": "Leinster",
+    "lat": 53.2214,
+    "lon": -6.995,
+    "population": 33501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinsale",
+    "region": "Munster",
+    "lat": 51.7075,
+    "lon": -8.5306,
+    "population": 33495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clones",
+    "region": "Ulster",
+    "lat": 54.1833,
+    "lon": -7.2333,
+    "population": 33462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stamullin",
+    "region": "Leinster",
+    "lat": 53.6289,
+    "lon": -6.2683,
+    "population": 33363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrick-on-Suir",
+    "region": "Munster",
+    "lat": 52.3492,
+    "lon": -7.4131,
+    "population": 33359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballyjamesduff",
+    "region": "Ulster",
+    "lat": 53.8653,
+    "lon": -7.2028,
+    "population": 33355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donnybrook",
+    "region": "Leinster",
+    "lat": 53.3137,
+    "lon": -6.2227,
+    "population": 33244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Muileann gCearr",
+    "region": "Leinster",
+    "lat": 53.5333,
+    "lon": -7.35,
+    "population": 33177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilmacanoge",
+    "region": "Leinster",
+    "lat": 53.1672,
+    "lon": -6.1336,
+    "population": 33170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cahir",
+    "region": "Munster",
+    "lat": 52.3769,
+    "lon": -7.9217,
+    "population": 33133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Clár",
+    "region": "Munster",
+    "lat": 52.8333,
+    "lon": -9,
+    "population": 33018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tullow",
+    "region": "Leinster",
+    "lat": 52.8003,
+    "lon": -6.7369,
+    "population": 32977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Howth",
+    "region": "Leinster",
+    "lat": 53.3878,
+    "lon": -6.0653,
+    "population": 32919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballylinan",
+    "region": "Leinster",
+    "lat": 52.945,
+    "lon": -7.0407,
+    "population": 32874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Merrion",
+    "region": "Leinster",
+    "lat": 53.3001,
+    "lon": -6.215,
+    "population": 32776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kells",
+    "region": "Leinster",
+    "lat": 53.7264,
+    "lon": -6.8792,
+    "population": 32607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mooncoin",
+    "region": "Leinster",
+    "lat": 52.2894,
+    "lon": -7.2483,
+    "population": 32419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballybunnion",
+    "region": "Munster",
+    "lat": 52.5111,
+    "lon": -9.671,
+    "population": 32270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlebar",
+    "region": "Connacht",
+    "lat": 53.85,
+    "lon": -9.3,
+    "population": 32060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shannon",
+    "region": "Munster",
+    "lat": 52.7039,
+    "lon": -8.8642,
+    "population": 31852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tobercurry",
+    "region": "Connacht",
+    "lat": 54.05,
+    "lon": -8.7333,
+    "population": 31835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carnew",
+    "region": "Leinster",
+    "lat": 52.7081,
+    "lon": -6.4944,
+    "population": 31586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutton",
+    "region": "Leinster",
+    "lat": 53.3895,
+    "lon": -6.1106,
+    "population": 31551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castleblayney",
+    "region": "Ulster",
+    "lat": 54.1167,
+    "lon": -6.7333,
+    "population": 31493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilcoole",
+    "region": "Leinster",
+    "lat": 53.1028,
+    "lon": -6.065,
+    "population": 31365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nenagh",
+    "region": "Munster",
+    "lat": 52.8619,
+    "lon": -8.1967,
+    "population": 31228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donnycarney",
+    "region": "Leinster",
+    "lat": 53.3735,
+    "lon": -6.2098,
+    "population": 31197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adare",
+    "region": "Munster",
+    "lat": 52.5619,
+    "lon": -8.7956,
+    "population": 31173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skerries",
+    "region": "Leinster",
+    "lat": 53.5828,
+    "lon": -6.1083,
+    "population": 31154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrigtwohill",
+    "region": "Munster",
+    "lat": 51.9083,
+    "lon": -8.2633,
+    "population": 31032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cahersiveen",
+    "region": "Munster",
+    "lat": 51.9486,
+    "lon": -10.2222,
+    "population": 30779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathcormac",
+    "region": "Munster",
+    "lat": 52.0769,
+    "lon": -8.2819,
+    "population": 30716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portlaoise",
+    "region": "Leinster",
+    "lat": 53.0344,
+    "lon": -7.2998,
+    "population": 30703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlerea",
+    "region": "Connacht",
+    "lat": 53.7667,
+    "lon": -8.5,
+    "population": 30502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Killester",
+    "region": "Leinster",
+    "lat": 53.3732,
+    "lon": -6.2043,
+    "population": 30241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciarraí",
+    "region": "Munster",
+    "lat": 52.1667,
+    "lon": -9.75,
+    "population": 29955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dungarvan",
+    "region": "Munster",
+    "lat": 52.0881,
+    "lon": -7.6253,
+    "population": 29926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tallaght",
+    "region": "Leinster",
+    "lat": 53.2859,
+    "lon": -6.3734,
+    "population": 29600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sallins",
+    "region": "Leinster",
+    "lat": 53.2489,
+    "lon": -6.6661,
+    "population": 29408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cork",
+    "region": "Munster",
+    "lat": 51.898,
+    "lon": -8.4706,
+    "population": 29357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moyross",
+    "region": "Munster",
+    "lat": 52.682,
+    "lon": -8.6395,
+    "population": 29240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drumcondra",
+    "region": "Leinster",
+    "lat": 53.3706,
+    "lon": -6.253,
+    "population": 29225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moate",
+    "region": "Leinster",
+    "lat": 53.3939,
+    "lon": -7.7172,
+    "population": 29116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clonakilty",
+    "region": "Munster",
+    "lat": 51.6231,
+    "lon": -8.8706,
+    "population": 29098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Old Kilcullen",
+    "region": "Leinster",
+    "lat": 53.1064,
+    "lon": -6.7653,
+    "population": 28972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmerstown",
+    "region": "Leinster",
+    "lat": 53.3502,
+    "lon": -6.3778,
+    "population": 28406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leifear",
+    "region": "Ulster",
+    "lat": 54.8319,
+    "lon": -7.4836,
+    "population": 28170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tower",
+    "region": "Munster",
+    "lat": 51.926,
+    "lon": -8.6075,
+    "population": 28158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moroe",
+    "region": "Munster",
+    "lat": 52.6511,
+    "lon": -8.3961,
+    "population": 28069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newtown Trim",
+    "region": "Leinster",
+    "lat": 53.5561,
+    "lon": -6.77,
+    "population": 28042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saggart",
+    "region": "Leinster",
+    "lat": 53.2803,
+    "lon": -6.4444,
+    "population": 27865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cobh",
+    "region": "Munster",
+    "lat": 51.8505,
+    "lon": -8.2948,
+    "population": 27610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dundrum",
+    "region": "Leinster",
+    "lat": 53.2907,
+    "lon": -6.2571,
+    "population": 27504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bantry",
+    "region": "Munster",
+    "lat": 51.6833,
+    "lon": -9.45,
+    "population": 27425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferbane",
+    "region": "Leinster",
+    "lat": 53.2694,
+    "lon": -7.8269,
+    "population": 27366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clara",
+    "region": "Leinster",
+    "lat": 53.3425,
+    "lon": -7.6139,
+    "population": 27359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Listowel",
+    "region": "Munster",
+    "lat": 52.4464,
+    "lon": -9.485,
+    "population": 27341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oldcastle",
+    "region": "Leinster",
+    "lat": 53.7665,
+    "lon": -7.1628,
+    "population": 27264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balally",
+    "region": "Leinster",
+    "lat": 53.275,
+    "lon": -6.2359,
+    "population": 27141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dundalk",
+    "region": "Leinster",
+    "lat": 54,
+    "lon": -6.4167,
+    "population": 27139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilquade",
+    "region": "Leinster",
+    "lat": 53.0974,
+    "lon": -6.0841,
+    "population": 27117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Westport",
+    "region": "Connacht",
+    "lat": 53.8,
+    "lon": -9.5167,
+    "population": 27085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hartstown",
+    "region": "Leinster",
+    "lat": 53.3931,
+    "lon": -6.4269,
+    "population": 26677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dún Laoghaire-Rathdown",
+    "region": "Leinster",
+    "lat": 53.2944,
+    "lon": -6.1349,
+    "population": 26584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunshaughlin",
+    "region": "Leinster",
+    "lat": 53.5125,
+    "lon": -6.54,
+    "population": 26316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monaghan",
+    "region": "Ulster",
+    "lat": 54.25,
+    "lon": -6.9667,
+    "population": 26316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clane",
+    "region": "Leinster",
+    "lat": 53.2914,
+    "lon": -6.6892,
+    "population": 26296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fairview",
+    "region": "Leinster",
+    "lat": 53.366,
+    "lon": -6.2398,
+    "population": 26205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinnegad",
+    "region": "Leinster",
+    "lat": 53.4522,
+    "lon": -7.0997,
+    "population": 26188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunboyne",
+    "region": "Leinster",
+    "lat": 53.419,
+    "lon": -6.4737,
+    "population": 26153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loughlinstown",
+    "region": "Leinster",
+    "lat": 53.2439,
+    "lon": -6.1331,
+    "population": 25941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrigaline",
+    "region": "Munster",
+    "lat": 51.8117,
+    "lon": -8.3986,
+    "population": 25893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knocklyon",
+    "region": "Leinster",
+    "lat": 53.2803,
+    "lon": -6.3313,
+    "population": 25871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballinteer",
+    "region": "Leinster",
+    "lat": 53.2741,
+    "lon": -6.254,
+    "population": 25740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Iarmhí",
+    "region": "Leinster",
+    "lat": 53.5,
+    "lon": -7.5,
+    "population": 25697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luimneach",
+    "region": "Munster",
+    "lat": 52.6647,
+    "lon": -8.6231,
+    "population": 25602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cherryville",
+    "region": "Leinster",
+    "lat": 53.1569,
+    "lon": -6.9667,
+    "population": 25562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portraine",
+    "region": "Leinster",
+    "lat": 53.4967,
+    "lon": -6.1111,
+    "population": 25429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandymount",
+    "region": "Leinster",
+    "lat": 53.3282,
+    "lon": -6.2222,
+    "population": 25396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askeaton",
+    "region": "Munster",
+    "lat": 52.5997,
+    "lon": -8.9756,
+    "population": 25277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uíbh Fhailí",
+    "region": "Leinster",
+    "lat": 53.25,
+    "lon": -7.5,
+    "population": 25202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bundoran",
+    "region": "Ulster",
+    "lat": 54.4778,
+    "lon": -8.2809,
+    "population": 25130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derrinturn",
+    "region": "Leinster",
+    "lat": 53.3417,
+    "lon": -6.9411,
+    "population": 24863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Termonfeckin",
+    "region": "Leinster",
+    "lat": 53.7633,
+    "lon": -6.2678,
+    "population": 24755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunmore East",
+    "region": "Munster",
+    "lat": 52.1511,
+    "lon": -6.9987,
+    "population": 24593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorey",
+    "region": "Leinster",
+    "lat": 52.6747,
+    "lon": -6.2925,
+    "population": 24537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Callan",
+    "region": "Leinster",
+    "lat": 52.545,
+    "lon": -7.3911,
+    "population": 24465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strandhill",
+    "region": "Connacht",
+    "lat": 54.2719,
+    "lon": -8.5933,
+    "population": 24464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aughrim",
+    "region": "Leinster",
+    "lat": 52.8533,
+    "lon": -6.3275,
+    "population": 24245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baltinglass",
+    "region": "Leinster",
+    "lat": 52.9372,
+    "lon": -6.7092,
+    "population": 24241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Finglas",
+    "region": "Leinster",
+    "lat": 53.3892,
+    "lon": -6.2969,
+    "population": 24104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "County Galway",
+    "region": "Connacht",
+    "lat": 53.3333,
+    "lon": -9,
+    "population": 23787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ardnacrusha",
+    "region": "Munster",
+    "lat": 52.7091,
+    "lon": -8.6143,
+    "population": 23765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artane",
+    "region": "Leinster",
+    "lat": 53.3871,
+    "lon": -6.2138,
+    "population": 23718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marino",
+    "region": "Leinster",
+    "lat": 53.3702,
+    "lon": -6.2365,
+    "population": 23657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darndale",
+    "region": "Leinster",
+    "lat": 53.3995,
+    "lon": -6.1889,
+    "population": 23631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crumlin",
+    "region": "Leinster",
+    "lat": 53.3215,
+    "lon": -6.3144,
+    "population": 23624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Celbridge",
+    "region": "Leinster",
+    "lat": 53.3417,
+    "lon": -6.5442,
+    "population": 23562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macroom",
+    "region": "Munster",
+    "lat": 51.9066,
+    "lon": -8.9697,
+    "population": 23290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tipperary",
+    "region": "Munster",
+    "lat": 52.4733,
+    "lon": -8.1558,
+    "population": 23265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birr",
+    "region": "Leinster",
+    "lat": 53.0914,
+    "lon": -7.9133,
+    "population": 22886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eadestown",
+    "region": "Leinster",
+    "lat": 53.2028,
+    "lon": -6.5781,
+    "population": 22799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bearna",
+    "region": "Connacht",
+    "lat": 53.2519,
+    "lon": -9.1497,
+    "population": 22742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringsend",
+    "region": "Leinster",
+    "lat": 53.3419,
+    "lon": -6.2264,
+    "population": 22721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edgeworthstown",
+    "region": "Leinster",
+    "lat": 53.7,
+    "lon": -7.6167,
+    "population": 22705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raheny",
+    "region": "Leinster",
+    "lat": 53.3868,
+    "lon": -6.1807,
+    "population": 22668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swords",
+    "region": "Leinster",
+    "lat": 53.4597,
+    "lon": -6.2181,
+    "population": 22516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunleer",
+    "region": "Leinster",
+    "lat": 53.835,
+    "lon": -6.3961,
+    "population": 22458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ráth Luirc",
+    "region": "Munster",
+    "lat": 52.35,
+    "lon": -8.6833,
+    "population": 22396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watergrasshill",
+    "region": "Munster",
+    "lat": 52.0114,
+    "lon": -8.3442,
+    "population": 22392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mountmellick",
+    "region": "Leinster",
+    "lat": 53.1136,
+    "lon": -7.32,
+    "population": 22391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballivor",
+    "region": "Leinster",
+    "lat": 53.5317,
+    "lon": -6.9611,
+    "population": 22179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sixmilebridge",
+    "region": "Munster",
+    "lat": 52.7414,
+    "lon": -8.7742,
+    "population": 22011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sallynoggin",
+    "region": "Leinster",
+    "lat": 53.2792,
+    "lon": -6.1406,
+    "population": 21968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clonskeagh",
+    "region": "Leinster",
+    "lat": 53.3147,
+    "lon": -6.2315,
+    "population": 21861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Booterstown",
+    "region": "Leinster",
+    "lat": 53.3045,
+    "lon": -6.1998,
+    "population": 21778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunmanway",
+    "region": "Munster",
+    "lat": 51.7167,
+    "lon": -9.1167,
+    "population": 21724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oranmore",
+    "region": "Connacht",
+    "lat": 53.2683,
+    "lon": -8.92,
+    "population": 21715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clifden",
+    "region": "Connacht",
+    "lat": 53.4891,
+    "lon": -10.0191,
+    "population": 21696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bailieborough",
+    "region": "Ulster",
+    "lat": 53.9167,
+    "lon": -6.9667,
+    "population": 21646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathwire",
+    "region": "Leinster",
+    "lat": 53.5077,
+    "lon": -7.1351,
+    "population": 21569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Claregalway",
+    "region": "Connacht",
+    "lat": 53.3386,
+    "lon": -8.945,
+    "population": 21461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlebellingham",
+    "region": "Leinster",
+    "lat": 53.9008,
+    "lon": -6.3903,
+    "population": 21264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moville",
+    "region": "Ulster",
+    "lat": 55.1915,
+    "lon": -7.0387,
+    "population": 21225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilcock",
+    "region": "Leinster",
+    "lat": 53.4022,
+    "lon": -6.6708,
+    "population": 21039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duleek",
+    "region": "Leinster",
+    "lat": 53.6567,
+    "lon": -6.4192,
+    "population": 20969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caherconlish",
+    "region": "Munster",
+    "lat": 52.5936,
+    "lon": -8.4703,
+    "population": 20875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leixlip",
+    "region": "Leinster",
+    "lat": 53.3658,
+    "lon": -6.4956,
+    "population": 20862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Templemore",
+    "region": "Munster",
+    "lat": 52.7947,
+    "lon": -7.8339,
+    "population": 20755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballina",
+    "region": "Connacht",
+    "lat": 54.1167,
+    "lon": -9.1667,
+    "population": 20620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bray",
+    "region": "Leinster",
+    "lat": 53.2028,
+    "lon": -6.0983,
+    "population": 20600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tralee",
+    "region": "Munster",
+    "lat": 52.2704,
+    "lon": -9.7026,
+    "population": 20486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballyconnell",
+    "region": "Ulster",
+    "lat": 54.1167,
+    "lon": -7.5833,
+    "population": 20468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donegal",
+    "region": "Ulster",
+    "lat": 54.6538,
+    "lon": -8.1113,
+    "population": 20404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gweedore",
+    "region": "Ulster",
+    "lat": 55.0503,
+    "lon": -8.2319,
+    "population": 20358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greystones",
+    "region": "Leinster",
+    "lat": 53.1408,
+    "lon": -6.0631,
+    "population": 20203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayo County",
+    "region": "Connacht",
+    "lat": 53.9,
+    "lon": -9.25,
+    "population": 19736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daingean",
+    "region": "Leinster",
+    "lat": 53.2961,
+    "lon": -7.2894,
+    "population": 19623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mullagh",
+    "region": "Ulster",
+    "lat": 53.8131,
+    "lon": -6.9514,
+    "population": 19209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinsealy-Drinan",
+    "region": "Leinster",
+    "lat": 53.444,
+    "lon": -6.2033,
+    "population": 19106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cluain Meala",
+    "region": "Munster",
+    "lat": 52.355,
+    "lon": -7.7039,
+    "population": 19024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longford",
+    "region": "Leinster",
+    "lat": 53.7254,
+    "lon": -7.7982,
+    "population": 18884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fingal County",
+    "region": "Leinster",
+    "lat": 53.4591,
+    "lon": -6.2194,
+    "population": 18842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballinasloe",
+    "region": "Connacht",
+    "lat": 53.3275,
+    "lon": -8.2194,
+    "population": 18802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athboy",
+    "region": "Leinster",
+    "lat": 53.6233,
+    "lon": -6.9143,
+    "population": 18680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlepollard",
+    "region": "Leinster",
+    "lat": 53.6793,
+    "lon": -7.2974,
+    "population": 18606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enniscorthy",
+    "region": "Leinster",
+    "lat": 52.5008,
+    "lon": -6.5578,
+    "population": 18572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johnstown",
+    "region": "Leinster",
+    "lat": 53.2383,
+    "lon": -6.6222,
+    "population": 18572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "County Carlow",
+    "region": "Leinster",
+    "lat": 52.6667,
+    "lon": -6.8333,
+    "population": 18489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Killorglin",
+    "region": "Munster",
+    "lat": 52.1,
+    "lon": -9.7833,
+    "population": 18289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Annacotty",
+    "region": "Munster",
+    "lat": 52.6677,
+    "lon": -8.5312,
+    "population": 18268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tullamore",
+    "region": "Leinster",
+    "lat": 53.2739,
+    "lon": -7.4889,
+    "population": 17934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Killumney",
+    "region": "Munster",
+    "lat": 51.8724,
+    "lon": -8.6478,
+    "population": 17863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portarlington",
+    "region": "Leinster",
+    "lat": 53.1622,
+    "lon": -7.1911,
+    "population": 17715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayside",
+    "region": "Leinster",
+    "lat": 53.389,
+    "lon": -6.1404,
+    "population": 17605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enniskerry",
+    "region": "Leinster",
+    "lat": 53.1925,
+    "lon": -6.1692,
+    "population": 17302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanesborough",
+    "region": "Leinster",
+    "lat": 53.6667,
+    "lon": -7.9833,
+    "population": 17222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunlewy",
+    "region": "Ulster",
+    "lat": 55.0167,
+    "lon": -8.1,
+    "population": 17177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newtown Cunningham",
+    "region": "Ulster",
+    "lat": 54.9964,
+    "lon": -7.5192,
+    "population": 17176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballyhaunis",
+    "region": "Connacht",
+    "lat": 53.7667,
+    "lon": -8.7667,
+    "population": 17067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballyshannon",
+    "region": "Ulster",
+    "lat": 54.5,
+    "lon": -8.1833,
+    "population": 16998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ratoath",
+    "region": "Leinster",
+    "lat": 53.5081,
+    "lon": -6.4625,
+    "population": 16846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucan",
+    "region": "Leinster",
+    "lat": 53.3574,
+    "lon": -6.4486,
+    "population": 16724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathdrum",
+    "region": "Leinster",
+    "lat": 52.9264,
+    "lon": -6.2356,
+    "population": 16589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Dublin",
+    "region": "Leinster",
+    "lat": 53.2859,
+    "lon": -6.3774,
+    "population": 16572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castlecomer",
+    "region": "Leinster",
+    "lat": 52.8061,
+    "lon": -7.2106,
+    "population": 16556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandon",
+    "region": "Munster",
+    "lat": 51.7469,
+    "lon": -8.7425,
+    "population": 16224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balbriggan",
+    "region": "Leinster",
+    "lat": 53.6085,
+    "lon": -6.1831,
+    "population": 16184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glasnevin",
+    "region": "Leinster",
+    "lat": 53.3785,
+    "lon": -6.2803,
+    "population": 16173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carndonagh",
+    "region": "Ulster",
+    "lat": 55.25,
+    "lon": -7.2667,
+    "population": 16065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Courtown",
+    "region": "Leinster",
+    "lat": 52.6442,
+    "lon": -6.229,
+    "population": 16063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carlingford",
+    "region": "Leinster",
+    "lat": 54.04,
+    "lon": -6.1883,
+    "population": 16040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edenderry",
+    "region": "Leinster",
+    "lat": 53.3395,
+    "lon": -7.0475,
+    "population": 16019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Killaloe",
+    "region": "Munster",
+    "lat": 52.8067,
+    "lon": -8.4436,
+    "population": 15929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rathgar",
+    "region": "Leinster",
+    "lat": 53.3146,
+    "lon": -6.275,
+    "population": 15846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballymun",
+    "region": "Leinster",
+    "lat": 53.3981,
+    "lon": -6.2669,
+    "population": 15843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Claremorris",
+    "region": "Connacht",
+    "lat": 53.7167,
+    "lon": -9,
+    "population": 15825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monasterevin",
+    "region": "Leinster",
+    "lat": 53.1406,
+    "lon": -7.0664,
+    "population": 15594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newmarket on Fergus",
+    "region": "Munster",
+    "lat": 52.76,
+    "lon": -8.8956,
+    "population": 15491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilrush",
+    "region": "Munster",
+    "lat": 52.6397,
+    "lon": -9.4833,
+    "population": 15407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blessington",
+    "region": "Leinster",
+    "lat": 53.17,
+    "lon": -6.5325,
+    "population": 15348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballyragget",
+    "region": "Leinster",
+    "lat": 52.7889,
+    "lon": -7.3303,
+    "population": 15336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghada",
+    "region": "Munster",
+    "lat": 51.8392,
+    "lon": -8.2122,
+    "population": 15231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballaghaderreen",
+    "region": "Connacht",
+    "lat": 53.9,
+    "lon": -8.5833,
+    "population": 15191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kildare",
+    "region": "Leinster",
+    "lat": 53.1667,
+    "lon": -6.75,
+    "population": 14984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kill",
+    "region": "Leinster",
+    "lat": 53.2514,
+    "lon": -6.5917,
+    "population": 14935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blanchardstown",
+    "region": "Leinster",
+    "lat": 53.3881,
+    "lon": -6.3756,
+    "population": 14898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "County Tipperary",
+    "region": "Munster",
+    "lat": 52.6667,
+    "lon": -7.8333,
+    "population": 14530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrickmacross",
+    "region": "Ulster",
+    "lat": 53.9728,
+    "lon": -6.7189,
+    "population": 14469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arklow",
+    "region": "Leinster",
+    "lat": 52.7931,
+    "lon": -6.1414,
+    "population": 14269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cashel",
+    "region": "Munster",
+    "lat": 52.5158,
+    "lon": -7.8856,
+    "population": 14240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "County Donegal",
+    "region": "Ulster",
+    "lat": 54.9167,
+    "lon": -8,
+    "population": 14192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shankill",
+    "region": "Leinster",
+    "lat": 53.2261,
+    "lon": -6.1244,
+    "population": 14172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gort",
+    "region": "Connacht",
+    "lat": 53.0664,
+    "lon": -8.8167,
+    "population": 13879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Little Bray",
+    "region": "Leinster",
+    "lat": 53.2044,
+    "lon": -6.1208,
+    "population": 13852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaillimh",
+    "region": "Connacht",
+    "lat": 53.2719,
+    "lon": -9.0489,
+    "population": 13615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "County Leitrim",
+    "region": "Connacht",
+    "lat": 54.1167,
+    "lon": -8,
+    "population": 13464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fermoy",
+    "region": "Munster",
+    "lat": 52.1358,
+    "lon": -8.2758,
+    "population": 13077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roscrea",
+    "region": "Munster",
+    "lat": 52.9511,
+    "lon": -7.8017,
+    "population": 12981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castleisland",
+    "region": "Munster",
+    "lat": 52.2333,
+    "lon": -9.4667,
+    "population": 12964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crosshaven",
+    "region": "Munster",
+    "lat": 51.7983,
+    "lon": -8.3008,
+    "population": 12950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portlaw",
+    "region": "Munster",
+    "lat": 52.2883,
+    "lon": -7.3206,
+    "population": 12706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonnybrook",
+    "region": "Leinster",
+    "lat": 53.3984,
+    "lon": -6.2075,
+    "population": 12569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piltown",
+    "region": "Leinster",
+    "lat": 52.3533,
+    "lon": -7.3403,
+    "population": 12500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingle",
+    "region": "Munster",
+    "lat": 52.1408,
+    "lon": -10.2689,
+    "population": 12386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virginia",
+    "region": "Ulster",
+    "lat": 53.8339,
+    "lon": -7.0756,
+    "population": 12125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belmullet",
+    "region": "Connacht",
+    "lat": 54.225,
+    "lon": -9.9908,
+    "population": 11932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whitegate",
+    "region": "Munster",
+    "lat": 51.8306,
+    "lon": -8.2297,
+    "population": 11806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballyboden",
+    "region": "Leinster",
+    "lat": 53.2806,
+    "lon": -6.3164,
+    "population": 11686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dungloe",
+    "region": "Ulster",
+    "lat": 54.9511,
+    "lon": -8.3592,
+    "population": 11579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagenalstown",
+    "region": "Leinster",
+    "lat": 52.7003,
+    "lon": -6.9618,
+    "population": 11275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foxrock",
+    "region": "Leinster",
+    "lat": 53.2667,
+    "lon": -6.1742,
+    "population": 11259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ennis",
+    "region": "Munster",
+    "lat": 52.8436,
+    "lon": -8.9864,
+    "population": 11135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trá Mhór",
+    "region": "Munster",
+    "lat": 52.1624,
+    "lon": -7.1524,
+    "population": 11086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalkey",
+    "region": "Leinster",
+    "lat": 53.2783,
+    "lon": -6.1003,
+    "population": 10922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midleton",
+    "region": "Munster",
+    "lat": 51.9153,
+    "lon": -8.1805,
+    "population": 10905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athlone",
+    "region": "Leinster",
+    "lat": 53.4333,
+    "lon": -7.95,
+    "population": 10895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donaghmede",
+    "region": "Leinster",
+    "lat": 53.3984,
+    "lon": -6.1618,
+    "population": 10760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raphoe",
+    "region": "Ulster",
+    "lat": 54.8747,
+    "lon": -7.5983,
+    "population": 10604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kenmare",
+    "region": "Munster",
+    "lat": 51.8833,
+    "lon": -9.5833,
+    "population": 10569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chapelizod",
+    "region": "Leinster",
+    "lat": 53.3485,
+    "lon": -6.343,
+    "population": 10354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Convoy",
+    "region": "Ulster",
+    "lat": 54.8608,
+    "lon": -7.6656,
+    "population": 10159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cill Airne",
+    "region": "Munster",
+    "lat": 52.0598,
+    "lon": -9.5086,
+    "population": 10037,
+    "timezone": "UTC"
+  }
+]

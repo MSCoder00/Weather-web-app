@@ -1,0 +1,3218 @@
+[
+  {
+    "name": "Liperi",
+    "region": "North Karelia",
+    "lat": 62.5333,
+    "lon": 29.3667,
+    "population": 49943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suolahti",
+    "region": "Central Finland",
+    "lat": 62.5642,
+    "lon": 25.8536,
+    "population": 49904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaustinen",
+    "region": "Central Ostrobothnia",
+    "lat": 63.5488,
+    "lon": 23.6884,
+    "population": 49889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malax",
+    "region": "Ostrobothnia",
+    "lat": 62.9423,
+    "lon": 21.5731,
+    "population": 49837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pargas",
+    "region": "Finland Proper",
+    "lat": 60.3067,
+    "lon": 22.301,
+    "population": 49632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lahti",
+    "region": "Päijänne Tavastia",
+    "lat": 60.9827,
+    "lon": 25.6615,
+    "population": 49475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oulainen",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.2667,
+    "lon": 24.8,
+    "population": 49371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laitila",
+    "region": "Finland Proper",
+    "lat": 60.8757,
+    "lon": 21.6976,
+    "population": 49363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Multia",
+    "region": "Central Finland",
+    "lat": 62.4167,
+    "lon": 24.7833,
+    "population": 49338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaavi",
+    "region": "Pirkanmaa",
+    "lat": 62.9833,
+    "lon": 28.5,
+    "population": 49293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sodankylä",
+    "region": "Lapland",
+    "lat": 67.4167,
+    "lon": 26.6,
+    "population": 49034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ylikiiminki",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.0833,
+    "lon": 26.25,
+    "population": 49006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lestijärvi",
+    "region": "Central Ostrobothnia",
+    "lat": 63.5333,
+    "lon": 24.65,
+    "population": 48572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joutsa",
+    "region": "Central Finland",
+    "lat": 61.7333,
+    "lon": 26.1167,
+    "population": 48557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keuruu",
+    "region": "Central Finland",
+    "lat": 62.2667,
+    "lon": 24.7,
+    "population": 48527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iniö",
+    "region": "Finland Proper",
+    "lat": 60.4,
+    "lon": 21.4,
+    "population": 48366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iisalmi",
+    "region": "Pirkanmaa",
+    "lat": 63.5592,
+    "lon": 27.1907,
+    "population": 48336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virojoki",
+    "region": "Kymenlaakso",
+    "lat": 60.5794,
+    "lon": 27.7035,
+    "population": 48131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vampula",
+    "region": "Satakunta",
+    "lat": 61.0167,
+    "lon": 22.7,
+    "population": 47853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naantali",
+    "region": "Finland Proper",
+    "lat": 60.4674,
+    "lon": 22.0243,
+    "population": 47830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punkaharju",
+    "region": "Southern Savonia",
+    "lat": 61.7588,
+    "lon": 29.3884,
+    "population": 47632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varpaisjärvi",
+    "region": "Pirkanmaa",
+    "lat": 63.3593,
+    "lon": 27.7551,
+    "population": 47617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuortane",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.8,
+    "lon": 23.5,
+    "population": 47565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Posio",
+    "region": "Lapland",
+    "lat": 66.1086,
+    "lon": 28.1719,
+    "population": 47538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Köyliö",
+    "region": "Satakunta",
+    "lat": 61.1191,
+    "lon": 22.3098,
+    "population": 47454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pomarkku",
+    "region": "Satakunta",
+    "lat": 61.6935,
+    "lon": 22.0086,
+    "population": 47322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangaslampi",
+    "region": "Pirkanmaa",
+    "lat": 62.2956,
+    "lon": 28.2529,
+    "population": 46909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karjalohja",
+    "region": "Uusimaa",
+    "lat": 60.2401,
+    "lon": 23.7179,
+    "population": 46900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eurajoki",
+    "region": "Satakunta",
+    "lat": 61.2,
+    "lon": 21.7333,
+    "population": 46768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huittinen",
+    "region": "Satakunta",
+    "lat": 61.1833,
+    "lon": 22.7,
+    "population": 46755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilo",
+    "region": "Uusimaa",
+    "lat": 60.2175,
+    "lon": 24.7815,
+    "population": 46656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korsnäs",
+    "region": "Ostrobothnia",
+    "lat": 62.7833,
+    "lon": 21.2,
+    "population": 46557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harjavalta",
+    "region": "Satakunta",
+    "lat": 61.3167,
+    "lon": 22.1333,
+    "population": 46538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suomusjärvi",
+    "region": "Finland Proper",
+    "lat": 60.35,
+    "lon": 23.65,
+    "population": 46536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kauhava",
+    "region": "Southern Ostrobothnia",
+    "lat": 63.103,
+    "lon": 23.0713,
+    "population": 46413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kärkölä",
+    "region": "Uusimaa",
+    "lat": 60.6129,
+    "lon": 23.942,
+    "population": 46364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jämsänkoski",
+    "region": "Central Finland",
+    "lat": 61.919,
+    "lon": 25.1701,
+    "population": 46351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inari",
+    "region": "Lapland",
+    "lat": 68.906,
+    "lon": 27.0288,
+    "population": 46340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hollola",
+    "region": "Päijänne Tavastia",
+    "lat": 61.05,
+    "lon": 25.4333,
+    "population": 46308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heinola",
+    "region": "Päijänne Tavastia",
+    "lat": 61.2056,
+    "lon": 26.0381,
+    "population": 46264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyhäjärvi",
+    "region": "Northern Ostrobothnia",
+    "lat": 63.6667,
+    "lon": 25.9,
+    "population": 46248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyrynsalmi",
+    "region": "Kainuu",
+    "lat": 64.6667,
+    "lon": 28.5333,
+    "population": 46238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evijärvi",
+    "region": "Southern Ostrobothnia",
+    "lat": 63.3667,
+    "lon": 23.4833,
+    "population": 46198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pulkkila",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.2667,
+    "lon": 25.8667,
+    "population": 45932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibbo",
+    "region": "Uusimaa",
+    "lat": 60.3775,
+    "lon": 25.2691,
+    "population": 45881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitee",
+    "region": "North Karelia",
+    "lat": 62.1,
+    "lon": 30.15,
+    "population": 45857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myrskylä",
+    "region": "Uusimaa",
+    "lat": 60.6696,
+    "lon": 25.8475,
+    "population": 45774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tervo",
+    "region": "Pirkanmaa",
+    "lat": 62.95,
+    "lon": 26.75,
+    "population": 45497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oulunsalo",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.9346,
+    "lon": 25.4112,
+    "population": 45226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pernå",
+    "region": "Uusimaa",
+    "lat": 60.4487,
+    "lon": 26.0319,
+    "population": 45170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ähtäri",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.554,
+    "lon": 24.0619,
+    "population": 44791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyhäjärvi",
+    "region": "Lapland",
+    "lat": 67.0701,
+    "lon": 27.2176,
+    "population": 44700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hauho",
+    "region": "Tavastia Proper",
+    "lat": 61.1726,
+    "lon": 24.563,
+    "population": 44644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiiminki",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.1314,
+    "lon": 25.7974,
+    "population": 44505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luvia",
+    "region": "Satakunta",
+    "lat": 61.3638,
+    "lon": 21.6256,
+    "population": 44400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larsmo",
+    "region": "Ostrobothnia",
+    "lat": 63.7539,
+    "lon": 22.7473,
+    "population": 44316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laukaa",
+    "region": "Central Finland",
+    "lat": 62.4141,
+    "lon": 25.9519,
+    "population": 44281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rantasalmi",
+    "region": "Southern Savonia",
+    "lat": 62.0667,
+    "lon": 28.3,
+    "population": 44257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nurmijärvi",
+    "region": "Uusimaa",
+    "lat": 60.4641,
+    "lon": 24.8073,
+    "population": 44100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siikajoki",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.8145,
+    "lon": 24.7592,
+    "population": 44024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toholampi",
+    "region": "Central Ostrobothnia",
+    "lat": 63.7667,
+    "lon": 24.25,
+    "population": 44004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumijoki",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.8374,
+    "lon": 25.1861,
+    "population": 43852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonkajärvi",
+    "region": "Pirkanmaa",
+    "lat": 63.6667,
+    "lon": 27.5167,
+    "population": 43789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uurainen",
+    "region": "Central Finland",
+    "lat": 62.5,
+    "lon": 25.45,
+    "population": 43692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salo",
+    "region": "Finland Proper",
+    "lat": 60.3833,
+    "lon": 23.1333,
+    "population": 43271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taivalkoski",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.5667,
+    "lon": 28.25,
+    "population": 43262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimito",
+    "region": "Finland Proper",
+    "lat": 60.1605,
+    "lon": 22.729,
+    "population": 43065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pylkönmäki",
+    "region": "Central Finland",
+    "lat": 62.6667,
+    "lon": 24.8,
+    "population": 43047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rymättylä",
+    "region": "Finland Proper",
+    "lat": 60.3766,
+    "lon": 21.9418,
+    "population": 43013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyhäntä",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.1,
+    "lon": 26.3167,
+    "population": 42962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paltamo",
+    "region": "Kainuu",
+    "lat": 64.4167,
+    "lon": 27.8333,
+    "population": 42933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raahe",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.6833,
+    "lon": 24.4833,
+    "population": 42903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nurmo",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.8287,
+    "lon": 22.9099,
+    "population": 42846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pudasjärvi",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.3833,
+    "lon": 26.9167,
+    "population": 42748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kontiolahti",
+    "region": "North Karelia",
+    "lat": 62.7602,
+    "lon": 29.8471,
+    "population": 42683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaskinen",
+    "region": "Ostrobothnia",
+    "lat": 62.3844,
+    "lon": 21.2233,
+    "population": 42654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vuolijoki",
+    "region": "Kainuu",
+    "lat": 64.1854,
+    "lon": 26.9955,
+    "population": 42647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nousiainen",
+    "region": "Finland Proper",
+    "lat": 60.6042,
+    "lon": 22.0793,
+    "population": 42603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisko",
+    "region": "Finland Proper",
+    "lat": 60.2333,
+    "lon": 23.4833,
+    "population": 42350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saarijärvi",
+    "region": "Central Finland",
+    "lat": 62.7049,
+    "lon": 25.254,
+    "population": 42261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raaseporin",
+    "region": "Uusimaa",
+    "lat": 60.0027,
+    "lon": 23.555,
+    "population": 41946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lappajärvi",
+    "region": "Southern Ostrobothnia",
+    "lat": 63.2,
+    "lon": 23.6333,
+    "population": 41940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isokyrö",
+    "region": "Ostrobothnia",
+    "lat": 63.0117,
+    "lon": 22.3333,
+    "population": 41782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ullava",
+    "region": "Central Ostrobothnia",
+    "lat": 63.6,
+    "lon": 24.0833,
+    "population": 41772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyvinge",
+    "region": "Uusimaa",
+    "lat": 60.6333,
+    "lon": 24.8667,
+    "population": 41760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asikkala",
+    "region": "Päijänne Tavastia",
+    "lat": 61.2167,
+    "lon": 25.5,
+    "population": 41742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kouvola",
+    "region": "Kymenlaakso",
+    "lat": 60.8667,
+    "lon": 26.7,
+    "population": 41711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lappeenranta",
+    "region": "South Karelia",
+    "lat": 61.0587,
+    "lon": 28.1887,
+    "population": 41700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mäntyharju",
+    "region": "Southern Savonia",
+    "lat": 61.4167,
+    "lon": 26.8833,
+    "population": 41697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tornio",
+    "region": "Lapland",
+    "lat": 65.8481,
+    "lon": 24.1466,
+    "population": 41594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rautalampi",
+    "region": "Pirkanmaa",
+    "lat": 62.6333,
+    "lon": 26.8333,
+    "population": 41505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tervakoski",
+    "region": "Tavastia Proper",
+    "lat": 60.8141,
+    "lon": 24.6259,
+    "population": 41502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kristinestad",
+    "region": "Ostrobothnia",
+    "lat": 62.2743,
+    "lon": 21.376,
+    "population": 41397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velkua",
+    "region": "Finland Proper",
+    "lat": 60.4667,
+    "lon": 21.6667,
+    "population": 41321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taipalsaari",
+    "region": "South Karelia",
+    "lat": 61.15,
+    "lon": 28.05,
+    "population": 41175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rovaniemi",
+    "region": "Lapland",
+    "lat": 66.5,
+    "lon": 25.7167,
+    "population": 41091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rauma",
+    "region": "Satakunta",
+    "lat": 61.1272,
+    "lon": 21.5113,
+    "population": 41015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hämeenkoski",
+    "region": "Päijänne Tavastia",
+    "lat": 61.0222,
+    "lon": 25.1542,
+    "population": 40925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vihanti",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.4847,
+    "lon": 24.9916,
+    "population": 40887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luhanka",
+    "region": "Central Finland",
+    "lat": 61.7968,
+    "lon": 25.7046,
+    "population": 40861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vuokatti",
+    "region": "Kainuu",
+    "lat": 64.1447,
+    "lon": 28.282,
+    "population": 40759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Outokumpu",
+    "region": "North Karelia",
+    "lat": 62.7268,
+    "lon": 29.0159,
+    "population": 40708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leivonmäki",
+    "region": "Central Finland",
+    "lat": 61.912,
+    "lon": 26.128,
+    "population": 40698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lapinlahti",
+    "region": "Pirkanmaa",
+    "lat": 63.3667,
+    "lon": 27.4,
+    "population": 40522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyhäranta",
+    "region": "Finland Proper",
+    "lat": 60.95,
+    "lon": 21.45,
+    "population": 40495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ristiina",
+    "region": "Southern Savonia",
+    "lat": 61.5058,
+    "lon": 27.2464,
+    "population": 40435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuusjoki",
+    "region": "Finland Proper",
+    "lat": 60.5167,
+    "lon": 23.2,
+    "population": 40041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kemi",
+    "region": "Lapland",
+    "lat": 65.7364,
+    "lon": 24.5637,
+    "population": 39891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ii",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.3174,
+    "lon": 25.3731,
+    "population": 39747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oripää",
+    "region": "Finland Proper",
+    "lat": 60.85,
+    "lon": 22.6833,
+    "population": 39512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miehikkälä",
+    "region": "Kymenlaakso",
+    "lat": 60.6667,
+    "lon": 27.7,
+    "population": 39417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikkeli",
+    "region": "Southern Savonia",
+    "lat": 61.6886,
+    "lon": 27.2723,
+    "population": 39286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virtasalmi",
+    "region": "Southern Savonia",
+    "lat": 62.127,
+    "lon": 27.4628,
+    "population": 39230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kittilä",
+    "region": "Lapland",
+    "lat": 67.6647,
+    "lon": 24.8936,
+    "population": 39130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askola",
+    "region": "Uusimaa",
+    "lat": 60.5333,
+    "lon": 25.6,
+    "population": 39116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pohja",
+    "region": "Uusimaa",
+    "lat": 60.0963,
+    "lon": 23.5276,
+    "population": 38997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lappi",
+    "region": "Satakunta",
+    "lat": 61.1,
+    "lon": 21.8333,
+    "population": 38772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tammela",
+    "region": "Tavastia Proper",
+    "lat": 60.8103,
+    "lon": 23.7682,
+    "population": 38683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alastaro",
+    "region": "Finland Proper",
+    "lat": 60.95,
+    "lon": 22.85,
+    "population": 38620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muurame",
+    "region": "Central Finland",
+    "lat": 62.1333,
+    "lon": 25.6667,
+    "population": 38521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simo",
+    "region": "Lapland",
+    "lat": 65.6667,
+    "lon": 25.05,
+    "population": 38368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teuva",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.4819,
+    "lon": 21.7416,
+    "population": 38044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalvola",
+    "region": "Tavastia Proper",
+    "lat": 61.1008,
+    "lon": 24.1218,
+    "population": 37887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perho",
+    "region": "Central Ostrobothnia",
+    "lat": 63.2167,
+    "lon": 24.4167,
+    "population": 37759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merijärvi",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.3,
+    "lon": 24.45,
+    "population": 37748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enontekiö",
+    "region": "Lapland",
+    "lat": 68.3857,
+    "lon": 23.6321,
+    "population": 37738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juankoski",
+    "region": "Pirkanmaa",
+    "lat": 63.0667,
+    "lon": 28.35,
+    "population": 37506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keitele",
+    "region": "Pirkanmaa",
+    "lat": 63.1833,
+    "lon": 26.3667,
+    "population": 37480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saari",
+    "region": "South Karelia",
+    "lat": 61.65,
+    "lon": 29.75,
+    "population": 37462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pielavesi",
+    "region": "Pirkanmaa",
+    "lat": 63.2333,
+    "lon": 26.75,
+    "population": 37426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humppila",
+    "region": "Tavastia Proper",
+    "lat": 60.9333,
+    "lon": 23.3667,
+    "population": 37415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Västanfjärd",
+    "region": "Finland Proper",
+    "lat": 60.05,
+    "lon": 22.6833,
+    "population": 37395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rääkkylä",
+    "region": "North Karelia",
+    "lat": 62.3167,
+    "lon": 29.6167,
+    "population": 37279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alajärvi",
+    "region": "Southern Ostrobothnia",
+    "lat": 63,
+    "lon": 23.8167,
+    "population": 37216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kankaanpää",
+    "region": "Satakunta",
+    "lat": 61.8,
+    "lon": 22.4167,
+    "population": 37151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurikka",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.6167,
+    "lon": 22.4167,
+    "population": 36690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piikkiö",
+    "region": "Finland Proper",
+    "lat": 60.4248,
+    "lon": 22.516,
+    "population": 36651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polvijärvi",
+    "region": "North Karelia",
+    "lat": 62.85,
+    "lon": 29.3667,
+    "population": 36580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuusamo",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.9667,
+    "lon": 29.1833,
+    "population": 36524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haapajärvi",
+    "region": "Northern Ostrobothnia",
+    "lat": 63.75,
+    "lon": 25.3333,
+    "population": 36460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juuka",
+    "region": "North Karelia",
+    "lat": 63.2333,
+    "lon": 29.25,
+    "population": 36362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kajaani",
+    "region": "Kainuu",
+    "lat": 64.2273,
+    "lon": 27.7285,
+    "population": 36308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karhula",
+    "region": "Kymenlaakso",
+    "lat": 60.5216,
+    "lon": 26.9312,
+    "population": 36276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siuntio",
+    "region": "Uusimaa",
+    "lat": 60.1386,
+    "lon": 24.2272,
+    "population": 36048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Säkylä",
+    "region": "Satakunta",
+    "lat": 61.0333,
+    "lon": 22.3333,
+    "population": 36043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enonkoski",
+    "region": "Southern Savonia",
+    "lat": 62.0833,
+    "lon": 28.9333,
+    "population": 36040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sauvo",
+    "region": "Finland Proper",
+    "lat": 60.3431,
+    "lon": 22.6964,
+    "population": 35910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merikarvia",
+    "region": "Satakunta",
+    "lat": 61.8584,
+    "lon": 21.5004,
+    "population": 35906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muonio",
+    "region": "Lapland",
+    "lat": 67.95,
+    "lon": 23.7,
+    "population": 35875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jakobstad",
+    "region": "Ostrobothnia",
+    "lat": 63.6749,
+    "lon": 22.7026,
+    "population": 35845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merimasku",
+    "region": "Finland Proper",
+    "lat": 60.4833,
+    "lon": 21.8667,
+    "population": 35259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seinäjoki",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.7945,
+    "lon": 22.8282,
+    "population": 35189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alavus",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.5833,
+    "lon": 23.6167,
+    "population": 35172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Himanka",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.0622,
+    "lon": 23.6545,
+    "population": 35151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joroinen",
+    "region": "Southern Savonia",
+    "lat": 62.1782,
+    "lon": 27.8316,
+    "population": 35105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nivala",
+    "region": "Northern Ostrobothnia",
+    "lat": 63.9167,
+    "lon": 24.9667,
+    "population": 35074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tyrnävä",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.7647,
+    "lon": 25.6523,
+    "population": 35033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joensuu",
+    "region": "North Karelia",
+    "lat": 62.6012,
+    "lon": 29.7632,
+    "population": 34959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kempele",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.9131,
+    "lon": 25.5034,
+    "population": 34769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karis",
+    "region": "Uusimaa",
+    "lat": 60.0718,
+    "lon": 23.6616,
+    "population": 34619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaasa",
+    "region": "Ostrobothnia",
+    "lat": 63.096,
+    "lon": 21.6158,
+    "population": 34604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lieksa",
+    "region": "North Karelia",
+    "lat": 63.3167,
+    "lon": 30.0167,
+    "population": 34454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyhtää",
+    "region": "Kymenlaakso",
+    "lat": 60.4935,
+    "lon": 26.5435,
+    "population": 34436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovisa",
+    "region": "Uusimaa",
+    "lat": 60.4566,
+    "lon": 26.225,
+    "population": 34378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilomantsi",
+    "region": "North Karelia",
+    "lat": 62.6716,
+    "lon": 30.9328,
+    "population": 34313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kortesjärvi",
+    "region": "Southern Ostrobothnia",
+    "lat": 63.3,
+    "lon": 23.1667,
+    "population": 34159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangasniemi",
+    "region": "Southern Savonia",
+    "lat": 61.9936,
+    "lon": 26.6478,
+    "population": 34013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savukoski",
+    "region": "Lapland",
+    "lat": 67.2925,
+    "lon": 28.1581,
+    "population": 33917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salla",
+    "region": "Lapland",
+    "lat": 66.8333,
+    "lon": 28.6667,
+    "population": 33883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haukivuori",
+    "region": "Southern Savonia",
+    "lat": 62.0175,
+    "lon": 27.2191,
+    "population": 33867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaala",
+    "region": "Kymenlaakso",
+    "lat": 61.0525,
+    "lon": 26.4812,
+    "population": 33812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houtskär",
+    "region": "Finland Proper",
+    "lat": 60.2228,
+    "lon": 21.3722,
+    "population": 33714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiikala",
+    "region": "Finland Proper",
+    "lat": 60.4667,
+    "lon": 23.5667,
+    "population": 33636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaarina",
+    "region": "Finland Proper",
+    "lat": 60.4072,
+    "lon": 22.369,
+    "population": 33626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Äänekoski",
+    "region": "Central Finland",
+    "lat": 62.6,
+    "lon": 25.7333,
+    "population": 33608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuusniemi",
+    "region": "Pirkanmaa",
+    "lat": 62.8167,
+    "lon": 28.5,
+    "population": 33576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suonenjoki",
+    "region": "Pirkanmaa",
+    "lat": 62.6167,
+    "lon": 27.1333,
+    "population": 33472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rautavaara",
+    "region": "Pirkanmaa",
+    "lat": 63.4833,
+    "lon": 28.3,
+    "population": 33461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lohja",
+    "region": "Uusimaa",
+    "lat": 60.2486,
+    "lon": 24.0653,
+    "population": 33275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuusula",
+    "region": "Uusimaa",
+    "lat": 60.4037,
+    "lon": 25.0264,
+    "population": 33136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janakkala",
+    "region": "Tavastia Proper",
+    "lat": 60.9,
+    "lon": 24.6,
+    "population": 33065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yläne",
+    "region": "Finland Proper",
+    "lat": 60.8833,
+    "lon": 22.4167,
+    "population": 33037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yli-Ii",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.3718,
+    "lon": 25.8458,
+    "population": 32937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teeriniemi",
+    "region": "Ostrobothnia",
+    "lat": 63.0971,
+    "lon": 21.6959,
+    "population": 32774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanko",
+    "region": "Uusimaa",
+    "lat": 59.8333,
+    "lon": 22.95,
+    "population": 32504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalajoki",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.25,
+    "lon": 23.95,
+    "population": 32430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tervola",
+    "region": "Lapland",
+    "lat": 66.0833,
+    "lon": 24.8,
+    "population": 32411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muurla",
+    "region": "Finland Proper",
+    "lat": 60.35,
+    "lon": 23.2833,
+    "population": 32343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jyväskylä",
+    "region": "Central Finland",
+    "lat": 62.2415,
+    "lon": 25.7209,
+    "population": 32211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vihti",
+    "region": "Uusimaa",
+    "lat": 60.417,
+    "lon": 24.3196,
+    "population": 32157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karttula",
+    "region": "Pirkanmaa",
+    "lat": 62.8963,
+    "lon": 26.9704,
+    "population": 32057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiuruvesi",
+    "region": "Pirkanmaa",
+    "lat": 63.65,
+    "lon": 26.6167,
+    "population": 32010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jämsä",
+    "region": "Central Finland",
+    "lat": 61.8642,
+    "lon": 25.19,
+    "population": 31756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerava",
+    "region": "Uusimaa",
+    "lat": 60.4034,
+    "lon": 25.105,
+    "population": 31704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porvoo",
+    "region": "Uusimaa",
+    "lat": 60.3923,
+    "lon": 25.6651,
+    "population": 31424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auttoinen",
+    "region": "Päijänne Tavastia",
+    "lat": 61.299,
+    "lon": 25.0889,
+    "population": 31348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liljendal",
+    "region": "Uusimaa",
+    "lat": 60.5735,
+    "lon": 26.0526,
+    "population": 31328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ylihärmä",
+    "region": "Southern Ostrobothnia",
+    "lat": 63.15,
+    "lon": 22.7833,
+    "population": 30947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vimpeli",
+    "region": "Southern Ostrobothnia",
+    "lat": 63.1619,
+    "lon": 23.8192,
+    "population": 30936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jämijärvi",
+    "region": "Satakunta",
+    "lat": 61.8167,
+    "lon": 22.7,
+    "population": 30924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somero",
+    "region": "Finland Proper",
+    "lat": 60.6167,
+    "lon": 23.5333,
+    "population": 30870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hausjärvi",
+    "region": "Tavastia Proper",
+    "lat": 60.7833,
+    "lon": 24.9333,
+    "population": 30866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lavia",
+    "region": "Satakunta",
+    "lat": 61.6,
+    "lon": 22.6,
+    "population": 30698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rantsila",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.5061,
+    "lon": 25.6645,
+    "population": 30659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oulu",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.0124,
+    "lon": 25.4682,
+    "population": 30612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pieksämäki",
+    "region": "Southern Savonia",
+    "lat": 62.3,
+    "lon": 27.1333,
+    "population": 30440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hirvensalmi",
+    "region": "Southern Savonia",
+    "lat": 61.6333,
+    "lon": 26.8,
+    "population": 30396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sulkava",
+    "region": "Southern Savonia",
+    "lat": 61.7869,
+    "lon": 28.373,
+    "population": 30264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuivaniemi",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.5785,
+    "lon": 25.1881,
+    "population": 30214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eura",
+    "region": "Satakunta",
+    "lat": 61.1333,
+    "lon": 22.1333,
+    "population": 30157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varkaus",
+    "region": "Pirkanmaa",
+    "lat": 62.3153,
+    "lon": 27.873,
+    "population": 29859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eno",
+    "region": "North Karelia",
+    "lat": 62.8051,
+    "lon": 30.1542,
+    "population": 29855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kälviä",
+    "region": "Central Ostrobothnia",
+    "lat": 63.8607,
+    "lon": 23.4529,
+    "population": 29615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kustavi",
+    "region": "Finland Proper",
+    "lat": 60.5453,
+    "lon": 21.3588,
+    "population": 29540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iitti",
+    "region": "Kymenlaakso",
+    "lat": 60.8949,
+    "lon": 26.3387,
+    "population": 29438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taivassalo",
+    "region": "Finland Proper",
+    "lat": 60.5609,
+    "lon": 21.6164,
+    "population": 29435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokemäki",
+    "region": "Satakunta",
+    "lat": 61.2565,
+    "lon": 22.3564,
+    "population": 29397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helsinki",
+    "region": "Uusimaa",
+    "lat": 60.1695,
+    "lon": 24.9354,
+    "population": 29392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuopio",
+    "region": "Pirkanmaa",
+    "lat": 62.8924,
+    "lon": 27.677,
+    "population": 29267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kivijärvi",
+    "region": "Central Finland",
+    "lat": 63.1198,
+    "lon": 25.0784,
+    "population": 28960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mietoinen",
+    "region": "Finland Proper",
+    "lat": 60.6333,
+    "lon": 21.9333,
+    "population": 28875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kesälahti",
+    "region": "North Karelia",
+    "lat": 61.8975,
+    "lon": 29.8349,
+    "population": 28864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahto",
+    "region": "Finland Proper",
+    "lat": 60.6,
+    "lon": 22.3,
+    "population": 28863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kannus",
+    "region": "Central Ostrobothnia",
+    "lat": 63.9,
+    "lon": 23.9,
+    "population": 28800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vörå",
+    "region": "Ostrobothnia",
+    "lat": 63.1361,
+    "lon": 22.2522,
+    "population": 28546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuijamaa",
+    "region": "South Karelia",
+    "lat": 60.9601,
+    "lon": 28.551,
+    "population": 28509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruukki",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.6667,
+    "lon": 25.1,
+    "population": 28497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Särkisalo",
+    "region": "Finland Proper",
+    "lat": 60.1139,
+    "lon": 22.95,
+    "population": 28292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pihtipudas",
+    "region": "Central Finland",
+    "lat": 63.3833,
+    "lon": 25.5667,
+    "population": 28275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lapinjärvi",
+    "region": "Uusimaa",
+    "lat": 60.6244,
+    "lon": 26.1972,
+    "population": 27958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallio",
+    "region": "Uusimaa",
+    "lat": 60.1843,
+    "lon": 24.9503,
+    "population": 27947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orimattila",
+    "region": "Päijänne Tavastia",
+    "lat": 60.8049,
+    "lon": 25.7296,
+    "population": 27904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hietalahti",
+    "region": "Ostrobothnia",
+    "lat": 63.0848,
+    "lon": 21.6172,
+    "population": 27803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gumböle",
+    "region": "Uusimaa",
+    "lat": 60.2195,
+    "lon": 24.6168,
+    "population": 27564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ristijärvi",
+    "region": "Kainuu",
+    "lat": 64.5,
+    "lon": 28.2167,
+    "population": 27408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sievi",
+    "region": "Northern Ostrobothnia",
+    "lat": 63.9,
+    "lon": 24.5,
+    "population": 27248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elimäki",
+    "region": "Kymenlaakso",
+    "lat": 60.7167,
+    "lon": 26.4667,
+    "population": 27216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imatra",
+    "region": "South Karelia",
+    "lat": 61.1718,
+    "lon": 28.7524,
+    "population": 27155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lemi",
+    "region": "South Karelia",
+    "lat": 61.0624,
+    "lon": 27.8057,
+    "population": 26878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuhmoinen",
+    "region": "Central Finland",
+    "lat": 61.5667,
+    "lon": 25.1833,
+    "population": 26869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munkkiniemi",
+    "region": "Uusimaa",
+    "lat": 60.1986,
+    "lon": 24.8777,
+    "population": 26721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pukkila",
+    "region": "Uusimaa",
+    "lat": 60.65,
+    "lon": 25.5667,
+    "population": 26391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaarela",
+    "region": "Uusimaa",
+    "lat": 60.2517,
+    "lon": 24.8811,
+    "population": 26231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forssa",
+    "region": "Tavastia Proper",
+    "lat": 60.8146,
+    "lon": 23.6215,
+    "population": 26194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maaninka",
+    "region": "Pirkanmaa",
+    "lat": 63.1552,
+    "lon": 27.2994,
+    "population": 25856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pornainen",
+    "region": "Uusimaa",
+    "lat": 60.4758,
+    "lon": 25.3749,
+    "population": 25841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toivakka",
+    "region": "Central Finland",
+    "lat": 62.1,
+    "lon": 26.0833,
+    "population": 25565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Längelmäki",
+    "region": "Satakunta",
+    "lat": 61.65,
+    "lon": 22.1,
+    "population": 25559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riihimäki",
+    "region": "Tavastia Proper",
+    "lat": 60.7377,
+    "lon": 24.7773,
+    "population": 25490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mellunkylä",
+    "region": "Uusimaa",
+    "lat": 60.2336,
+    "lon": 25.0995,
+    "population": 25323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korsholm",
+    "region": "Ostrobothnia",
+    "lat": 63.1142,
+    "lon": 21.6822,
+    "population": 25256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Väståboland",
+    "region": "Finland Proper",
+    "lat": 60.2997,
+    "lon": 22.3004,
+    "population": 25219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pello",
+    "region": "Lapland",
+    "lat": 66.7736,
+    "lon": 23.9626,
+    "population": 25164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vantaa",
+    "region": "Uusimaa",
+    "lat": 60.2941,
+    "lon": 25.041,
+    "population": 25136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korpilahti",
+    "region": "Central Finland",
+    "lat": 62.0167,
+    "lon": 25.55,
+    "population": 25039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mäntsälä",
+    "region": "Uusimaa",
+    "lat": 60.6333,
+    "lon": 25.3167,
+    "population": 24997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Renko",
+    "region": "Tavastia Proper",
+    "lat": 60.8956,
+    "lon": 24.2878,
+    "population": 24908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerimäki",
+    "region": "Southern Savonia",
+    "lat": 61.9107,
+    "lon": 29.2823,
+    "population": 24861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karinainen",
+    "region": "Finland Proper",
+    "lat": 60.6667,
+    "lon": 22.7667,
+    "population": 24746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vuosaari",
+    "region": "Uusimaa",
+    "lat": 60.2096,
+    "lon": 25.142,
+    "population": 24669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vehmersalmi",
+    "region": "Pirkanmaa",
+    "lat": 62.761,
+    "lon": 28.0285,
+    "population": 24370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pori",
+    "region": "Satakunta",
+    "lat": 61.4833,
+    "lon": 21.7833,
+    "population": 24249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padasjoki",
+    "region": "Päijänne Tavastia",
+    "lat": 61.35,
+    "lon": 25.2833,
+    "population": 24213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyyjärvi",
+    "region": "Central Finland",
+    "lat": 63.0333,
+    "lon": 24.5667,
+    "population": 24139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oravais",
+    "region": "Ostrobothnia",
+    "lat": 63.3013,
+    "lon": 22.3782,
+    "population": 24005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarvasjoki",
+    "region": "Finland Proper",
+    "lat": 60.5833,
+    "lon": 22.7333,
+    "population": 23947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artjärvi",
+    "region": "Päijänne Tavastia",
+    "lat": 60.7454,
+    "lon": 26.0708,
+    "population": 23944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alavieska",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.1667,
+    "lon": 24.3,
+    "population": 23844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perniö",
+    "region": "Finland Proper",
+    "lat": 60.2,
+    "lon": 23.1333,
+    "population": 23637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koukkuniemi",
+    "region": "Uusimaa",
+    "lat": 60.1526,
+    "lon": 24.7647,
+    "population": 23595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mynämäki",
+    "region": "Finland Proper",
+    "lat": 60.6791,
+    "lon": 21.9927,
+    "population": 23481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juva",
+    "region": "Southern Savonia",
+    "lat": 61.9,
+    "lon": 27.85,
+    "population": 23154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loppi",
+    "region": "Tavastia Proper",
+    "lat": 60.7167,
+    "lon": 24.45,
+    "population": 23058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veteli",
+    "region": "Central Ostrobothnia",
+    "lat": 63.4784,
+    "lon": 23.7828,
+    "population": 22946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiihtelysvaara",
+    "region": "North Karelia",
+    "lat": 62.4952,
+    "lon": 30.2508,
+    "population": 22918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumiainen",
+    "region": "Central Finland",
+    "lat": 62.6574,
+    "lon": 26.0464,
+    "population": 22420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ylämaa",
+    "region": "South Karelia",
+    "lat": 60.8,
+    "lon": 28,
+    "population": 22407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laihia",
+    "region": "Ostrobothnia",
+    "lat": 62.9761,
+    "lon": 22.0114,
+    "population": 22230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Töysä",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.628,
+    "lon": 23.8183,
+    "population": 21999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sotkamo",
+    "region": "Kainuu",
+    "lat": 64.1333,
+    "lon": 28.4167,
+    "population": 21971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kronoby",
+    "region": "Ostrobothnia",
+    "lat": 63.7286,
+    "lon": 23.0339,
+    "population": 21926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luumäki",
+    "region": "South Karelia",
+    "lat": 60.9262,
+    "lon": 27.5814,
+    "population": 21886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kärsämäki",
+    "region": "Northern Ostrobothnia",
+    "lat": 63.9667,
+    "lon": 25.7667,
+    "population": 21882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lohtaja",
+    "region": "Central Ostrobothnia",
+    "lat": 64.0247,
+    "lon": 23.5048,
+    "population": 21749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uusikaupunki",
+    "region": "Finland Proper",
+    "lat": 60.8004,
+    "lon": 21.4084,
+    "population": 21615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilmajoki",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.7333,
+    "lon": 22.5667,
+    "population": 21614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalasjärvi",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.5,
+    "lon": 22.75,
+    "population": 21529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petäjävesi",
+    "region": "Central Finland",
+    "lat": 62.25,
+    "lon": 25.2,
+    "population": 21478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noormarkku",
+    "region": "Satakunta",
+    "lat": 61.5927,
+    "lon": 21.8685,
+    "population": 21464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rusko",
+    "region": "Finland Proper",
+    "lat": 60.5333,
+    "lon": 22.2167,
+    "population": 21464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siikainen",
+    "region": "Satakunta",
+    "lat": 61.877,
+    "lon": 21.8194,
+    "population": 21280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keminmaa",
+    "region": "Lapland",
+    "lat": 65.8016,
+    "lon": 24.5448,
+    "population": 21224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Replot",
+    "region": "Ostrobothnia",
+    "lat": 63.2288,
+    "lon": 21.4169,
+    "population": 21202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyhäjoki",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.4667,
+    "lon": 24.2333,
+    "population": 21169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuupovaara",
+    "region": "North Karelia",
+    "lat": 62.4837,
+    "lon": 30.6273,
+    "population": 21021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakkila",
+    "region": "Satakunta",
+    "lat": 61.3667,
+    "lon": 22,
+    "population": 21005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raisio",
+    "region": "Finland Proper",
+    "lat": 60.4859,
+    "lon": 22.1689,
+    "population": 20936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nykarleby",
+    "region": "Ostrobothnia",
+    "lat": 63.5228,
+    "lon": 22.5307,
+    "population": 20805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jäppilä",
+    "region": "Southern Savonia",
+    "lat": 62.379,
+    "lon": 27.4337,
+    "population": 20709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ypäjä",
+    "region": "Tavastia Proper",
+    "lat": 60.8,
+    "lon": 23.2833,
+    "population": 20592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paimio",
+    "region": "Finland Proper",
+    "lat": 60.4567,
+    "lon": 22.6869,
+    "population": 20569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soini",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.8667,
+    "lon": 24.2167,
+    "population": 20528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sysmä",
+    "region": "Päijänne Tavastia",
+    "lat": 61.5,
+    "lon": 25.6833,
+    "population": 20517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lammi",
+    "region": "Tavastia Proper",
+    "lat": 61.0833,
+    "lon": 25.0167,
+    "population": 20492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aura",
+    "region": "Finland Proper",
+    "lat": 60.6471,
+    "lon": 22.5876,
+    "population": 20481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotka",
+    "region": "Kymenlaakso",
+    "lat": 60.4664,
+    "lon": 26.9458,
+    "population": 20407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kestilä",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.35,
+    "lon": 26.2792,
+    "population": 20093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siilinjärvi",
+    "region": "Pirkanmaa",
+    "lat": 63.0833,
+    "lon": 27.6667,
+    "population": 20087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyhäselkä",
+    "region": "North Karelia",
+    "lat": 62.4333,
+    "lon": 29.9667,
+    "population": 20051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savonlinna",
+    "region": "Southern Savonia",
+    "lat": 61.8699,
+    "lon": 28.88,
+    "population": 20005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruokolahti",
+    "region": "South Karelia",
+    "lat": 61.2833,
+    "lon": 28.8333,
+    "population": 19990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rautjärvi",
+    "region": "South Karelia",
+    "lat": 61.4333,
+    "lon": 29.35,
+    "population": 19855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedersöre",
+    "region": "Ostrobothnia",
+    "lat": 63.65,
+    "lon": 22.6833,
+    "population": 19582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Espoo",
+    "region": "Uusimaa",
+    "lat": 60.2052,
+    "lon": 24.6522,
+    "population": 19393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halsua",
+    "region": "Central Ostrobothnia",
+    "lat": 63.4667,
+    "lon": 24.1667,
+    "population": 19307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vesanto",
+    "region": "Pirkanmaa",
+    "lat": 62.9333,
+    "lon": 26.4167,
+    "population": 19112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nurmes",
+    "region": "North Karelia",
+    "lat": 63.5421,
+    "lon": 29.1396,
+    "population": 18916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vieremä",
+    "region": "Pirkanmaa",
+    "lat": 63.75,
+    "lon": 27.0167,
+    "population": 18863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kauniainen",
+    "region": "Uusimaa",
+    "lat": 60.2121,
+    "lon": 24.7276,
+    "population": 18833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karijoki",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.3085,
+    "lon": 21.7086,
+    "population": 18779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liminka",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.8098,
+    "lon": 25.4154,
+    "population": 18495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karvia",
+    "region": "Satakunta",
+    "lat": 62.1333,
+    "lon": 22.5667,
+    "population": 18407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingå",
+    "region": "Uusimaa",
+    "lat": 60.0459,
+    "lon": 24.0046,
+    "population": 18346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muhos",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.808,
+    "lon": 25.9931,
+    "population": 18283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kemijärvi",
+    "region": "Lapland",
+    "lat": 66.7131,
+    "lon": 27.4306,
+    "population": 18135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anjala",
+    "region": "Kymenlaakso",
+    "lat": 60.6833,
+    "lon": 26.8333,
+    "population": 17476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turku",
+    "region": "Finland Proper",
+    "lat": 60.4515,
+    "lon": 22.2687,
+    "population": 17442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askainen",
+    "region": "Finland Proper",
+    "lat": 60.5667,
+    "lon": 21.8667,
+    "population": 17275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lauttasaari",
+    "region": "Uusimaa",
+    "lat": 60.159,
+    "lon": 24.868,
+    "population": 17188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konnevesi",
+    "region": "Central Finland",
+    "lat": 62.6167,
+    "lon": 26.3167,
+    "population": 17143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joutseno",
+    "region": "South Karelia",
+    "lat": 61.118,
+    "lon": 28.5076,
+    "population": 17142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marttila",
+    "region": "Finland Proper",
+    "lat": 60.5833,
+    "lon": 22.9,
+    "population": 17053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heinävesi",
+    "region": "Southern Savonia",
+    "lat": 62.4333,
+    "lon": 28.6,
+    "population": 16903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utajärvi",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.75,
+    "lon": 26.3833,
+    "population": 16534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lemu",
+    "region": "Finland Proper",
+    "lat": 60.5667,
+    "lon": 21.9667,
+    "population": 16529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suomussalmi",
+    "region": "Kainuu",
+    "lat": 64.8868,
+    "lon": 28.9078,
+    "population": 16176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuulos",
+    "region": "Tavastia Proper",
+    "lat": 61.15,
+    "lon": 24.8,
+    "population": 16066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parikkala",
+    "region": "South Karelia",
+    "lat": 61.55,
+    "lon": 29.5,
+    "population": 16015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otaniemi",
+    "region": "Uusimaa",
+    "lat": 60.184,
+    "lon": 24.8279,
+    "population": 15878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viitasaari",
+    "region": "Central Finland",
+    "lat": 63.0667,
+    "lon": 25.8667,
+    "population": 15716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puumala",
+    "region": "Southern Savonia",
+    "lat": 61.5273,
+    "lon": 28.1749,
+    "population": 15685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lehtimäki",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.7833,
+    "lon": 23.9167,
+    "population": 15610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinnula",
+    "region": "Central Finland",
+    "lat": 63.3833,
+    "lon": 24.95,
+    "population": 15567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vähäkyrö",
+    "region": "Ostrobothnia",
+    "lat": 63.0564,
+    "lon": 22.1058,
+    "population": 15509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hämeenlinna",
+    "region": "Tavastia Proper",
+    "lat": 60.996,
+    "lon": 24.4643,
+    "population": 15389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivalo",
+    "region": "Lapland",
+    "lat": 68.6599,
+    "lon": 27.5389,
+    "population": 15369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karstula",
+    "region": "Central Finland",
+    "lat": 62.8667,
+    "lon": 24.7833,
+    "population": 15338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jurva",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.6833,
+    "lon": 21.9833,
+    "population": 15295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valtimo",
+    "region": "North Karelia",
+    "lat": 63.6667,
+    "lon": 28.8,
+    "population": 15000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halikko",
+    "region": "Finland Proper",
+    "lat": 60.4,
+    "lon": 23.0833,
+    "population": 14943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haapavesi",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.1333,
+    "lon": 25.3667,
+    "population": 14934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kannonkoski",
+    "region": "Central Finland",
+    "lat": 62.9667,
+    "lon": 25.25,
+    "population": 14891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaala",
+    "region": "Kainuu",
+    "lat": 64.5667,
+    "lon": 26.8333,
+    "population": 14789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekenäs",
+    "region": "Uusimaa",
+    "lat": 59.9736,
+    "lon": 23.4339,
+    "population": 14627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puolanka",
+    "region": "Kainuu",
+    "lat": 64.8667,
+    "lon": 27.6667,
+    "population": 14523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulvila",
+    "region": "Satakunta",
+    "lat": 61.4284,
+    "lon": 21.871,
+    "population": 14384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ylistaro",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.9396,
+    "lon": 22.5131,
+    "population": 14352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leppävirta",
+    "region": "Pirkanmaa",
+    "lat": 62.4901,
+    "lon": 27.7826,
+    "population": 14296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sammatti",
+    "region": "Uusimaa",
+    "lat": 60.3199,
+    "lon": 23.8209,
+    "population": 14135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kullaa",
+    "region": "Satakunta",
+    "lat": 61.47,
+    "lon": 22.1614,
+    "population": 14085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jokioinen",
+    "region": "Tavastia Proper",
+    "lat": 60.8016,
+    "lon": 23.48,
+    "population": 14058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelkosenniemi",
+    "region": "Lapland",
+    "lat": 67.1108,
+    "lon": 27.5106,
+    "population": 13728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masku",
+    "region": "Finland Proper",
+    "lat": 60.5708,
+    "lon": 22.0988,
+    "population": 13641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savitaipale",
+    "region": "South Karelia",
+    "lat": 61.2,
+    "lon": 27.7,
+    "population": 13601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ylivieska",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.0833,
+    "lon": 24.55,
+    "population": 13189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Järvenpää",
+    "region": "Uusimaa",
+    "lat": 60.4737,
+    "lon": 25.0899,
+    "population": 13181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Säynätsalo",
+    "region": "Central Finland",
+    "lat": 62.1403,
+    "lon": 25.7695,
+    "population": 13139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reisjärvi",
+    "region": "Northern Ostrobothnia",
+    "lat": 63.6167,
+    "lon": 24.9,
+    "population": 12940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hailuoto",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.009,
+    "lon": 24.7139,
+    "population": 12919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piippola",
+    "region": "Northern Ostrobothnia",
+    "lat": 64.1667,
+    "lon": 25.9667,
+    "population": 12859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isojoki",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.1132,
+    "lon": 21.9588,
+    "population": 12854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hankasalmi",
+    "region": "Central Finland",
+    "lat": 62.3833,
+    "lon": 26.4333,
+    "population": 12443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pertteli",
+    "region": "Finland Proper",
+    "lat": 60.4333,
+    "lon": 23.2667,
+    "population": 12232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ristinummi",
+    "region": "Ostrobothnia",
+    "lat": 63.0919,
+    "lon": 21.723,
+    "population": 12126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ylitornio",
+    "region": "Lapland",
+    "lat": 66.3089,
+    "lon": 23.6773,
+    "population": 12088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pöytyä",
+    "region": "Finland Proper",
+    "lat": 60.7667,
+    "lon": 22.6667,
+    "population": 12060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karkkila",
+    "region": "Uusimaa",
+    "lat": 60.5342,
+    "lon": 24.2098,
+    "population": 11820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dragsfjärd",
+    "region": "Finland Proper",
+    "lat": 60.0667,
+    "lon": 22.4833,
+    "population": 11777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kauhajoki",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.4333,
+    "lon": 22.1833,
+    "population": 11763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alahärmä",
+    "region": "Southern Ostrobothnia",
+    "lat": 63.2333,
+    "lon": 22.85,
+    "population": 11728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruotsinpyhtää",
+    "region": "Uusimaa",
+    "lat": 60.5268,
+    "lon": 26.462,
+    "population": 11668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haukipudas",
+    "region": "Northern Ostrobothnia",
+    "lat": 65.1765,
+    "lon": 25.3523,
+    "population": 11539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savonranta",
+    "region": "Southern Savonia",
+    "lat": 62.1833,
+    "lon": 29.2,
+    "population": 11504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolari",
+    "region": "Lapland",
+    "lat": 67.3305,
+    "lon": 23.7779,
+    "population": 11437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mellilä",
+    "region": "Finland Proper",
+    "lat": 60.7667,
+    "lon": 22.95,
+    "population": 11315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nilsiä",
+    "region": "Pirkanmaa",
+    "lat": 63.2075,
+    "lon": 28.0822,
+    "population": 11309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utsjoki",
+    "region": "Lapland",
+    "lat": 69.9086,
+    "lon": 27.0284,
+    "population": 11176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranua",
+    "region": "Lapland",
+    "lat": 65.9167,
+    "lon": 26.5333,
+    "population": 11173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lapua",
+    "region": "Southern Ostrobothnia",
+    "lat": 62.9693,
+    "lon": 23.0088,
+    "population": 11131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiukainen",
+    "region": "Satakunta",
+    "lat": 61.2167,
+    "lon": 22.0833,
+    "population": 11019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vehmaa",
+    "region": "Finland Proper",
+    "lat": 60.6833,
+    "lon": 21.6667,
+    "population": 10938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkkonummi",
+    "region": "Uusimaa",
+    "lat": 60.1238,
+    "lon": 24.4385,
+    "population": 10914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tohmajärvi",
+    "region": "North Karelia",
+    "lat": 62.1833,
+    "lon": 30.3833,
+    "population": 10875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kellokoski",
+    "region": "Uusimaa",
+    "lat": 60.5327,
+    "lon": 25.1092,
+    "population": 10856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokkola",
+    "region": "Central Ostrobothnia",
+    "lat": 63.8541,
+    "lon": 23.5856,
+    "population": 10770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuhmo",
+    "region": "Kainuu",
+    "lat": 64.1333,
+    "lon": 29.5167,
+    "population": 10559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lieto",
+    "region": "Finland Proper",
+    "lat": 60.5103,
+    "lon": 22.4618,
+    "population": 10445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hartola",
+    "region": "Päijänne Tavastia",
+    "lat": 61.5833,
+    "lon": 26.0167,
+    "population": 10403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nastola",
+    "region": "Päijänne Tavastia",
+    "lat": 60.95,
+    "lon": 25.9333,
+    "population": 10318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamina",
+    "region": "Kymenlaakso",
+    "lat": 60.5697,
+    "lon": 27.1979,
+    "population": 10251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagu",
+    "region": "Finland Proper",
+    "lat": 60.1938,
+    "lon": 21.9097,
+    "population": 10031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pertunmaa",
+    "region": "Southern Savonia",
+    "lat": 61.5,
+    "lon": 26.4833,
+    "population": 10020,
+    "timezone": "UTC"
+  }
+]

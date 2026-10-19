@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Jumla",
+    "region": "Mid-Western Region",
+    "lat": 29.2747,
+    "lon": 82.1838,
+    "population": 49807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dihi",
+    "region": "Western Region",
+    "lat": 27.8755,
+    "lon": 83.9276,
+    "population": 48952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hetauda",
+    "region": "Central Region",
+    "lat": 27.4284,
+    "lon": 85.0322,
+    "population": 48819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Triyuga",
+    "region": "Eastern Development Region",
+    "lat": 26.7919,
+    "lon": 86.699,
+    "population": 48182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulariyā",
+    "region": "Mid-Western Region",
+    "lat": 28.2058,
+    "lon": 81.3453,
+    "population": 46959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pokhara",
+    "region": "Western Region",
+    "lat": 28.2669,
+    "lon": 83.9685,
+    "population": 46876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biratnagar",
+    "region": "Eastern Development Region",
+    "lat": 26.455,
+    "lon": 87.2701,
+    "population": 45887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panauti",
+    "region": "Central Region",
+    "lat": 27.5847,
+    "lon": 85.5212,
+    "population": 43230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pātan",
+    "region": "Central Region",
+    "lat": 27.6766,
+    "lon": 85.3142,
+    "population": 42901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nepalgunj",
+    "region": "Mid-Western Region",
+    "lat": 28.05,
+    "lon": 81.6167,
+    "population": 42283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahendranagar",
+    "region": "Far-Western Development Region",
+    "lat": 28.964,
+    "lon": 80.1771,
+    "population": 40425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhangaḍhi̇̄",
+    "region": "Far-Western Development Region",
+    "lat": 28.7014,
+    "lon": 80.5897,
+    "population": 40378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dailekh",
+    "region": "Mid-Western Region",
+    "lat": 28.8443,
+    "lon": 81.7101,
+    "population": 39653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butwāl",
+    "region": "Western Region",
+    "lat": 27.7005,
+    "lon": 83.4484,
+    "population": 39396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birendranagar",
+    "region": "Mid-Western Region",
+    "lat": 28.6019,
+    "lon": 81.6339,
+    "population": 38525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banepā",
+    "region": "Central Region",
+    "lat": 27.6324,
+    "lon": 85.5219,
+    "population": 37233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhadrapur",
+    "region": "Eastern Development Region",
+    "lat": 26.544,
+    "lon": 88.0944,
+    "population": 36474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siddharthanagar",
+    "region": "Western Region",
+    "lat": 27.5,
+    "lon": 83.45,
+    "population": 36268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilām",
+    "region": "Eastern Development Region",
+    "lat": 26.9094,
+    "lon": 87.9282,
+    "population": 35775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lobujya",
+    "region": "Eastern Development Region",
+    "lat": 27.95,
+    "lon": 86.8167,
+    "population": 34786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "kankrabari Dovan",
+    "region": "Central Region",
+    "lat": 27.6288,
+    "lon": 85.4593,
+    "population": 33070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bharatpur",
+    "region": "Central Region",
+    "lat": 27.6768,
+    "lon": 84.4359,
+    "population": 32902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāglung",
+    "region": "Western Region",
+    "lat": 28.2719,
+    "lon": 83.5897,
+    "population": 31031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inaruwa",
+    "region": "Eastern Development Region",
+    "lat": 26.6068,
+    "lon": 87.1478,
+    "population": 30997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siraha",
+    "region": "Eastern Development Region",
+    "lat": 26.6542,
+    "lon": 86.2079,
+    "population": 30696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Titahari",
+    "region": "Eastern Development Region",
+    "lat": 26.6637,
+    "lon": 87.274,
+    "population": 28003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hari Bdr Tamang House",
+    "region": "Central Region",
+    "lat": 27.6289,
+    "lon": 85.4589,
+    "population": 27244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaleshwar",
+    "region": "Central Region",
+    "lat": 26.6492,
+    "lon": 85.8002,
+    "population": 26977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitre",
+    "region": "Western Region",
+    "lat": 28.4267,
+    "lon": 83.6908,
+    "population": 26834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanbari",
+    "region": "Eastern Development Region",
+    "lat": 27.376,
+    "lon": 87.2077,
+    "population": 26284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhojpur",
+    "region": "Eastern Development Region",
+    "lat": 27.1715,
+    "lon": 87.0461,
+    "population": 25562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lahān",
+    "region": "Eastern Development Region",
+    "lat": 26.7202,
+    "lon": 86.4826,
+    "population": 25406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dārchulā",
+    "region": "Western Region",
+    "lat": 29.83,
+    "lon": 80.55,
+    "population": 25279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madhyapur Thimi",
+    "region": "Central Region",
+    "lat": 27.6806,
+    "lon": 85.3875,
+    "population": 25066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namche Bazar",
+    "region": "Eastern Development Region",
+    "lat": 27.8053,
+    "lon": 86.7106,
+    "population": 24448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadeldhurā",
+    "region": "Far-Western Development Region",
+    "lat": 29.2984,
+    "lon": 80.5806,
+    "population": 23807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birgañj",
+    "region": "Central Region",
+    "lat": 27.0171,
+    "lon": 84.8808,
+    "population": 21762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wāliṅ",
+    "region": "Western Region",
+    "lat": 27.9837,
+    "lon": 83.7592,
+    "population": 21499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhojpur",
+    "region": "Mid-Western Region",
+    "lat": 27.9356,
+    "lon": 81.7755,
+    "population": 21158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhulikhel",
+    "region": "Central Region",
+    "lat": 27.6221,
+    "lon": 85.5428,
+    "population": 20908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirtipur",
+    "region": "Central Region",
+    "lat": 27.6787,
+    "lon": 85.2775,
+    "population": 20808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malaṅgawā",
+    "region": "Central Region",
+    "lat": 26.8566,
+    "lon": 85.5594,
+    "population": 20463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tānsen",
+    "region": "Western Region",
+    "lat": 27.8673,
+    "lon": 83.5467,
+    "population": 19993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagarkot",
+    "region": "Central Region",
+    "lat": 27.7152,
+    "lon": 85.5208,
+    "population": 19724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rājbirāj",
+    "region": "Eastern Development Region",
+    "lat": 26.5397,
+    "lon": 86.748,
+    "population": 19260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhankutā",
+    "region": "Eastern Development Region",
+    "lat": 26.9833,
+    "lon": 87.3333,
+    "population": 19013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ṭikāpur",
+    "region": "Far-Western Development Region",
+    "lat": 28.5282,
+    "lon": 81.118,
+    "population": 16426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāmechhāp",
+    "region": "Central Region",
+    "lat": 27.3256,
+    "lon": 86.0877,
+    "population": 13362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dipayal",
+    "region": "Far-Western Development Region",
+    "lat": 29.2608,
+    "lon": 80.94,
+    "population": 13333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dharān",
+    "region": "Eastern Development Region",
+    "lat": 26.8144,
+    "lon": 87.2797,
+    "population": 12922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kathmandu",
+    "region": "Central Region",
+    "lat": 27.7017,
+    "lon": 85.3206,
+    "population": 12901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tulsīpur",
+    "region": "Mid-Western Region",
+    "lat": 28.131,
+    "lon": 82.2973,
+    "population": 12534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janakpur",
+    "region": "Central Region",
+    "lat": 26.7288,
+    "lon": 85.9263,
+    "population": 12033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaur",
+    "region": "Central Region",
+    "lat": 26.7645,
+    "lon": 85.2784,
+    "population": 11248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhattarai Danda",
+    "region": "Western Region",
+    "lat": 27.8833,
+    "lon": 83.9333,
+    "population": 10622,
+    "timezone": "UTC"
+  }
+]

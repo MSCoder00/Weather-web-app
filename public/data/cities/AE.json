@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Murbaḩ",
+    "region": "Sharjah Emirate",
+    "lat": 25.2762,
+    "lon": 56.3626,
+    "population": 49881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hamriyah",
+    "region": "Sharjah Emirate",
+    "lat": 25.4612,
+    "lon": 55.5481,
+    "population": 49126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm AL Quwain",
+    "region": "Umm al-Quwain",
+    "lat": 25.4933,
+    "lon": 55.7352,
+    "population": 47608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Dhabi Island and Internal Islands City",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.4511,
+    "lon": 54.3969,
+    "population": 46628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milehah",
+    "region": "Sharjah Emirate",
+    "lat": 25.101,
+    "lon": 55.9128,
+    "population": 43435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ain Municipality",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.1522,
+    "lon": 55.8204,
+    "population": 42275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masfout",
+    "region": "Ajman Emirate",
+    "lat": 24.8398,
+    "lon": 56.0516,
+    "population": 40100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ras Al Khaimah",
+    "region": "Ras al-Khaimah",
+    "lat": 25.4612,
+    "lon": 56.0406,
+    "population": 38068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Shamkhah City",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.3927,
+    "lon": 54.7078,
+    "population": 38031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zayed City",
+    "region": "Abu Dhabi Emirate",
+    "lat": 23.6542,
+    "lon": 53.7052,
+    "population": 37709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Yas City",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.3098,
+    "lon": 54.6294,
+    "population": 36371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khor Fakkan",
+    "region": "Sharjah Emirate",
+    "lat": 25.3397,
+    "lon": 56.3028,
+    "population": 36285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dibba Al-Fujairah",
+    "region": "Fujairah",
+    "lat": 25.5925,
+    "lon": 56.2618,
+    "population": 35832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musaffah",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.3589,
+    "lon": 54.4827,
+    "population": 35558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhaid",
+    "region": "Sharjah Emirate",
+    "lat": 25.2695,
+    "lon": 55.9202,
+    "population": 35278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fujairah Municipality",
+    "region": "Fujairah",
+    "lat": 25.1356,
+    "lon": 56.3328,
+    "population": 34646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reef Al Fujairah City",
+    "region": "Fujairah",
+    "lat": 25.1448,
+    "lon": 56.2476,
+    "population": 33717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manama",
+    "region": "Ajman Emirate",
+    "lat": 25.3257,
+    "lon": 56.0026,
+    "population": 33303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adh Dhayd",
+    "region": "Sharjah Emirate",
+    "lat": 25.2881,
+    "lon": 55.8816,
+    "population": 32929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ain City",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.1917,
+    "lon": 55.7606,
+    "population": 31546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Ruways",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.1103,
+    "lon": 52.7306,
+    "population": 29014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Al Quwain City",
+    "region": "Umm al-Quwain",
+    "lat": 25.5647,
+    "lon": 55.5552,
+    "population": 27969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ras Al Khaimah City",
+    "region": "Ras al-Khaimah",
+    "lat": 25.7895,
+    "lon": 55.9432,
+    "population": 25678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajman",
+    "region": "Ajman Emirate",
+    "lat": 25.4033,
+    "lon": 55.5234,
+    "population": 24722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dibba Al Hesn",
+    "region": "Sharjah Emirate",
+    "lat": 25.6159,
+    "lon": 56.269,
+    "population": 23192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharjah",
+    "region": "Sharjah Emirate",
+    "lat": 25.3374,
+    "lon": 55.4121,
+    "population": 22756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muzayri‘",
+    "region": "Abu Dhabi Emirate",
+    "lat": 23.1436,
+    "lon": 53.7881,
+    "population": 22683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalba",
+    "region": "Sharjah Emirate",
+    "lat": 24.9982,
+    "lon": 56.2721,
+    "population": 21740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dibba Al-Hisn",
+    "region": "Fujairah",
+    "lat": 25.6196,
+    "lon": 56.2729,
+    "population": 20962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubai",
+    "region": "Dubai",
+    "lat": 25.0657,
+    "lon": 55.1713,
+    "population": 17716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Dhabi Municipality",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.4136,
+    "lon": 54.4329,
+    "population": 17454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Dhafra",
+    "region": "Abu Dhabi Emirate",
+    "lat": 23.6575,
+    "lon": 53.7223,
+    "population": 14547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Madam",
+    "region": "Sharjah Emirate",
+    "lat": 24.9554,
+    "lon": 55.7682,
+    "population": 14268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fujairah City",
+    "region": "Fujairah",
+    "lat": 25.1164,
+    "lon": 56.3414,
+    "population": 14129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khawr Fakkān",
+    "region": "Sharjah Emirate",
+    "lat": 25.3313,
+    "lon": 56.342,
+    "population": 14006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khalifah A City",
+    "region": "Abu Dhabi Emirate",
+    "lat": 24.4259,
+    "lon": 54.605,
+    "population": 12816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Batayih",
+    "region": "Sharjah Emirate",
+    "lat": 25.2232,
+    "lon": 55.7427,
+    "population": 11999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajman City",
+    "region": "Ajman Emirate",
+    "lat": 25.4018,
+    "lon": 55.4788,
+    "population": 11787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dibba Al Fujairah Municipality",
+    "region": "Fujairah",
+    "lat": 25.5858,
+    "lon": 56.2479,
+    "population": 10153,
+    "timezone": "UTC"
+  }
+]

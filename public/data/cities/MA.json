@@ -1,0 +1,1794 @@
+[
+  {
+    "name": "El Jadid",
+    "region": "Casablanca-Settat",
+    "lat": 33.2568,
+    "lon": -8.5088,
+    "population": 49828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oulad Teïma",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.3947,
+    "lon": -9.209,
+    "population": 49565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kenitra",
+    "region": "Kénitra",
+    "lat": 34.261,
+    "lon": -6.5802,
+    "population": 49544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khouribga Province",
+    "region": "Khénifra",
+    "lat": 32.9333,
+    "lon": -6.6,
+    "population": 49540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fqih Ben Çalah",
+    "region": "Khénifra",
+    "lat": 32.5021,
+    "lon": -6.6877,
+    "population": 49356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reggada",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.5802,
+    "lon": -9.7009,
+    "population": 49231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Beni Mathar",
+    "region": "L'Oriental",
+    "lat": 34.0097,
+    "lon": -2.0324,
+    "population": 48911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talzemt",
+    "region": "Fès-Meknès",
+    "lat": 33.59,
+    "lon": -4.19,
+    "population": 48574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oualidia",
+    "region": "Casablanca-Settat",
+    "lat": 32.7337,
+    "lon": -9.0306,
+    "population": 48485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanger-Assilah",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.59,
+    "lon": -5.9,
+    "population": 48197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marrakech",
+    "region": "Safi",
+    "lat": 31.6362,
+    "lon": -8.0104,
+    "population": 47846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nador",
+    "region": "L'Oriental",
+    "lat": 35,
+    "lon": -3,
+    "population": 47774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouarzazat",
+    "region": "Drâa-Tafilalet",
+    "lat": 30.9189,
+    "lon": -6.8934,
+    "population": 47667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fès al Bali",
+    "region": "Fès-Meknès",
+    "lat": 34.0701,
+    "lon": -4.9547,
+    "population": 47610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nouaceur",
+    "region": "Casablanca-Settat",
+    "lat": 33.4584,
+    "lon": -7.6473,
+    "population": 47264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El-Jadida",
+    "region": "Casablanca-Settat",
+    "lat": 32.9,
+    "lon": -8.5,
+    "population": 46733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derdara",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.1104,
+    "lon": -5.2901,
+    "population": 46710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tan-Tan",
+    "region": "Guelmim-Oued Noun (EH-partial)",
+    "lat": 28.0833,
+    "lon": -11.0833,
+    "population": 46548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued-Ed-Dahab",
+    "region": "Oued Ed-Dahab (EH)",
+    "lat": 23.642,
+    "lon": -14.4493,
+    "population": 46511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ourtzagh",
+    "region": "Fès-Meknès",
+    "lat": 34.5348,
+    "lon": -4.9688,
+    "population": 46302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larache",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.1667,
+    "lon": -5.8333,
+    "population": 46126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bzou",
+    "region": "Khénifra",
+    "lat": 32.0917,
+    "lon": -7.0479,
+    "population": 46101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taouloukoult",
+    "region": "Safi",
+    "lat": 31.2222,
+    "lon": -9.0794,
+    "population": 46055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taza",
+    "region": "Fès-Meknès",
+    "lat": 34.25,
+    "lon": -3.75,
+    "population": 45930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanalt",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.7755,
+    "lon": -9.168,
+    "population": 45716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mediouna",
+    "region": "Casablanca-Settat",
+    "lat": 33.5201,
+    "lon": -7.5035,
+    "population": 45635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taourirt",
+    "region": "L'Oriental",
+    "lat": 34.4073,
+    "lon": -2.8973,
+    "population": 45633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ifrane",
+    "region": "Fès-Meknès",
+    "lat": 33.3333,
+    "lon": -5.25,
+    "population": 45375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Settat",
+    "region": "Casablanca-Settat",
+    "lat": 33.001,
+    "lon": -7.6166,
+    "population": 45341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ksar El Kebir",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.0004,
+    "lon": -5.9038,
+    "population": 45176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "lat": 30.9413,
+    "lon": -6.9028,
+    "population": 45118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Zem",
+    "region": "Khénifra",
+    "lat": 32.8627,
+    "lon": -6.5736,
+    "population": 44880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguelmous",
+    "region": "Khénifra",
+    "lat": 33.1614,
+    "lon": -5.8463,
+    "population": 44749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asilah",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.4652,
+    "lon": -6.0342,
+    "population": 44479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chefchaouene",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.1688,
+    "lon": -5.2636,
+    "population": 44259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tidili Mesfioua",
+    "region": "Safi",
+    "lat": 31.4659,
+    "lon": -7.612,
+    "population": 44152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fquih Ben Salah Province",
+    "region": "Khénifra",
+    "lat": 32.5011,
+    "lon": -6.6841,
+    "population": 43853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelaat Mgouna",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.2457,
+    "lon": -6.1326,
+    "population": 43474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aourir",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.4924,
+    "lon": -9.6355,
+    "population": 43468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fahs-Anjra",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.74,
+    "lon": -5.68,
+    "population": 43302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meknes",
+    "region": "Fès-Meknès",
+    "lat": 33.9776,
+    "lon": -5.525,
+    "population": 43131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamorot",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 34.9363,
+    "lon": -4.7794,
+    "population": 42875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tetouan",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.5833,
+    "lon": -5.5,
+    "population": 42548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiflet",
+    "region": "Kénitra",
+    "lat": 33.8947,
+    "lon": -6.3065,
+    "population": 42406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imlili",
+    "region": "Oued Ed-Dahab (EH)",
+    "lat": 22.6558,
+    "lon": -15.6072,
+    "population": 42320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dar Ould Zidouh",
+    "region": "Khénifra",
+    "lat": 32.3125,
+    "lon": -6.9049,
+    "population": 40950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zawyat an Nwaçer",
+    "region": "Casablanca-Settat",
+    "lat": 33.3798,
+    "lon": -7.6193,
+    "population": 40844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Amlil",
+    "region": "Fès-Meknès",
+    "lat": 34.2,
+    "lon": -4.28,
+    "population": 40838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azilal",
+    "region": "Khénifra",
+    "lat": 31.9616,
+    "lon": -6.5711,
+    "population": 40707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "M'Diq-Fnideq",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.8574,
+    "lon": -5.3586,
+    "population": 40518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zawyat ech Cheïkh",
+    "region": "Khénifra",
+    "lat": 32.6444,
+    "lon": -5.9183,
+    "population": 40342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selouane",
+    "region": "L'Oriental",
+    "lat": 35.0731,
+    "lon": -2.9423,
+    "population": 40167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sefrou",
+    "region": "Fès-Meknès",
+    "lat": 33.7998,
+    "lon": -4.68,
+    "population": 40068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arfoud",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.4353,
+    "lon": -4.2326,
+    "population": 40037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inezgane",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.3554,
+    "lon": -9.5364,
+    "population": 40000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alnif",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.1141,
+    "lon": -5.1715,
+    "population": 39784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itzer",
+    "region": "Khénifra",
+    "lat": 32.8783,
+    "lon": -5.0515,
+    "population": 39408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Missour",
+    "region": "Fès-Meknès",
+    "lat": 33.0489,
+    "lon": -3.9895,
+    "population": 38964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khemisset",
+    "region": "Kénitra",
+    "lat": 33.6667,
+    "lon": -6.25,
+    "population": 38798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laayoune",
+    "region": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "lat": 27.8333,
+    "lon": -12.3333,
+    "population": 38704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tafraout",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.7245,
+    "lon": -8.9747,
+    "population": 38529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiznit",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.5833,
+    "lon": -9.5,
+    "population": 38518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moulay Bouchta",
+    "region": "Fès-Meknès",
+    "lat": 34.4892,
+    "lon": -5.1302,
+    "population": 38500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mhamid",
+    "region": "Drâa-Tafilalet",
+    "lat": 29.82,
+    "lon": -5.72,
+    "population": 38490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Laou",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.4484,
+    "lon": -5.0963,
+    "population": 38331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouezzane",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 34.7958,
+    "lon": -5.5785,
+    "population": 38258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouabout",
+    "region": "Safi",
+    "lat": 31.2655,
+    "lon": -9.1786,
+    "population": 38230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Qacem",
+    "region": "Kénitra",
+    "lat": 34.2215,
+    "lon": -5.7077,
+    "population": 38155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marrakesh",
+    "region": "Safi",
+    "lat": 31.6342,
+    "lon": -7.9999,
+    "population": 38015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brikcha",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 34.9673,
+    "lon": -5.5729,
+    "population": 38000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hoceïma",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.2516,
+    "lon": -3.9372,
+    "population": 37799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bni Bouayach",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.1051,
+    "lon": -3.8403,
+    "population": 37659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabat",
+    "region": "Kénitra",
+    "lat": 34.0132,
+    "lon": -6.8326,
+    "population": 37642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zerkten",
+    "region": "Safi",
+    "lat": 31.4447,
+    "lon": -7.3922,
+    "population": 36964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taliouine",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.5292,
+    "lon": -7.9126,
+    "population": 36500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Yahia El Gharb",
+    "region": "Kénitra",
+    "lat": 34.3049,
+    "lon": -6.304,
+    "population": 36198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelaa-Des-Sraghna",
+    "region": "Safi",
+    "lat": 32.1667,
+    "lon": -7.75,
+    "population": 35960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imilchil",
+    "region": "Drâa-Tafilalet",
+    "lat": 32.1531,
+    "lon": -5.6245,
+    "population": 35887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohammedia",
+    "region": "Casablanca-Settat",
+    "lat": 33.6861,
+    "lon": -7.383,
+    "population": 35754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guercif",
+    "region": "Fès-Meknès",
+    "lat": 34.2257,
+    "lon": -3.3536,
+    "population": 35462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Aaroui",
+    "region": "L'Oriental",
+    "lat": 35.0109,
+    "lon": -3.0094,
+    "population": 34791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azilal Province",
+    "region": "Khénifra",
+    "lat": 31.9167,
+    "lon": -6.5,
+    "population": 34723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouaoula",
+    "region": "Khénifra",
+    "lat": 31.87,
+    "lon": -6.75,
+    "population": 34703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jebel Tiskaouine",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.0272,
+    "lon": -5.1164,
+    "population": 34676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaïo",
+    "region": "L'Oriental",
+    "lat": 34.9428,
+    "lon": -2.7329,
+    "population": 34550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galaz",
+    "region": "Fès-Meknès",
+    "lat": 34.5442,
+    "lon": -4.8036,
+    "population": 34535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teroual",
+    "region": "Kénitra",
+    "lat": 34.6745,
+    "lon": -5.2733,
+    "population": 34492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oujda-Angad",
+    "region": "L'Oriental",
+    "lat": 34.236,
+    "lon": -2.294,
+    "population": 34400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aknoul",
+    "region": "Fès-Meknès",
+    "lat": 34.6537,
+    "lon": -3.8675,
+    "population": 34364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guercif Province",
+    "region": "L'Oriental",
+    "lat": 34.2504,
+    "lon": -3.3254,
+    "population": 34305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Figuig",
+    "region": "L'Oriental",
+    "lat": 32.8333,
+    "lon": -2.25,
+    "population": 34038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khouribga",
+    "region": "Khénifra",
+    "lat": 32.8811,
+    "lon": -6.9063,
+    "population": 33838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Mellal",
+    "region": "Khénifra",
+    "lat": 32.3372,
+    "lon": -6.3498,
+    "population": 33519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ifrane",
+    "region": "Khénifra",
+    "lat": 31.7022,
+    "lon": -6.3494,
+    "population": 33313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arbaoua",
+    "region": "Kénitra",
+    "lat": 34.9024,
+    "lon": -5.9487,
+    "population": 33181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahfir",
+    "region": "L'Oriental",
+    "lat": 34.9537,
+    "lon": -2.1003,
+    "population": 33045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Had Kourt",
+    "region": "Kénitra",
+    "lat": 34.6159,
+    "lon": -5.7404,
+    "population": 32962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oulad Frej",
+    "region": "Casablanca-Settat",
+    "lat": 32.9596,
+    "lon": -8.2274,
+    "population": 32895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argana",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.7825,
+    "lon": -9.1197,
+    "population": 32829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casablanca",
+    "region": "Casablanca-Settat",
+    "lat": 33.5884,
+    "lon": -7.5579,
+    "population": 32763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aousserd",
+    "region": "Oued Ed-Dahab (EH)",
+    "lat": 21.9198,
+    "lon": -15.0207,
+    "population": 32395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berkane",
+    "region": "L'Oriental",
+    "lat": 34.61,
+    "lon": -2.57,
+    "population": 32285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mechraa Bel Ksiri",
+    "region": "Kénitra",
+    "lat": 34.5737,
+    "lon": -5.9558,
+    "population": 31498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chichaoua",
+    "region": "Safi",
+    "lat": 31.2636,
+    "lon": -8.8441,
+    "population": 31188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senada",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.0745,
+    "lon": -4.2158,
+    "population": 30410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouezzane Province",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 34.7976,
+    "lon": -5.586,
+    "population": 30239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Driouch Province",
+    "region": "L'Oriental",
+    "lat": 34.9767,
+    "lon": -3.3884,
+    "population": 30210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souq Larb’a al Gharb",
+    "region": "Kénitra",
+    "lat": 34.6866,
+    "lon": -6.0027,
+    "population": 29989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timoulilt",
+    "region": "Khénifra",
+    "lat": 32.2037,
+    "lon": -6.4666,
+    "population": 29738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cap Negro II",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.6597,
+    "lon": -5.2852,
+    "population": 29686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Safi",
+    "region": "Safi",
+    "lat": 32.1667,
+    "lon": -8.8333,
+    "population": 29557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agdz",
+    "region": "Drâa-Tafilalet",
+    "lat": 30.6936,
+    "lon": -6.4463,
+    "population": 29448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oulad Tayeb",
+    "region": "Fès-Meknès",
+    "lat": 33.9463,
+    "lon": -4.9951,
+    "population": 29099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouskoura",
+    "region": "Casablanca-Settat",
+    "lat": 33.4498,
+    "lon": -7.6524,
+    "population": 29088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taroudannt",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.5,
+    "lon": -8.4167,
+    "population": 28840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taghazout",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.5426,
+    "lon": -9.7111,
+    "population": 28609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reçani",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.2832,
+    "lon": -4.2656,
+    "population": 28474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assa-Zag",
+    "region": "Guelmim-Oued Noun (EH-partial)",
+    "lat": 28.1667,
+    "lon": -9.4167,
+    "population": 28399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinghir Province",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.5196,
+    "lon": -5.53,
+    "population": 28310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debdou",
+    "region": "L'Oriental",
+    "lat": 33.9823,
+    "lon": -3.0426,
+    "population": 28283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taznakht",
+    "region": "Drâa-Tafilalet",
+    "lat": 30.5784,
+    "lon": -7.2034,
+    "population": 28218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiztoutine",
+    "region": "L'Oriental",
+    "lat": 34.9716,
+    "lon": -3.1527,
+    "population": 27898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangier",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.7673,
+    "lon": -5.7998,
+    "population": 27874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smimou",
+    "region": "Safi",
+    "lat": 31.2101,
+    "lon": -9.7086,
+    "population": 27661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taroudant",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.4703,
+    "lon": -8.877,
+    "population": 27139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isseksi",
+    "region": "Khénifra",
+    "lat": 32.2298,
+    "lon": -6.2766,
+    "population": 26808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martil",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.6166,
+    "lon": -5.2752,
+    "population": 26725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agadir Melloul",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.2249,
+    "lon": -7.796,
+    "population": 26654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boujniba",
+    "region": "Khénifra",
+    "lat": 32.9005,
+    "lon": -6.7746,
+    "population": 25850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Targuist",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 34.9377,
+    "lon": -4.3186,
+    "population": 25732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouarouss",
+    "region": "Fès-Meknès",
+    "lat": 34.36,
+    "lon": -4.81,
+    "population": 25593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khenifra",
+    "region": "Khénifra",
+    "lat": 32.9333,
+    "lon": -5.6667,
+    "population": 25463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagora",
+    "region": "Drâa-Tafilalet",
+    "lat": 30.3484,
+    "lon": -5.8365,
+    "population": 24984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tata",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.6667,
+    "lon": -7.8333,
+    "population": 24784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Rahhal",
+    "region": "Safi",
+    "lat": 31.6503,
+    "lon": -7.4729,
+    "population": 24643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inezgane-Ait Melloul",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.1,
+    "lon": -9.0333,
+    "population": 24251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akhfennir",
+    "region": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "lat": 28.0946,
+    "lon": -12.0516,
+    "population": 24211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Hoceima",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35,
+    "lon": -4.25,
+    "population": 24136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taounate",
+    "region": "Fès-Meknès",
+    "lat": 34.5,
+    "lon": -4.8333,
+    "population": 23980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chefchaouen Province",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35,
+    "lon": -5.0833,
+    "population": 23970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhalil",
+    "region": "Fès-Meknès",
+    "lat": 33.8519,
+    "lon": -4.8723,
+    "population": 23471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarsouat",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.5815,
+    "lon": -9.0266,
+    "population": 23393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skhirate",
+    "region": "Kénitra",
+    "lat": 33.8527,
+    "lon": -7.0317,
+    "population": 23003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aoulouz",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.6731,
+    "lon": -8.1809,
+    "population": 22888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Smai’il",
+    "region": "Casablanca-Settat",
+    "lat": 32.8246,
+    "lon": -8.5112,
+    "population": 22519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fnidek",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.8491,
+    "lon": -5.3575,
+    "population": 22497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hajeb",
+    "region": "Fès-Meknès",
+    "lat": 33.6879,
+    "lon": -5.371,
+    "population": 22450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Ifni",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.3798,
+    "lon": -10.173,
+    "population": 22390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midelt",
+    "region": "Khénifra",
+    "lat": 32.6852,
+    "lon": -4.7451,
+    "population": 22292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boulemane",
+    "region": "Fès-Meknès",
+    "lat": 33.1667,
+    "lon": -4,
+    "population": 22026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aoufous",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.68,
+    "lon": -4.17,
+    "population": 21946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skhirate-Temara",
+    "region": "Kénitra",
+    "lat": 33.77,
+    "lon": -6.87,
+    "population": 21876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni-Mellal",
+    "region": "Khénifra",
+    "lat": 32.5,
+    "lon": -6.3333,
+    "population": 21548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Setti Fatma",
+    "region": "Safi",
+    "lat": 31.2251,
+    "lon": -7.6775,
+    "population": 21058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zinat",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.43,
+    "lon": -5.4,
+    "population": 20843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guelmim",
+    "region": "Guelmim-Oued Noun (EH-partial)",
+    "lat": 28.75,
+    "lon": -10,
+    "population": 20746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Es-Semara",
+    "region": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "lat": 27.75,
+    "lon": -11,
+    "population": 20508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jorf",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.4944,
+    "lon": -4.406,
+    "population": 20423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adassil",
+    "region": "Safi",
+    "lat": 31.1078,
+    "lon": -8.4908,
+    "population": 20371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouznika",
+    "region": "Casablanca-Settat",
+    "lat": 33.7894,
+    "lon": -7.1597,
+    "population": 20275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oulmes",
+    "region": "Kénitra",
+    "lat": 33.4258,
+    "lon": -6.0014,
+    "population": 20002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Bennour",
+    "region": "Casablanca-Settat",
+    "lat": 32.649,
+    "lon": -8.4269,
+    "population": 19954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midelt",
+    "region": "Drâa-Tafilalet",
+    "lat": 32.6805,
+    "lon": -4.7369,
+    "population": 19335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Slimane",
+    "region": "Kénitra",
+    "lat": 34.2648,
+    "lon": -5.926,
+    "population": 19276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benslimane",
+    "region": "Casablanca-Settat",
+    "lat": 33.5,
+    "lon": -7.1667,
+    "population": 19198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agadir-Ida-ou-Tnan",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.5833,
+    "lon": -9.5,
+    "population": 19005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agadir",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.4202,
+    "lon": -9.5982,
+    "population": 18909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Essaouira",
+    "region": "Safi",
+    "lat": 31.5068,
+    "lon": -9.7566,
+    "population": 17979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sale",
+    "region": "Kénitra",
+    "lat": 34.0531,
+    "lon": -6.7985,
+    "population": 17969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouarfa",
+    "region": "L'Oriental",
+    "lat": 32.5338,
+    "lon": -1.9621,
+    "population": 17952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Jaber",
+    "region": "Khénifra",
+    "lat": 32.3895,
+    "lon": -6.421,
+    "population": 17757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azrou",
+    "region": "Fès-Meknès",
+    "lat": 33.4344,
+    "lon": -5.2213,
+    "population": 17750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zoumi",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 34.8032,
+    "lon": -5.3446,
+    "population": 17704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abadou",
+    "region": "Safi",
+    "lat": 31.5792,
+    "lon": -7.3131,
+    "population": 17523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boujdour",
+    "region": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "lat": 25.6617,
+    "lon": -13.6842,
+    "population": 17395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moulay-Yacoub",
+    "region": "Fès-Meknès",
+    "lat": 34.1456,
+    "lon": -5.1026,
+    "population": 17381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Settat Province",
+    "region": "Casablanca-Settat",
+    "lat": 33.0833,
+    "lon": -7.4167,
+    "population": 17329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arazane",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.5035,
+    "lon": -8.6064,
+    "population": 16934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azemmour",
+    "region": "Casablanca-Settat",
+    "lat": 33.2895,
+    "lon": -8.3425,
+    "population": 16174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tit Mellil",
+    "region": "Casablanca-Settat",
+    "lat": 33.5581,
+    "lon": -7.4865,
+    "population": 16162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Haouz",
+    "region": "Safi",
+    "lat": 31.3408,
+    "lon": -7.9108,
+    "population": 15455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tadrart",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.7748,
+    "lon": -9.4595,
+    "population": 15318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jerada",
+    "region": "L'Oriental",
+    "lat": 34.2366,
+    "lon": -2.0428,
+    "population": 15027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bigoudine",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.7238,
+    "lon": -9.211,
+    "population": 14994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinghir",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.5147,
+    "lon": -5.5328,
+    "population": 14843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kenitra Province",
+    "region": "Kénitra",
+    "lat": 34.5833,
+    "lon": -6.3333,
+    "population": 14781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Temara",
+    "region": "Kénitra",
+    "lat": 33.9287,
+    "lon": -6.9066,
+    "population": 14757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Youssoufia",
+    "region": "Safi",
+    "lat": 32.2463,
+    "lon": -8.5294,
+    "population": 14705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouijjane",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 29.6278,
+    "lon": -9.5396,
+    "population": 14677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamri",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.696,
+    "lon": -9.8297,
+    "population": 14582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerrouchen",
+    "region": "Khénifra",
+    "lat": 32.7964,
+    "lon": -5.3188,
+    "population": 14272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghouazi",
+    "region": "Fès-Meknès",
+    "lat": 34.4774,
+    "lon": -5.3023,
+    "population": 14230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berrechid Province",
+    "region": "Casablanca-Settat",
+    "lat": 33.2658,
+    "lon": -7.5814,
+    "population": 14139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasba Tadla",
+    "region": "Khénifra",
+    "lat": 32.5977,
+    "lon": -6.2684,
+    "population": 13976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madagh",
+    "region": "L'Oriental",
+    "lat": 35.0103,
+    "lon": -2.337,
+    "population": 13696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Bousber",
+    "region": "Kénitra",
+    "lat": 34.5628,
+    "lon": -5.3621,
+    "population": 13648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fes",
+    "region": "Fès-Meknès",
+    "lat": 34.04,
+    "lon": -4.87,
+    "population": 13362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Ifni",
+    "region": "Guelmim-Oued Noun (EH-partial)",
+    "lat": 29.3772,
+    "lon": -10.1711,
+    "population": 13331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chtouka-Ait-Baha",
+    "region": "Assa-Zag (EH-partial)",
+    "lat": 30.0295,
+    "lon": -9.3091,
+    "population": 13312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rehamna",
+    "region": "Safi",
+    "lat": 32.2458,
+    "lon": -7.9314,
+    "population": 13048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telouet",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.2892,
+    "lon": -7.2379,
+    "population": 13042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Demnate",
+    "region": "Khénifra",
+    "lat": 31.7344,
+    "lon": -7.005,
+    "population": 13016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tmourghout",
+    "region": "Fès-Meknès",
+    "lat": 33.9065,
+    "lon": -4.027,
+    "population": 12657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almis Marmoucha",
+    "region": "Fès-Meknès",
+    "lat": 33.32,
+    "lon": -4.18,
+    "population": 12423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Redouane",
+    "region": "Kénitra",
+    "lat": 34.6869,
+    "lon": -5.4454,
+    "population": 12414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saidia",
+    "region": "L'Oriental",
+    "lat": 35.0819,
+    "lon": -2.229,
+    "population": 12117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smara",
+    "region": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "lat": 26.7384,
+    "lon": -11.6719,
+    "population": 12083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berrechid",
+    "region": "Casablanca-Settat",
+    "lat": 33.2655,
+    "lon": -7.5875,
+    "population": 11812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tirhanimîne",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.2362,
+    "lon": -3.9545,
+    "population": 11589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timezgadiouine",
+    "region": "Safi",
+    "lat": 30.8837,
+    "lon": -9.0455,
+    "population": 11483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarfaya",
+    "region": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "lat": 27.939,
+    "lon": -12.9208,
+    "population": 11298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamanar",
+    "region": "Safi",
+    "lat": 31.0009,
+    "lon": -9.678,
+    "population": 11183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oukaïmedene",
+    "region": "Safi",
+    "lat": 31.206,
+    "lon": -7.8609,
+    "population": 11094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imzouren",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "lat": 35.1464,
+    "lon": -3.8506,
+    "population": 10844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Ksiba",
+    "region": "Khénifra",
+    "lat": 32.5729,
+    "lon": -6.0195,
+    "population": 10724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Errachidia",
+    "region": "Drâa-Tafilalet",
+    "lat": 31.75,
+    "lon": -4.5,
+    "population": 10495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midar",
+    "region": "L'Oriental",
+    "lat": 34.9402,
+    "lon": -3.5331,
+    "population": 10455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gueltat Zemmour",
+    "region": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "lat": 25.1428,
+    "lon": -12.3717,
+    "population": 10400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tahla",
+    "region": "Fès-Meknès",
+    "lat": 34.0496,
+    "lon": -4.4216,
+    "population": 10375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boulaouane",
+    "region": "Casablanca-Settat",
+    "lat": 32.8599,
+    "lon": -8.0556,
+    "population": 10248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Leuh",
+    "region": "Fès-Meknès",
+    "lat": 33.2898,
+    "lon": -5.3386,
+    "population": 10082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi-Kacem",
+    "region": "Kénitra",
+    "lat": 34.5833,
+    "lon": -5.75,
+    "population": 10078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Aïoun",
+    "region": "L'Oriental",
+    "lat": 34.5832,
+    "lon": -2.5061,
+    "population": 10074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El-Hajeb",
+    "region": "Fès-Meknès",
+    "lat": 33.7288,
+    "lon": -5.4612,
+    "population": 10054,
+    "timezone": "UTC"
+  }
+]

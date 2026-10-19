@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Hisor",
+    "region": "districts of Republican Subordination",
+    "lat": 38.525,
+    "lon": 68.5512,
+    "population": 49806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yovon",
+    "region": "Khatlon Province",
+    "lat": 38.3141,
+    "lon": 69.0378,
+    "population": 49697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mŭ’minobod",
+    "region": "Khatlon Province",
+    "lat": 38.1071,
+    "lon": 70.0321,
+    "population": 49392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quruqsoy",
+    "region": "Sughd Province",
+    "lat": 40.5765,
+    "lon": 69.3796,
+    "population": 48556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dŭstí",
+    "region": "Khatlon Province",
+    "lat": 37.3481,
+    "lon": 68.664,
+    "population": 48255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kim",
+    "region": "Sughd Province",
+    "lat": 40.208,
+    "lon": 70.4688,
+    "population": 48042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tursunzoda",
+    "region": "districts of Republican Subordination",
+    "lat": 38.5127,
+    "lon": 68.2316,
+    "population": 46966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghafurov",
+    "region": "Sughd Province",
+    "lat": 40.2157,
+    "lon": 69.7287,
+    "population": 46900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayní",
+    "region": "Sughd Province",
+    "lat": 39.3941,
+    "lon": 68.5377,
+    "population": 46598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ishqoshim",
+    "region": "Gorno-Badakhshan Autonomous Province",
+    "lat": 36.7248,
+    "lon": 71.6133,
+    "population": 46354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chkalov",
+    "region": "Sughd Province",
+    "lat": 40.2342,
+    "lon": 69.6948,
+    "population": 44875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Istaravshan",
+    "region": "Sughd Province",
+    "lat": 39.9142,
+    "lon": 69.0033,
+    "population": 43765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pakhtakoron",
+    "region": "Sughd Province",
+    "lat": 40.1571,
+    "lon": 68.7466,
+    "population": 43523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirov",
+    "region": "Khatlon Province",
+    "lat": 37.8191,
+    "lon": 68.859,
+    "population": 43323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaydon",
+    "region": "Sughd Province",
+    "lat": 40.6699,
+    "lon": 70.3502,
+    "population": 43209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chubek",
+    "region": "Khatlon Province",
+    "lat": 37.6145,
+    "lon": 69.7053,
+    "population": 42264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oltintopkan",
+    "region": "Sughd Province",
+    "lat": 40.6542,
+    "lon": 69.5981,
+    "population": 41828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farkhor",
+    "region": "Khatlon Province",
+    "lat": 37.4922,
+    "lon": 69.4036,
+    "population": 41587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nohiyai Panj",
+    "region": "Khatlon Province",
+    "lat": 37.3161,
+    "lon": 69.1668,
+    "population": 41581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panj",
+    "region": "Khatlon Province",
+    "lat": 37.2363,
+    "lon": 69.0991,
+    "population": 41419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danghara",
+    "region": "Khatlon Province",
+    "lat": 38.0958,
+    "lon": 69.34,
+    "population": 40793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panjakent",
+    "region": "Sughd Province",
+    "lat": 39.4952,
+    "lon": 67.6093,
+    "population": 38727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jilikŭl",
+    "region": "Khatlon Province",
+    "lat": 37.4917,
+    "lon": 68.5311,
+    "population": 38471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darband",
+    "region": "districts of Republican Subordination",
+    "lat": 38.8678,
+    "lon": 69.9664,
+    "population": 38371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahdat",
+    "region": "districts of Republican Subordination",
+    "lat": 38.5563,
+    "lon": 69.0135,
+    "population": 37928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrinav",
+    "region": "districts of Republican Subordination",
+    "lat": 38.5709,
+    "lon": 68.335,
+    "population": 37786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolkhozobod",
+    "region": "Khatlon Province",
+    "lat": 37.5882,
+    "lon": 68.6589,
+    "population": 36933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varzob",
+    "region": "districts of Republican Subordination",
+    "lat": 38.7737,
+    "lon": 68.8178,
+    "population": 36411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bŭstonqal’a",
+    "region": "Khatlon Province",
+    "lat": 37.8478,
+    "lon": 68.8312,
+    "population": 32956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novobod",
+    "region": "districts of Republican Subordination",
+    "lat": 39.0108,
+    "lon": 70.1508,
+    "population": 31308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konsoy",
+    "region": "Sughd Province",
+    "lat": 40.4915,
+    "lon": 69.7024,
+    "population": 30803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boshchorbogh",
+    "region": "Khatlon Province",
+    "lat": 37.5203,
+    "lon": 68.1282,
+    "population": 30676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khodzha-Maston",
+    "region": "districts of Republican Subordination",
+    "lat": 38.7446,
+    "lon": 68.627,
+    "population": 30671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nohiyai Vakhsh",
+    "region": "Khatlon Province",
+    "lat": 37.756,
+    "lon": 68.9414,
+    "population": 29889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konibodom",
+    "region": "Sughd Province",
+    "lat": 40.2941,
+    "lon": 70.4312,
+    "population": 29477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obigarm",
+    "region": "districts of Republican Subordination",
+    "lat": 38.7173,
+    "lon": 69.7088,
+    "population": 29473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orzu",
+    "region": "Khatlon Province",
+    "lat": 37.5582,
+    "lon": 68.8195,
+    "population": 29454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shŭrob",
+    "region": "Sughd Province",
+    "lat": 40.0461,
+    "lon": 70.5412,
+    "population": 27989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bŭston",
+    "region": "Sughd Province",
+    "lat": 40.5229,
+    "lon": 69.3331,
+    "population": 27759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nohiyai Konibodom",
+    "region": "Sughd Province",
+    "lat": 40.2688,
+    "lon": 70.3306,
+    "population": 25695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taboshar",
+    "region": "Sughd Province",
+    "lat": 40.5702,
+    "lon": 69.6418,
+    "population": 24338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qŭrghonteppa",
+    "region": "Khatlon Province",
+    "lat": 37.834,
+    "lon": 68.7819,
+    "population": 23631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gharavŭtí",
+    "region": "Khatlon Province",
+    "lat": 37.567,
+    "lon": 68.4467,
+    "population": 23578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adrasmon",
+    "region": "Sughd Province",
+    "lat": 40.6493,
+    "lon": 69.9847,
+    "population": 23568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tartiki",
+    "region": "Khatlon Province",
+    "lat": 37.5822,
+    "lon": 68.1335,
+    "population": 23527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sovet",
+    "region": "Khatlon Province",
+    "lat": 38.0467,
+    "lon": 69.5882,
+    "population": 22681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roghun",
+    "region": "districts of Republican Subordination",
+    "lat": 38.6933,
+    "lon": 69.7369,
+    "population": 22580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khorugh",
+    "region": "Gorno-Badakhshan Autonomous Province",
+    "lat": 37.4897,
+    "lon": 71.553,
+    "population": 22092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karakenja",
+    "region": "districts of Republican Subordination",
+    "lat": 39.2358,
+    "lon": 71.5241,
+    "population": 21979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khŭjand",
+    "region": "Sughd Province",
+    "lat": 40.2826,
+    "lon": 69.6222,
+    "population": 20920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahdat District",
+    "region": "districts of Republican Subordination",
+    "lat": 38.8333,
+    "lon": 69.3333,
+    "population": 20490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vose’",
+    "region": "Khatlon Province",
+    "lat": 37.804,
+    "lon": 69.6442,
+    "population": 20085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kŭlob",
+    "region": "Khatlon Province",
+    "lat": 37.9146,
+    "lon": 69.7845,
+    "population": 19240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abdurahmoni Jomí",
+    "region": "Khatlon Province",
+    "lat": 37.9464,
+    "lon": 68.8088,
+    "population": 19190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Proletar",
+    "region": "Sughd Province",
+    "lat": 40.1671,
+    "lon": 69.5016,
+    "population": 19014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahritus",
+    "region": "Khatlon Province",
+    "lat": 37.2621,
+    "lon": 68.1385,
+    "population": 18761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murghob",
+    "region": "Gorno-Badakhshan Autonomous Province",
+    "lat": 38.1702,
+    "lon": 73.9667,
+    "population": 18354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varzob District",
+    "region": "districts of Republican Subordination",
+    "lat": 38.75,
+    "lon": 68.75,
+    "population": 18075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neftobod",
+    "region": "Sughd Province",
+    "lat": 40.2152,
+    "lon": 70.5719,
+    "population": 17954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasht",
+    "region": "districts of Republican Subordination",
+    "lat": 39.0287,
+    "lon": 70.3745,
+    "population": 17593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norak",
+    "region": "Khatlon Province",
+    "lat": 38.3892,
+    "lon": 69.3227,
+    "population": 16184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tagob",
+    "region": "districts of Republican Subordination",
+    "lat": 38.8383,
+    "lon": 68.8985,
+    "population": 15900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palos",
+    "region": "Sughd Province",
+    "lat": 40.3163,
+    "lon": 69.7374,
+    "population": 14426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nohiyai Kolkhozobod",
+    "region": "Khatlon Province",
+    "lat": 37.5728,
+    "lon": 68.8153,
+    "population": 13808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vakhsh",
+    "region": "Khatlon Province",
+    "lat": 37.7148,
+    "lon": 68.8346,
+    "population": 13089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vorukh",
+    "region": "Sughd Province",
+    "lat": 39.8513,
+    "lon": 70.5801,
+    "population": 12456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nohiyai Shughnon",
+    "region": "Gorno-Badakhshan Autonomous Province",
+    "lat": 37.7,
+    "lon": 72.1675,
+    "population": 12406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nov",
+    "region": "Sughd Province",
+    "lat": 40.1522,
+    "lon": 69.3708,
+    "population": 11350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moskovskiy",
+    "region": "Khatlon Province",
+    "lat": 37.6093,
+    "lon": 68.5809,
+    "population": 11069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isfara",
+    "region": "Sughd Province",
+    "lat": 40.1265,
+    "lon": 70.6253,
+    "population": 10355,
+    "timezone": "UTC"
+  }
+]

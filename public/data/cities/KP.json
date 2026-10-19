@@ -1,0 +1,642 @@
+[
+  {
+    "name": "T’ongch’ŏn-ŭp",
+    "region": "Kangwon Province",
+    "lat": 38.9539,
+    "lon": 127.8917,
+    "population": 49739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinsang-ni",
+    "region": "South Hamgyong Province",
+    "lat": 39.6503,
+    "lon": 127.4058,
+    "population": 49172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ongjin",
+    "region": "South Hwanghae Province",
+    "lat": 37.9347,
+    "lon": 125.3619,
+    "population": 48813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoemul-li",
+    "region": "North Hamgyong Province",
+    "lat": 41.4339,
+    "lon": 129.67,
+    "population": 48275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwaksan",
+    "region": "North Pyongan Province",
+    "lat": 39.6875,
+    "lon": 125.0828,
+    "population": 48005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoeryŏng",
+    "region": "North Hamgyong Province",
+    "lat": 42.4411,
+    "lon": 129.746,
+    "population": 47642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anak",
+    "region": "North Hwanghae Province",
+    "lat": 38.5108,
+    "lon": 125.4942,
+    "population": 47452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaeryŏng-ŭp",
+    "region": "South Hwanghae Province",
+    "lat": 38.3992,
+    "lon": 125.6156,
+    "population": 47083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinŭiju",
+    "region": "North Pyongan Province",
+    "lat": 40.1006,
+    "lon": 124.3981,
+    "population": 46171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakchu-ŭp",
+    "region": "North Pyongan Province",
+    "lat": 40.3894,
+    "lon": 125.0467,
+    "population": 45846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changgang-gun",
+    "region": "Chagang Province",
+    "lat": 41.0633,
+    "lon": 126.7256,
+    "population": 45473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hwangju-ŭp",
+    "region": "North Hwanghae Province",
+    "lat": 38.6703,
+    "lon": 125.7761,
+    "population": 45432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyŏngsŏng",
+    "region": "North Hamgyong Province",
+    "lat": 41.5878,
+    "lon": 129.6061,
+    "population": 44579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunan",
+    "region": "Pyongyang",
+    "lat": 39.1983,
+    "lon": 125.69,
+    "population": 44475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sil-li",
+    "region": "South Pyongan Province",
+    "lat": 39.4947,
+    "lon": 125.4736,
+    "population": 44455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ungsang-nodongjagu",
+    "region": "Rason",
+    "lat": 42.3578,
+    "lon": 130.4622,
+    "population": 44348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangdong-ŭp",
+    "region": "Pyongyang",
+    "lat": 39.1425,
+    "lon": 126.0961,
+    "population": 43337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hŭngnam",
+    "region": "South Hamgyong Province",
+    "lat": 39.8317,
+    "lon": 127.6186,
+    "population": 42890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sŭngjibaegam",
+    "region": "Ryanggang Province",
+    "lat": 41.2428,
+    "lon": 128.7989,
+    "population": 42503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yŏngbyŏn",
+    "region": "North Pyongan Province",
+    "lat": 39.8133,
+    "lon": 125.8042,
+    "population": 42399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangsŏng-ni",
+    "region": "South Pyongan Province",
+    "lat": 39.1694,
+    "lon": 126.8856,
+    "population": 42321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chŏngju",
+    "region": "North Pyongan Province",
+    "lat": 39.6933,
+    "lon": 125.2103,
+    "population": 40500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onsŏng",
+    "region": "North Hamgyong Province",
+    "lat": 42.9572,
+    "lon": 129.9933,
+    "population": 40358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinmak",
+    "region": "North Hwanghae Province",
+    "lat": 38.4167,
+    "lon": 126.2333,
+    "population": 40214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyesan",
+    "region": "Ryanggang Province",
+    "lat": 41.4017,
+    "lon": 128.1778,
+    "population": 40080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yŏmju-ŭp",
+    "region": "North Pyongan Province",
+    "lat": 39.8933,
+    "lon": 124.5981,
+    "population": 39663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haeju",
+    "region": "South Hwanghae Province",
+    "lat": 38.0406,
+    "lon": 125.7147,
+    "population": 39565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koksan",
+    "region": "North Hwanghae Province",
+    "lat": 38.7819,
+    "lon": 126.6664,
+    "population": 39281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hŭkkyo-ri",
+    "region": "North Hwanghae Province",
+    "lat": 38.7986,
+    "lon": 125.7919,
+    "population": 38810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyŏksŏng-ŭp",
+    "region": "South Hwanghae Province",
+    "lat": 38.0475,
+    "lon": 125.5567,
+    "population": 37241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayang-ni",
+    "region": "South Hwanghae Province",
+    "lat": 38.2431,
+    "lon": 125.78,
+    "population": 37063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaesŏng",
+    "region": "South Hwanghae Province",
+    "lat": 37.9708,
+    "lon": 126.5544,
+    "population": 36567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sariwŏn",
+    "region": "North Hwanghae Province",
+    "lat": 38.5072,
+    "lon": 125.7558,
+    "population": 36468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hau-ri",
+    "region": "North Hamgyong Province",
+    "lat": 41.2006,
+    "lon": 129.4703,
+    "population": 36431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sŏnbong",
+    "region": "Rason",
+    "lat": 42.3512,
+    "lon": 130.3831,
+    "population": 36029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iwŏn-ŭp",
+    "region": "South Hamgyong Province",
+    "lat": 40.3231,
+    "lon": 128.6553,
+    "population": 35773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anju",
+    "region": "South Pyongan Province",
+    "lat": 39.6178,
+    "lon": 125.6647,
+    "population": 35468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chunghwa",
+    "region": "Pyongyang",
+    "lat": 38.8639,
+    "lon": 125.8,
+    "population": 34135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapsan-ŭp",
+    "region": "Ryanggang Province",
+    "lat": 41.0903,
+    "lon": 128.2933,
+    "population": 33143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samho-rodongjagu",
+    "region": "South Hamgyong Province",
+    "lat": 39.9475,
+    "lon": 127.8711,
+    "population": 33013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puryŏng",
+    "region": "North Hamgyong Province",
+    "lat": 42.0606,
+    "lon": 129.7117,
+    "population": 32937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songnim",
+    "region": "North Hwanghae Province",
+    "lat": 38.7542,
+    "lon": 125.645,
+    "population": 31069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ŭiju",
+    "region": "North Pyongan Province",
+    "lat": 40.1994,
+    "lon": 124.5317,
+    "population": 31013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komusan Il-tong",
+    "region": "North Hamgyong Province",
+    "lat": 42.1091,
+    "lon": 129.7,
+    "population": 30227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yonggang-ŭp",
+    "region": "South Pyongan Province",
+    "lat": 38.8561,
+    "lon": 125.4244,
+    "population": 28851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namp’o",
+    "region": "South Pyongan Province",
+    "lat": 38.7375,
+    "lon": 125.4078,
+    "population": 27615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chongjin",
+    "region": "North Hamgyong Province",
+    "lat": 41.7956,
+    "lon": 129.7758,
+    "population": 27245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunch’ŏn",
+    "region": "South Pyongan Province",
+    "lat": 39.4317,
+    "lon": 125.9328,
+    "population": 26920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yŏnan-ŭp",
+    "region": "South Hwanghae Province",
+    "lat": 37.9089,
+    "lon": 126.1611,
+    "population": 26835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chŏngju-gun",
+    "region": "North Pyongan Province",
+    "lat": 39.7094,
+    "lon": 125.2528,
+    "population": 26641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamhŭng",
+    "region": "South Hamgyong Province",
+    "lat": 39.9183,
+    "lon": 127.5364,
+    "population": 26437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yŏnggwang-ŭp",
+    "region": "South Hamgyong Province",
+    "lat": 40.0183,
+    "lon": 127.4547,
+    "population": 25083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuktae-dong",
+    "region": "South Hamgyong Province",
+    "lat": 40.0247,
+    "lon": 128.1597,
+    "population": 25016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sŭngho 1-tong",
+    "region": "Pyongyang",
+    "lat": 38.9914,
+    "lon": 125.9778,
+    "population": 23861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namyang-dong",
+    "region": "North Hamgyong Province",
+    "lat": 42.95,
+    "lon": 129.8667,
+    "population": 23635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyŏngwŏn",
+    "region": "North Hamgyong Province",
+    "lat": 42.8136,
+    "lon": 130.1528,
+    "population": 23599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sŭngam-nodongjagu",
+    "region": "North Hamgyong Province",
+    "lat": 41.6697,
+    "lon": 129.6689,
+    "population": 21355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kujang-ŭp",
+    "region": "North Pyongan Province",
+    "lat": 39.8672,
+    "lon": 126.0303,
+    "population": 21188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongwŏn",
+    "region": "South Hamgyong Province",
+    "lat": 40.0253,
+    "lon": 127.9558,
+    "population": 21152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kowŏn-ŭp",
+    "region": "South Hamgyong Province",
+    "lat": 39.4381,
+    "lon": 127.2431,
+    "population": 19626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyongyang",
+    "region": "Pyongyang",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "population": 19145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manp’o",
+    "region": "Chagang Province",
+    "lat": 41.1547,
+    "lon": 126.2894,
+    "population": 18350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chasŏng",
+    "region": "Chagang Province",
+    "lat": 41.4608,
+    "lon": 126.6414,
+    "population": 18186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anbyŏn-ŭp",
+    "region": "Kangwon Province",
+    "lat": 39.0425,
+    "lon": 127.5239,
+    "population": 18171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changyŏn",
+    "region": "South Hwanghae Province",
+    "lat": 38.2508,
+    "lon": 125.0961,
+    "population": 17279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "P’yŏngsŏng",
+    "region": "South Pyongan Province",
+    "lat": 39.2464,
+    "lon": 125.8719,
+    "population": 17255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musan-ŭp",
+    "region": "North Hamgyong Province",
+    "lat": 42.2261,
+    "lon": 129.2078,
+    "population": 17251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanggye",
+    "region": "Chagang Province",
+    "lat": 40.9695,
+    "lon": 126.5852,
+    "population": 16042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aoji",
+    "region": "North Hamgyong Province",
+    "lat": 42.5245,
+    "lon": 130.3972,
+    "population": 15355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wŏnsan",
+    "region": "Kangwon Province",
+    "lat": 39.1528,
+    "lon": 127.4436,
+    "population": 15188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanam",
+    "region": "North Hamgyong Province",
+    "lat": 41.7136,
+    "lon": 129.6844,
+    "population": 14690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoeyang",
+    "region": "Kangwon Province",
+    "lat": 38.7103,
+    "lon": 127.5983,
+    "population": 14125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyesan-dong",
+    "region": "Ryanggang Province",
+    "lat": 41.3976,
+    "lon": 128.1787,
+    "population": 13741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kusŏng",
+    "region": "North Pyongan Province",
+    "lat": 39.9811,
+    "lon": 125.2447,
+    "population": 13250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinanju",
+    "region": "South Pyongan Province",
+    "lat": 39.5981,
+    "lon": 125.6097,
+    "population": 12374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pukchil-lodongjagu",
+    "region": "North Pyongan Province",
+    "lat": 40.2019,
+    "lon": 125.7483,
+    "population": 12127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimch’aek-si",
+    "region": "North Hamgyong Province",
+    "lat": 40.6689,
+    "lon": 129.1897,
+    "population": 11315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilju",
+    "region": "North Hamgyong Province",
+    "lat": 40.9642,
+    "lon": 129.3278,
+    "population": 11031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosan",
+    "region": "Kangwon Province",
+    "lat": 38.8558,
+    "lon": 127.4181,
+    "population": 10470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panghyŏn-dong",
+    "region": "North Pyongan Province",
+    "lat": 39.8872,
+    "lon": 125.2414,
+    "population": 10117,
+    "timezone": "UTC"
+  }
+]

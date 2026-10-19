@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Laï",
+    "region": "Tandjilé Region",
+    "lat": 9.3972,
+    "lon": 16.3007,
+    "population": 48606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faya-Largeau",
+    "region": "Borkou",
+    "lat": 17.9257,
+    "lon": 19.1043,
+    "population": 48324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bongor",
+    "region": "Mayo-Kebbi Est Region",
+    "lat": 10.2806,
+    "lon": 15.3722,
+    "population": 47619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pala",
+    "region": "Mayo-Kebbi Ouest Region",
+    "lat": 9.3642,
+    "lon": 14.9046,
+    "population": 47277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Béboto",
+    "region": "Logone Oriental Region",
+    "lat": 8.2668,
+    "lon": 16.939,
+    "population": 46739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bitkine",
+    "region": "Guéra Region",
+    "lat": 11.9801,
+    "lon": 18.2138,
+    "population": 45294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bokoro",
+    "region": "Hadjer-Lamis",
+    "lat": 12.3781,
+    "lon": 17.0588,
+    "population": 43755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goz Beïda",
+    "region": "Sila Region",
+    "lat": 12.2248,
+    "lon": 21.4103,
+    "population": 43365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goundi",
+    "region": "Mandoul Region",
+    "lat": 9.3627,
+    "lon": 17.366,
+    "population": 42394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyabé",
+    "region": "Moyen-Chari Region",
+    "lat": 9.4515,
+    "lon": 18.9449,
+    "population": 41054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koumra",
+    "region": "Mandoul Region",
+    "lat": 8.9126,
+    "lon": 17.5539,
+    "population": 40175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moundou",
+    "region": "Logone Occidental Region",
+    "lat": 8.5667,
+    "lon": 16.0833,
+    "population": 40136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abéché",
+    "region": "Ouaddaï Region",
+    "lat": 13.8292,
+    "lon": 20.8324,
+    "population": 40059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelo",
+    "region": "Tandjilé Region",
+    "lat": 9.3086,
+    "lon": 15.8066,
+    "population": 39641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aozou",
+    "region": "Tibesti Region",
+    "lat": 21.8375,
+    "lon": 17.4275,
+    "population": 39544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bébédja",
+    "region": "Logone Oriental Region",
+    "lat": 8.6761,
+    "lon": 16.566,
+    "population": 38824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guelendeng",
+    "region": "Mayo-Kebbi Est Region",
+    "lat": 10.9176,
+    "lon": 15.5501,
+    "population": 38339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Massakory",
+    "region": "Hadjer-Lamis",
+    "lat": 12.996,
+    "lon": 15.7293,
+    "population": 37502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adré",
+    "region": "Ouaddaï Region",
+    "lat": 13.4665,
+    "lon": 22.1988,
+    "population": 36124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mongo",
+    "region": "Guéra Region",
+    "lat": 12.1844,
+    "lon": 18.693,
+    "population": 36092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beïnamar",
+    "region": "Logone Occidental Region",
+    "lat": 8.6698,
+    "lon": 15.3813,
+    "population": 35852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moussoro",
+    "region": "Bahr el Gazel",
+    "lat": 13.6414,
+    "lon": 16.4894,
+    "population": 32031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biltine",
+    "region": "Wadi Fira Region",
+    "lat": 14.5279,
+    "lon": 20.9275,
+    "population": 31438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moïssala",
+    "region": "Mandoul Region",
+    "lat": 8.3404,
+    "lon": 17.7663,
+    "population": 29137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mboursou Léré",
+    "region": "Mayo-Kebbi Ouest Region",
+    "lat": 9.7639,
+    "lon": 14.1539,
+    "population": 26845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bol",
+    "region": "Lac Region",
+    "lat": 13.4671,
+    "lon": 14.7136,
+    "population": 25779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Massaguet",
+    "region": "Hadjer-Lamis",
+    "lat": 12.4755,
+    "lon": 15.4365,
+    "population": 24541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ati",
+    "region": "Batha Region",
+    "lat": 13.2154,
+    "lon": 18.3353,
+    "population": 23660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Béré",
+    "region": "Tandjilé Region",
+    "lat": 9.3202,
+    "lon": 16.1552,
+    "population": 23019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melfi",
+    "region": "Guéra Region",
+    "lat": 11.0598,
+    "lon": 17.9355,
+    "population": 21078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goz Béïda",
+    "region": "Ouaddaï Region",
+    "lat": 13.9456,
+    "lon": 20.5468,
+    "population": 18596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gounou Gaya",
+    "region": "Mayo-Kebbi Est Region",
+    "lat": 9.6294,
+    "lon": 15.5132,
+    "population": 16573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benoy",
+    "region": "Logone Occidental Region",
+    "lat": 8.9833,
+    "lon": 16.3199,
+    "population": 16569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doba",
+    "region": "Logone Oriental Region",
+    "lat": 8.65,
+    "lon": 16.85,
+    "population": 14070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oum Hadjer",
+    "region": "Batha Region",
+    "lat": 13.2954,
+    "lon": 19.6966,
+    "population": 13916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Am Timan",
+    "region": "Salamat Region",
+    "lat": 11.0297,
+    "lon": 20.2827,
+    "population": 13552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac Wey",
+    "region": "Logone Occidental Region",
+    "lat": 8.705,
+    "lon": 15.983,
+    "population": 13316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mao",
+    "region": "Kanem Region",
+    "lat": 14.1212,
+    "lon": 15.3103,
+    "population": 13158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iriba",
+    "region": "Wadi Fira Region",
+    "lat": 15.1167,
+    "lon": 22.25,
+    "population": 11630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarh",
+    "region": "Moyen-Chari Region",
+    "lat": 9.1429,
+    "lon": 18.3923,
+    "population": 10741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fada",
+    "region": "Ennedi-Ouest",
+    "lat": 17.1853,
+    "lon": 21.5811,
+    "population": 10370,
+    "timezone": "UTC"
+  }
+]

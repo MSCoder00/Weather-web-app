@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Central Bougainville",
+    "region": "Bougainville",
+    "lat": -6.2281,
+    "lon": 155.5658,
+    "population": 49996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rigo",
+    "region": "Central Province",
+    "lat": -9.75,
+    "lon": 147.8333,
+    "population": 49743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kikori",
+    "region": "Gulf",
+    "lat": -7.25,
+    "lon": 144.3333,
+    "population": 48839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Bougainville",
+    "region": "Bougainville",
+    "lat": -5.4219,
+    "lon": 154.6728,
+    "population": 48462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porgera",
+    "region": "Enga Province",
+    "lat": -5.463,
+    "lon": 143.148,
+    "population": 47777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagaip Porgera",
+    "region": "Enga Province",
+    "lat": -5.3833,
+    "lon": 143.1667,
+    "population": 47127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karimui Nomane",
+    "region": "Chimbu Province",
+    "lat": -6.5833,
+    "lon": 144.8333,
+    "population": 46935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abau",
+    "region": "Central Province",
+    "lat": -10.0833,
+    "lon": 148.9167,
+    "population": 46840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuave",
+    "region": "Chimbu Province",
+    "lat": -6.1667,
+    "lon": 145.0833,
+    "population": 46772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jimi",
+    "region": "Jiwaka Province",
+    "lat": -5.5333,
+    "lon": 144.5667,
+    "population": 46617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hagen",
+    "region": "Western Highlands Province",
+    "lat": -5.8333,
+    "lon": 144.2833,
+    "population": 46393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiriwina Goodenough",
+    "region": "Milne Bay Province",
+    "lat": -8.4833,
+    "lon": 151.0667,
+    "population": 46041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telefomin",
+    "region": "Sandaun Province",
+    "lat": -4.9167,
+    "lon": 141.6667,
+    "population": 45623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lufa",
+    "region": "Eastern Highlands Province",
+    "lat": -6.45,
+    "lon": 145.25,
+    "population": 45284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokopo",
+    "region": "East New Britain",
+    "lat": -4.4,
+    "lon": 152.2833,
+    "population": 44796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tambul Nebilyer",
+    "region": "Western Highlands Province",
+    "lat": -5.9833,
+    "lon": 144.15,
+    "population": 44602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandrian Gloucester",
+    "region": "West New Britain Province",
+    "lat": -6.0833,
+    "lon": 149.9167,
+    "population": 44405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabaul",
+    "region": "East New Britain",
+    "lat": -4.1833,
+    "lon": 152.1667,
+    "population": 43277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koroba-Lake Kopiago",
+    "region": "Hela",
+    "lat": -5.4167,
+    "lon": 142.5,
+    "population": 43114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talasea",
+    "region": "West New Britain Province",
+    "lat": -5.6667,
+    "lon": 149.5833,
+    "population": 42458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lorengau",
+    "region": "Manus Province",
+    "lat": -2.0341,
+    "lon": 147.2717,
+    "population": 42173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unggai Bena",
+    "region": "Eastern Highlands Province",
+    "lat": -6.1167,
+    "lon": 145.5167,
+    "population": 42067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandep",
+    "region": "Enga Province",
+    "lat": -5.8333,
+    "lon": 143.55,
+    "population": 41522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulolo",
+    "region": "Morobe Province",
+    "lat": -7.4167,
+    "lon": 146.75,
+    "population": 41319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Bougainville",
+    "region": "Bougainville",
+    "lat": -6.7459,
+    "lon": 155.6964,
+    "population": 41268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Fly",
+    "region": "Western Province",
+    "lat": -5.729,
+    "lon": 141.3748,
+    "population": 41159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabwum",
+    "region": "Morobe Province",
+    "lat": -6.0833,
+    "lon": 147,
+    "population": 41009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Wahgi",
+    "region": "Jiwaka Province",
+    "lat": -5.8,
+    "lon": 144.6833,
+    "population": 40935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumkar",
+    "region": "Madang Province",
+    "lat": -4.8,
+    "lon": 145.55,
+    "population": 40849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daru",
+    "region": "Western Province",
+    "lat": -9.0779,
+    "lon": 143.2089,
+    "population": 40333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiunga",
+    "region": "Western Province",
+    "lat": -6.1219,
+    "lon": 141.2906,
+    "population": 39108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokoda",
+    "region": "Oro Province",
+    "lat": -8.8778,
+    "lon": 147.7364,
+    "population": 39005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gumine",
+    "region": "Chimbu Province",
+    "lat": -6.25,
+    "lon": 144.8833,
+    "population": 37510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavieng",
+    "region": "New Ireland Province",
+    "lat": -3,
+    "lon": 151.4167,
+    "population": 36986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerema",
+    "region": "Gulf",
+    "lat": -7.796,
+    "lon": 146.093,
+    "population": 36744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panguna",
+    "region": "Bougainville",
+    "lat": -6.3164,
+    "lon": 155.4848,
+    "population": 36658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alotau",
+    "region": "Milne Bay Province",
+    "lat": -10.25,
+    "lon": 150.0833,
+    "population": 35977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imbonggu",
+    "region": "Southern Highlands Province",
+    "lat": -6.1667,
+    "lon": 144,
+    "population": 35084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mendi",
+    "region": "Southern Highlands Province",
+    "lat": -6.1475,
+    "lon": 143.6563,
+    "population": 34446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nipa Kutubu",
+    "region": "Southern Highlands Province",
+    "lat": -6.3333,
+    "lon": 143.3333,
+    "population": 34355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Fly",
+    "region": "Western Province",
+    "lat": -8.6167,
+    "lon": 142.1167,
+    "population": 34050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerowagi",
+    "region": "Chimbu Province",
+    "lat": -5.9333,
+    "lon": 144.8833,
+    "population": 32794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rai Coast",
+    "region": "Madang Province",
+    "lat": -5.723,
+    "lon": 146.4615,
+    "population": 32554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menyamya",
+    "region": "Morobe Province",
+    "lat": -7.25,
+    "lon": 146.1667,
+    "population": 32302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wau",
+    "region": "Morobe Province",
+    "lat": -7.3378,
+    "lon": 146.7165,
+    "population": 32176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tari",
+    "region": "Hela",
+    "lat": -5.845,
+    "lon": 142.9467,
+    "population": 31982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madang",
+    "region": "Madang Province",
+    "lat": -5.2215,
+    "lon": 145.7869,
+    "population": 31951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimbe",
+    "region": "West New Britain Province",
+    "lat": -5.5508,
+    "lon": 150.1377,
+    "population": 31926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pomio",
+    "region": "East New Britain",
+    "lat": -5.5,
+    "lon": 151.3333,
+    "population": 31709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samarai",
+    "region": "Milne Bay Province",
+    "lat": -10.6104,
+    "lon": 150.6621,
+    "population": 31065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okapa",
+    "region": "Eastern Highlands Province",
+    "lat": -6.6333,
+    "lon": 145.5,
+    "population": 31024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dei",
+    "region": "Western Highlands Province",
+    "lat": -5.6833,
+    "lon": 144.3667,
+    "population": 30640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kieta",
+    "region": "Bougainville",
+    "lat": -6.2146,
+    "lon": 155.6325,
+    "population": 30607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obura Wonenara",
+    "region": "Eastern Highlands Province",
+    "lat": -6.5543,
+    "lon": 145.9733,
+    "population": 30084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goilala",
+    "region": "Central Province",
+    "lat": -8.3333,
+    "lon": 147,
+    "population": 29220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sohe",
+    "region": "Oro Province",
+    "lat": -9,
+    "lon": 147.9167,
+    "population": 29035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samarai Murua",
+    "region": "Milne Bay Province",
+    "lat": -10.4964,
+    "lon": 150.547,
+    "population": 29032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogia",
+    "region": "Madang Province",
+    "lat": -4.5,
+    "lon": 145,
+    "population": 26555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markham",
+    "region": "Morobe Province",
+    "lat": -6.6415,
+    "lon": 146.8604,
+    "population": 26319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanimo Green",
+    "region": "Sandaun Province",
+    "lat": -3.3667,
+    "lon": 141.35,
+    "population": 26138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kairuku-Hiri",
+    "region": "Central Province",
+    "lat": -9.1365,
+    "lon": 147.2791,
+    "population": 25875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arawa",
+    "region": "Bougainville",
+    "lat": -6.2298,
+    "lon": 155.566,
+    "population": 25232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tewai Siassi",
+    "region": "Morobe Province",
+    "lat": -6.15,
+    "lon": 147.5333,
+    "population": 24999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "National Capital District",
+    "region": "Port Moresby",
+    "lat": -9.4226,
+    "lon": 147.1664,
+    "population": 24828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namatanai",
+    "region": "New Ireland Province",
+    "lat": -4.3333,
+    "lon": 152.8333,
+    "population": 24632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ijivitari",
+    "region": "Oro Province",
+    "lat": -9.3333,
+    "lon": 148.5833,
+    "population": 24568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Popondetta",
+    "region": "Oro Province",
+    "lat": -8.7654,
+    "lon": 148.2325,
+    "population": 24385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Hagen",
+    "region": "Western Highlands Province",
+    "lat": -5.8575,
+    "lon": 144.2306,
+    "population": 23828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kompiam Ambum",
+    "region": "Enga Province",
+    "lat": -5.25,
+    "lon": 144,
+    "population": 22555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Finschhafen",
+    "region": "Morobe Province",
+    "lat": -6.4167,
+    "lon": 147.5,
+    "population": 22500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goroka",
+    "region": "Eastern Highlands Province",
+    "lat": -6.05,
+    "lon": 145.3833,
+    "population": 22211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wapenamanda",
+    "region": "Enga Province",
+    "lat": -5.6667,
+    "lon": 143.9167,
+    "population": 21763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinasina Yonggamugl",
+    "region": "Chimbu Province",
+    "lat": -6.0833,
+    "lon": 145.0167,
+    "population": 21759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Henganofi",
+    "region": "Eastern Highlands Province",
+    "lat": -6.2167,
+    "lon": 145.6667,
+    "population": 21483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aitape",
+    "region": "Sandaun Province",
+    "lat": -3.137,
+    "lon": 142.3491,
+    "population": 21055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angalimp South Wahgi",
+    "region": "Jiwaka Province",
+    "lat": -6.05,
+    "lon": 144.5667,
+    "population": 20896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wabag",
+    "region": "Enga Province",
+    "lat": -5.3333,
+    "lon": 143.65,
+    "population": 20807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ialibu",
+    "region": "Southern Highlands Province",
+    "lat": -6.2821,
+    "lon": 143.9935,
+    "population": 20767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lae",
+    "region": "Morobe Province",
+    "lat": -6.5,
+    "lon": 146.8333,
+    "population": 20503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuku",
+    "region": "Sandaun Province",
+    "lat": -3.6667,
+    "lon": 142.4167,
+    "population": 20406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middle Ramu",
+    "region": "Madang Province",
+    "lat": -4.9167,
+    "lon": 144.75,
+    "population": 20405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kundiawa",
+    "region": "Chimbu Province",
+    "lat": -5.9167,
+    "lon": 145.05,
+    "population": 20351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huon Gulf",
+    "region": "Morobe Province",
+    "lat": -7.1833,
+    "lon": 146.95,
+    "population": 20046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ialibu Pangia",
+    "region": "Southern Highlands Province",
+    "lat": -6.1667,
+    "lon": 144,
+    "population": 19471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manus",
+    "region": "Manus Province",
+    "lat": -2.0963,
+    "lon": 146.9661,
+    "population": 18617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baiyer Mul",
+    "region": "Western Highlands Province",
+    "lat": -5.5333,
+    "lon": 144.15,
+    "population": 18331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandrian",
+    "region": "West New Britain Province",
+    "lat": -6.2066,
+    "lon": 149.5474,
+    "population": 18228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanimo",
+    "region": "Sandaun Province",
+    "lat": -2.6837,
+    "lon": 141.302,
+    "population": 17154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komo Margarima",
+    "region": "Hela",
+    "lat": -6.1167,
+    "lon": 143,
+    "population": 17026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usino Bundi",
+    "region": "Madang Province",
+    "lat": -5.5333,
+    "lon": 145.1667,
+    "population": 16777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gazelle",
+    "region": "East New Britain",
+    "lat": -4.4833,
+    "lon": 151.8667,
+    "population": 16353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nawae",
+    "region": "Morobe Province",
+    "lat": -6.4667,
+    "lon": 146.9667,
+    "population": 16028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middle Fly",
+    "region": "Western Province",
+    "lat": -7.1667,
+    "lon": 142.0333,
+    "population": 14966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tari Pori",
+    "region": "Hela",
+    "lat": -6.2833,
+    "lon": 142.8333,
+    "population": 13058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morehead",
+    "region": "Western Province",
+    "lat": -8.7106,
+    "lon": 141.6367,
+    "population": 12819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kainantu",
+    "region": "Eastern Highlands Province",
+    "lat": -6.4167,
+    "lon": 145.9167,
+    "population": 12456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daulo",
+    "region": "Eastern Highlands Province",
+    "lat": -5.9833,
+    "lon": 145.2333,
+    "population": 12052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kagua Erave",
+    "region": "Southern Highlands Province",
+    "lat": -6.6667,
+    "lon": 144,
+    "population": 11959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aitape Lumi",
+    "region": "Sandaun Province",
+    "lat": -3.25,
+    "lon": 142.0833,
+    "population": 11833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Moresby",
+    "region": "Port Moresby",
+    "lat": -9.4772,
+    "lon": 147.1509,
+    "population": 10910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esa’ala",
+    "region": "Milne Bay Province",
+    "lat": -9.5833,
+    "lon": 150.75,
+    "population": 10533,
+    "timezone": "UTC"
+  }
+]

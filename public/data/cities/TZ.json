@@ -1,0 +1,2394 @@
+[
+  {
+    "name": "Kintinku",
+    "region": "Singida",
+    "lat": -5.8833,
+    "lon": 35.2333,
+    "population": 49985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilimatinde",
+    "region": "Singida",
+    "lat": -5.85,
+    "lon": 34.95,
+    "population": 49922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kihangara",
+    "region": "Mwanza",
+    "lat": -2.5833,
+    "lon": 33.35,
+    "population": 49780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malangali",
+    "region": "Iringa",
+    "lat": -8.5667,
+    "lon": 34.85,
+    "population": 49645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hedaru",
+    "region": "Kilimanjaro",
+    "lat": -4.5,
+    "lon": 37.9,
+    "population": 49536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igurubi",
+    "region": "Tabora",
+    "lat": -4,
+    "lon": 33.7,
+    "population": 49198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magole",
+    "region": "Morogoro",
+    "lat": -6.377,
+    "lon": 37.3737,
+    "population": 49197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikuti",
+    "region": "Mbeya",
+    "lat": -9.3167,
+    "lon": 33.5333,
+    "population": 49099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moshi",
+    "region": "Mbeya",
+    "lat": -3.3349,
+    "lon": 37.3404,
+    "population": 48936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanhyanga",
+    "region": "Mtwara",
+    "lat": -10.8,
+    "lon": 39.55,
+    "population": 48607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mugango",
+    "region": "Mara",
+    "lat": -1.6833,
+    "lon": 33.7,
+    "population": 48546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matui",
+    "region": "Tanga",
+    "lat": -4.8,
+    "lon": 38.25,
+    "population": 48372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makanya",
+    "region": "Kilimanjaro",
+    "lat": -4.3667,
+    "lon": 37.8333,
+    "population": 47809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tandahimba",
+    "region": "Mtwara",
+    "lat": -10.75,
+    "lon": 39.6333,
+    "population": 47596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulanga",
+    "region": "Mbeya",
+    "lat": -8.3436,
+    "lon": 34.2897,
+    "population": 47567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dar es Salaam",
+    "region": "Dar es Salaam",
+    "lat": -6.8235,
+    "lon": 39.2695,
+    "population": 47474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibaba",
+    "region": "Mbeya",
+    "lat": -9.4,
+    "lon": 33.35,
+    "population": 47377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbuguni",
+    "region": "Arusha",
+    "lat": -3.5667,
+    "lon": 36.95,
+    "population": 47241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merelani",
+    "region": "Arusha",
+    "lat": -3.5618,
+    "lon": 36.9789,
+    "population": 47082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumbawanga",
+    "region": "Rukwa",
+    "lat": -7.9667,
+    "lon": 31.6167,
+    "population": 47003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbumi",
+    "region": "Pwani",
+    "lat": -7.9058,
+    "lon": 39.2105,
+    "population": 46955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lembeni",
+    "region": "Mbeya",
+    "lat": -3.7833,
+    "lon": 37.6167,
+    "population": 46897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mlalo",
+    "region": "Tanga",
+    "lat": -4.9333,
+    "lon": 38.9333,
+    "population": 46510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahenge",
+    "region": "Morogoro",
+    "lat": -8.6833,
+    "lon": 36.7167,
+    "population": 46508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaliua",
+    "region": "Tabora",
+    "lat": -5.0606,
+    "lon": 31.7936,
+    "population": 46373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalago",
+    "region": "Simiyu",
+    "lat": -3.45,
+    "lon": 33.95,
+    "population": 45979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanganga",
+    "region": "Mtwara",
+    "lat": -10.3833,
+    "lon": 39.15,
+    "population": 45711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyanguge",
+    "region": "Mwanza",
+    "lat": -2.55,
+    "lon": 33.2,
+    "population": 45557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tingi",
+    "region": "Ruvuma",
+    "lat": -11.3,
+    "lon": 35.0333,
+    "population": 45429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usa River",
+    "region": "Arusha",
+    "lat": -3.3667,
+    "lon": 36.85,
+    "population": 45392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumbi",
+    "region": "Tabora",
+    "lat": -5.0667,
+    "lon": 32.7333,
+    "population": 45367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magomeni",
+    "region": "Dar es Salaam",
+    "lat": -6.8,
+    "lon": 39.25,
+    "population": 45289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manda",
+    "region": "Njombe",
+    "lat": -10.4667,
+    "lon": 34.5833,
+    "population": 44865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbamba Bay",
+    "region": "Ruvuma",
+    "lat": -11.2833,
+    "lon": 34.7667,
+    "population": 44861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lupiro",
+    "region": "Morogoro",
+    "lat": -8.3833,
+    "lon": 36.6667,
+    "population": 44853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Issenye",
+    "region": "Mara",
+    "lat": -2,
+    "lon": 34.3333,
+    "population": 44769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nungwi",
+    "region": "Zanzibar North",
+    "lat": -5.7265,
+    "lon": 39.2987,
+    "population": 44452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikinga",
+    "region": "Mbeya",
+    "lat": -9.5,
+    "lon": 33.55,
+    "population": 44232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namanga",
+    "region": "Arusha",
+    "lat": -2.5512,
+    "lon": 36.7838,
+    "population": 44173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shinyanga",
+    "region": "Shinyanga",
+    "lat": -3.6639,
+    "lon": 33.4212,
+    "population": 44159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashanet",
+    "region": "Manyara",
+    "lat": -4.2333,
+    "lon": 35.4167,
+    "population": 44131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Old Shinyanga",
+    "region": "Shinyanga",
+    "lat": -3.55,
+    "lon": 33.4,
+    "population": 44069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chake Chake",
+    "region": "Pemba South",
+    "lat": -5.2459,
+    "lon": 39.7666,
+    "population": 43763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbeya",
+    "region": "Mbeya",
+    "lat": -8.9,
+    "lon": 33.45,
+    "population": 43730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiungutwa",
+    "region": "Mtwara",
+    "lat": -10.8833,
+    "lon": 38.9833,
+    "population": 43639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Njombe",
+    "region": "Njombe",
+    "lat": -9.3492,
+    "lon": 34.7717,
+    "population": 43542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibaya",
+    "region": "Manyara",
+    "lat": -5.3,
+    "lon": 36.5667,
+    "population": 43476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisiwani",
+    "region": "Kilimanjaro",
+    "lat": -4.1333,
+    "lon": 37.95,
+    "population": 43374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikama",
+    "region": "Mbeya",
+    "lat": -9.2667,
+    "lon": 33.8333,
+    "population": 43343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tukuyu",
+    "region": "Mbeya",
+    "lat": -9.2583,
+    "lon": 33.6417,
+    "population": 43210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maneromango",
+    "region": "Pwani",
+    "lat": -7.1988,
+    "lon": 38.7848,
+    "population": 42900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kigoma",
+    "region": "Kigoma",
+    "lat": -4.8769,
+    "lon": 29.6267,
+    "population": 42810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilindoni",
+    "region": "Pwani",
+    "lat": -7.9145,
+    "lon": 39.662,
+    "population": 42803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shelui",
+    "region": "Singida",
+    "lat": -4.3667,
+    "lon": 34.2,
+    "population": 42765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katerero",
+    "region": "Kagera",
+    "lat": -1.4,
+    "lon": 31.7333,
+    "population": 42680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pangani",
+    "region": "Tanga",
+    "lat": -5.4253,
+    "lon": 38.9747,
+    "population": 42638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukoba",
+    "region": "Kagera",
+    "lat": -1.3317,
+    "lon": 31.8122,
+    "population": 42584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyaka",
+    "region": "Kagera",
+    "lat": -1.2522,
+    "lon": 31.4203,
+    "population": 42480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katumba",
+    "region": "Mbeya",
+    "lat": -9.2333,
+    "lon": 33.6167,
+    "population": 42436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwembe",
+    "region": "Kilimanjaro",
+    "lat": -4.15,
+    "lon": 37.85,
+    "population": 42211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igugunu",
+    "region": "Singida",
+    "lat": -4.5667,
+    "lon": 34.6333,
+    "population": 41972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasulu",
+    "region": "Kigoma",
+    "lat": -4.5767,
+    "lon": 30.1025,
+    "population": 41956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikolo",
+    "region": "Mbeya",
+    "lat": -9.65,
+    "lon": 33.9,
+    "population": 41895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbekenyera",
+    "region": "Lindi",
+    "lat": -10,
+    "lon": 38.9833,
+    "population": 41746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabanga",
+    "region": "Kagera",
+    "lat": -2.6386,
+    "lon": 30.4678,
+    "population": 41549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nangwa",
+    "region": "Manyara",
+    "lat": -4.4667,
+    "lon": 35.45,
+    "population": 41510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poli",
+    "region": "Arusha",
+    "lat": -3.3333,
+    "lon": 36.8,
+    "population": 41486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nangomba",
+    "region": "Mtwara",
+    "lat": -10.9,
+    "lon": 38.5,
+    "population": 41395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usagara",
+    "region": "Mwanza",
+    "lat": -2.6833,
+    "lon": 33,
+    "population": 41291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buseresere",
+    "region": "Geita",
+    "lat": -3.0236,
+    "lon": 31.8747,
+    "population": 41041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabora",
+    "region": "Tabora",
+    "lat": -5.0162,
+    "lon": 32.8266,
+    "population": 41036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugweno",
+    "region": "Mbeya",
+    "lat": -3.65,
+    "lon": 37.65,
+    "population": 40946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Msanga",
+    "region": "Dodoma",
+    "lat": -6.05,
+    "lon": 36.0333,
+    "population": 40945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sikonge",
+    "region": "Tabora",
+    "lat": -5.6333,
+    "lon": 32.7667,
+    "population": 40945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisasa",
+    "region": "Dodoma",
+    "lat": -6.1753,
+    "lon": 35.7927,
+    "population": 40922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magugu",
+    "region": "Manyara",
+    "lat": -4.0167,
+    "lon": 35.7667,
+    "population": 40886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Micheweni",
+    "region": "Pemba North",
+    "lat": -4.9667,
+    "lon": 39.8333,
+    "population": 40877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mgandu",
+    "region": "Singida",
+    "lat": -5.95,
+    "lon": 34.1333,
+    "population": 40567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikungi",
+    "region": "Singida",
+    "lat": -5.1333,
+    "lon": 34.7667,
+    "population": 40545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mto wa Mbu",
+    "region": "Arusha",
+    "lat": -3.35,
+    "lon": 35.85,
+    "population": 40506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasamwa",
+    "region": "Geita",
+    "lat": -2.85,
+    "lon": 32.4333,
+    "population": 40030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngudu",
+    "region": "Mwanza",
+    "lat": -2.9667,
+    "lon": 33.3333,
+    "population": 39492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makumbako",
+    "region": "Njombe",
+    "lat": -8.85,
+    "lon": 34.8333,
+    "population": 39481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwanga",
+    "region": "Tanga",
+    "lat": -4.8,
+    "lon": 38.2,
+    "population": 39403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbulu",
+    "region": "Manyara",
+    "lat": -3.85,
+    "lon": 35.5333,
+    "population": 39360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilosa",
+    "region": "Morogoro",
+    "lat": -6.8333,
+    "lon": 36.9833,
+    "population": 39244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyakabindi",
+    "region": "Simiyu",
+    "lat": -2.6333,
+    "lon": 33.9833,
+    "population": 39243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muheza",
+    "region": "Tanga",
+    "lat": -5.1667,
+    "lon": 38.7833,
+    "population": 38906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bariadi",
+    "region": "Simiyu",
+    "lat": -2.8,
+    "lon": 33.9833,
+    "population": 38887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndungu",
+    "region": "Kilimanjaro",
+    "lat": -4.3667,
+    "lon": 38.05,
+    "population": 38883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katesh",
+    "region": "Manyara",
+    "lat": -4.5248,
+    "lon": 35.3849,
+    "population": 38490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwakoa",
+    "region": "Kilimanjaro",
+    "lat": -3.7667,
+    "lon": 37.7167,
+    "population": 38456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dodoma",
+    "region": "Dodoma",
+    "lat": -6.1722,
+    "lon": 35.7395,
+    "population": 38143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ushirombo",
+    "region": "Geita",
+    "lat": -3.4919,
+    "lon": 31.9639,
+    "population": 38107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkove",
+    "region": "Rukwa",
+    "lat": -7.95,
+    "lon": 30.85,
+    "population": 38090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luchingu",
+    "region": "Mtwara",
+    "lat": -10.9,
+    "lon": 39.3333,
+    "population": 37995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masukulu",
+    "region": "Mbeya",
+    "lat": -9.4,
+    "lon": 33.75,
+    "population": 37957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konde",
+    "region": "Pemba North",
+    "lat": -4.95,
+    "lon": 39.75,
+    "population": 37809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nsunga",
+    "region": "Kagera",
+    "lat": -1.1439,
+    "lon": 31.3947,
+    "population": 37765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahanje",
+    "region": "Ruvuma",
+    "lat": -9.9333,
+    "lon": 35.3333,
+    "population": 37472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namanyere",
+    "region": "Rukwa",
+    "lat": -7.5167,
+    "lon": 31.05,
+    "population": 37182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandete",
+    "region": "Mbeya",
+    "lat": -9.15,
+    "lon": 33.8,
+    "population": 36776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machame",
+    "region": "Mbeya",
+    "lat": -3.2061,
+    "lon": 37.2264,
+    "population": 36585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahama",
+    "region": "Shinyanga",
+    "lat": -3.8333,
+    "lon": 32.6,
+    "population": 36565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kwakoa",
+    "region": "Mbeya",
+    "lat": -3.7667,
+    "lon": 37.7167,
+    "population": 36562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kihurio",
+    "region": "Mbeya",
+    "lat": -4.4667,
+    "lon": 38.0667,
+    "population": 36289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukene",
+    "region": "Tabora",
+    "lat": -4.2333,
+    "lon": 32.8833,
+    "population": 36288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibakwe",
+    "region": "Dodoma",
+    "lat": -6.7167,
+    "lon": 36.3667,
+    "population": 36161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babati",
+    "region": "Manyara",
+    "lat": -4.2167,
+    "lon": 35.75,
+    "population": 36130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirya",
+    "region": "Manyara",
+    "lat": -3.9167,
+    "lon": 37.4833,
+    "population": 36015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikwiriri",
+    "region": "Pwani",
+    "lat": -7.9562,
+    "lon": 38.9716,
+    "population": 35922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hedaru",
+    "region": "Mbeya",
+    "lat": -4.5,
+    "lon": 37.9,
+    "population": 35649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lembeni",
+    "region": "Kilimanjaro",
+    "lat": -3.7833,
+    "lon": 37.6167,
+    "population": 35646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mlimba",
+    "region": "Morogoro",
+    "lat": -8.8,
+    "lon": 35.8167,
+    "population": 35600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namikupa",
+    "region": "Mtwara",
+    "lat": -10.8333,
+    "lon": 39.6,
+    "population": 35227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimala",
+    "region": "Mbeya",
+    "lat": -8.8564,
+    "lon": 34.0239,
+    "population": 35144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyakahanga",
+    "region": "Kagera",
+    "lat": -1.6033,
+    "lon": 31.1414,
+    "population": 34934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matai",
+    "region": "Rukwa",
+    "lat": -8.3,
+    "lon": 31.5167,
+    "population": 34906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nansio",
+    "region": "Mara",
+    "lat": -2.1333,
+    "lon": 33.05,
+    "population": 34905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katoro",
+    "region": "Kagera",
+    "lat": -1.3997,
+    "lon": 31.5003,
+    "population": 34542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usevia",
+    "region": "Katavi",
+    "lat": -7.1,
+    "lon": 31.2333,
+    "population": 34297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngerengere",
+    "region": "Morogoro",
+    "lat": -6.75,
+    "lon": 38.1167,
+    "population": 34286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makanya",
+    "region": "Mbeya",
+    "lat": -4.3667,
+    "lon": 37.8333,
+    "population": 34263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lupata",
+    "region": "Mbeya",
+    "lat": -9.3,
+    "lon": 33.85,
+    "population": 33862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lushoto",
+    "region": "Tanga",
+    "lat": -4.7833,
+    "lon": 38.2833,
+    "population": 33802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morogoro",
+    "region": "Morogoro",
+    "lat": -6.821,
+    "lon": 37.6612,
+    "population": 33789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirando",
+    "region": "Rukwa",
+    "lat": -7.4167,
+    "lon": 30.6,
+    "population": 33773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Endasak",
+    "region": "Manyara",
+    "lat": -4.4167,
+    "lon": 35.5167,
+    "population": 33608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inyonga",
+    "region": "Katavi",
+    "lat": -6.7167,
+    "lon": 32.0667,
+    "population": 33543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkoaranga",
+    "region": "Arusha",
+    "lat": -3.3333,
+    "lon": 36.8,
+    "population": 33421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyangao",
+    "region": "Lindi",
+    "lat": -10.3333,
+    "lon": 39.2833,
+    "population": 33179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisesa",
+    "region": "Simiyu",
+    "lat": -3.0833,
+    "lon": 34.15,
+    "population": 32819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laela",
+    "region": "Rukwa",
+    "lat": -8.5667,
+    "lon": 32.05,
+    "population": 32570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisarawe",
+    "region": "Pwani",
+    "lat": -6.9,
+    "lon": 39.0667,
+    "population": 32447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wete",
+    "region": "Pemba North",
+    "lat": -5.0559,
+    "lon": 39.7294,
+    "population": 32363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itigi",
+    "region": "Singida",
+    "lat": -5.7,
+    "lon": 34.4833,
+    "population": 32362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bungu",
+    "region": "Pwani",
+    "lat": -7.6337,
+    "lon": 39.0582,
+    "population": 32191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malampaka",
+    "region": "Simiyu",
+    "lat": -3.1333,
+    "lon": 33.5333,
+    "population": 32111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liuli",
+    "region": "Ruvuma",
+    "lat": -11.0833,
+    "lon": 34.6333,
+    "population": 32041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtama",
+    "region": "Lindi",
+    "lat": -10.3,
+    "lon": 39.3667,
+    "population": 31916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namalenga",
+    "region": "Mtwara",
+    "lat": -10.95,
+    "lon": 39.1,
+    "population": 31910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monduli",
+    "region": "Arusha",
+    "lat": -3.3,
+    "lon": 36.45,
+    "population": 31853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokoni",
+    "region": "Zanzibar South",
+    "lat": -6.4333,
+    "lon": 39.55,
+    "population": 31631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpanda",
+    "region": "Katavi",
+    "lat": -6.3438,
+    "lon": 31.0695,
+    "population": 31376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kihurio",
+    "region": "Kilimanjaro",
+    "lat": -4.4667,
+    "lon": 38.0667,
+    "population": 31233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nganane",
+    "region": "Zanzibar South",
+    "lat": -6.4,
+    "lon": 39.55,
+    "population": 31083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kidodi",
+    "region": "Morogoro",
+    "lat": -7.6036,
+    "lon": 37.0044,
+    "population": 31040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somanda",
+    "region": "Simiyu",
+    "lat": -3.3667,
+    "lon": 33.95,
+    "population": 30990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usoke",
+    "region": "Tabora",
+    "lat": -5.1667,
+    "lon": 32.35,
+    "population": 30689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geita",
+    "region": "Geita",
+    "lat": -2.8725,
+    "lon": 32.2325,
+    "population": 30508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Same",
+    "region": "Mbeya",
+    "lat": -4.0667,
+    "lon": 37.7833,
+    "population": 30483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanga",
+    "region": "Tanga",
+    "lat": -5.0689,
+    "lon": 39.0988,
+    "population": 30363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ifakara",
+    "region": "Morogoro",
+    "lat": -8.1333,
+    "lon": 36.6833,
+    "population": 30304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakatunguru",
+    "region": "Mara",
+    "lat": -2.1167,
+    "lon": 33.0667,
+    "population": 30294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyalikungu",
+    "region": "Simiyu",
+    "lat": -3.1833,
+    "lon": 33.7833,
+    "population": 30146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabula",
+    "region": "Mbeya",
+    "lat": -9.2667,
+    "lon": 33.7667,
+    "population": 30055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongobesh",
+    "region": "Manyara",
+    "lat": -4.0667,
+    "lon": 35.3833,
+    "population": 30020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kongwa",
+    "region": "Dodoma",
+    "lat": -6.2,
+    "lon": 36.4167,
+    "population": 30020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbinga",
+    "region": "Ruvuma",
+    "lat": -10.9333,
+    "lon": 35.0167,
+    "population": 29933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vikindu",
+    "region": "Pwani",
+    "lat": -7.0067,
+    "lon": 39.2985,
+    "population": 29838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geiro",
+    "region": "Morogoro",
+    "lat": -6.15,
+    "lon": 36.8667,
+    "population": 29774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilembo",
+    "region": "Mbeya",
+    "lat": -9.25,
+    "lon": 33.3833,
+    "population": 29494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagamoyo",
+    "region": "Pwani",
+    "lat": -6.4422,
+    "lon": 38.9042,
+    "population": 28669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izazi",
+    "region": "Iringa",
+    "lat": -7.2,
+    "lon": 35.7333,
+    "population": 28529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marangu",
+    "region": "Mbeya",
+    "lat": -3.2833,
+    "lon": 37.5167,
+    "population": 28487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiomboi",
+    "region": "Singida",
+    "lat": -4.2667,
+    "lon": 34.3667,
+    "population": 28345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirari",
+    "region": "Mara",
+    "lat": -1.2537,
+    "lon": 34.476,
+    "population": 28276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwaya",
+    "region": "Mbeya",
+    "lat": -9.55,
+    "lon": 33.95,
+    "population": 28211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahe, Tanzania",
+    "region": "Mbeya",
+    "lat": -3.5,
+    "lon": 37.433,
+    "population": 28174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lulindi",
+    "region": "Mtwara",
+    "lat": -10.8167,
+    "lon": 39.1333,
+    "population": 28115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinde",
+    "region": "Shinyanga",
+    "lat": -3.8833,
+    "lon": 33.2,
+    "population": 27059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mvomero",
+    "region": "Pwani",
+    "lat": -6.25,
+    "lon": 38.6667,
+    "population": 26753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rulenge",
+    "region": "Kagera",
+    "lat": -2.7175,
+    "lon": 30.6325,
+    "population": 26509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mingoyo",
+    "region": "Lindi",
+    "lat": -10.1053,
+    "lon": 39.6186,
+    "population": 26334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Misasi",
+    "region": "Mwanza",
+    "lat": -3,
+    "lon": 33.0833,
+    "population": 26328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moshi",
+    "region": "Kilimanjaro",
+    "lat": -3.35,
+    "lon": 37.3333,
+    "population": 26257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwadui",
+    "region": "Shinyanga",
+    "lat": -3.55,
+    "lon": 33.6,
+    "population": 26131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masuguru",
+    "region": "Mtwara",
+    "lat": -11.3667,
+    "lon": 38.4167,
+    "population": 25979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dareda",
+    "region": "Manyara",
+    "lat": -4.2167,
+    "lon": 35.55,
+    "population": 25972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalinze",
+    "region": "Pwani",
+    "lat": -6.6378,
+    "lon": 38.354,
+    "population": 25736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mkokotoni",
+    "region": "Zanzibar North",
+    "lat": -5.8751,
+    "lon": 39.2552,
+    "population": 25660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basotu",
+    "region": "Manyara",
+    "lat": -4.3667,
+    "lon": 35.0833,
+    "population": 25245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamba",
+    "region": "Zanzibar North",
+    "lat": -5.9,
+    "lon": 39.3,
+    "population": 24796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitangari",
+    "region": "Mtwara",
+    "lat": -10.65,
+    "lon": 39.3333,
+    "population": 24646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanyamba",
+    "region": "Mtwara",
+    "lat": -10.6833,
+    "lon": 39.8333,
+    "population": 24388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madimba",
+    "region": "Mtwara",
+    "lat": -10.4,
+    "lon": 40.3333,
+    "population": 24270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koani",
+    "region": "Zanzibar South",
+    "lat": -6.1333,
+    "lon": 39.2833,
+    "population": 24188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtimbira",
+    "region": "Morogoro",
+    "lat": -8.7833,
+    "lon": 36.35,
+    "population": 24039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naberera",
+    "region": "Manyara",
+    "lat": -4.2,
+    "lon": 36.9333,
+    "population": 23955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maswa",
+    "region": "Simiyu",
+    "lat": -2.6833,
+    "lon": 33.9833,
+    "population": 23788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazinde",
+    "region": "Tanga",
+    "lat": -4.8,
+    "lon": 38.2167,
+    "population": 23774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chala",
+    "region": "Rukwa",
+    "lat": -7.5833,
+    "lon": 31.2667,
+    "population": 23548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chato",
+    "region": "Geita",
+    "lat": -2.6378,
+    "lon": 31.7669,
+    "population": 23328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longido",
+    "region": "Arusha",
+    "lat": -2.7332,
+    "lon": 36.6977,
+    "population": 23253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meru",
+    "region": "Arusha",
+    "lat": -3.305,
+    "lon": 36.801,
+    "population": 23204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mabama",
+    "region": "Tabora",
+    "lat": -5.1333,
+    "lon": 32.5333,
+    "population": 23174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puma",
+    "region": "Singida",
+    "lat": -5,
+    "lon": 34.7333,
+    "population": 22986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kigonsera",
+    "region": "Ruvuma",
+    "lat": -10.8,
+    "lon": 35.05,
+    "population": 22732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maramba",
+    "region": "Tanga",
+    "lat": -5.05,
+    "lon": 38.6167,
+    "population": 22594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiratu",
+    "region": "Arusha",
+    "lat": -3.3333,
+    "lon": 35.6667,
+    "population": 22545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahonda",
+    "region": "Zanzibar South",
+    "lat": -6.45,
+    "lon": 39.4667,
+    "population": 22505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiwengwa",
+    "region": "Zanzibar North",
+    "lat": -5.9896,
+    "lon": 39.3768,
+    "population": 22498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chanika",
+    "region": "Tanga",
+    "lat": -5.4167,
+    "lon": 38.0167,
+    "population": 22469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwansanga",
+    "region": "Mbeya",
+    "lat": -8.7667,
+    "lon": 33.5333,
+    "population": 22426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matonga",
+    "region": "Simiyu",
+    "lat": -2.3833,
+    "lon": 34.0833,
+    "population": 22273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butiama",
+    "region": "Mara",
+    "lat": -1.7667,
+    "lon": 33.9667,
+    "population": 22205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mlandizi",
+    "region": "Pwani",
+    "lat": -6.7,
+    "lon": 38.7333,
+    "population": 22179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibiti",
+    "region": "Pwani",
+    "lat": -7.7218,
+    "lon": 38.9375,
+    "population": 22073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karema",
+    "region": "Katavi",
+    "lat": -6.8205,
+    "lon": 30.4389,
+    "population": 22060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruangwa",
+    "region": "Lindi",
+    "lat": -10.0667,
+    "lon": 38.9333,
+    "population": 21942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lusungo",
+    "region": "Mbeya",
+    "lat": -9.5,
+    "lon": 33.9833,
+    "population": 21817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malya",
+    "region": "Mwanza",
+    "lat": -2.9833,
+    "lon": 33.5167,
+    "population": 21576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matamba",
+    "region": "Njombe",
+    "lat": -8.9833,
+    "lon": 33.9667,
+    "population": 21543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matiri",
+    "region": "Ruvuma",
+    "lat": -10.75,
+    "lon": 34.9,
+    "population": 21537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mlowo",
+    "region": "Mbeya",
+    "lat": -9,
+    "lon": 32.9833,
+    "population": 21478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Msowero",
+    "region": "Morogoro",
+    "lat": -6.5333,
+    "lon": 37.2,
+    "population": 21325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngorongoro",
+    "region": "Arusha",
+    "lat": -3.2397,
+    "lon": 35.4875,
+    "population": 21318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nshamba",
+    "region": "Kagera",
+    "lat": -1.7983,
+    "lon": 31.5511,
+    "population": 21289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mkuranga",
+    "region": "Pwani",
+    "lat": -7.27,
+    "lon": 39.2,
+    "population": 21123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zanzibar",
+    "region": "Zanzibar West",
+    "lat": -6.1639,
+    "lon": 39.1979,
+    "population": 21105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newala Kisimani",
+    "region": "Mtwara",
+    "lat": -10.95,
+    "lon": 39.2833,
+    "population": 21062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisiwani",
+    "region": "Mbeya",
+    "lat": -4.1333,
+    "lon": 37.95,
+    "population": 21041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uwelini",
+    "region": "Pemba South",
+    "lat": -5.4,
+    "lon": 39.6833,
+    "population": 20968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Same",
+    "region": "Kilimanjaro",
+    "lat": -4.222,
+    "lon": 37.8828,
+    "population": 20924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtwango",
+    "region": "Njombe",
+    "lat": -9.0167,
+    "lon": 34.8,
+    "population": 20715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masasi",
+    "region": "Mtwara",
+    "lat": -10.7167,
+    "lon": 38.8,
+    "population": 20683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musoma",
+    "region": "Mara",
+    "lat": -1.5,
+    "lon": 33.8,
+    "population": 20556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitama",
+    "region": "Mtwara",
+    "lat": -10.7167,
+    "lon": 39.7333,
+    "population": 20532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mabamba",
+    "region": "Kigoma",
+    "lat": -3.5983,
+    "lon": 30.5019,
+    "population": 20532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majengo",
+    "region": "Tanga",
+    "lat": -5.15,
+    "lon": 38.9833,
+    "population": 20239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mungaa",
+    "region": "Singida",
+    "lat": -4.9667,
+    "lon": 34.8833,
+    "population": 20132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilula",
+    "region": "Iringa",
+    "lat": -7.6766,
+    "lon": 36.0366,
+    "population": 20081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maposeni",
+    "region": "Ruvuma",
+    "lat": -10.5833,
+    "lon": 35.4,
+    "population": 20065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kidatu",
+    "region": "Morogoro",
+    "lat": -7.6992,
+    "lon": 36.9572,
+    "population": 19932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mhango",
+    "region": "Shinyanga",
+    "lat": -3.2833,
+    "lon": 32.85,
+    "population": 19841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiwira",
+    "region": "Mbeya",
+    "lat": -9.1667,
+    "lon": 33.5333,
+    "population": 19781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ipinda",
+    "region": "Mbeya",
+    "lat": -9.4833,
+    "lon": 33.9,
+    "population": 19762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugarama",
+    "region": "Kagera",
+    "lat": -2.8706,
+    "lon": 30.5281,
+    "population": 19655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilemela District",
+    "region": "Mwanza",
+    "lat": -2.4478,
+    "lon": 33.0318,
+    "population": 19491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Misungwi",
+    "region": "Mwanza",
+    "lat": -2.85,
+    "lon": 33.0833,
+    "population": 19392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tunduma",
+    "region": "Mbeya",
+    "lat": -9.3,
+    "lon": 32.7667,
+    "population": 19312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyamuswa",
+    "region": "Mara",
+    "lat": -1.9,
+    "lon": 34.0167,
+    "population": 19061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uyovu",
+    "region": "Geita",
+    "lat": -3.2833,
+    "lon": 31.5258,
+    "population": 18992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukonyo",
+    "region": "Mara",
+    "lat": -1.95,
+    "lon": 32.9333,
+    "population": 18769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lugoba",
+    "region": "Pwani",
+    "lat": -6.45,
+    "lon": 38.3333,
+    "population": 18763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndago",
+    "region": "Singida",
+    "lat": -4.6,
+    "lon": 34.35,
+    "population": 18631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masumbwe",
+    "region": "Geita",
+    "lat": -3.6333,
+    "lon": 32.1833,
+    "population": 18425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mvomero District",
+    "region": "Morogoro",
+    "lat": -6.3,
+    "lon": 37.45,
+    "population": 18405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikumi",
+    "region": "Morogoro",
+    "lat": -7.4041,
+    "lon": 36.9831,
+    "population": 18311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilongero",
+    "region": "Singida",
+    "lat": -4.6667,
+    "lon": 34.8667,
+    "population": 18233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makungu",
+    "region": "Iringa",
+    "lat": -8.7333,
+    "lon": 35.2833,
+    "population": 18124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimamba",
+    "region": "Morogoro",
+    "lat": -6.7833,
+    "lon": 37.1333,
+    "population": 18077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soni",
+    "region": "Tanga",
+    "lat": -4.85,
+    "lon": 38.3667,
+    "population": 17988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibara",
+    "region": "Mara",
+    "lat": -2.15,
+    "lon": 33.45,
+    "population": 17646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kishapu",
+    "region": "Shinyanga",
+    "lat": -3.6167,
+    "lon": 33.8667,
+    "population": 17504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kondoa",
+    "region": "Dodoma",
+    "lat": -4.7093,
+    "lon": 35.8623,
+    "population": 17460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isaka",
+    "region": "Shinyanga",
+    "lat": -3.9,
+    "lon": 32.9333,
+    "population": 17360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kakonko",
+    "region": "Kigoma",
+    "lat": -3.2828,
+    "lon": 30.9642,
+    "population": 17162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nguruka",
+    "region": "Kigoma",
+    "lat": -5.1092,
+    "lon": 31.0419,
+    "population": 16976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magomeni",
+    "region": "Tanga",
+    "lat": -5.2333,
+    "lon": 38.1167,
+    "population": 16962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtinko",
+    "region": "Singida",
+    "lat": -4.55,
+    "lon": 34.85,
+    "population": 16167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Singida",
+    "region": "Singida",
+    "lat": -4.8163,
+    "lon": 34.7436,
+    "population": 16102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamachumu",
+    "region": "Kagera",
+    "lat": -1.6186,
+    "lon": 31.62,
+    "population": 15761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtwara",
+    "region": "Mtwara",
+    "lat": -10.2667,
+    "lon": 40.1833,
+    "population": 15519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songea",
+    "region": "Ruvuma",
+    "lat": -10.6833,
+    "lon": 35.65,
+    "population": 15306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindi",
+    "region": "Lindi",
+    "lat": -9.9971,
+    "lon": 39.7165,
+    "population": 15183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mlangali",
+    "region": "Njombe",
+    "lat": -9.7833,
+    "lon": 34.5167,
+    "population": 15051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukuledi",
+    "region": "Mtwara",
+    "lat": -10.5667,
+    "lon": 38.8,
+    "population": 14964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpwapwa",
+    "region": "Dodoma",
+    "lat": -6.35,
+    "lon": 36.4833,
+    "population": 14950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sepuka",
+    "region": "Singida",
+    "lat": -4.75,
+    "lon": 34.5333,
+    "population": 14928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nachingwea",
+    "region": "Lindi",
+    "lat": -10.3725,
+    "lon": 38.7625,
+    "population": 14807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galappo",
+    "region": "Manyara",
+    "lat": -4.2667,
+    "lon": 35.85,
+    "population": 14705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwembe",
+    "region": "Mbeya",
+    "lat": -4.15,
+    "lon": 37.85,
+    "population": 14392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kijini",
+    "region": "Zanzibar North",
+    "lat": -5.85,
+    "lon": 39.3167,
+    "population": 13720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilembula",
+    "region": "Njombe",
+    "lat": -8.9,
+    "lon": 34.5833,
+    "population": 13426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibaha",
+    "region": "Pwani",
+    "lat": -6.7667,
+    "lon": 38.9167,
+    "population": 13276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songwa",
+    "region": "Shinyanga",
+    "lat": -3.5167,
+    "lon": 33.5167,
+    "population": 13252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muriti",
+    "region": "Mara",
+    "lat": -1.9833,
+    "lon": 32.9167,
+    "population": 13159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biharamulo",
+    "region": "Kagera",
+    "lat": -2.6319,
+    "lon": 31.3089,
+    "population": 13014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahuta",
+    "region": "Mtwara",
+    "lat": -10.8667,
+    "lon": 39.45,
+    "population": 12888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwandiga",
+    "region": "Kigoma",
+    "lat": -4.83,
+    "lon": 29.6581,
+    "population": 12805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugene",
+    "region": "Kagera",
+    "lat": -1.5911,
+    "lon": 31.1403,
+    "population": 12766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utete",
+    "region": "Pwani",
+    "lat": -7.986,
+    "lon": 38.758,
+    "population": 12672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpuguso",
+    "region": "Mbeya",
+    "lat": -9.3167,
+    "lon": 33.65,
+    "population": 12257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mugumu",
+    "region": "Mara",
+    "lat": -1.85,
+    "lon": 34.7,
+    "population": 12096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwanza",
+    "region": "Mwanza",
+    "lat": -2.5167,
+    "lon": 32.9,
+    "population": 12069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibondo",
+    "region": "Kigoma",
+    "lat": -3.5864,
+    "lon": 30.7203,
+    "population": 11791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uvinza",
+    "region": "Kigoma",
+    "lat": -5.1036,
+    "lon": 30.3911,
+    "population": 11650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koani Ndogo",
+    "region": "Zanzibar South",
+    "lat": -6.1333,
+    "lon": 39.2833,
+    "population": 11102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngara",
+    "region": "Kagera",
+    "lat": -2.5122,
+    "lon": 30.6558,
+    "population": 10956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mafinga",
+    "region": "Iringa",
+    "lat": -7.25,
+    "lon": 35.0667,
+    "population": 10874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mtambile",
+    "region": "Pemba South",
+    "lat": -5.3833,
+    "lon": 39.7,
+    "population": 10815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katoro",
+    "region": "Geita",
+    "lat": -3.0203,
+    "lon": 31.8958,
+    "population": 10811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malinyi",
+    "region": "Morogoro",
+    "lat": -8.9333,
+    "lon": 36.1333,
+    "population": 10681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingori",
+    "region": "Arusha",
+    "lat": -3.2833,
+    "lon": 36.9833,
+    "population": 10518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makuyuni",
+    "region": "Tanga",
+    "lat": -4.7333,
+    "lon": 38.1,
+    "population": 10474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisanga",
+    "region": "Morogoro",
+    "lat": -7.4362,
+    "lon": 37.7034,
+    "population": 10471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arusha",
+    "region": "Arusha",
+    "lat": -3.3667,
+    "lon": 36.6833,
+    "population": 10465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iringa",
+    "region": "Iringa",
+    "lat": -7.7667,
+    "lon": 35.7,
+    "population": 10008,
+    "timezone": "UTC"
+  }
+]

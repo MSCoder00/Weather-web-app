@@ -1,0 +1,5346 @@
+[
+  {
+    "name": "Kristiansand",
+    "region": "Vest-Agder",
+    "lat": 58.1464,
+    "lon": 7.9969,
+    "population": 49915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lunner",
+    "region": "Oppland",
+    "lat": 60.2946,
+    "lon": 10.6086,
+    "population": 49903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fosnes",
+    "region": "Trøndelag",
+    "lat": 64.6591,
+    "lon": 11.2653,
+    "population": 49840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomra",
+    "region": "Møre og Romsdal",
+    "lat": 62.5812,
+    "lon": 6.9311,
+    "population": 49742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkenær",
+    "region": "Hedmark",
+    "lat": 60.4579,
+    "lon": 12.0586,
+    "population": 49632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aurland",
+    "region": "Sogn og Fjordane",
+    "lat": 60.9056,
+    "lon": 7.1873,
+    "population": 49431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sula",
+    "region": "Møre og Romsdal",
+    "lat": 62.4445,
+    "lon": 6.2123,
+    "population": 49388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjelset",
+    "region": "Møre og Romsdal",
+    "lat": 62.7805,
+    "lon": 7.4928,
+    "population": 49277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamble",
+    "region": "Telemark",
+    "lat": 59.0015,
+    "lon": 9.7457,
+    "population": 49245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jessheim",
+    "region": "Akershus",
+    "lat": 60.1415,
+    "lon": 11.1752,
+    "population": 49212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Overhalla",
+    "region": "Trøndelag",
+    "lat": 64.4938,
+    "lon": 11.9475,
+    "population": 49128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ørsta",
+    "region": "Møre og Romsdal",
+    "lat": 62.1994,
+    "lon": 6.1308,
+    "population": 49059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Østre Toten",
+    "region": "Oppland",
+    "lat": 60.6766,
+    "lon": 10.82,
+    "population": 48985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eidfjord",
+    "region": "Hordaland",
+    "lat": 60.4674,
+    "lon": 7.0697,
+    "population": 48819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vigrestad",
+    "region": "Rogaland",
+    "lat": 58.571,
+    "lon": 5.6818,
+    "population": 48756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sel",
+    "region": "Oppland",
+    "lat": 61.7728,
+    "lon": 9.5342,
+    "population": 48694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grue",
+    "region": "Hedmark",
+    "lat": 60.4513,
+    "lon": 12.0549,
+    "population": 48604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vega",
+    "region": "Nordland",
+    "lat": 65.6754,
+    "lon": 11.9646,
+    "population": 48559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokndal",
+    "region": "Rogaland",
+    "lat": 58.3426,
+    "lon": 6.2942,
+    "population": 48481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hobøl",
+    "region": "Østfold",
+    "lat": 59.6225,
+    "lon": 10.9498,
+    "population": 48447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hansnes",
+    "region": "Troms",
+    "lat": 69.967,
+    "lon": 19.6275,
+    "population": 48430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bokn",
+    "region": "Rogaland",
+    "lat": 59.2306,
+    "lon": 5.4352,
+    "population": 48391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lonevåg",
+    "region": "Hordaland",
+    "lat": 60.5256,
+    "lon": 5.4956,
+    "population": 48323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nord-Fron",
+    "region": "Oppland",
+    "lat": 61.5956,
+    "lon": 9.7483,
+    "population": 48246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meråker",
+    "region": "Trøndelag",
+    "lat": 63.4142,
+    "lon": 11.7456,
+    "population": 48240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyngseidet",
+    "region": "Troms",
+    "lat": 69.5763,
+    "lon": 20.2189,
+    "population": 48172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hurdal",
+    "region": "Akershus",
+    "lat": 60.4352,
+    "lon": 11.0671,
+    "population": 48052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selbu",
+    "region": "Trøndelag",
+    "lat": 63.2177,
+    "lon": 11.0394,
+    "population": 47960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rendalen",
+    "region": "Hedmark",
+    "lat": 61.89,
+    "lon": 11.0769,
+    "population": 47851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sømna",
+    "region": "Nordland",
+    "lat": 65.3138,
+    "lon": 12.1673,
+    "population": 47793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rana",
+    "region": "Nordland",
+    "lat": 66.3112,
+    "lon": 14.14,
+    "population": 47760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storslett",
+    "region": "Troms",
+    "lat": 69.7678,
+    "lon": 21.0247,
+    "population": 47543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Espeland",
+    "region": "Hordaland",
+    "lat": 60.3825,
+    "lon": 5.4657,
+    "population": 47536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blakstad",
+    "region": "Akershus",
+    "lat": 59.8191,
+    "lon": 10.4645,
+    "population": 47389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sør-Odal",
+    "region": "Hedmark",
+    "lat": 60.2546,
+    "lon": 11.6825,
+    "population": 47364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grane",
+    "region": "Nordland",
+    "lat": 65.5387,
+    "lon": 13.385,
+    "population": 47297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Øystese",
+    "region": "Hordaland",
+    "lat": 60.3882,
+    "lon": 6.1925,
+    "population": 47250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rypefjord",
+    "region": "Finnmark",
+    "lat": 70.6413,
+    "lon": 23.6721,
+    "population": 47179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordstranda",
+    "region": "Møre og Romsdal",
+    "lat": 62.5138,
+    "lon": 6.1317,
+    "population": 47164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fet",
+    "region": "Akershus",
+    "lat": 59.9222,
+    "lon": 11.1678,
+    "population": 47026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skoppum",
+    "region": "Vestfold",
+    "lat": 59.3861,
+    "lon": 10.4108,
+    "population": 47012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Straumen",
+    "region": "Trøndelag",
+    "lat": 63.8716,
+    "lon": 11.2962,
+    "population": 47010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andenes",
+    "region": "Nordland",
+    "lat": 69.3143,
+    "lon": 16.1194,
+    "population": 47004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skoger",
+    "region": "Buskerud",
+    "lat": 59.7133,
+    "lon": 10.2536,
+    "population": 46983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Røst",
+    "region": "Nordland",
+    "lat": 67.5173,
+    "lon": 12.1156,
+    "population": 46971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordre Land",
+    "region": "Oppland",
+    "lat": 60.8347,
+    "lon": 10.0754,
+    "population": 46952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bindal",
+    "region": "Nordland",
+    "lat": 65.0878,
+    "lon": 12.3775,
+    "population": 46924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ullensvang",
+    "region": "Hordaland",
+    "lat": 60.375,
+    "lon": 6.7207,
+    "population": 46921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vik",
+    "region": "Nordland",
+    "lat": 65.3125,
+    "lon": 12.1673,
+    "population": 46850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giske",
+    "region": "Møre og Romsdal",
+    "lat": 62.5007,
+    "lon": 6.1347,
+    "population": 46574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunndal",
+    "region": "Møre og Romsdal",
+    "lat": 62.6746,
+    "lon": 8.5619,
+    "population": 46521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tretten",
+    "region": "Oppland",
+    "lat": 61.3142,
+    "lon": 10.3007,
+    "population": 46429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melbu",
+    "region": "Nordland",
+    "lat": 68.5025,
+    "lon": 14.7996,
+    "population": 46305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snåase - Snåsa",
+    "region": "Trøndelag",
+    "lat": 64.2461,
+    "lon": 12.3829,
+    "population": 46299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hundorp",
+    "region": "Oppland",
+    "lat": 61.5552,
+    "lon": 9.9407,
+    "population": 46291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leirsund",
+    "region": "Akershus",
+    "lat": 59.9968,
+    "lon": 11.0875,
+    "population": 46262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hemsedal",
+    "region": "Buskerud",
+    "lat": 60.8611,
+    "lon": 8.5654,
+    "population": 46186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fitjar",
+    "region": "Hordaland",
+    "lat": 59.9174,
+    "lon": 5.3164,
+    "population": 46165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dønna",
+    "region": "Nordland",
+    "lat": 66.1061,
+    "lon": 12.4819,
+    "population": 46146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulefoss",
+    "region": "Telemark",
+    "lat": 59.2824,
+    "lon": 9.2655,
+    "population": 46144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandsli",
+    "region": "Hordaland",
+    "lat": 60.3032,
+    "lon": 5.2855,
+    "population": 46124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raufoss",
+    "region": "Oppland",
+    "lat": 60.726,
+    "lon": 10.6133,
+    "population": 46090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askim",
+    "region": "Østfold",
+    "lat": 59.5846,
+    "lon": 11.1608,
+    "population": 46021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Øyer",
+    "region": "Oppland",
+    "lat": 61.2649,
+    "lon": 10.413,
+    "population": 45953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harstad",
+    "region": "Troms",
+    "lat": 68.799,
+    "lon": 16.5293,
+    "population": 45722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Øygarden",
+    "region": "Hordaland",
+    "lat": 60.5904,
+    "lon": 4.8389,
+    "population": 45710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leland",
+    "region": "Nordland",
+    "lat": 66.0641,
+    "lon": 12.9433,
+    "population": 45699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oslo",
+    "region": "Oslo",
+    "lat": 59.9127,
+    "lon": 10.7461,
+    "population": 45620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjugn",
+    "region": "Trøndelag",
+    "lat": 63.7652,
+    "lon": 9.8094,
+    "population": 45521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hol",
+    "region": "Buskerud",
+    "lat": 60.6153,
+    "lon": 8.3019,
+    "population": 45490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berg",
+    "region": "Troms",
+    "lat": 69.4444,
+    "lon": 17.2995,
+    "population": 45481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dovre",
+    "region": "Oppland",
+    "lat": 61.9858,
+    "lon": 9.2495,
+    "population": 45416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gullhaug",
+    "region": "Vestfold",
+    "lat": 59.5013,
+    "lon": 10.2522,
+    "population": 45400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hvaler",
+    "region": "Østfold",
+    "lat": 59.0281,
+    "lon": 11.0311,
+    "population": 45247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modum",
+    "region": "Buskerud",
+    "lat": 59.9735,
+    "lon": 10.0047,
+    "population": 45234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandane",
+    "region": "Sogn og Fjordane",
+    "lat": 61.7728,
+    "lon": 6.215,
+    "population": 45204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rørvik",
+    "region": "Trøndelag",
+    "lat": 64.8619,
+    "lon": 11.2397,
+    "population": 45129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hurum",
+    "region": "Buskerud",
+    "lat": 59.614,
+    "lon": 10.4576,
+    "population": 44977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sauherad",
+    "region": "Telemark",
+    "lat": 59.3964,
+    "lon": 9.2491,
+    "population": 44974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinstra",
+    "region": "Oppland",
+    "lat": 61.595,
+    "lon": 9.7513,
+    "population": 44949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sjøholt",
+    "region": "Møre og Romsdal",
+    "lat": 62.4826,
+    "lon": 6.8138,
+    "population": 44862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rotnes",
+    "region": "Akershus",
+    "lat": 60.0571,
+    "lon": 10.8613,
+    "population": 44785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Høylandet",
+    "region": "Trøndelag",
+    "lat": 64.6276,
+    "lon": 12.3004,
+    "population": 44753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nedre Eiker",
+    "region": "Buskerud",
+    "lat": 59.7502,
+    "lon": 10.0074,
+    "population": 44473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tokke",
+    "region": "Telemark",
+    "lat": 59.4457,
+    "lon": 8.0139,
+    "population": 44376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spydeberg",
+    "region": "Østfold",
+    "lat": 59.6203,
+    "lon": 11.0807,
+    "population": 44368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herre",
+    "region": "Telemark",
+    "lat": 59.1035,
+    "lon": 9.5619,
+    "population": 44164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berger",
+    "region": "Vestfold",
+    "lat": 59.5499,
+    "lon": 10.3864,
+    "population": 44015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tromsø",
+    "region": "Troms",
+    "lat": 69.6496,
+    "lon": 18.957,
+    "population": 43904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Botngård",
+    "region": "Trøndelag",
+    "lat": 63.7648,
+    "lon": 9.8086,
+    "population": 43883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fjaler",
+    "region": "Sogn og Fjordane",
+    "lat": 61.3638,
+    "lon": 5.3981,
+    "population": 43786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leirfjord",
+    "region": "Nordland",
+    "lat": 66.0635,
+    "lon": 12.9367,
+    "population": 43775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nes",
+    "region": "Buskerud",
+    "lat": 60.568,
+    "lon": 9.1017,
+    "population": 43768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florø",
+    "region": "Sogn og Fjordane",
+    "lat": 61.5996,
+    "lon": 5.0328,
+    "population": 43736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vedavågen",
+    "region": "Rogaland",
+    "lat": 59.2948,
+    "lon": 5.2187,
+    "population": 43696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larvik",
+    "region": "Vestfold",
+    "lat": 59.0523,
+    "lon": 10.027,
+    "population": 43578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karasjok",
+    "region": "Finnmark",
+    "lat": 69.4722,
+    "lon": 25.5189,
+    "population": 43573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terråk",
+    "region": "Nordland",
+    "lat": 65.087,
+    "lon": 12.3715,
+    "population": 43490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulsteinvik",
+    "region": "Møre og Romsdal",
+    "lat": 62.3432,
+    "lon": 5.8487,
+    "population": 43482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flakstad",
+    "region": "Nordland",
+    "lat": 68.0929,
+    "lon": 13.2331,
+    "population": 43164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stranda",
+    "region": "Møre og Romsdal",
+    "lat": 62.3113,
+    "lon": 6.9311,
+    "population": 43155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hå",
+    "region": "Rogaland",
+    "lat": 58.6161,
+    "lon": 5.645,
+    "population": 43116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drangedal",
+    "region": "Telemark",
+    "lat": 59.0966,
+    "lon": 9.0596,
+    "population": 43076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rømskog",
+    "region": "Østfold",
+    "lat": 59.7497,
+    "lon": 11.8112,
+    "population": 43037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Indre Fosen",
+    "region": "Trøndelag",
+    "lat": 63.589,
+    "lon": 9.9585,
+    "population": 43018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvinnherad",
+    "region": "Hordaland",
+    "lat": 59.9842,
+    "lon": 6.0123,
+    "population": 43004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moen",
+    "region": "Troms",
+    "lat": 69.1304,
+    "lon": 18.6123,
+    "population": 42922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skodje",
+    "region": "Møre og Romsdal",
+    "lat": 62.5031,
+    "lon": 6.6982,
+    "population": 42897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fossby",
+    "region": "Østfold",
+    "lat": 59.2222,
+    "lon": 11.6993,
+    "population": 42880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skarnes",
+    "region": "Hedmark",
+    "lat": 60.2539,
+    "lon": 11.6849,
+    "population": 42871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sagvåg",
+    "region": "Hordaland",
+    "lat": 59.7814,
+    "lon": 5.39,
+    "population": 42869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vardø",
+    "region": "Finnmark",
+    "lat": 70.3704,
+    "lon": 31.1087,
+    "population": 42859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fjellfoten",
+    "region": "Akershus",
+    "lat": 60.0897,
+    "lon": 11.4722,
+    "population": 42763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storsteinnes",
+    "region": "Troms",
+    "lat": 69.2408,
+    "lon": 19.2344,
+    "population": 42703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namsos",
+    "region": "Trøndelag",
+    "lat": 64.4784,
+    "lon": 11.5418,
+    "population": 42688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gratangen",
+    "region": "Troms",
+    "lat": 68.6927,
+    "lon": 17.5319,
+    "population": 42636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjelmeland",
+    "region": "Rogaland",
+    "lat": 59.2367,
+    "lon": 6.1791,
+    "population": 42595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norddal",
+    "region": "Møre og Romsdal",
+    "lat": 62.2991,
+    "lon": 7.2614,
+    "population": 42535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meløy",
+    "region": "Nordland",
+    "lat": 66.872,
+    "lon": 13.7076,
+    "population": 42463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kåfjord",
+    "region": "Troms",
+    "lat": 69.604,
+    "lon": 20.5346,
+    "population": 42452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sjøvegan",
+    "region": "Troms",
+    "lat": 68.8736,
+    "lon": 17.8471,
+    "population": 42422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ávanuorri",
+    "region": "Finnmark",
+    "lat": 70.9963,
+    "lon": 24.6622,
+    "population": 42410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjøvik",
+    "region": "Oppland",
+    "lat": 60.7947,
+    "lon": 10.6929,
+    "population": 42395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skedsmo",
+    "region": "Akershus",
+    "lat": 59.9545,
+    "lon": 11.0395,
+    "population": 42356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gloppen",
+    "region": "Sogn og Fjordane",
+    "lat": 61.7773,
+    "lon": 6.2156,
+    "population": 42287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moelv",
+    "region": "Hedmark",
+    "lat": 60.9333,
+    "lon": 10.7,
+    "population": 42197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tau",
+    "region": "Rogaland",
+    "lat": 59.0648,
+    "lon": 5.9225,
+    "population": 42164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Engerdal",
+    "region": "Hedmark",
+    "lat": 61.7577,
+    "lon": 11.9597,
+    "population": 42145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brønnøysund",
+    "region": "Nordland",
+    "lat": 65.4749,
+    "lon": 12.2128,
+    "population": 42088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjerkreim",
+    "region": "Rogaland",
+    "lat": 58.6305,
+    "lon": 6.0813,
+    "population": 41995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vennesla",
+    "region": "Vest-Agder",
+    "lat": 58.3427,
+    "lon": 7.976,
+    "population": 41842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Judaberg",
+    "region": "Rogaland",
+    "lat": 59.172,
+    "lon": 5.8762,
+    "population": 41838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spetalen",
+    "region": "Hedmark",
+    "lat": 60.1833,
+    "lon": 11.9,
+    "population": 41786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leknes",
+    "region": "Nordland",
+    "lat": 68.1475,
+    "lon": 13.6115,
+    "population": 41770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Time",
+    "region": "Rogaland",
+    "lat": 58.7364,
+    "lon": 5.653,
+    "population": 41710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lødingen",
+    "region": "Nordland",
+    "lat": 68.41,
+    "lon": 15.9901,
+    "population": 41690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sørumsand",
+    "region": "Akershus",
+    "lat": 59.9862,
+    "lon": 11.2415,
+    "population": 41580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haram",
+    "region": "Møre og Romsdal",
+    "lat": 62.599,
+    "lon": 6.4448,
+    "population": 41530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klæbu",
+    "region": "Trøndelag",
+    "lat": 63.3006,
+    "lon": 10.4819,
+    "population": 41528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marker",
+    "region": "Østfold",
+    "lat": 59.4795,
+    "lon": 11.6592,
+    "population": 41513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flateby",
+    "region": "Akershus",
+    "lat": 59.8295,
+    "lon": 11.1534,
+    "population": 41430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ørje",
+    "region": "Østfold",
+    "lat": 59.4802,
+    "lon": 11.6602,
+    "population": 41391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rjukan",
+    "region": "Telemark",
+    "lat": 59.8789,
+    "lon": 8.5941,
+    "population": 41390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lesja",
+    "region": "Oppland",
+    "lat": 62.1178,
+    "lon": 8.8626,
+    "population": 41343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vestnes",
+    "region": "Møre og Romsdal",
+    "lat": 62.6213,
+    "lon": 7.0897,
+    "population": 41188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sørland",
+    "region": "Nordland",
+    "lat": 67.6656,
+    "lon": 12.6978,
+    "population": 40950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindesnes",
+    "region": "Vest-Agder",
+    "lat": 58.0844,
+    "lon": 7.3016,
+    "population": 40890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Træna",
+    "region": "Nordland",
+    "lat": 66.5016,
+    "lon": 12.0965,
+    "population": 40860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sogndal",
+    "region": "Sogn og Fjordane",
+    "lat": 61.2314,
+    "lon": 7.103,
+    "population": 40843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hermansverk",
+    "region": "Sogn og Fjordane",
+    "lat": 61.1846,
+    "lon": 6.8502,
+    "population": 40655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sauda",
+    "region": "Rogaland",
+    "lat": 59.6507,
+    "lon": 6.3531,
+    "population": 40576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindås",
+    "region": "Hordaland",
+    "lat": 60.5491,
+    "lon": 5.2856,
+    "population": 40537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skotterud",
+    "region": "Hedmark",
+    "lat": 59.9828,
+    "lon": 12.1282,
+    "population": 40516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vikna",
+    "region": "Trøndelag",
+    "lat": 64.8636,
+    "lon": 11.242,
+    "population": 40499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ågotnes",
+    "region": "Hordaland",
+    "lat": 60.4031,
+    "lon": 5.0193,
+    "population": 40492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavanger",
+    "region": "Rogaland",
+    "lat": 58.9694,
+    "lon": 5.7286,
+    "population": 40428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sem",
+    "region": "Vestfold",
+    "lat": 59.2823,
+    "lon": 10.33,
+    "population": 40349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jølster",
+    "region": "Sogn og Fjordane",
+    "lat": 61.5692,
+    "lon": 6.4835,
+    "population": 40201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fillan",
+    "region": "Trøndelag",
+    "lat": 63.6064,
+    "lon": 8.9696,
+    "population": 40178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Os",
+    "region": "Hordaland",
+    "lat": 60.1855,
+    "lon": 5.4696,
+    "population": 40166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liknes",
+    "region": "Vest-Agder",
+    "lat": 58.3122,
+    "lon": 6.9618,
+    "population": 39953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frogn",
+    "region": "Akershus",
+    "lat": 59.6666,
+    "lon": 10.6357,
+    "population": 39880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verdal",
+    "region": "Trøndelag",
+    "lat": 63.9002,
+    "lon": 11.7272,
+    "population": 39812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radøy",
+    "region": "Hordaland",
+    "lat": 60.6419,
+    "lon": 5.0411,
+    "population": 39781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midtre Gauldal",
+    "region": "Trøndelag",
+    "lat": 63.039,
+    "lon": 10.287,
+    "population": 39718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lierne",
+    "region": "Trøndelag",
+    "lat": 64.4641,
+    "lon": 13.5925,
+    "population": 39641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flekkefjord",
+    "region": "Vest-Agder",
+    "lat": 58.2979,
+    "lon": 6.6635,
+    "population": 39622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandefjord",
+    "region": "Vestfold",
+    "lat": 59.1288,
+    "lon": 10.2197,
+    "population": 39612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vang",
+    "region": "Oppland",
+    "lat": 61.1256,
+    "lon": 8.5717,
+    "population": 39511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nore og Uvdal",
+    "region": "Buskerud",
+    "lat": 60.2671,
+    "lon": 8.9464,
+    "population": 39508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sande",
+    "region": "Vestfold",
+    "lat": 59.5936,
+    "lon": 10.2076,
+    "population": 39500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Finnsnes",
+    "region": "Troms",
+    "lat": 69.2296,
+    "lon": 17.9811,
+    "population": 39254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vikersund",
+    "region": "Buskerud",
+    "lat": 59.9684,
+    "lon": 9.9911,
+    "population": 39201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dale",
+    "region": "Sogn og Fjordane",
+    "lat": 61.3635,
+    "lon": 5.4004,
+    "population": 39155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nodeland",
+    "region": "Vest-Agder",
+    "lat": 58.1552,
+    "lon": 7.8358,
+    "population": 39074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkenes",
+    "region": "Finnmark",
+    "lat": 69.7271,
+    "lon": 30.0458,
+    "population": 39065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tveit",
+    "region": "Vest-Agder",
+    "lat": 58.2337,
+    "lon": 8.122,
+    "population": 39040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skogn",
+    "region": "Trøndelag",
+    "lat": 63.7037,
+    "lon": 11.1926,
+    "population": 39019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beiarn",
+    "region": "Nordland",
+    "lat": 67.0072,
+    "lon": 14.573,
+    "population": 38914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elnesvågen",
+    "region": "Møre og Romsdal",
+    "lat": 62.8543,
+    "lon": 7.1377,
+    "population": 38796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skogsvågen",
+    "region": "Hordaland",
+    "lat": 60.2551,
+    "lon": 5.1016,
+    "population": 38727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flå",
+    "region": "Buskerud",
+    "lat": 60.4291,
+    "lon": 9.4661,
+    "population": 38634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steinshamn",
+    "region": "Møre og Romsdal",
+    "lat": 62.7839,
+    "lon": 6.4707,
+    "population": 38544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stord",
+    "region": "Hordaland",
+    "lat": 59.7809,
+    "lon": 5.4998,
+    "population": 38481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dokka",
+    "region": "Oppland",
+    "lat": 60.835,
+    "lon": 10.0736,
+    "population": 38428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vågsøy",
+    "region": "Sogn og Fjordane",
+    "lat": 61.9354,
+    "lon": 5.114,
+    "population": 38384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koppang",
+    "region": "Hedmark",
+    "lat": 61.5722,
+    "lon": 11.0466,
+    "population": 38258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vågåmo",
+    "region": "Oppland",
+    "lat": 61.8751,
+    "lon": 9.0967,
+    "population": 38139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sør-Aurdal",
+    "region": "Oppland",
+    "lat": 60.8224,
+    "lon": 9.5484,
+    "population": 38133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norheimsund",
+    "region": "Hordaland",
+    "lat": 60.3709,
+    "lon": 6.1456,
+    "population": 38101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringsaker",
+    "region": "Hedmark",
+    "lat": 60.8822,
+    "lon": 10.9503,
+    "population": 38008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Røyrvik",
+    "region": "Trøndelag",
+    "lat": 64.8839,
+    "lon": 13.5626,
+    "population": 38003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lauvsnes",
+    "region": "Trøndelag",
+    "lat": 64.5006,
+    "lon": 10.894,
+    "population": 37925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hornindal",
+    "region": "Sogn og Fjordane",
+    "lat": 61.9693,
+    "lon": 6.5225,
+    "population": 37912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aukra",
+    "region": "Møre og Romsdal",
+    "lat": 62.805,
+    "lon": 6.8872,
+    "population": 37792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyefjell",
+    "region": "Rogaland",
+    "lat": 58.7354,
+    "lon": 5.7362,
+    "population": 37750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kragerø",
+    "region": "Telemark",
+    "lat": 58.8679,
+    "lon": 9.411,
+    "population": 37610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evenes",
+    "region": "Nordland",
+    "lat": 68.5233,
+    "lon": 17.0089,
+    "population": 37546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prestfoss",
+    "region": "Buskerud",
+    "lat": 60.0434,
+    "lon": 9.6352,
+    "population": 37502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ask",
+    "region": "Akershus",
+    "lat": 60.0713,
+    "lon": 11.0362,
+    "population": 37481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirdal",
+    "region": "Vest-Agder",
+    "lat": 58.6651,
+    "lon": 6.7158,
+    "population": 37460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torsken",
+    "region": "Troms",
+    "lat": 69.3618,
+    "lon": 17.0538,
+    "population": 37452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stjørdalshalsen",
+    "region": "Trøndelag",
+    "lat": 63.4681,
+    "lon": 10.9262,
+    "population": 37438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korgen",
+    "region": "Nordland",
+    "lat": 66.0766,
+    "lon": 13.8216,
+    "population": 37421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oppegård",
+    "region": "Akershus",
+    "lat": 59.8115,
+    "lon": 10.7971,
+    "population": 37305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mo i Rana",
+    "region": "Nordland",
+    "lat": 66.3128,
+    "lon": 14.1428,
+    "population": 37269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjartdal",
+    "region": "Telemark",
+    "lat": 59.6128,
+    "lon": 8.9494,
+    "population": 37236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammerfest",
+    "region": "Finnmark",
+    "lat": 70.6626,
+    "lon": 23.683,
+    "population": 37204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Råholt",
+    "region": "Akershus",
+    "lat": 60.2751,
+    "lon": 11.179,
+    "population": 37028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tysfjord",
+    "region": "Nordland",
+    "lat": 68.0977,
+    "lon": 16.3759,
+    "population": 36996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sande",
+    "region": "Møre og Romsdal",
+    "lat": 62.2045,
+    "lon": 5.5797,
+    "population": 36977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rollag",
+    "region": "Buskerud",
+    "lat": 59.9841,
+    "lon": 9.2949,
+    "population": 36956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vikevåg",
+    "region": "Rogaland",
+    "lat": 59.0975,
+    "lon": 5.6979,
+    "population": 36883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Audnedal",
+    "region": "Vest-Agder",
+    "lat": 58.2838,
+    "lon": 7.3549,
+    "population": 36797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaupne",
+    "region": "Sogn og Fjordane",
+    "lat": 61.4047,
+    "lon": 7.2946,
+    "population": 36759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballangen",
+    "region": "Nordland",
+    "lat": 68.3436,
+    "lon": 16.8332,
+    "population": 36712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alvdal",
+    "region": "Hedmark",
+    "lat": 62.1085,
+    "lon": 10.6348,
+    "population": 36606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namdalseid",
+    "region": "Trøndelag",
+    "lat": 64.1084,
+    "lon": 10.9186,
+    "population": 36517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steigen",
+    "region": "Nordland",
+    "lat": 67.7763,
+    "lon": 15.0162,
+    "population": 36514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malm",
+    "region": "Trøndelag",
+    "lat": 64.0753,
+    "lon": 11.224,
+    "population": 36456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamar",
+    "region": "Hedmark",
+    "lat": 60.7945,
+    "lon": 11.068,
+    "population": 36414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kárášjohka",
+    "region": "Finnmark",
+    "lat": 69.4719,
+    "lon": 25.5112,
+    "population": 36310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyngdal",
+    "region": "Vest-Agder",
+    "lat": 58.1383,
+    "lon": 7.0684,
+    "population": 36294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Røros",
+    "region": "Trøndelag",
+    "lat": 62.5756,
+    "lon": 11.3873,
+    "population": 36214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malvik",
+    "region": "Trøndelag",
+    "lat": 63.4106,
+    "lon": 10.7938,
+    "population": 36213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulvik",
+    "region": "Hordaland",
+    "lat": 60.5672,
+    "lon": 6.9187,
+    "population": 36208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Færder",
+    "region": "Vestfold",
+    "lat": 59.2279,
+    "lon": 10.4153,
+    "population": 36201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reinsvoll",
+    "region": "Oppland",
+    "lat": 60.6798,
+    "lon": 10.6218,
+    "population": 36154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjørnevatn",
+    "region": "Finnmark",
+    "lat": 69.6675,
+    "lon": 29.9872,
+    "population": 36114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjerdrum",
+    "region": "Akershus",
+    "lat": 60.0716,
+    "lon": 11.036,
+    "population": 36038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nissedal",
+    "region": "Telemark",
+    "lat": 59.0196,
+    "lon": 8.5213,
+    "population": 35965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordfjordeid",
+    "region": "Sogn og Fjordane",
+    "lat": 61.9122,
+    "lon": 5.9856,
+    "population": 35878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesoddtangen",
+    "region": "Akershus",
+    "lat": 59.8624,
+    "lon": 10.6631,
+    "population": 35835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olderdalen",
+    "region": "Troms",
+    "lat": 69.6041,
+    "lon": 20.5327,
+    "population": 35827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naustdal",
+    "region": "Sogn og Fjordane",
+    "lat": 61.5103,
+    "lon": 5.7172,
+    "population": 35684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rognan",
+    "region": "Nordland",
+    "lat": 67.1002,
+    "lon": 15.3909,
+    "population": 35656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fossbergom",
+    "region": "Oppland",
+    "lat": 61.8377,
+    "lon": 8.5684,
+    "population": 35609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siljan",
+    "region": "Telemark",
+    "lat": 59.2825,
+    "lon": 9.7337,
+    "population": 35551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lom",
+    "region": "Oppland",
+    "lat": 61.8364,
+    "lon": 8.5681,
+    "population": 35434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomter",
+    "region": "Østfold",
+    "lat": 59.6591,
+    "lon": 10.9949,
+    "population": 35422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inderøy",
+    "region": "Trøndelag",
+    "lat": 63.8783,
+    "lon": 11.2842,
+    "population": 35374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ski",
+    "region": "Akershus",
+    "lat": 59.7205,
+    "lon": 10.8388,
+    "population": 35357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinn",
+    "region": "Telemark",
+    "lat": 59.8349,
+    "lon": 9.1353,
+    "population": 35326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveio",
+    "region": "Hordaland",
+    "lat": 59.543,
+    "lon": 5.3541,
+    "population": 35263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fredrikstad",
+    "region": "Østfold",
+    "lat": 59.2176,
+    "lon": 10.9379,
+    "population": 35191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hitra",
+    "region": "Trøndelag",
+    "lat": 63.5453,
+    "lon": 8.7803,
+    "population": 35168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lillehammer",
+    "region": "Oppland",
+    "lat": 61.1146,
+    "lon": 10.4674,
+    "population": 35093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eigersund",
+    "region": "Rogaland",
+    "lat": 58.4524,
+    "lon": 6.0031,
+    "population": 34928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaksdal",
+    "region": "Hordaland",
+    "lat": 60.5903,
+    "lon": 5.8227,
+    "population": 34914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ørland",
+    "region": "Trøndelag",
+    "lat": 63.6857,
+    "lon": 9.6663,
+    "population": 34824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larsnes",
+    "region": "Møre og Romsdal",
+    "lat": 62.2028,
+    "lon": 5.5773,
+    "population": 34797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melsomvik",
+    "region": "Vestfold",
+    "lat": 59.2239,
+    "lon": 10.3362,
+    "population": 34773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sørreisa",
+    "region": "Troms",
+    "lat": 69.147,
+    "lon": 18.1563,
+    "population": 34694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eidsvoll",
+    "region": "Akershus",
+    "lat": 60.3289,
+    "lon": 11.2612,
+    "population": 34684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Finnøy",
+    "region": "Rogaland",
+    "lat": 59.1712,
+    "lon": 5.874,
+    "population": 34652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tofte",
+    "region": "Buskerud",
+    "lat": 59.5427,
+    "lon": 10.5614,
+    "population": 34644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nittedal",
+    "region": "Akershus",
+    "lat": 60.0428,
+    "lon": 10.8817,
+    "population": 34635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nord-Aurdal",
+    "region": "Oppland",
+    "lat": 60.9853,
+    "lon": 9.2366,
+    "population": 34530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myre",
+    "region": "Nordland",
+    "lat": 68.914,
+    "lon": 15.0784,
+    "population": 34502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hommersåk",
+    "region": "Rogaland",
+    "lat": 58.9256,
+    "lon": 5.851,
+    "population": 34352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saltdal",
+    "region": "Nordland",
+    "lat": 67.1014,
+    "lon": 15.3946,
+    "population": 34334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringebu",
+    "region": "Oppland",
+    "lat": 61.5298,
+    "lon": 10.1418,
+    "population": 34244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyllestad",
+    "region": "Sogn og Fjordane",
+    "lat": 61.1704,
+    "lon": 5.2961,
+    "population": 34184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordreisa",
+    "region": "Troms",
+    "lat": 69.7682,
+    "lon": 21.0257,
+    "population": 34166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oppdal",
+    "region": "Trøndelag",
+    "lat": 62.5949,
+    "lon": 9.6876,
+    "population": 34148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sæveland",
+    "region": "Rogaland",
+    "lat": 59.2667,
+    "lon": 5.2,
+    "population": 34037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sør-Varanger",
+    "region": "Finnmark",
+    "lat": 69.7286,
+    "lon": 30.0426,
+    "population": 33975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borkenes",
+    "region": "Troms",
+    "lat": 68.7726,
+    "lon": 16.1712,
+    "population": 33924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balestrand",
+    "region": "Sogn og Fjordane",
+    "lat": 61.2081,
+    "lon": 6.5355,
+    "population": 33917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åkrehamn",
+    "region": "Rogaland",
+    "lat": 59.2605,
+    "lon": 5.1869,
+    "population": 33891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manger",
+    "region": "Hordaland",
+    "lat": 60.6414,
+    "lon": 5.0414,
+    "population": 33871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jondal",
+    "region": "Hordaland",
+    "lat": 60.2762,
+    "lon": 6.2526,
+    "population": 33839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roan",
+    "region": "Trøndelag",
+    "lat": 64.1728,
+    "lon": 10.2251,
+    "population": 33802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanse",
+    "region": "Vest-Agder",
+    "lat": 58.0981,
+    "lon": 6.6918,
+    "population": 33797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lillestrøm",
+    "region": "Akershus",
+    "lat": 59.956,
+    "lon": 11.0492,
+    "population": 33737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Råde",
+    "region": "Østfold",
+    "lat": 59.3516,
+    "lon": 10.8713,
+    "population": 33550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Røyken",
+    "region": "Buskerud",
+    "lat": 59.7402,
+    "lon": 10.4132,
+    "population": 33507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjesdal",
+    "region": "Rogaland",
+    "lat": 58.7648,
+    "lon": 5.855,
+    "population": 33345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fedje",
+    "region": "Hordaland",
+    "lat": 60.7787,
+    "lon": 4.7196,
+    "population": 33268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storfjord",
+    "region": "Troms",
+    "lat": 69.2686,
+    "lon": 19.9609,
+    "population": 33237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fauske",
+    "region": "Nordland",
+    "lat": 67.2596,
+    "lon": 15.3941,
+    "population": 33235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Måsøy",
+    "region": "Finnmark",
+    "lat": 70.9965,
+    "lon": 24.6615,
+    "population": 33229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Modalen",
+    "region": "Hordaland",
+    "lat": 60.8173,
+    "lon": 5.8079,
+    "population": 33151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årøysund",
+    "region": "Vestfold",
+    "lat": 59.1832,
+    "lon": 10.4574,
+    "population": 33130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varhaug",
+    "region": "Rogaland",
+    "lat": 58.6181,
+    "lon": 5.657,
+    "population": 32854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evenskjer",
+    "region": "Troms",
+    "lat": 68.5828,
+    "lon": 16.572,
+    "population": 32853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bø",
+    "region": "Nordland",
+    "lat": 68.6882,
+    "lon": 14.479,
+    "population": 32845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kautokeino",
+    "region": "Finnmark",
+    "lat": 69.0115,
+    "lon": 23.0415,
+    "population": 32827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Averøy",
+    "region": "Møre og Romsdal",
+    "lat": 63.0534,
+    "lon": 7.6326,
+    "population": 32698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Austevoll",
+    "region": "Hordaland",
+    "lat": 60.0958,
+    "lon": 5.2272,
+    "population": 32674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horten",
+    "region": "Vestfold",
+    "lat": 59.4155,
+    "lon": 10.4853,
+    "population": 32619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tynset",
+    "region": "Hedmark",
+    "lat": 62.2739,
+    "lon": 10.7763,
+    "population": 32568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farnes",
+    "region": "Sogn og Fjordane",
+    "lat": 61.3085,
+    "lon": 7.7969,
+    "population": 32499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hommelvik",
+    "region": "Trøndelag",
+    "lat": 63.4108,
+    "lon": 10.7942,
+    "population": 32492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjerkvik",
+    "region": "Nordland",
+    "lat": 68.5492,
+    "lon": 17.5571,
+    "population": 32483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vik",
+    "region": "Sogn og Fjordane",
+    "lat": 61.0886,
+    "lon": 6.5851,
+    "population": 32454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandal",
+    "region": "Vest-Agder",
+    "lat": 58.0263,
+    "lon": 7.4501,
+    "population": 32437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askvoll",
+    "region": "Sogn og Fjordane",
+    "lat": 61.3485,
+    "lon": 5.0532,
+    "population": 32404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flesberg",
+    "region": "Buskerud",
+    "lat": 59.8328,
+    "lon": 9.5831,
+    "population": 32171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ullensaker",
+    "region": "Akershus",
+    "lat": 60.144,
+    "lon": 11.1744,
+    "population": 32154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvinesdal",
+    "region": "Vest-Agder",
+    "lat": 58.2389,
+    "lon": 6.7145,
+    "population": 32121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Randaberg",
+    "region": "Rogaland",
+    "lat": 58.9987,
+    "lon": 5.6205,
+    "population": 32117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halden",
+    "region": "Østfold",
+    "lat": 59.1226,
+    "lon": 11.3871,
+    "population": 31981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolvereid",
+    "region": "Trøndelag",
+    "lat": 64.8655,
+    "lon": 11.6046,
+    "population": 31956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jevnaker",
+    "region": "Oppland",
+    "lat": 60.2406,
+    "lon": 10.3859,
+    "population": 31933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Målselv",
+    "region": "Troms",
+    "lat": 69.1239,
+    "lon": 18.615,
+    "population": 31814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranemsletta",
+    "region": "Trøndelag",
+    "lat": 64.4945,
+    "lon": 11.9491,
+    "population": 31584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trofors",
+    "region": "Nordland",
+    "lat": 65.5333,
+    "lon": 13.4063,
+    "population": 31564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tana",
+    "region": "Finnmark",
+    "lat": 70.1998,
+    "lon": 28.1849,
+    "population": 31563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vormedal",
+    "region": "Rogaland",
+    "lat": 59.3561,
+    "lon": 5.3196,
+    "population": 31539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moi",
+    "region": "Rogaland",
+    "lat": 58.4567,
+    "lon": 6.5518,
+    "population": 31517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalen",
+    "region": "Telemark",
+    "lat": 59.445,
+    "lon": 8.0049,
+    "population": 31454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandnes",
+    "region": "Rogaland",
+    "lat": 58.8476,
+    "lon": 5.7286,
+    "population": 31440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibestad",
+    "region": "Troms",
+    "lat": 68.7787,
+    "lon": 17.1766,
+    "population": 31409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Egersund",
+    "region": "Rogaland",
+    "lat": 58.4513,
+    "lon": 5.9997,
+    "population": 31341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinje",
+    "region": "Telemark",
+    "lat": 59.5692,
+    "lon": 7.989,
+    "population": 31300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åneby",
+    "region": "Akershus",
+    "lat": 60.0893,
+    "lon": 10.87,
+    "population": 31216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lier",
+    "region": "Buskerud",
+    "lat": 59.7866,
+    "lon": 10.2459,
+    "population": 31157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osen",
+    "region": "Trøndelag",
+    "lat": 64.2987,
+    "lon": 10.5128,
+    "population": 31020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sistranda",
+    "region": "Trøndelag",
+    "lat": 63.7252,
+    "lon": 8.8332,
+    "population": 30984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Våler",
+    "region": "Hedmark",
+    "lat": 60.6784,
+    "lon": 11.8331,
+    "population": 30979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selvik",
+    "region": "Vestfold",
+    "lat": 59.5665,
+    "lon": 10.26,
+    "population": 30968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seljord",
+    "region": "Telemark",
+    "lat": 59.4827,
+    "lon": 8.6267,
+    "population": 30947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skien",
+    "region": "Telemark",
+    "lat": 59.2075,
+    "lon": 9.6105,
+    "population": 30906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gladstad",
+    "region": "Nordland",
+    "lat": 65.6768,
+    "lon": 11.9622,
+    "population": 30891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aurskog-Høland",
+    "region": "Akershus",
+    "lat": 59.8832,
+    "lon": 11.5649,
+    "population": 30886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haugesund",
+    "region": "Rogaland",
+    "lat": 59.4102,
+    "lon": 5.2755,
+    "population": 30862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lundamo",
+    "region": "Trøndelag",
+    "lat": 63.1522,
+    "lon": 10.2856,
+    "population": 30836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasvik",
+    "region": "Finnmark",
+    "lat": 70.5916,
+    "lon": 22.3027,
+    "population": 30809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lavangen",
+    "region": "Troms",
+    "lat": 68.7472,
+    "lon": 17.8056,
+    "population": 30791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drammen",
+    "region": "Buskerud",
+    "lat": 59.7439,
+    "lon": 10.2045,
+    "population": 30747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stjørdal",
+    "region": "Trøndelag",
+    "lat": 63.567,
+    "lon": 11.0273,
+    "population": 30723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hemnesberget",
+    "region": "Nordland",
+    "lat": 66.2249,
+    "lon": 13.6164,
+    "population": 30499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlshus",
+    "region": "Østfold",
+    "lat": 59.352,
+    "lon": 10.8723,
+    "population": 30464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trondheim",
+    "region": "Trøndelag",
+    "lat": 63.4281,
+    "lon": 10.3969,
+    "population": 30364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tysvær",
+    "region": "Rogaland",
+    "lat": 59.4216,
+    "lon": 5.4478,
+    "population": 30344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Søgne",
+    "region": "Vest-Agder",
+    "lat": 58.0966,
+    "lon": 7.8149,
+    "population": 30322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brønnøy",
+    "region": "Nordland",
+    "lat": 65.4679,
+    "lon": 12.2063,
+    "population": 30305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Værøy",
+    "region": "Nordland",
+    "lat": 67.6637,
+    "lon": 12.6934,
+    "population": 30295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyrksæterøra",
+    "region": "Trøndelag",
+    "lat": 63.2906,
+    "lon": 9.0891,
+    "population": 30143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesbyen",
+    "region": "Buskerud",
+    "lat": 60.5681,
+    "lon": 9.1027,
+    "population": 30094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neskollen",
+    "region": "Akershus",
+    "lat": 60.1216,
+    "lon": 11.3393,
+    "population": 30070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skånland",
+    "region": "Troms",
+    "lat": 68.5838,
+    "lon": 16.573,
+    "population": 29983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åndalsnes",
+    "region": "Møre og Romsdal",
+    "lat": 62.5675,
+    "lon": 7.6871,
+    "population": 29966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergen",
+    "region": "Hordaland",
+    "lat": 60.392,
+    "lon": 5.328,
+    "population": 29963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kopervik",
+    "region": "Rogaland",
+    "lat": 59.2835,
+    "lon": 5.3067,
+    "population": 29917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ytre Arna",
+    "region": "Hordaland",
+    "lat": 60.4618,
+    "lon": 5.4326,
+    "population": 29903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tananger",
+    "region": "Rogaland",
+    "lat": 58.9362,
+    "lon": 5.5741,
+    "population": 29898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dyrøy",
+    "region": "Troms",
+    "lat": 69.0915,
+    "lon": 17.6909,
+    "population": 29814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rauma",
+    "region": "Møre og Romsdal",
+    "lat": 62.5681,
+    "lon": 7.6861,
+    "population": 29814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tjøme",
+    "region": "Vestfold",
+    "lat": 59.1109,
+    "lon": 10.3933,
+    "population": 29790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aremark",
+    "region": "Østfold",
+    "lat": 59.222,
+    "lon": 11.6958,
+    "population": 29738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noresund",
+    "region": "Buskerud",
+    "lat": 60.1799,
+    "lon": 9.6241,
+    "population": 29732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skiptvet",
+    "region": "Østfold",
+    "lat": 59.4775,
+    "lon": 11.1617,
+    "population": 29724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Førde",
+    "region": "Sogn og Fjordane",
+    "lat": 61.4504,
+    "lon": 5.854,
+    "population": 29712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadsel",
+    "region": "Nordland",
+    "lat": 68.5633,
+    "lon": 14.9084,
+    "population": 29622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smøla",
+    "region": "Møre og Romsdal",
+    "lat": 63.4653,
+    "lon": 8.0181,
+    "population": 29590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogen",
+    "region": "Nordland",
+    "lat": 68.5265,
+    "lon": 16.9928,
+    "population": 29561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolga",
+    "region": "Hedmark",
+    "lat": 62.4098,
+    "lon": 10.9977,
+    "population": 29468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leka",
+    "region": "Trøndelag",
+    "lat": 65.0924,
+    "lon": 11.7051,
+    "population": 29379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vigeland",
+    "region": "Vest-Agder",
+    "lat": 58.0844,
+    "lon": 7.305,
+    "population": 29338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stryn",
+    "region": "Sogn og Fjordane",
+    "lat": 61.9041,
+    "lon": 6.724,
+    "population": 29103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanylven",
+    "region": "Møre og Romsdal",
+    "lat": 62.1,
+    "lon": 5.5583,
+    "population": 29102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Båtsfjord",
+    "region": "Finnmark",
+    "lat": 70.6343,
+    "lon": 29.7175,
+    "population": 29096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hylkje",
+    "region": "Hordaland",
+    "lat": 60.5103,
+    "lon": 5.3544,
+    "population": 28820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabelvåg",
+    "region": "Nordland",
+    "lat": 68.2107,
+    "lon": 14.4755,
+    "population": 28584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agdenes",
+    "region": "Trøndelag",
+    "lat": 63.5057,
+    "lon": 9.8262,
+    "population": 28583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andøy",
+    "region": "Nordland",
+    "lat": 69.0803,
+    "lon": 15.7764,
+    "population": 28566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Os",
+    "region": "Hedmark",
+    "lat": 62.4954,
+    "lon": 11.2281,
+    "population": 28528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åfjord",
+    "region": "Trøndelag",
+    "lat": 63.962,
+    "lon": 10.2259,
+    "population": 28503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marnardal",
+    "region": "Vest-Agder",
+    "lat": 58.198,
+    "lon": 7.528,
+    "population": 28460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ørskog",
+    "region": "Møre og Romsdal",
+    "lat": 62.4845,
+    "lon": 6.8202,
+    "population": 28420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dombås",
+    "region": "Oppland",
+    "lat": 62.0755,
+    "lon": 9.1279,
+    "population": 28356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løding",
+    "region": "Nordland",
+    "lat": 67.3006,
+    "lon": 14.7385,
+    "population": 28340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vestby",
+    "region": "Akershus",
+    "lat": 59.6023,
+    "lon": 10.7481,
+    "population": 28322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lunde",
+    "region": "Telemark",
+    "lat": 59.2983,
+    "lon": 9.1027,
+    "population": 28321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sola",
+    "region": "Rogaland",
+    "lat": 58.8881,
+    "lon": 5.6473,
+    "population": 28270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leikanger",
+    "region": "Sogn og Fjordane",
+    "lat": 61.1856,
+    "lon": 6.822,
+    "population": 28268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosendal",
+    "region": "Hordaland",
+    "lat": 59.9859,
+    "lon": 6.0116,
+    "population": 28102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salangen",
+    "region": "Troms",
+    "lat": 68.8767,
+    "lon": 17.8337,
+    "population": 28080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askøy",
+    "region": "Hordaland",
+    "lat": 60.4092,
+    "lon": 5.226,
+    "population": 28079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drøbak",
+    "region": "Akershus",
+    "lat": 59.6633,
+    "lon": 10.6297,
+    "population": 27950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herøy",
+    "region": "Møre og Romsdal",
+    "lat": 62.3333,
+    "lon": 5.636,
+    "population": 27822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kjøllefjord",
+    "region": "Finnmark",
+    "lat": 70.9457,
+    "lon": 27.3465,
+    "population": 27806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åseral",
+    "region": "Vest-Agder",
+    "lat": 58.6173,
+    "lon": 7.4112,
+    "population": 27796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tranøy",
+    "region": "Troms",
+    "lat": 69.1702,
+    "lon": 17.7348,
+    "population": 27640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyngen",
+    "region": "Troms",
+    "lat": 69.5762,
+    "lon": 20.217,
+    "population": 27596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fusa",
+    "region": "Hordaland",
+    "lat": 60.2407,
+    "lon": 5.7446,
+    "population": 27541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fyresdal",
+    "region": "Telemark",
+    "lat": 59.1865,
+    "lon": 8.0895,
+    "population": 27495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eikelandsosen",
+    "region": "Hordaland",
+    "lat": 60.2418,
+    "lon": 5.7443,
+    "population": 27390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hægebostad",
+    "region": "Vest-Agder",
+    "lat": 58.3757,
+    "lon": 7.2197,
+    "population": 27323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonstad",
+    "region": "Vest-Agder",
+    "lat": 58.6626,
+    "lon": 6.7169,
+    "population": 27301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forsand",
+    "region": "Rogaland",
+    "lat": 58.8993,
+    "lon": 6.0964,
+    "population": 27139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flatanger",
+    "region": "Trøndelag",
+    "lat": 64.4128,
+    "lon": 11.0328,
+    "population": 27106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ølen",
+    "region": "Rogaland",
+    "lat": 59.6044,
+    "lon": 5.808,
+    "population": 27100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steinkjer",
+    "region": "Trøndelag",
+    "lat": 64.193,
+    "lon": 11.385,
+    "population": 26971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orkdal",
+    "region": "Trøndelag",
+    "lat": 63.2999,
+    "lon": 9.8437,
+    "population": 26928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årnes",
+    "region": "Akershus",
+    "lat": 60.1224,
+    "lon": 11.4701,
+    "population": 26857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hemne",
+    "region": "Trøndelag",
+    "lat": 63.291,
+    "lon": 9.0889,
+    "population": 26818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åmot",
+    "region": "Hedmark",
+    "lat": 61.132,
+    "lon": 11.3733,
+    "population": 26733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loppa",
+    "region": "Finnmark",
+    "lat": 70.2395,
+    "lon": 22.3514,
+    "population": 26697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesodden",
+    "region": "Akershus",
+    "lat": 59.8422,
+    "lon": 10.6494,
+    "population": 26655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årdal",
+    "region": "Sogn og Fjordane",
+    "lat": 61.2364,
+    "lon": 7.702,
+    "population": 26542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvæfjord",
+    "region": "Troms",
+    "lat": 68.772,
+    "lon": 16.1729,
+    "population": 26528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balsfjord",
+    "region": "Troms",
+    "lat": 69.2402,
+    "lon": 19.2265,
+    "population": 26523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porsanger",
+    "region": "Finnmark",
+    "lat": 70.0521,
+    "lon": 24.9559,
+    "population": 26442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skjeberg",
+    "region": "Østfold",
+    "lat": 59.2115,
+    "lon": 11.1903,
+    "population": 26385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mysen",
+    "region": "Østfold",
+    "lat": 59.5535,
+    "lon": 11.3258,
+    "population": 26349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svelgen",
+    "region": "Sogn og Fjordane",
+    "lat": 61.7698,
+    "lon": 5.2954,
+    "population": 26261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sørfold",
+    "region": "Nordland",
+    "lat": 67.348,
+    "lon": 15.5945,
+    "population": 26085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulen",
+    "region": "Sogn og Fjordane",
+    "lat": 60.9819,
+    "lon": 5.0741,
+    "population": 25790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Volda",
+    "region": "Møre og Romsdal",
+    "lat": 62.1468,
+    "lon": 6.068,
+    "population": 25777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holmestrand",
+    "region": "Vestfold",
+    "lat": 59.4898,
+    "lon": 10.3151,
+    "population": 25665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klepp",
+    "region": "Rogaland",
+    "lat": 58.7766,
+    "lon": 5.6301,
+    "population": 25519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frogner",
+    "region": "Akershus",
+    "lat": 60.0246,
+    "lon": 11.1028,
+    "population": 25492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lærdal",
+    "region": "Sogn og Fjordane",
+    "lat": 61.0984,
+    "lon": 7.481,
+    "population": 25388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lysaker",
+    "region": "Akershus",
+    "lat": 59.9099,
+    "lon": 10.6355,
+    "population": 25375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enebakk",
+    "region": "Akershus",
+    "lat": 59.7645,
+    "lon": 11.1449,
+    "population": 25371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utsira",
+    "region": "Rogaland",
+    "lat": 59.3056,
+    "lon": 4.8862,
+    "population": 25214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Etne",
+    "region": "Hordaland",
+    "lat": 59.6647,
+    "lon": 5.9344,
+    "population": 25193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Innbygda",
+    "region": "Hedmark",
+    "lat": 61.3148,
+    "lon": 12.2637,
+    "population": 25130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hopen",
+    "region": "Møre og Romsdal",
+    "lat": 63.4654,
+    "lon": 8.0144,
+    "population": 25048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fagernes",
+    "region": "Oppland",
+    "lat": 60.9858,
+    "lon": 9.2324,
+    "population": 24979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osterøy",
+    "region": "Hordaland",
+    "lat": 60.5239,
+    "lon": 5.5055,
+    "population": 24948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Straumen",
+    "region": "Nordland",
+    "lat": 67.3477,
+    "lon": 15.6049,
+    "population": 24920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tydal",
+    "region": "Trøndelag",
+    "lat": 63.0448,
+    "lon": 11.6504,
+    "population": 24894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skjærhalden",
+    "region": "Østfold",
+    "lat": 59.0253,
+    "lon": 11.0368,
+    "population": 24768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fetsund",
+    "region": "Akershus",
+    "lat": 59.9246,
+    "lon": 11.1571,
+    "population": 24755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hov",
+    "region": "Oppland",
+    "lat": 60.6987,
+    "lon": 10.3519,
+    "population": 24689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snåase",
+    "region": "Trøndelag",
+    "lat": 64.2457,
+    "lon": 12.3778,
+    "population": 24689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porsgrunn",
+    "region": "Telemark",
+    "lat": 59.1419,
+    "lon": 9.6568,
+    "population": 24614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alstahaug",
+    "region": "Nordland",
+    "lat": 65.9756,
+    "lon": 12.5684,
+    "population": 24557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dale",
+    "region": "Hordaland",
+    "lat": 60.5864,
+    "lon": 5.8189,
+    "population": 24503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grong",
+    "region": "Trøndelag",
+    "lat": 64.464,
+    "lon": 12.3111,
+    "population": 24480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bremanger",
+    "region": "Sogn og Fjordane",
+    "lat": 61.7686,
+    "lon": 5.2891,
+    "population": 24470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hardbakke",
+    "region": "Sogn og Fjordane",
+    "lat": 61.0756,
+    "lon": 4.8411,
+    "population": 24292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vestbygd",
+    "region": "Vest-Agder",
+    "lat": 58.0999,
+    "lon": 6.587,
+    "population": 24286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosterhamn",
+    "region": "Hordaland",
+    "lat": 59.6992,
+    "lon": 5.3858,
+    "population": 24146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vestre Slidre",
+    "region": "Oppland",
+    "lat": 61.0884,
+    "lon": 8.982,
+    "population": 24145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lærdalsøyri",
+    "region": "Sogn og Fjordane",
+    "lat": 61.1,
+    "lon": 7.4737,
+    "population": 24087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åros",
+    "region": "Buskerud",
+    "lat": 59.7061,
+    "lon": 10.5109,
+    "population": 24010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hole",
+    "region": "Buskerud",
+    "lat": 60.0802,
+    "lon": 10.2784,
+    "population": 23996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eidsvåg",
+    "region": "Møre og Romsdal",
+    "lat": 62.7766,
+    "lon": 8.0655,
+    "population": 23992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skjåk",
+    "region": "Oppland",
+    "lat": 61.8835,
+    "lon": 8.2649,
+    "population": 23967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tingvoll",
+    "region": "Møre og Romsdal",
+    "lat": 62.9119,
+    "lon": 8.2067,
+    "population": 23923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selje",
+    "region": "Sogn og Fjordane",
+    "lat": 62.0426,
+    "lon": 5.3445,
+    "population": 23895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elverum",
+    "region": "Hedmark",
+    "lat": 60.8816,
+    "lon": 11.5631,
+    "population": 23797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunndalsøra",
+    "region": "Møre og Romsdal",
+    "lat": 62.6752,
+    "lon": 8.5633,
+    "population": 23737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krødsherad",
+    "region": "Buskerud",
+    "lat": 60.1794,
+    "lon": 9.6212,
+    "population": 23733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årdalstangen",
+    "region": "Sogn og Fjordane",
+    "lat": 61.2358,
+    "lon": 7.7037,
+    "population": 23653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nannestad",
+    "region": "Akershus",
+    "lat": 60.2171,
+    "lon": 11.012,
+    "population": 23559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fagerstrand",
+    "region": "Akershus",
+    "lat": 59.7375,
+    "lon": 10.594,
+    "population": 23505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rennesøy",
+    "region": "Rogaland",
+    "lat": 59.099,
+    "lon": 5.6997,
+    "population": 23485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gildeskål",
+    "region": "Nordland",
+    "lat": 67.0339,
+    "lon": 14.0258,
+    "population": 23430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagn",
+    "region": "Oppland",
+    "lat": 60.8225,
+    "lon": 9.5521,
+    "population": 23178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meldal",
+    "region": "Trøndelag",
+    "lat": 63.046,
+    "lon": 9.7109,
+    "population": 23171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamarøy",
+    "region": "Nordland",
+    "lat": 68.0838,
+    "lon": 15.6167,
+    "population": 23103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandøy",
+    "region": "Møre og Romsdal",
+    "lat": 62.7817,
+    "lon": 6.4688,
+    "population": 23064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesseby",
+    "region": "Finnmark",
+    "lat": 69.8854,
+    "lon": 28.4337,
+    "population": 22851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evjen",
+    "region": "Nordland",
+    "lat": 68.2667,
+    "lon": 13.7333,
+    "population": 22777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gryllefjord",
+    "region": "Troms",
+    "lat": 69.363,
+    "lon": 17.0528,
+    "population": 22728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bodø",
+    "region": "Nordland",
+    "lat": 67.2832,
+    "lon": 14.3832,
+    "population": 22718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bærum",
+    "region": "Akershus",
+    "lat": 59.89,
+    "lon": 10.5265,
+    "population": 22702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Justvik",
+    "region": "Vest-Agder",
+    "lat": 58.1969,
+    "lon": 8.0311,
+    "population": 22674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebesby",
+    "region": "Finnmark",
+    "lat": 70.9454,
+    "lon": 27.3513,
+    "population": 22612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nærbø",
+    "region": "Rogaland",
+    "lat": 58.6655,
+    "lon": 5.6379,
+    "population": 22566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vestvågøy",
+    "region": "Nordland",
+    "lat": 68.1483,
+    "lon": 13.6112,
+    "population": 22478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hareid",
+    "region": "Møre og Romsdal",
+    "lat": 62.3674,
+    "lon": 6.0211,
+    "population": 22442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rygge",
+    "region": "Østfold",
+    "lat": 59.4063,
+    "lon": 10.693,
+    "population": 22388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nærøy",
+    "region": "Trøndelag",
+    "lat": 64.863,
+    "lon": 11.6051,
+    "population": 22370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gvarv",
+    "region": "Telemark",
+    "lat": 59.3877,
+    "lon": 9.1724,
+    "population": 22309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tjeldsund",
+    "region": "Nordland",
+    "lat": 68.5556,
+    "lon": 16.3617,
+    "population": 22262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvitsøy",
+    "region": "Rogaland",
+    "lat": 59.0647,
+    "lon": 5.4054,
+    "population": 22240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjemnes",
+    "region": "Møre og Romsdal",
+    "lat": 62.8938,
+    "lon": 7.6771,
+    "population": 22084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levanger",
+    "region": "Trøndelag",
+    "lat": 63.7458,
+    "lon": 11.2999,
+    "population": 22033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulsteinvik weather pws station",
+    "region": "Møre og Romsdal",
+    "lat": 62.3434,
+    "lon": 5.8438,
+    "population": 21968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midsund",
+    "region": "Møre og Romsdal",
+    "lat": 62.6761,
+    "lon": 6.6778,
+    "population": 21838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odda",
+    "region": "Hordaland",
+    "lat": 60.067,
+    "lon": 6.5454,
+    "population": 21801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bømlo",
+    "region": "Hordaland",
+    "lat": 59.7938,
+    "lon": 5.1762,
+    "population": 21796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hønefoss",
+    "region": "Buskerud",
+    "lat": 60.168,
+    "lon": 10.2565,
+    "population": 21711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kløfta",
+    "region": "Akershus",
+    "lat": 60.0741,
+    "lon": 11.138,
+    "population": 21705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hauge i Dalane",
+    "region": "Rogaland",
+    "lat": 58.3436,
+    "lon": 6.2812,
+    "population": 21595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamvik",
+    "region": "Finnmark",
+    "lat": 71.0411,
+    "lon": 27.8514,
+    "population": 21575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trysil",
+    "region": "Hedmark",
+    "lat": 61.3155,
+    "lon": 12.2642,
+    "population": 21559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melhus",
+    "region": "Trøndelag",
+    "lat": 63.2876,
+    "lon": 10.2769,
+    "population": 21550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knarvik",
+    "region": "Hordaland",
+    "lat": 60.5453,
+    "lon": 5.2821,
+    "population": 21440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvænangen",
+    "region": "Troms",
+    "lat": 69.9389,
+    "lon": 22.0494,
+    "population": 21428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rælingen",
+    "region": "Akershus",
+    "lat": 59.9263,
+    "lon": 11.0653,
+    "population": 21294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandnessjøen",
+    "region": "Nordland",
+    "lat": 66.0217,
+    "lon": 12.6316,
+    "population": 21275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reine",
+    "region": "Nordland",
+    "lat": 67.9325,
+    "lon": 13.0895,
+    "population": 21209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lund",
+    "region": "Rogaland",
+    "lat": 58.4571,
+    "lon": 6.5487,
+    "population": 21205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svolvær",
+    "region": "Nordland",
+    "lat": 68.2342,
+    "lon": 14.5683,
+    "population": 20893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fjell",
+    "region": "Hordaland",
+    "lat": 60.3627,
+    "lon": 5.1219,
+    "population": 20655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granvin",
+    "region": "Hordaland",
+    "lat": 60.5263,
+    "lon": 6.7218,
+    "population": 20542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herøy",
+    "region": "Nordland",
+    "lat": 65.9843,
+    "lon": 12.2892,
+    "population": 20527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sand",
+    "region": "Hedmark",
+    "lat": 60.3922,
+    "lon": 11.5403,
+    "population": 20507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sørum",
+    "region": "Akershus",
+    "lat": 59.9871,
+    "lon": 11.2402,
+    "population": 20504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eidsberg",
+    "region": "Østfold",
+    "lat": 59.5515,
+    "lon": 11.3359,
+    "population": 20473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjørkelangen",
+    "region": "Akershus",
+    "lat": 59.8836,
+    "lon": 11.564,
+    "population": 20457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asker",
+    "region": "Akershus",
+    "lat": 59.8373,
+    "lon": 10.436,
+    "population": 20380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sande",
+    "region": "Sogn og Fjordane",
+    "lat": 61.3251,
+    "lon": 5.7977,
+    "population": 20337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rubbestadneset",
+    "region": "Hordaland",
+    "lat": 59.8156,
+    "lon": 5.2682,
+    "population": 20281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otta",
+    "region": "Oppland",
+    "lat": 61.7712,
+    "lon": 9.5353,
+    "population": 20113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voss",
+    "region": "Hordaland",
+    "lat": 60.6278,
+    "lon": 6.4183,
+    "population": 19932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alta",
+    "region": "Finnmark",
+    "lat": 69.9767,
+    "lon": 23.2963,
+    "population": 19845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stokmarknes",
+    "region": "Nordland",
+    "lat": 68.5646,
+    "lon": 14.9108,
+    "population": 19757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Austrheim",
+    "region": "Hordaland",
+    "lat": 60.7774,
+    "lon": 4.9323,
+    "population": 19743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosjøen",
+    "region": "Nordland",
+    "lat": 65.836,
+    "lon": 13.1908,
+    "population": 19694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lurøy",
+    "region": "Nordland",
+    "lat": 66.4189,
+    "lon": 12.8425,
+    "population": 19588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hauknes",
+    "region": "Nordland",
+    "lat": 66.2833,
+    "lon": 14.0667,
+    "population": 19505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verran",
+    "region": "Trøndelag",
+    "lat": 64.071,
+    "lon": 11.218,
+    "population": 19475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prestestranda",
+    "region": "Telemark",
+    "lat": 59.0977,
+    "lon": 9.0587,
+    "population": 19378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sætre",
+    "region": "Buskerud",
+    "lat": 59.6813,
+    "lon": 10.5275,
+    "population": 19286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strand",
+    "region": "Rogaland",
+    "lat": 59.0235,
+    "lon": 6.0434,
+    "population": 19282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Setermoen",
+    "region": "Troms",
+    "lat": 68.861,
+    "lon": 18.3486,
+    "population": 19273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Våler",
+    "region": "Østfold",
+    "lat": 59.4887,
+    "lon": 10.8655,
+    "population": 19272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trøgstad",
+    "region": "Østfold",
+    "lat": 59.6402,
+    "lon": 11.3189,
+    "population": 19269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vevelstad",
+    "region": "Nordland",
+    "lat": 65.7,
+    "lon": 12.4392,
+    "population": 19238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Å i Åfjord",
+    "region": "Trøndelag",
+    "lat": 63.9607,
+    "lon": 10.2247,
+    "population": 19118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skudeneshavn",
+    "region": "Rogaland",
+    "lat": 59.1486,
+    "lon": 5.2569,
+    "population": 19067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarpsborg",
+    "region": "Østfold",
+    "lat": 59.2815,
+    "lon": 11.1117,
+    "population": 19055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auli",
+    "region": "Akershus",
+    "lat": 60.0345,
+    "lon": 11.3605,
+    "population": 19023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rindal",
+    "region": "Trøndelag",
+    "lat": 63.0551,
+    "lon": 9.2127,
+    "population": 18987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sør-Fron",
+    "region": "Oppland",
+    "lat": 61.5565,
+    "lon": 9.9395,
+    "population": 18769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jørpeland",
+    "region": "Rogaland",
+    "lat": 59.0225,
+    "lon": 6.0408,
+    "population": 18761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Øksfjord",
+    "region": "Finnmark",
+    "lat": 70.2394,
+    "lon": 22.3507,
+    "population": 18680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svelvik",
+    "region": "Vestfold",
+    "lat": 59.6068,
+    "lon": 10.4023,
+    "population": 18634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vikeså",
+    "region": "Rogaland",
+    "lat": 58.6376,
+    "lon": 6.0913,
+    "population": 18612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Indre Arna",
+    "region": "Hordaland",
+    "lat": 60.4177,
+    "lon": 5.4709,
+    "population": 18595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vindafjord",
+    "region": "Rogaland",
+    "lat": 59.6054,
+    "lon": 5.8078,
+    "population": 18585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sykkylven",
+    "region": "Møre og Romsdal",
+    "lat": 62.3896,
+    "lon": 6.5782,
+    "population": 18231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storebø",
+    "region": "Hordaland",
+    "lat": 60.0949,
+    "lon": 5.2271,
+    "population": 18114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gausdal",
+    "region": "Oppland",
+    "lat": 61.2268,
+    "lon": 10.2215,
+    "population": 18079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stordal",
+    "region": "Møre og Romsdal",
+    "lat": 62.3821,
+    "lon": 6.9871,
+    "population": 18010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Øvre Eiker",
+    "region": "Buskerud",
+    "lat": 59.7711,
+    "lon": 9.9084,
+    "population": 17991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sortland",
+    "region": "Nordland",
+    "lat": 68.6962,
+    "lon": 15.4117,
+    "population": 17965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geilo",
+    "region": "Buskerud",
+    "lat": 60.5337,
+    "lon": 8.2054,
+    "population": 17890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gravdal",
+    "region": "Nordland",
+    "lat": 68.1183,
+    "lon": 13.5534,
+    "population": 17863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eike",
+    "region": "Rogaland",
+    "lat": 59.3983,
+    "lon": 5.3639,
+    "population": 17795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raarvihke - Røyrvik",
+    "region": "Trøndelag",
+    "lat": 64.8838,
+    "lon": 13.5631,
+    "population": 17791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Straume",
+    "region": "Nordland",
+    "lat": 68.6888,
+    "lon": 14.472,
+    "population": 17635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berkåk",
+    "region": "Trøndelag",
+    "lat": 62.825,
+    "lon": 10.0118,
+    "population": 17583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batnfjordsøra",
+    "region": "Møre og Romsdal",
+    "lat": 62.8946,
+    "lon": 7.6725,
+    "population": 17527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hagavik",
+    "region": "Hordaland",
+    "lat": 60.1808,
+    "lon": 5.4015,
+    "population": 17511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakkestad",
+    "region": "Østfold",
+    "lat": 59.4282,
+    "lon": 11.3435,
+    "population": 17511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snillfjord",
+    "region": "Trøndelag",
+    "lat": 63.3997,
+    "lon": 9.5019,
+    "population": 17499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvalsund",
+    "region": "Finnmark",
+    "lat": 70.4991,
+    "lon": 23.9739,
+    "population": 17448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vestre Toten",
+    "region": "Oppland",
+    "lat": 60.7259,
+    "lon": 10.6076,
+    "population": 17435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karmøy",
+    "region": "Rogaland",
+    "lat": 59.2808,
+    "lon": 5.3053,
+    "population": 17390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ytrebygda",
+    "region": "Hordaland",
+    "lat": 60.305,
+    "lon": 5.2824,
+    "population": 17295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løpsmarka",
+    "region": "Nordland",
+    "lat": 67.3134,
+    "lon": 14.4493,
+    "population": 17287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Øksnes",
+    "region": "Nordland",
+    "lat": 68.9146,
+    "lon": 15.087,
+    "population": 17239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rensvik",
+    "region": "Møre og Romsdal",
+    "lat": 63.0984,
+    "lon": 7.8203,
+    "population": 17225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sjølyststranda",
+    "region": "Oslo",
+    "lat": 59.9211,
+    "lon": 10.6802,
+    "population": 17202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brattvåg",
+    "region": "Møre og Romsdal",
+    "lat": 62.5999,
+    "lon": 6.4443,
+    "population": 17129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brumunddal",
+    "region": "Hedmark",
+    "lat": 60.8809,
+    "lon": 10.9395,
+    "population": 17110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knappskog",
+    "region": "Hordaland",
+    "lat": 60.3791,
+    "lon": 5.056,
+    "population": 17105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barkåker",
+    "region": "Vestfold",
+    "lat": 59.3186,
+    "lon": 10.3896,
+    "population": 17025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringerike",
+    "region": "Buskerud",
+    "lat": 60.1602,
+    "lon": 10.2566,
+    "population": 17014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulstein",
+    "region": "Møre og Romsdal",
+    "lat": 62.3442,
+    "lon": 5.8524,
+    "population": 17013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stor-Elvdal",
+    "region": "Hedmark",
+    "lat": 61.572,
+    "lon": 11.0476,
+    "population": 17001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ås",
+    "region": "Akershus",
+    "lat": 59.6637,
+    "lon": 10.791,
+    "population": 16932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesset",
+    "region": "Møre og Romsdal",
+    "lat": 62.7762,
+    "lon": 8.0662,
+    "population": 16913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenvik",
+    "region": "Troms",
+    "lat": 69.2311,
+    "lon": 17.9874,
+    "population": 16821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødøy",
+    "region": "Nordland",
+    "lat": 66.712,
+    "lon": 13.2853,
+    "population": 16802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flora",
+    "region": "Sogn og Fjordane",
+    "lat": 61.5999,
+    "lon": 5.0314,
+    "population": 16764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Re",
+    "region": "Vestfold",
+    "lat": 59.3506,
+    "lon": 10.2476,
+    "population": 16625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fræna",
+    "region": "Møre og Romsdal",
+    "lat": 62.8537,
+    "lon": 7.1538,
+    "population": 16546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namsskogan",
+    "region": "Trøndelag",
+    "lat": 64.926,
+    "lon": 13.1593,
+    "population": 16535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eivindvik",
+    "region": "Sogn og Fjordane",
+    "lat": 60.9813,
+    "lon": 5.075,
+    "population": 16458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gran",
+    "region": "Oppland",
+    "lat": 60.3929,
+    "lon": 10.5604,
+    "population": 16436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kongsvinger",
+    "region": "Hedmark",
+    "lat": 60.1912,
+    "lon": 11.9992,
+    "population": 16229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skreia",
+    "region": "Oppland",
+    "lat": 60.6526,
+    "lon": 10.9356,
+    "population": 16079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vågå",
+    "region": "Oppland",
+    "lat": 61.8757,
+    "lon": 9.0957,
+    "population": 16060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesna",
+    "region": "Nordland",
+    "lat": 66.198,
+    "lon": 13.0223,
+    "population": 15976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åsnes",
+    "region": "Hedmark",
+    "lat": 60.6136,
+    "lon": 12.012,
+    "population": 15956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holtålen",
+    "region": "Trøndelag",
+    "lat": 62.8432,
+    "lon": 11.2928,
+    "population": 15869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hvittingfoss",
+    "region": "Buskerud",
+    "lat": 59.4857,
+    "lon": 10.0117,
+    "population": 15722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gol",
+    "region": "Buskerud",
+    "lat": 60.6995,
+    "lon": 8.9502,
+    "population": 15679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lena",
+    "region": "Oppland",
+    "lat": 60.6739,
+    "lon": 10.8132,
+    "population": 15677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grua",
+    "region": "Oppland",
+    "lat": 60.257,
+    "lon": 10.6622,
+    "population": 15608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nord-Odal",
+    "region": "Hedmark",
+    "lat": 60.392,
+    "lon": 11.5415,
+    "population": 15499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rena",
+    "region": "Hedmark",
+    "lat": 61.1322,
+    "lon": 11.3716,
+    "population": 15406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Straume",
+    "region": "Hordaland",
+    "lat": 60.3613,
+    "lon": 5.122,
+    "population": 15391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farsund",
+    "region": "Vest-Agder",
+    "lat": 58.0954,
+    "lon": 6.804,
+    "population": 15347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samnanger",
+    "region": "Hordaland",
+    "lat": 60.3775,
+    "lon": 5.7622,
+    "population": 15271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maura",
+    "region": "Akershus",
+    "lat": 60.2583,
+    "lon": 11.0319,
+    "population": 15242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bardu",
+    "region": "Troms",
+    "lat": 68.8606,
+    "lon": 18.3505,
+    "population": 15225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billingstad",
+    "region": "Akershus",
+    "lat": 59.8755,
+    "lon": 10.4823,
+    "population": 15178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bryne",
+    "region": "Rogaland",
+    "lat": 58.7354,
+    "lon": 5.6477,
+    "population": 15114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aursmoen",
+    "region": "Akershus",
+    "lat": 59.9276,
+    "lon": 11.4428,
+    "population": 15033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Måløy",
+    "region": "Sogn og Fjordane",
+    "lat": 61.9353,
+    "lon": 5.1136,
+    "population": 15009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hemnes",
+    "region": "Nordland",
+    "lat": 66.0771,
+    "lon": 13.8135,
+    "population": 14944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Folldal",
+    "region": "Hedmark",
+    "lat": 62.1333,
+    "lon": 9.9971,
+    "population": 14926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notodden",
+    "region": "Telemark",
+    "lat": 59.5599,
+    "lon": 9.2605,
+    "population": 14925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nome",
+    "region": "Telemark",
+    "lat": 59.2814,
+    "lon": 9.2568,
+    "population": 14874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tysnes",
+    "region": "Hordaland",
+    "lat": 60.0408,
+    "lon": 5.5313,
+    "population": 14717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halsa",
+    "region": "Møre og Romsdal",
+    "lat": 63.1185,
+    "lon": 8.3154,
+    "population": 14661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strai",
+    "region": "Vest-Agder",
+    "lat": 58.1893,
+    "lon": 7.9283,
+    "population": 14612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ålesund",
+    "region": "Møre og Romsdal",
+    "lat": 62.4723,
+    "lon": 6.1549,
+    "population": 14573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tranby",
+    "region": "Buskerud",
+    "lat": 59.8085,
+    "lon": 10.2611,
+    "population": 14484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moss",
+    "region": "Østfold",
+    "lat": 59.4344,
+    "lon": 10.6597,
+    "population": 14462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skaun",
+    "region": "Trøndelag",
+    "lat": 63.3239,
+    "lon": 10.0674,
+    "population": 14398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinsarvik",
+    "region": "Hordaland",
+    "lat": 60.3757,
+    "lon": 6.7195,
+    "population": 14397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ål",
+    "region": "Buskerud",
+    "lat": 60.6303,
+    "lon": 8.5611,
+    "population": 14362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nes",
+    "region": "Akershus",
+    "lat": 60.1225,
+    "lon": 11.4657,
+    "population": 14254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molde",
+    "region": "Møre og Romsdal",
+    "lat": 62.7381,
+    "lon": 7.1588,
+    "population": 14066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kjøpsvik",
+    "region": "Nordland",
+    "lat": 68.097,
+    "lon": 16.3742,
+    "population": 13994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eidskog",
+    "region": "Hedmark",
+    "lat": 59.9856,
+    "lon": 12.125,
+    "population": 13975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavern",
+    "region": "Vestfold",
+    "lat": 59,
+    "lon": 10.0333,
+    "population": 13907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tønsberg",
+    "region": "Vestfold",
+    "lat": 59.2675,
+    "lon": 10.4076,
+    "population": 13848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vatne",
+    "region": "Møre og Romsdal",
+    "lat": 62.5583,
+    "lon": 6.6171,
+    "population": 13827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stokke",
+    "region": "Vestfold",
+    "lat": 59.2225,
+    "lon": 10.3005,
+    "population": 13788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hattfjelldal",
+    "region": "Nordland",
+    "lat": 65.5977,
+    "lon": 13.9895,
+    "population": 13719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bø",
+    "region": "Telemark",
+    "lat": 59.4128,
+    "lon": 9.0662,
+    "population": 13618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stange",
+    "region": "Hedmark",
+    "lat": 60.7158,
+    "lon": 11.1907,
+    "population": 13561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leirvik",
+    "region": "Hordaland",
+    "lat": 59.7798,
+    "lon": 5.5005,
+    "population": 13538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masfjorden",
+    "region": "Hordaland",
+    "lat": 60.7995,
+    "lon": 5.3003,
+    "population": 13445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Honningsvåg",
+    "region": "Finnmark",
+    "lat": 70.9821,
+    "lon": 25.9704,
+    "population": 13444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surnadal",
+    "region": "Møre og Romsdal",
+    "lat": 62.9753,
+    "lon": 8.7249,
+    "population": 13388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaular",
+    "region": "Sogn og Fjordane",
+    "lat": 61.3256,
+    "lon": 5.7952,
+    "population": 13370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlsøy",
+    "region": "Troms",
+    "lat": 69.9618,
+    "lon": 19.6181,
+    "population": 13364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakselv",
+    "region": "Finnmark",
+    "lat": 70.0513,
+    "lon": 24.9718,
+    "population": 13252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frosta",
+    "region": "Trøndelag",
+    "lat": 63.5891,
+    "lon": 10.7423,
+    "population": 13239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sund",
+    "region": "Hordaland",
+    "lat": 60.2702,
+    "lon": 5.0723,
+    "population": 13103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehamn",
+    "region": "Finnmark",
+    "lat": 71.0414,
+    "lon": 27.8513,
+    "population": 13060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solund",
+    "region": "Sogn og Fjordane",
+    "lat": 61.0739,
+    "lon": 4.8388,
+    "population": 13037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ørnes",
+    "region": "Nordland",
+    "lat": 66.8688,
+    "lon": 13.7058,
+    "population": 12917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Etnedal",
+    "region": "Oppland",
+    "lat": 60.8887,
+    "lon": 9.6403,
+    "population": 12841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kviteseid",
+    "region": "Telemark",
+    "lat": 59.4019,
+    "lon": 8.4946,
+    "population": 12700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suldal",
+    "region": "Rogaland",
+    "lat": 59.4857,
+    "lon": 6.2522,
+    "population": 12587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skui",
+    "region": "Akershus",
+    "lat": 59.9275,
+    "lon": 10.4475,
+    "population": 12554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larkollen",
+    "region": "Østfold",
+    "lat": 59.332,
+    "lon": 10.6669,
+    "population": 12506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lervik",
+    "region": "Østfold",
+    "lat": 59.2712,
+    "lon": 10.7461,
+    "population": 12433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vefsn",
+    "region": "Nordland",
+    "lat": 65.8411,
+    "lon": 13.2002,
+    "population": 12329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moskenes",
+    "region": "Nordland",
+    "lat": 67.9347,
+    "lon": 13.0911,
+    "population": 12237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eid",
+    "region": "Sogn og Fjordane",
+    "lat": 61.9068,
+    "lon": 5.9932,
+    "population": 12217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rennebu",
+    "region": "Trøndelag",
+    "lat": 62.8286,
+    "lon": 10.0049,
+    "population": 12153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kongsberg",
+    "region": "Buskerud",
+    "lat": 59.6652,
+    "lon": 9.6465,
+    "population": 12137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songdalen",
+    "region": "Vest-Agder",
+    "lat": 58.1527,
+    "lon": 7.8368,
+    "population": 12011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inndyr",
+    "region": "Nordland",
+    "lat": 67.0335,
+    "lon": 14.0266,
+    "population": 11975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frekhaug",
+    "region": "Hordaland",
+    "lat": 60.5132,
+    "lon": 5.2425,
+    "population": 11971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skjervøy",
+    "region": "Troms",
+    "lat": 70.0338,
+    "lon": 20.9736,
+    "population": 11816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordkapp",
+    "region": "Finnmark",
+    "lat": 70.9781,
+    "lon": 25.9747,
+    "population": 11770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berlevåg",
+    "region": "Finnmark",
+    "lat": 70.8578,
+    "lon": 29.0864,
+    "population": 11744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aure",
+    "region": "Møre og Romsdal",
+    "lat": 63.2675,
+    "lon": 8.5278,
+    "population": 11731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brekstad",
+    "region": "Trøndelag",
+    "lat": 63.687,
+    "lon": 9.6654,
+    "population": 11413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meland",
+    "region": "Hordaland",
+    "lat": 60.5178,
+    "lon": 5.2406,
+    "population": 11245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kristiansund",
+    "region": "Møre og Romsdal",
+    "lat": 63.1115,
+    "lon": 7.732,
+    "population": 11165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eide",
+    "region": "Møre og Romsdal",
+    "lat": 62.9157,
+    "lon": 7.445,
+    "population": 11121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvam",
+    "region": "Hordaland",
+    "lat": 60.3698,
+    "lon": 6.1434,
+    "population": 11109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Søndre Land",
+    "region": "Oppland",
+    "lat": 60.6994,
+    "lon": 10.3509,
+    "population": 11047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lørenskog",
+    "region": "Akershus",
+    "lat": 59.9321,
+    "lon": 10.9608,
+    "population": 11026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Syfteland",
+    "region": "Hordaland",
+    "lat": 60.238,
+    "lon": 5.4528,
+    "population": 10938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ryggebyen",
+    "region": "Østfold",
+    "lat": 59.375,
+    "lon": 10.75,
+    "population": 10820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løten",
+    "region": "Hedmark",
+    "lat": 60.8177,
+    "lon": 11.3437,
+    "population": 10813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glomfjord",
+    "region": "Nordland",
+    "lat": 66.8166,
+    "lon": 13.944,
+    "population": 10781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narvik",
+    "region": "Nordland",
+    "lat": 68.439,
+    "lon": 17.4277,
+    "population": 10781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knappstad",
+    "region": "Østfold",
+    "lat": 59.6242,
+    "lon": 11.0327,
+    "population": 10751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sigdal",
+    "region": "Buskerud",
+    "lat": 60.0459,
+    "lon": 9.6367,
+    "population": 10545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vågan",
+    "region": "Nordland",
+    "lat": 68.2322,
+    "lon": 14.5623,
+    "population": 10428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frøya",
+    "region": "Trøndelag",
+    "lat": 63.73,
+    "lon": 8.8243,
+    "population": 10382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vadsø",
+    "region": "Finnmark",
+    "lat": 70.0741,
+    "lon": 29.7492,
+    "population": 10380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åsgårdstrand",
+    "region": "Vestfold",
+    "lat": 59.3494,
+    "lon": 10.4695,
+    "population": 10374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Høyanger",
+    "region": "Sogn og Fjordane",
+    "lat": 61.2188,
+    "lon": 6.0731,
+    "population": 10268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Øystre Slidre",
+    "region": "Oppland",
+    "lat": 61.1338,
+    "lon": 9.0787,
+    "population": 10228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skålevik",
+    "region": "Vest-Agder",
+    "lat": 58.0795,
+    "lon": 8.016,
+    "population": 10117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luster",
+    "region": "Sogn og Fjordane",
+    "lat": 61.4031,
+    "lon": 7.2979,
+    "population": 10096,
+    "timezone": "UTC"
+  }
+]

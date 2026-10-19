@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Chingueṭṭi",
+    "region": "Adrar Region",
+    "lat": 20.463,
+    "lon": -12.362,
+    "population": 47628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosso",
+    "region": "Trarza Region",
+    "lat": 16.5138,
+    "lon": -15.805,
+    "population": 46734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atar",
+    "region": "Adrar Region",
+    "lat": 20.5177,
+    "lon": -13.0486,
+    "population": 46406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaédi",
+    "region": "Gorgol Region",
+    "lat": 16.1503,
+    "lon": -13.5037,
+    "population": 45907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Elb el Jmel",
+    "region": "Brakna Region",
+    "lat": 17.0105,
+    "lon": -13.971,
+    "population": 41049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiffa",
+    "region": "Assaba Region",
+    "lat": 16.6207,
+    "lon": -11.4021,
+    "population": 31001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sélibaby",
+    "region": "Guidimaka Region",
+    "lat": 15.1585,
+    "lon": -12.1843,
+    "population": 30062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akjoujt",
+    "region": "Inchiri Region",
+    "lat": 19.7466,
+    "lon": -14.3853,
+    "population": 29979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aleg",
+    "region": "Brakna Region",
+    "lat": 17.0531,
+    "lon": -13.9131,
+    "population": 29931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tékane",
+    "region": "Trarza Region",
+    "lat": 16.6017,
+    "lon": -15.3487,
+    "population": 21805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néma",
+    "region": "Hodh Ech Chargui Region",
+    "lat": 16.617,
+    "lon": -7.2565,
+    "population": 20599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nouadhibou",
+    "region": "Dakhlet Nouadhibou",
+    "lat": 20.9419,
+    "lon": -17.0384,
+    "population": 18526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aioun",
+    "region": "Hodh El Gharbi Region",
+    "lat": 16.6614,
+    "lon": -9.6149,
+    "population": 18306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barkéwol",
+    "region": "Assaba Region",
+    "lat": 16.6404,
+    "lon": -12.4985,
+    "population": 17900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zouerate",
+    "region": "Tiris Zemmour Region",
+    "lat": 22.7354,
+    "lon": -12.4713,
+    "population": 11038,
+    "timezone": "UTC"
+  }
+]

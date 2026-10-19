@@ -1,0 +1,6722 @@
+[
+  {
+    "name": "Scotts Hall",
+    "region": "Saint Mary Parish",
+    "lat": 18.1908,
+    "lon": -76.8394,
+    "population": 49993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Friendship",
+    "region": "Saint James Parish",
+    "lat": 18.4459,
+    "lon": -77.8624,
+    "population": 49952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kellits",
+    "region": "Clarendon Parish",
+    "lat": 18.1618,
+    "lon": -77.2705,
+    "population": 49949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constant Spring",
+    "region": "Saint Andrew",
+    "lat": 18.0508,
+    "lon": -76.7937,
+    "population": 49937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Washington Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0217,
+    "lon": -76.8402,
+    "population": 49863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skibo",
+    "region": "Portland Parish",
+    "lat": 18.1732,
+    "lon": -76.6275,
+    "population": 49817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Epson",
+    "region": "Saint Mary Parish",
+    "lat": 18.2522,
+    "lon": -76.7264,
+    "population": 49812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Green Pond",
+    "region": "Saint James Parish",
+    "lat": 18.4736,
+    "lon": -77.8778,
+    "population": 49808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paul Island",
+    "region": "Westmoreland Parish",
+    "lat": 18.272,
+    "lon": -78.1861,
+    "population": 49779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pennants",
+    "region": "Clarendon Parish",
+    "lat": 18.1103,
+    "lon": -77.3131,
+    "population": 49773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arnett Gardens",
+    "region": "Saint Andrew",
+    "lat": 17.9915,
+    "lon": -76.7983,
+    "population": 49702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "White Hall",
+    "region": "Saint Thomas Parish",
+    "lat": 17.998,
+    "lon": -76.431,
+    "population": 49669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mannings Hill (Rural)",
+    "region": "Saint Andrew",
+    "lat": 18.0817,
+    "lon": -76.8233,
+    "population": 49665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "French Park",
+    "region": "Manchester Parish",
+    "lat": 17.9557,
+    "lon": -77.5447,
+    "population": 49594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part Of Banana Ground",
+    "region": "Manchester Parish",
+    "lat": 18.0791,
+    "lon": -77.4213,
+    "population": 49378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goshen",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0496,
+    "lon": -77.6414,
+    "population": 49304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hopewell",
+    "region": "Hanover Parish",
+    "lat": 18.4432,
+    "lon": -78.0264,
+    "population": 49234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cairn Curran",
+    "region": "Westmoreland Parish",
+    "lat": 18.2284,
+    "lon": -78.0113,
+    "population": 49125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dallas",
+    "region": "Saint Andrew",
+    "lat": 17.9846,
+    "lon": -76.7126,
+    "population": 49108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wheelerfield",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9587,
+    "lon": -76.2962,
+    "population": 49106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria Town",
+    "region": "Manchester Parish",
+    "lat": 17.9047,
+    "lon": -77.3779,
+    "population": 49070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deeside",
+    "region": "Trelawny Parish",
+    "lat": 18.3598,
+    "lon": -77.7372,
+    "population": 48990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carisbrook",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1474,
+    "lon": -77.7737,
+    "population": 48972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swaby's Hope",
+    "region": "Manchester Parish",
+    "lat": 17.9861,
+    "lon": -77.5333,
+    "population": 48920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hughenden",
+    "region": "Saint Andrew",
+    "lat": 18.0304,
+    "lon": -76.8173,
+    "population": 48913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forest Hills/ Plantation Height",
+    "region": "Saint Andrew",
+    "lat": 18.043,
+    "lon": -76.8514,
+    "population": 48836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kintyre",
+    "region": "Saint Andrew",
+    "lat": 18.0213,
+    "lon": -76.7269,
+    "population": 48828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maidstone",
+    "region": "Manchester Parish",
+    "lat": 18.1016,
+    "lon": -77.5728,
+    "population": 48810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Hills (Rural)",
+    "region": "Saint Andrew",
+    "lat": 18.0678,
+    "lon": -76.8609,
+    "population": 48798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Higgin Land",
+    "region": "Saint Ann Parish",
+    "lat": 18.3412,
+    "lon": -77.2707,
+    "population": 48689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holland",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1036,
+    "lon": -77.8016,
+    "population": 48679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingston",
+    "region": "Kingston Parish",
+    "lat": 17.997,
+    "lon": -76.7936,
+    "population": 48599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part of Keystone",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0397,
+    "lon": -76.9511,
+    "population": 48493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garlands",
+    "region": "Saint James Parish",
+    "lat": 18.2781,
+    "lon": -77.7891,
+    "population": 48376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shoalin Grotto",
+    "region": "Westmoreland Parish",
+    "lat": 18.2206,
+    "lon": -78.1402,
+    "population": 48337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sherwood Content",
+    "region": "Trelawny Parish",
+    "lat": 18.3823,
+    "lon": -77.6364,
+    "population": 48265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hectors River",
+    "region": "Portland Parish",
+    "lat": 18.0009,
+    "lon": -76.2706,
+    "population": 48177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clarks Town",
+    "region": "Trelawny Parish",
+    "lat": 18.4224,
+    "lon": -77.5333,
+    "population": 48160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "River Head",
+    "region": "Saint Ann Parish",
+    "lat": 18.2603,
+    "lon": -77.0778,
+    "population": 48127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cromarty",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9584,
+    "lon": -76.9846,
+    "population": 48063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sturge Town",
+    "region": "Saint Ann Parish",
+    "lat": 18.4163,
+    "lon": -77.3199,
+    "population": 48003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sedgepond",
+    "region": "Clarendon Parish",
+    "lat": 17.8475,
+    "lon": -77.3264,
+    "population": 47945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braeton",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9417,
+    "lon": -76.8863,
+    "population": 47822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roaring River",
+    "region": "Westmoreland Parish",
+    "lat": 18.3012,
+    "lon": -78.0432,
+    "population": 47786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Freemans Hall",
+    "region": "Trelawny Parish",
+    "lat": 18.2838,
+    "lon": -77.5018,
+    "population": 47739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Springfield",
+    "region": "Kingston Parish",
+    "lat": 17.9712,
+    "lon": -76.7561,
+    "population": 47711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bath",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9482,
+    "lon": -76.3492,
+    "population": 47697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nannyville",
+    "region": "Saint Andrew",
+    "lat": 17.9968,
+    "lon": -76.7695,
+    "population": 47696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferris",
+    "region": "Westmoreland Parish",
+    "lat": 18.2227,
+    "lon": -78.0559,
+    "population": 47604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mavis Bank",
+    "region": "Saint Andrew",
+    "lat": 18.0333,
+    "lon": -76.6667,
+    "population": 47580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Content",
+    "region": "Westmoreland Parish",
+    "lat": 18.1829,
+    "lon": -77.9992,
+    "population": 47576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granville",
+    "region": "Trelawny Parish",
+    "lat": 18.4505,
+    "lon": -77.6885,
+    "population": 47537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Margaret's Bay",
+    "region": "Portland Parish",
+    "lat": 18.1908,
+    "lon": -76.5289,
+    "population": 47511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenox Bigwoods",
+    "region": "Westmoreland Parish",
+    "lat": 18.2139,
+    "lon": -77.9721,
+    "population": 47448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leamington",
+    "region": "Westmoreland Parish",
+    "lat": 18.2135,
+    "lon": -77.9274,
+    "population": 47446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warminister",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9624,
+    "lon": -77.6396,
+    "population": 47426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ewarton",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1833,
+    "lon": -77.0854,
+    "population": 47368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papine",
+    "region": "Saint Andrew",
+    "lat": 18.0154,
+    "lon": -76.7387,
+    "population": 47331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "York Town",
+    "region": "Clarendon Parish",
+    "lat": 17.9251,
+    "lon": -77.3,
+    "population": 47321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falmouth",
+    "region": "Trelawny Parish",
+    "lat": 18.4936,
+    "lon": -77.6559,
+    "population": 47299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manchioneal",
+    "region": "Portland Parish",
+    "lat": 18.0444,
+    "lon": -76.2773,
+    "population": 47269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swallowfield",
+    "region": "Saint Andrew",
+    "lat": 18.0049,
+    "lon": -76.7744,
+    "population": 47260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bigwoods",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9334,
+    "lon": -77.719,
+    "population": 47205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rock Spring",
+    "region": "Hanover Parish",
+    "lat": 18.348,
+    "lon": -78.2439,
+    "population": 47176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riverton City",
+    "region": "Saint Andrew",
+    "lat": 18.0144,
+    "lon": -76.849,
+    "population": 47173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daniel Town",
+    "region": "Trelawny Parish",
+    "lat": 18.464,
+    "lon": -77.6159,
+    "population": 47076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prospect",
+    "region": "Portland Parish",
+    "lat": 18.1748,
+    "lon": -76.4355,
+    "population": 46900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Little London",
+    "region": "Westmoreland Parish",
+    "lat": 18.2452,
+    "lon": -78.2265,
+    "population": 46884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Revival",
+    "region": "Westmoreland Parish",
+    "lat": 18.2426,
+    "lon": -78.2844,
+    "population": 46871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mountain View Gardens",
+    "region": "Saint Andrew",
+    "lat": 17.9919,
+    "lon": -76.7607,
+    "population": 46859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brighton",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1484,
+    "lon": -77.856,
+    "population": 46819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuffie Ridge",
+    "region": "Saint Ann Parish",
+    "lat": 18.2279,
+    "lon": -77.4205,
+    "population": 46747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Central Down Town",
+    "region": "Kingston Parish",
+    "lat": 17.9696,
+    "lon": -76.7926,
+    "population": 46725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whitehall",
+    "region": "Saint Andrew",
+    "lat": 18.0384,
+    "lon": -76.8058,
+    "population": 46623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farm Heights",
+    "region": "Saint James Parish",
+    "lat": 18.4687,
+    "lon": -77.8776,
+    "population": 46611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baptist",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8767,
+    "lon": -76.5784,
+    "population": 46520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inverness",
+    "region": "Clarendon Parish",
+    "lat": 17.912,
+    "lon": -77.1903,
+    "population": 46517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knockpatrick",
+    "region": "Manchester Parish",
+    "lat": 17.9903,
+    "lon": -77.4927,
+    "population": 46498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Green",
+    "region": "Manchester Parish",
+    "lat": 18.0766,
+    "lon": -77.5257,
+    "population": 46435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Treadlight",
+    "region": "Clarendon Parish",
+    "lat": 17.9926,
+    "lon": -77.2553,
+    "population": 46400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charles Town",
+    "region": "Saint Mary Parish",
+    "lat": 18.3892,
+    "lon": -77.0398,
+    "population": 46367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Accompong",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.2298,
+    "lon": -77.7482,
+    "population": 46255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longwood",
+    "region": "Clarendon Parish",
+    "lat": 17.8075,
+    "lon": -77.2873,
+    "population": 46189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part of Kellits",
+    "region": "Clarendon Parish",
+    "lat": 18.1716,
+    "lon": -77.2512,
+    "population": 46183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norman Gardens",
+    "region": "Kingston Parish",
+    "lat": 17.978,
+    "lon": -76.7594,
+    "population": 46175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negril",
+    "region": "Westmoreland Parish",
+    "lat": 18.2684,
+    "lon": -78.3481,
+    "population": 46113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johnson Town",
+    "region": "Kingston Parish",
+    "lat": 17.9777,
+    "lon": -76.7559,
+    "population": 46073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comfort",
+    "region": "Manchester Parish",
+    "lat": 18.0539,
+    "lon": -77.4248,
+    "population": 46070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harry Watch",
+    "region": "Manchester Parish",
+    "lat": 18.1731,
+    "lon": -77.5761,
+    "population": 46068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montego Hill",
+    "region": "Saint James Parish",
+    "lat": 18.4804,
+    "lon": -77.8815,
+    "population": 45876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seymour Lands",
+    "region": "Saint Andrew",
+    "lat": 18.0129,
+    "lon": -76.7771,
+    "population": 45744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strathbogie",
+    "region": "Westmoreland Parish",
+    "lat": 18.2386,
+    "lon": -78.1171,
+    "population": 45739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haddo",
+    "region": "Westmoreland Parish",
+    "lat": 18.2861,
+    "lon": -78.0189,
+    "population": 45570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maryland",
+    "region": "Saint Andrew",
+    "lat": 18.0517,
+    "lon": -76.7432,
+    "population": 45508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Airy",
+    "region": "Westmoreland Parish",
+    "lat": 18.2474,
+    "lon": -78.3228,
+    "population": 45486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grange Hill",
+    "region": "Westmoreland Parish",
+    "lat": 18.3308,
+    "lon": -78.184,
+    "population": 45464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porus",
+    "region": "Clarendon Parish",
+    "lat": 18.052,
+    "lon": -77.4001,
+    "population": 45451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingston Gardens",
+    "region": "Kingston Parish",
+    "lat": 17.9784,
+    "lon": -76.7868,
+    "population": 45432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lambs River",
+    "region": "Westmoreland Parish",
+    "lat": 18.2682,
+    "lon": -77.9141,
+    "population": 45381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Bank",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9378,
+    "lon": -77.6258,
+    "population": 45366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aberdeen",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.2051,
+    "lon": -77.6793,
+    "population": 45347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rose Heights",
+    "region": "Saint James Parish",
+    "lat": 18.4694,
+    "lon": -77.8953,
+    "population": 45279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duncans",
+    "region": "Trelawny Parish",
+    "lat": 18.468,
+    "lon": -77.5363,
+    "population": 45225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leith Hall",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8797,
+    "lon": -76.3433,
+    "population": 45225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond Park",
+    "region": "Clarendon Parish",
+    "lat": 18.0517,
+    "lon": -77.3764,
+    "population": 45180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greendale",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0125,
+    "lon": -76.9483,
+    "population": 45156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bellefield",
+    "region": "Manchester Parish",
+    "lat": 18.0927,
+    "lon": -77.44,
+    "population": 45104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watermount",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0669,
+    "lon": -77.0911,
+    "population": 45085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newton",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1109,
+    "lon": -77.7235,
+    "population": 45079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hertford",
+    "region": "Westmoreland Parish",
+    "lat": 18.2718,
+    "lon": -78.0908,
+    "population": 45004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perth Town",
+    "region": "Trelawny Parish",
+    "lat": 18.4311,
+    "lon": -77.6258,
+    "population": 44931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brampton",
+    "region": "Trelawny Parish",
+    "lat": 18.4426,
+    "lon": -77.4642,
+    "population": 44890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stonehenge",
+    "region": "Saint James Parish",
+    "lat": 18.2423,
+    "lon": -77.8504,
+    "population": 44816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orange Bay",
+    "region": "Hanover Parish",
+    "lat": 18.3427,
+    "lon": -78.32,
+    "population": 44779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Royal Flat",
+    "region": "Manchester Parish",
+    "lat": 18.0496,
+    "lon": -77.4683,
+    "population": 44771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llandilo",
+    "region": "Westmoreland Parish",
+    "lat": 18.2344,
+    "lon": -78.1389,
+    "population": 44759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Water Lane",
+    "region": "Clarendon Parish",
+    "lat": 17.8245,
+    "lon": -77.2595,
+    "population": 44730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hampden",
+    "region": "Trelawny Parish",
+    "lat": 18.4422,
+    "lon": -77.732,
+    "population": 44609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myersville",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.997,
+    "lon": -77.6243,
+    "population": 44481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crescent",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0362,
+    "lon": -76.9763,
+    "population": 44470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catadupa",
+    "region": "Saint James Parish",
+    "lat": 18.2805,
+    "lon": -77.8658,
+    "population": 44462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duckenfield",
+    "region": "Saint Thomas Parish",
+    "lat": 17.922,
+    "lon": -76.2266,
+    "population": 44455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dillion Bigwoods",
+    "region": "Westmoreland Parish",
+    "lat": 18.2094,
+    "lon": -77.9908,
+    "population": 44389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grove Town",
+    "region": "Manchester Parish",
+    "lat": 17.8861,
+    "lon": -77.4588,
+    "population": 44328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bog",
+    "region": "Westmoreland Parish",
+    "lat": 18.1563,
+    "lon": -77.9436,
+    "population": 44245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part Of Gutters",
+    "region": "Manchester Parish",
+    "lat": 18.0064,
+    "lon": -77.579,
+    "population": 44216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wilton Gardens/ Rema",
+    "region": "Saint Andrew",
+    "lat": 17.9829,
+    "lon": -76.8042,
+    "population": 44204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cooreville Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0224,
+    "lon": -76.8485,
+    "population": 44123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waltham Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0109,
+    "lon": -76.8205,
+    "population": 44121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martha Brae",
+    "region": "Trelawny Parish",
+    "lat": 18.4696,
+    "lon": -77.6591,
+    "population": 44076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gregory Park",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9949,
+    "lon": -76.883,
+    "population": 44032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queensborough/ Tunbridge",
+    "region": "Saint Andrew",
+    "lat": 18.0429,
+    "lon": -76.8212,
+    "population": 43965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malvern",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9667,
+    "lon": -77.7,
+    "population": 43960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hagley Gap",
+    "region": "Saint Thomas Parish",
+    "lat": 18.0484,
+    "lon": -76.6278,
+    "population": 43883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tranquility",
+    "region": "Portland Parish",
+    "lat": 18.1803,
+    "lon": -76.6815,
+    "population": 43822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pepper",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.021,
+    "lon": -77.6128,
+    "population": 43797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seaward Pen",
+    "region": "Saint Andrew",
+    "lat": 18.019,
+    "lon": -76.8237,
+    "population": 43655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trafalgar Park",
+    "region": "Saint Andrew",
+    "lat": 18.0128,
+    "lon": -76.7846,
+    "population": 43630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parottee",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9617,
+    "lon": -77.8177,
+    "population": 43622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ensom",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0178,
+    "lon": -76.9622,
+    "population": 43607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rose Mount Garden",
+    "region": "Saint James Parish",
+    "lat": 18.4639,
+    "lon": -77.894,
+    "population": 43588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Market Oval",
+    "region": "Westmoreland Parish",
+    "lat": 18.2137,
+    "lon": -78.1381,
+    "population": 43545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kentucky",
+    "region": "Westmoreland Parish",
+    "lat": 18.1993,
+    "lon": -78.0177,
+    "population": 43489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lacovia",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0884,
+    "lon": -77.7535,
+    "population": 43485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodsville",
+    "region": "Hanover Parish",
+    "lat": 18.3695,
+    "lon": -78.0722,
+    "population": 43414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paisley",
+    "region": "Clarendon Parish",
+    "lat": 17.9629,
+    "lon": -77.2237,
+    "population": 43403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bath Mountain",
+    "region": "Westmoreland Parish",
+    "lat": 18.3443,
+    "lon": -78.0993,
+    "population": 43361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crawford",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0506,
+    "lon": -77.916,
+    "population": 43340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rose Hall",
+    "region": "Saint James Parish",
+    "lat": 18.5123,
+    "lon": -77.8183,
+    "population": 43326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medina",
+    "region": "Manchester Parish",
+    "lat": 18.1224,
+    "lon": -77.5964,
+    "population": 43318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balaclava",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1723,
+    "lon": -77.6437,
+    "population": 43317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alley",
+    "region": "Clarendon Parish",
+    "lat": 17.7904,
+    "lon": -77.2708,
+    "population": 43292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duhaney Park",
+    "region": "Saint Andrew",
+    "lat": 18.0309,
+    "lon": -76.8462,
+    "population": 43158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Kingston",
+    "region": "Saint Andrew",
+    "lat": 18.0075,
+    "lon": -76.7832,
+    "population": 43136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mile Gully",
+    "region": "Manchester Parish",
+    "lat": 18.1339,
+    "lon": -77.5656,
+    "population": 43119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Independence City",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9778,
+    "lon": -76.875,
+    "population": 43057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cockburn Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0036,
+    "lon": -76.8243,
+    "population": 43025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parks Road",
+    "region": "Saint Andrew",
+    "lat": 18.098,
+    "lon": -76.8594,
+    "population": 42956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danvers Pen",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9288,
+    "lon": -76.4759,
+    "population": 42916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucea West",
+    "region": "Hanover Parish",
+    "lat": 18.4424,
+    "lon": -78.1866,
+    "population": 42905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Moriah",
+    "region": "Saint Ann Parish",
+    "lat": 18.2062,
+    "lon": -77.4409,
+    "population": 42900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mocho",
+    "region": "Saint James Parish",
+    "lat": 18.2914,
+    "lon": -77.8258,
+    "population": 42894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alps",
+    "region": "Trelawny Parish",
+    "lat": 18.355,
+    "lon": -77.509,
+    "population": 42837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porters Mountain",
+    "region": "Westmoreland Parish",
+    "lat": 18.3291,
+    "lon": -78.0491,
+    "population": 42829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bushy Park",
+    "region": "Clarendon Parish",
+    "lat": 17.9824,
+    "lon": -77.2514,
+    "population": 42804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucea",
+    "region": "Hanover Parish",
+    "lat": 18.4509,
+    "lon": -78.1736,
+    "population": 42801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogue",
+    "region": "Saint James Parish",
+    "lat": 18.4372,
+    "lon": -77.9202,
+    "population": 42747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stettin",
+    "region": "Trelawny Parish",
+    "lat": 18.2822,
+    "lon": -77.5409,
+    "population": 42691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catherine Mount",
+    "region": "Saint James Parish",
+    "lat": 18.4567,
+    "lon": -77.8969,
+    "population": 42672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Top Hill",
+    "region": "Manchester Parish",
+    "lat": 18.1162,
+    "lon": -77.5034,
+    "population": 42668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Zion",
+    "region": "Saint Ann Parish",
+    "lat": 18.4338,
+    "lon": -77.2803,
+    "population": 42660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eastwood Park Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0189,
+    "lon": -76.8007,
+    "population": 42509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orange",
+    "region": "Saint James Parish",
+    "lat": 18.4539,
+    "lon": -77.8278,
+    "population": 42432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trout Hall",
+    "region": "Clarendon Parish",
+    "lat": 18.1378,
+    "lon": -77.333,
+    "population": 42426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wilmington",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9286,
+    "lon": -76.3896,
+    "population": 42411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Hills/ Sterling Castle",
+    "region": "Saint Andrew",
+    "lat": 18.0595,
+    "lon": -76.8403,
+    "population": 42389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stadium Gardens",
+    "region": "Saint Andrew",
+    "lat": 17.995,
+    "lon": -76.7764,
+    "population": 42366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamboo",
+    "region": "Saint Ann Parish",
+    "lat": 18.3922,
+    "lon": -77.2643,
+    "population": 42282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brandon Hill",
+    "region": "Saint James Parish",
+    "lat": 18.4777,
+    "lon": -77.9112,
+    "population": 42269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calderwood",
+    "region": "Saint Ann Parish",
+    "lat": 18.2564,
+    "lon": -77.2714,
+    "population": 42252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Old Harbour",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9414,
+    "lon": -77.109,
+    "population": 42186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Islington",
+    "region": "Saint Mary Parish",
+    "lat": 18.3216,
+    "lon": -76.841,
+    "population": 42183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Scotts Pass",
+    "region": "Manchester Parish",
+    "lat": 17.9992,
+    "lon": -77.3982,
+    "population": 42180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Water Works",
+    "region": "Westmoreland Parish",
+    "lat": 18.2332,
+    "lon": -78.043,
+    "population": 42161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Central Port Antonio",
+    "region": "Portland Parish",
+    "lat": 18.1876,
+    "lon": -76.4534,
+    "population": 42091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greenwich Town/ Newport West",
+    "region": "Saint Andrew",
+    "lat": 17.9844,
+    "lon": -76.8256,
+    "population": 41995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johnson Mountain",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9809,
+    "lon": -76.3199,
+    "population": 41926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Green",
+    "region": "Saint James Parish",
+    "lat": 18.4624,
+    "lon": -77.9176,
+    "population": 41805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faith's Pen",
+    "region": "Saint Ann Parish",
+    "lat": 18.2296,
+    "lon": -77.088,
+    "population": 41735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sawyers",
+    "region": "Trelawny Parish",
+    "lat": 18.3788,
+    "lon": -77.4969,
+    "population": 41701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fullerswood",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0153,
+    "lon": -77.7757,
+    "population": 41573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mango Valley",
+    "region": "Saint Mary Parish",
+    "lat": 18.3748,
+    "lon": -76.9769,
+    "population": 41562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belvedere",
+    "region": "Westmoreland Parish",
+    "lat": 18.2522,
+    "lon": -77.9321,
+    "population": 41519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pear Tree",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9116,
+    "lon": -76.3168,
+    "population": 41429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greenwood",
+    "region": "Saint James Parish",
+    "lat": 18.4977,
+    "lon": -77.7524,
+    "population": 41305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "York",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9285,
+    "lon": -76.4398,
+    "population": 41270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Town Head",
+    "region": "Westmoreland Parish",
+    "lat": 18.339,
+    "lon": -78.1357,
+    "population": 41265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forest Hills Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0385,
+    "lon": -76.8287,
+    "population": 41168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spaldings",
+    "region": "Clarendon Parish",
+    "lat": 18.1687,
+    "lon": -77.458,
+    "population": 41061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alligator Pond",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8693,
+    "lon": -77.5677,
+    "population": 41021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bull Savannah",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8806,
+    "lon": -77.59,
+    "population": 41006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somerset",
+    "region": "Manchester Parish",
+    "lat": 18.0804,
+    "lon": -77.5431,
+    "population": 40976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Monkland",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9916,
+    "lon": -76.5733,
+    "population": 40895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sligoville",
+    "region": "Saint Catherine Parish",
+    "lat": 18.082,
+    "lon": -76.9399,
+    "population": 40856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Big Bridge",
+    "region": "Westmoreland Parish",
+    "lat": 18.2332,
+    "lon": -78.1672,
+    "population": 40743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flint River",
+    "region": "Saint Mary Parish",
+    "lat": 18.2379,
+    "lon": -76.9217,
+    "population": 40735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Market",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1536,
+    "lon": -77.9096,
+    "population": 40705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Old Harbour Road",
+    "region": "Saint Catherine Parish",
+    "lat": 17.958,
+    "lon": -77.0273,
+    "population": 40658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orange Hill",
+    "region": "Clarendon Parish",
+    "lat": 18.1179,
+    "lon": -77.3594,
+    "population": 40653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Epworth",
+    "region": "Saint Ann Parish",
+    "lat": 18.3608,
+    "lon": -77.1334,
+    "population": 40595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Priory",
+    "region": "Saint Ann Parish",
+    "lat": 18.4366,
+    "lon": -77.2455,
+    "population": 40476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vineyard Town",
+    "region": "Saint Andrew",
+    "lat": 17.9869,
+    "lon": -76.7706,
+    "population": 40445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Browns Town",
+    "region": "Saint Ann Parish",
+    "lat": 18.3846,
+    "lon": -77.3529,
+    "population": 40443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wakefield",
+    "region": "Trelawny Parish",
+    "lat": 18.4146,
+    "lon": -77.7091,
+    "population": 40405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tucker",
+    "region": "Saint James Parish",
+    "lat": 18.449,
+    "lon": -77.8944,
+    "population": 40340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Williamsfield",
+    "region": "Westmoreland Parish",
+    "lat": 18.3339,
+    "lon": -78.0696,
+    "population": 40217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jones Pen",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9507,
+    "lon": -76.5477,
+    "population": 40189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "March Town",
+    "region": "Hanover Parish",
+    "lat": 18.3295,
+    "lon": -78.2766,
+    "population": 40149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Franklyn Town",
+    "region": "Kingston Parish",
+    "lat": 17.9779,
+    "lon": -76.7734,
+    "population": 40005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaufort",
+    "region": "Westmoreland Parish",
+    "lat": 18.2342,
+    "lon": -77.9501,
+    "population": 39854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinloss",
+    "region": "Trelawny Parish",
+    "lat": 18.3964,
+    "lon": -77.5697,
+    "population": 39831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savanna-la-Mar",
+    "region": "Westmoreland Parish",
+    "lat": 18.2189,
+    "lon": -78.1332,
+    "population": 39790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moores",
+    "region": "Clarendon Parish",
+    "lat": 18.0293,
+    "lon": -77.1854,
+    "population": 39789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maldon",
+    "region": "Saint James Parish",
+    "lat": 18.3383,
+    "lon": -77.81,
+    "population": 39644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Font Hill",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9406,
+    "lon": -76.5117,
+    "population": 39634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Refuge",
+    "region": "Trelawny Parish",
+    "lat": 18.451,
+    "lon": -77.5775,
+    "population": 39617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumberland",
+    "region": "Clarendon Parish",
+    "lat": 18.1052,
+    "lon": -77.4162,
+    "population": 39612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part of Banana Ground",
+    "region": "Clarendon Parish",
+    "lat": 18.0802,
+    "lon": -77.4097,
+    "population": 39572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edgewater",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9645,
+    "lon": -76.8655,
+    "population": 39249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braes River",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0935,
+    "lon": -77.6649,
+    "population": 39233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Long Road",
+    "region": "Saint Mary Parish",
+    "lat": 18.2134,
+    "lon": -76.7501,
+    "population": 39195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baxter Mountain",
+    "region": "Saint Mary Parish",
+    "lat": 18.204,
+    "lon": -76.772,
+    "population": 39146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kendal",
+    "region": "Hanover Parish",
+    "lat": 18.3629,
+    "lon": -78.2272,
+    "population": 39078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maxfield Park",
+    "region": "Saint Andrew",
+    "lat": 17.9994,
+    "lon": -76.808,
+    "population": 39064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cave",
+    "region": "Westmoreland Parish",
+    "lat": 18.2102,
+    "lon": -78.0407,
+    "population": 39028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Christiana",
+    "region": "Manchester Parish",
+    "lat": 18.1802,
+    "lon": -77.4904,
+    "population": 38951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snow Hill",
+    "region": "Portland Parish",
+    "lat": 18.1947,
+    "lon": -76.4935,
+    "population": 38938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harmony Town",
+    "region": "Westmoreland Parish",
+    "lat": 18.2199,
+    "lon": -78.1369,
+    "population": 38928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucea East",
+    "region": "Hanover Parish",
+    "lat": 18.422,
+    "lon": -78.1667,
+    "population": 38872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coffee Piece",
+    "region": "Clarendon Parish",
+    "lat": 18.1383,
+    "lon": -77.4065,
+    "population": 38837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warsop",
+    "region": "Trelawny Parish",
+    "lat": 18.2618,
+    "lon": -77.5677,
+    "population": 38806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilmarnoch",
+    "region": "Westmoreland Parish",
+    "lat": 18.1241,
+    "lon": -77.9277,
+    "population": 38791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Claverty Cottage",
+    "region": "Portland Parish",
+    "lat": 18.1488,
+    "lon": -76.6392,
+    "population": 38741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cockpit",
+    "region": "Clarendon Parish",
+    "lat": 17.8887,
+    "lon": -77.1583,
+    "population": 38736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacks River",
+    "region": "Saint Mary Parish",
+    "lat": 18.3722,
+    "lon": -76.941,
+    "population": 38725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granville",
+    "region": "Saint James Parish",
+    "lat": 18.4419,
+    "lon": -77.894,
+    "population": 38694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curatoe Hill",
+    "region": "Clarendon Parish",
+    "lat": 17.9398,
+    "lon": -77.2484,
+    "population": 38615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rose Hill",
+    "region": "Manchester Parish",
+    "lat": 17.9247,
+    "lon": -77.5234,
+    "population": 38588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golden Acres",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0195,
+    "lon": -76.9804,
+    "population": 38587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "August Town",
+    "region": "Saint Andrew",
+    "lat": 17.9956,
+    "lon": -76.7367,
+    "population": 38279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arcadia",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9223,
+    "lon": -76.3003,
+    "population": 38186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pondside",
+    "region": "Hanover Parish",
+    "lat": 18.4022,
+    "lon": -78.0734,
+    "population": 38176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salt Marsh",
+    "region": "Trelawny Parish",
+    "lat": 18.4842,
+    "lon": -77.7118,
+    "population": 38160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashley",
+    "region": "Clarendon Parish",
+    "lat": 18.0144,
+    "lon": -77.3402,
+    "population": 38129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boucher Park",
+    "region": "Saint Andrew",
+    "lat": 18.0034,
+    "lon": -76.8126,
+    "population": 38118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trench Town",
+    "region": "Saint Andrew",
+    "lat": 17.9874,
+    "lon": -76.8012,
+    "population": 38085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norwood",
+    "region": "Saint James Parish",
+    "lat": 18.4922,
+    "lon": -77.8863,
+    "population": 37991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Welcome Hall",
+    "region": "Saint James Parish",
+    "lat": 18.369,
+    "lon": -77.8367,
+    "population": 37952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Airy Castle",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9251,
+    "lon": -76.3422,
+    "population": 37937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somerton",
+    "region": "Saint James Parish",
+    "lat": 18.405,
+    "lon": -77.7707,
+    "population": 37917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castle Comfort",
+    "region": "Portland Parish",
+    "lat": 18.1422,
+    "lon": -76.3463,
+    "population": 37889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bucks Common",
+    "region": "Clarendon Parish",
+    "lat": 17.9823,
+    "lon": -77.2385,
+    "population": 37789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riversdale",
+    "region": "Saint Catherine Parish",
+    "lat": 18.178,
+    "lon": -76.9664,
+    "population": 37759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount James",
+    "region": "Saint Andrew",
+    "lat": 18.1207,
+    "lon": -76.7739,
+    "population": 37716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tivoli Gardens",
+    "region": "Kingston Parish",
+    "lat": 17.9733,
+    "lon": -76.8009,
+    "population": 37695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part of Douglas Castle",
+    "region": "Clarendon Parish",
+    "lat": 18.187,
+    "lon": -77.2754,
+    "population": 37673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elleston Flats/ Mona Commons",
+    "region": "Saint Andrew",
+    "lat": 18.0095,
+    "lon": -76.7403,
+    "population": 37648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bath",
+    "region": "Westmoreland Parish",
+    "lat": 18.2573,
+    "lon": -78.1175,
+    "population": 37599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retrieve",
+    "region": "Saint James Parish",
+    "lat": 18.289,
+    "lon": -77.9008,
+    "population": 37496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hampstead",
+    "region": "Saint Mary Parish",
+    "lat": 18.3205,
+    "lon": -76.9048,
+    "population": 37454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinityville",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9572,
+    "lon": -76.4942,
+    "population": 37446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lilliput",
+    "region": "Saint James Parish",
+    "lat": 18.5059,
+    "lon": -77.7769,
+    "population": 37406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Black River",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0264,
+    "lon": -77.8487,
+    "population": 37398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siloah",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1633,
+    "lon": -77.7106,
+    "population": 37119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gibraltar",
+    "region": "Saint Ann Parish",
+    "lat": 18.3508,
+    "lon": -77.4214,
+    "population": 37097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "May Pen Proper",
+    "region": "Clarendon Parish",
+    "lat": 17.9703,
+    "lon": -77.2391,
+    "population": 36989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pisgah",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.196,
+    "lon": -77.8867,
+    "population": 36916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montpelier",
+    "region": "Saint James Parish",
+    "lat": 18.3761,
+    "lon": -77.9136,
+    "population": 36880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandeville",
+    "region": "Manchester Parish",
+    "lat": 18.0417,
+    "lon": -77.5071,
+    "population": 36873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Easington",
+    "region": "Saint Thomas Parish",
+    "lat": 17.924,
+    "lon": -76.5882,
+    "population": 36862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spanish Town",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9911,
+    "lon": -76.9574,
+    "population": 36830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Longsville",
+    "region": "Clarendon Parish",
+    "lat": 18.0307,
+    "lon": -77.2305,
+    "population": 36692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Effortville",
+    "region": "Clarendon Parish",
+    "lat": 17.9927,
+    "lon": -77.2186,
+    "population": 36604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodford Park",
+    "region": "Saint Andrew",
+    "lat": 17.9871,
+    "lon": -76.7812,
+    "population": 36586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heartease",
+    "region": "Manchester Parish",
+    "lat": 18.0488,
+    "lon": -77.4824,
+    "population": 36461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cornwall Mountian",
+    "region": "Westmoreland Parish",
+    "lat": 18.2872,
+    "lon": -77.9867,
+    "population": 36429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norwich",
+    "region": "Portland Parish",
+    "lat": 18.1882,
+    "lon": -76.4771,
+    "population": 36395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swift River",
+    "region": "Portland Parish",
+    "lat": 18.1577,
+    "lon": -76.5787,
+    "population": 36321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nonsuch",
+    "region": "Portland Parish",
+    "lat": 18.1382,
+    "lon": -76.4047,
+    "population": 36295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porto Bello",
+    "region": "Saint James Parish",
+    "lat": 18.4661,
+    "lon": -77.8699,
+    "population": 36104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spring Garden",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9175,
+    "lon": -76.4298,
+    "population": 36089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paradise",
+    "region": "Saint James Parish",
+    "lat": 18.494,
+    "lon": -77.9098,
+    "population": 36083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Passage Fort",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9779,
+    "lon": -76.8679,
+    "population": 36032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watham",
+    "region": "Manchester Parish",
+    "lat": 18.0068,
+    "lon": -77.5187,
+    "population": 36024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chantilly",
+    "region": "Manchester Parish",
+    "lat": 18.1045,
+    "lon": -77.4663,
+    "population": 35983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devon Pen",
+    "region": "Saint Mary Parish",
+    "lat": 18.2156,
+    "lon": -76.8244,
+    "population": 35977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bucknor",
+    "region": "Clarendon Parish",
+    "lat": 18.0062,
+    "lon": -77.2375,
+    "population": 35976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barbary Hall",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.968,
+    "lon": -77.7796,
+    "population": 35878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitfour",
+    "region": "Saint James Parish",
+    "lat": 18.4321,
+    "lon": -77.8901,
+    "population": 35830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Content Gap",
+    "region": "Saint Andrew",
+    "lat": 18.0408,
+    "lon": -76.6907,
+    "population": 35761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimme-me-bit",
+    "region": "Clarendon Parish",
+    "lat": 17.8895,
+    "lon": -77.2847,
+    "population": 35634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "George's Valley",
+    "region": "Manchester Parish",
+    "lat": 18.0317,
+    "lon": -77.4808,
+    "population": 35569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Green Island",
+    "region": "Hanover Parish",
+    "lat": 18.384,
+    "lon": -78.2702,
+    "population": 35448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lloyds",
+    "region": "Saint Thomas Parish",
+    "lat": 17.915,
+    "lon": -76.5409,
+    "population": 35412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golden Grove",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9336,
+    "lon": -76.2725,
+    "population": 35410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Salem",
+    "region": "Saint James Parish",
+    "lat": 18.466,
+    "lon": -77.9079,
+    "population": 35332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newport",
+    "region": "Manchester Parish",
+    "lat": 17.9629,
+    "lon": -77.5049,
+    "population": 35296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bournemouth Gardens",
+    "region": "Kingston Parish",
+    "lat": 17.9701,
+    "lon": -76.7627,
+    "population": 35279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonnygate",
+    "region": "Saint Mary Parish",
+    "lat": 18.3287,
+    "lon": -76.9461,
+    "population": 35277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walderston",
+    "region": "Manchester Parish",
+    "lat": 18.1164,
+    "lon": -77.4861,
+    "population": 35236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retreat",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8776,
+    "lon": -76.3679,
+    "population": 35055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bartons",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0289,
+    "lon": -77.1332,
+    "population": 35034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snowdon",
+    "region": "Manchester Parish",
+    "lat": 17.942,
+    "lon": -77.4914,
+    "population": 35007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitchell Town",
+    "region": "Clarendon Parish",
+    "lat": 17.8128,
+    "lon": -77.2053,
+    "population": 34984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Craig Head",
+    "region": "Manchester Parish",
+    "lat": 18.2366,
+    "lon": -77.563,
+    "population": 34932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chapelton",
+    "region": "Clarendon Parish",
+    "lat": 18.0833,
+    "lon": -77.2667,
+    "population": 34856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinity Ville",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9608,
+    "lon": -76.5143,
+    "population": 34551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meadowbrook Estate",
+    "region": "Saint Andrew",
+    "lat": 18.0374,
+    "lon": -76.8296,
+    "population": 34469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaughnsfield",
+    "region": "Saint James Parish",
+    "lat": 18.3213,
+    "lon": -77.7805,
+    "population": 34405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burnt Savannah",
+    "region": "Westmoreland Parish",
+    "lat": 18.3168,
+    "lon": -78.1263,
+    "population": 34390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guys Hill",
+    "region": "Saint Mary Parish",
+    "lat": 18.2624,
+    "lon": -76.9956,
+    "population": 34316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beecher Town",
+    "region": "Saint Ann Parish",
+    "lat": 18.3847,
+    "lon": -77.1162,
+    "population": 34315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Ann’s Bay",
+    "region": "Saint Ann Parish",
+    "lat": 18.4358,
+    "lon": -77.201,
+    "population": 34296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cedar Valley",
+    "region": "Saint Thomas Parish",
+    "lat": 18.0282,
+    "lon": -76.5956,
+    "population": 34143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norbrook",
+    "region": "Saint Andrew",
+    "lat": 18.0548,
+    "lon": -76.785,
+    "population": 34134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lottery",
+    "region": "Saint James Parish",
+    "lat": 18.415,
+    "lon": -77.807,
+    "population": 34106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bluefields",
+    "region": "Westmoreland Parish",
+    "lat": 18.166,
+    "lon": -78.027,
+    "population": 34073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potsdam",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9187,
+    "lon": -77.6687,
+    "population": 34034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butt-Up",
+    "region": "Manchester Parish",
+    "lat": 17.9731,
+    "lon": -77.5778,
+    "population": 34019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Downs",
+    "region": "Manchester Parish",
+    "lat": 17.95,
+    "lon": -77.5731,
+    "population": 34000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salt River",
+    "region": "Clarendon Parish",
+    "lat": 17.8414,
+    "lon": -77.1741,
+    "population": 33984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irish Town",
+    "region": "Saint Andrew",
+    "lat": 18.0623,
+    "lon": -76.7026,
+    "population": 33983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baileys Vale",
+    "region": "Saint Mary Parish",
+    "lat": 18.3453,
+    "lon": -76.9259,
+    "population": 33944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grove Place",
+    "region": "Manchester Parish",
+    "lat": 18.1047,
+    "lon": -77.5292,
+    "population": 33924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pleasant Valley",
+    "region": "Clarendon Parish",
+    "lat": 18.011,
+    "lon": -77.2903,
+    "population": 33780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tower Hill",
+    "region": "Saint Andrew",
+    "lat": 18.0118,
+    "lon": -76.8281,
+    "population": 33726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unity Hall",
+    "region": "Saint James Parish",
+    "lat": 18.433,
+    "lon": -77.9768,
+    "population": 33680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devon",
+    "region": "Manchester Parish",
+    "lat": 18.1659,
+    "lon": -77.5251,
+    "population": 33597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Antonio",
+    "region": "Portland Parish",
+    "lat": 18.1761,
+    "lon": -76.4509,
+    "population": 33591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cauldwell",
+    "region": "Hanover Parish",
+    "lat": 18.3858,
+    "lon": -78.2411,
+    "population": 33573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Content",
+    "region": "Manchester Parish",
+    "lat": 18.0744,
+    "lon": -77.4512,
+    "population": 33555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rock River",
+    "region": "Clarendon Parish",
+    "lat": 18.0655,
+    "lon": -77.1971,
+    "population": 33538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "John's Hall",
+    "region": "Saint James Parish",
+    "lat": 18.4285,
+    "lon": -77.8501,
+    "population": 33483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Airy",
+    "region": "Clarendon Parish",
+    "lat": 18.0184,
+    "lon": -77.3636,
+    "population": 33448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elderslie",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.2242,
+    "lon": -77.7938,
+    "population": 33433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linton Park",
+    "region": "Saint Ann Parish",
+    "lat": 18.2608,
+    "lon": -77.4222,
+    "population": 33360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spur Tree",
+    "region": "Manchester Parish",
+    "lat": 18.0065,
+    "lon": -77.5566,
+    "population": 33358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Works",
+    "region": "Westmoreland Parish",
+    "lat": 18.1725,
+    "lon": -77.9664,
+    "population": 33343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hope Tavern",
+    "region": "Saint Andrew",
+    "lat": 18.0123,
+    "lon": -76.732,
+    "population": 33180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buff Bay",
+    "region": "Portland Parish",
+    "lat": 18.2329,
+    "lon": -76.6612,
+    "population": 33175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunning Hill",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9561,
+    "lon": -76.4093,
+    "population": 33170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delacree Park/ Union Gardens",
+    "region": "Saint Andrew",
+    "lat": 17.9921,
+    "lon": -76.8224,
+    "population": 33130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cassia Park",
+    "region": "Saint Andrew",
+    "lat": 18.0205,
+    "lon": -76.8067,
+    "population": 33072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rock Hall",
+    "region": "Portland Parish",
+    "lat": 18.1617,
+    "lon": -76.5305,
+    "population": 33025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodlands",
+    "region": "Hanover Parish",
+    "lat": 18.4456,
+    "lon": -77.9996,
+    "population": 33011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hermitage",
+    "region": "Saint Andrew",
+    "lat": 17.9835,
+    "lon": -76.741,
+    "population": 33002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Highgate",
+    "region": "Saint Mary Parish",
+    "lat": 18.2774,
+    "lon": -76.8955,
+    "population": 32960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Runaway Bay",
+    "region": "Saint Ann Parish",
+    "lat": 18.4596,
+    "lon": -77.3357,
+    "population": 32837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Carey",
+    "region": "Saint James Parish",
+    "lat": 18.3889,
+    "lon": -77.9437,
+    "population": 32829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacks Hill",
+    "region": "Saint Andrew",
+    "lat": 18.0387,
+    "lon": -76.7489,
+    "population": 32777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newell",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.921,
+    "lon": -77.7465,
+    "population": 32748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "White Horses",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8962,
+    "lon": -76.4708,
+    "population": 32741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitson Town",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0349,
+    "lon": -77.0403,
+    "population": 32687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part of Spaldings",
+    "region": "Manchester Parish",
+    "lat": 18.1582,
+    "lon": -77.4663,
+    "population": 32618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poormans Corner",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8915,
+    "lon": -76.5835,
+    "population": 32583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonels Ridge",
+    "region": "Clarendon Parish",
+    "lat": 18.1352,
+    "lon": -77.2555,
+    "population": 32542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limit",
+    "region": "Clarendon Parish",
+    "lat": 18.1529,
+    "lon": -77.4712,
+    "population": 32486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duanvale",
+    "region": "Trelawny Parish",
+    "lat": 18.4027,
+    "lon": -77.5961,
+    "population": 32420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cascade",
+    "region": "Portland Parish",
+    "lat": 18.0938,
+    "lon": -76.7122,
+    "population": 32410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rio Bueno",
+    "region": "Trelawny Parish",
+    "lat": 18.4641,
+    "lon": -77.4804,
+    "population": 32390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cherry Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0496,
+    "lon": -76.7787,
+    "population": 32294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boundbrook",
+    "region": "Portland Parish",
+    "lat": 18.1757,
+    "lon": -76.4708,
+    "population": 32211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flower Hill",
+    "region": "Saint James Parish",
+    "lat": 18.4843,
+    "lon": -77.8391,
+    "population": 32210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Exchange",
+    "region": "Saint Ann Parish",
+    "lat": 18.3727,
+    "lon": -77.0657,
+    "population": 32180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naggo Head",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9642,
+    "lon": -76.8882,
+    "population": 32172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Stewart",
+    "region": "Westmoreland Parish",
+    "lat": 18.3041,
+    "lon": -77.9927,
+    "population": 32086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cacoon",
+    "region": "Hanover Parish",
+    "lat": 18.4164,
+    "lon": -78.2073,
+    "population": 32069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jones Town",
+    "region": "Saint Andrew",
+    "lat": 17.9842,
+    "lon": -76.7969,
+    "population": 32040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maroon Town",
+    "region": "Saint James Parish",
+    "lat": 18.3446,
+    "lon": -77.7954,
+    "population": 32018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Scholefield",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0237,
+    "lon": -77.7188,
+    "population": 32015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tollgate",
+    "region": "Clarendon Parish",
+    "lat": 17.9719,
+    "lon": -77.3657,
+    "population": 32009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Broadgate",
+    "region": "Saint Mary Parish",
+    "lat": 18.2285,
+    "lon": -76.8079,
+    "population": 31746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amity Hall",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9676,
+    "lon": -76.257,
+    "population": 31638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodford",
+    "region": "Saint Andrew",
+    "lat": 18.0736,
+    "lon": -76.7463,
+    "population": 31605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Morant",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8995,
+    "lon": -76.3429,
+    "population": 31548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camberwell",
+    "region": "Saint Mary Parish",
+    "lat": 18.2393,
+    "lon": -76.7809,
+    "population": 31532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retirement",
+    "region": "Saint James Parish",
+    "lat": 18.4374,
+    "lon": -77.88,
+    "population": 31472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Point Hill",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0936,
+    "lon": -77.1048,
+    "population": 31412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lime Hall",
+    "region": "Saint Ann Parish",
+    "lat": 18.3974,
+    "lon": -77.2105,
+    "population": 31318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glendevon",
+    "region": "Saint James Parish",
+    "lat": 18.4849,
+    "lon": -77.8971,
+    "population": 31317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grantham",
+    "region": "Clarendon Parish",
+    "lat": 18.1584,
+    "lon": -77.3964,
+    "population": 31263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shefield",
+    "region": "Westmoreland Parish",
+    "lat": 18.2841,
+    "lon": -78.2917,
+    "population": 31227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berkshire",
+    "region": "Westmoreland Parish",
+    "lat": 18.2129,
+    "lon": -77.9037,
+    "population": 31177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balcarres",
+    "region": "Portland Parish",
+    "lat": 18.1673,
+    "lon": -76.7206,
+    "population": 31176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Black Hill",
+    "region": "Portland Parish",
+    "lat": 18.2179,
+    "lon": -76.5976,
+    "population": 31142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molynes Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0198,
+    "lon": -76.8162,
+    "population": 31055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jeffery Town",
+    "region": "Saint Mary Parish",
+    "lat": 18.2896,
+    "lon": -77.0034,
+    "population": 31047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maryland",
+    "region": "Hanover Parish",
+    "lat": 18.3868,
+    "lon": -78.1282,
+    "population": 31026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hope Pastures/ UTECH",
+    "region": "Saint Andrew",
+    "lat": 18.0231,
+    "lon": -76.7499,
+    "population": 31020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dundee",
+    "region": "Westmoreland Parish",
+    "lat": 18.2368,
+    "lon": -77.887,
+    "population": 30960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lorrimers",
+    "region": "Trelawny Parish",
+    "lat": 18.2303,
+    "lon": -77.4921,
+    "population": 30945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramble",
+    "region": "Hanover Parish",
+    "lat": 18.3467,
+    "lon": -77.988,
+    "population": 30938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bog Walk",
+    "region": "Saint Catherine Parish",
+    "lat": 18.102,
+    "lon": -77.0054,
+    "population": 30921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turners",
+    "region": "Clarendon Parish",
+    "lat": 18.0665,
+    "lon": -77.2352,
+    "population": 30788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rose Hall",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9265,
+    "lon": -77.6415,
+    "population": 30757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johns Town",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8966,
+    "lon": -76.3614,
+    "population": 30659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retreat",
+    "region": "Saint Mary Parish",
+    "lat": 18.3787,
+    "lon": -77.0159,
+    "population": 30659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gooden's River",
+    "region": "Westmoreland Parish",
+    "lat": 18.2422,
+    "lon": -78.1284,
+    "population": 30616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glenmuir",
+    "region": "Clarendon Parish",
+    "lat": 17.968,
+    "lon": -77.2539,
+    "population": 30604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Freetown",
+    "region": "Clarendon Parish",
+    "lat": 17.9219,
+    "lon": -77.1478,
+    "population": 30529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flankers",
+    "region": "Saint James Parish",
+    "lat": 18.5026,
+    "lon": -77.9083,
+    "population": 30371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jerusalem",
+    "region": "Westmoreland Parish",
+    "lat": 18.3246,
+    "lon": -78.2156,
+    "population": 30353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flagstaff",
+    "region": "Saint James Parish",
+    "lat": 18.3541,
+    "lon": -77.7713,
+    "population": 30248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond Vale",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9744,
+    "lon": -76.5904,
+    "population": 30202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askenish",
+    "region": "Hanover Parish",
+    "lat": 18.3849,
+    "lon": -78.1491,
+    "population": 30168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thompson Town",
+    "region": "Clarendon Parish",
+    "lat": 18.0897,
+    "lon": -77.3719,
+    "population": 30101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunderland",
+    "region": "Saint James Parish",
+    "lat": 18.3979,
+    "lon": -77.8273,
+    "population": 30081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bull Bay/ Seven Mile",
+    "region": "Saint Andrew",
+    "lat": 17.9525,
+    "lon": -76.684,
+    "population": 30067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangor Ridge",
+    "region": "Portland Parish",
+    "lat": 18.1364,
+    "lon": -76.689,
+    "population": 30002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stony Hill",
+    "region": "Saint Andrew",
+    "lat": 18.0792,
+    "lon": -76.7847,
+    "population": 29937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fletchers Land",
+    "region": "Kingston Parish",
+    "lat": 17.9797,
+    "lon": -76.791,
+    "population": 29931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prospect",
+    "region": "Saint Mary Parish",
+    "lat": 18.4127,
+    "lon": -77.0412,
+    "population": 29916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cedar Grove",
+    "region": "Manchester Parish",
+    "lat": 18.0123,
+    "lon": -77.4963,
+    "population": 29869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Williams",
+    "region": "Westmoreland Parish",
+    "lat": 18.2983,
+    "lon": -78.0633,
+    "population": 29843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawkins",
+    "region": "Clarendon Parish",
+    "lat": 18.0554,
+    "lon": -77.333,
+    "population": 29815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kingsvale",
+    "region": "Hanover Parish",
+    "lat": 18.3809,
+    "lon": -78.2052,
+    "population": 29807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belvedere",
+    "region": "Portland Parish",
+    "lat": 18.2077,
+    "lon": -76.6967,
+    "population": 29791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocho Rios",
+    "region": "Saint Ann Parish",
+    "lat": 18.4076,
+    "lon": -77.1031,
+    "population": 29724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manley Meadows",
+    "region": "Kingston Parish",
+    "lat": 17.9691,
+    "lon": -76.7712,
+    "population": 29625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comfort Castle",
+    "region": "Portland Parish",
+    "lat": 18.0483,
+    "lon": -76.4161,
+    "population": 29624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ginger Ridge",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0769,
+    "lon": -77.1686,
+    "population": 29551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jericho",
+    "region": "Hanover Parish",
+    "lat": 18.4374,
+    "lon": -78.1303,
+    "population": 29459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chateau",
+    "region": "Clarendon Parish",
+    "lat": 17.9897,
+    "lon": -77.1874,
+    "population": 29340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moore Town",
+    "region": "Portland Parish",
+    "lat": 18.0777,
+    "lon": -76.4258,
+    "population": 29204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golden Spring",
+    "region": "Saint Andrew",
+    "lat": 18.0945,
+    "lon": -76.7973,
+    "population": 29166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grange",
+    "region": "Westmoreland Parish",
+    "lat": 18.3316,
+    "lon": -78.0804,
+    "population": 29163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Leonards",
+    "region": "Westmoreland Parish",
+    "lat": 18.2553,
+    "lon": -77.8889,
+    "population": 29040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Hills Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.03,
+    "lon": -76.8099,
+    "population": 28989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Haven",
+    "region": "Saint Andrew",
+    "lat": 18.0295,
+    "lon": -76.8542,
+    "population": 28982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middle Quarters",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1146,
+    "lon": -77.8381,
+    "population": 28971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Willowdene",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9919,
+    "lon": -76.982,
+    "population": 28962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greater Portmore",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9523,
+    "lon": -76.9113,
+    "population": 28947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ferry",
+    "region": "Saint Andrew",
+    "lat": 18.0277,
+    "lon": -76.8672,
+    "population": 28936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ellen Street",
+    "region": "Manchester Parish",
+    "lat": 17.968,
+    "lon": -77.4393,
+    "population": 28884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darliston",
+    "region": "Westmoreland Parish",
+    "lat": 18.2373,
+    "lon": -77.9763,
+    "population": 28847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bethel",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9853,
+    "lon": -76.5805,
+    "population": 28747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jackson Town",
+    "region": "Trelawny Parish",
+    "lat": 18.4178,
+    "lon": -77.4846,
+    "population": 28674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Old Denbigh",
+    "region": "Clarendon Parish",
+    "lat": 17.9612,
+    "lon": -77.267,
+    "population": 28518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Havendale",
+    "region": "Saint Andrew",
+    "lat": 18.0543,
+    "lon": -76.8087,
+    "population": 28495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumberland",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9765,
+    "lon": -76.8821,
+    "population": 28433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seaton Crescent",
+    "region": "Westmoreland Parish",
+    "lat": 18.2168,
+    "lon": -78.136,
+    "population": 28383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brixton Hill",
+    "region": "Clarendon Parish",
+    "lat": 18.0204,
+    "lon": -77.3174,
+    "population": 28359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "May Day",
+    "region": "Manchester Parish",
+    "lat": 18.0095,
+    "lon": -77.4761,
+    "population": 28312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Struie",
+    "region": "Westmoreland Parish",
+    "lat": 18.2532,
+    "lon": -77.9566,
+    "population": 28298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayfield",
+    "region": "Saint Thomas Parish",
+    "lat": 17.982,
+    "lon": -76.3684,
+    "population": 28236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coxswain",
+    "region": "Clarendon Parish",
+    "lat": 18.1027,
+    "lon": -77.2344,
+    "population": 28184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spring Garden",
+    "region": "Trelawny Parish",
+    "lat": 18.2937,
+    "lon": -77.567,
+    "population": 28161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mike Town",
+    "region": "Manchester Parish",
+    "lat": 18.0425,
+    "lon": -77.5549,
+    "population": 27982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arlene Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0371,
+    "lon": -76.8179,
+    "population": 27979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Ann's Bay",
+    "region": "Saint Ann Parish",
+    "lat": 18.4299,
+    "lon": -77.2078,
+    "population": 27951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rock",
+    "region": "Clarendon Parish",
+    "lat": 17.9912,
+    "lon": -77.337,
+    "population": 27926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Summer Hill",
+    "region": "Saint James Parish",
+    "lat": 18.3736,
+    "lon": -77.7935,
+    "population": 27870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalvey",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9024,
+    "lon": -76.25,
+    "population": 27846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amiel Town",
+    "region": "Saint Mary Parish",
+    "lat": 18.3403,
+    "lon": -76.9761,
+    "population": 27817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crofts Hill",
+    "region": "Clarendon Parish",
+    "lat": 18.1327,
+    "lon": -77.2051,
+    "population": 27802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballards  Valley",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8795,
+    "lon": -77.6309,
+    "population": 27801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogue",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1362,
+    "lon": -77.6697,
+    "population": 27796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lawrence Tavern",
+    "region": "Saint Andrew",
+    "lat": 18.1374,
+    "lon": -76.8474,
+    "population": 27770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petersville",
+    "region": "Westmoreland Parish",
+    "lat": 18.137,
+    "lon": -77.9505,
+    "population": 27713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Maria",
+    "region": "Saint Mary Parish",
+    "lat": 18.3685,
+    "lon": -76.8895,
+    "population": 27682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orange Bay",
+    "region": "Portland Parish",
+    "lat": 18.2031,
+    "lon": -76.6225,
+    "population": 27625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newport East",
+    "region": "Kingston Parish",
+    "lat": 17.9742,
+    "lon": -76.8066,
+    "population": 27592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashton",
+    "region": "Westmoreland Parish",
+    "lat": 18.2314,
+    "lon": -77.9207,
+    "population": 27573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lionel Town",
+    "region": "Clarendon Parish",
+    "lat": 17.8101,
+    "lon": -77.2406,
+    "population": 27307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Vincent",
+    "region": "Trelawny Parish",
+    "lat": 18.3342,
+    "lon": -77.5479,
+    "population": 27236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramble",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9679,
+    "lon": -76.6263,
+    "population": 27175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brandon Hill",
+    "region": "Clarendon Parish",
+    "lat": 18.1511,
+    "lon": -77.2366,
+    "population": 27143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whitehouse",
+    "region": "Westmoreland Parish",
+    "lat": 18.1028,
+    "lon": -77.957,
+    "population": 27111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eleven Miles",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9374,
+    "lon": -76.6434,
+    "population": 27102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bounty Hall",
+    "region": "Trelawny Parish",
+    "lat": 18.458,
+    "lon": -77.7166,
+    "population": 27097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Down Town",
+    "region": "Kingston Parish",
+    "lat": 17.9729,
+    "lon": -76.797,
+    "population": 27082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulster Spring",
+    "region": "Trelawny Parish",
+    "lat": 18.3211,
+    "lon": -77.4968,
+    "population": 27003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mile Gully",
+    "region": "Saint Mary Parish",
+    "lat": 18.318,
+    "lon": -76.9605,
+    "population": 26999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smithville",
+    "region": "Clarendon Parish",
+    "lat": 18.1198,
+    "lon": -77.3856,
+    "population": 26948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prospect",
+    "region": "Manchester Parish",
+    "lat": 17.9824,
+    "lon": -77.5678,
+    "population": 26867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meadowbrook",
+    "region": "Saint Andrew",
+    "lat": 18.0471,
+    "lon": -76.8155,
+    "population": 26769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Treasure Beach",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8955,
+    "lon": -77.7605,
+    "population": 26768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liguanea",
+    "region": "Saint Andrew",
+    "lat": 18.021,
+    "lon": -76.7683,
+    "population": 26736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steer Town",
+    "region": "Saint Ann Parish",
+    "lat": 18.4285,
+    "lon": -77.171,
+    "population": 26726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aboukir",
+    "region": "Saint Ann Parish",
+    "lat": 18.2509,
+    "lon": -77.3433,
+    "population": 26707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chudleigh",
+    "region": "Manchester Parish",
+    "lat": 18.1515,
+    "lon": -77.5071,
+    "population": 26604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Philadelphia",
+    "region": "Saint Ann Parish",
+    "lat": 18.4001,
+    "lon": -77.3273,
+    "population": 26489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Free Hill",
+    "region": "Saint Mary Parish",
+    "lat": 18.3544,
+    "lon": -76.9432,
+    "population": 26466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Windsor Castle",
+    "region": "Portland Parish",
+    "lat": 18.2489,
+    "lon": -76.6903,
+    "population": 26425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johns Hall",
+    "region": "Clarendon Parish",
+    "lat": 18.1888,
+    "lon": -77.3806,
+    "population": 26345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatfield",
+    "region": "Manchester Parish",
+    "lat": 18.0156,
+    "lon": -77.5401,
+    "population": 26339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pembroke Hall",
+    "region": "Saint Andrew",
+    "lat": 18.0311,
+    "lon": -76.83,
+    "population": 26335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cambridge",
+    "region": "Saint James Parish",
+    "lat": 18.3131,
+    "lon": -77.8955,
+    "population": 26106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barking Lodge",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8928,
+    "lon": -76.2892,
+    "population": 26051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bombay",
+    "region": "Manchester Parish",
+    "lat": 18.1178,
+    "lon": -77.4494,
+    "population": 25953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constant Spring Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0294,
+    "lon": -76.7996,
+    "population": 25822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. D'Acre",
+    "region": "Saint Ann Parish",
+    "lat": 18.333,
+    "lon": -77.363,
+    "population": 25782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watchwell",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9388,
+    "lon": -77.7725,
+    "population": 25776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Success",
+    "region": "Hanover Parish",
+    "lat": 18.3773,
+    "lon": -78.0511,
+    "population": 25682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fullersfield",
+    "region": "Westmoreland Parish",
+    "lat": 18.2989,
+    "lon": -78.1998,
+    "population": 25626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cash Hill",
+    "region": "Hanover Parish",
+    "lat": 18.3692,
+    "lon": -78.1094,
+    "population": 25601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Annotto Bay",
+    "region": "Saint Mary Parish",
+    "lat": 18.2717,
+    "lon": -76.7652,
+    "population": 25591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harbour View",
+    "region": "Saint Andrew",
+    "lat": 17.9515,
+    "lon": -76.7166,
+    "population": 25550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rocky Point",
+    "region": "Clarendon Parish",
+    "lat": 17.7769,
+    "lon": -77.2482,
+    "population": 25547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flamstead",
+    "region": "Saint James Parish",
+    "lat": 18.3141,
+    "lon": -77.8132,
+    "population": 25472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robins Bay",
+    "region": "Saint Mary Parish",
+    "lat": 18.3124,
+    "lon": -76.8178,
+    "population": 25450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lititz",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9403,
+    "lon": -77.5951,
+    "population": 25443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "James Hill",
+    "region": "Clarendon Parish",
+    "lat": 18.1875,
+    "lon": -77.337,
+    "population": 25419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longville Park",
+    "region": "Clarendon Parish",
+    "lat": 17.9119,
+    "lon": -77.1598,
+    "population": 25399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cane River",
+    "region": "Saint Andrew",
+    "lat": 17.981,
+    "lon": -76.6862,
+    "population": 25364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Allman Town",
+    "region": "Kingston Parish",
+    "lat": 17.983,
+    "lon": -76.7869,
+    "population": 25337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cross Roads",
+    "region": "Saint Andrew",
+    "lat": 17.9945,
+    "lon": -76.7881,
+    "population": 25318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reading",
+    "region": "Saint James Parish",
+    "lat": 18.4372,
+    "lon": -77.9473,
+    "population": 25263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stewart Town",
+    "region": "Trelawny Parish",
+    "lat": 18.3989,
+    "lon": -77.4519,
+    "population": 25117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savannah-la-mar Business Dist.",
+    "region": "Westmoreland Parish",
+    "lat": 18.2196,
+    "lon": -78.1303,
+    "population": 25023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalky Hill",
+    "region": "Saint Ann Parish",
+    "lat": 18.3796,
+    "lon": -77.1752,
+    "population": 24719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albert Town",
+    "region": "Trelawny Parish",
+    "lat": 18.2943,
+    "lon": -77.5424,
+    "population": 24666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mannings Hill",
+    "region": "Saint Andrew",
+    "lat": 18.0705,
+    "lon": -76.8129,
+    "population": 24651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Horeb",
+    "region": "Saint James Parish",
+    "lat": 18.3332,
+    "lon": -77.8667,
+    "population": 24624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ginger Hill",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1918,
+    "lon": -77.8487,
+    "population": 24623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogwalk",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1047,
+    "lon": -76.9879,
+    "population": 24615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Temple Hall",
+    "region": "Saint Andrew",
+    "lat": 18.1047,
+    "lon": -76.8182,
+    "population": 24604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banks",
+    "region": "Clarendon Parish",
+    "lat": 17.8322,
+    "lon": -77.3073,
+    "population": 24556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spring Bank",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9599,
+    "lon": -76.326,
+    "population": 24503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carron Hall",
+    "region": "Saint Mary Parish",
+    "lat": 18.278,
+    "lon": -76.9525,
+    "population": 24431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Springfield",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1766,
+    "lon": -77.8739,
+    "population": 24305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Good Intent",
+    "region": "Manchester Parish",
+    "lat": 18.2081,
+    "lon": -77.5709,
+    "population": 24304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evergreen",
+    "region": "Manchester Parish",
+    "lat": 18.151,
+    "lon": -77.5996,
+    "population": 24281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burnt Savannah",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0318,
+    "lon": -77.7494,
+    "population": 24206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Newton Square",
+    "region": "Kingston Parish",
+    "lat": 17.9735,
+    "lon": -76.7721,
+    "population": 24185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "D'Aguilar Town/ Rennock Lodge",
+    "region": "Kingston Parish",
+    "lat": 17.97,
+    "lon": -76.737,
+    "population": 24170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Russels",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9864,
+    "lon": -77.6506,
+    "population": 24026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hopeton",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9563,
+    "lon": -77.6624,
+    "population": 23998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thornton",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1956,
+    "lon": -77.7225,
+    "population": 23992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Church Corner",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8872,
+    "lon": -76.419,
+    "population": 23971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "White Hill",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1565,
+    "lon": -77.8107,
+    "population": 23950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bridgeport",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9626,
+    "lon": -76.8781,
+    "population": 23877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hazard",
+    "region": "Clarendon Parish",
+    "lat": 17.9538,
+    "lon": -77.2315,
+    "population": 23866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inverness",
+    "region": "Saint Ann Parish",
+    "lat": 18.2753,
+    "lon": -77.3686,
+    "population": 23842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandy Bay",
+    "region": "Hanover Parish",
+    "lat": 18.4375,
+    "lon": -78.0838,
+    "population": 23769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beverley Hills",
+    "region": "Saint Andrew",
+    "lat": 18.0083,
+    "lon": -76.7621,
+    "population": 23738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cacoon Castle",
+    "region": "Hanover Parish",
+    "lat": 18.4025,
+    "lon": -78.0134,
+    "population": 23735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodhall",
+    "region": "Clarendon Parish",
+    "lat": 18.0476,
+    "lon": -77.2758,
+    "population": 23613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petersfield",
+    "region": "Westmoreland Parish",
+    "lat": 18.2659,
+    "lon": -78.0576,
+    "population": 23508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barneyside",
+    "region": "Westmoreland Parish",
+    "lat": 18.2767,
+    "lon": -77.9696,
+    "population": 23437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Claremont",
+    "region": "Saint Ann Parish",
+    "lat": 18.3256,
+    "lon": -77.2064,
+    "population": 23387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frankfield",
+    "region": "Clarendon Parish",
+    "lat": 18.1497,
+    "lon": -77.365,
+    "population": 23294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harkers Hall",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1315,
+    "lon": -76.9135,
+    "population": 23218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beckford Kraal",
+    "region": "Clarendon Parish",
+    "lat": 18.0855,
+    "lon": -77.324,
+    "population": 23163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gayle",
+    "region": "Saint Mary Parish",
+    "lat": 18.3428,
+    "lon": -77.0021,
+    "population": 23123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carmel",
+    "region": "Westmoreland Parish",
+    "lat": 18.1733,
+    "lon": -77.9393,
+    "population": 23038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seaview Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0062,
+    "lon": -76.8411,
+    "population": 23018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portmore",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9503,
+    "lon": -76.8821,
+    "population": 22991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "York Castle",
+    "region": "Saint Ann Parish",
+    "lat": 18.2752,
+    "lon": -77.2292,
+    "population": 22959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whithorn",
+    "region": "Westmoreland Parish",
+    "lat": 18.2711,
+    "lon": -78.0381,
+    "population": 22942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chantilly",
+    "region": "Westmoreland Parish",
+    "lat": 18.2306,
+    "lon": -78.1246,
+    "population": 22928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0534,
+    "lon": -77.6984,
+    "population": 22837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lancaster",
+    "region": "Manchester Parish",
+    "lat": 17.936,
+    "lon": -77.4613,
+    "population": 22820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campbell Town",
+    "region": "Kingston Parish",
+    "lat": 17.9791,
+    "lon": -76.7813,
+    "population": 22806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Roads",
+    "region": "Westmoreland Parish",
+    "lat": 18.1912,
+    "lon": -77.9361,
+    "population": 22788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blue Mountain",
+    "region": "Manchester Parish",
+    "lat": 18.0709,
+    "lon": -77.4284,
+    "population": 22745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mountainside",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9808,
+    "lon": -77.7479,
+    "population": 22730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bloxborough",
+    "region": "Saint Andrew",
+    "lat": 17.9958,
+    "lon": -76.6477,
+    "population": 22699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alligator Pond",
+    "region": "Manchester Parish",
+    "lat": 17.8837,
+    "lon": -77.5607,
+    "population": 22661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caymanas",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0382,
+    "lon": -76.8983,
+    "population": 22659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Central Village",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9999,
+    "lon": -76.9239,
+    "population": 22607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wirefence",
+    "region": "Trelawny Parish",
+    "lat": 18.2531,
+    "lon": -77.5328,
+    "population": 22600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Top Hill",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8932,
+    "lon": -77.6379,
+    "population": 22581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llandewey",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9448,
+    "lon": -76.6225,
+    "population": 22571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodside",
+    "region": "Saint Mary Parish",
+    "lat": 18.2526,
+    "lon": -76.9268,
+    "population": 22558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oracabessa",
+    "region": "Saint Mary Parish",
+    "lat": 18.4032,
+    "lon": -76.9464,
+    "population": 22444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clonmel",
+    "region": "Saint Mary Parish",
+    "lat": 18.2428,
+    "lon": -76.8314,
+    "population": 22433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gravel Hill",
+    "region": "Clarendon Parish",
+    "lat": 17.9097,
+    "lon": -77.3335,
+    "population": 22345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cobbla",
+    "region": "Manchester Parish",
+    "lat": 18.1406,
+    "lon": -77.47,
+    "population": 22197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keystone",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0165,
+    "lon": -76.9352,
+    "population": 22129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. John's East",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0009,
+    "lon": -76.9747,
+    "population": 22109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roehampton",
+    "region": "Saint Andrew",
+    "lat": 18.0432,
+    "lon": -76.8084,
+    "population": 22065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangle River",
+    "region": "Saint James Parish",
+    "lat": 18.3434,
+    "lon": -77.8362,
+    "population": 22036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prospect",
+    "region": "Saint Thomas Parish",
+    "lat": 17.874,
+    "lon": -76.3496,
+    "population": 21965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Down Town Montego Bay",
+    "region": "Saint James Parish",
+    "lat": 18.4773,
+    "lon": -77.9203,
+    "population": 21961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morgans Pass",
+    "region": "Clarendon Parish",
+    "lat": 18.1212,
+    "lon": -77.2749,
+    "population": 21918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Peter's",
+    "region": "Saint Andrew",
+    "lat": 18.0788,
+    "lon": -76.672,
+    "population": 21878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "University",
+    "region": "Saint Andrew",
+    "lat": 18.0009,
+    "lon": -76.7477,
+    "population": 21848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strawberry",
+    "region": "Westmoreland Parish",
+    "lat": 18.3068,
+    "lon": -78.0894,
+    "population": 21836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Windsor",
+    "region": "Portland Parish",
+    "lat": 18.1067,
+    "lon": -76.4463,
+    "population": 21794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chester Castle",
+    "region": "Hanover Parish",
+    "lat": 18.3382,
+    "lon": -77.9472,
+    "population": 21782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alva",
+    "region": "Saint Ann Parish",
+    "lat": 18.2968,
+    "lon": -77.3172,
+    "population": 21774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gordon Town",
+    "region": "Saint Andrew",
+    "lat": 18.0376,
+    "lon": -76.7235,
+    "population": 21772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porus",
+    "region": "Manchester Parish",
+    "lat": 18.0354,
+    "lon": -77.4117,
+    "population": 21679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanguinetti",
+    "region": "Clarendon Parish",
+    "lat": 18.1559,
+    "lon": -77.4294,
+    "population": 21583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ironshore",
+    "region": "Saint James Parish",
+    "lat": 18.5132,
+    "lon": -77.8511,
+    "population": 21520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molynes Four Roads",
+    "region": "Saint Andrew",
+    "lat": 18.0103,
+    "lon": -76.8111,
+    "population": 21497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harewood",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1728,
+    "lon": -76.944,
+    "population": 21486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Three Oaks/ Glendale",
+    "region": "Saint Andrew",
+    "lat": 18.0313,
+    "lon": -76.8245,
+    "population": 21485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shirley Castle",
+    "region": "Portland Parish",
+    "lat": 18.1566,
+    "lon": -76.6111,
+    "population": 21407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leeds",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.014,
+    "lon": -77.6837,
+    "population": 21282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyssons",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8871,
+    "lon": -76.3796,
+    "population": 21270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Great Pond",
+    "region": "Saint Ann Parish",
+    "lat": 18.4023,
+    "lon": -77.0851,
+    "population": 21248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cascade",
+    "region": "Saint Ann Parish",
+    "lat": 18.2321,
+    "lon": -77.4625,
+    "population": 21242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bunkers Hill",
+    "region": "Trelawny Parish",
+    "lat": 18.362,
+    "lon": -77.6861,
+    "population": 21223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catherine Hall",
+    "region": "Saint James Parish",
+    "lat": 18.4626,
+    "lon": -77.9229,
+    "population": 21185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dumfries",
+    "region": "Saint James Parish",
+    "lat": 18.4297,
+    "lon": -77.7559,
+    "population": 21144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Three Mile River",
+    "region": "Westmoreland Parish",
+    "lat": 18.2571,
+    "lon": -78.1428,
+    "population": 21133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delacree Pen",
+    "region": "Saint Andrew",
+    "lat": 17.9958,
+    "lon": -76.8171,
+    "population": 21076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marverley",
+    "region": "Saint Andrew",
+    "lat": 18.0268,
+    "lon": -76.8265,
+    "population": 21069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Down Town",
+    "region": "Kingston Parish",
+    "lat": 17.972,
+    "lon": -76.7847,
+    "population": 21055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hope Bay",
+    "region": "Portland Parish",
+    "lat": 18.1875,
+    "lon": -76.5758,
+    "population": 20859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Troy",
+    "region": "Trelawny Parish",
+    "lat": 18.2492,
+    "lon": -77.6098,
+    "population": 20793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bellas Gate",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0471,
+    "lon": -77.1491,
+    "population": 20704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Forest",
+    "region": "Manchester Parish",
+    "lat": 17.9201,
+    "lon": -77.5587,
+    "population": 20648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cornwall",
+    "region": "Saint James Parish",
+    "lat": 18.4893,
+    "lon": -77.8102,
+    "population": 20645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Discovery Bay",
+    "region": "Saint Ann Parish",
+    "lat": 18.4372,
+    "lon": -77.4181,
+    "population": 20623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hampton Court",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9178,
+    "lon": -76.2613,
+    "population": 20617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucky Hill",
+    "region": "Saint Mary Parish",
+    "lat": 18.3025,
+    "lon": -77.0168,
+    "population": 20566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bickersteth",
+    "region": "Saint James Parish",
+    "lat": 18.3634,
+    "lon": -77.9365,
+    "population": 20359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sherwood Forest",
+    "region": "Portland Parish",
+    "lat": 18.1543,
+    "lon": -76.3782,
+    "population": 20336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asia/Pratville",
+    "region": "Manchester Parish",
+    "lat": 17.9158,
+    "lon": -77.4156,
+    "population": 20272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Georges Plain",
+    "region": "Westmoreland Parish",
+    "lat": 18.2765,
+    "lon": -78.1312,
+    "population": 20257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Williamsfield",
+    "region": "Manchester Parish",
+    "lat": 18.0666,
+    "lon": -77.4658,
+    "population": 20218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Royal",
+    "region": "Kingston Parish",
+    "lat": 17.9374,
+    "lon": -76.8406,
+    "population": 20217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Russia",
+    "region": "Westmoreland Parish",
+    "lat": 18.2165,
+    "lon": -78.1236,
+    "population": 20168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cross Keys",
+    "region": "Manchester Parish",
+    "lat": 17.9073,
+    "lon": -77.5011,
+    "population": 20140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plowden",
+    "region": "Manchester Parish",
+    "lat": 17.8918,
+    "lon": -77.5385,
+    "population": 20127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. Paul's",
+    "region": "Manchester Parish",
+    "lat": 18.1314,
+    "lon": -77.612,
+    "population": 20121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wait-A-Bit",
+    "region": "Trelawny Parish",
+    "lat": 18.2533,
+    "lon": -77.5084,
+    "population": 20110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caledonia",
+    "region": "Westmoreland Parish",
+    "lat": 18.2587,
+    "lon": -78.0117,
+    "population": 20058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albion",
+    "region": "Saint James Parish",
+    "lat": 18.4847,
+    "lon": -77.9141,
+    "population": 20057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bohemia",
+    "region": "Saint Ann Parish",
+    "lat": 18.2124,
+    "lon": -77.4695,
+    "population": 20051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constitution Hill",
+    "region": "Saint Andrew",
+    "lat": 18.0149,
+    "lon": -76.7052,
+    "population": 20010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mason Hall",
+    "region": "Saint Mary Parish",
+    "lat": 18.3966,
+    "lon": -76.9206,
+    "population": 19968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milk River",
+    "region": "Clarendon Parish",
+    "lat": 17.8756,
+    "lon": -77.3514,
+    "population": 19910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retirement",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.2074,
+    "lon": -77.767,
+    "population": 19778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayes",
+    "region": "Clarendon Parish",
+    "lat": 17.8757,
+    "lon": -77.2371,
+    "population": 19743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond",
+    "region": "Saint Mary Parish",
+    "lat": 18.2111,
+    "lon": -76.883,
+    "population": 19661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greenvale",
+    "region": "Manchester Parish",
+    "lat": 18.0393,
+    "lon": -77.5324,
+    "population": 19607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spot Valley",
+    "region": "Saint James Parish",
+    "lat": 18.4787,
+    "lon": -77.7911,
+    "population": 19586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Logwood",
+    "region": "Hanover Parish",
+    "lat": 18.3488,
+    "lon": -78.2962,
+    "population": 19569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Litchfield",
+    "region": "Manchester Parish",
+    "lat": 18.135,
+    "lon": -77.5245,
+    "population": 19535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Broughton",
+    "region": "Westmoreland Parish",
+    "lat": 18.2175,
+    "lon": -78.2289,
+    "population": 19530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mineral Heights",
+    "region": "Clarendon Parish",
+    "lat": 17.9418,
+    "lon": -77.2328,
+    "population": 19437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niagara",
+    "region": "Saint James Parish",
+    "lat": 18.2653,
+    "lon": -77.8188,
+    "population": 19409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hibernia",
+    "region": "Manchester Parish",
+    "lat": 18.1758,
+    "lon": -77.5483,
+    "population": 19355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spring Hill",
+    "region": "Portland Parish",
+    "lat": 18.1259,
+    "lon": -76.7291,
+    "population": 19330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delveland",
+    "region": "Westmoreland Parish",
+    "lat": 18.2971,
+    "lon": -78.2396,
+    "population": 19265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slipe",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0574,
+    "lon": -77.7969,
+    "population": 19228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lances Bay",
+    "region": "Hanover Parish",
+    "lat": 18.4382,
+    "lon": -78.2144,
+    "population": 19154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Four Paths",
+    "region": "Clarendon Parish",
+    "lat": 17.9709,
+    "lon": -77.296,
+    "population": 19057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seven Rivers",
+    "region": "Saint James Parish",
+    "lat": 18.347,
+    "lon": -77.9138,
+    "population": 19052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anchovy",
+    "region": "Saint James Parish",
+    "lat": 18.4103,
+    "lon": -77.9317,
+    "population": 19044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beeston Spring",
+    "region": "Westmoreland Parish",
+    "lat": 18.1601,
+    "lon": -77.9754,
+    "population": 19036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Above Rocks",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1143,
+    "lon": -76.8759,
+    "population": 18916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kendal",
+    "region": "Manchester Parish",
+    "lat": 18.0832,
+    "lon": -77.5032,
+    "population": 18785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quick Step",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.2328,
+    "lon": -77.6783,
+    "population": 18733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bito",
+    "region": "Saint Andrew",
+    "lat": 17.9736,
+    "lon": -76.6663,
+    "population": 18573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Long Road",
+    "region": "Portland Parish",
+    "lat": 18.0086,
+    "lon": -76.2948,
+    "population": 18534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maggotty",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.1734,
+    "lon": -77.7668,
+    "population": 18502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandeville Proper",
+    "region": "Manchester Parish",
+    "lat": 18.0445,
+    "lon": -77.5057,
+    "population": 18434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seaford Town",
+    "region": "Westmoreland Parish",
+    "lat": 18.2434,
+    "lon": -77.905,
+    "population": 18426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Half Way Tree",
+    "region": "Saint Andrew",
+    "lat": 18.0125,
+    "lon": -76.7993,
+    "population": 18378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fellowship",
+    "region": "Portland Parish",
+    "lat": 18.1278,
+    "lon": -76.472,
+    "population": 18346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Race Course",
+    "region": "Clarendon Parish",
+    "lat": 17.8402,
+    "lon": -77.2822,
+    "population": 18327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joe Hut",
+    "region": "Trelawny Parish",
+    "lat": 18.2674,
+    "lon": -77.4962,
+    "population": 18270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merrywood",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.2179,
+    "lon": -77.8377,
+    "population": 18270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Windsor Forest",
+    "region": "Portland Parish",
+    "lat": 18.1206,
+    "lon": -76.3388,
+    "population": 18247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond",
+    "region": "Manchester Parish",
+    "lat": 18.0256,
+    "lon": -77.4634,
+    "population": 18199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alderton",
+    "region": "Saint Ann Parish",
+    "lat": 18.2871,
+    "lon": -77.2083,
+    "population": 18191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spring Ground",
+    "region": "Manchester Parish",
+    "lat": 18.1623,
+    "lon": -77.4798,
+    "population": 18154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro Plains",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8857,
+    "lon": -77.7134,
+    "population": 18100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goodwill",
+    "region": "Saint James Parish",
+    "lat": 18.4695,
+    "lon": -77.7565,
+    "population": 18002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grants Pen",
+    "region": "Saint Andrew",
+    "lat": 18.0326,
+    "lon": -76.7889,
+    "population": 17954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kensington",
+    "region": "Portland Parish",
+    "lat": 18.0677,
+    "lon": -76.3005,
+    "population": 17936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arcadia",
+    "region": "Saint James Parish",
+    "lat": 18.2499,
+    "lon": -77.7923,
+    "population": 17920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robins Hall",
+    "region": "Manchester Parish",
+    "lat": 18.204,
+    "lon": -77.5501,
+    "population": 17867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandside",
+    "region": "Saint Mary Parish",
+    "lat": 18.3389,
+    "lon": -76.8955,
+    "population": 17825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rose Town",
+    "region": "Saint Andrew",
+    "lat": 17.987,
+    "lon": -76.8073,
+    "population": 17671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Cumberland",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9789,
+    "lon": -76.8866,
+    "population": 17671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ritchies",
+    "region": "Clarendon Parish",
+    "lat": 18.139,
+    "lon": -77.4289,
+    "population": 17587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaidie Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0257,
+    "lon": -76.8098,
+    "population": 17562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canterbury",
+    "region": "Saint James Parish",
+    "lat": 18.4792,
+    "lon": -77.9166,
+    "population": 17340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labyrinth",
+    "region": "Saint Mary Parish",
+    "lat": 18.3442,
+    "lon": -77.0323,
+    "population": 17290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irwin",
+    "region": "Saint James Parish",
+    "lat": 18.4495,
+    "lon": -77.8772,
+    "population": 17257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rowlandsfield",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9735,
+    "lon": -76.2878,
+    "population": 17243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hampton Green",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0054,
+    "lon": -76.9682,
+    "population": 17205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belfield",
+    "region": "Saint Mary Parish",
+    "lat": 18.2735,
+    "lon": -76.8357,
+    "population": 17147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mearnsville",
+    "region": "Westmoreland Parish",
+    "lat": 18.1886,
+    "lon": -78.0287,
+    "population": 17140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wilson's Run",
+    "region": "Trelawny Parish",
+    "lat": 18.2847,
+    "lon": -77.6932,
+    "population": 17120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cavaliers",
+    "region": "Saint Andrew",
+    "lat": 18.0968,
+    "lon": -76.8432,
+    "population": 17117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Great Valley",
+    "region": "Hanover Parish",
+    "lat": 18.4117,
+    "lon": -78.0502,
+    "population": 17068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barrett Town",
+    "region": "Saint James Parish",
+    "lat": 18.5087,
+    "lon": -77.7963,
+    "population": 17065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drumblair",
+    "region": "Saint Andrew",
+    "lat": 18.0235,
+    "lon": -76.7876,
+    "population": 17024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albion",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9012,
+    "lon": -76.6076,
+    "population": 17005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watt Town",
+    "region": "Saint Ann Parish",
+    "lat": 18.2943,
+    "lon": -77.4147,
+    "population": 16959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mackfield",
+    "region": "Westmoreland Parish",
+    "lat": 18.3116,
+    "lon": -78.0247,
+    "population": 16911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glengoffe",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1521,
+    "lon": -76.8906,
+    "population": 16870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pell River",
+    "region": "Hanover Parish",
+    "lat": 18.3789,
+    "lon": -78.219,
+    "population": 16865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pike",
+    "region": "Manchester Parish",
+    "lat": 18.2323,
+    "lon": -77.5379,
+    "population": 16687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Peto",
+    "region": "Hanover Parish",
+    "lat": 18.3575,
+    "lon": -78.0229,
+    "population": 16549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fairfield",
+    "region": "Manchester Parish",
+    "lat": 18.0312,
+    "lon": -77.5754,
+    "population": 16500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nain",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9653,
+    "lon": -77.6053,
+    "population": 16478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somerset",
+    "region": "Saint Thomas Parish",
+    "lat": 18.0098,
+    "lon": -76.546,
+    "population": 16419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montego Bay",
+    "region": "Saint James Parish",
+    "lat": 18.4712,
+    "lon": -77.9188,
+    "population": 16398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmers Cross",
+    "region": "Clarendon Parish",
+    "lat": 17.95,
+    "lon": -77.2034,
+    "population": 16319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peckham",
+    "region": "Clarendon Parish",
+    "lat": 18.1715,
+    "lon": -77.3977,
+    "population": 16296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lluidas Vale",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1498,
+    "lon": -77.1685,
+    "population": 16288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fairfield",
+    "region": "Saint James Parish",
+    "lat": 18.4508,
+    "lon": -77.9124,
+    "population": 16269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drewsland",
+    "region": "Saint Andrew",
+    "lat": 18.0238,
+    "lon": -76.8263,
+    "population": 16264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lime Tree Gardens",
+    "region": "Saint Ann Parish",
+    "lat": 18.3454,
+    "lon": -77.3864,
+    "population": 16170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tower Hill/Moy Hall",
+    "region": "Saint James Parish",
+    "lat": 18.4404,
+    "lon": -77.9602,
+    "population": 16164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Truro",
+    "region": "Westmoreland Parish",
+    "lat": 18.313,
+    "lon": -78.1549,
+    "population": 16053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandy Bay",
+    "region": "Clarendon Parish",
+    "lat": 17.951,
+    "lon": -77.1623,
+    "population": 16049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santoy",
+    "region": "Hanover Parish",
+    "lat": 18.3588,
+    "lon": -78.2839,
+    "population": 16020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blackstonedge",
+    "region": "Saint Ann Parish",
+    "lat": 18.2736,
+    "lon": -77.0425,
+    "population": 15912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martin",
+    "region": "Saint Mary Parish",
+    "lat": 18.3012,
+    "lon": -76.8726,
+    "population": 15871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dias",
+    "region": "Hanover Parish",
+    "lat": 18.3938,
+    "lon": -78.1856,
+    "population": 15826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golden Grove",
+    "region": "Saint Ann Parish",
+    "lat": 18.3296,
+    "lon": -77.1226,
+    "population": 15802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pamphret",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8757,
+    "lon": -76.5174,
+    "population": 15649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chambers Pen",
+    "region": "Hanover Parish",
+    "lat": 18.4052,
+    "lon": -78.1598,
+    "population": 15583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hannah Town/ Craig Town",
+    "region": "Kingston Parish",
+    "lat": 17.98,
+    "lon": -76.7943,
+    "population": 15412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "12th Street",
+    "region": "Westmoreland Parish",
+    "lat": 18.211,
+    "lon": -78.136,
+    "population": 15375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cole Gate",
+    "region": "Saint Ann Parish",
+    "lat": 18.3797,
+    "lon": -77.0852,
+    "population": 15357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Woodpark",
+    "region": "Saint Mary Parish",
+    "lat": 18.2973,
+    "lon": -76.9811,
+    "population": 15355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Junction",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9147,
+    "lon": -77.5989,
+    "population": 15282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oaklands",
+    "region": "Saint Andrew",
+    "lat": 18.0356,
+    "lon": -76.7956,
+    "population": 15280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kencot",
+    "region": "Saint Andrew",
+    "lat": 18.0004,
+    "lon": -76.7983,
+    "population": 15264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yallahs",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8748,
+    "lon": -76.5624,
+    "population": 15254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mansfield",
+    "region": "Saint Ann Parish",
+    "lat": 18.4027,
+    "lon": -77.0949,
+    "population": 15220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durham",
+    "region": "Portland Parish",
+    "lat": 18.0857,
+    "lon": -76.5156,
+    "population": 15201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cascade",
+    "region": "Hanover Parish",
+    "lat": 18.3975,
+    "lon": -78.1034,
+    "population": 15068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spicy Hill",
+    "region": "Trelawny Parish",
+    "lat": 18.4576,
+    "lon": -77.5475,
+    "population": 14945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linstead",
+    "region": "Saint Catherine Parish",
+    "lat": 18.1368,
+    "lon": -77.0317,
+    "population": 14916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silent Hill",
+    "region": "Clarendon Parish",
+    "lat": 18.1915,
+    "lon": -77.4592,
+    "population": 14914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spanish Town Central",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9801,
+    "lon": -76.9229,
+    "population": 14880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Half-Way-Tree",
+    "region": "Saint Andrew",
+    "lat": 18.0126,
+    "lon": -76.7958,
+    "population": 14860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brompton",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0679,
+    "lon": -77.8882,
+    "population": 14684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cousins Cove",
+    "region": "Hanover Parish",
+    "lat": 18.4243,
+    "lon": -78.2375,
+    "population": 14673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auchtembeddie",
+    "region": "Manchester Parish",
+    "lat": 18.2254,
+    "lon": -77.6036,
+    "population": 14642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duhaney Pen",
+    "region": "Saint Thomas Parish",
+    "lat": 17.894,
+    "lon": -76.4319,
+    "population": 14596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comfort Hall",
+    "region": "Saint James Parish",
+    "lat": 18.4127,
+    "lon": -77.9181,
+    "population": 14512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosemount",
+    "region": "Saint James Parish",
+    "lat": 18.4748,
+    "lon": -77.8922,
+    "population": 14419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pimento Walk",
+    "region": "Saint Ann Parish",
+    "lat": 18.3958,
+    "lon": -77.1138,
+    "population": 14322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Passmore Town",
+    "region": "Kingston Parish",
+    "lat": 17.973,
+    "lon": -76.7765,
+    "population": 14273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coleyville",
+    "region": "Manchester Parish",
+    "lat": 18.1999,
+    "lon": -77.5192,
+    "population": 14264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salt Spring",
+    "region": "Saint James Parish",
+    "lat": 18.4869,
+    "lon": -77.8655,
+    "population": 14214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Summerfield",
+    "region": "Clarendon Parish",
+    "lat": 18.0943,
+    "lon": -77.2843,
+    "population": 14116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barbican",
+    "region": "Saint Andrew",
+    "lat": 18.0355,
+    "lon": -76.7699,
+    "population": 14092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Content Garden",
+    "region": "Saint Ann Parish",
+    "lat": 18.4098,
+    "lon": -77.0754,
+    "population": 14032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cave Valley",
+    "region": "Saint Ann Parish",
+    "lat": 18.2327,
+    "lon": -77.3634,
+    "population": 13984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Lebanus",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9754,
+    "lon": -76.5389,
+    "population": 13973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fairy Hill",
+    "region": "Portland Parish",
+    "lat": 18.1651,
+    "lon": -76.3659,
+    "population": 13967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seaforth",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9442,
+    "lon": -76.4566,
+    "population": 13903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enfield",
+    "region": "Westmoreland Parish",
+    "lat": 18.214,
+    "lon": -77.9527,
+    "population": 13763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moneague",
+    "region": "Saint Ann Parish",
+    "lat": 18.2831,
+    "lon": -77.1385,
+    "population": 13720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enfield",
+    "region": "Saint Mary Parish",
+    "lat": 18.2204,
+    "lon": -76.7374,
+    "population": 13698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Whitfield Town",
+    "region": "Saint Andrew",
+    "lat": 17.9921,
+    "lon": -76.8091,
+    "population": 13642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part of Rock Hall",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0912,
+    "lon": -76.888,
+    "population": 13641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portland Cottage",
+    "region": "Clarendon Parish",
+    "lat": 17.7462,
+    "lon": -77.1877,
+    "population": 13634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aenon Town",
+    "region": "Clarendon Parish",
+    "lat": 18.2103,
+    "lon": -77.3985,
+    "population": 13604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smithfield",
+    "region": "Westmoreland Parish",
+    "lat": 18.2228,
+    "lon": -78.0879,
+    "population": 13584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mona Heights",
+    "region": "Saint Andrew",
+    "lat": 18.0133,
+    "lon": -76.7509,
+    "population": 13561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breastworks",
+    "region": "Portland Parish",
+    "lat": 18.16,
+    "lon": -76.4661,
+    "population": 13472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Southfield",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8821,
+    "lon": -77.6699,
+    "population": 13471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borobridge",
+    "region": "Saint Ann Parish",
+    "lat": 18.1978,
+    "lon": -77.4275,
+    "population": 13468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majestic Gardens",
+    "region": "Saint Andrew",
+    "lat": 18.0002,
+    "lon": -76.8329,
+    "population": 13453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Redwood",
+    "region": "Saint Catherine Parish",
+    "lat": 18.2103,
+    "lon": -76.9854,
+    "population": 13453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Old Harbour Bay",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9092,
+    "lon": -77.0972,
+    "population": 13351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harmons",
+    "region": "Manchester Parish",
+    "lat": 17.9817,
+    "lon": -77.4121,
+    "population": 13349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cotterwood",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.0949,
+    "lon": -77.9155,
+    "population": 13256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walkers Wood",
+    "region": "Saint Ann Parish",
+    "lat": 18.3194,
+    "lon": -77.0708,
+    "population": 13212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arcadia",
+    "region": "Saint Andrew",
+    "lat": 18.0374,
+    "lon": -76.782,
+    "population": 13178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winchester",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9418,
+    "lon": -76.2982,
+    "population": 13164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hillside",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9962,
+    "lon": -76.4908,
+    "population": 13115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bensonton",
+    "region": "Saint Ann Parish",
+    "lat": 18.2232,
+    "lon": -77.2086,
+    "population": 13100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bull Savanna",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.8868,
+    "lon": -77.5902,
+    "population": 13008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castleton",
+    "region": "Saint Mary Parish",
+    "lat": 18.1762,
+    "lon": -76.7834,
+    "population": 12999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comfort Hall",
+    "region": "Manchester Parish",
+    "lat": 18.1879,
+    "lon": -77.6104,
+    "population": 12991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brandon Hill",
+    "region": "Saint Andrew",
+    "lat": 18.1482,
+    "lon": -76.8051,
+    "population": 12988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pear Tree Grove",
+    "region": "Saint Catherine Parish",
+    "lat": 18.2251,
+    "lon": -76.9529,
+    "population": 12975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pondside",
+    "region": "Saint Elizabeth Parish",
+    "lat": 17.9815,
+    "lon": -77.7945,
+    "population": 12909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marlie Hill",
+    "region": "Manchester Parish",
+    "lat": 17.8669,
+    "lon": -77.5083,
+    "population": 12802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Copse",
+    "region": "Hanover Parish",
+    "lat": 18.3947,
+    "lon": -77.9768,
+    "population": 12730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middleton",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9397,
+    "lon": -76.4356,
+    "population": 12701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bethany",
+    "region": "Manchester Parish",
+    "lat": 18.1537,
+    "lon": -77.5503,
+    "population": 12672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chester",
+    "region": "Saint Ann Parish",
+    "lat": 18.4479,
+    "lon": -77.265,
+    "population": 12645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Richmond Park",
+    "region": "Saint Andrew",
+    "lat": 18.0056,
+    "lon": -76.8046,
+    "population": 12624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Long Bay",
+    "region": "Portland Parish",
+    "lat": 18.0858,
+    "lon": -76.3251,
+    "population": 12612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parry Town",
+    "region": "Saint Ann Parish",
+    "lat": 18.3836,
+    "lon": -77.1034,
+    "population": 12584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mount Pleasant",
+    "region": "Portland Parish",
+    "lat": 18.1633,
+    "lon": -76.5047,
+    "population": 12444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rae Town",
+    "region": "Kingston Parish",
+    "lat": 17.9677,
+    "lon": -76.7797,
+    "population": 12377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Part of Guys Hill",
+    "region": "Saint Catherine Parish",
+    "lat": 18.2452,
+    "lon": -76.9908,
+    "population": 12299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hinds Town",
+    "region": "Saint Ann Parish",
+    "lat": 18.3543,
+    "lon": -77.0981,
+    "population": 12286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterford",
+    "region": "Saint Catherine Parish",
+    "lat": 17.9934,
+    "lon": -76.8609,
+    "population": 12229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morgans Forest",
+    "region": "Clarendon Parish",
+    "lat": 18.1909,
+    "lon": -77.4102,
+    "population": 12180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alexandria",
+    "region": "Saint Ann Parish",
+    "lat": 18.3041,
+    "lon": -77.3531,
+    "population": 12133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Old England",
+    "region": "Manchester Parish",
+    "lat": 17.985,
+    "lon": -77.4602,
+    "population": 12065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fruitfulvale",
+    "region": "Portland Parish",
+    "lat": 18.1089,
+    "lon": -76.5862,
+    "population": 12027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Red Hills",
+    "region": "Westmoreland Parish",
+    "lat": 18.3055,
+    "lon": -78.1128,
+    "population": 12003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morant Bay",
+    "region": "Saint Thomas Parish",
+    "lat": 17.8815,
+    "lon": -76.4093,
+    "population": 11928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rollington Town",
+    "region": "Kingston Parish",
+    "lat": 17.9769,
+    "lon": -76.7652,
+    "population": 11907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patrick City",
+    "region": "Saint Andrew",
+    "lat": 18.0318,
+    "lon": -76.8377,
+    "population": 11871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giddy Hall",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.097,
+    "lon": -77.8676,
+    "population": 11781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coral Gardens",
+    "region": "Saint James Parish",
+    "lat": 18.5079,
+    "lon": -77.8803,
+    "population": 11728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hellshire",
+    "region": "Saint Catherine Parish",
+    "lat": 17.8967,
+    "lon": -76.9619,
+    "population": 11726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madras",
+    "region": "Saint Ann Parish",
+    "lat": 18.2911,
+    "lon": -77.4488,
+    "population": 11708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Southside",
+    "region": "Kingston Parish",
+    "lat": 17.9657,
+    "lon": -76.7862,
+    "population": 11691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Denham Town",
+    "region": "Kingston Parish",
+    "lat": 17.9781,
+    "lon": -76.7998,
+    "population": 11673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haddington",
+    "region": "Hanover Parish",
+    "lat": 18.4204,
+    "lon": -78.0038,
+    "population": 11644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orange Hill",
+    "region": "Westmoreland Parish",
+    "lat": 18.2342,
+    "lon": -78.3028,
+    "population": 11622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waterhouse",
+    "region": "Saint Andrew",
+    "lat": 18.0123,
+    "lon": -76.835,
+    "population": 11575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huntley",
+    "region": "Manchester Parish",
+    "lat": 18.0665,
+    "lon": -77.5817,
+    "population": 11550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adelphi",
+    "region": "Saint James Parish",
+    "lat": 18.4506,
+    "lon": -77.7859,
+    "population": 11542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crooked River",
+    "region": "Clarendon Parish",
+    "lat": 18.1429,
+    "lon": -77.3,
+    "population": 11508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "St. John's West",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0054,
+    "lon": -77.0075,
+    "population": 11489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Browns Hill",
+    "region": "Saint Catherine Parish",
+    "lat": 18.0536,
+    "lon": -77.1185,
+    "population": 11474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galina",
+    "region": "Saint Mary Parish",
+    "lat": 18.4027,
+    "lon": -76.9004,
+    "population": 11456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alston",
+    "region": "Clarendon Parish",
+    "lat": 18.1764,
+    "lon": -77.4347,
+    "population": 11372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "River Head",
+    "region": "Saint Thomas Parish",
+    "lat": 17.9924,
+    "lon": -76.6108,
+    "population": 11340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roehampton",
+    "region": "Saint James Parish",
+    "lat": 18.399,
+    "lon": -77.8993,
+    "population": 11335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macknie",
+    "region": "Saint Ann Parish",
+    "lat": 18.2119,
+    "lon": -77.2802,
+    "population": 11280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penwood",
+    "region": "Saint Andrew",
+    "lat": 18.0195,
+    "lon": -76.8309,
+    "population": 11229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brainerd",
+    "region": "Saint Mary Parish",
+    "lat": 18.1699,
+    "lon": -76.8689,
+    "population": 11226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bethel Town",
+    "region": "Westmoreland Parish",
+    "lat": 18.295,
+    "lon": -77.9511,
+    "population": 11163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "May Pen",
+    "region": "Clarendon Parish",
+    "lat": 17.9645,
+    "lon": -77.2451,
+    "population": 11146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Troja",
+    "region": "Saint Catherine Parish",
+    "lat": 18.2049,
+    "lon": -76.932,
+    "population": 11140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dover",
+    "region": "Saint Mary Parish",
+    "lat": 18.2553,
+    "lon": -76.7081,
+    "population": 11137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frome",
+    "region": "Westmoreland Parish",
+    "lat": 18.2797,
+    "lon": -78.149,
+    "population": 11134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amity",
+    "region": "Westmoreland Parish",
+    "lat": 18.2736,
+    "lon": -77.898,
+    "population": 11099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charles Town",
+    "region": "Portland Parish",
+    "lat": 18.2053,
+    "lon": -76.6639,
+    "population": 10839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drapers",
+    "region": "Portland Parish",
+    "lat": 18.1712,
+    "lon": -76.4061,
+    "population": 10776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Denbigh",
+    "region": "Clarendon Parish",
+    "lat": 17.9856,
+    "lon": -77.271,
+    "population": 10638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Friendship Gap",
+    "region": "Saint Mary Parish",
+    "lat": 18.1972,
+    "lon": -76.8196,
+    "population": 10407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hopeton",
+    "region": "Saint James Parish",
+    "lat": 18.3986,
+    "lon": -77.8683,
+    "population": 10363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bybrook",
+    "region": "Portland Parish",
+    "lat": 18.1464,
+    "lon": -76.6573,
+    "population": 10362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samuels Prospect",
+    "region": "Trelawny Parish",
+    "lat": 18.451,
+    "lon": -77.5144,
+    "population": 10238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mulgrave",
+    "region": "Saint Elizabeth Parish",
+    "lat": 18.2116,
+    "lon": -77.8202,
+    "population": 10129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osbourne Store",
+    "region": "Clarendon Parish",
+    "lat": 17.9589,
+    "lon": -77.3283,
+    "population": 10123,
+    "timezone": "UTC"
+  }
+]

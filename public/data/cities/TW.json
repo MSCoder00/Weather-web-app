@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Yunlin",
+    "region": "Yunlin",
+    "lat": 23.707,
+    "lon": 120.3848,
+    "population": 47455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pizitou",
+    "region": "Chiayi",
+    "lat": 23.4856,
+    "lon": 120.4447,
+    "population": 47213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongxing New Village",
+    "region": "Nantou",
+    "lat": 23.9591,
+    "lon": 120.6852,
+    "population": 45889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penghu County",
+    "region": "Penghu",
+    "lat": 23.5711,
+    "lon": 119.6114,
+    "population": 44276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taitung",
+    "region": "Taitung",
+    "lat": 22.8836,
+    "lon": 121.0483,
+    "population": 43816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nangan",
+    "region": "Lienchiang",
+    "lat": 26.1504,
+    "lon": 119.9328,
+    "population": 43595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaohsiung",
+    "region": "Kaohsiung",
+    "lat": 22.6163,
+    "lon": 120.3133,
+    "population": 43530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daxi",
+    "region": "Taoyuan",
+    "lat": 24.8837,
+    "lon": 121.2904,
+    "population": 42729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nantou",
+    "region": "Nantou",
+    "lat": 23.8342,
+    "lon": 120.927,
+    "population": 41782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jincheng",
+    "region": "Kinmen",
+    "lat": 24.4341,
+    "lon": 118.3171,
+    "population": 40877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yujing",
+    "region": "Tainan",
+    "lat": 23.1249,
+    "lon": 120.4614,
+    "population": 39244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hsinchu County",
+    "region": "Hsinchu",
+    "lat": 24.6742,
+    "lon": 121.1611,
+    "population": 38859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taitung City",
+    "region": "Taitung",
+    "lat": 22.7583,
+    "lon": 121.1444,
+    "population": 38625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puli",
+    "region": "Nantou",
+    "lat": 23.9664,
+    "lon": 120.9695,
+    "population": 37892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lugu",
+    "region": "Nantou",
+    "lat": 23.7464,
+    "lon": 120.7525,
+    "population": 37702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donggang",
+    "region": "Pingtung",
+    "lat": 22.4652,
+    "lon": 120.4493,
+    "population": 36409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taipei City",
+    "region": "Taipei",
+    "lat": 25.083,
+    "lon": 121.5533,
+    "population": 36185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tainan",
+    "region": "Tainan",
+    "lat": 22.9908,
+    "lon": 120.2133,
+    "population": 34944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taichung City",
+    "region": "Taichung",
+    "lat": 24.1547,
+    "lon": 120.673,
+    "population": 34594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changhua",
+    "region": "Changhua",
+    "lat": 23.9536,
+    "lon": 120.4908,
+    "population": 34145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taichung",
+    "region": "Taichung",
+    "lat": 24.1469,
+    "lon": 120.6839,
+    "population": 32854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taipei",
+    "region": "Taipei",
+    "lat": 25.0478,
+    "lon": 121.5319,
+    "population": 31433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuanlin",
+    "region": "Changhua",
+    "lat": 23.9567,
+    "lon": 120.5761,
+    "population": 30462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualien City",
+    "region": "Hualien",
+    "lat": 23.9769,
+    "lon": 121.6044,
+    "population": 29687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douliu",
+    "region": "Yunlin",
+    "lat": 23.7094,
+    "lon": 120.5433,
+    "population": 28938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiayi County",
+    "region": "Chiayi",
+    "lat": 23.4633,
+    "lon": 120.5817,
+    "population": 26056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiufen",
+    "region": "Taipei",
+    "lat": 25.1096,
+    "lon": 121.8442,
+    "population": 25772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taoyuan",
+    "region": "Taoyuan",
+    "lat": 24.895,
+    "lon": 121.2461,
+    "population": 25161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magong",
+    "region": "Penghu",
+    "lat": 23.5654,
+    "lon": 119.5863,
+    "population": 24807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinmen County",
+    "region": "Kinmen",
+    "lat": 24.4533,
+    "lon": 118.3886,
+    "population": 24640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taoyuan City",
+    "region": "Taoyuan",
+    "lat": 24.9937,
+    "lon": 121.297,
+    "population": 23512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banqiao",
+    "region": "Taipei",
+    "lat": 25.0143,
+    "lon": 121.4672,
+    "population": 22134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miaoli",
+    "region": "Miaoli",
+    "lat": 24.4897,
+    "lon": 120.9064,
+    "population": 20140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiayi",
+    "region": "Chiayi",
+    "lat": 23.4772,
+    "lon": 120.4453,
+    "population": 17764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingtung",
+    "region": "Pingtung",
+    "lat": 22.4956,
+    "lon": 120.6144,
+    "population": 17005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hengchun",
+    "region": "Pingtung",
+    "lat": 22.0042,
+    "lon": 120.7439,
+    "population": 15884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yilan",
+    "region": "Yilan",
+    "lat": 24.5425,
+    "lon": 121.6336,
+    "population": 15881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lienchiang",
+    "region": "Lienchiang",
+    "lat": 26.37,
+    "lon": 120.4955,
+    "population": 14495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hsinchu",
+    "region": "Hsinchu",
+    "lat": 24.8036,
+    "lon": 120.9686,
+    "population": 13225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualien",
+    "region": "Hualien",
+    "lat": 23.7817,
+    "lon": 121.3933,
+    "population": 13203,
+    "timezone": "UTC"
+  }
+]

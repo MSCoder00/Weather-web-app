@@ -1,0 +1,2490 @@
+[
+  {
+    "name": "Ptuj",
+    "region": "Ptuj City Municipality",
+    "lat": 46.4201,
+    "lon": 15.8702,
+    "population": 49952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lendava",
+    "region": "Lendava Municipality",
+    "lat": 46.5649,
+    "lon": 16.4509,
+    "population": 49897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirna Peč",
+    "region": "Mirna Peč Municipality",
+    "lat": 45.8603,
+    "lon": 15.0833,
+    "population": 49759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakek",
+    "region": "Cerknica Municipality",
+    "lat": 45.8133,
+    "lon": 14.3111,
+    "population": 49544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zgornja Polskava",
+    "region": "Slovenska Bistrica Municipality",
+    "lat": 46.4256,
+    "lon": 15.6122,
+    "population": 49306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limbuš",
+    "region": "Maribor City Municipality",
+    "lat": 46.5536,
+    "lon": 15.5836,
+    "population": 49005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šenčur",
+    "region": "Šenčur Municipality",
+    "lat": 46.2456,
+    "lon": 14.4197,
+    "population": 48853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolenjske Toplice",
+    "region": "Dolenjske Toplice Municipality",
+    "lat": 45.7566,
+    "lon": 15.0592,
+    "population": 48739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Razkrižje",
+    "region": "Razkrižje Municipality",
+    "lat": 46.5217,
+    "lon": 16.2811,
+    "population": 48725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prebold",
+    "region": "Prebold Municipality",
+    "lat": 46.2369,
+    "lon": 15.0925,
+    "population": 48399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gotovlje",
+    "region": "Žalec Municipality",
+    "lat": 46.2742,
+    "lon": 15.1519,
+    "population": 48395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solkan",
+    "region": "Nova Gorica City Municipality",
+    "lat": 45.9714,
+    "lon": 13.6494,
+    "population": 48305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prade",
+    "region": "Koper City Municipality",
+    "lat": 45.54,
+    "lon": 13.7761,
+    "population": 48082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šentvid pri Stični",
+    "region": "Ivančna Gorica Municipality",
+    "lat": 45.95,
+    "lon": 14.8434,
+    "population": 48064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notranje Gorice",
+    "region": "Brezovica Municipality",
+    "lat": 45.9875,
+    "lon": 14.3989,
+    "population": 47852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mežica",
+    "region": "Mežica Municipality",
+    "lat": 46.5214,
+    "lon": 14.8544,
+    "population": 47383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Škocjan",
+    "region": "Škocjan Municipality",
+    "lat": 45.9067,
+    "lon": 15.2914,
+    "population": 47347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarše District",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0735,
+    "lon": 14.5543,
+    "population": 47310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Črnuče District",
+    "region": "Trzin Municipality",
+    "lat": 46.1151,
+    "lon": 14.5537,
+    "population": 47176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kobilje",
+    "region": "Kobilje Municipality",
+    "lat": 46.6847,
+    "lon": 16.3978,
+    "population": 47156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagorje ob Savi",
+    "region": "Zagorje ob Savi Municipality",
+    "lat": 46.1318,
+    "lon": 14.9969,
+    "population": 47114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kostanjevica na Krki",
+    "region": "Bled Municipality",
+    "lat": 45.8461,
+    "lon": 15.4222,
+    "population": 47074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Vas",
+    "region": "Bloke Municipality",
+    "lat": 45.7717,
+    "lon": 14.5058,
+    "population": 46951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vir",
+    "region": "Domžale Municipality",
+    "lat": 46.1532,
+    "lon": 14.6074,
+    "population": 46488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veržej",
+    "region": "Veržej Municipality",
+    "lat": 46.5836,
+    "lon": 16.1653,
+    "population": 46475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opština [historical] Ljubljana-Šiška",
+    "region": "Medvode Municipality",
+    "lat": 46.1667,
+    "lon": 14.4333,
+    "population": 46322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šentvid District",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.1056,
+    "lon": 14.4333,
+    "population": 45914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Videm pri Ptuju",
+    "region": "Videm Municipality",
+    "lat": 46.3686,
+    "lon": 15.9064,
+    "population": 45890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spodnja Idrija",
+    "region": "Idrija Municipality",
+    "lat": 46.0319,
+    "lon": 14.0272,
+    "population": 45701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bresternica",
+    "region": "Maribor City Municipality",
+    "lat": 46.5697,
+    "lon": 15.575,
+    "population": 45679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ribnica na Pohorju",
+    "region": "Ribnica na Pohorju Municipality",
+    "lat": 46.535,
+    "lon": 15.2728,
+    "population": 45569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trnovska Vas",
+    "region": "Trnovska Vas Municipality",
+    "lat": 46.5202,
+    "lon": 15.8866,
+    "population": 45388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirna",
+    "region": "Bovec Municipality",
+    "lat": 45.9553,
+    "lon": 15.0619,
+    "population": 45149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metlika",
+    "region": "Metlika Municipality",
+    "lat": 45.6472,
+    "lon": 15.3142,
+    "population": 45007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slovenski Javornik",
+    "region": "Jesenice Municipality",
+    "lat": 46.4261,
+    "lon": 14.0872,
+    "population": 44665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Petrovci",
+    "region": "Gornji Petrovci Municipality",
+    "lat": 46.8053,
+    "lon": 16.2225,
+    "population": 44466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolmin",
+    "region": "Tolmin Municipality",
+    "lat": 46.183,
+    "lon": 13.7332,
+    "population": 44413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Gorica",
+    "region": "Nova Gorica City Municipality",
+    "lat": 45.956,
+    "lon": 13.6484,
+    "population": 44313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rogoza",
+    "region": "Hoče–Slivnica Municipality",
+    "lat": 46.5,
+    "lon": 15.6833,
+    "population": 44265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zgornje Pirniče",
+    "region": "Medvode Municipality",
+    "lat": 46.1425,
+    "lon": 14.4316,
+    "population": 43979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dob",
+    "region": "Domžale Municipality",
+    "lat": 46.1519,
+    "lon": 14.6286,
+    "population": 43965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šentjernej",
+    "region": "Šentjernej Municipality",
+    "lat": 45.84,
+    "lon": 15.3361,
+    "population": 43874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leskova Dolina",
+    "region": "Loška Dolina Municipality",
+    "lat": 45.6214,
+    "lon": 14.4606,
+    "population": 43757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turnišče",
+    "region": "Turnišče Municipality",
+    "lat": 46.6278,
+    "lon": 16.3203,
+    "population": 43677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bistrica pri Tržiču",
+    "region": "Tržič Municipality",
+    "lat": 46.3547,
+    "lon": 14.2917,
+    "population": 43551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljutomer",
+    "region": "Ljutomer Municipality",
+    "lat": 46.5208,
+    "lon": 16.1975,
+    "population": 43513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornja Radgona",
+    "region": "Gornja Radgona Municipality",
+    "lat": 46.6733,
+    "lon": 15.9922,
+    "population": 43206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucija",
+    "region": "Piran Municipality",
+    "lat": 45.5053,
+    "lon": 13.6024,
+    "population": 43200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesenice",
+    "region": "Jesenice Municipality",
+    "lat": 46.4306,
+    "lon": 14.0669,
+    "population": 43195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bohinjska Bistrica",
+    "region": "Bohinj Municipality",
+    "lat": 46.2722,
+    "lon": 13.9535,
+    "population": 43154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šoštanj",
+    "region": "Šoštanj Municipality",
+    "lat": 46.38,
+    "lon": 15.0486,
+    "population": 43073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šempas",
+    "region": "Nova Gorica City Municipality",
+    "lat": 45.9303,
+    "lon": 13.7436,
+    "population": 43051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opština Ljubljana-Vič-Rudnik",
+    "region": "Brezovica Municipality",
+    "lat": 46.0333,
+    "lon": 14.4167,
+    "population": 42947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Litija",
+    "region": "Litija Municipality",
+    "lat": 46.0586,
+    "lon": 14.8225,
+    "population": 42894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kobarid",
+    "region": "Kobarid Municipality",
+    "lat": 46.2476,
+    "lon": 13.5791,
+    "population": 42867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žetale",
+    "region": "Žetale Municipality",
+    "lat": 46.2736,
+    "lon": 15.8266,
+    "population": 42863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šmartno pri Litiji",
+    "region": "Šmartno pri Litiji Municipality",
+    "lat": 46.0444,
+    "lon": 14.8442,
+    "population": 42593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mislinja",
+    "region": "Mislinja Municipality",
+    "lat": 46.4414,
+    "lon": 15.2003,
+    "population": 42585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Britof",
+    "region": "Kranj City Municipality",
+    "lat": 46.2602,
+    "lon": 14.3904,
+    "population": 42560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Legen",
+    "region": "Slovenj Gradec City Municipality",
+    "lat": 46.5065,
+    "lon": 15.1442,
+    "population": 42335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prevalje",
+    "region": "Prevalje Municipality",
+    "lat": 46.5469,
+    "lon": 14.9208,
+    "population": 42281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spodnja Hajdina",
+    "region": "Hajdina Municipality",
+    "lat": 46.4089,
+    "lon": 15.8469,
+    "population": 42213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benedikt",
+    "region": "Benedikt Municipality",
+    "lat": 46.6086,
+    "lon": 15.8883,
+    "population": 42157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zreče",
+    "region": "Zreče Municipality",
+    "lat": 46.3822,
+    "lon": 15.3792,
+    "population": 41734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krog",
+    "region": "Murska Sobota City Municipality",
+    "lat": 46.6381,
+    "lon": 16.1414,
+    "population": 41505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorišnica",
+    "region": "Gorišnica Municipality",
+    "lat": 46.4147,
+    "lon": 16.0139,
+    "population": 41476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrovo",
+    "region": "Brda Municipality",
+    "lat": 45.9964,
+    "lon": 13.5264,
+    "population": 41377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morje",
+    "region": "Rače–Fram Municipality",
+    "lat": 46.4444,
+    "lon": 15.6214,
+    "population": 41372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Videm",
+    "region": "Dobrepolje Municipality",
+    "lat": 45.85,
+    "lon": 14.6942,
+    "population": 41294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Semič",
+    "region": "Semič Municipality",
+    "lat": 45.6461,
+    "lon": 15.1822,
+    "population": 41072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sodražica",
+    "region": "Sodražica Municipality",
+    "lat": 45.7611,
+    "lon": 14.6356,
+    "population": 40981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senovo",
+    "region": "Municipality of Krško",
+    "lat": 46.0236,
+    "lon": 15.4769,
+    "population": 40976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivančna Gorica",
+    "region": "Ivančna Gorica Municipality",
+    "lat": 45.9383,
+    "lon": 14.8044,
+    "population": 40769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Log pri Brezovici",
+    "region": "Bohinj Municipality",
+    "lat": 46.0167,
+    "lon": 14.3667,
+    "population": 40484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cirkulane",
+    "region": "Ajdovščina Municipality",
+    "lat": 46.3441,
+    "lon": 15.9947,
+    "population": 40455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šempeter v Savinj. Dolini",
+    "region": "Žalec Municipality",
+    "lat": 46.2564,
+    "lon": 15.1219,
+    "population": 40390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrvatini",
+    "region": "Koper City Municipality",
+    "lat": 45.5828,
+    "lon": 13.7567,
+    "population": 40359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrna",
+    "region": "Dobrna Municipality",
+    "lat": 46.3375,
+    "lon": 15.2264,
+    "population": 40005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selnica ob Dravi",
+    "region": "Selnica ob Dravi Municipality",
+    "lat": 46.55,
+    "lon": 15.495,
+    "population": 39974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tišina",
+    "region": "Tišina Municipality",
+    "lat": 46.6581,
+    "lon": 16.0917,
+    "population": 39860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ig",
+    "region": "Ig Municipality",
+    "lat": 45.9603,
+    "lon": 14.5289,
+    "population": 39743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vransko",
+    "region": "Vransko Municipality",
+    "lat": 46.2439,
+    "lon": 14.9514,
+    "population": 39719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spodnje Hoče",
+    "region": "Hoče–Slivnica Municipality",
+    "lat": 46.5,
+    "lon": 15.65,
+    "population": 39546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mekinje",
+    "region": "Kamnik Municipality",
+    "lat": 46.2333,
+    "lon": 14.6167,
+    "population": 39232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zgornja Kungota",
+    "region": "Kungota",
+    "lat": 46.6392,
+    "lon": 15.6156,
+    "population": 39173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oplotnica",
+    "region": "Oplotnica",
+    "lat": 46.3878,
+    "lon": 15.4467,
+    "population": 39044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sv. Ana v Slov. Goricah",
+    "region": "Sveta Ana Municipality",
+    "lat": 46.6492,
+    "lon": 15.8442,
+    "population": 38964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lavrica",
+    "region": "Municipality of Škofljica",
+    "lat": 46,
+    "lon": 14.5573,
+    "population": 38701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šmartno pri Slovenj Gradcu",
+    "region": "Slovenj Gradec City Municipality",
+    "lat": 46.4894,
+    "lon": 15.1067,
+    "population": 38670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubno ob Savinji",
+    "region": "Ljubno Municipality",
+    "lat": 46.3436,
+    "lon": 14.8338,
+    "population": 38549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šentilj v Slov. Goricah",
+    "region": "Šentilj Municipality",
+    "lat": 46.6817,
+    "lon": 15.6481,
+    "population": 38374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Celje",
+    "region": "City Municipality of Celje",
+    "lat": 46.2309,
+    "lon": 15.2604,
+    "population": 38284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravne",
+    "region": "Šoštanj Municipality",
+    "lat": 46.4141,
+    "lon": 15.0609,
+    "population": 38141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moravče",
+    "region": "Moravče Municipality",
+    "lat": 46.1369,
+    "lon": 14.745,
+    "population": 38001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorenja Vas",
+    "region": "Gorenja Vas–Poljane Municipality",
+    "lat": 46.1072,
+    "lon": 14.1481,
+    "population": 37932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakovci",
+    "region": "Murska Sobota City Municipality",
+    "lat": 46.6189,
+    "lon": 16.1503,
+    "population": 37768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zabukovica",
+    "region": "Žalec Municipality",
+    "lat": 46.2141,
+    "lon": 15.1595,
+    "population": 37739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polzela",
+    "region": "Polzela Municipality",
+    "lat": 46.2833,
+    "lon": 15.0667,
+    "population": 37711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puconci",
+    "region": "Puconci Municipality",
+    "lat": 46.7067,
+    "lon": 16.1564,
+    "population": 37600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šmarje pri Jelšah",
+    "region": "Šmarje pri Jelšah Municipality",
+    "lat": 46.2272,
+    "lon": 15.5192,
+    "population": 37376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Renče",
+    "region": "Renče–Vogrsko Municipality",
+    "lat": 45.89,
+    "lon": 13.6686,
+    "population": 37318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokrica",
+    "region": "Kranj City Municipality",
+    "lat": 46.2703,
+    "lon": 14.3611,
+    "population": 37195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kromberk",
+    "region": "Nova Gorica City Municipality",
+    "lat": 45.9608,
+    "lon": 13.6656,
+    "population": 37154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hodoš",
+    "region": "Hodoš Municipality",
+    "lat": 46.8233,
+    "lon": 16.3342,
+    "population": 37077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slovenska Bistrica",
+    "region": "Slovenska Bistrica Municipality",
+    "lat": 46.3928,
+    "lon": 15.5744,
+    "population": 36861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokronog",
+    "region": "Brda Municipality",
+    "lat": 45.9342,
+    "lon": 15.1408,
+    "population": 36820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odranci",
+    "region": "Odranci Municipality",
+    "lat": 46.5867,
+    "lon": 16.2803,
+    "population": 36671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leskovec pri Krškem",
+    "region": "Municipality of Krško",
+    "lat": 45.9357,
+    "lon": 15.4718,
+    "population": 36603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubečna",
+    "region": "City Municipality of Celje",
+    "lat": 46.2557,
+    "lon": 15.3243,
+    "population": 36525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubljana",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0511,
+    "lon": 14.5051,
+    "population": 36498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komenda",
+    "region": "Komenda Municipality",
+    "lat": 46.2048,
+    "lon": 14.5384,
+    "population": 36475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vuzenica",
+    "region": "Vuzenica Municipality",
+    "lat": 46.5964,
+    "lon": 15.1672,
+    "population": 36391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maribor",
+    "region": "Maribor City Municipality",
+    "lat": 46.5547,
+    "lon": 15.6467,
+    "population": 36304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pesnica pri Mariboru",
+    "region": "Pesnica Municipality",
+    "lat": 46.6069,
+    "lon": 15.6767,
+    "population": 35860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ankaran",
+    "region": "Ankaran Municipality",
+    "lat": 45.5786,
+    "lon": 13.7361,
+    "population": 35677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podlehnik",
+    "region": "Podlehnik Municipality",
+    "lat": 46.3353,
+    "lon": 15.88,
+    "population": 35669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rožna Dolina",
+    "region": "Šempeter–Vrtojba Municipality",
+    "lat": 45.9419,
+    "lon": 13.6678,
+    "population": 35616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mlaka pri Kranju",
+    "region": "Kranj City Municipality",
+    "lat": 46.2833,
+    "lon": 14.35,
+    "population": 35456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koroška Bela",
+    "region": "Jesenice Municipality",
+    "lat": 46.4491,
+    "lon": 14.1113,
+    "population": 35255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vojnik",
+    "region": "Vojnik Municipality",
+    "lat": 46.2933,
+    "lon": 15.3033,
+    "population": 35219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Mesto",
+    "region": "City Municipality of Novo Mesto",
+    "lat": 45.804,
+    "lon": 15.1689,
+    "population": 35137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabor",
+    "region": "Tabor Municipality",
+    "lat": 46.2361,
+    "lon": 15.0183,
+    "population": 35018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotlje",
+    "region": "Ravne na Koroškem Municipality",
+    "lat": 46.5214,
+    "lon": 14.9869,
+    "population": 35012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trbovlje",
+    "region": "Trbovlje Municipality",
+    "lat": 46.155,
+    "lon": 15.0533,
+    "population": 34756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pekre",
+    "region": "Maribor City Municipality",
+    "lat": 46.5472,
+    "lon": 15.5956,
+    "population": 34500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Tomaž",
+    "region": "Sveti Tomaž Municipality",
+    "lat": 46.4842,
+    "lon": 16.0836,
+    "population": 34441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žužemberk",
+    "region": "Žužemberk Municipality",
+    "lat": 45.8339,
+    "lon": 14.9292,
+    "population": 34389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podvelka",
+    "region": "Podvelka Municipality",
+    "lat": 46.5869,
+    "lon": 15.3306,
+    "population": 34297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dekani",
+    "region": "Koper City Municipality",
+    "lat": 45.5497,
+    "lon": 13.8136,
+    "population": 34174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dol pri Hrastniku",
+    "region": "Hrastnik Municipality",
+    "lat": 46.1419,
+    "lon": 15.1128,
+    "population": 34125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opština Ljubljana-Center",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.05,
+    "lon": 14.5333,
+    "population": 33865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rečica ob Savinji",
+    "region": "Brezovica Municipality",
+    "lat": 46.3167,
+    "lon": 14.9167,
+    "population": 33566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verd",
+    "region": "Vrhnika Municipality",
+    "lat": 45.9567,
+    "lon": 14.3058,
+    "population": 33493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pivka",
+    "region": "Pivka Municipality",
+    "lat": 45.6829,
+    "lon": 14.1959,
+    "population": 33474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fram",
+    "region": "Rače–Fram Municipality",
+    "lat": 46.456,
+    "lon": 15.6301,
+    "population": 33358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horjul",
+    "region": "Horjul Municipality",
+    "lat": 46.0236,
+    "lon": 14.2992,
+    "population": 33300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sevnica",
+    "region": "Sevnica Municipality",
+    "lat": 46.0078,
+    "lon": 15.3156,
+    "population": 33255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sv. Trojica v Slov. Goricah",
+    "region": "Sveta Trojica v Slovenskih Goricah Municipality",
+    "lat": 46.5767,
+    "lon": 15.8769,
+    "population": 33191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sežana",
+    "region": "Sežana Municipality",
+    "lat": 45.7092,
+    "lon": 13.8733,
+    "population": 32864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilje",
+    "region": "Miren–Kostanjevica Municipality",
+    "lat": 45.8944,
+    "lon": 13.6322,
+    "population": 32265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Divača",
+    "region": "Divača Municipality",
+    "lat": 45.6847,
+    "lon": 13.9703,
+    "population": 31896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trebnje",
+    "region": "Trebnje Municipality",
+    "lat": 45.9042,
+    "lon": 15.0217,
+    "population": 31864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beltinci",
+    "region": "Beltinci Municipality",
+    "lat": 46.6053,
+    "lon": 16.2406,
+    "population": 31672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golnik",
+    "region": "Kranj City Municipality",
+    "lat": 46.3333,
+    "lon": 14.3333,
+    "population": 31515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Preddvor",
+    "region": "Preddvor Municipality",
+    "lat": 46.3025,
+    "lon": 14.4231,
+    "population": 31406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brežice",
+    "region": "Brežice Municipality",
+    "lat": 45.9033,
+    "lon": 15.5911,
+    "population": 31386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zgornje Jezersko",
+    "region": "Jezersko Municipality",
+    "lat": 46.3941,
+    "lon": 14.5066,
+    "population": 31205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrastnik",
+    "region": "Hrastnik Municipality",
+    "lat": 46.1461,
+    "lon": 15.0814,
+    "population": 31023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selnica ob Muri",
+    "region": "Šentilj Municipality",
+    "lat": 46.6833,
+    "lon": 15.7,
+    "population": 30979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luče",
+    "region": "Luče Municipality",
+    "lat": 46.3561,
+    "lon": 14.7467,
+    "population": 30838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Črna na Koroškem",
+    "region": "Črna na Koroškem Municipality",
+    "lat": 46.4704,
+    "lon": 14.8501,
+    "population": 30826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domžale",
+    "region": "Domžale Municipality",
+    "lat": 46.1377,
+    "lon": 14.5937,
+    "population": 30689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slovenj Gradec",
+    "region": "Slovenj Gradec City Municipality",
+    "lat": 46.5103,
+    "lon": 15.0806,
+    "population": 30668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vnanje Gorice",
+    "region": "Brezovica Municipality",
+    "lat": 46.0072,
+    "lon": 14.4219,
+    "population": 30631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Polana",
+    "region": "Velika Polana Municipality",
+    "lat": 46.5719,
+    "lon": 16.3469,
+    "population": 30521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moravske Toplice",
+    "region": "Moravske Toplice Municipality",
+    "lat": 46.6831,
+    "lon": 16.2208,
+    "population": 30482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Črnomelj",
+    "region": "Črnomelj Municipality",
+    "lat": 45.5711,
+    "lon": 15.1889,
+    "population": 30477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jagodje",
+    "region": "Izola Municipality",
+    "lat": 45.5284,
+    "lon": 13.6472,
+    "population": 30172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topolšica",
+    "region": "Šoštanj Municipality",
+    "lat": 46.4003,
+    "lon": 15.0216,
+    "population": 30172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mengeš",
+    "region": "Mengeš Municipality",
+    "lat": 46.1669,
+    "lon": 14.575,
+    "population": 30167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajdovščina",
+    "region": "Ajdovščina Municipality",
+    "lat": 45.886,
+    "lon": 13.9095,
+    "population": 29903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šmartno ob Paki",
+    "region": "Šmartno ob Paki Municipality",
+    "lat": 46.3333,
+    "lon": 15.0333,
+    "population": 29882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dornava",
+    "region": "Dornava Municipality",
+    "lat": 46.4367,
+    "lon": 15.9536,
+    "population": 29713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozje",
+    "region": "Kozje Municipality",
+    "lat": 46.075,
+    "lon": 15.5603,
+    "population": 29500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izlake",
+    "region": "Zagorje ob Savi Municipality",
+    "lat": 46.15,
+    "lon": 14.95,
+    "population": 29361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zgornji Duplek",
+    "region": "Duplek Municipality",
+    "lat": 46.5136,
+    "lon": 15.7208,
+    "population": 29222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hotinja Vas",
+    "region": "Hoče–Slivnica Municipality",
+    "lat": 46.4667,
+    "lon": 15.6667,
+    "population": 29163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vitanje",
+    "region": "Vitanje Municipality",
+    "lat": 46.3817,
+    "lon": 15.2958,
+    "population": 29028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juršinci",
+    "region": "Juršinci Municipality",
+    "lat": 46.4847,
+    "lon": 15.9714,
+    "population": 28959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izola",
+    "region": "Izola Municipality",
+    "lat": 45.5369,
+    "lon": 13.6619,
+    "population": 28939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrovnik",
+    "region": "Dobrovnik Municipality",
+    "lat": 46.6514,
+    "lon": 16.3525,
+    "population": 28884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Jurij ob Ščavnici",
+    "region": "Sveti Jurij v Slovenskih Goricah Municipality",
+    "lat": 46.5695,
+    "lon": 16.0235,
+    "population": 28878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laško",
+    "region": "Laško Municipality",
+    "lat": 46.1546,
+    "lon": 15.2355,
+    "population": 28692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kočevje",
+    "region": "Kočevje Municipality",
+    "lat": 45.6433,
+    "lon": 14.8633,
+    "population": 28683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šempeter pri Gorici",
+    "region": "Šempeter–Vrtojba Municipality",
+    "lat": 45.9275,
+    "lon": 13.6411,
+    "population": 28652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trzin",
+    "region": "Trzin Municipality",
+    "lat": 46.1333,
+    "lon": 14.5667,
+    "population": 28190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Škofljica",
+    "region": "Municipality of Škofljica",
+    "lat": 45.9833,
+    "lon": 14.5767,
+    "population": 28079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osilnica",
+    "region": "Osilnica Municipality",
+    "lat": 45.5291,
+    "lon": 14.6984,
+    "population": 28019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komen",
+    "region": "Komen Municipality",
+    "lat": 45.8153,
+    "lon": 13.7483,
+    "population": 27994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žalec",
+    "region": "Žalec Municipality",
+    "lat": 46.2515,
+    "lon": 15.1648,
+    "population": 27863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grosuplje",
+    "region": "Grosuplje Municipality",
+    "lat": 45.9556,
+    "lon": 14.6589,
+    "population": 27747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pragersko",
+    "region": "Slovenska Bistrica Municipality",
+    "lat": 46.3967,
+    "lon": 15.66,
+    "population": 27328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majšperk",
+    "region": "Majšperk Municipality",
+    "lat": 46.3517,
+    "lon": 15.7336,
+    "population": 27256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tržič",
+    "region": "Tržič Municipality",
+    "lat": 46.3636,
+    "lon": 14.3105,
+    "population": 27249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bovec",
+    "region": "Bovec Municipality",
+    "lat": 46.3381,
+    "lon": 13.5525,
+    "population": 27083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kostel",
+    "region": "Kostel Municipality",
+    "lat": 45.5084,
+    "lon": 14.9101,
+    "population": 26948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rogatec",
+    "region": "Rogatec Municipality",
+    "lat": 46.2294,
+    "lon": 15.7003,
+    "population": 26872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makole",
+    "region": "Borovnica Municipality",
+    "lat": 46.3172,
+    "lon": 15.6672,
+    "population": 26842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrtojba",
+    "region": "Šempeter–Vrtojba Municipality",
+    "lat": 45.9125,
+    "lon": 13.6342,
+    "population": 26837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rožnik District",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.06,
+    "lon": 14.4678,
+    "population": 26805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kranjska Gora",
+    "region": "Kranjska Gora Municipality",
+    "lat": 46.4569,
+    "lon": 13.7782,
+    "population": 26642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Destrnik",
+    "region": "Destrnik Municipality",
+    "lat": 46.4925,
+    "lon": 15.8789,
+    "population": 26609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šentrupert",
+    "region": "Šentrupert Municipality",
+    "lat": 45.9778,
+    "lon": 15.0956,
+    "population": 26564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vipava",
+    "region": "Vipava Municipality",
+    "lat": 45.8467,
+    "lon": 13.9631,
+    "population": 26245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Škofja Loka",
+    "region": "Škofja Loka Municipality",
+    "lat": 46.1655,
+    "lon": 14.3063,
+    "population": 26244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gančani",
+    "region": "Beltinci Municipality",
+    "lat": 46.6325,
+    "lon": 16.2511,
+    "population": 26000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravne na Koroškem",
+    "region": "Ravne na Koroškem Municipality",
+    "lat": 46.5431,
+    "lon": 14.9692,
+    "population": 25857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Volčja Draga",
+    "region": "Renče–Vogrsko Municipality",
+    "lat": 45.9069,
+    "lon": 13.6775,
+    "population": 25841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dol pri Ljubljani",
+    "region": "Dol pri Ljubljani Municipality",
+    "lat": 46.0886,
+    "lon": 14.6008,
+    "population": 25770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lokavec",
+    "region": "Ajdovščina Municipality",
+    "lat": 45.9017,
+    "lon": 13.8797,
+    "population": 25724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spodnji Duplek",
+    "region": "Duplek Municipality",
+    "lat": 46.5031,
+    "lon": 15.7453,
+    "population": 25571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Logatec",
+    "region": "Logatec Municipality",
+    "lat": 45.9144,
+    "lon": 14.2258,
+    "population": 25494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opčina Ljubljana-Bežigrad",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0833,
+    "lon": 14.5333,
+    "population": 25406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velike Lašče",
+    "region": "Velike Lašče Municipality",
+    "lat": 45.8322,
+    "lon": 14.6364,
+    "population": 25252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moste",
+    "region": "Komenda Municipality",
+    "lat": 46.195,
+    "lon": 14.5514,
+    "population": 25080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Černelavci",
+    "region": "Murska Sobota City Municipality",
+    "lat": 46.6667,
+    "lon": 16.1333,
+    "population": 24998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Grad",
+    "region": "Gornji Grad Municipality",
+    "lat": 46.2953,
+    "lon": 14.8083,
+    "population": 24522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murska Sobota",
+    "region": "Murska Sobota City Municipality",
+    "lat": 46.6625,
+    "lon": 16.1664,
+    "population": 24270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seča",
+    "region": "Piran Municipality",
+    "lat": 45.4958,
+    "lon": 13.6147,
+    "population": 24236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Železniki",
+    "region": "Železniki Municipality",
+    "lat": 46.2248,
+    "lon": 14.1721,
+    "population": 24151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobje pri Planini",
+    "region": "Dobje Municipality",
+    "lat": 46.1375,
+    "lon": 15.3941,
+    "population": 24070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braslovče",
+    "region": "Braslovče Municipality",
+    "lat": 46.2897,
+    "lon": 15.0389,
+    "population": 23940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muta",
+    "region": "Muta Municipality",
+    "lat": 46.6114,
+    "lon": 15.1661,
+    "population": 23676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spodnje Škofije",
+    "region": "Koper City Municipality",
+    "lat": 45.5717,
+    "lon": 13.7925,
+    "population": 23440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lesce",
+    "region": "Radovljica Municipality",
+    "lat": 46.3611,
+    "lon": 14.1578,
+    "population": 23359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vič District",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0078,
+    "lon": 14.4697,
+    "population": 23345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rogašovci",
+    "region": "Rogašovci Municipality",
+    "lat": 46.8,
+    "lon": 16.0333,
+    "population": 23091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miren",
+    "region": "Miren–Kostanjevica Municipality",
+    "lat": 45.8956,
+    "lon": 13.6075,
+    "population": 22825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žiri",
+    "region": "Žiri Municipality",
+    "lat": 46.0422,
+    "lon": 14.1072,
+    "population": 22680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šmarca",
+    "region": "Kamnik Municipality",
+    "lat": 46.1933,
+    "lon": 14.5967,
+    "population": 22639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakičan",
+    "region": "Murska Sobota City Municipality",
+    "lat": 46.6517,
+    "lon": 16.2042,
+    "population": 22628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zgornje Bitnje",
+    "region": "Kranj City Municipality",
+    "lat": 46.22,
+    "lon": 14.3367,
+    "population": 22561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žirovnica",
+    "region": "Žirovnica Municipality",
+    "lat": 46.4047,
+    "lon": 14.14,
+    "population": 22471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Starše",
+    "region": "Starše Municipality",
+    "lat": 46.4658,
+    "lon": 15.7672,
+    "population": 22468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dravograd",
+    "region": "Dravograd Municipality",
+    "lat": 46.5881,
+    "lon": 15.0192,
+    "population": 22288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šalovci",
+    "region": "Šalovci Municipality",
+    "lat": 46.825,
+    "lon": 16.2981,
+    "population": 22201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radizel",
+    "region": "Hoče–Slivnica Municipality",
+    "lat": 46.4744,
+    "lon": 15.6558,
+    "population": 22181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrastje",
+    "region": "Šenčur Municipality",
+    "lat": 46.2167,
+    "lon": 14.4,
+    "population": 22142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrušica",
+    "region": "Jesenice Municipality",
+    "lat": 46.445,
+    "lon": 14.0178,
+    "population": 22109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grad",
+    "region": "Grad Municipality",
+    "lat": 46.8,
+    "lon": 16.1,
+    "population": 21992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerkno",
+    "region": "Cerkno Municipality",
+    "lat": 46.1256,
+    "lon": 13.9817,
+    "population": 21882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trnovlje pri Celju",
+    "region": "City Municipality of Celje",
+    "lat": 46.2567,
+    "lon": 15.2953,
+    "population": 21766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrhnika",
+    "region": "Vrhnika Municipality",
+    "lat": 45.9635,
+    "lon": 14.2948,
+    "population": 21662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šmarjeta",
+    "region": "Šmarješke Toplice Municipality",
+    "lat": 45.8833,
+    "lon": 15.25,
+    "population": 21552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slovenske Konjice",
+    "region": "Slovenske Konjice Municipality",
+    "lat": 46.3367,
+    "lon": 15.4258,
+    "population": 21542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borovnica",
+    "region": "Borovnica Municipality",
+    "lat": 45.9158,
+    "lon": 14.3631,
+    "population": 21531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Razvanje",
+    "region": "Maribor City Municipality",
+    "lat": 46.5144,
+    "lon": 15.6361,
+    "population": 21483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ormož",
+    "region": "Ormož Municipality",
+    "lat": 46.4114,
+    "lon": 16.1544,
+    "population": 21432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanal",
+    "region": "Kanal ob Soči Municipality",
+    "lat": 46.0886,
+    "lon": 13.6397,
+    "population": 21173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ribnica",
+    "region": "Ribnica Municipality",
+    "lat": 45.7386,
+    "lon": 14.7275,
+    "population": 21170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markovci",
+    "region": "Markovci Municipality",
+    "lat": 46.3956,
+    "lon": 15.9283,
+    "population": 20955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idrija",
+    "region": "Idrija Municipality",
+    "lat": 46.0028,
+    "lon": 14.0306,
+    "population": 20749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Križevci pri Ljutomeru",
+    "region": "Križevci Municipality",
+    "lat": 46.5683,
+    "lon": 16.1386,
+    "population": 20428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deskle",
+    "region": "Kanal ob Soči Municipality",
+    "lat": 46.0531,
+    "lon": 13.6138,
+    "population": 20359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerklje na Gorenjskem",
+    "region": "Cerklje na Gorenjskem Municipality",
+    "lat": 46.2542,
+    "lon": 14.4886,
+    "population": 20117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zasip",
+    "region": "Bled Municipality",
+    "lat": 46.3928,
+    "lon": 14.1087,
+    "population": 19653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zgornje Gorje",
+    "region": "Beltinci Municipality",
+    "lat": 46.3796,
+    "lon": 14.0694,
+    "population": 19586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rače",
+    "region": "Rače–Fram Municipality",
+    "lat": 46.4519,
+    "lon": 15.6814,
+    "population": 19434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prvačina",
+    "region": "Nova Gorica City Municipality",
+    "lat": 45.89,
+    "lon": 13.7181,
+    "population": 19332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poljčane",
+    "region": "Brežice Municipality",
+    "lat": 46.3119,
+    "lon": 15.5792,
+    "population": 19257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilirska Bistrica",
+    "region": "Municipality of Ilirska Bistrica",
+    "lat": 45.5676,
+    "lon": 14.2457,
+    "population": 19028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Preserje pri Radomljah",
+    "region": "Mengeš Municipality",
+    "lat": 46.1691,
+    "lon": 14.597,
+    "population": 18788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medvode",
+    "region": "Medvode Municipality",
+    "lat": 46.1422,
+    "lon": 14.4111,
+    "population": 18620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bistrica ob Dravi",
+    "region": "Ruše Municipality",
+    "lat": 46.5542,
+    "lon": 15.5486,
+    "population": 18511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamnica",
+    "region": "Maribor City Municipality",
+    "lat": 46.5744,
+    "lon": 15.6142,
+    "population": 17849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nazarje",
+    "region": "Nazarje Municipality",
+    "lat": 46.3176,
+    "lon": 14.9467,
+    "population": 17480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radomlje",
+    "region": "Domžale Municipality",
+    "lat": 46.1736,
+    "lon": 14.6122,
+    "population": 17016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šmarje-Sap",
+    "region": "Grosuplje Municipality",
+    "lat": 45.9762,
+    "lon": 14.6118,
+    "population": 16996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kranj",
+    "region": "Kranj City Municipality",
+    "lat": 46.2389,
+    "lon": 14.3556,
+    "population": 16799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mozirje",
+    "region": "Mozirje Municipality",
+    "lat": 46.3394,
+    "lon": 14.9633,
+    "population": 16691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apače",
+    "region": "Municipality of Apače",
+    "lat": 46.6972,
+    "lon": 15.9106,
+    "population": 16450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Straža",
+    "region": "Straža Municipality",
+    "lat": 45.78,
+    "lon": 15.0728,
+    "population": 16446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naklo",
+    "region": "Naklo Municipality",
+    "lat": 46.2728,
+    "lon": 14.3172,
+    "population": 16360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sostro District",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0434,
+    "lon": 14.6729,
+    "population": 16326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukovica pri Domžalah",
+    "region": "Lukovica Municipality",
+    "lat": 46.1699,
+    "lon": 14.6918,
+    "population": 16233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamnik",
+    "region": "Kamnik Municipality",
+    "lat": 46.2259,
+    "lon": 14.6121,
+    "population": 16046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sv. Anton",
+    "region": "Koper City Municipality",
+    "lat": 45.5258,
+    "lon": 13.8319,
+    "population": 15997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruše",
+    "region": "Ruše Municipality",
+    "lat": 46.5394,
+    "lon": 15.5158,
+    "population": 15775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Postojna",
+    "region": "Postojna Municipality",
+    "lat": 45.7743,
+    "lon": 14.2153,
+    "population": 15772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dragomer",
+    "region": "Bohinj Municipality",
+    "lat": 46.0167,
+    "lon": 14.3833,
+    "population": 15572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radovljica",
+    "region": "Radovljica Municipality",
+    "lat": 46.3444,
+    "lon": 14.1744,
+    "population": 15210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vitomarci",
+    "region": "Sveti Andraž v Slovenskih Goricah Municipality",
+    "lat": 46.5275,
+    "lon": 15.9394,
+    "population": 14910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portorož",
+    "region": "Piran Municipality",
+    "lat": 45.5143,
+    "lon": 13.5921,
+    "population": 14747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovrenc na Pohorju",
+    "region": "Lovrenc na Pohorju Municipality",
+    "lat": 46.5406,
+    "lon": 15.3931,
+    "population": 14727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vodice",
+    "region": "Vodice Municipality",
+    "lat": 46.1899,
+    "lon": 14.4949,
+    "population": 14695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lipovci",
+    "region": "Beltinci Municipality",
+    "lat": 46.6283,
+    "lon": 16.2281,
+    "population": 14445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mojstrana",
+    "region": "Kranjska Gora Municipality",
+    "lat": 46.4238,
+    "lon": 13.8752,
+    "population": 14401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Središče ob Dravi",
+    "region": "Središče ob Dravi",
+    "lat": 46.3942,
+    "lon": 16.2681,
+    "population": 14354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisovec",
+    "region": "Zagorje ob Savi Municipality",
+    "lat": 46.1391,
+    "lon": 14.9629,
+    "population": 14288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trnovo District",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0241,
+    "lon": 14.4889,
+    "population": 14129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bled",
+    "region": "Bled Municipality",
+    "lat": 46.3692,
+    "lon": 14.1136,
+    "population": 13829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opština Ljubljana-Moste-Polje",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0667,
+    "lon": 14.6167,
+    "population": 13719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cankova",
+    "region": "Cankova Municipality",
+    "lat": 46.7208,
+    "lon": 16.0225,
+    "population": 13432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Črenšovci",
+    "region": "Črenšovci Municipality",
+    "lat": 46.5579,
+    "lon": 16.3041,
+    "population": 13415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Štore",
+    "region": "Štore Municipality",
+    "lat": 46.2208,
+    "lon": 15.3139,
+    "population": 13374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenart v Slov. Goricah",
+    "region": "Lenart Municipality",
+    "lat": 46.5761,
+    "lon": 15.8314,
+    "population": 13327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radenci",
+    "region": "Radenci Municipality",
+    "lat": 46.642,
+    "lon": 16.0378,
+    "population": 13089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrib-Loški Potok",
+    "region": "Loški Potok Municipality",
+    "lat": 45.7069,
+    "lon": 14.6167,
+    "population": 13019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piran",
+    "region": "Piran Municipality",
+    "lat": 45.5278,
+    "lon": 13.5706,
+    "population": 12712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bistrica ob Sotli",
+    "region": "Bistrica ob Sotli Municipality",
+    "lat": 46.0589,
+    "lon": 15.6642,
+    "population": 12676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sv. Duh",
+    "region": "Škofja Loka Municipality",
+    "lat": 46.1833,
+    "lon": 14.3333,
+    "population": 12638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krško",
+    "region": "Municipality of Krško",
+    "lat": 45.9592,
+    "lon": 15.4917,
+    "population": 12232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pobegi",
+    "region": "Koper City Municipality",
+    "lat": 45.5394,
+    "lon": 13.7961,
+    "population": 12213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kidričevo",
+    "region": "Kidričevo Municipality",
+    "lat": 46.4036,
+    "lon": 15.7911,
+    "population": 12139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuzma",
+    "region": "Kuzma Municipality",
+    "lat": 46.8369,
+    "lon": 16.0833,
+    "population": 12108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miklavž na Dravskem Polju",
+    "region": "Miklavž na Dravskem Polju Municipality",
+    "lat": 46.5058,
+    "lon": 15.6972,
+    "population": 12063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solčava",
+    "region": "Solčava Municipality",
+    "lat": 46.4194,
+    "lon": 14.6936,
+    "population": 11974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zavrč",
+    "region": "Zavrč Municipality",
+    "lat": 46.3917,
+    "lon": 16.0497,
+    "population": 11607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrova",
+    "region": "Dobrova–Polhov Gradec Municipality",
+    "lat": 46.0458,
+    "lon": 14.3919,
+    "population": 11527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dravlje District",
+    "region": "Ljubljana City Municipality",
+    "lat": 46.0729,
+    "lon": 14.4474,
+    "population": 11350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podčetrtek",
+    "region": "Podčetrtek Municipality",
+    "lat": 46.1569,
+    "lon": 15.5986,
+    "population": 11316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerknica",
+    "region": "Cerknica Municipality",
+    "lat": 45.7931,
+    "lon": 14.3625,
+    "population": 11314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pameče",
+    "region": "Slovenj Gradec City Municipality",
+    "lat": 46.5342,
+    "lon": 15.0792,
+    "population": 11039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rogaška Slatina",
+    "region": "Rogaška Slatina Municipality",
+    "lat": 46.2375,
+    "lon": 15.6397,
+    "population": 10998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerkvenjak",
+    "region": "Cerkvenjak Municipality",
+    "lat": 46.5706,
+    "lon": 15.9436,
+    "population": 10865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radlje ob Dravi",
+    "region": "Radlje ob Dravi Municipality",
+    "lat": 46.6142,
+    "lon": 15.2264,
+    "population": 10628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šentjur",
+    "region": "Šentjur Municipality",
+    "lat": 46.2172,
+    "lon": 15.3975,
+    "population": 10622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radeče",
+    "region": "Radeče Municipality",
+    "lat": 46.0681,
+    "lon": 15.1839,
+    "population": 10398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brezovica pri Ljubljani",
+    "region": "Brezovica Municipality",
+    "lat": 46.0333,
+    "lon": 14.4,
+    "population": 10295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozina",
+    "region": "Hrpelje–Kozina Municipality",
+    "lat": 45.61,
+    "lon": 13.9356,
+    "population": 10193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koper",
+    "region": "Koper City Municipality",
+    "lat": 45.5469,
+    "lon": 13.7294,
+    "population": 10121,
+    "timezone": "UTC"
+  }
+]

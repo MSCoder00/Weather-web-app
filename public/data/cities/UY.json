@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "Bella Vista",
+    "region": "Montevideo Department",
+    "lat": -34.8753,
+    "lon": -56.1867,
+    "population": 49313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo París",
+    "region": "Montevideo Department",
+    "lat": -34.8333,
+    "lon": -56.25,
+    "population": 48642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinidad",
+    "region": "Flores Department",
+    "lat": -33.5165,
+    "lon": -56.8996,
+    "population": 47679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lascano",
+    "region": "Rocha Department",
+    "lat": -33.6724,
+    "lon": -54.2065,
+    "population": 47424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Floresta",
+    "region": "Canelones Department",
+    "lat": -34.7557,
+    "lon": -55.6814,
+    "population": 46936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Maldonado Department",
+    "lat": -34.7912,
+    "lon": -54.9182,
+    "population": 46926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canelones",
+    "region": "Canelones Department",
+    "lat": -34.5228,
+    "lon": -56.2778,
+    "population": 46873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "José Batlle y Ordóñez",
+    "region": "Lavalleja Department",
+    "lat": -33.4667,
+    "lon": -55.1167,
+    "population": 46855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolores",
+    "region": "Soriano Department",
+    "lat": -33.5301,
+    "lon": -58.217,
+    "population": 46642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bautista",
+    "region": "Canelones Department",
+    "lat": -34.4402,
+    "lon": -55.9586,
+    "population": 46545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maroñas",
+    "region": "Montevideo Department",
+    "lat": -34.8634,
+    "lon": -56.1296,
+    "population": 46415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sauce",
+    "region": "Canelones Department",
+    "lat": -34.6519,
+    "lon": -56.0643,
+    "population": 46322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia del Sacramento",
+    "region": "Colonia Department",
+    "lat": -34.4626,
+    "lon": -57.8398,
+    "population": 46312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayage",
+    "region": "Montevideo Department",
+    "lat": -34.8358,
+    "lon": -56.2125,
+    "population": 45703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vichadero",
+    "region": "Rivera Department",
+    "lat": -31.7779,
+    "lon": -54.6918,
+    "population": 45452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buceo",
+    "region": "Montevideo Department",
+    "lat": -34.9,
+    "lon": -56.1331,
+    "population": 44967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedras Coloradas",
+    "region": "Paysandú Department",
+    "lat": -32.3718,
+    "lon": -57.609,
+    "population": 44464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Carretas",
+    "region": "Montevideo Department",
+    "lat": -34.9219,
+    "lon": -56.1594,
+    "population": 44325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz",
+    "region": "Canelones Department",
+    "lat": -34.7603,
+    "lon": -56.2259,
+    "population": 43913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Piedras",
+    "region": "Canelones Department",
+    "lat": -34.7302,
+    "lon": -56.2191,
+    "population": 43380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Migues",
+    "region": "Canelones Department",
+    "lat": -34.4876,
+    "lon": -55.6279,
+    "population": 43246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vergara",
+    "region": "Treinta y Tres Department",
+    "lat": -32.9442,
+    "lon": -53.9381,
+    "population": 43038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "José Pedro Varela",
+    "region": "Lavalleja Department",
+    "lat": -33.4545,
+    "lon": -54.5359,
+    "population": 43006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cebollatí",
+    "region": "Rocha Department",
+    "lat": -33.267,
+    "lon": -53.7942,
+    "population": 42886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Conciliación",
+    "region": "Montevideo Department",
+    "lat": -34.8236,
+    "lon": -56.2319,
+    "population": 42821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan L. Lacaze",
+    "region": "Colonia Department",
+    "lat": -34.4189,
+    "lon": -57.4528,
+    "population": 42510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delta del Tigre",
+    "region": "San José Department",
+    "lat": -34.7649,
+    "lon": -56.3645,
+    "population": 42326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fray Bentos",
+    "region": "Río Negro Department",
+    "lat": -33.1165,
+    "lon": -58.3107,
+    "population": 41619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dieciocho de Julio",
+    "region": "Rocha Department",
+    "lat": -33.6822,
+    "lon": -53.5532,
+    "population": 41291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Palmira",
+    "region": "Colonia Department",
+    "lat": -33.8703,
+    "lon": -58.4118,
+    "population": 41260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paysandú",
+    "region": "Paysandú Department",
+    "lat": -32.3171,
+    "lon": -58.0807,
+    "population": 41024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariscala",
+    "region": "Lavalleja Department",
+    "lat": -34.0408,
+    "lon": -54.7773,
+    "population": 40797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soca",
+    "region": "Canelones Department",
+    "lat": -34.6843,
+    "lon": -55.702,
+    "population": 40714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Félix",
+    "region": "Paysandú Department",
+    "lat": -32.3463,
+    "lon": -58.1009,
+    "population": 39913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cordón",
+    "region": "Montevideo Department",
+    "lat": -34.9,
+    "lon": -56.1786,
+    "population": 39753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aiguá",
+    "region": "Maldonado Department",
+    "lat": -34.205,
+    "lon": -54.7567,
+    "population": 39645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivera",
+    "region": "Rivera Department",
+    "lat": -30.9053,
+    "lon": -55.5508,
+    "population": 39288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "25 de Agosto",
+    "region": "Florida Department",
+    "lat": -34.4117,
+    "lon": -56.4022,
+    "population": 38553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmitas",
+    "region": "Soriano Department",
+    "lat": -33.5072,
+    "lon": -57.8008,
+    "population": 38536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malvín",
+    "region": "Montevideo Department",
+    "lat": -34.8935,
+    "lon": -56.0999,
+    "population": 38125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa del Cerro",
+    "region": "Montevideo Department",
+    "lat": -34.8844,
+    "lon": -56.2514,
+    "population": 38063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rocha",
+    "region": "Rocha Department",
+    "lat": -34.4833,
+    "lon": -54.3333,
+    "population": 37784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paso de los Toros",
+    "region": "Tacuarembó Department",
+    "lat": -32.8167,
+    "lon": -56.5167,
+    "population": 37611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Javier",
+    "region": "Río Negro Department",
+    "lat": -32.6652,
+    "lon": -58.1332,
+    "population": 37487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta del Este",
+    "region": "Maldonado Department",
+    "lat": -34.9475,
+    "lon": -54.9338,
+    "population": 37274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durazno",
+    "region": "Durazno Department",
+    "lat": -33.3806,
+    "lon": -56.5236,
+    "population": 36801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reducto",
+    "region": "Montevideo Department",
+    "lat": -34.8783,
+    "lon": -56.1896,
+    "population": 36740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tranqueras",
+    "region": "Rivera Department",
+    "lat": -31.2,
+    "lon": -55.75,
+    "population": 36492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pando",
+    "region": "Canelones Department",
+    "lat": -34.7172,
+    "lon": -55.9584,
+    "population": 36402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paloma",
+    "region": "Durazno Department",
+    "lat": -32.7269,
+    "lon": -55.5827,
+    "population": 35865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Libertad",
+    "region": "San José Department",
+    "lat": -34.6346,
+    "lon": -56.6174,
+    "population": 35630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago Vázquez",
+    "region": "Montevideo Department",
+    "lat": -34.7903,
+    "lon": -56.35,
+    "population": 35294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón Centro y Noroeste",
+    "region": "Montevideo Department",
+    "lat": -34.8023,
+    "lon": -56.2241,
+    "population": 35267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrasco",
+    "region": "Montevideo Department",
+    "lat": -34.8833,
+    "lon": -56.0667,
+    "population": 35122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aceguá",
+    "region": "Cerro Largo Department",
+    "lat": -31.8718,
+    "lon": -54.1635,
+    "population": 35090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Progreso",
+    "region": "Canelones Department",
+    "lat": -34.6674,
+    "lon": -56.2176,
+    "population": 34955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carmelo",
+    "region": "Colonia Department",
+    "lat": -34.0002,
+    "lon": -58.284,
+    "population": 34859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curtina",
+    "region": "Tacuarembó Department",
+    "lat": -32.15,
+    "lon": -56.1167,
+    "population": 34768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puntas de Valdéz",
+    "region": "San José Department",
+    "lat": -34.5855,
+    "lon": -56.701,
+    "population": 34221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Soriano",
+    "region": "Soriano Department",
+    "lat": -33.3981,
+    "lon": -58.3218,
+    "population": 34209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barros Blancos",
+    "region": "Canelones Department",
+    "lat": -34.7524,
+    "lon": -56.0026,
+    "population": 34115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isidoro Noblía",
+    "region": "Cerro Largo Department",
+    "lat": -31.9622,
+    "lon": -54.1231,
+    "population": 33950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Piedras",
+    "region": "Artigas Department",
+    "lat": -30.262,
+    "lon": -57.5817,
+    "population": 33922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paso del Molino",
+    "region": "Montevideo Department",
+    "lat": -34.85,
+    "lon": -56.2167,
+    "population": 33729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Helvecia",
+    "region": "Colonia Department",
+    "lat": -34.3,
+    "lon": -57.2333,
+    "population": 33180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estación Porvenir",
+    "region": "Paysandú Department",
+    "lat": -32.3708,
+    "lon": -57.8537,
+    "population": 33036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minas",
+    "region": "Lavalleja Department",
+    "lat": -34.3759,
+    "lon": -55.2377,
+    "population": 32881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atlántida",
+    "region": "Canelones Department",
+    "lat": -34.7719,
+    "lon": -55.7584,
+    "population": 32430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tupambaé",
+    "region": "Cerro Largo Department",
+    "lat": -32.8333,
+    "lon": -54.7667,
+    "population": 32016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ramón",
+    "region": "Canelones Department",
+    "lat": -34.2916,
+    "lon": -55.9557,
+    "population": 30544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarariras",
+    "region": "Colonia Department",
+    "lat": -34.2655,
+    "lon": -57.6187,
+    "population": 30086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Española",
+    "region": "Montevideo Department",
+    "lat": -34.8639,
+    "lon": -56.1447,
+    "population": 29833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Clara de Olimar",
+    "region": "Treinta y Tres Department",
+    "lat": -32.9225,
+    "lon": -54.9445,
+    "population": 29100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Branco",
+    "region": "Cerro Largo Department",
+    "lat": -32.598,
+    "lon": -53.3858,
+    "population": 29075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florida",
+    "region": "Florida Department",
+    "lat": -34.0956,
+    "lon": -56.2142,
+    "population": 29058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Toscas",
+    "region": "Canelones Department",
+    "lat": -34.7333,
+    "lon": -55.7167,
+    "population": 28660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alejandro Gallinal",
+    "region": "Florida Department",
+    "lat": -33.8625,
+    "lon": -55.5426,
+    "population": 28478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ecilda Paullier",
+    "region": "San José Department",
+    "lat": -34.3578,
+    "lon": -57.0488,
+    "population": 28279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capurro (Montevideo)",
+    "region": "Montevideo Department",
+    "lat": -34.875,
+    "lon": -56.2056,
+    "population": 28163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercedes",
+    "region": "Soriano Department",
+    "lat": -33.2524,
+    "lon": -58.0305,
+    "population": 28040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Catalina",
+    "region": "Soriano Department",
+    "lat": -33.791,
+    "lon": -57.4882,
+    "population": 27659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baltasar Brum",
+    "region": "Artigas Department",
+    "lat": -30.719,
+    "lon": -57.326,
+    "population": 27474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tala",
+    "region": "Canelones Department",
+    "lat": -34.3435,
+    "lon": -55.7638,
+    "population": 27422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cardal",
+    "region": "Florida Department",
+    "lat": -34.2906,
+    "lon": -56.3889,
+    "population": 27400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón Sudeste",
+    "region": "Montevideo Department",
+    "lat": -34.7667,
+    "lon": -56.2028,
+    "population": 27043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guichón",
+    "region": "Paysandú Department",
+    "lat": -32.3585,
+    "lon": -57.1978,
+    "population": 26809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomás Gomensoro",
+    "region": "Artigas Department",
+    "lat": -30.4287,
+    "lon": -57.4361,
+    "population": 26480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa del Carmen",
+    "region": "Durazno Department",
+    "lat": -33.2394,
+    "lon": -56.0094,
+    "population": 26183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Muñoz",
+    "region": "Montevideo Department",
+    "lat": -34.8878,
+    "lon": -56.177,
+    "population": 25948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barra de Carrasco",
+    "region": "Canelones Department",
+    "lat": -34.8772,
+    "lon": -56.0297,
+    "population": 25759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melo",
+    "region": "Cerro Largo Department",
+    "lat": -32.3703,
+    "lon": -54.1675,
+    "population": 25141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salto",
+    "region": "Salto Department",
+    "lat": -31.3833,
+    "lon": -57.9667,
+    "population": 25103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montevideo",
+    "region": "Montevideo Department",
+    "lat": -34.9033,
+    "lon": -56.1882,
+    "population": 24905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonia Nicolich",
+    "region": "Canelones Department",
+    "lat": -34.8152,
+    "lon": -56.0243,
+    "population": 24891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solís de Mataojo",
+    "region": "Lavalleja Department",
+    "lat": -34.5995,
+    "lon": -55.4681,
+    "population": 24874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blanquillo",
+    "region": "Durazno Department",
+    "lat": -32.7667,
+    "lon": -55.6333,
+    "population": 24671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Berlín",
+    "region": "Río Negro Department",
+    "lat": -32.9797,
+    "lon": -58.0586,
+    "population": 24532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minas de Corrales",
+    "region": "Rivera Department",
+    "lat": -31.5738,
+    "lon": -55.4708,
+    "population": 24528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paloma",
+    "region": "Rocha Department",
+    "lat": -34.6627,
+    "lon": -54.1645,
+    "population": 24255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centro",
+    "region": "Montevideo Department",
+    "lat": -34.9036,
+    "lon": -56.1883,
+    "population": 24082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Treinta y Tres",
+    "region": "Treinta y Tres Department",
+    "lat": -33.2333,
+    "lon": -54.3833,
+    "population": 23994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joaquín Suárez",
+    "region": "Canelones Department",
+    "lat": -34.735,
+    "lon": -56.0347,
+    "population": 23779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosario",
+    "region": "Colonia Department",
+    "lat": -34.3167,
+    "lon": -57.35,
+    "population": 22880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa García",
+    "region": "Montevideo Department",
+    "lat": -34.7811,
+    "lon": -56.0533,
+    "population": 22760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piedras Blancas",
+    "region": "Montevideo Department",
+    "lat": -34.8236,
+    "lon": -56.1403,
+    "population": 21800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ituzaingó",
+    "region": "Montevideo Department",
+    "lat": -34.8475,
+    "lon": -56.1436,
+    "population": 21777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguas Corrientes",
+    "region": "Canelones Department",
+    "lat": -34.5219,
+    "lon": -56.3936,
+    "population": 21718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toledo",
+    "region": "Canelones Department",
+    "lat": -34.7381,
+    "lon": -56.0947,
+    "population": 21709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Empalme Olmos",
+    "region": "Canelones Department",
+    "lat": -34.6975,
+    "lon": -55.8927,
+    "population": 21663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Constitución",
+    "region": "Salto Department",
+    "lat": -31.0691,
+    "lon": -57.8495,
+    "population": 21391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artigas",
+    "region": "Artigas Department",
+    "lat": -30.4,
+    "lon": -56.4667,
+    "population": 21209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manga",
+    "region": "Montevideo Department",
+    "lat": -34.8072,
+    "lon": -56.1381,
+    "population": 20699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Salto Department",
+    "lat": -30.7872,
+    "lon": -57.7758,
+    "population": 20611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "25 de Mayo",
+    "region": "Florida Department",
+    "lat": -34.1892,
+    "lon": -56.3394,
+    "population": 20561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cardona",
+    "region": "Soriano Department",
+    "lat": -33.8705,
+    "lon": -57.3695,
+    "population": 20316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florencio Sánchez",
+    "region": "Colonia Department",
+    "lat": -33.8779,
+    "lon": -57.3717,
+    "population": 20150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Gorda",
+    "region": "Montevideo Department",
+    "lat": -34.8865,
+    "lon": -56.0898,
+    "population": 19771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Cerrillos",
+    "region": "Canelones Department",
+    "lat": -34.605,
+    "lon": -56.3564,
+    "population": 19480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montes",
+    "region": "Canelones Department",
+    "lat": -34.4934,
+    "lon": -55.5622,
+    "population": 19098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodríguez",
+    "region": "San José Department",
+    "lat": -34.381,
+    "lon": -56.538,
+    "population": 18730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peñarol",
+    "region": "Montevideo Department",
+    "lat": -34.8252,
+    "lon": -56.1992,
+    "population": 18626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casabó",
+    "region": "Montevideo Department",
+    "lat": -34.8639,
+    "lon": -56.3411,
+    "population": 18605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bernardina",
+    "region": "Durazno Department",
+    "lat": -33.3536,
+    "lon": -56.525,
+    "population": 18435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carlos Reyles",
+    "region": "Durazno Department",
+    "lat": -33.0566,
+    "lon": -56.4765,
+    "population": 17342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casupá",
+    "region": "Florida Department",
+    "lat": -34.0999,
+    "lon": -55.6481,
+    "population": 17330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Young",
+    "region": "Río Negro Department",
+    "lat": -32.6984,
+    "lon": -57.6269,
+    "population": 17248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa",
+    "region": "Canelones Department",
+    "lat": -34.4982,
+    "lon": -56.038,
+    "population": 16637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belvedere",
+    "region": "Montevideo Department",
+    "lat": -34.8516,
+    "lon": -56.2161,
+    "population": 16619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rafael Perazza",
+    "region": "San José Department",
+    "lat": -34.5234,
+    "lon": -56.7971,
+    "population": 16239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarandí Grande",
+    "region": "Florida Department",
+    "lat": -33.7333,
+    "lon": -56.3333,
+    "population": 15739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bella Unión",
+    "region": "Artigas Department",
+    "lat": -30.2597,
+    "lon": -57.5992,
+    "population": 15731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Canelones Department",
+    "lat": -34.4533,
+    "lon": -56.3906,
+    "population": 15218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocitos",
+    "region": "Montevideo Department",
+    "lat": -34.9083,
+    "lon": -56.15,
+    "population": 15211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarandí del Yi",
+    "region": "Durazno Department",
+    "lat": -33.35,
+    "lon": -55.6333,
+    "population": 14821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velázquez",
+    "region": "Rocha Department",
+    "lat": -34.0363,
+    "lon": -54.2805,
+    "population": 14582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tres Cruces",
+    "region": "Montevideo Department",
+    "lat": -34.8958,
+    "lon": -56.1681,
+    "population": 14366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Montevideo Department",
+    "lat": -34.8786,
+    "lon": -56.1358,
+    "population": 14045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Canelones Department",
+    "lat": -34.4513,
+    "lon": -56.0804,
+    "population": 13956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "José Enrique Rodó",
+    "region": "Soriano Department",
+    "lat": -33.6962,
+    "lon": -57.5315,
+    "population": 13828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chui",
+    "region": "Rocha Department",
+    "lat": -33.6979,
+    "lon": -53.4593,
+    "population": 13387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jacinto",
+    "region": "Canelones Department",
+    "lat": -34.5446,
+    "lon": -55.8715,
+    "population": 12931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flor de Maroñas",
+    "region": "Montevideo Department",
+    "lat": -34.8506,
+    "lon": -56.1247,
+    "population": 12771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacuarembó",
+    "region": "Tacuarembó Department",
+    "lat": -31.7169,
+    "lon": -55.9811,
+    "population": 12671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajas Blancas",
+    "region": "Montevideo Department",
+    "lat": -34.8017,
+    "lon": -56.3342,
+    "population": 12651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Sara",
+    "region": "Treinta y Tres Department",
+    "lat": -33.2534,
+    "lon": -54.4195,
+    "population": 12598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pan de Azúcar",
+    "region": "Maldonado Department",
+    "lat": -34.7787,
+    "lon": -55.2358,
+    "population": 12521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paso de Carrasco",
+    "region": "Canelones Department",
+    "lat": -34.8603,
+    "lon": -56.0522,
+    "population": 12375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Mayo",
+    "region": "San José Department",
+    "lat": -34.3375,
+    "lon": -56.7136,
+    "population": 12263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quebracho",
+    "region": "Paysandú Department",
+    "lat": -31.9353,
+    "lon": -57.9014,
+    "population": 11758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castillos",
+    "region": "Rocha Department",
+    "lat": -34.1987,
+    "lon": -53.8592,
+    "population": 11469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ombúes de Lavalle",
+    "region": "Colonia Department",
+    "lat": -33.9378,
+    "lon": -57.8096,
+    "population": 11183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerrito, Montevideo",
+    "region": "Montevideo Department",
+    "lat": -34.8535,
+    "lon": -56.1728,
+    "population": 10905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maldonado",
+    "region": "Maldonado Department",
+    "lat": -34.9,
+    "lon": -54.95,
+    "population": 10302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juanicó",
+    "region": "Canelones Department",
+    "lat": -34.5945,
+    "lon": -56.2533,
+    "population": 10264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piriápolis",
+    "region": "Maldonado Department",
+    "lat": -34.8629,
+    "lon": -55.2747,
+    "population": 10173,
+    "timezone": "UTC"
+  }
+]

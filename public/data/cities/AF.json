@@ -1,0 +1,738 @@
+[
+  {
+    "name": "Lashkar Gāh",
+    "region": "Helmand",
+    "lat": 31.5938,
+    "lon": 64.3716,
+    "population": 49288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+    "region": "Baghlan",
+    "lat": 35.9062,
+    "lon": 68.4887,
+    "population": 49039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chīras",
+    "region": "Sar-e Pol",
+    "lat": 35.4167,
+    "lon": 65.9823,
+    "population": 48780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baghlān",
+    "region": "Baghlan",
+    "lat": 36.1307,
+    "lon": 68.7083,
+    "population": 48680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āqchah",
+    "region": "Jowzjan",
+    "lat": 36.905,
+    "lon": 66.1834,
+    "population": 48311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andkhoy",
+    "region": "Faryab",
+    "lat": 36.9529,
+    "lon": 65.1238,
+    "population": 48160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghormach",
+    "region": "Badghis",
+    "lat": 35.7306,
+    "lon": 63.7826,
+    "population": 47913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidqābād",
+    "region": "Kapisa",
+    "lat": 35.023,
+    "lon": 69.3511,
+    "population": 47292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asadabad",
+    "region": "Kunar",
+    "lat": 34.8731,
+    "lon": 71.147,
+    "population": 47245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehtar Lām",
+    "region": "Laghman",
+    "lat": 34.6714,
+    "lon": 70.2094,
+    "population": 47092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazār-e Sharīf",
+    "region": "Balkh",
+    "lat": 36.709,
+    "lon": 67.1109,
+    "population": 47042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghōriyān",
+    "region": "Herat",
+    "lat": 34.3448,
+    "lon": 61.4932,
+    "population": 46166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tukzār",
+    "region": "Sar-e Pol",
+    "lat": 35.9483,
+    "lon": 66.4213,
+    "population": 45816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Alāqahdārī Dīshū",
+    "region": "Helmand",
+    "lat": 30.4321,
+    "lon": 63.298,
+    "population": 45400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pul-e ‘Alam",
+    "region": "Logar",
+    "lat": 33.9953,
+    "lon": 69.0227,
+    "population": 44769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pārūn",
+    "region": "Nuristan",
+    "lat": 35.4206,
+    "lon": 70.9226,
+    "population": 44639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kushk",
+    "region": "Herat",
+    "lat": 33.2957,
+    "lon": 61.9522,
+    "population": 44320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khāsh",
+    "region": "Nimruz",
+    "lat": 31.5292,
+    "lon": 62.7906,
+    "population": 44123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabul",
+    "region": "Kabul",
+    "lat": 34.5281,
+    "lon": 69.1723,
+    "population": 43882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nīlī",
+    "region": "Daykundi",
+    "lat": 33.7633,
+    "lon": 66.0762,
+    "population": 43734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangīn",
+    "region": "Helmand",
+    "lat": 32.0727,
+    "lon": 64.8359,
+    "population": 43644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lab-Sar",
+    "region": "Balkh",
+    "lat": 36.0263,
+    "lon": 66.838,
+    "population": 43239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āsmār",
+    "region": "Kunar",
+    "lat": 35.0333,
+    "lon": 71.3581,
+    "population": 43116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ārt Khwājah",
+    "region": "Takhar",
+    "lat": 37.0857,
+    "lon": 69.4796,
+    "population": 42840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrak",
+    "region": "Ghōr",
+    "lat": 34.1074,
+    "lon": 64.3052,
+    "population": 42688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashkāsham",
+    "region": "Badakhshan",
+    "lat": 36.6833,
+    "lon": 71.5333,
+    "population": 41864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shīnḏanḏ",
+    "region": "Herat",
+    "lat": 33.3029,
+    "lon": 62.1474,
+    "population": 41353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rūdbār",
+    "region": "Nimruz",
+    "lat": 30.15,
+    "lon": 62.6,
+    "population": 40155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaṟah Sharan",
+    "region": "Paktika",
+    "lat": 33.1464,
+    "lon": 68.7921,
+    "population": 39940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khōst",
+    "region": "Khost",
+    "lat": 33.3395,
+    "lon": 69.9204,
+    "population": 39675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fayzabad",
+    "region": "Badakhshan",
+    "lat": 37.1166,
+    "lon": 70.58,
+    "population": 38991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāmyān",
+    "region": "Bamyan",
+    "lat": 34.8216,
+    "lon": 67.8273,
+    "population": 38645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qalāt",
+    "region": "Zabul",
+    "lat": 32.1058,
+    "lon": 66.9083,
+    "population": 38525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khandūd",
+    "region": "Badakhshan",
+    "lat": 36.9513,
+    "lon": 72.318,
+    "population": 38477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jurm",
+    "region": "Badakhshan",
+    "lat": 36.8648,
+    "lon": 70.8342,
+    "population": 38183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chahār Burj",
+    "region": "Herat",
+    "lat": 34.2448,
+    "lon": 62.1917,
+    "population": 37885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herāt",
+    "region": "Herat",
+    "lat": 34.3482,
+    "lon": 62.1997,
+    "population": 37017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarchī Gak",
+    "region": "Balkh",
+    "lat": 37.04,
+    "lon": 66.7889,
+    "population": 36162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aībak",
+    "region": "Samangan",
+    "lat": 36.2647,
+    "lon": 68.0155,
+    "population": 34648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wākhān",
+    "region": "Badakhshan",
+    "lat": 37.0571,
+    "lon": 73.3493,
+    "population": 32937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qala i Naw",
+    "region": "Badghis",
+    "lat": 34.9873,
+    "lon": 63.1289,
+    "population": 31436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balkh",
+    "region": "Balkh",
+    "lat": 36.7563,
+    "lon": 66.8972,
+    "population": 31332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nahrīn",
+    "region": "Baghlan",
+    "lat": 36.0649,
+    "lon": 69.1334,
+    "population": 31214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jabal os Saraj",
+    "region": "Parwan",
+    "lat": 35.1183,
+    "lon": 69.2378,
+    "population": 31046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tagāw-Bāy",
+    "region": "Sar-e Pol",
+    "lat": 35.6994,
+    "lon": 66.0616,
+    "population": 30460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalālābād",
+    "region": "Nangarhar",
+    "lat": 34.4265,
+    "lon": 70.4515,
+    "population": 30067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarāwul",
+    "region": "Kunduz Province",
+    "lat": 37.2196,
+    "lon": 68.7802,
+    "population": 29053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shibirghān",
+    "region": "Jowzjan",
+    "lat": 36.6676,
+    "lon": 65.7529,
+    "population": 27515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baraki Barak",
+    "region": "Logar",
+    "lat": 33.9674,
+    "lon": 68.9492,
+    "population": 27167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩukūmatī Azrah",
+    "region": "Logar",
+    "lat": 34.1735,
+    "lon": 69.6457,
+    "population": 26630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafir Qala",
+    "region": "Herat",
+    "lat": 34.6667,
+    "lon": 61.0667,
+    "population": 25790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taloqan",
+    "region": "Takhar",
+    "lat": 36.736,
+    "lon": 69.5345,
+    "population": 25649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandahār",
+    "region": "Kandahar",
+    "lat": 31.6133,
+    "lon": 65.7101,
+    "population": 25635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāzārak",
+    "region": "Panjshir",
+    "lat": 35.3129,
+    "lon": 69.5152,
+    "population": 25175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunduz",
+    "region": "Kunduz Province",
+    "lat": 36.7289,
+    "lon": 68.857,
+    "population": 24903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gereshk",
+    "region": "Helmand",
+    "lat": 31.8209,
+    "lon": 64.57,
+    "population": 24790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dasht-e Archī",
+    "region": "Kunduz Province",
+    "lat": 37.1333,
+    "lon": 69.1667,
+    "population": 23925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khulm",
+    "region": "Balkh",
+    "lat": 36.6974,
+    "lon": 67.6983,
+    "population": 23326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darzāb",
+    "region": "Jowzjan",
+    "lat": 35.9774,
+    "lon": 65.3783,
+    "population": 22732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saṟōbī",
+    "region": "Paktika",
+    "lat": 32.7522,
+    "lon": 69.0459,
+    "population": 22612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uruzgān",
+    "region": "Urozgan",
+    "lat": 32.9278,
+    "lon": 66.6325,
+    "population": 22279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sang-e Chārak",
+    "region": "Sar-e Pol",
+    "lat": 35.8497,
+    "lon": 66.4369,
+    "population": 22153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karukh",
+    "region": "Herat",
+    "lat": 34.4811,
+    "lon": 62.5863,
+    "population": 22019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zindah Jān",
+    "region": "Herat",
+    "lat": 34.3426,
+    "lon": 61.7467,
+    "population": 21283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mīrābād",
+    "region": "Nimruz",
+    "lat": 30.4362,
+    "lon": 61.8383,
+    "population": 20209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanabad",
+    "region": "Kunduz Province",
+    "lat": 36.6825,
+    "lon": 69.1156,
+    "population": 19398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paghmān",
+    "region": "Kabul",
+    "lat": 34.5879,
+    "lon": 68.9509,
+    "population": 19187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farah",
+    "region": "Farah",
+    "lat": 32.3745,
+    "lon": 62.1164,
+    "population": 18612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maymana",
+    "region": "Faryab",
+    "lat": 35.9214,
+    "lon": 64.7836,
+    "population": 17922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarah Bāgh",
+    "region": "Herat",
+    "lat": 34.9402,
+    "lon": 61.7759,
+    "population": 17463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qal‘ah-ye Shahr",
+    "region": "Sar-e Pol",
+    "lat": 35.5473,
+    "lon": 65.5676,
+    "population": 17419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imām Şāḩib",
+    "region": "Kunduz Province",
+    "lat": 37.189,
+    "lon": 68.9364,
+    "population": 17186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gardez",
+    "region": "Paktia",
+    "lat": 33.5974,
+    "lon": 69.2259,
+    "population": 16770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dowlatābād",
+    "region": "Balkh",
+    "lat": 36.9882,
+    "lon": 66.8207,
+    "population": 14269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaz-e Ḩukūmat-e Darwēshān",
+    "region": "Helmand",
+    "lat": 31.1323,
+    "lon": 64.1934,
+    "population": 14134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panjāb",
+    "region": "Bamyan",
+    "lat": 34.3879,
+    "lon": 67.0233,
+    "population": 14106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāghistān",
+    "region": "Badakhshan",
+    "lat": 37.6608,
+    "lon": 70.6735,
+    "population": 14011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarinkot",
+    "region": "Urozgan",
+    "lat": 32.63,
+    "lon": 65.8781,
+    "population": 13937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larkird",
+    "region": "Sar-e Pol",
+    "lat": 35.4894,
+    "lon": 66.6641,
+    "population": 13343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tīr Pul",
+    "region": "Herat",
+    "lat": 34.5943,
+    "lon": 61.2689,
+    "population": 13073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarghūn Shahr",
+    "region": "Paktika",
+    "lat": 32.8473,
+    "lon": 68.4457,
+    "population": 12659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuhsān",
+    "region": "Herat",
+    "lat": 34.6539,
+    "lon": 61.1978,
+    "population": 12198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāsawul",
+    "region": "Nangarhar",
+    "lat": 34.2475,
+    "lon": 70.8722,
+    "population": 12092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaranj",
+    "region": "Nimruz",
+    "lat": 30.9596,
+    "lon": 61.8604,
+    "population": 11920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarqīn",
+    "region": "Jowzjan",
+    "lat": 37.4185,
+    "lon": 66.0436,
+    "population": 11913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pul-e Khumrī",
+    "region": "Baghlan",
+    "lat": 35.9446,
+    "lon": 68.7151,
+    "population": 11726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghazni",
+    "region": "Ghazni",
+    "lat": 33.5539,
+    "lon": 68.421,
+    "population": 11702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mīr Bachah Kōṯ",
+    "region": "Kabul",
+    "lat": 34.75,
+    "lon": 69.119,
+    "population": 10482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fayrōz Kōh",
+    "region": "Ghōr",
+    "lat": 34.5195,
+    "lon": 65.2509,
+    "population": 10330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charikar",
+    "region": "Parwan",
+    "lat": 35.0136,
+    "lon": 69.1714,
+    "population": 10248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaz-e Woluswalī-ye Āchīn",
+    "region": "Nangarhar",
+    "lat": 34.1258,
+    "lon": 70.7078,
+    "population": 10195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sar-e Pul",
+    "region": "Sar-e Pol",
+    "lat": 36.2154,
+    "lon": 65.9325,
+    "population": 10106,
+    "timezone": "UTC"
+  }
+]

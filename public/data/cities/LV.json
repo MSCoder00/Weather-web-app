@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Lubāna",
+    "region": "Lubāna Municipality",
+    "lat": 56.9042,
+    "lon": 26.7161,
+    "population": 49799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tīreļi",
+    "region": "Jelgava Municipality",
+    "lat": 56.8399,
+    "lon": 23.589,
+    "population": 49494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stalbe",
+    "region": "Pārgauja Municipality",
+    "lat": 57.3706,
+    "lon": 25.0311,
+    "population": 49469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilsrundāle",
+    "region": "Rundāle Municipality",
+    "lat": 56.4181,
+    "lon": 24.0162,
+    "population": 48754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koknese",
+    "region": "Koknese Municipality",
+    "lat": 56.6516,
+    "lon": 25.4364,
+    "population": 48579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skrunda",
+    "region": "Skrunda Municipality",
+    "lat": 56.6775,
+    "lon": 22.0165,
+    "population": 48248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madona",
+    "region": "Madona Municipality",
+    "lat": 56.8533,
+    "lon": 26.217,
+    "population": 48138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riga",
+    "region": "Riga",
+    "lat": 56.946,
+    "lon": 24.1059,
+    "population": 47694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jūrmala",
+    "region": "Jūrmala",
+    "lat": 56.968,
+    "lon": 23.7704,
+    "population": 47496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobele",
+    "region": "Dobele Municipality",
+    "lat": 56.6237,
+    "lon": 23.2751,
+    "population": 46727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saulkrasti",
+    "region": "Saulkrasti Municipality",
+    "lat": 57.2622,
+    "lon": 24.4147,
+    "population": 46128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nīca",
+    "region": "Nīca Municipality",
+    "lat": 56.346,
+    "lon": 21.064,
+    "population": 45761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cibla",
+    "region": "Cibla Municipality",
+    "lat": 56.5498,
+    "lon": 27.8837,
+    "population": 45610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strenči",
+    "region": "Strenči Municipality",
+    "lat": 57.6257,
+    "lon": 25.6853,
+    "population": 45074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Preiļi",
+    "region": "Preiļi Municipality",
+    "lat": 56.2944,
+    "lon": 26.7246,
+    "population": 44945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dagda",
+    "region": "Dagda Municipality",
+    "lat": 56.0951,
+    "lon": 27.5372,
+    "population": 44451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilūkste",
+    "region": "Ilūkste Municipality",
+    "lat": 55.9775,
+    "lon": 26.2965,
+    "population": 43186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grobiņa",
+    "region": "Grobiņa Municipality",
+    "lat": 56.5352,
+    "lon": 21.1678,
+    "population": 43156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Engure",
+    "region": "Sēja Municipality",
+    "lat": 57.1606,
+    "lon": 23.2253,
+    "population": 43091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saldus",
+    "region": "Saldus Municipality",
+    "lat": 56.6636,
+    "lon": 22.4881,
+    "population": 42614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabile",
+    "region": "Talsi Municipality",
+    "lat": 57.0458,
+    "lon": 22.5726,
+    "population": 42564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valka",
+    "region": "Valka Municipality",
+    "lat": 57.7752,
+    "lon": 26.0101,
+    "population": 42283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talsi",
+    "region": "Talsi Municipality",
+    "lat": 57.2456,
+    "lon": 22.5814,
+    "population": 42276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Līgatne",
+    "region": "Līgatne Municipality",
+    "lat": 57.2343,
+    "lon": 25.0406,
+    "population": 42211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aizpute",
+    "region": "Aizpute Municipality",
+    "lat": 56.7211,
+    "lon": 21.6016,
+    "population": 42159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rēzekne",
+    "region": "Rēzekne",
+    "lat": 56.5103,
+    "lon": 27.34,
+    "population": 42076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naukšēni",
+    "region": "Naukšēni Municipality",
+    "lat": 57.8835,
+    "lon": 25.4561,
+    "population": 41687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulbene",
+    "region": "Gulbene Municipality",
+    "lat": 57.1777,
+    "lon": 26.7529,
+    "population": 41491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stende",
+    "region": "Talsi Municipality",
+    "lat": 57.145,
+    "lon": 22.5348,
+    "population": 41388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karosta",
+    "region": "Liepāja",
+    "lat": 56.5513,
+    "lon": 21.0129,
+    "population": 41378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smārde",
+    "region": "Engure Municipality",
+    "lat": 56.9542,
+    "lon": 23.3374,
+    "population": 41062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ķekava",
+    "region": "Ķekava Municipality",
+    "lat": 56.8266,
+    "lon": 24.23,
+    "population": 41015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nereta",
+    "region": "Nereta Municipality",
+    "lat": 56.2028,
+    "lon": 25.3075,
+    "population": 40877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaunjelgava",
+    "region": "Jaunjelgava Municipality",
+    "lat": 56.6132,
+    "lon": 25.0832,
+    "population": 40450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roja",
+    "region": "Roja Municipality",
+    "lat": 57.5015,
+    "lon": 22.8088,
+    "population": 40379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vecumnieki",
+    "region": "Vecumnieki Municipality",
+    "lat": 56.6061,
+    "lon": 24.5223,
+    "population": 39780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rugāji",
+    "region": "Rugāji Municipality",
+    "lat": 57.0033,
+    "lon": 27.1337,
+    "population": 39258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alūksne",
+    "region": "Alūksne Municipality",
+    "lat": 57.4216,
+    "lon": 27.0466,
+    "population": 39112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mālpils",
+    "region": "Mālpils Municipality",
+    "lat": 57.0101,
+    "lon": 24.9578,
+    "population": 39082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaunciems",
+    "region": "Riga",
+    "lat": 57.0391,
+    "lon": 24.1741,
+    "population": 39061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carnikava",
+    "region": "Carnikava Municipality",
+    "lat": 57.1294,
+    "lon": 24.2842,
+    "population": 38997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piņķi",
+    "region": "Babīte Municipality",
+    "lat": 56.9419,
+    "lon": 23.9137,
+    "population": 38836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alsunga",
+    "region": "Alsunga Municipality",
+    "lat": 56.9819,
+    "lon": 21.5594,
+    "population": 38731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varakļāni",
+    "region": "Varakļāni Municipality",
+    "lat": 56.6083,
+    "lon": 26.7538,
+    "population": 38718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iecava",
+    "region": "Iecava Municipality",
+    "lat": 56.5977,
+    "lon": 24.2076,
+    "population": 38669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ogre",
+    "region": "Ogre Municipality",
+    "lat": 56.8162,
+    "lon": 24.614,
+    "population": 38557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piltene",
+    "region": "Ventspils Municipality",
+    "lat": 57.2243,
+    "lon": 21.6744,
+    "population": 38149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daugavpils",
+    "region": "Daugavpils Municipality",
+    "lat": 55.8833,
+    "lon": 26.5333,
+    "population": 37444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aloja",
+    "region": "Aloja Municipality",
+    "lat": 57.7672,
+    "lon": 24.8774,
+    "population": 36652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kārsava",
+    "region": "Kārsava Municipality",
+    "lat": 56.7841,
+    "lon": 27.6883,
+    "population": 36578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ludza",
+    "region": "Ludza Municipality",
+    "lat": 56.5396,
+    "lon": 27.7189,
+    "population": 36322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikšķile",
+    "region": "Ikšķile Municipality",
+    "lat": 56.834,
+    "lon": 24.4968,
+    "population": 36245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ropaži",
+    "region": "Ropaži Municipality",
+    "lat": 56.9747,
+    "lon": 24.633,
+    "population": 35992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aknīste",
+    "region": "Aknīste Municipality",
+    "lat": 56.1615,
+    "lon": 25.7478,
+    "population": 35921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brocēni",
+    "region": "Brocēni Municipality",
+    "lat": 56.6789,
+    "lon": 22.5694,
+    "population": 35597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaunpils",
+    "region": "Jaunpils Municipality",
+    "lat": 56.7314,
+    "lon": 23.0125,
+    "population": 35046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mūrmuiža",
+    "region": "Beverīna Municipality",
+    "lat": 57.4731,
+    "lon": 25.4917,
+    "population": 35004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liepāja",
+    "region": "Liepāja",
+    "lat": 56.5047,
+    "lon": 21.0109,
+    "population": 34959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zelmeņi",
+    "region": "Tērvete Municipality",
+    "lat": 56.4517,
+    "lon": 23.3519,
+    "population": 34768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ape",
+    "region": "Ape Municipality",
+    "lat": 57.5393,
+    "lon": 26.6929,
+    "population": 34397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valdemārpils",
+    "region": "Talsi Municipality",
+    "lat": 57.3707,
+    "lon": 22.5919,
+    "population": 33632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balvi",
+    "region": "Balvi Municipality",
+    "lat": 57.1313,
+    "lon": 27.2658,
+    "population": 33603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baldone",
+    "region": "Baldone Municipality",
+    "lat": 56.7445,
+    "lon": 24.4008,
+    "population": 33560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smiltene",
+    "region": "Smiltene Municipality",
+    "lat": 57.4244,
+    "lon": 25.9016,
+    "population": 32568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krāslava",
+    "region": "Krāslava Municipality",
+    "lat": 55.8951,
+    "lon": 27.168,
+    "population": 31946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mežaparks",
+    "region": "Riga",
+    "lat": 57.0001,
+    "lon": 24.16,
+    "population": 31889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riebiņi",
+    "region": "Riebiņi Municipality",
+    "lat": 56.3428,
+    "lon": 26.7999,
+    "population": 31550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ozolnieki",
+    "region": "Ozolnieki Municipality",
+    "lat": 56.6899,
+    "lon": 23.7761,
+    "population": 31443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auce",
+    "region": "Auce Municipality",
+    "lat": 56.4598,
+    "lon": 22.9017,
+    "population": 31002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tērvete",
+    "region": "Tērvete Municipality",
+    "lat": 56.4799,
+    "lon": 23.389,
+    "population": 30961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lieģi",
+    "region": "Durbe Municipality",
+    "lat": 56.5817,
+    "lon": 21.334,
+    "population": 30889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cesvaine",
+    "region": "Cesvaine Municipality",
+    "lat": 56.9675,
+    "lon": 26.3076,
+    "population": 30242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aglona",
+    "region": "Aglona Municipality",
+    "lat": 56.1327,
+    "lon": 27.0068,
+    "population": 29973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salacgrīva",
+    "region": "Salacgrīva Municipality",
+    "lat": 57.7531,
+    "lon": 24.359,
+    "population": 29870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krustpils",
+    "region": "Jēkabpils Municipality",
+    "lat": 56.5107,
+    "lon": 25.8612,
+    "population": 29815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daugavgrīva",
+    "region": "Riga",
+    "lat": 57.0431,
+    "lon": 24.0361,
+    "population": 29509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vecvārkava",
+    "region": "Vārkava Municipality",
+    "lat": 56.1984,
+    "lon": 26.5081,
+    "population": 29399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inčukalns",
+    "region": "Inčukalns Municipality",
+    "lat": 57.0987,
+    "lon": 24.6863,
+    "population": 29158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aizkraukle",
+    "region": "Aizkraukle Municipality",
+    "lat": 56.6048,
+    "lon": 25.2553,
+    "population": 29113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazsalaca",
+    "region": "Mazsalaca Municipality",
+    "lat": 57.8633,
+    "lon": 25.0547,
+    "population": 28607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Priekule",
+    "region": "Priekule Municipality",
+    "lat": 56.4468,
+    "lon": 21.5897,
+    "population": 28139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salaspils",
+    "region": "Salaspils Municipality",
+    "lat": 56.8601,
+    "lon": 24.3654,
+    "population": 27821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seda",
+    "region": "Strenči Municipality",
+    "lat": 57.6504,
+    "lon": 25.7509,
+    "population": 27151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tukums",
+    "region": "Sēja Municipality",
+    "lat": 56.9676,
+    "lon": 23.1555,
+    "population": 26795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Līvāni",
+    "region": "Līvāni Municipality",
+    "lat": 56.3543,
+    "lon": 26.1758,
+    "population": 25803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rucava",
+    "region": "Rucava Municipality",
+    "lat": 56.1631,
+    "lon": 21.1616,
+    "population": 25116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bauska",
+    "region": "Bauska Municipality",
+    "lat": 56.4079,
+    "lon": 24.1944,
+    "population": 24959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mārupe",
+    "region": "Mārupe Municipality",
+    "lat": 56.9054,
+    "lon": 24.0511,
+    "population": 23406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kocēni",
+    "region": "Kocēni Municipality",
+    "lat": 57.5206,
+    "lon": 25.3382,
+    "population": 23195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandava",
+    "region": "Kandava Municipality",
+    "lat": 57.0409,
+    "lon": 22.7747,
+    "population": 23140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viesīte",
+    "region": "Viesīte Municipality",
+    "lat": 56.3475,
+    "lon": 25.5551,
+    "population": 23102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaunaglona",
+    "region": "Preiļi Municipality",
+    "lat": 56.1607,
+    "lon": 27.0071,
+    "population": 22753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vecpiebalga",
+    "region": "Vecpiebalga Municipality",
+    "lat": 57.0609,
+    "lon": 25.8162,
+    "population": 22667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ērgļi",
+    "region": "Ērgļi Municipality",
+    "lat": 56.8975,
+    "lon": 25.6367,
+    "population": 22301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viļāni",
+    "region": "Viļāni Municipality",
+    "lat": 56.5525,
+    "lon": 26.9245,
+    "population": 21782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Priekuļi",
+    "region": "Priekuļi Municipality",
+    "lat": 57.315,
+    "lon": 25.3615,
+    "population": 20593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garkalne",
+    "region": "Garkalne Municipality",
+    "lat": 57.0449,
+    "lon": 24.4195,
+    "population": 20195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuldīga",
+    "region": "Kuldīga Municipality",
+    "lat": 56.974,
+    "lon": 21.9572,
+    "population": 20081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pāvilosta",
+    "region": "Pāvilosta Municipality",
+    "lat": 56.8879,
+    "lon": 21.1859,
+    "population": 19769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baloži",
+    "region": "Ķekava Municipality",
+    "lat": 56.8764,
+    "lon": 24.1182,
+    "population": 18838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jelgava",
+    "region": "Jelgava",
+    "lat": 56.65,
+    "lon": 23.7128,
+    "population": 18682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zilupe",
+    "region": "Zilupe Municipality",
+    "lat": 56.3862,
+    "lon": 28.1216,
+    "population": 18026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rūjiena",
+    "region": "Rūjiena Municipality",
+    "lat": 57.8975,
+    "lon": 25.3316,
+    "population": 17752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dundaga",
+    "region": "Dundaga Municipality",
+    "lat": 57.505,
+    "lon": 22.3504,
+    "population": 17419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Staicele",
+    "region": "Aloja Municipality",
+    "lat": 57.8358,
+    "lon": 24.7471,
+    "population": 17419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ainaži",
+    "region": "Salacgrīva Municipality",
+    "lat": 57.8635,
+    "lon": 24.3585,
+    "population": 17353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baltinava",
+    "region": "Baltinava Municipality",
+    "lat": 56.9439,
+    "lon": 27.644,
+    "population": 16852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pļaviņas",
+    "region": "Pļaviņas Municipality",
+    "lat": 56.6178,
+    "lon": 25.7255,
+    "population": 16653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lielvārde",
+    "region": "Lielvārde Municipality",
+    "lat": 56.7207,
+    "lon": 24.8074,
+    "population": 15357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rauna",
+    "region": "Rauna Municipality",
+    "lat": 57.3317,
+    "lon": 25.6095,
+    "population": 14716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sigulda",
+    "region": "Sigulda Municipality",
+    "lat": 57.1538,
+    "lon": 24.8595,
+    "population": 14680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olaine",
+    "region": "Olaine Municipality",
+    "lat": 56.7947,
+    "lon": 23.9358,
+    "population": 13715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viļaka",
+    "region": "Viļaka Municipality",
+    "lat": 57.1846,
+    "lon": 27.6722,
+    "population": 13634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ventspils",
+    "region": "Ventspils",
+    "lat": 57.3899,
+    "lon": 21.5729,
+    "population": 13511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skrīveri",
+    "region": "Skrīveri Municipality",
+    "lat": 56.645,
+    "lon": 25.1206,
+    "population": 13203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jumprava",
+    "region": "Ogre Municipality",
+    "lat": 56.6761,
+    "lon": 24.9721,
+    "population": 12907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cēsis",
+    "region": "Cēsis Municipality",
+    "lat": 57.3119,
+    "lon": 25.2746,
+    "population": 12894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolderaja",
+    "region": "Riga",
+    "lat": 57.0313,
+    "lon": 24.0557,
+    "population": 12784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vangaži",
+    "region": "Inčukalns Municipality",
+    "lat": 57.0936,
+    "lon": 24.5447,
+    "population": 12699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jēkabpils",
+    "region": "Jēkabpils Municipality",
+    "lat": 56.499,
+    "lon": 25.8574,
+    "population": 12442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ķegums",
+    "region": "Ķegums Municipality",
+    "lat": 56.7451,
+    "lon": 24.7244,
+    "population": 11319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulbroka",
+    "region": "Stopiņi Municipality",
+    "lat": 56.9363,
+    "lon": 24.3039,
+    "population": 11230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valmiera",
+    "region": "Valmiera",
+    "lat": 57.5411,
+    "lon": 25.4275,
+    "population": 11162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaiņode",
+    "region": "Vaiņode Municipality",
+    "lat": 56.4185,
+    "lon": 21.8541,
+    "population": 10667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limbaži",
+    "region": "Limbaži Municipality",
+    "lat": 57.5129,
+    "lon": 24.7194,
+    "population": 10478,
+    "timezone": "UTC"
+  }
+]

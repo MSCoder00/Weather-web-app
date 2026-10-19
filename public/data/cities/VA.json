@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Vatican City",
+    "region": "Capital",
+    "lat": 41.9029,
+    "lon": 12.4534,
+    "population": 1500000,
+    "timezone": "UTC"
+  }
+]

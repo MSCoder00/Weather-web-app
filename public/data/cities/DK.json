@@ -1,0 +1,3434 @@
+[
+  {
+    "name": "Kjellerup",
+    "region": "Central Denmark Region",
+    "lat": 56.2858,
+    "lon": 9.4353,
+    "population": 49999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herlev Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7332,
+    "lon": 12.4311,
+    "population": 49887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lejre",
+    "region": "Region Zealand",
+    "lat": 55.6046,
+    "lon": 11.9748,
+    "population": 49876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svogerslev",
+    "region": "Region Zealand",
+    "lat": 55.6342,
+    "lon": 12.0146,
+    "population": 49780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hedensted",
+    "region": "Central Denmark Region",
+    "lat": 55.7704,
+    "lon": 9.7011,
+    "population": 49769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringsted Kommune",
+    "region": "Region Zealand",
+    "lat": 55.4472,
+    "lon": 11.8172,
+    "population": 49765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rønde",
+    "region": "Central Denmark Region",
+    "lat": 56.3015,
+    "lon": 10.475,
+    "population": 49351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maribo",
+    "region": "Region Zealand",
+    "lat": 54.7766,
+    "lon": 11.5002,
+    "population": 49319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganløse",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7912,
+    "lon": 12.2642,
+    "population": 49314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Starup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.241,
+    "lon": 9.535,
+    "population": 49116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolding",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4904,
+    "lon": 9.4722,
+    "population": 49090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stevns Kommune",
+    "region": "Region Zealand",
+    "lat": 55.3337,
+    "lon": 12.3069,
+    "population": 49072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Køge Kommune",
+    "region": "Region Zealand",
+    "lat": 55.4567,
+    "lon": 12.0733,
+    "population": 48975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyråd",
+    "region": "Region Zealand",
+    "lat": 55.0051,
+    "lon": 11.9606,
+    "population": 48930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arden",
+    "region": "North Denmark Region",
+    "lat": 56.769,
+    "lon": 9.8618,
+    "population": 48924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middelfart",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5059,
+    "lon": 9.7305,
+    "population": 48915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stege",
+    "region": "Region Zealand",
+    "lat": 54.987,
+    "lon": 12.2846,
+    "population": 48873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vindinge",
+    "region": "Region Zealand",
+    "lat": 55.623,
+    "lon": 12.1387,
+    "population": 48835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norddjurs Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.4412,
+    "lon": 10.7666,
+    "population": 48824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Christianshavn",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6738,
+    "lon": 12.5954,
+    "population": 48809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyborg Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2947,
+    "lon": 10.7031,
+    "population": 48656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Søften",
+    "region": "Central Denmark Region",
+    "lat": 56.238,
+    "lon": 10.0851,
+    "population": 48639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarm",
+    "region": "Central Denmark Region",
+    "lat": 55.9086,
+    "lon": 8.5304,
+    "population": 48631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fjerritslev",
+    "region": "North Denmark Region",
+    "lat": 57.0882,
+    "lon": 9.2662,
+    "population": 48543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinderup",
+    "region": "Central Denmark Region",
+    "lat": 56.4818,
+    "lon": 8.7799,
+    "population": 48264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ærøskøbing",
+    "region": "Region of Southern Denmark",
+    "lat": 54.888,
+    "lon": 10.4112,
+    "population": 48258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odense Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3957,
+    "lon": 10.3776,
+    "population": 48204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Køge",
+    "region": "Region Zealand",
+    "lat": 55.458,
+    "lon": 12.1821,
+    "population": 48178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greve",
+    "region": "Region Zealand",
+    "lat": 55.5833,
+    "lon": 12.3,
+    "population": 48172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gribskov Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 56.0583,
+    "lon": 12.2417,
+    "population": 48162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neder Vindinge",
+    "region": "Region Zealand",
+    "lat": 55.0321,
+    "lon": 11.8836,
+    "population": 47843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kongens Lyngby",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7704,
+    "lon": 12.5038,
+    "population": 47816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ejby",
+    "region": "Region Zealand",
+    "lat": 55.4858,
+    "lon": 12.0817,
+    "population": 47442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roskilde Kommune",
+    "region": "Region Zealand",
+    "lat": 55.65,
+    "lon": 12.1,
+    "population": 47354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taulov",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5458,
+    "lon": 9.6155,
+    "population": 47327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rudersdal Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.825,
+    "lon": 12.4917,
+    "population": 46930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hobro",
+    "region": "North Denmark Region",
+    "lat": 56.6431,
+    "lon": 9.7903,
+    "population": 46828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ebeltoft",
+    "region": "Central Denmark Region",
+    "lat": 56.1944,
+    "lon": 10.6821,
+    "population": 46807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solrød Strand",
+    "region": "Region Zealand",
+    "lat": 55.5329,
+    "lon": 12.2223,
+    "population": 46779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faxe Ladeplads",
+    "region": "Region Zealand",
+    "lat": 55.2198,
+    "lon": 12.1701,
+    "population": 46683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solbjerg",
+    "region": "Central Denmark Region",
+    "lat": 56.0427,
+    "lon": 10.0863,
+    "population": 46549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hvide Sande",
+    "region": "Central Denmark Region",
+    "lat": 55.9987,
+    "lon": 8.126,
+    "population": 46531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederikssund",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8396,
+    "lon": 12.069,
+    "population": 46522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tølløse",
+    "region": "Region Zealand",
+    "lat": 55.6125,
+    "lon": 11.7703,
+    "population": 46442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vestbjerg",
+    "region": "North Denmark Region",
+    "lat": 57.1317,
+    "lon": 9.9594,
+    "population": 46392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gilleleje",
+    "region": "Capital Region of Denmark",
+    "lat": 56.122,
+    "lon": 12.3106,
+    "population": 46324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nykøbing Falster",
+    "region": "Region Zealand",
+    "lat": 54.7691,
+    "lon": 11.8742,
+    "population": 46234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vamdrup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4276,
+    "lon": 9.2843,
+    "population": 46010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tranbjerg",
+    "region": "Central Denmark Region",
+    "lat": 56.0952,
+    "lon": 10.136,
+    "population": 45986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grenaa",
+    "region": "Central Denmark Region",
+    "lat": 56.4158,
+    "lon": 10.8782,
+    "population": 45929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rønnede",
+    "region": "Region Zealand",
+    "lat": 55.2571,
+    "lon": 12.0213,
+    "population": 45895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hillerød",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9279,
+    "lon": 12.3008,
+    "population": 45779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammerum",
+    "region": "Central Denmark Region",
+    "lat": 56.1336,
+    "lon": 9.0612,
+    "population": 45490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hurup",
+    "region": "North Denmark Region",
+    "lat": 56.7494,
+    "lon": 8.4195,
+    "population": 45476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vordingborg",
+    "region": "Region Zealand",
+    "lat": 55.008,
+    "lon": 11.9106,
+    "population": 45472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frejlev",
+    "region": "North Denmark Region",
+    "lat": 57.0062,
+    "lon": 9.8171,
+    "population": 45464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulstrup",
+    "region": "Central Denmark Region",
+    "lat": 56.3899,
+    "lon": 9.7935,
+    "population": 45414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sønderborg Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9167,
+    "lon": 9.8,
+    "population": 44954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ullerslev",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3617,
+    "lon": 10.6519,
+    "population": 44891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svejbæk",
+    "region": "Central Denmark Region",
+    "lat": 56.1326,
+    "lon": 9.6329,
+    "population": 44753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blovstrød",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8704,
+    "lon": 12.3864,
+    "population": 44569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabro",
+    "region": "Central Denmark Region",
+    "lat": 56.2133,
+    "lon": 10.0344,
+    "population": 44490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albertslund",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6569,
+    "lon": 12.3638,
+    "population": 44487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strøby Egede",
+    "region": "Region Zealand",
+    "lat": 55.4138,
+    "lon": 12.245,
+    "population": 44384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tommerup Stationsby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3454,
+    "lon": 10.1759,
+    "population": 44335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brejning",
+    "region": "Region of Southern Denmark",
+    "lat": 55.6659,
+    "lon": 9.6722,
+    "population": 44295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjørring Kommune",
+    "region": "North Denmark Region",
+    "lat": 57.4568,
+    "lon": 10.0586,
+    "population": 44036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "København",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6711,
+    "lon": 12.5653,
+    "population": 43959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aalborg",
+    "region": "North Denmark Region",
+    "lat": 57.048,
+    "lon": 9.9187,
+    "population": 43894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toftlund",
+    "region": "Region of Southern Denmark",
+    "lat": 55.1886,
+    "lon": 9.0693,
+    "population": 43765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skagen",
+    "region": "North Denmark Region",
+    "lat": 57.7209,
+    "lon": 10.5839,
+    "population": 43738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanløse",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6836,
+    "lon": 12.4871,
+    "population": 43683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vadum",
+    "region": "North Denmark Region",
+    "lat": 57.1179,
+    "lon": 9.857,
+    "population": 43613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hørsholm",
+    "region": "Capital Region of Denmark",
+    "lat": 55.881,
+    "lon": 12.5011,
+    "population": 43560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ryomgård",
+    "region": "Central Denmark Region",
+    "lat": 56.3843,
+    "lon": 10.503,
+    "population": 43465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederiksværk",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9707,
+    "lon": 12.0225,
+    "population": 43356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svebølle",
+    "region": "Region Zealand",
+    "lat": 55.6518,
+    "lon": 11.2866,
+    "population": 43306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beder",
+    "region": "Central Denmark Region",
+    "lat": 56.0603,
+    "lon": 10.2118,
+    "population": 43093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skive",
+    "region": "Central Denmark Region",
+    "lat": 56.567,
+    "lon": 9.0271,
+    "population": 43082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyngby-Tårbæk Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7846,
+    "lon": 12.5051,
+    "population": 43031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Børkop",
+    "region": "Region of Southern Denmark",
+    "lat": 55.642,
+    "lon": 9.6496,
+    "population": 42878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sorø",
+    "region": "Region Zealand",
+    "lat": 55.4318,
+    "lon": 11.5555,
+    "population": 42551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roskilde",
+    "region": "Region Zealand",
+    "lat": 55.6415,
+    "lon": 12.0803,
+    "population": 42490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vipperød",
+    "region": "Region Zealand",
+    "lat": 55.6677,
+    "lon": 11.7397,
+    "population": 42459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødbyhavn",
+    "region": "Region Zealand",
+    "lat": 54.6594,
+    "lon": 11.355,
+    "population": 42447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballerup",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7317,
+    "lon": 12.3633,
+    "population": 42377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thyborøn",
+    "region": "Central Denmark Region",
+    "lat": 56.6985,
+    "lon": 8.2124,
+    "population": 42284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Værløse",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7825,
+    "lon": 12.3686,
+    "population": 42274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokkedal",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9118,
+    "lon": 12.4995,
+    "population": 42101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viborg",
+    "region": "Central Denmark Region",
+    "lat": 56.4532,
+    "lon": 9.402,
+    "population": 42069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bording Kirkeby",
+    "region": "Central Denmark Region",
+    "lat": 56.1687,
+    "lon": 9.2438,
+    "population": 41900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slagelse",
+    "region": "Region Zealand",
+    "lat": 55.4028,
+    "lon": 11.3546,
+    "population": 41657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjørring",
+    "region": "North Denmark Region",
+    "lat": 57.4642,
+    "lon": 9.9823,
+    "population": 41579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vindeby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0449,
+    "lon": 10.6131,
+    "population": 41564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ølstykke",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7957,
+    "lon": 12.1551,
+    "population": 41548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holstebro Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.3592,
+    "lon": 8.5963,
+    "population": 41534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lystrup",
+    "region": "Central Denmark Region",
+    "lat": 56.2375,
+    "lon": 10.2378,
+    "population": 41404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tønder Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.073,
+    "lon": 8.8721,
+    "population": 41354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sorø Kommune",
+    "region": "Region Zealand",
+    "lat": 55.4827,
+    "lon": 11.5569,
+    "population": 41327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grindsted",
+    "region": "Region of Southern Denmark",
+    "lat": 55.7573,
+    "lon": 8.9275,
+    "population": 41309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oksbøl",
+    "region": "Region of Southern Denmark",
+    "lat": 55.6268,
+    "lon": 8.2876,
+    "population": 41210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Egedal Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7556,
+    "lon": 12.2278,
+    "population": 41202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyborg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3127,
+    "lon": 10.7896,
+    "population": 41158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Græsted",
+    "region": "Capital Region of Denmark",
+    "lat": 56.0656,
+    "lon": 12.2851,
+    "population": 40985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glostrup Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6819,
+    "lon": 12.4102,
+    "population": 40911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herning Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.15,
+    "lon": 8.8971,
+    "population": 40851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fløng",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6621,
+    "lon": 12.187,
+    "population": 40746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ørslev",
+    "region": "Region Zealand",
+    "lat": 55.0436,
+    "lon": 11.9679,
+    "population": 40520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vordingborg Kommune",
+    "region": "Region Zealand",
+    "lat": 55.0138,
+    "lon": 12.1001,
+    "population": 40508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Egtved",
+    "region": "Region of Southern Denmark",
+    "lat": 55.6161,
+    "lon": 9.3076,
+    "population": 40404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hørve",
+    "region": "Region Zealand",
+    "lat": 55.7529,
+    "lon": 11.453,
+    "population": 40293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bullerup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4269,
+    "lon": 10.4714,
+    "population": 40276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kås",
+    "region": "North Denmark Region",
+    "lat": 57.1977,
+    "lon": 9.6717,
+    "population": 40188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalundborg Kommune",
+    "region": "Region Zealand",
+    "lat": 55.6354,
+    "lon": 11.1999,
+    "population": 40177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lillerød",
+    "region": "Capital Region of Denmark",
+    "lat": 55.875,
+    "lon": 12.3458,
+    "population": 40113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halsnæs Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9676,
+    "lon": 11.9421,
+    "population": 40109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åkirkeby",
+    "region": "Capital Region of Denmark",
+    "lat": 55.0708,
+    "lon": 14.9198,
+    "population": 39848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fanø Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4167,
+    "lon": 8.4167,
+    "population": 39810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rønne",
+    "region": "Capital Region of Denmark",
+    "lat": 55.1009,
+    "lon": 14.7066,
+    "population": 39771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thisted",
+    "region": "North Denmark Region",
+    "lat": 56.9552,
+    "lon": 8.6949,
+    "population": 39729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skjern",
+    "region": "Central Denmark Region",
+    "lat": 55.95,
+    "lon": 8.5,
+    "population": 39652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ballerup Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7325,
+    "lon": 12.3579,
+    "population": 39498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjellerup",
+    "region": "Central Denmark Region",
+    "lat": 56.1462,
+    "lon": 9.0547,
+    "population": 39420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sønderborg",
+    "region": "Region of Southern Denmark",
+    "lat": 54.909,
+    "lon": 9.7892,
+    "population": 39332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munkebo",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4555,
+    "lon": 10.5543,
+    "population": 39265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fredensborg Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.95,
+    "lon": 12.45,
+    "population": 39217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odsherred Kommune",
+    "region": "Region Zealand",
+    "lat": 55.8833,
+    "lon": 11.5944,
+    "population": 39102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Middelfart Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4578,
+    "lon": 9.881,
+    "population": 39017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avlum",
+    "region": "Central Denmark Region",
+    "lat": 56.2654,
+    "lon": 8.7926,
+    "population": 38996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nørresundby",
+    "region": "North Denmark Region",
+    "lat": 57.0588,
+    "lon": 9.9228,
+    "population": 38930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hvidovre",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6572,
+    "lon": 12.4736,
+    "population": 38850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tårnby",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6303,
+    "lon": 12.6004,
+    "population": 38796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Århus",
+    "region": "Central Denmark Region",
+    "lat": 56.1567,
+    "lon": 10.2108,
+    "population": 38713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Syddjurs Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.3125,
+    "lon": 10.5208,
+    "population": 38663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løgstør",
+    "region": "North Denmark Region",
+    "lat": 56.9624,
+    "lon": 9.2583,
+    "population": 38620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esbjerg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4703,
+    "lon": 8.4519,
+    "population": 38572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dragør Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.5823,
+    "lon": 12.6276,
+    "population": 38557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tørring",
+    "region": "Central Denmark Region",
+    "lat": 55.85,
+    "lon": 9.4833,
+    "population": 38444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farsø",
+    "region": "North Denmark Region",
+    "lat": 56.7728,
+    "lon": 9.3392,
+    "population": 38393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jammerbugt Kommune",
+    "region": "North Denmark Region",
+    "lat": 57.1458,
+    "lon": 9.5625,
+    "population": 38270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smørumnedre",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7423,
+    "lon": 12.3028,
+    "population": 37979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malling",
+    "region": "Central Denmark Region",
+    "lat": 56.0363,
+    "lon": 10.1963,
+    "population": 37917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederiksberg Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6786,
+    "lon": 12.5222,
+    "population": 37719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vejle",
+    "region": "Region of Southern Denmark",
+    "lat": 55.7093,
+    "lon": 9.5357,
+    "population": 37704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charlottenlund",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7524,
+    "lon": 12.5745,
+    "population": 37652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skaerbaek",
+    "region": "Region of Southern Denmark",
+    "lat": 55.1574,
+    "lon": 8.769,
+    "population": 36927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakskøbing",
+    "region": "Region Zealand",
+    "lat": 54.7997,
+    "lon": 11.626,
+    "population": 36913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esbjerg Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4689,
+    "lon": 8.4622,
+    "population": 36859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederiksberg",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6794,
+    "lon": 12.5346,
+    "population": 36794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stilling",
+    "region": "Central Denmark Region",
+    "lat": 56.0622,
+    "lon": 9.9882,
+    "population": 36772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holsted",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5109,
+    "lon": 8.9187,
+    "population": 36694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asnæs",
+    "region": "Region Zealand",
+    "lat": 55.8123,
+    "lon": 11.5013,
+    "population": 36616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forlev",
+    "region": "Region Zealand",
+    "lat": 55.3745,
+    "lon": 11.2597,
+    "population": 36445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billund Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.7308,
+    "lon": 8.9684,
+    "population": 36306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrå",
+    "region": "North Denmark Region",
+    "lat": 57.3537,
+    "lon": 9.9418,
+    "population": 36229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nykøbing Sjælland",
+    "region": "Region Zealand",
+    "lat": 55.9249,
+    "lon": 11.6711,
+    "population": 36183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korsør",
+    "region": "Region Zealand",
+    "lat": 55.3299,
+    "lon": 11.1386,
+    "population": 36167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Randers Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.5156,
+    "lon": 10.069,
+    "population": 35843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stige",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4394,
+    "lon": 10.4094,
+    "population": 35737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hinnerup",
+    "region": "Central Denmark Region",
+    "lat": 56.2661,
+    "lon": 10.063,
+    "population": 35583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billund",
+    "region": "Region of Southern Denmark",
+    "lat": 55.7335,
+    "lon": 9.1078,
+    "population": 35564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mårslet",
+    "region": "Central Denmark Region",
+    "lat": 56.0669,
+    "lon": 10.1611,
+    "population": 35329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rudkøbing",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9364,
+    "lon": 10.7102,
+    "population": 35129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hedensted Kommune",
+    "region": "Central Denmark Region",
+    "lat": 55.7968,
+    "lon": 9.744,
+    "population": 35095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assens Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2996,
+    "lon": 10.0795,
+    "population": 34938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gundsømagle",
+    "region": "Region Zealand",
+    "lat": 55.7356,
+    "lon": 12.1516,
+    "population": 34910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guderup",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9898,
+    "lon": 9.8717,
+    "population": 34899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klarup",
+    "region": "North Denmark Region",
+    "lat": 57.0119,
+    "lon": 10.0562,
+    "population": 34776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samsø Kommune",
+    "region": "Central Denmark Region",
+    "lat": 55.8524,
+    "lon": 10.6005,
+    "population": 34773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faxe Kommune",
+    "region": "Region Zealand",
+    "lat": 55.2944,
+    "lon": 12.0611,
+    "population": 34722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viborg Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.45,
+    "lon": 9.3667,
+    "population": 34650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Store Heddinge",
+    "region": "Region Zealand",
+    "lat": 55.3096,
+    "lon": 12.3888,
+    "population": 34495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strib",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5402,
+    "lon": 9.7675,
+    "population": 34415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haderslev Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2444,
+    "lon": 9.3226,
+    "population": 34366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juelsminde",
+    "region": "Central Denmark Region",
+    "lat": 55.7088,
+    "lon": 10.0167,
+    "population": 34264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fensmark",
+    "region": "Region Zealand",
+    "lat": 55.2792,
+    "lon": 11.8038,
+    "population": 34201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sundby",
+    "region": "Region Zealand",
+    "lat": 54.7671,
+    "lon": 11.8498,
+    "population": 34193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jyderup",
+    "region": "Region Zealand",
+    "lat": 55.664,
+    "lon": 11.4203,
+    "population": 34005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Havdrup",
+    "region": "Region Zealand",
+    "lat": 55.5448,
+    "lon": 12.1239,
+    "population": 33987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Præstø",
+    "region": "Region Zealand",
+    "lat": 55.1237,
+    "lon": 12.0448,
+    "population": 33906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slangerup",
+    "region": "Capital Region of Denmark",
+    "lat": 55.85,
+    "lon": 12.1833,
+    "population": 33866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Måløv",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7553,
+    "lon": 12.3233,
+    "population": 33841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikast-Brande Kommune",
+    "region": "Central Denmark Region",
+    "lat": 55.9833,
+    "lon": 9.2167,
+    "population": 33710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ærø Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 54.8583,
+    "lon": 10.4333,
+    "population": 33660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallensbæk",
+    "region": "Capital Region of Denmark",
+    "lat": 55.622,
+    "lon": 12.3851,
+    "population": 33642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolt",
+    "region": "Central Denmark Region",
+    "lat": 56.1084,
+    "lon": 10.0699,
+    "population": 33622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødding",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3657,
+    "lon": 9.0632,
+    "population": 33594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadsten",
+    "region": "Central Denmark Region",
+    "lat": 56.3282,
+    "lon": 10.0493,
+    "population": 33425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åbybro",
+    "region": "North Denmark Region",
+    "lat": 57.1625,
+    "lon": 9.73,
+    "population": 33406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Århus Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.1632,
+    "lon": 10.169,
+    "population": 33086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jægerspris",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8525,
+    "lon": 11.9856,
+    "population": 32946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odense",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3959,
+    "lon": 10.3883,
+    "population": 32816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederikssund Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8096,
+    "lon": 12.0404,
+    "population": 32813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nørre Åby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4611,
+    "lon": 9.8794,
+    "population": 32771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogense",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5669,
+    "lon": 10.0886,
+    "population": 32644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerteminde",
+    "region": "Region of Southern Denmark",
+    "lat": 55.449,
+    "lon": 10.6577,
+    "population": 32634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nørre Alslev",
+    "region": "Region Zealand",
+    "lat": 54.8978,
+    "lon": 11.8841,
+    "population": 32422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3732,
+    "lon": 10.0413,
+    "population": 32249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borup",
+    "region": "Region Zealand",
+    "lat": 55.4947,
+    "lon": 11.9758,
+    "population": 32234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assentoft",
+    "region": "Central Denmark Region",
+    "lat": 56.4421,
+    "lon": 10.1517,
+    "population": 32196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederikshavn",
+    "region": "North Denmark Region",
+    "lat": 57.4407,
+    "lon": 10.5366,
+    "population": 32111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunds",
+    "region": "Central Denmark Region",
+    "lat": 56.2074,
+    "lon": 9.0139,
+    "population": 31964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jyllinge",
+    "region": "Region Zealand",
+    "lat": 55.7529,
+    "lon": 12.1031,
+    "population": 31948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guldborgsund Kommune",
+    "region": "Region Zealand",
+    "lat": 54.7694,
+    "lon": 11.8361,
+    "population": 31926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aabenraa Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9898,
+    "lon": 9.3128,
+    "population": 31461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horsens Kommune",
+    "region": "Central Denmark Region",
+    "lat": 55.9274,
+    "lon": 9.7738,
+    "population": 31424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trørød",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8395,
+    "lon": 12.5443,
+    "population": 31414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ribe",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3305,
+    "lon": 8.7697,
+    "population": 31243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tinglev",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9379,
+    "lon": 9.2555,
+    "population": 30969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vesthimmerland Kommune",
+    "region": "North Denmark Region",
+    "lat": 56.8,
+    "lon": 9.3708,
+    "population": 30958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hornsyld",
+    "region": "Central Denmark Region",
+    "lat": 55.7562,
+    "lon": 9.8564,
+    "population": 30904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Augustenborg",
+    "region": "Region of Southern Denmark",
+    "lat": 54.952,
+    "lon": 9.8722,
+    "population": 30770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Copenhagen",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6759,
+    "lon": 12.5655,
+    "population": 30641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svendborg Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0841,
+    "lon": 10.6139,
+    "population": 30628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vissenbjerg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3848,
+    "lon": 10.1378,
+    "population": 30512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viby",
+    "region": "Region Zealand",
+    "lat": 55.5487,
+    "lon": 12.0239,
+    "population": 30245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veksø",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7547,
+    "lon": 12.2384,
+    "population": 30155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horsens",
+    "region": "Central Denmark Region",
+    "lat": 55.8607,
+    "lon": 9.8503,
+    "population": 30152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavtrup",
+    "region": "Central Denmark Region",
+    "lat": 56.1312,
+    "lon": 10.1199,
+    "population": 30124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brørup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4819,
+    "lon": 9.0176,
+    "population": 30116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skive Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.6448,
+    "lon": 8.9766,
+    "population": 30076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ishøj Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.623,
+    "lon": 12.3057,
+    "population": 29933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadsund",
+    "region": "North Denmark Region",
+    "lat": 56.7148,
+    "lon": 10.1168,
+    "population": 29900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vester-Skerninge",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0732,
+    "lon": 10.4554,
+    "population": 29738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nødebo",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9788,
+    "lon": 12.3468,
+    "population": 29685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virklund",
+    "region": "Central Denmark Region",
+    "lat": 56.1322,
+    "lon": 9.5558,
+    "population": 29597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dianalund",
+    "region": "Region Zealand",
+    "lat": 55.5313,
+    "lon": 11.4925,
+    "population": 29285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birkerød",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8476,
+    "lon": 12.4279,
+    "population": 29256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederikshavn Kommune",
+    "region": "North Denmark Region",
+    "lat": 57.4335,
+    "lon": 10.4251,
+    "population": 29195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varde Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.6167,
+    "lon": 8.5,
+    "population": 29168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skanderborg Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.0796,
+    "lon": 9.8987,
+    "population": 29132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brovst",
+    "region": "North Denmark Region",
+    "lat": 57.0975,
+    "lon": 9.5226,
+    "population": 29088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gørlev",
+    "region": "Region Zealand",
+    "lat": 55.5393,
+    "lon": 11.2271,
+    "population": 29087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulfborg",
+    "region": "Central Denmark Region",
+    "lat": 56.2672,
+    "lon": 8.3217,
+    "population": 28960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faaborg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0951,
+    "lon": 10.2423,
+    "population": 28901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fredericia",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5657,
+    "lon": 9.7526,
+    "population": 28886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karup",
+    "region": "Central Denmark Region",
+    "lat": 56.3067,
+    "lon": 9.1684,
+    "population": 28765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padborg",
+    "region": "Region of Southern Denmark",
+    "lat": 54.8266,
+    "lon": 9.3625,
+    "population": 28722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langeskov",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3565,
+    "lon": 10.5845,
+    "population": 28652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langå",
+    "region": "Central Denmark Region",
+    "lat": 56.3903,
+    "lon": 9.8949,
+    "population": 28366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brande",
+    "region": "Central Denmark Region",
+    "lat": 55.9432,
+    "lon": 9.128,
+    "population": 27906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lind",
+    "region": "Central Denmark Region",
+    "lat": 56.106,
+    "lon": 8.9792,
+    "population": 27861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jelling",
+    "region": "Region of Southern Denmark",
+    "lat": 55.7559,
+    "lon": 9.4258,
+    "population": 27797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Høje-Taastrup Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6564,
+    "lon": 12.2485,
+    "population": 27686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vildbjerg",
+    "region": "Central Denmark Region",
+    "lat": 56.2,
+    "lon": 8.7667,
+    "population": 27568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Christiansfeld",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3582,
+    "lon": 9.487,
+    "population": 27393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringsted",
+    "region": "Region Zealand",
+    "lat": 55.4426,
+    "lon": 11.7901,
+    "population": 27186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hørning",
+    "region": "Central Denmark Region",
+    "lat": 56.087,
+    "lon": 10.0372,
+    "population": 27184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fredericia Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5727,
+    "lon": 9.6949,
+    "population": 27107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibæk",
+    "region": "Central Denmark Region",
+    "lat": 56.0317,
+    "lon": 8.857,
+    "population": 27054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hillerød Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9232,
+    "lon": 12.2379,
+    "population": 27043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vejen Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4631,
+    "lon": 9.05,
+    "population": 26857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolding Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4501,
+    "lon": 9.4581,
+    "population": 26805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spentrup",
+    "region": "Central Denmark Region",
+    "lat": 56.537,
+    "lon": 10.0379,
+    "population": 26769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hårlev",
+    "region": "Region Zealand",
+    "lat": 55.3494,
+    "lon": 12.2338,
+    "population": 26768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Christiansø",
+    "region": "Capital Region of Denmark",
+    "lat": 55.3198,
+    "lon": 15.1878,
+    "population": 26705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vojens",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2464,
+    "lon": 9.306,
+    "population": 26531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Næstved Kommune",
+    "region": "Region Zealand",
+    "lat": 55.2585,
+    "lon": 11.7462,
+    "population": 26494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lemvig",
+    "region": "Central Denmark Region",
+    "lat": 56.5486,
+    "lon": 8.3102,
+    "population": 26358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Høruphav",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9102,
+    "lon": 9.8987,
+    "population": 26323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Læso Kommune",
+    "region": "North Denmark Region",
+    "lat": 57.2677,
+    "lon": 11.0227,
+    "population": 26252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Randers",
+    "region": "Central Denmark Region",
+    "lat": 56.4607,
+    "lon": 10.0364,
+    "population": 25941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brædstrup",
+    "region": "Central Denmark Region",
+    "lat": 55.9715,
+    "lon": 9.6113,
+    "population": 25907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sønder Bjert",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4527,
+    "lon": 9.5674,
+    "population": 25866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lynge",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8394,
+    "lon": 12.2773,
+    "population": 25854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marstal",
+    "region": "Region of Southern Denmark",
+    "lat": 54.8562,
+    "lon": 10.5173,
+    "population": 25732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osted",
+    "region": "Region Zealand",
+    "lat": 55.5623,
+    "lon": 11.9579,
+    "population": 25442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringkøbing-Skjern Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.01,
+    "lon": 8.3967,
+    "population": 25297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solrød Kommune",
+    "region": "Region Zealand",
+    "lat": 55.5355,
+    "lon": 12.1734,
+    "population": 25111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bramming",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4695,
+    "lon": 8.7001,
+    "population": 25108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Allingåbro",
+    "region": "Central Denmark Region",
+    "lat": 56.4643,
+    "lon": 10.3196,
+    "population": 25080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rebild Kommune",
+    "region": "North Denmark Region",
+    "lat": 56.8056,
+    "lon": 9.7778,
+    "population": 24865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svenstrup",
+    "region": "North Denmark Region",
+    "lat": 56.9723,
+    "lon": 9.8481,
+    "population": 24845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerteminde Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.455,
+    "lon": 10.6222,
+    "population": 24797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holstebro",
+    "region": "Central Denmark Region",
+    "lat": 56.3601,
+    "lon": 8.6161,
+    "population": 24782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.446,
+    "lon": 8.3979,
+    "population": 24771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holeby",
+    "region": "Region Zealand",
+    "lat": 54.7115,
+    "lon": 11.4642,
+    "population": 24681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helsingør",
+    "region": "Capital Region of Denmark",
+    "lat": 56.0361,
+    "lon": 12.6136,
+    "population": 24656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glostrup",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6666,
+    "lon": 12.4038,
+    "population": 24592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sindal",
+    "region": "North Denmark Region",
+    "lat": 57.4712,
+    "lon": 10.2031,
+    "population": 24533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hørsholm Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8876,
+    "lon": 12.4857,
+    "population": 24458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjallerup",
+    "region": "North Denmark Region",
+    "lat": 57.1647,
+    "lon": 10.1457,
+    "population": 24454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dragør",
+    "region": "Capital Region of Denmark",
+    "lat": 55.5928,
+    "lon": 12.6722,
+    "population": 24360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silkeborg",
+    "region": "Central Denmark Region",
+    "lat": 56.1697,
+    "lon": 9.5451,
+    "population": 24243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odder",
+    "region": "Central Denmark Region",
+    "lat": 55.9731,
+    "lon": 10.153,
+    "population": 24041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holbæk",
+    "region": "Region Zealand",
+    "lat": 55.7175,
+    "lon": 11.7128,
+    "population": 24003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faaborg-Midtfyn Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2267,
+    "lon": 10.4067,
+    "population": 23720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenlille",
+    "region": "Region Zealand",
+    "lat": 55.5389,
+    "lon": 11.5912,
+    "population": 23614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gladsaxe Municipality",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7667,
+    "lon": 12.4333,
+    "population": 23607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løgten",
+    "region": "Central Denmark Region",
+    "lat": 56.2746,
+    "lon": 10.3118,
+    "population": 23599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farum",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8086,
+    "lon": 12.3607,
+    "population": 23508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Høng",
+    "region": "Region Zealand",
+    "lat": 55.5074,
+    "lon": 11.2887,
+    "population": 23486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tune",
+    "region": "Region Zealand",
+    "lat": 55.5929,
+    "lon": 12.1697,
+    "population": 23450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Struer",
+    "region": "Central Denmark Region",
+    "lat": 56.492,
+    "lon": 8.594,
+    "population": 23391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skovby",
+    "region": "Central Denmark Region",
+    "lat": 56.1567,
+    "lon": 9.9452,
+    "population": 23315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ålborg Kommune",
+    "region": "North Denmark Region",
+    "lat": 57,
+    "lon": 9.95,
+    "population": 23165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vodskov",
+    "region": "North Denmark Region",
+    "lat": 57.1085,
+    "lon": 10.0221,
+    "population": 22971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Favrskov Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.3167,
+    "lon": 9.94,
+    "population": 22949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hornslet",
+    "region": "Central Denmark Region",
+    "lat": 56.3155,
+    "lon": 10.3204,
+    "population": 22824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tjæreborg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4646,
+    "lon": 8.5797,
+    "population": 22792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lolland Kommune",
+    "region": "Region Zealand",
+    "lat": 54.8024,
+    "lon": 11.2952,
+    "population": 22766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slagelse Kommune",
+    "region": "Region Zealand",
+    "lat": 55.3455,
+    "lon": 11.3339,
+    "population": 22538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nykøbing Mors",
+    "region": "North Denmark Region",
+    "lat": 56.7933,
+    "lon": 8.8528,
+    "population": 22510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bellinge",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3353,
+    "lon": 10.3204,
+    "population": 22508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stubbekøbing",
+    "region": "Region Zealand",
+    "lat": 54.8888,
+    "lon": 12.041,
+    "population": 22118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fredensborg",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9756,
+    "lon": 12.4031,
+    "population": 21930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ejby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4301,
+    "lon": 9.9297,
+    "population": 21905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otterup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5153,
+    "lon": 10.3976,
+    "population": 21790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brøndby Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6429,
+    "lon": 12.411,
+    "population": 21761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavnsholt",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8148,
+    "lon": 12.4055,
+    "population": 21507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hårby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2236,
+    "lon": 10.1227,
+    "population": 21182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svendborg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0598,
+    "lon": 10.6068,
+    "population": 20995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aabenraa",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0443,
+    "lon": 9.4174,
+    "population": 20785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helsinge",
+    "region": "Capital Region of Denmark",
+    "lat": 56.0228,
+    "lon": 12.1975,
+    "population": 20603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løgumkloster",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0594,
+    "lon": 8.9551,
+    "population": 20559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langeland Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9,
+    "lon": 10.7722,
+    "population": 20336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tårs",
+    "region": "North Denmark Region",
+    "lat": 57.3833,
+    "lon": 10.1167,
+    "population": 20333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hellebæk",
+    "region": "Capital Region of Denmark",
+    "lat": 56.0682,
+    "lon": 12.5578,
+    "population": 20113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariager",
+    "region": "North Denmark Region",
+    "lat": 56.6499,
+    "lon": 9.9751,
+    "population": 20001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødekro",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0708,
+    "lon": 9.3353,
+    "population": 19882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dronninglund",
+    "region": "North Denmark Region",
+    "lat": 57.1604,
+    "lon": 10.2929,
+    "population": 19565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humlebæk",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9618,
+    "lon": 12.5341,
+    "population": 19519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakskov",
+    "region": "Region Zealand",
+    "lat": 54.8304,
+    "lon": 11.1357,
+    "population": 19500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vejen",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4812,
+    "lon": 9.138,
+    "population": 18911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holbæk Kommune",
+    "region": "Region Zealand",
+    "lat": 55.6592,
+    "lon": 11.6205,
+    "population": 18797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skørping",
+    "region": "North Denmark Region",
+    "lat": 56.8363,
+    "lon": 9.8925,
+    "population": 18652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glamsbjerg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2724,
+    "lon": 10.1048,
+    "population": 18497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjortshøj",
+    "region": "Central Denmark Region",
+    "lat": 56.2481,
+    "lon": 10.2653,
+    "population": 18461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gistrup",
+    "region": "North Denmark Region",
+    "lat": 56.9943,
+    "lon": 9.9909,
+    "population": 18454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Videbæk",
+    "region": "Central Denmark Region",
+    "lat": 56.0876,
+    "lon": 8.6285,
+    "population": 18351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storvorde",
+    "region": "North Denmark Region",
+    "lat": 57.0039,
+    "lon": 10.1013,
+    "population": 18333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galten",
+    "region": "Central Denmark Region",
+    "lat": 56.159,
+    "lon": 9.9169,
+    "population": 18313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruså",
+    "region": "Region of Southern Denmark",
+    "lat": 54.851,
+    "lon": 9.4013,
+    "population": 18273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skanderborg",
+    "region": "Central Denmark Region",
+    "lat": 56.0343,
+    "lon": 9.9318,
+    "population": 18202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordfyns Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5222,
+    "lon": 10.2222,
+    "population": 18185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albertslund Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6802,
+    "lon": 12.348,
+    "population": 17957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solrød",
+    "region": "Region Zealand",
+    "lat": 55.5363,
+    "lon": 12.1827,
+    "population": 17743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ølgod",
+    "region": "Region of Southern Denmark",
+    "lat": 55.8068,
+    "lon": 8.6286,
+    "population": 17682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frederiksberg",
+    "region": "Region Zealand",
+    "lat": 55.4162,
+    "lon": 11.5693,
+    "population": 17592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løkken",
+    "region": "North Denmark Region",
+    "lat": 57.3705,
+    "lon": 9.7147,
+    "population": 17553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Give",
+    "region": "Region of Southern Denmark",
+    "lat": 55.8452,
+    "lon": 9.2377,
+    "population": 17527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lunderskov",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4838,
+    "lon": 9.2992,
+    "population": 17465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neder Holluf",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3645,
+    "lon": 10.4482,
+    "population": 17362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nibe",
+    "region": "North Denmark Region",
+    "lat": 56.9815,
+    "lon": 9.6392,
+    "population": 17297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hirtshals",
+    "region": "North Denmark Region",
+    "lat": 57.5881,
+    "lon": 9.9592,
+    "population": 17231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ålestrup",
+    "region": "North Denmark Region",
+    "lat": 56.6947,
+    "lon": 9.4934,
+    "population": 17174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Næstved",
+    "region": "Region Zealand",
+    "lat": 55.2299,
+    "lon": 11.7609,
+    "population": 17038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Struer Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.4667,
+    "lon": 8.5833,
+    "population": 17028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snejbjerg",
+    "region": "Central Denmark Region",
+    "lat": 56.1329,
+    "lon": 8.9035,
+    "population": 16867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faxe",
+    "region": "Region Zealand",
+    "lat": 55.2556,
+    "lon": 12.1193,
+    "population": 16853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødvig",
+    "region": "Region Zealand",
+    "lat": 55.2554,
+    "lon": 12.3794,
+    "population": 16798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hornbæk",
+    "region": "Capital Region of Denmark",
+    "lat": 56.0903,
+    "lon": 12.4569,
+    "population": 16685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brønderslev",
+    "region": "North Denmark Region",
+    "lat": 57.2702,
+    "lon": 9.941,
+    "population": 16667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haslev",
+    "region": "Region Zealand",
+    "lat": 55.3235,
+    "lon": 11.9639,
+    "population": 16583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ishøj",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6154,
+    "lon": 12.3518,
+    "population": 16374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenløse",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7683,
+    "lon": 12.1972,
+    "population": 16307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hals",
+    "region": "North Denmark Region",
+    "lat": 56.9961,
+    "lon": 10.3081,
+    "population": 16100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silkeborg Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.175,
+    "lon": 9.5467,
+    "population": 15984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nexø",
+    "region": "Capital Region of Denmark",
+    "lat": 55.0607,
+    "lon": 15.1306,
+    "population": 15981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thisted Kommune",
+    "region": "North Denmark Region",
+    "lat": 57.004,
+    "lon": 8.6183,
+    "population": 15861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thurø By",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0474,
+    "lon": 10.6639,
+    "population": 15727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ry",
+    "region": "Central Denmark Region",
+    "lat": 56.0904,
+    "lon": 9.7651,
+    "population": 15503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greve Kommune",
+    "region": "Region Zealand",
+    "lat": 55.5877,
+    "lon": 12.2506,
+    "population": 15439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trige",
+    "region": "Central Denmark Region",
+    "lat": 56.2529,
+    "lon": 10.1484,
+    "population": 15437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årslev",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3035,
+    "lon": 10.4643,
+    "population": 15312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brønderslev Kommune",
+    "region": "North Denmark Region",
+    "lat": 57.2351,
+    "lon": 10.1006,
+    "population": 15209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Allerød Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.8586,
+    "lon": 12.3256,
+    "population": 15193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hvidovre Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6317,
+    "lon": 12.4662,
+    "population": 15109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liseleje",
+    "region": "Capital Region of Denmark",
+    "lat": 56.0129,
+    "lon": 11.9654,
+    "population": 15104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haderslev",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2494,
+    "lon": 9.4877,
+    "population": 15038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Auning",
+    "region": "Central Denmark Region",
+    "lat": 56.4308,
+    "lon": 10.3782,
+    "population": 14965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skævinge",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9079,
+    "lon": 12.1504,
+    "population": 14963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammel",
+    "region": "Central Denmark Region",
+    "lat": 56.2576,
+    "lon": 9.8632,
+    "population": 14919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odder Kommune",
+    "region": "Central Denmark Region",
+    "lat": 55.9297,
+    "lon": 10.153,
+    "population": 14845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalundborg",
+    "region": "Region Zealand",
+    "lat": 55.6795,
+    "lon": 11.0886,
+    "population": 14641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringkøbing",
+    "region": "Central Denmark Region",
+    "lat": 56.0901,
+    "lon": 8.244,
+    "population": 14603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lemvig Kommune",
+    "region": "Central Denmark Region",
+    "lat": 56.4914,
+    "lon": 8.2993,
+    "population": 14567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Søndersø",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4853,
+    "lon": 10.2554,
+    "population": 14451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirke Hvalsø",
+    "region": "Region Zealand",
+    "lat": 55.5917,
+    "lon": 11.8625,
+    "population": 14377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Støvring",
+    "region": "North Denmark Region",
+    "lat": 56.8854,
+    "lon": 9.8384,
+    "population": 14370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morsø Kommune",
+    "region": "North Denmark Region",
+    "lat": 56.7962,
+    "lon": 8.7327,
+    "population": 14259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skælskør",
+    "region": "Region Zealand",
+    "lat": 55.2506,
+    "lon": 11.2935,
+    "population": 14226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tommerup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3195,
+    "lon": 10.2066,
+    "population": 14215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødby",
+    "region": "Region Zealand",
+    "lat": 54.6949,
+    "lon": 11.3888,
+    "population": 13706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svinninge",
+    "region": "Region Zealand",
+    "lat": 55.7211,
+    "lon": 11.4655,
+    "population": 13659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brenderup",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4841,
+    "lon": 9.9791,
+    "population": 13607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hundested",
+    "region": "Capital Region of Denmark",
+    "lat": 55.964,
+    "lon": 11.8504,
+    "population": 13521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødovre",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6806,
+    "lon": 12.4537,
+    "population": 13462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Espergærde",
+    "region": "Capital Region of Denmark",
+    "lat": 55.9946,
+    "lon": 12.5473,
+    "population": 13459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dybbøl",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9108,
+    "lon": 9.736,
+    "population": 13441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Højby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.3318,
+    "lon": 10.4373,
+    "population": 13410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gentofte Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.75,
+    "lon": 12.55,
+    "population": 13282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordborg",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0573,
+    "lon": 9.7408,
+    "population": 13238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snoghøj",
+    "region": "Region of Southern Denmark",
+    "lat": 55.5225,
+    "lon": 9.7212,
+    "population": 13174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taastrup",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6501,
+    "lon": 12.3016,
+    "population": 13063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Løjt Kirkeby",
+    "region": "Region of Southern Denmark",
+    "lat": 55.0896,
+    "lon": 9.4608,
+    "population": 12908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjæverskov",
+    "region": "Region Zealand",
+    "lat": 55.4576,
+    "lon": 12.0365,
+    "population": 12866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aars",
+    "region": "North Denmark Region",
+    "lat": 56.804,
+    "lon": 9.5144,
+    "population": 12787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gram",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2895,
+    "lon": 9.0491,
+    "population": 12749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gråsten",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9192,
+    "lon": 9.5952,
+    "population": 12677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skibby",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7512,
+    "lon": 11.9608,
+    "population": 12640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Assens",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2702,
+    "lon": 9.9008,
+    "population": 12567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanstholm",
+    "region": "North Denmark Region",
+    "lat": 57.1167,
+    "lon": 8.6167,
+    "population": 12563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lejre Kommune",
+    "region": "Region Zealand",
+    "lat": 55.6337,
+    "lon": 11.9223,
+    "population": 12533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuglebjerg",
+    "region": "Region Zealand",
+    "lat": 55.306,
+    "lon": 11.5477,
+    "population": 12437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tårnby Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6039,
+    "lon": 12.596,
+    "population": 11848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariagerfjord Kommune",
+    "region": "North Denmark Region",
+    "lat": 56.6972,
+    "lon": 9.8472,
+    "population": 11768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seden",
+    "region": "Region of Southern Denmark",
+    "lat": 55.4265,
+    "lon": 10.4427,
+    "population": 11579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjerringbro",
+    "region": "Central Denmark Region",
+    "lat": 56.378,
+    "lon": 9.6607,
+    "population": 11437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Broager",
+    "region": "Region of Southern Denmark",
+    "lat": 54.8894,
+    "lon": 9.6746,
+    "population": 11373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bornholm Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.1239,
+    "lon": 14.9111,
+    "population": 11369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Framlev",
+    "region": "Central Denmark Region",
+    "lat": 56.1566,
+    "lon": 10.0132,
+    "population": 11338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vester Hassing",
+    "region": "North Denmark Region",
+    "lat": 57.0677,
+    "lon": 10.1256,
+    "population": 11204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helsingør Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 56.05,
+    "lon": 12.5,
+    "population": 11125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallensbæk Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6313,
+    "lon": 12.3737,
+    "population": 11096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stoholm",
+    "region": "Central Denmark Region",
+    "lat": 56.4845,
+    "lon": 9.1462,
+    "population": 11073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harboøre",
+    "region": "Central Denmark Region",
+    "lat": 56.6175,
+    "lon": 8.1807,
+    "population": 10982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herning",
+    "region": "Central Denmark Region",
+    "lat": 56.1362,
+    "lon": 8.9766,
+    "population": 10876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vejle Kommune",
+    "region": "Region of Southern Denmark",
+    "lat": 55.7487,
+    "lon": 9.4042,
+    "population": 10851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pandrup",
+    "region": "North Denmark Region",
+    "lat": 57.2215,
+    "lon": 9.6757,
+    "population": 10610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nivå",
+    "region": "Capital Region of Denmark",
+    "lat": 55.934,
+    "lon": 12.5048,
+    "population": 10598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ikast",
+    "region": "Central Denmark Region",
+    "lat": 56.1388,
+    "lon": 9.1577,
+    "population": 10577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Furesø Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.7833,
+    "lon": 12.3417,
+    "population": 10574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tønder",
+    "region": "Region of Southern Denmark",
+    "lat": 54.9331,
+    "lon": 8.8667,
+    "population": 10514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rødovre Kommune",
+    "region": "Capital Region of Denmark",
+    "lat": 55.6885,
+    "lon": 12.4483,
+    "population": 10455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ringe",
+    "region": "Region of Southern Denmark",
+    "lat": 55.2383,
+    "lon": 10.4786,
+    "population": 10403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varde",
+    "region": "Region of Southern Denmark",
+    "lat": 55.6211,
+    "lon": 8.4807,
+    "population": 10400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strandby",
+    "region": "North Denmark Region",
+    "lat": 57.4915,
+    "lon": 10.4961,
+    "population": 10240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sæby",
+    "region": "North Denmark Region",
+    "lat": 57.3319,
+    "lon": 10.5225,
+    "population": 10134,
+    "timezone": "UTC"
+  }
+]

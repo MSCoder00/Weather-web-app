@@ -1,0 +1,1298 @@
+[
+  {
+    "name": "Uulu",
+    "region": "Pärnu County",
+    "lat": 58.2836,
+    "lon": 24.5872,
+    "population": 49313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jõhvi vald",
+    "region": "Ida-Viru County",
+    "lat": 59.3565,
+    "lon": 27.393,
+    "population": 48502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tehumardi",
+    "region": "Saare County",
+    "lat": 58.1803,
+    "lon": 22.2465,
+    "population": 48168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voka",
+    "region": "Ida-Viru County",
+    "lat": 59.4078,
+    "lon": 27.5826,
+    "population": 47899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohtla-Järve",
+    "region": "Ida-Viru County",
+    "lat": 59.3986,
+    "lon": 27.2731,
+    "population": 47791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maardu linn",
+    "region": "Harju County",
+    "lat": 59.4639,
+    "lon": 24.9735,
+    "population": 47654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iisaku",
+    "region": "Ida-Viru County",
+    "lat": 59.1014,
+    "lon": 27.3081,
+    "population": 47440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riisipere",
+    "region": "Harju County",
+    "lat": 59.1142,
+    "lon": 24.3106,
+    "population": 47423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pärnu",
+    "region": "Pärnu County",
+    "lat": 58.3859,
+    "lon": 24.4971,
+    "population": 47358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kõrveküla",
+    "region": "Tartu County",
+    "lat": 58.4242,
+    "lon": 26.7822,
+    "population": 47322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tartu linn",
+    "region": "Tartu County",
+    "lat": 58.375,
+    "lon": 26.7326,
+    "population": 47315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinni",
+    "region": "Lääne-Viru County",
+    "lat": 59.2958,
+    "lon": 26.4322,
+    "population": 46664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tootsi",
+    "region": "Pärnu County",
+    "lat": 58.5781,
+    "lon": 24.7925,
+    "population": 46042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haapsalu linn",
+    "region": "Lääne County",
+    "lat": 58.9358,
+    "lon": 23.53,
+    "population": 45970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paldiski",
+    "region": "Harju County",
+    "lat": 59.3567,
+    "lon": 24.0531,
+    "population": 45687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiviõli",
+    "region": "Ida-Viru County",
+    "lat": 59.3531,
+    "lon": 26.9711,
+    "population": 45610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narva",
+    "region": "Ida-Viru County",
+    "lat": 59.3772,
+    "lon": 28.1903,
+    "population": 45569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakke",
+    "region": "Lääne-Viru County",
+    "lat": 58.9817,
+    "lon": 26.2544,
+    "population": 45423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Põltsamaa",
+    "region": "Jõgeva County",
+    "lat": 58.6525,
+    "lon": 25.9706,
+    "population": 45407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ülenurme",
+    "region": "Tartu County",
+    "lat": 58.3162,
+    "lon": 26.7252,
+    "population": 45393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jõgeva",
+    "region": "Jõgeva County",
+    "lat": 58.7467,
+    "lon": 26.3939,
+    "population": 45220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viimsi vald",
+    "region": "Harju County",
+    "lat": 59.502,
+    "lon": 24.8483,
+    "population": 44800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linaküla",
+    "region": "Pärnu County",
+    "lat": 58.1372,
+    "lon": 23.9744,
+    "population": 44753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohtla-Nõmme",
+    "region": "Ida-Viru County",
+    "lat": 59.3517,
+    "lon": 27.175,
+    "population": 44560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Võru vald",
+    "region": "Võru County",
+    "lat": 57.8662,
+    "lon": 26.9742,
+    "population": 44423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rapla vald",
+    "region": "Rapla County",
+    "lat": 59.0331,
+    "lon": 24.7179,
+    "population": 44354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orissaare",
+    "region": "Saare County",
+    "lat": 58.5592,
+    "lon": 23.0826,
+    "population": 44244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sindi",
+    "region": "Pärnu County",
+    "lat": 58.4006,
+    "lon": 24.6675,
+    "population": 43820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saue",
+    "region": "Harju County",
+    "lat": 59.3226,
+    "lon": 24.5497,
+    "population": 43757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadrina vald",
+    "region": "Lääne-Viru County",
+    "lat": 59.3746,
+    "lon": 26.0415,
+    "population": 43565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tapa",
+    "region": "Lääne-Viru County",
+    "lat": 59.2606,
+    "lon": 25.9586,
+    "population": 43413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mõisaküla",
+    "region": "Viljandi County",
+    "lat": 58.0922,
+    "lon": 25.1864,
+    "population": 43356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harku vald",
+    "region": "Harju County",
+    "lat": 59.3916,
+    "lon": 24.4621,
+    "population": 43332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saue vald",
+    "region": "Harju County",
+    "lat": 59.2925,
+    "lon": 24.525,
+    "population": 42907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tallinn",
+    "region": "Harju County",
+    "lat": 59.437,
+    "lon": 24.7535,
+    "population": 42770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abja-Paluoja",
+    "region": "Viljandi County",
+    "lat": 58.1253,
+    "lon": 25.3497,
+    "population": 42408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiili",
+    "region": "Harju County",
+    "lat": 59.3077,
+    "lon": 24.8378,
+    "population": 42369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toila",
+    "region": "Ida-Viru County",
+    "lat": 59.4213,
+    "lon": 27.5081,
+    "population": 41954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurepalu",
+    "region": "Tartu County",
+    "lat": 58.3186,
+    "lon": 26.8408,
+    "population": 41648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadrina",
+    "region": "Lääne-Viru County",
+    "lat": 59.3347,
+    "lon": 26.145,
+    "population": 40937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vana-Antsla",
+    "region": "Võru County",
+    "lat": 57.8661,
+    "lon": 26.5322,
+    "population": 40874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaiatu",
+    "region": "Lääne-Viru County",
+    "lat": 59.3556,
+    "lon": 25.9953,
+    "population": 40725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muhu vald",
+    "region": "Saare County",
+    "lat": 58.5849,
+    "lon": 23.2561,
+    "population": 40339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunda",
+    "region": "Lääne-Viru County",
+    "lat": 59.4986,
+    "lon": 26.5261,
+    "population": 40210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Põltsamaa vald",
+    "region": "Jõgeva County",
+    "lat": 58.6407,
+    "lon": 26.0096,
+    "population": 39953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uuemõisa",
+    "region": "Lääne County",
+    "lat": 58.9394,
+    "lon": 23.5894,
+    "population": 39895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaida",
+    "region": "Harju County",
+    "lat": 59.2855,
+    "lon": 24.979,
+    "population": 39699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Järva-Jaani",
+    "region": "Järva County",
+    "lat": 59.0386,
+    "lon": 25.8864,
+    "population": 39512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Väike-Maarja",
+    "region": "Lääne-Viru County",
+    "lat": 59.1264,
+    "lon": 26.25,
+    "population": 39186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liiva",
+    "region": "Saare County",
+    "lat": 58.6019,
+    "lon": 23.2469,
+    "population": 39091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haabneeme",
+    "region": "Harju County",
+    "lat": 59.5136,
+    "lon": 24.8223,
+    "population": 38959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pärnu linn",
+    "region": "Pärnu County",
+    "lat": 58.379,
+    "lon": 24.5278,
+    "population": 38898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kihnu vald",
+    "region": "Pärnu County",
+    "lat": 58.13,
+    "lon": 23.99,
+    "population": 38564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Võru",
+    "region": "Võru County",
+    "lat": 57.8339,
+    "lon": 27.0194,
+    "population": 38361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elva",
+    "region": "Tartu County",
+    "lat": 58.2225,
+    "lon": 26.4211,
+    "population": 38287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Räpina",
+    "region": "Põlva County",
+    "lat": 58.0981,
+    "lon": 27.4636,
+    "population": 38013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tartu",
+    "region": "Tartu County",
+    "lat": 58.3806,
+    "lon": 26.7251,
+    "population": 37882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luunja",
+    "region": "Tartu County",
+    "lat": 58.3558,
+    "lon": 26.8808,
+    "population": 37479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anija vald",
+    "region": "Harju County",
+    "lat": 59.2764,
+    "lon": 25.4817,
+    "population": 37320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aseri",
+    "region": "Lääne-Viru County",
+    "lat": 59.4506,
+    "lon": 26.8675,
+    "population": 36901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohila",
+    "region": "Rapla County",
+    "lat": 59.1681,
+    "lon": 24.7575,
+    "population": 36706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kehtna vald",
+    "region": "Rapla County",
+    "lat": 58.8427,
+    "lon": 24.89,
+    "population": 36467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saarde vald",
+    "region": "Pärnu County",
+    "lat": 58.138,
+    "lon": 24.9556,
+    "population": 36311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kehtna",
+    "region": "Rapla County",
+    "lat": 58.9303,
+    "lon": 24.8781,
+    "population": 36249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narva-Jõesuu",
+    "region": "Ida-Viru County",
+    "lat": 59.4589,
+    "lon": 28.0408,
+    "population": 36196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haljala",
+    "region": "Lääne-Viru County",
+    "lat": 59.4336,
+    "lon": 26.2614,
+    "population": 35948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tapa vald",
+    "region": "Lääne-Viru County",
+    "lat": 59.2382,
+    "lon": 25.8457,
+    "population": 35903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nõo",
+    "region": "Tartu County",
+    "lat": 58.2756,
+    "lon": 26.5375,
+    "population": 35798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jõgeva vald",
+    "region": "Jõgeva County",
+    "lat": 58.7873,
+    "lon": 26.3812,
+    "population": 35722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turba",
+    "region": "Harju County",
+    "lat": 59.0831,
+    "lon": 24.225,
+    "population": 35632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puhja",
+    "region": "Tartu County",
+    "lat": 58.3419,
+    "lon": 26.3147,
+    "population": 35202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rapla",
+    "region": "Rapla County",
+    "lat": 59.0072,
+    "lon": 24.7928,
+    "population": 34743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saku vald",
+    "region": "Harju County",
+    "lat": 59.2807,
+    "lon": 24.7165,
+    "population": 34594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajusti",
+    "region": "Lääne-Viru County",
+    "lat": 59.2744,
+    "lon": 26.4233,
+    "population": 34563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paikuse",
+    "region": "Pärnu County",
+    "lat": 58.3792,
+    "lon": 24.6344,
+    "population": 34432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lihula",
+    "region": "Pärnu County",
+    "lat": 58.6814,
+    "lon": 23.8453,
+    "population": 34185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sõmeru",
+    "region": "Lääne-Viru County",
+    "lat": 59.3611,
+    "lon": 26.4375,
+    "population": 33954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viljandi vald",
+    "region": "Viljandi County",
+    "lat": 58.3639,
+    "lon": 25.491,
+    "population": 33408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinni vald",
+    "region": "Lääne-Viru County",
+    "lat": 59.2374,
+    "lon": 26.6226,
+    "population": 33272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohila vald",
+    "region": "Rapla County",
+    "lat": 59.1528,
+    "lon": 24.7334,
+    "population": 32745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keila",
+    "region": "Harju County",
+    "lat": 59.3036,
+    "lon": 24.4131,
+    "population": 32705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanepi",
+    "region": "Põlva County",
+    "lat": 57.9831,
+    "lon": 26.7564,
+    "population": 32308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loksa",
+    "region": "Harju County",
+    "lat": 59.5764,
+    "lon": 25.7214,
+    "population": 32264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Väike-Maarja vald",
+    "region": "Lääne-Viru County",
+    "lat": 59.0656,
+    "lon": 26.3142,
+    "population": 31467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taebla",
+    "region": "Lääne County",
+    "lat": 58.9539,
+    "lon": 23.7522,
+    "population": 31323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raasiku",
+    "region": "Harju County",
+    "lat": 59.3664,
+    "lon": 25.1831,
+    "population": 31183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karksi-Nuia",
+    "region": "Viljandi County",
+    "lat": 58.1033,
+    "lon": 25.5628,
+    "population": 30771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallaste",
+    "region": "Tartu County",
+    "lat": 58.6631,
+    "lon": 27.1616,
+    "population": 30010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabasalu",
+    "region": "Harju County",
+    "lat": 59.4261,
+    "lon": 24.5533,
+    "population": 29866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Märjamaa",
+    "region": "Rapla County",
+    "lat": 58.9039,
+    "lon": 24.4306,
+    "population": 29830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Võhma",
+    "region": "Viljandi County",
+    "lat": 58.6283,
+    "lon": 25.5483,
+    "population": 29827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valga",
+    "region": "Valga County",
+    "lat": 57.7778,
+    "lon": 26.0473,
+    "population": 29779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Püssi",
+    "region": "Ida-Viru County",
+    "lat": 59.36,
+    "lon": 27.0497,
+    "population": 29484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lüganuse vald",
+    "region": "Ida-Viru County",
+    "lat": 59.3926,
+    "lon": 27.0764,
+    "population": 29385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jüri",
+    "region": "Harju County",
+    "lat": 59.3542,
+    "lon": 24.8942,
+    "population": 29361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viiratsi",
+    "region": "Viljandi County",
+    "lat": 58.36,
+    "lon": 25.6372,
+    "population": 29142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Türi vald",
+    "region": "Järva County",
+    "lat": 58.7414,
+    "lon": 25.4644,
+    "population": 28848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loo",
+    "region": "Harju County",
+    "lat": 59.4312,
+    "lon": 24.9495,
+    "population": 28555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peipsiääre vald",
+    "region": "Tartu County",
+    "lat": 58.5156,
+    "lon": 27.1844,
+    "population": 28427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jõhvi",
+    "region": "Ida-Viru County",
+    "lat": 59.3592,
+    "lon": 27.4211,
+    "population": 28116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanepi vald",
+    "region": "Põlva County",
+    "lat": 57.9806,
+    "lon": 26.7615,
+    "population": 27860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jõelähtme vald",
+    "region": "Harju County",
+    "lat": 59.44,
+    "lon": 25.1353,
+    "population": 27752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Põlva vald",
+    "region": "Põlva County",
+    "lat": 58.0837,
+    "lon": 26.9824,
+    "population": 27579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Särevere",
+    "region": "Järva County",
+    "lat": 58.79,
+    "lon": 25.4281,
+    "population": 27464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haapsalu",
+    "region": "Lääne County",
+    "lat": 58.9431,
+    "lon": 23.5414,
+    "population": 27346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narva-Jõesuu linn",
+    "region": "Ida-Viru County",
+    "lat": 59.4413,
+    "lon": 28.0214,
+    "population": 27243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lääne-Nigula vald",
+    "region": "Lääne County",
+    "lat": 58.9605,
+    "lon": 23.7449,
+    "population": 27227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rõuge vald",
+    "region": "Võru County",
+    "lat": 57.7278,
+    "lon": 26.8803,
+    "population": 27202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paide",
+    "region": "Järva County",
+    "lat": 58.8856,
+    "lon": 25.5572,
+    "population": 26781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuusalu",
+    "region": "Harju County",
+    "lat": 59.4439,
+    "lon": 25.4414,
+    "population": 26752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rae vald",
+    "region": "Harju County",
+    "lat": 59.332,
+    "lon": 24.9393,
+    "population": 26481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Märjamaa vald",
+    "region": "Rapla County",
+    "lat": 58.9026,
+    "lon": 24.3942,
+    "population": 26163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilingi-Nõmme",
+    "region": "Pärnu County",
+    "lat": 58.1503,
+    "lon": 24.9642,
+    "population": 25757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rummu",
+    "region": "Harju County",
+    "lat": 59.5353,
+    "lon": 24.7997,
+    "population": 25588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kose",
+    "region": "Harju County",
+    "lat": 59.46,
+    "lon": 24.8782,
+    "population": 25197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luunja vald",
+    "region": "Tartu County",
+    "lat": 58.3918,
+    "lon": 26.9557,
+    "population": 25147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laagri",
+    "region": "Harju County",
+    "lat": 59.3508,
+    "lon": 24.6142,
+    "population": 24997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamsalu",
+    "region": "Lääne-Viru County",
+    "lat": 59.1586,
+    "lon": 26.1153,
+    "population": 24513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alatskivi",
+    "region": "Tartu County",
+    "lat": 58.5981,
+    "lon": 27.1336,
+    "population": 24503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pringi",
+    "region": "Harju County",
+    "lat": 59.5346,
+    "lon": 24.7973,
+    "population": 24055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harku",
+    "region": "Harju County",
+    "lat": 59.3864,
+    "lon": 24.5718,
+    "population": 23616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loksa linn",
+    "region": "Harju County",
+    "lat": 59.5784,
+    "lon": 25.7167,
+    "population": 23482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otepää vald",
+    "region": "Valga County",
+    "lat": 58.0218,
+    "lon": 26.4531,
+    "population": 22496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiili vald",
+    "region": "Harju County",
+    "lat": 59.2967,
+    "lon": 24.8529,
+    "population": 22216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antsla vald",
+    "region": "Võru County",
+    "lat": 57.7774,
+    "lon": 26.5952,
+    "population": 21957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viru-Nigula vald",
+    "region": "Lääne-Viru County",
+    "lat": 59.4639,
+    "lon": 26.5859,
+    "population": 21224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viimsi",
+    "region": "Harju County",
+    "lat": 59.505,
+    "lon": 24.8481,
+    "population": 20763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rõuge",
+    "region": "Võru County",
+    "lat": 57.7278,
+    "lon": 26.9097,
+    "population": 20677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vormsi vald",
+    "region": "Lääne County",
+    "lat": 58.9999,
+    "lon": 23.2341,
+    "population": 20619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruhnu",
+    "region": "Saare County",
+    "lat": 57.8003,
+    "lon": 23.2483,
+    "population": 20401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viljandi",
+    "region": "Viljandi County",
+    "lat": 58.3639,
+    "lon": 25.59,
+    "population": 20362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hullo",
+    "region": "Lääne County",
+    "lat": 58.99,
+    "lon": 23.2444,
+    "population": 19934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Türi",
+    "region": "Järva County",
+    "lat": 58.8086,
+    "lon": 25.4325,
+    "population": 19873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tori vald",
+    "region": "Pärnu County",
+    "lat": 58.4866,
+    "lon": 24.8896,
+    "population": 19512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sauga",
+    "region": "Pärnu County",
+    "lat": 58.4272,
+    "lon": 24.495,
+    "population": 18429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antsla",
+    "region": "Võru County",
+    "lat": 57.8256,
+    "lon": 26.5406,
+    "population": 18335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuressaare",
+    "region": "Saare County",
+    "lat": 58.2481,
+    "lon": 22.5039,
+    "population": 17737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kärdla",
+    "region": "Hiiu County",
+    "lat": 58.9978,
+    "lon": 22.7492,
+    "population": 16775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tartu vald",
+    "region": "Tartu County",
+    "lat": 58.478,
+    "lon": 26.7496,
+    "population": 15688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nõo vald",
+    "region": "Tartu County",
+    "lat": 58.242,
+    "lon": 26.525,
+    "population": 15576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruhnu vald",
+    "region": "Saare County",
+    "lat": 57.8031,
+    "lon": 23.2425,
+    "population": 15533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paide linn",
+    "region": "Järva County",
+    "lat": 58.885,
+    "lon": 25.5602,
+    "population": 15209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Audru",
+    "region": "Pärnu County",
+    "lat": 58.4086,
+    "lon": 24.3739,
+    "population": 15172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kambja vald",
+    "region": "Tartu County",
+    "lat": 58.2026,
+    "lon": 26.69,
+    "population": 15165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Värska",
+    "region": "Võru County",
+    "lat": 57.9581,
+    "lon": 27.6381,
+    "population": 14894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koeru",
+    "region": "Järva County",
+    "lat": 58.9631,
+    "lon": 26.0308,
+    "population": 14772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saku",
+    "region": "Harju County",
+    "lat": 59.3035,
+    "lon": 24.6638,
+    "population": 14743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakvere vald",
+    "region": "Lääne-Viru County",
+    "lat": 59.3246,
+    "lon": 26.2976,
+    "population": 14566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mustvee",
+    "region": "Jõgeva County",
+    "lat": 58.8486,
+    "lon": 26.9397,
+    "population": 14312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pärnu-Jaagupi",
+    "region": "Pärnu County",
+    "lat": 58.6105,
+    "lon": 24.5069,
+    "population": 14160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sillamäe",
+    "region": "Ida-Viru County",
+    "lat": 59.397,
+    "lon": 27.7633,
+    "population": 14108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suure-Jaani",
+    "region": "Viljandi County",
+    "lat": 58.5361,
+    "lon": 25.4706,
+    "population": 13752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haljala vald",
+    "region": "Lääne-Viru County",
+    "lat": 59.4543,
+    "lon": 26.2202,
+    "population": 13575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kehra",
+    "region": "Harju County",
+    "lat": 59.3361,
+    "lon": 25.3211,
+    "population": 13522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aruküla",
+    "region": "Harju County",
+    "lat": 59.3669,
+    "lon": 25.0762,
+    "population": 13252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Põlva",
+    "region": "Põlva County",
+    "lat": 58.0603,
+    "lon": 27.0694,
+    "population": 12985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Järvakandi",
+    "region": "Rapla County",
+    "lat": 58.7789,
+    "lon": 24.8258,
+    "population": 12816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Räpina vald",
+    "region": "Põlva County",
+    "lat": 58.1078,
+    "lon": 27.3858,
+    "population": 11787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maardu",
+    "region": "Harju County",
+    "lat": 59.4653,
+    "lon": 24.9822,
+    "population": 11350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakvere",
+    "region": "Lääne-Viru County",
+    "lat": 59.3464,
+    "lon": 26.3558,
+    "population": 11261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vändra",
+    "region": "Pärnu County",
+    "lat": 58.6481,
+    "lon": 25.0361,
+    "population": 10940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tõrva",
+    "region": "Valga County",
+    "lat": 58.0028,
+    "lon": 25.935,
+    "population": 10308,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Greenland",
+    "region": "Saint Andrew",
+    "lat": 13.2581,
+    "lon": -59.5776,
+    "population": 45958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bridgetown",
+    "region": "Saint Michael",
+    "lat": 13.1073,
+    "lon": -59.6202,
+    "population": 40219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Speightstown",
+    "region": "Saint Peter",
+    "lat": 13.2507,
+    "lon": -59.644,
+    "population": 40071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crane",
+    "region": "Saint Philip",
+    "lat": 13.1049,
+    "lon": -59.4486,
+    "population": 17681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oistins",
+    "region": "Christ Church",
+    "lat": 13.0707,
+    "lon": -59.5464,
+    "population": 13972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bathsheba",
+    "region": "Saint Joseph",
+    "lat": 13.2113,
+    "lon": -59.526,
+    "population": 12555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holetown",
+    "region": "Saint James",
+    "lat": 13.1867,
+    "lon": -59.6381,
+    "population": 10334,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,2346 @@
+[
+  {
+    "name": "Touggourt",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.1,
+    "lon": 6.0667,
+    "population": 49783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tipasa",
+    "region": "Tipasa",
+    "lat": 36.5897,
+    "lon": 2.4475,
+    "population": 49734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Bayadh",
+    "region": "El Bayadh",
+    "lat": 33.6832,
+    "lon": 1.0193,
+    "population": 49518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn Boucif",
+    "region": "Médéa",
+    "lat": 35.8912,
+    "lon": 3.1585,
+    "population": 49383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Touta",
+    "region": "Batna",
+    "lat": 35.3768,
+    "lon": 5.9,
+    "population": 49331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazouna",
+    "region": "Relizane",
+    "lat": 36.1223,
+    "lon": 0.8986,
+    "population": 49306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laghouat",
+    "region": "Laghouat",
+    "lat": 33.8,
+    "lon": 2.8651,
+    "population": 49277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tizi Rached",
+    "region": "Tizi Ouzou",
+    "lat": 36.6718,
+    "lon": 4.1918,
+    "population": 48935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zeralda",
+    "region": "Tipasa",
+    "lat": 36.7117,
+    "lon": 2.8424,
+    "population": 48906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ksar el Boukhari",
+    "region": "Médéa",
+    "lat": 35.8889,
+    "lon": 2.749,
+    "population": 48828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telerghma",
+    "region": "Mila",
+    "lat": 36.1165,
+    "lon": 6.3543,
+    "population": 48824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Khroub",
+    "region": "Constantine",
+    "lat": 36.2633,
+    "lon": 6.6936,
+    "population": 48805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sfissef",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.2344,
+    "lon": -0.2434,
+    "population": 48799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Es Senia",
+    "region": "Oran",
+    "lat": 35.6478,
+    "lon": -0.624,
+    "population": 48739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chelghoum el Aïd",
+    "region": "Mila",
+    "lat": 36.1629,
+    "lon": 6.1665,
+    "population": 48085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Draa Ben Khedda",
+    "region": "Tizi Ouzou",
+    "lat": 36.7344,
+    "lon": 3.9622,
+    "population": 48058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tizi-n-Tleta",
+    "region": "Tizi Ouzou",
+    "lat": 36.5457,
+    "lon": 4.0571,
+    "population": 48044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megarine",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.1926,
+    "lon": 6.0935,
+    "population": 47689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reggane",
+    "region": "Adrar",
+    "lat": 26.7158,
+    "lon": 0.1714,
+    "population": 47604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenira",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.0197,
+    "lon": -0.5321,
+    "population": 47415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn el Bell",
+    "region": "Djelfa",
+    "lat": 34.3438,
+    "lon": 3.2247,
+    "population": 47127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Médéa",
+    "region": "Médéa",
+    "lat": 36.2642,
+    "lon": 2.7539,
+    "population": 47063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rouissat",
+    "region": "Ouargla",
+    "lat": 31.9243,
+    "lon": 5.3502,
+    "population": 47059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ben Mehidi",
+    "region": "El Tarf",
+    "lat": 36.7697,
+    "lon": 7.9064,
+    "population": 46966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Râs el Oued",
+    "region": "Bordj Bou Arréridj",
+    "lat": 35.9441,
+    "lon": 5.0311,
+    "population": 46875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sedrata",
+    "region": "Souk Ahras",
+    "lat": 36.1287,
+    "lon": 7.5338,
+    "population": 46626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn el Melh",
+    "region": "M'Sila",
+    "lat": 34.8415,
+    "lon": 4.1638,
+    "population": 45885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ksar Chellala",
+    "region": "Tiaret",
+    "lat": 35.2122,
+    "lon": 2.3189,
+    "population": 45804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dar Chioukh",
+    "region": "Djelfa",
+    "lat": 34.8964,
+    "lon": 3.4854,
+    "population": 45767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aoulef",
+    "region": "Adrar",
+    "lat": 26.9667,
+    "lon": 1.0833,
+    "population": 45728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bir el Djir",
+    "region": "Oran",
+    "lat": 35.72,
+    "lon": -0.545,
+    "population": 45596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi ech Chahmi",
+    "region": "Oran",
+    "lat": 35.659,
+    "lon": -0.5217,
+    "population": 45596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamanrasset",
+    "region": "Tamanghasset",
+    "lat": 22.785,
+    "lon": 5.5228,
+    "population": 45332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ammi Moussa",
+    "region": "Relizane",
+    "lat": 35.8678,
+    "lon": 1.1114,
+    "population": 45296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barika",
+    "region": "Batna",
+    "lat": 35.389,
+    "lon": 5.3658,
+    "population": 45289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Feraoun",
+    "region": "Béjaïa",
+    "lat": 36.5604,
+    "lon": 4.8545,
+    "population": 45069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn Benian",
+    "region": "Tipasa",
+    "lat": 36.8028,
+    "lon": 2.9219,
+    "population": 44952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douera",
+    "region": "Tipasa",
+    "lat": 36.67,
+    "lon": 2.9444,
+    "population": 44721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souk Ahras",
+    "region": "Souk Ahras",
+    "lat": 36.2864,
+    "lon": 7.9511,
+    "population": 44692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Amrane",
+    "region": "Ouargla",
+    "lat": 33.4988,
+    "lon": 6.008,
+    "population": 44050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birkhadem",
+    "region": "Algiers",
+    "lat": 36.715,
+    "lon": 3.05,
+    "population": 43785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Illizi",
+    "region": "Illizi",
+    "lat": 26.4833,
+    "lon": 8.4667,
+    "population": 43619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamma Bouziane",
+    "region": "Constantine",
+    "lat": 36.4121,
+    "lon": 6.596,
+    "population": 43462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sig",
+    "region": "Mascara",
+    "lat": 35.5283,
+    "lon": -0.1937,
+    "population": 43250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oumache",
+    "region": "Biskra",
+    "lat": 34.6929,
+    "lon": 5.6809,
+    "population": 42880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azzaba",
+    "region": "Skikda",
+    "lat": 36.7394,
+    "lon": 7.1053,
+    "population": 42800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rouiba",
+    "region": "Algiers",
+    "lat": 36.7383,
+    "lon": 3.2808,
+    "population": 42480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ben Badis, Sid Bel Abbés",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.9528,
+    "lon": -0.9144,
+    "population": 42433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reghaïa",
+    "region": "Boumerdès",
+    "lat": 36.7359,
+    "lon": 3.3402,
+    "population": 42386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Béchar",
+    "region": "Béchar",
+    "lat": 31.6167,
+    "lon": -2.2167,
+    "population": 42054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nedroma",
+    "region": "Tlemcen",
+    "lat": 35.0136,
+    "lon": -1.748,
+    "population": 41860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jijel",
+    "region": "Jijel",
+    "lat": 36.8205,
+    "lon": 5.7667,
+    "population": 41599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tebesbest",
+    "region": "Ouargla",
+    "lat": 33.1167,
+    "lon": 6.0833,
+    "population": 41522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mansoûra",
+    "region": "Tlemcen",
+    "lat": 34.8616,
+    "lon": -1.3394,
+    "population": 41508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chebli",
+    "region": "Blida",
+    "lat": 36.5772,
+    "lon": 3.0092,
+    "population": 41469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bordj el Kiffan",
+    "region": "Algiers",
+    "lat": 36.7487,
+    "lon": 3.1925,
+    "population": 41460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akbou",
+    "region": "Béjaïa",
+    "lat": 36.4575,
+    "lon": 4.5349,
+    "population": 41434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merine",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.7807,
+    "lon": -0.451,
+    "population": 41204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taibet",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.0839,
+    "lon": 6.4,
+    "population": 41081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn el Hadjar",
+    "region": "Saïda",
+    "lat": 34.7585,
+    "lon": 0.1453,
+    "population": 40958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sougueur",
+    "region": "Tiaret",
+    "lat": 35.1857,
+    "lon": 1.4961,
+    "population": 40926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berrouaghia",
+    "region": "Médéa",
+    "lat": 36.1352,
+    "lon": 2.9108,
+    "population": 40815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hadjar",
+    "region": "Annaba",
+    "lat": 36.8038,
+    "lon": 7.7368,
+    "population": 40790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Ali Boussidi",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.1,
+    "lon": -0.8333,
+    "population": 40743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mekla",
+    "region": "Tizi Ouzou",
+    "lat": 36.6818,
+    "lon": 4.2638,
+    "population": 40726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadjout",
+    "region": "Tipasa",
+    "lat": 36.5126,
+    "lon": 2.4138,
+    "population": 40708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djelfa",
+    "region": "Djelfa",
+    "lat": 34.6728,
+    "lon": 3.263,
+    "population": 40574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chetouane",
+    "region": "Tlemcen",
+    "lat": 34.9213,
+    "lon": -1.2951,
+    "population": 40397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tébessa",
+    "region": "Tébessa",
+    "lat": 35.4042,
+    "lon": 8.1242,
+    "population": 40333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souma",
+    "region": "Blida",
+    "lat": 36.5183,
+    "lon": 2.9053,
+    "population": 40121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bir el Ater",
+    "region": "Tébessa",
+    "lat": 34.7449,
+    "lon": 8.0602,
+    "population": 39882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Saf",
+    "region": "Aïn Témouchent",
+    "lat": 35.301,
+    "lon": -1.3823,
+    "population": 39624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drean",
+    "region": "Annaba",
+    "lat": 36.6848,
+    "lon": 7.7511,
+    "population": 39424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Amrane",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.5,
+    "lon": 6.0167,
+    "population": 39323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn el Bya",
+    "region": "Oran",
+    "lat": 35.8039,
+    "lon": -0.3018,
+    "population": 39133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Kseur",
+    "region": "Béjaïa",
+    "lat": 36.6794,
+    "lon": 4.8555,
+    "population": 39030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Taya",
+    "region": "Algiers",
+    "lat": 36.7933,
+    "lon": 3.2869,
+    "population": 38492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constantine",
+    "region": "Constantine",
+    "lat": 36.365,
+    "lon": 6.6147,
+    "population": 38422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chlef",
+    "region": "Chlef",
+    "lat": 36.1653,
+    "lon": 1.3345,
+    "population": 37898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehdia daira de meghila",
+    "region": "Tiaret",
+    "lat": 35.4306,
+    "lon": 1.7571,
+    "population": 37818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bou Hanifia el Hamamat",
+    "region": "Mascara",
+    "lat": 35.3147,
+    "lon": -0.0504,
+    "population": 37640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Temouchent",
+    "region": "Aïn Témouchent",
+    "lat": 35.2975,
+    "lon": -1.1404,
+    "population": 37490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mila",
+    "region": "Mila",
+    "lat": 36.4503,
+    "lon": 6.2644,
+    "population": 37438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amizour",
+    "region": "Béjaïa",
+    "lat": 36.6402,
+    "lon": 4.9013,
+    "population": 37379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megarine",
+    "region": "Ouargla",
+    "lat": 33.1919,
+    "lon": 6.0869,
+    "population": 36888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bensekrane",
+    "region": "Tlemcen",
+    "lat": 35.0746,
+    "lon": -1.2243,
+    "population": 36772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Oussera",
+    "region": "Djelfa",
+    "lat": 35.4514,
+    "lon": 2.9058,
+    "population": 36699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghardaïa",
+    "region": "Ghardaïa",
+    "lat": 32.4909,
+    "lon": 3.6735,
+    "population": 36649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn Merane",
+    "region": "Relizane",
+    "lat": 36.1628,
+    "lon": 0.9704,
+    "population": 36545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Messaad",
+    "region": "Djelfa",
+    "lat": 34.1543,
+    "lon": 3.5031,
+    "population": 36485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Fakroun",
+    "region": "Oum El Bouaghi",
+    "lat": 35.9711,
+    "lon": 6.8737,
+    "population": 36418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brezina",
+    "region": "El Bayadh",
+    "lat": 33.0989,
+    "lon": 1.2608,
+    "population": 36331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tindouf",
+    "region": "Tindouf",
+    "lat": 27.6711,
+    "lon": -8.1474,
+    "population": 36223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Touggourt",
+    "region": "Ouargla",
+    "lat": 33.1053,
+    "lon": 6.058,
+    "population": 35865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mers el Kebir",
+    "region": "Oran",
+    "lat": 35.7279,
+    "lon": -0.7081,
+    "population": 35846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Draa el Mizan",
+    "region": "Bouïra",
+    "lat": 36.5363,
+    "lon": 3.8334,
+    "population": 35842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L’Arbaa Naït Irathen",
+    "region": "Tizi Ouzou",
+    "lat": 36.6311,
+    "lon": 4.1986,
+    "population": 35641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thenia",
+    "region": "Boumerdès",
+    "lat": 36.7254,
+    "lon": 3.5566,
+    "population": 35607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn Deheb",
+    "region": "Tiaret",
+    "lat": 34.8422,
+    "lon": 1.547,
+    "population": 35426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bordj Ghdir",
+    "region": "Bordj Bou Arréridj",
+    "lat": 35.9011,
+    "lon": 4.8981,
+    "population": 35209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Héliopolis",
+    "region": "Guelma",
+    "lat": 36.5036,
+    "lon": 7.4428,
+    "population": 35053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makouda",
+    "region": "Boumerdès",
+    "lat": 36.7857,
+    "lon": 4.0627,
+    "population": 35053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haoud El Hamra",
+    "region": "Sidi Bel Abbès",
+    "lat": 31.8894,
+    "lon": 5.9731,
+    "population": 35028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouargla",
+    "region": "Ouargla",
+    "lat": 31.9493,
+    "lon": 5.325,
+    "population": 34892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sebdou",
+    "region": "Tlemcen",
+    "lat": 34.637,
+    "lon": -1.3314,
+    "population": 34634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamerna Djedida",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.4464,
+    "lon": 5.9564,
+    "population": 34526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouïra",
+    "region": "Bouïra",
+    "lat": 36.3749,
+    "lon": 3.902,
+    "population": 34513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Aouinet",
+    "region": "Oum El Bouaghi",
+    "lat": 35.8669,
+    "lon": 7.8867,
+    "population": 34445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Okba",
+    "region": "Biskra",
+    "lat": 34.7451,
+    "lon": 5.8983,
+    "population": 33963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melouza",
+    "region": "Bordj Bou Arréridj",
+    "lat": 35.98,
+    "lon": 4.1867,
+    "population": 33852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larbaâ",
+    "region": "Blida",
+    "lat": 36.5647,
+    "lon": 3.1543,
+    "population": 33707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Sly",
+    "region": "Chlef",
+    "lat": 36.1012,
+    "lon": 1.1995,
+    "population": 33627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merouana",
+    "region": "Batna",
+    "lat": 35.6311,
+    "lon": 5.9119,
+    "population": 33463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Beïda",
+    "region": "Oum El Bouaghi",
+    "lat": 35.7964,
+    "lon": 7.3928,
+    "population": 33259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boghni",
+    "region": "Tizi Ouzou",
+    "lat": 36.5422,
+    "lon": 3.9531,
+    "population": 33209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hennaya",
+    "region": "Tlemcen",
+    "lat": 34.9514,
+    "lon": -1.3681,
+    "population": 33004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Amria",
+    "region": "Aïn Témouchent",
+    "lat": 35.5244,
+    "lon": -1.0158,
+    "population": 33000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chorfa",
+    "region": "Bouïra",
+    "lat": 36.365,
+    "lon": 4.3264,
+    "population": 32827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sour el Ghozlane",
+    "region": "Bouïra",
+    "lat": 36.1477,
+    "lon": 3.6912,
+    "population": 32705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bougara",
+    "region": "Blida",
+    "lat": 36.5418,
+    "lon": 3.081,
+    "population": 32560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bab Ezzouar",
+    "region": "Algiers",
+    "lat": 36.7261,
+    "lon": 3.1829,
+    "population": 32434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Slimane",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.2886,
+    "lon": 6.0947,
+    "population": 32247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "BABOR - VILLE",
+    "region": "Sétif",
+    "lat": 36.4899,
+    "lon": 5.5393,
+    "population": 32176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bou Ismaïl",
+    "region": "Tipasa",
+    "lat": 36.6426,
+    "lon": 2.6901,
+    "population": 32171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arris",
+    "region": "Batna",
+    "lat": 35.2588,
+    "lon": 6.3471,
+    "population": 32130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rouached",
+    "region": "Mila",
+    "lat": 36.4577,
+    "lon": 6.0427,
+    "population": 31971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Kercha",
+    "region": "Oum El Bouaghi",
+    "lat": 35.9247,
+    "lon": 6.6953,
+    "population": 31714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ighram",
+    "region": "Tizi Ouzou",
+    "lat": 36.4629,
+    "lon": 4.5053,
+    "population": 31514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boumahra Ahmed",
+    "region": "Guelma",
+    "lat": 36.4583,
+    "lon": 7.5139,
+    "population": 31425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Bel Abbès",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.2,
+    "lon": -0.6333,
+    "population": 31389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djebilet Rosfa",
+    "region": "Tiaret",
+    "lat": 34.8638,
+    "lon": 0.835,
+    "population": 31147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tazoult-Lambese",
+    "region": "Batna",
+    "lat": 35.4817,
+    "lon": 6.2607,
+    "population": 31030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn Abid",
+    "region": "Constantine",
+    "lat": 36.2319,
+    "lon": 6.9433,
+    "population": 30931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamellaht",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.0119,
+    "lon": 6.0097,
+    "population": 30751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued el Abtal",
+    "region": "Mascara",
+    "lat": 35.456,
+    "lon": 0.6878,
+    "population": 30051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabia, Sid Bel Abbés",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.0178,
+    "lon": -0.7339,
+    "population": 29896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telagh",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.7849,
+    "lon": -0.5732,
+    "population": 29886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remchi",
+    "region": "Tlemcen",
+    "lat": 35.062,
+    "lon": -1.4336,
+    "population": 29843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiaret",
+    "region": "Tiaret",
+    "lat": 35.371,
+    "lon": 1.317,
+    "population": 29683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Besbes",
+    "region": "El Tarf",
+    "lat": 36.7022,
+    "lon": 7.8472,
+    "population": 29680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamalous",
+    "region": "Skikda",
+    "lat": 36.8376,
+    "lon": 6.6402,
+    "population": 29640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timimoun",
+    "region": "Adrar",
+    "lat": 29.2639,
+    "lon": 0.231,
+    "population": 29605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batna",
+    "region": "Batna",
+    "lat": 35.556,
+    "lon": 6.1741,
+    "population": 29506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Achir",
+    "region": "Bordj Bou Arréridj",
+    "lat": 36.0639,
+    "lon": 4.6274,
+    "population": 29505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timizart",
+    "region": "Tizi Ouzou",
+    "lat": 36.8,
+    "lon": 4.2667,
+    "population": 29430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezaourou",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.8173,
+    "lon": -0.6233,
+    "population": 29184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tebesbest",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.12,
+    "lon": 6.0801,
+    "population": 29136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charef",
+    "region": "Djelfa",
+    "lat": 34.621,
+    "lon": 2.795,
+    "population": 28846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berriane",
+    "region": "Ghardaïa",
+    "lat": 32.8265,
+    "lon": 3.7669,
+    "population": 28800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn el Turk",
+    "region": "Oran",
+    "lat": 35.7438,
+    "lon": -0.7693,
+    "population": 28765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Abadia",
+    "region": "Aïn Defla",
+    "lat": 36.2695,
+    "lon": 1.6861,
+    "population": 28666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamtar",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.0706,
+    "lon": -0.7981,
+    "population": 28493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Akkacha",
+    "region": "Chlef",
+    "lat": 36.4647,
+    "lon": 1.3026,
+    "population": 28461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tizi Ouzou",
+    "region": "Tizi Ouzou",
+    "lat": 36.7118,
+    "lon": 4.0459,
+    "population": 28426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baraki",
+    "region": "Tipasa",
+    "lat": 36.6666,
+    "lon": 3.0961,
+    "population": 28417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Douala",
+    "region": "Tizi Ouzou",
+    "lat": 36.6195,
+    "lon": 4.0828,
+    "population": 28415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salah Bey",
+    "region": "Sétif",
+    "lat": 35.8545,
+    "lon": 5.2905,
+    "population": 28385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meskiana",
+    "region": "Oum El Bouaghi",
+    "lat": 35.6306,
+    "lon": 7.6661,
+    "population": 28298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "M’Sila",
+    "region": "M'Sila",
+    "lat": 35.7058,
+    "lon": 4.5419,
+    "population": 28143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abou el Hassan",
+    "region": "Chlef",
+    "lat": 36.4166,
+    "lon": 1.1962,
+    "population": 28123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boû Arfa",
+    "region": "Blida",
+    "lat": 36.463,
+    "lon": 2.8146,
+    "population": 28091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Defla",
+    "region": "Aïn Defla",
+    "lat": 36.264,
+    "lon": 1.9679,
+    "population": 28081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saïda",
+    "region": "Saïda",
+    "lat": 34.8303,
+    "lon": 0.1517,
+    "population": 28041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Idrissia",
+    "region": "Djelfa",
+    "lat": 34.4454,
+    "lon": 2.5275,
+    "population": 27842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boufarik",
+    "region": "Blida",
+    "lat": 36.5741,
+    "lon": 2.9121,
+    "population": 27585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moulay Slissen",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.8167,
+    "lon": -0.7667,
+    "population": 27405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bordj Zemoura",
+    "region": "Bordj Bou Arréridj",
+    "lat": 36.2746,
+    "lon": 4.8567,
+    "population": 27383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chabet el Ameur",
+    "region": "Boumerdès",
+    "lat": 36.6371,
+    "lon": 3.6947,
+    "population": 27023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Mered",
+    "region": "Blida",
+    "lat": 36.5239,
+    "lon": 2.8613,
+    "population": 26830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Attaf",
+    "region": "Aïn Defla",
+    "lat": 36.2239,
+    "lon": 1.6719,
+    "population": 26424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boudouaou",
+    "region": "Boumerdès",
+    "lat": 36.7274,
+    "lon": 3.4099,
+    "population": 26271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chemini",
+    "region": "Tizi Ouzou",
+    "lat": 36.6,
+    "lon": 4.6167,
+    "population": 25990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dellys",
+    "region": "Boumerdès",
+    "lat": 36.9172,
+    "lon": 3.9131,
+    "population": 25749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammam Bou Hadjar",
+    "region": "Aïn Témouchent",
+    "lat": 35.3789,
+    "lon": -0.9678,
+    "population": 25518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bordj Bou Arreridj",
+    "region": "Bordj Bou Arréridj",
+    "lat": 36.0732,
+    "lon": 4.7611,
+    "population": 25348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bejaïa",
+    "region": "Béjaïa",
+    "lat": 36.7559,
+    "lon": 5.0843,
+    "population": 24896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hassi Messaoud",
+    "region": "Ouargla",
+    "lat": 31.6804,
+    "lon": 6.0729,
+    "population": 24761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boukadir",
+    "region": "Chlef",
+    "lat": 36.0663,
+    "lon": 1.126,
+    "population": 24694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arbatache",
+    "region": "Boumerdès",
+    "lat": 36.6377,
+    "lon": 3.3713,
+    "population": 24681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karkira",
+    "region": "Skikda",
+    "lat": 36.9292,
+    "lon": 6.5856,
+    "population": 24604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "N'Goussa",
+    "region": "Sidi Bel Abbès",
+    "lat": 32.1409,
+    "lon": 5.3083,
+    "population": 24487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouinan",
+    "region": "Blida",
+    "lat": 36.5317,
+    "lon": 2.9919,
+    "population": 24276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azazga",
+    "region": "Tizi Ouzou",
+    "lat": 36.7447,
+    "lon": 4.3722,
+    "population": 24269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Eulma",
+    "region": "Sétif",
+    "lat": 36.1528,
+    "lon": 5.6902,
+    "population": 24244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Râs el Aïoun",
+    "region": "Batna",
+    "lat": 35.6738,
+    "lon": 5.6453,
+    "population": 24225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Aïssa",
+    "region": "M'Sila",
+    "lat": 35.8855,
+    "lon": 3.7724,
+    "population": 24099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metlili Chaamba",
+    "region": "Ghardaïa",
+    "lat": 32.2667,
+    "lon": 3.6333,
+    "population": 23797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debila",
+    "region": "El Oued",
+    "lat": 33.5167,
+    "lon": 6.95,
+    "population": 23309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn El Berd District",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.35,
+    "lon": -0.5167,
+    "population": 23286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rouissat",
+    "region": "Sidi Bel Abbès",
+    "lat": 31.9366,
+    "lon": 5.3354,
+    "population": 23026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sétif",
+    "region": "Sétif",
+    "lat": 36.1911,
+    "lon": 5.4137,
+    "population": 22816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naama",
+    "region": "Naama",
+    "lat": 33.2667,
+    "lon": -0.3167,
+    "population": 22806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adrar",
+    "region": "Adrar",
+    "lat": 27.8743,
+    "lon": -0.2939,
+    "population": 22685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "el hed",
+    "region": "Béjaïa",
+    "lat": 36.65,
+    "lon": 4.7736,
+    "population": 22667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakhdaria",
+    "region": "Bouïra",
+    "lat": 36.5646,
+    "lon": 3.5933,
+    "population": 22447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zemoura",
+    "region": "Relizane",
+    "lat": 35.7225,
+    "lon": 0.7551,
+    "population": 22406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "I-n-Salah",
+    "region": "Tamanghasset",
+    "lat": 27.1935,
+    "lon": 2.4607,
+    "population": 22194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meftah",
+    "region": "Blida",
+    "lat": 36.6204,
+    "lon": 3.2225,
+    "population": 22166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seddouk",
+    "region": "Béjaïa",
+    "lat": 36.5472,
+    "lon": 4.6861,
+    "population": 22145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robbah",
+    "region": "El Oued",
+    "lat": 33.2797,
+    "lon": 6.9098,
+    "population": 22132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birine",
+    "region": "Djelfa",
+    "lat": 35.635,
+    "lon": 3.225,
+    "population": 22127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Algiers",
+    "region": "Algiers",
+    "lat": 36.7323,
+    "lon": 3.0875,
+    "population": 21910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boumagueur",
+    "region": "Batna",
+    "lat": 35.5052,
+    "lon": 5.5525,
+    "population": 21850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Senoussi سيدي سنوسي",
+    "region": "Tlemcen",
+    "lat": 34.9969,
+    "lon": -1.0945,
+    "population": 21453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skikda",
+    "region": "Skikda",
+    "lat": 36.8762,
+    "lon": 6.9092,
+    "population": 21415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Freha",
+    "region": "Tizi Ouzou",
+    "lat": 36.7523,
+    "lon": 4.3155,
+    "population": 21333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Annaba",
+    "region": "Annaba",
+    "lat": 36.9,
+    "lon": 7.7667,
+    "population": 21206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Theniet el Had",
+    "region": "Aïn Defla",
+    "lat": 35.8711,
+    "lon": 2.0281,
+    "population": 21188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balidat Ameur",
+    "region": "Sidi Bel Abbès",
+    "lat": 32.9514,
+    "lon": 5.9806,
+    "population": 20731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belarbi",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.1515,
+    "lon": -0.4568,
+    "population": 20467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blida",
+    "region": "Blida",
+    "lat": 36.47,
+    "lon": 2.8277,
+    "population": 20460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mostaganem",
+    "region": "Mostaganem",
+    "lat": 35.9312,
+    "lon": 0.0892,
+    "population": 20400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marhoum",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.446,
+    "lon": -0.195,
+    "population": 20020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Kala",
+    "region": "El Tarf",
+    "lat": 36.8956,
+    "lon": 8.4433,
+    "population": 19954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guelma",
+    "region": "Guelma",
+    "lat": 36.4621,
+    "lon": 7.4261,
+    "population": 19939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Amrane",
+    "region": "Boumerdès",
+    "lat": 36.6677,
+    "lon": 3.5911,
+    "population": 19927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Bessem",
+    "region": "Bouïra",
+    "lat": 36.2933,
+    "lon": 3.6732,
+    "population": 19924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenezara",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.9634,
+    "lon": -0.6145,
+    "population": 19828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Sefra",
+    "region": "Naama",
+    "lat": 32.75,
+    "lon": -0.5833,
+    "population": 19319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djidiouia",
+    "region": "Relizane",
+    "lat": 35.9299,
+    "lon": 0.8287,
+    "population": 19221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Arnat",
+    "region": "Sétif",
+    "lat": 36.1868,
+    "lon": 5.3135,
+    "population": 19095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammamet",
+    "region": "Tébessa",
+    "lat": 35.4486,
+    "lon": 7.9518,
+    "population": 19078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mascara",
+    "region": "Mascara",
+    "lat": 35.3966,
+    "lon": 0.1403,
+    "population": 18931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mansourah",
+    "region": "Bordj Bou Arréridj",
+    "lat": 36.0872,
+    "lon": 4.4519,
+    "population": 18905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Yahia",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.5217,
+    "lon": 5.9456,
+    "population": 18887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oran",
+    "region": "Oran",
+    "lat": 35.6991,
+    "lon": -0.6359,
+    "population": 18748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teghalimet",
+    "region": "Sidi Bel Abbès",
+    "lat": 34.8828,
+    "lon": -0.56,
+    "population": 18745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tadmaït",
+    "region": "Boumerdès",
+    "lat": 36.7441,
+    "lon": 3.9005,
+    "population": 18724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tirmitine",
+    "region": "Tizi Ouzou",
+    "lat": 36.6539,
+    "lon": 3.9814,
+    "population": 18619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oum el Bouaghi",
+    "region": "Oum El Bouaghi",
+    "lat": 35.8754,
+    "lon": 7.1135,
+    "population": 18587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Yacoub",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.1333,
+    "lon": -0.7833,
+    "population": 18483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued el Alleug",
+    "region": "Tipasa",
+    "lat": 36.5553,
+    "lon": 2.7903,
+    "population": 18340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Brahim",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.2606,
+    "lon": -0.5675,
+    "population": 18260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khenchela",
+    "region": "Khenchela",
+    "lat": 35.4358,
+    "lon": 7.1433,
+    "population": 18127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Aïn el Hadjel",
+    "region": "M'Sila",
+    "lat": 35.67,
+    "lon": 3.8815,
+    "population": 18078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiffa",
+    "region": "Blida",
+    "lat": 36.4629,
+    "lon": 2.7387,
+    "population": 18060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smala",
+    "region": "Relizane",
+    "lat": 35.7165,
+    "lon": 0.7544,
+    "population": 18004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saoula",
+    "region": "Tipasa",
+    "lat": 36.7046,
+    "lon": 3.0246,
+    "population": 17640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Oued",
+    "region": "El Oued",
+    "lat": 33.3561,
+    "lon": 6.8632,
+    "population": 17444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tarf",
+    "region": "El Tarf",
+    "lat": 36.7672,
+    "lon": 8.3138,
+    "population": 16905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Rhiou",
+    "region": "Relizane",
+    "lat": 35.9612,
+    "lon": 0.919,
+    "population": 16846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djamaa",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.5314,
+    "lon": 5.991,
+    "population": 16652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hadjira",
+    "region": "Ouargla",
+    "lat": 32.6134,
+    "lon": 5.5126,
+    "population": 16621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boudjima",
+    "region": "Tizi Ouzou",
+    "lat": 36.8022,
+    "lon": 4.1519,
+    "population": 16546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouzaïa",
+    "region": "Tipasa",
+    "lat": 36.4669,
+    "lon": 2.6899,
+    "population": 16143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Bour",
+    "region": "Sidi Bel Abbès",
+    "lat": 32.1631,
+    "lon": 5.3453,
+    "population": 16085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berrahal",
+    "region": "Annaba",
+    "lat": 36.8353,
+    "lon": 7.4533,
+    "population": 15886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zerouala",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.2423,
+    "lon": -0.5222,
+    "population": 15336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khemis el Khechna",
+    "region": "Boumerdès",
+    "lat": 36.65,
+    "lon": 3.3308,
+    "population": 15126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Abiodh Sidi Cheikh",
+    "region": "El Bayadh",
+    "lat": 32.893,
+    "lon": 0.5484,
+    "population": 15116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biskra",
+    "region": "Biskra",
+    "lat": 34.8504,
+    "lon": 5.728,
+    "population": 15061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lardjem",
+    "region": "Tissemsilt",
+    "lat": 35.7492,
+    "lon": 1.5478,
+    "population": 14885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouled Moussa",
+    "region": "Boumerdès",
+    "lat": 36.6839,
+    "lon": 3.3666,
+    "population": 14812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tlemcen",
+    "region": "Tlemcen",
+    "lat": 34.8783,
+    "lon": -1.315,
+    "population": 14803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Hamadouche",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.2992,
+    "lon": -0.5489,
+    "population": 14791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aflou",
+    "region": "Laghouat",
+    "lat": 34.1128,
+    "lon": 2.1023,
+    "population": 14769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Mérouane",
+    "region": "Mila",
+    "lat": 36.5206,
+    "lon": 6.2611,
+    "population": 14471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Relizane",
+    "region": "Relizane",
+    "lat": 35.7373,
+    "lon": 0.556,
+    "population": 13956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Khaled",
+    "region": "Biskra",
+    "lat": 34.387,
+    "lon": 4.9878,
+    "population": 13897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tissemsilt",
+    "region": "Tissemsilt",
+    "lat": 35.6072,
+    "lon": 1.8108,
+    "population": 13880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Affroun",
+    "region": "Tipasa",
+    "lat": 36.4701,
+    "lon": 2.6253,
+    "population": 13610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolga",
+    "region": "Biskra",
+    "lat": 34.7222,
+    "lon": 5.3784,
+    "population": 13306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frenda",
+    "region": "Tiaret",
+    "lat": 35.0654,
+    "lon": 1.0494,
+    "population": 13085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djamaa",
+    "region": "Ouargla",
+    "lat": 33.5339,
+    "lon": 5.9931,
+    "population": 13032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Hadjira",
+    "region": "Sidi Bel Abbès",
+    "lat": 32.6167,
+    "lon": 5.5167,
+    "population": 13017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "’Aïn el Hammam",
+    "region": "Tizi Ouzou",
+    "lat": 36.5647,
+    "lon": 4.3062,
+    "population": 12959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tessala",
+    "region": "Sidi Bel Abbès",
+    "lat": 35.243,
+    "lon": -0.7732,
+    "population": 12931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dar el Beïda",
+    "region": "Algiers",
+    "lat": 36.7133,
+    "lon": 3.2125,
+    "population": 12820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Moussa",
+    "region": "Blida",
+    "lat": 36.6064,
+    "lon": 3.0878,
+    "population": 12557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naciria",
+    "region": "Boumerdès",
+    "lat": 36.7463,
+    "lon": 3.8316,
+    "population": 12396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouargla",
+    "region": "Sidi Bel Abbès",
+    "lat": 31.95,
+    "lon": 5.3167,
+    "population": 12261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouled Mimoun",
+    "region": "Tlemcen",
+    "lat": 34.9047,
+    "lon": -1.0339,
+    "population": 12228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arhribs",
+    "region": "Tizi Ouzou",
+    "lat": 36.7936,
+    "lon": 4.3116,
+    "population": 12218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheria",
+    "region": "Tébessa",
+    "lat": 35.2731,
+    "lon": 7.7519,
+    "population": 11903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hassi Messaoud",
+    "region": "Sidi Bel Abbès",
+    "lat": 31.7,
+    "lon": 6.0667,
+    "population": 11892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oued Fodda",
+    "region": "Chlef",
+    "lat": 36.185,
+    "lon": 1.533,
+    "population": 11872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aïn Smara",
+    "region": "Constantine",
+    "lat": 36.2674,
+    "lon": 6.5014,
+    "population": 11610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boumerdas",
+    "region": "Boumerdès",
+    "lat": 36.7664,
+    "lon": 3.4772,
+    "population": 11488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bou Tlelis",
+    "region": "Oran",
+    "lat": 35.5727,
+    "lon": -0.8996,
+    "population": 11436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beni Mester",
+    "region": "Tlemcen",
+    "lat": 34.8704,
+    "lon": -1.4232,
+    "population": 11276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moggar",
+    "region": "Sidi Bel Abbès",
+    "lat": 33.2672,
+    "lon": 6.0678,
+    "population": 11158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ech Chettia",
+    "region": "Chlef",
+    "lat": 36.1959,
+    "lon": 1.2554,
+    "population": 10820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheraga",
+    "region": "Tipasa",
+    "lat": 36.7677,
+    "lon": 2.9592,
+    "population": 10744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bougaa",
+    "region": "Sétif",
+    "lat": 36.3329,
+    "lon": 5.0884,
+    "population": 10602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barbacha",
+    "region": "Béjaïa",
+    "lat": 36.5667,
+    "lon": 4.9667,
+    "population": 10554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolea",
+    "region": "Tipasa",
+    "lat": 36.6389,
+    "lon": 2.7685,
+    "population": 10486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Malah",
+    "region": "Aïn Témouchent",
+    "lat": 35.3914,
+    "lon": -1.0924,
+    "population": 10455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zeribet el Oued",
+    "region": "Biskra",
+    "lat": 34.6828,
+    "lon": 6.5111,
+    "population": 10382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidi Abdelli",
+    "region": "Tlemcen",
+    "lat": 35.0694,
+    "lon": -1.1371,
+    "population": 10378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reguiba",
+    "region": "El Oued",
+    "lat": 33.5639,
+    "lon": 6.7033,
+    "population": 10320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tizi Gheniff",
+    "region": "Boumerdès",
+    "lat": 36.5884,
+    "lon": 3.7744,
+    "population": 10277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Didouche Mourad",
+    "region": "Constantine",
+    "lat": 36.4525,
+    "lon": 6.6364,
+    "population": 10264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khemis Miliana",
+    "region": "Aïn Defla",
+    "lat": 36.261,
+    "lon": 2.2201,
+    "population": 10249,
+    "timezone": "UTC"
+  }
+]

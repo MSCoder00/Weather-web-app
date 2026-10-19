@@ -1,0 +1,1578 @@
+[
+  {
+    "name": "Belčišta",
+    "region": "Debarca Municipality",
+    "lat": 41.3028,
+    "lon": 20.8303,
+    "population": 49753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Struga",
+    "region": "Struga Municipality",
+    "lat": 41.178,
+    "lon": 20.6778,
+    "population": 49701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirava",
+    "region": "Valandovo Municipality",
+    "lat": 41.3204,
+    "lon": 22.5305,
+    "population": 49664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogdanci",
+    "region": "Bogdanci Municipality",
+    "lat": 41.2031,
+    "lon": 22.5756,
+    "population": 49524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topolčani",
+    "region": "Prilep Municipality",
+    "lat": 41.2277,
+    "lon": 21.4311,
+    "population": 49497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zrnovci",
+    "region": "Zrnovci Municipality",
+    "lat": 41.8542,
+    "lon": 22.4444,
+    "population": 49373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirok",
+    "region": "Tetovo Municipality",
+    "lat": 41.9108,
+    "lon": 20.9106,
+    "population": 48575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vataša",
+    "region": "Kavadarci Municipality",
+    "lat": 41.4169,
+    "lon": 22.0189,
+    "population": 47746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Češinovo",
+    "region": "Češinovo-Obleševo Municipality",
+    "lat": 41.8715,
+    "lon": 22.2896,
+    "population": 47631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delogožda",
+    "region": "Struga Municipality",
+    "lat": 41.2573,
+    "lon": 20.7218,
+    "population": 47499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crnilište",
+    "region": "Dolneni Municipality",
+    "lat": 41.5303,
+    "lon": 21.4142,
+    "population": 47454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makedonski Brod",
+    "region": "Makedonski Brod Municipality",
+    "lat": 41.5136,
+    "lon": 21.2153,
+    "population": 47276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lipkovo",
+    "region": "Lipkovo Municipality",
+    "lat": 42.1564,
+    "lon": 21.5853,
+    "population": 46965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tetovo",
+    "region": "Tetovo Municipality",
+    "lat": 42.0097,
+    "lon": 20.9716,
+    "population": 46690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuklis",
+    "region": "Strumica Municipality",
+    "lat": 41.4053,
+    "lon": 22.6653,
+    "population": 46529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kriva Palanka",
+    "region": "Kriva Palanka Municipality",
+    "lat": 42.2009,
+    "lon": 22.3324,
+    "population": 46509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gevgelija",
+    "region": "Gevgelija Municipality",
+    "lat": 41.1417,
+    "lon": 22.5014,
+    "population": 45581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shtip",
+    "region": "Štip Municipality",
+    "lat": 41.7458,
+    "lon": 22.1958,
+    "population": 45581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berovo",
+    "region": "Berovo Municipality",
+    "lat": 41.7031,
+    "lon": 22.8578,
+    "population": 45375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matejce",
+    "region": "Lipkovo Municipality",
+    "lat": 42.1256,
+    "lon": 21.5978,
+    "population": 45160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamenjane",
+    "region": "Bogovinje Municipality",
+    "lat": 41.9457,
+    "lon": 20.9289,
+    "population": 44913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bučin",
+    "region": "Kruševo Municipality",
+    "lat": 41.2738,
+    "lon": 21.3169,
+    "population": 44813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosoman",
+    "region": "Rosoman Municipality",
+    "lat": 41.5167,
+    "lon": 21.9459,
+    "population": 44744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolno Srpci",
+    "region": "Mogila Municipality",
+    "lat": 41.1748,
+    "lon": 21.3646,
+    "population": 44508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velesta",
+    "region": "Struga Municipality",
+    "lat": 41.2408,
+    "lon": 20.6439,
+    "population": 44394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miladinovci",
+    "region": "Ilinden Municipality",
+    "lat": 41.9803,
+    "lon": 21.6498,
+    "population": 44180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samokov",
+    "region": "Makedonski Brod Municipality",
+    "lat": 41.6833,
+    "lon": 21.1462,
+    "population": 43892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosel",
+    "region": "Ohrid Municipality",
+    "lat": 41.1744,
+    "lon": 20.8356,
+    "population": 43632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobri Dol",
+    "region": "Vrapčište Municipality",
+    "lat": 41.8652,
+    "lon": 20.8901,
+    "population": 43492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolno Orizari",
+    "region": "Bitola Municipality",
+    "lat": 41.0503,
+    "lon": 21.3794,
+    "population": 43396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otlja",
+    "region": "Lipkovo Municipality",
+    "lat": 42.1431,
+    "lon": 21.5867,
+    "population": 43298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilinden",
+    "region": "Ilinden Municipality",
+    "lat": 41.9945,
+    "lon": 21.58,
+    "population": 43092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradsko",
+    "region": "Gradsko Municipality",
+    "lat": 41.5775,
+    "lon": 21.9428,
+    "population": 42646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stojakovo",
+    "region": "Bogdanci Municipality",
+    "lat": 41.1556,
+    "lon": 22.5775,
+    "population": 42615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Слупчане",
+    "region": "Lipkovo Municipality",
+    "lat": 42.1733,
+    "lon": 21.6278,
+    "population": 42473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saraj",
+    "region": "Greater Skopje",
+    "lat": 42,
+    "lon": 21.3278,
+    "population": 42190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vratnica",
+    "region": "Jegunovce Municipality",
+    "lat": 42.1433,
+    "lon": 21.1169,
+    "population": 42152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zletovo",
+    "region": "Probištip Municipality",
+    "lat": 41.9886,
+    "lon": 22.2361,
+    "population": 41753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centar Župa",
+    "region": "Centar Župa Municipality",
+    "lat": 41.4785,
+    "lon": 20.5594,
+    "population": 41419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradec",
+    "region": "Bogovinje Municipality",
+    "lat": 41.8961,
+    "lon": 20.9042,
+    "population": 41239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konče",
+    "region": "Konče Municipality",
+    "lat": 41.4951,
+    "lon": 22.3836,
+    "population": 40822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žitoše",
+    "region": "Dolneni Municipality",
+    "lat": 41.4199,
+    "lon": 21.2908,
+    "population": 40753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavadarci",
+    "region": "Kavadarci Municipality",
+    "lat": 41.4331,
+    "lon": 22.0119,
+    "population": 40562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podareš",
+    "region": "Radoviš Municipality",
+    "lat": 41.6139,
+    "lon": 22.5422,
+    "population": 40420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larce",
+    "region": "Želino Municipality",
+    "lat": 41.9332,
+    "lon": 21.1263,
+    "population": 39959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miletino",
+    "region": "Brvenica Municipality",
+    "lat": 41.9075,
+    "lon": 21.016,
+    "population": 39908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrapčište",
+    "region": "Vrapčište Municipality",
+    "lat": 41.8344,
+    "lon": 20.8856,
+    "population": 39723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capari",
+    "region": "Bitola Municipality",
+    "lat": 41.0566,
+    "lon": 21.1788,
+    "population": 39544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gostivar",
+    "region": "Gostivar Municipality",
+    "lat": 41.796,
+    "lon": 20.9082,
+    "population": 39250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usje",
+    "region": "Greater Skopje",
+    "lat": 41.9587,
+    "lon": 21.4583,
+    "population": 39152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanatlarci",
+    "region": "Prilep Municipality",
+    "lat": 41.2103,
+    "lon": 21.5033,
+    "population": 38635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jankovec",
+    "region": "Resen Municipality",
+    "lat": 41.1103,
+    "lon": 21.0114,
+    "population": 38542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oblesevo",
+    "region": "Češinovo-Obleševo Municipality",
+    "lat": 41.8833,
+    "lon": 22.3339,
+    "population": 38433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Probishtip",
+    "region": "Probištip Municipality",
+    "lat": 42.0031,
+    "lon": 22.1786,
+    "population": 38162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Romanovci",
+    "region": "Kumanovo Municipality",
+    "lat": 42.0947,
+    "lon": 21.6931,
+    "population": 38112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sedlarevo",
+    "region": "Želino Municipality",
+    "lat": 41.8831,
+    "lon": 21.1275,
+    "population": 37946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veljusa",
+    "region": "Strumica Municipality",
+    "lat": 41.4761,
+    "lon": 22.5675,
+    "population": 37708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kičevo",
+    "region": "Kičevo Municipality",
+    "lat": 41.5127,
+    "lon": 20.9589,
+    "population": 37648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogomila",
+    "region": "Čaška Municipality",
+    "lat": 41.5931,
+    "lon": 21.4717,
+    "population": 37486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šuto Orizare",
+    "region": "Šuto Orizari Municipality",
+    "lat": 42.04,
+    "lon": 21.425,
+    "population": 37442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tearce",
+    "region": "Tearce Municipality",
+    "lat": 42.0767,
+    "lon": 21.0531,
+    "population": 37389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negotino",
+    "region": "Negotino Municipality",
+    "lat": 41.4846,
+    "lon": 22.0906,
+    "population": 37341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beranci",
+    "region": "Mogila Municipality",
+    "lat": 41.1597,
+    "lon": 21.3596,
+    "population": 37269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrutok",
+    "region": "Gostivar Municipality",
+    "lat": 41.7686,
+    "lon": 20.8392,
+    "population": 37188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drugovo",
+    "region": "Kičevo Municipality",
+    "lat": 41.4849,
+    "lon": 20.9264,
+    "population": 36776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorno Orizari",
+    "region": "Veles Municipality",
+    "lat": 41.6858,
+    "lon": 21.7347,
+    "population": 36449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rostusa",
+    "region": "Mavrovo and Rostuša Municipality",
+    "lat": 41.61,
+    "lon": 20.6,
+    "population": 36170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strimnica",
+    "region": "Želino Municipality",
+    "lat": 41.9672,
+    "lon": 21.036,
+    "population": 36119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cresevo",
+    "region": "Gazi Baba Municipality",
+    "lat": 42.0508,
+    "lon": 21.5097,
+    "population": 36071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinica",
+    "region": "Vinica Municipality",
+    "lat": 41.8828,
+    "lon": 22.5092,
+    "population": 36024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jegunovce",
+    "region": "Jegunovce Municipality",
+    "lat": 42.0724,
+    "lon": 21.1237,
+    "population": 35515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Јурумлери",
+    "region": "Ilinden Municipality",
+    "lat": 41.9672,
+    "lon": 21.5569,
+    "population": 35029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oraovica",
+    "region": "Radoviš Municipality",
+    "lat": 41.6258,
+    "lon": 22.5133,
+    "population": 34443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolno Količani",
+    "region": "Studeničani Municipality",
+    "lat": 41.8864,
+    "lon": 21.4856,
+    "population": 34375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radovis",
+    "region": "Radoviš Municipality",
+    "lat": 41.6383,
+    "lon": 22.4647,
+    "population": 34070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolna Banjica",
+    "region": "Gostivar Municipality",
+    "lat": 41.7861,
+    "lon": 20.9061,
+    "population": 33708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morani",
+    "region": "Studeničani Municipality",
+    "lat": 41.9098,
+    "lon": 21.55,
+    "population": 33556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Demir Kapija",
+    "region": "Demir Kapija Municipality",
+    "lat": 41.4061,
+    "lon": 22.2463,
+    "population": 33445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorno Orizari",
+    "region": "Bitola Municipality",
+    "lat": 41.0519,
+    "lon": 21.3455,
+    "population": 33432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaksince",
+    "region": "Lipkovo Municipality",
+    "lat": 42.2061,
+    "lon": 21.6631,
+    "population": 33426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brvenica",
+    "region": "Brvenica Municipality",
+    "lat": 41.9672,
+    "lon": 20.9808,
+    "population": 33407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prilep",
+    "region": "Prilep Municipality",
+    "lat": 41.3451,
+    "lon": 21.555,
+    "population": 32923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lojane",
+    "region": "Lipkovo Municipality",
+    "lat": 42.2328,
+    "lon": 21.6655,
+    "population": 32547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izvor",
+    "region": "Lipkovo Municipality",
+    "lat": 42.2032,
+    "lon": 21.5781,
+    "population": 32470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radishani",
+    "region": "Butel Municipality",
+    "lat": 42.0611,
+    "lon": 21.4478,
+    "population": 32341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubin",
+    "region": "Greater Skopje",
+    "lat": 42.0014,
+    "lon": 21.3092,
+    "population": 32115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srbinovo",
+    "region": "Gostivar Municipality",
+    "lat": 41.7059,
+    "lon": 20.9586,
+    "population": 32071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čair",
+    "region": "Čair Municipality",
+    "lat": 42.0153,
+    "lon": 21.4411,
+    "population": 31970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zelino",
+    "region": "Želino Municipality",
+    "lat": 41.9803,
+    "lon": 21.0642,
+    "population": 31727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obršani",
+    "region": "Krivogaštani Municipality",
+    "lat": 41.2817,
+    "lon": 21.3615,
+    "population": 31631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ранковце",
+    "region": "Rankovce Municipality",
+    "lat": 42.1696,
+    "lon": 22.1162,
+    "population": 31603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nerašte",
+    "region": "Tearce Municipality",
+    "lat": 42.1071,
+    "lon": 21.1081,
+    "population": 31434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bedinje",
+    "region": "Kumanovo Municipality",
+    "lat": 42.1417,
+    "lon": 21.6964,
+    "population": 31286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miravci",
+    "region": "Gevgelija Municipality",
+    "lat": 41.3092,
+    "lon": 22.4364,
+    "population": 30843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobarce",
+    "region": "Želino Municipality",
+    "lat": 41.9553,
+    "lon": 21.0888,
+    "population": 30713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Nikole",
+    "region": "Sveti Nikole Municipality",
+    "lat": 41.8696,
+    "lon": 21.9527,
+    "population": 30561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Resen",
+    "region": "Resen Municipality",
+    "lat": 41.0893,
+    "lon": 21.0109,
+    "population": 30284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Studeničane",
+    "region": "Studeničani Municipality",
+    "lat": 41.9221,
+    "lon": 21.5348,
+    "population": 30236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gurgurnica",
+    "region": "Brvenica Municipality",
+    "lat": 41.8451,
+    "lon": 21.1054,
+    "population": 30093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blatec",
+    "region": "Vinica Municipality",
+    "lat": 41.8367,
+    "lon": 22.5791,
+    "population": 30060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krivogashtani",
+    "region": "Krivogaštani Municipality",
+    "lat": 41.3361,
+    "lon": 21.3331,
+    "population": 30052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrošte",
+    "region": "Tetovo Municipality",
+    "lat": 42.1033,
+    "lon": 21.0778,
+    "population": 29226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorobinci",
+    "region": "Sveti Nikole Municipality",
+    "lat": 41.8751,
+    "lon": 21.876,
+    "population": 29192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadino",
+    "region": "Ilinden Municipality",
+    "lat": 41.9689,
+    "lon": 21.6014,
+    "population": 29143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dračevo",
+    "region": "Greater Skopje",
+    "lat": 41.9367,
+    "lon": 21.5217,
+    "population": 29064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisela Voda",
+    "region": "Kisela Voda Municipality",
+    "lat": 41.9489,
+    "lon": 21.5028,
+    "population": 29061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bitola",
+    "region": "Bitola Municipality",
+    "lat": 41.0314,
+    "lon": 21.3347,
+    "population": 28833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krusevo",
+    "region": "Kruševo Municipality",
+    "lat": 41.3689,
+    "lon": 21.2489,
+    "population": 28813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Идризово",
+    "region": "Ilinden Municipality",
+    "lat": 41.9608,
+    "lon": 21.5756,
+    "population": 28522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Logovardi",
+    "region": "Bitola Municipality",
+    "lat": 41.031,
+    "lon": 21.4097,
+    "population": 28232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukovo",
+    "region": "Struga Municipality",
+    "lat": 41.3534,
+    "lon": 20.6064,
+    "population": 27738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forino",
+    "region": "Gostivar Municipality",
+    "lat": 41.8233,
+    "lon": 20.9617,
+    "population": 27542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selce",
+    "region": "Tetovo Municipality",
+    "lat": 42.0348,
+    "lon": 20.9403,
+    "population": 27487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mešeišta",
+    "region": "Debarca Municipality",
+    "lat": 41.2381,
+    "lon": 20.7741,
+    "population": 27377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krušopek",
+    "region": "Saraj Municipality",
+    "lat": 41.9783,
+    "lon": 21.3544,
+    "population": 27286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poroj",
+    "region": "Tetovo Municipality",
+    "lat": 42.0291,
+    "lon": 20.9927,
+    "population": 27149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Петровец",
+    "region": "Petrovec Municipality",
+    "lat": 41.9389,
+    "lon": 21.615,
+    "population": 26672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobruševo",
+    "region": "Mogila Municipality",
+    "lat": 41.1686,
+    "lon": 21.4825,
+    "population": 26212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orashac",
+    "region": "Tearce Municipality",
+    "lat": 42.0625,
+    "lon": 21.7997,
+    "population": 25900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sušica",
+    "region": "Novo Selo Municipality",
+    "lat": 41.4398,
+    "lon": 22.8368,
+    "population": 25840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sekirnik",
+    "region": "Bosilovo Municipality",
+    "lat": 41.44,
+    "lon": 22.7954,
+    "population": 25767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ohrid",
+    "region": "Ohrid Municipality",
+    "lat": 41.1172,
+    "lon": 20.8019,
+    "population": 25754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kukurečani",
+    "region": "Bitola Municipality",
+    "lat": 41.0956,
+    "lon": 21.3245,
+    "population": 25465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marino",
+    "region": "Ilinden Municipality",
+    "lat": 41.9878,
+    "lon": 21.5915,
+    "population": 24721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slatino",
+    "region": "Tearce Municipality",
+    "lat": 42.0678,
+    "lon": 21.039,
+    "population": 24593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolno Palčište",
+    "region": "Bogovinje Municipality",
+    "lat": 41.9686,
+    "lon": 20.929,
+    "population": 23246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolneni",
+    "region": "Dolneni Municipality",
+    "lat": 41.4258,
+    "lon": 21.454,
+    "population": 22998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golema Rečica",
+    "region": "Tetovo Municipality",
+    "lat": 41.988,
+    "lon": 20.9452,
+    "population": 22935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veles",
+    "region": "Veles Municipality",
+    "lat": 41.7156,
+    "lon": 21.7756,
+    "population": 22862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cegrane",
+    "region": "Gostivar Municipality",
+    "lat": 41.8389,
+    "lon": 20.9758,
+    "population": 22652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negotino",
+    "region": "Vrapčište Municipality",
+    "lat": 41.8779,
+    "lon": 20.8839,
+    "population": 22648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bojane",
+    "region": "Greater Skopje",
+    "lat": 42.0001,
+    "lon": 21.1927,
+    "population": 22608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Desovo",
+    "region": "Dolneni Municipality",
+    "lat": 41.4628,
+    "lon": 21.4911,
+    "population": 22404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kochani",
+    "region": "Kočani Municipality",
+    "lat": 41.9164,
+    "lon": 22.4128,
+    "population": 21934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivankovci",
+    "region": "Veles Municipality",
+    "lat": 41.8489,
+    "lon": 21.8203,
+    "population": 21826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lažani",
+    "region": "Dolneni Municipality",
+    "lat": 41.4422,
+    "lon": 21.3158,
+    "population": 21740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Star Dojran",
+    "region": "Dojran Municipality",
+    "lat": 41.1865,
+    "lon": 22.7203,
+    "population": 21282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čelopek",
+    "region": "Brvenica Municipality",
+    "lat": 41.9317,
+    "lon": 21.0133,
+    "population": 20920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grčec",
+    "region": "Saraj Municipality",
+    "lat": 41.9881,
+    "lon": 21.3303,
+    "population": 20342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šipkovica",
+    "region": "Tetovo Municipality",
+    "lat": 42.035,
+    "lon": 20.9156,
+    "population": 20315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Арачиново",
+    "region": "Aračinovo Municipality",
+    "lat": 42.0264,
+    "lon": 21.5619,
+    "population": 20245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogovinje",
+    "region": "Bogovinje Municipality",
+    "lat": 41.9236,
+    "lon": 20.9136,
+    "population": 20235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orizari",
+    "region": "Kočani Municipality",
+    "lat": 41.9226,
+    "lon": 22.4463,
+    "population": 20187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bistrica",
+    "region": "Bitola Municipality",
+    "lat": 40.9789,
+    "lon": 21.3658,
+    "population": 20169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makedonska Kamenica",
+    "region": "Makedonska Kamenica Municipality",
+    "lat": 42.0208,
+    "lon": 22.5876,
+    "population": 19447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plasnica",
+    "region": "Plasnica Municipality",
+    "lat": 41.4672,
+    "lon": 21.1231,
+    "population": 19428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karbinci",
+    "region": "Karbinci",
+    "lat": 41.8176,
+    "lon": 22.2353,
+    "population": 19426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Džepčište",
+    "region": "Tetovo Municipality",
+    "lat": 42.0329,
+    "lon": 20.9982,
+    "population": 18870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vraneštica",
+    "region": "Kičevo Municipality",
+    "lat": 41.445,
+    "lon": 21.0268,
+    "population": 18748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mislesevo",
+    "region": "Struga Municipality",
+    "lat": 41.185,
+    "lon": 20.7086,
+    "population": 18725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Клечовце",
+    "region": "Krivogaštani Municipality",
+    "lat": 42.1161,
+    "lon": 21.8572,
+    "population": 18699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kondovo",
+    "region": "Saraj Municipality",
+    "lat": 42.0117,
+    "lon": 21.3136,
+    "population": 18697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zajas",
+    "region": "Kičevo Municipality",
+    "lat": 41.6072,
+    "lon": 20.9383,
+    "population": 18209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lisičani",
+    "region": "Plasnica Municipality",
+    "lat": 41.4614,
+    "lon": 21.0544,
+    "population": 18148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markov Grad",
+    "region": "Prilep Municipality",
+    "lat": 41.3572,
+    "lon": 21.5325,
+    "population": 18072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Demir Hisar",
+    "region": "Demir Hisar Municipality",
+    "lat": 41.221,
+    "lon": 21.203,
+    "population": 17801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oktisi",
+    "region": "Struga Municipality",
+    "lat": 41.2325,
+    "lon": 20.6072,
+    "population": 17798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasilevo",
+    "region": "Vasilevo Municipality",
+    "lat": 41.4741,
+    "lon": 22.643,
+    "population": 17436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valandovo",
+    "region": "Valandovo Municipality",
+    "lat": 41.3174,
+    "lon": 22.56,
+    "population": 17434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vladimirovo",
+    "region": "Berovo Municipality",
+    "lat": 41.71,
+    "lon": 22.7928,
+    "population": 17330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labunista",
+    "region": "Struga Municipality",
+    "lat": 41.2686,
+    "lon": 20.5961,
+    "population": 17289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gradec",
+    "region": "Vinica Municipality",
+    "lat": 41.8507,
+    "lon": 22.5113,
+    "population": 16851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gjorče Petro",
+    "region": "Gjorče Petrov Municipality",
+    "lat": 42.0078,
+    "lon": 21.3531,
+    "population": 16604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butel",
+    "region": "Butel Municipality",
+    "lat": 42.0308,
+    "lon": 21.4467,
+    "population": 16340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Чучер - Сандево",
+    "region": "Čučer-Sandevo Municipality",
+    "lat": 42.1036,
+    "lon": 21.3822,
+    "population": 16053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čaška",
+    "region": "Čaška Municipality",
+    "lat": 41.6506,
+    "lon": 21.6622,
+    "population": 16051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sredno Konjare",
+    "region": "Petrovec Municipality",
+    "lat": 41.9574,
+    "lon": 21.7149,
+    "population": 16041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ohrid Opština",
+    "region": "Ohrid Municipality",
+    "lat": 41.1667,
+    "lon": 20.8333,
+    "population": 15902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srbica",
+    "region": "Kičevo Municipality",
+    "lat": 41.5867,
+    "lon": 21.0303,
+    "population": 15506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strelci",
+    "region": "Kičevo Municipality",
+    "lat": 41.5405,
+    "lon": 21.0056,
+    "population": 15202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slepče",
+    "region": "Demir Hisar Municipality",
+    "lat": 41.2333,
+    "lon": 21.175,
+    "population": 15178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skopje",
+    "region": "Karpoš Municipality",
+    "lat": 41.9965,
+    "lon": 21.4314,
+    "population": 14863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pršovce",
+    "region": "Tearce Municipality",
+    "lat": 42.0834,
+    "lon": 21.0599,
+    "population": 14776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Сопиште",
+    "region": "Sopište Municipality",
+    "lat": 41.9547,
+    "lon": 21.4275,
+    "population": 14629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pehčevo",
+    "region": "Pehčevo Municipality",
+    "lat": 41.7623,
+    "lon": 22.8892,
+    "population": 14399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sopotnica",
+    "region": "Demir Hisar Municipality",
+    "lat": 41.2959,
+    "lon": 21.1536,
+    "population": 13761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukovik",
+    "region": "Saraj Municipality",
+    "lat": 41.9683,
+    "lon": 21.2369,
+    "population": 13243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kratovo",
+    "region": "Kratovo Municipality",
+    "lat": 42.0784,
+    "lon": 22.1807,
+    "population": 13207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumanovo",
+    "region": "Kumanovo Municipality",
+    "lat": 42.1322,
+    "lon": 21.7144,
+    "population": 12908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vevčani",
+    "region": "Vevčani Municipality",
+    "lat": 41.2406,
+    "lon": 20.5933,
+    "population": 12662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grnčari",
+    "region": "Resen Municipality",
+    "lat": 41.0172,
+    "lon": 21.0533,
+    "population": 11866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novaci",
+    "region": "Novaci Municipality",
+    "lat": 41.042,
+    "lon": 21.4587,
+    "population": 11860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murtino",
+    "region": "Strumica Municipality",
+    "lat": 41.4154,
+    "lon": 22.7259,
+    "population": 11798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batinci",
+    "region": "Studeničani Municipality",
+    "lat": 41.9191,
+    "lon": 21.4798,
+    "population": 11787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Selo",
+    "region": "Novo Selo Municipality",
+    "lat": 41.4149,
+    "lon": 22.8816,
+    "population": 11756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delcevo",
+    "region": "Delčevo Municipality",
+    "lat": 41.9672,
+    "lon": 22.7694,
+    "population": 11607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radolista",
+    "region": "Struga Municipality",
+    "lat": 41.1642,
+    "lon": 20.6233,
+    "population": 11113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosilovo",
+    "region": "Bosilovo Municipality",
+    "lat": 41.4406,
+    "lon": 22.7278,
+    "population": 10978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lozovo",
+    "region": "Lozovo Municipality",
+    "lat": 41.7839,
+    "lon": 21.9056,
+    "population": 10924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zelenikovo",
+    "region": "Zelenikovo Municipality",
+    "lat": 41.8841,
+    "lon": 21.5885,
+    "population": 10824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strumica",
+    "region": "Strumica Municipality",
+    "lat": 41.4375,
+    "lon": 22.6433,
+    "population": 10656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Старо Нагоричане",
+    "region": "Staro Nagoričane Municipality",
+    "lat": 42.1981,
+    "lon": 21.8286,
+    "population": 10573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krani",
+    "region": "Resen Municipality",
+    "lat": 40.9393,
+    "lon": 21.1091,
+    "population": 10437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuin",
+    "region": "Kičevo Municipality",
+    "lat": 41.6194,
+    "lon": 21.0453,
+    "population": 10428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogila",
+    "region": "Mogila Municipality",
+    "lat": 41.1083,
+    "lon": 21.3786,
+    "population": 10221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilovica",
+    "region": "Bosilovo Municipality",
+    "lat": 41.4722,
+    "lon": 22.8048,
+    "population": 10137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rusinovo",
+    "region": "Berovo Municipality",
+    "lat": 41.6873,
+    "lon": 22.8085,
+    "population": 10129,
+    "timezone": "UTC"
+  }
+]

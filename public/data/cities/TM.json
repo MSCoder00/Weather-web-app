@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Seydi",
+    "region": "Mary Region",
+    "lat": 39.4816,
+    "lon": 62.9137,
+    "population": 49703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashgabat",
+    "region": "Ashgabat",
+    "lat": 37.95,
+    "lon": 58.3833,
+    "population": 49306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boldumsaz",
+    "region": "Daşoguz Region",
+    "lat": 42.1282,
+    "lon": 59.671,
+    "population": 48603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tejen",
+    "region": "Ahal Region",
+    "lat": 37.3834,
+    "lon": 60.5055,
+    "population": 48001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serdar",
+    "region": "Balkan Region",
+    "lat": 38.9764,
+    "lon": 56.2758,
+    "population": 47349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abadan",
+    "region": "Ahal Region",
+    "lat": 38.0541,
+    "lon": 58.1972,
+    "population": 46728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daşoguz",
+    "region": "Daşoguz Region",
+    "lat": 41.8362,
+    "lon": 59.9666,
+    "population": 46553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Türkmenbaşy",
+    "region": "Balkan Region",
+    "lat": 40.0222,
+    "lon": 52.9552,
+    "population": 46087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gumdag",
+    "region": "Balkan Region",
+    "lat": 39.2061,
+    "lon": 54.5906,
+    "population": 44552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayramaly",
+    "region": "Mary Region",
+    "lat": 37.6185,
+    "lon": 62.1671,
+    "population": 43068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mary",
+    "region": "Mary Region",
+    "lat": 37.5938,
+    "lon": 61.8303,
+    "population": 41732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gazojak",
+    "region": "Lebap Region",
+    "lat": 41.1875,
+    "lon": 61.4036,
+    "population": 41655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baharly",
+    "region": "Ahal Region",
+    "lat": 38.4362,
+    "lon": 57.4316,
+    "population": 41231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farap",
+    "region": "Lebap Region",
+    "lat": 39.1704,
+    "lon": 63.6116,
+    "population": 41094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gowurdak",
+    "region": "Lebap Region",
+    "lat": 37.8124,
+    "lon": 66.0466,
+    "population": 40873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tagta",
+    "region": "Daşoguz Region",
+    "lat": 41.6504,
+    "lon": 59.9164,
+    "population": 40678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Köneürgench",
+    "region": "Daşoguz Region",
+    "lat": 42.3277,
+    "lon": 59.1544,
+    "population": 36016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaka",
+    "region": "Ahal Region",
+    "lat": 37.3482,
+    "lon": 59.6143,
+    "population": 35970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Türkmenabat",
+    "region": "Lebap Region",
+    "lat": 39.0733,
+    "lon": 63.5786,
+    "population": 34128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serhetabat",
+    "region": "Mary Region",
+    "lat": 35.2799,
+    "lon": 62.3438,
+    "population": 34051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akdepe",
+    "region": "Daşoguz Region",
+    "lat": 42.0551,
+    "lon": 59.3788,
+    "population": 33593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arçabil",
+    "region": "Ahal Region",
+    "lat": 37.915,
+    "lon": 58.0899,
+    "population": 31225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magtymguly",
+    "region": "Balkan Region",
+    "lat": 38.4375,
+    "lon": 56.2808,
+    "population": 30485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yolöten",
+    "region": "Mary Region",
+    "lat": 37.2989,
+    "lon": 62.3597,
+    "population": 25376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bereket",
+    "region": "Balkan Region",
+    "lat": 39.2446,
+    "lon": 55.5154,
+    "population": 21006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saýat",
+    "region": "Lebap Region",
+    "lat": 38.7839,
+    "lon": 63.8803,
+    "population": 20188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atamyrat",
+    "region": "Lebap Region",
+    "lat": 37.8357,
+    "lon": 65.2106,
+    "population": 19904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Annau",
+    "region": "Ahal Region",
+    "lat": 37.8875,
+    "lon": 58.516,
+    "population": 19436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balkanabat",
+    "region": "Balkan Region",
+    "lat": 39.5108,
+    "lon": 54.3671,
+    "population": 18801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yylanly",
+    "region": "Daşoguz Region",
+    "lat": 41.8333,
+    "lon": 59.65,
+    "population": 11797,
+    "timezone": "UTC"
+  }
+]

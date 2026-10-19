@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Nassau",
+    "region": "New Providence",
+    "lat": 25.0667,
+    "lon": -77.3333,
+    "population": 47628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alice Town",
+    "region": "Bimini",
+    "lat": 25.728,
+    "lon": -79.2972,
+    "population": 44286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andros",
+    "region": "North Andros",
+    "lat": 25.0667,
+    "lon": -78.05,
+    "population": 43037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West End",
+    "region": "West Grand Bahama",
+    "lat": 26.6871,
+    "lon": -78.977,
+    "population": 42093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunmore Town",
+    "region": "Harbour Island",
+    "lat": 25.5022,
+    "lon": -76.6363,
+    "population": 41165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duncan Town",
+    "region": "Ragged Island",
+    "lat": 22.1908,
+    "lon": -75.7258,
+    "population": 40012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matthew Town",
+    "region": "Inagua",
+    "lat": 20.9498,
+    "lon": -73.6735,
+    "population": 39572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "George Town",
+    "region": "Exuma",
+    "lat": 23.5162,
+    "lon": -75.7866,
+    "population": 38405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "High Rock",
+    "region": "East Grand Bahama",
+    "lat": 26.61,
+    "lon": -78.2786,
+    "population": 36207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colonel Hill",
+    "region": "Crooked Island",
+    "lat": 22.7545,
+    "lon": -74.2041,
+    "population": 34726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arthur’s Town",
+    "region": "Cat Island",
+    "lat": 24.6224,
+    "lon": -75.6715,
+    "population": 33936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Freeport",
+    "region": "Freeport",
+    "lat": 26.5333,
+    "lon": -78.7,
+    "population": 33713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Nelson",
+    "region": "Rum Cay District",
+    "lat": 23.6497,
+    "lon": -74.8416,
+    "population": 29542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spanish Wells",
+    "region": "Spanish Wells",
+    "lat": 25.5472,
+    "lon": -76.764,
+    "population": 27174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andros Town",
+    "region": "North Andros",
+    "lat": 24.705,
+    "lon": -77.7691,
+    "population": 25740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clarence Town",
+    "region": "Long Island",
+    "lat": 23.1,
+    "lon": -74.9833,
+    "population": 24871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucaya",
+    "region": "Freeport",
+    "lat": 26.5333,
+    "lon": -78.6667,
+    "population": 19391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abraham’s Bay",
+    "region": "Mayaguana District",
+    "lat": 22.3667,
+    "lon": -72.9667,
+    "population": 15645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cooper’s Town",
+    "region": "North Abaco",
+    "lat": 26.8714,
+    "lon": -77.5113,
+    "population": 15113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cockburn Town",
+    "region": "San Salvador Island",
+    "lat": 24.0518,
+    "lon": -74.5314,
+    "population": 13127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marsh Harbour",
+    "region": "Central Abaco",
+    "lat": 26.5412,
+    "lon": -77.0636,
+    "population": 10017,
+    "timezone": "UTC"
+  }
+]

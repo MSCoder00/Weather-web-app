@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Bamingui",
+    "region": "Bamingui-Bangoran Prefecture",
+    "lat": 7.889,
+    "lon": 20.0487,
+    "population": 49282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaga Bandoro",
+    "region": "Nana-Grébizi Economic Prefecture",
+    "lat": 6.9896,
+    "lon": 19.1874,
+    "population": 48171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berberati",
+    "region": "Mambéré-Kadéï",
+    "lat": 4.3121,
+    "lon": 15.8895,
+    "population": 45739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carnot",
+    "region": "Mambéré-Kadéï",
+    "lat": 4.9427,
+    "lon": 15.8773,
+    "population": 43885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndélé",
+    "region": "Bamingui-Bangoran Prefecture",
+    "lat": 8.7429,
+    "lon": 20.8911,
+    "population": 41421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damara",
+    "region": "Ombella-M'Poko Prefecture",
+    "lat": 4.9607,
+    "lon": 18.7035,
+    "population": 40939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabo",
+    "region": "Ouham Prefecture",
+    "lat": 7.6994,
+    "lon": 18.629,
+    "population": 40400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouca",
+    "region": "Ouham Prefecture",
+    "lat": 6.5073,
+    "lon": 18.2767,
+    "population": 40051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gambo",
+    "region": "Mbomou Prefecture",
+    "lat": 4.6482,
+    "lon": 22.2633,
+    "population": 39239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boda",
+    "region": "Lobaye Prefecture",
+    "lat": 4.3189,
+    "lon": 17.4695,
+    "population": 38609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alindao",
+    "region": "Basse-Kotto Prefecture",
+    "lat": 5.0267,
+    "lon": 21.2088,
+    "population": 38092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambari",
+    "region": "Ouaka Prefecture",
+    "lat": 5.7679,
+    "lon": 20.6757,
+    "population": 37628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paoua",
+    "region": "Ouham-Pendé Prefecture",
+    "lat": 7.2427,
+    "lon": 16.4406,
+    "population": 36812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaga-Bandoro",
+    "region": "Nana-Grébizi Economic Prefecture",
+    "lat": 7.2377,
+    "lon": 19.2182,
+    "population": 36320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boali",
+    "region": "Ombella-M'Poko Prefecture",
+    "lat": 4.8005,
+    "lon": 18.1275,
+    "population": 35865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouadda",
+    "region": "Haute-Kotto Prefecture",
+    "lat": 8.0777,
+    "lon": 22.4007,
+    "population": 35647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouar",
+    "region": "Nana-Mambéré Prefecture",
+    "lat": 5.934,
+    "lon": 15.596,
+    "population": 35378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grimari",
+    "region": "Ouaka Prefecture",
+    "lat": 5.7355,
+    "lon": 19.9121,
+    "population": 34833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangui",
+    "region": "Bangui",
+    "lat": 4.3612,
+    "lon": 18.555,
+    "population": 33948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baoro",
+    "region": "Nana-Mambéré Prefecture",
+    "lat": 5.6667,
+    "lon": 15.9667,
+    "population": 32814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mobaye",
+    "region": "Basse-Kotto Prefecture",
+    "lat": 4.319,
+    "lon": 21.1786,
+    "population": 31237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boganangone",
+    "region": "Lobaye Prefecture",
+    "lat": 4.7356,
+    "lon": 17.1405,
+    "population": 28511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zemio",
+    "region": "Haut-Mbomou Prefecture",
+    "lat": 5.0314,
+    "lon": 25.1361,
+    "population": 28458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obo",
+    "region": "Haut-Mbomou Prefecture",
+    "lat": 5.3959,
+    "lon": 26.4921,
+    "population": 27973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamboula",
+    "region": "Mambéré-Kadéï",
+    "lat": 4.1178,
+    "lon": 15.1393,
+    "population": 27939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mongoumba",
+    "region": "Lobaye Prefecture",
+    "lat": 3.6415,
+    "lon": 18.5936,
+    "population": 26521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rafai",
+    "region": "Mbomou Prefecture",
+    "lat": 5.8101,
+    "lon": 24.2031,
+    "population": 25054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbaiki",
+    "region": "Lobaye Prefecture",
+    "lat": 3.9714,
+    "lon": 17.9335,
+    "population": 24950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bria",
+    "region": "Haute-Kotto Prefecture",
+    "lat": 6.5423,
+    "lon": 21.9863,
+    "population": 21883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bocaranga",
+    "region": "Ouham-Pendé Prefecture",
+    "lat": 6.7655,
+    "lon": 15.7787,
+    "population": 19360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kembé",
+    "region": "Basse-Kotto Prefecture",
+    "lat": 4.6227,
+    "lon": 21.8864,
+    "population": 19273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouango",
+    "region": "Mbomou Prefecture",
+    "lat": 4.3133,
+    "lon": 22.5552,
+    "population": 19099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kouango",
+    "region": "Ouaka Prefecture",
+    "lat": 4.9934,
+    "lon": 19.9619,
+    "population": 18586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangassou",
+    "region": "Mbomou Prefecture",
+    "lat": 4.7413,
+    "lon": 22.8184,
+    "population": 18454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouanda-Djallé",
+    "region": "Vakaga Prefecture",
+    "lat": 9.0588,
+    "lon": 22.4274,
+    "population": 18303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bozoum",
+    "region": "Ouham-Pendé Prefecture",
+    "lat": 6.3193,
+    "lon": 16.3799,
+    "population": 18155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bimbo",
+    "region": "Ombella-M'Poko Prefecture",
+    "lat": 4.2567,
+    "lon": 18.4158,
+    "population": 17088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birao",
+    "region": "Vakaga Prefecture",
+    "lat": 10.2849,
+    "lon": 22.7882,
+    "population": 17024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batangafo",
+    "region": "Ouham Prefecture",
+    "lat": 7.3008,
+    "lon": 18.2833,
+    "population": 14432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bossangoa",
+    "region": "Ouham Prefecture",
+    "lat": 6.4926,
+    "lon": 17.4552,
+    "population": 14390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ippy",
+    "region": "Ouaka Prefecture",
+    "lat": 6.2679,
+    "lon": 21.2247,
+    "population": 13958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nola",
+    "region": "Sangha-Mbaéré",
+    "lat": 3.5249,
+    "lon": 16.0458,
+    "population": 13525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibut",
+    "region": "Kémo Prefecture",
+    "lat": 5.718,
+    "lon": 19.0739,
+    "population": 10258,
+    "timezone": "UTC"
+  }
+]

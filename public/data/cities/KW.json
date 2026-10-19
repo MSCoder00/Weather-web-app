@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Ḩawallī",
+    "region": "Hawalli Governorate",
+    "lat": 29.3328,
+    "lon": 48.0286,
+    "population": 48804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Farwānīyah",
+    "region": "Al Farwaniyah Governorate",
+    "lat": 29.2775,
+    "lon": 47.9586,
+    "population": 48351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salwá",
+    "region": "Hawalli Governorate",
+    "lat": 29.2958,
+    "lon": 48.0786,
+    "population": 47533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janūb as Surrah",
+    "region": "Al Farwaniyah Governorate",
+    "lat": 29.2692,
+    "lon": 47.9781,
+    "population": 47326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jahrā’",
+    "region": "Al Jahra Governorate",
+    "lat": 29.3375,
+    "lon": 47.6581,
+    "population": 45754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mahbūlah",
+    "region": "Al Ahmadi Governorate",
+    "lat": 29.145,
+    "lon": 48.1303,
+    "population": 45138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Riqqah",
+    "region": "Al Ahmadi Governorate",
+    "lat": 29.1458,
+    "lon": 48.0947,
+    "population": 44156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sālimīyah",
+    "region": "Hawalli Governorate",
+    "lat": 29.3339,
+    "lon": 48.0761,
+    "population": 41633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Al Hasaniya",
+    "region": "Mubarak Al-Kabeer Governorate",
+    "lat": 29.1908,
+    "lon": 48.1135,
+    "population": 39916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zawr",
+    "region": "Capital Governorate",
+    "lat": 29.4425,
+    "lon": 48.2747,
+    "population": 35376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Funayţīs",
+    "region": "Mubarak Al-Kabeer Governorate",
+    "lat": 29.2253,
+    "lon": 48.1017,
+    "population": 34730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Manqaf",
+    "region": "Al Ahmadi Governorate",
+    "lat": 29.0961,
+    "lon": 48.1328,
+    "population": 34278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rābiyah",
+    "region": "Capital Governorate",
+    "lat": 29.295,
+    "lon": 47.9331,
+    "population": 34032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Aḩmadī",
+    "region": "Al Ahmadi Governorate",
+    "lat": 29.0769,
+    "lon": 48.0839,
+    "population": 33198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rumaythīyah",
+    "region": "Hawalli Governorate",
+    "lat": 29.3117,
+    "lon": 48.0742,
+    "population": 30598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shāmīyah",
+    "region": "Capital Governorate",
+    "lat": 29.3472,
+    "lon": 47.9617,
+    "population": 27992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Faḩāḩīl",
+    "region": "Al Ahmadi Governorate",
+    "lat": 29.0825,
+    "lon": 48.1303,
+    "population": 27158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wafrah",
+    "region": "Al Ahmadi Governorate",
+    "lat": 28.6392,
+    "lon": 47.9306,
+    "population": 27065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şabāḩ as Sālim",
+    "region": "Mubarak Al-Kabeer Governorate",
+    "lat": 29.2572,
+    "lon": 48.0572,
+    "population": 26077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Masayel",
+    "region": "Mubarak Al-Kabeer Governorate",
+    "lat": 29.2393,
+    "lon": 48.0886,
+    "population": 22871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dasmah",
+    "region": "Capital Governorate",
+    "lat": 29.365,
+    "lon": 48.0014,
+    "population": 19644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuwait City",
+    "region": "Capital Governorate",
+    "lat": 29.3697,
+    "lon": 47.9783,
+    "population": 18949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayān",
+    "region": "Hawalli Governorate",
+    "lat": 29.3032,
+    "lon": 48.0488,
+    "population": 18907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Fatira",
+    "region": "Mubarak Al-Kabeer Governorate",
+    "lat": 29.1975,
+    "lon": 48.1028,
+    "population": 13938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Finţās",
+    "region": "Al Ahmadi Governorate",
+    "lat": 29.1739,
+    "lon": 48.1211,
+    "population": 13156,
+    "timezone": "UTC"
+  }
+]

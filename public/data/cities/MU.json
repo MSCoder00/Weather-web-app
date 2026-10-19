@@ -1,0 +1,778 @@
+[
+  {
+    "name": "Crève Coeur",
+    "region": "Pamplemousses District",
+    "lat": -20.1911,
+    "lon": 57.5572,
+    "population": 49871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamarin",
+    "region": "Rivière Noire District",
+    "lat": -20.3256,
+    "lon": 57.3706,
+    "population": 47984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poste de Flacq",
+    "region": "Flacq District",
+    "lat": -20.1631,
+    "lon": 57.7306,
+    "population": 47820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bel Air Rivière Sèche",
+    "region": "Flacq District",
+    "lat": -20.2578,
+    "lon": 57.7498,
+    "population": 47819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calebasses",
+    "region": "Pamplemousses District",
+    "lat": -20.1117,
+    "lon": 57.5539,
+    "population": 47732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camp de Masque",
+    "region": "Flacq District",
+    "lat": -20.2369,
+    "lon": 57.6633,
+    "population": 47608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souillac",
+    "region": "Savanne District",
+    "lat": -20.5167,
+    "lon": 57.5167,
+    "population": 47561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bois des Amourettes",
+    "region": "Grand Port District",
+    "lat": -20.3631,
+    "lon": 57.7311,
+    "population": 47516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "The Vale",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0302,
+    "lon": 57.6022,
+    "population": 46956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grande Rivière Noire",
+    "region": "Rivière Noire District",
+    "lat": -20.3603,
+    "lon": 57.3661,
+    "population": 46806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surinam",
+    "region": "Savanne District",
+    "lat": -20.5097,
+    "lon": 57.5053,
+    "population": 46258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Triolet",
+    "region": "Pamplemousses District",
+    "lat": -20.0576,
+    "lon": 57.5502,
+    "population": 45124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ecroignard",
+    "region": "Flacq District",
+    "lat": -20.2261,
+    "lon": 57.7361,
+    "population": 45106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goodlands",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0384,
+    "lon": 57.6506,
+    "population": 44243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Louis",
+    "region": "Port Louis District",
+    "lat": -20.1619,
+    "lon": 57.4989,
+    "population": 43810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midlands",
+    "region": "Plaines Wilhems District",
+    "lat": -20.3191,
+    "lon": 57.5702,
+    "population": 43803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chamouny",
+    "region": "Savanne District",
+    "lat": -20.4822,
+    "lon": 57.4661,
+    "population": 43767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pamplemousses",
+    "region": "Pamplemousses District",
+    "lat": -20.1039,
+    "lon": 57.5703,
+    "population": 43684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Sable",
+    "region": "Grand Port District",
+    "lat": -20.3142,
+    "lon": 57.7644,
+    "population": 42910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beau Vallon",
+    "region": "Grand Port District",
+    "lat": -20.4189,
+    "lon": 57.6953,
+    "population": 42202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sebastopol",
+    "region": "Flacq District",
+    "lat": -20.2907,
+    "lon": 57.6878,
+    "population": 42151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mare La Chaux",
+    "region": "Flacq District",
+    "lat": -20.1981,
+    "lon": 57.7494,
+    "population": 41953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melrose",
+    "region": "Moka District",
+    "lat": -20.2697,
+    "lon": 57.6319,
+    "population": 41782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambous",
+    "region": "Rivière Noire District",
+    "lat": -20.2567,
+    "lon": 57.4061,
+    "population": 41694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ebene",
+    "region": "Plaines Wilhems District",
+    "lat": -20.2449,
+    "lon": 57.4916,
+    "population": 41482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Gaube",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0064,
+    "lon": 57.6608,
+    "population": 40514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Long Mountain",
+    "region": "Pamplemousses District",
+    "lat": -20.1431,
+    "lon": 57.5622,
+    "population": 40242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cascavelle",
+    "region": "Rivière Noire District",
+    "lat": -20.2869,
+    "lon": 57.4072,
+    "population": 39955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quatre Cocos",
+    "region": "Flacq District",
+    "lat": -20.2015,
+    "lon": 57.7745,
+    "population": 39529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petite Rivière",
+    "region": "Rivière Noire District",
+    "lat": -20.1955,
+    "lon": 57.4459,
+    "population": 39272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalmatie",
+    "region": "Flacq District",
+    "lat": -20.1897,
+    "lon": 57.6611,
+    "population": 39140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Bois",
+    "region": "Savanne District",
+    "lat": -20.4189,
+    "lon": 57.5442,
+    "population": 39105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mapou",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0758,
+    "lon": 57.6014,
+    "population": 39048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Albion",
+    "region": "Rivière Noire District",
+    "lat": -20.2081,
+    "lon": 57.4077,
+    "population": 38491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Notre Dame",
+    "region": "Pamplemousses District",
+    "lat": -20.1406,
+    "lon": 57.5531,
+    "population": 38032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petit Raffray",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0202,
+    "lon": 57.623,
+    "population": 37934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand Baie",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0182,
+    "lon": 57.5802,
+    "population": 36999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahébourg",
+    "region": "Grand Port District",
+    "lat": -20.4081,
+    "lon": 57.7,
+    "population": 35428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Aubin",
+    "region": "Savanne District",
+    "lat": -20.496,
+    "lon": 57.55,
+    "population": 35335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fond du Sac",
+    "region": "Pamplemousses District",
+    "lat": -20.0473,
+    "lon": 57.584,
+    "population": 35234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plaines des Roches",
+    "region": "Rivière du Rempart District",
+    "lat": -20.1117,
+    "lon": 57.6908,
+    "population": 34909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morcellement Saint André",
+    "region": "Pamplemousses District",
+    "lat": -20.072,
+    "lon": 57.5683,
+    "population": 34618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centre de Flacq",
+    "region": "Flacq District",
+    "lat": -20.1897,
+    "lon": 57.7144,
+    "population": 33388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brisée Verdière",
+    "region": "Flacq District",
+    "lat": -20.1639,
+    "lon": 57.6467,
+    "population": 33289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivière du Rempart",
+    "region": "Rivière du Rempart District",
+    "lat": -20.1031,
+    "lon": 57.6847,
+    "population": 32952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camp Ithier",
+    "region": "Flacq District",
+    "lat": -20.2158,
+    "lon": 57.7456,
+    "population": 32068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roche Terre",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0186,
+    "lon": 57.6447,
+    "population": 31877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verdun",
+    "region": "Moka District",
+    "lat": -20.2342,
+    "lon": 57.5548,
+    "population": 31096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Congomah",
+    "region": "Pamplemousses District",
+    "lat": -20.1489,
+    "lon": 57.5908,
+    "population": 30909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cottage",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0597,
+    "lon": 57.6292,
+    "population": 30548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Le Hochet",
+    "region": "Pamplemousses District",
+    "lat": -20.135,
+    "lon": 57.5211,
+    "population": 30185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petite Case Noyale",
+    "region": "Rivière Noire District",
+    "lat": -20.3931,
+    "lon": 57.365,
+    "population": 29985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terre Rouge",
+    "region": "Pamplemousses District",
+    "lat": -20.1261,
+    "lon": 57.5244,
+    "population": 29057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Hubert",
+    "region": "Grand Port District",
+    "lat": -20.3642,
+    "lon": 57.6383,
+    "population": 28967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rose Belle",
+    "region": "Grand Port District",
+    "lat": -20.4003,
+    "lon": 57.5967,
+    "population": 28036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vingt Cinq",
+    "region": "Agaléga",
+    "lat": -10.388,
+    "lon": 56.618,
+    "population": 27835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Pierre",
+    "region": "Moka District",
+    "lat": -20.2175,
+    "lon": 57.5208,
+    "population": 27533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quartier Militaire",
+    "region": "Moka District",
+    "lat": -20.2479,
+    "lon": 57.5974,
+    "population": 27443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Grove",
+    "region": "Grand Port District",
+    "lat": -20.4086,
+    "lon": 57.6136,
+    "population": 26905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambous Virieux",
+    "region": "Grand Port District",
+    "lat": -20.3428,
+    "lon": 57.7575,
+    "population": 26474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gros Cailloux",
+    "region": "Rivière Noire District",
+    "lat": -20.2072,
+    "lon": 57.43,
+    "population": 26296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clémencia",
+    "region": "Flacq District",
+    "lat": -20.2639,
+    "lon": 57.7061,
+    "population": 26288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moka",
+    "region": "Moka District",
+    "lat": -20.2189,
+    "lon": 57.4958,
+    "population": 25284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camp Thorel",
+    "region": "Moka District",
+    "lat": -20.2147,
+    "lon": 57.6161,
+    "population": 24888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Julien",
+    "region": "Flacq District",
+    "lat": -20.2264,
+    "lon": 57.6364,
+    "population": 24851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roches Noire",
+    "region": "Rivière du Rempart District",
+    "lat": -20.1111,
+    "lon": 57.7122,
+    "population": 24811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arsenal",
+    "region": "Pamplemousses District",
+    "lat": -20.1056,
+    "lon": 57.5353,
+    "population": 24275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grande Rivière Sud Est",
+    "region": "Flacq District",
+    "lat": -20.2861,
+    "lon": 57.7758,
+    "population": 23747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curepipe",
+    "region": "Plaines Wilhems District",
+    "lat": -20.3163,
+    "lon": 57.5259,
+    "population": 22550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quatre Bornes",
+    "region": "Plaines Wilhems District",
+    "lat": -20.2638,
+    "lon": 57.4791,
+    "population": 22505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quatre Soeurs",
+    "region": "Flacq District",
+    "lat": -20.2992,
+    "lon": 57.7706,
+    "population": 22479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laventure",
+    "region": "Flacq District",
+    "lat": -20.1458,
+    "lon": 57.6767,
+    "population": 22376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plaine Magnien",
+    "region": "Grand Port District",
+    "lat": -20.4297,
+    "lon": 57.6697,
+    "population": 22352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Providence",
+    "region": "Moka District",
+    "lat": -20.2447,
+    "lon": 57.6122,
+    "population": 21931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camp Diable",
+    "region": "Savanne District",
+    "lat": -20.4628,
+    "lon": 57.5789,
+    "population": 21793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dagotière",
+    "region": "Moka District",
+    "lat": -20.2448,
+    "lon": 57.5619,
+    "population": 21487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flic en Flac",
+    "region": "Rivière Noire District",
+    "lat": -20.2742,
+    "lon": 57.3631,
+    "population": 20849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beau Bassin-Rose Hill",
+    "region": "Plaines Wilhems District",
+    "lat": -20.2333,
+    "lon": 57.4661,
+    "population": 20483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bon Accueil",
+    "region": "Flacq District",
+    "lat": -20.1708,
+    "lon": 57.6564,
+    "population": 19743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baie aux Huîtres",
+    "region": "Rodrigues",
+    "lat": -19.6944,
+    "lon": 63.4083,
+    "population": 19591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cluny",
+    "region": "Grand Port District",
+    "lat": -20.3669,
+    "lon": 57.6039,
+    "population": 19383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Mathurin",
+    "region": "Rodrigues",
+    "lat": -19.6833,
+    "lon": 63.4167,
+    "population": 18680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivière des Anguilles",
+    "region": "Savanne District",
+    "lat": -20.4853,
+    "lon": 57.5508,
+    "population": 18405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Espérance Trébuchet",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0697,
+    "lon": 57.6419,
+    "population": 17376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plaine des Papayes",
+    "region": "Pamplemousses District",
+    "lat": -20.065,
+    "lon": 57.5725,
+    "population": 17303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chemin Grenier",
+    "region": "Savanne District",
+    "lat": -20.4872,
+    "lon": 57.4656,
+    "population": 17011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amaury",
+    "region": "Rivière du Rempart District",
+    "lat": -20.1308,
+    "lon": 57.6592,
+    "population": 15936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olivia",
+    "region": "Flacq District",
+    "lat": -20.2878,
+    "lon": 57.731,
+    "population": 15784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pointe aux Piments",
+    "region": "Pamplemousses District",
+    "lat": -20.0649,
+    "lon": 57.5235,
+    "population": 14478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vacoas",
+    "region": "Plaines Wilhems District",
+    "lat": -20.2981,
+    "lon": 57.4783,
+    "population": 14349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubreuil",
+    "region": "Moka District",
+    "lat": -20.3013,
+    "lon": 57.5986,
+    "population": 14290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queen Victoria",
+    "region": "Flacq District",
+    "lat": -20.22,
+    "lon": 57.7075,
+    "population": 12466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pailles",
+    "region": "Moka District",
+    "lat": -20.1927,
+    "lon": 57.4883,
+    "population": 12286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cargados Carajos",
+    "region": "Cargados Carajos",
+    "lat": -16.6033,
+    "lon": 59.6585,
+    "population": 12106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nouvelle France",
+    "region": "Grand Port District",
+    "lat": -20.3706,
+    "lon": 57.5611,
+    "population": 11709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piton",
+    "region": "Rivière du Rempart District",
+    "lat": -20.0903,
+    "lon": 57.6303,
+    "population": 10539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cap Malheureux",
+    "region": "Rivière du Rempart District",
+    "lat": -19.9842,
+    "lon": 57.6142,
+    "population": 10283,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Al-Mejar Al-Kabi District",
+    "region": "Maysan Governorate",
+    "lat": 31.4294,
+    "lon": 47.2035,
+    "population": 49260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hīt District",
+    "region": "Al Anbar Governorate",
+    "lat": 33.7348,
+    "lon": 42.6823,
+    "population": 49213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imam Qasim",
+    "region": "Babylon Governorate",
+    "lat": 32.298,
+    "lon": 44.6828,
+    "population": 48464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tikrīt",
+    "region": "Saladin Governorate",
+    "lat": 34.6158,
+    "lon": 43.6786,
+    "population": 48398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mawşil al Jadīdah",
+    "region": "Nineveh Governorate",
+    "lat": 36.3327,
+    "lon": 43.1056,
+    "population": 47913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basrah",
+    "region": "Basra Governorate",
+    "lat": 30.5085,
+    "lon": 47.7804,
+    "population": 47289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aş Şuwayrah",
+    "region": "Wasit Governorate",
+    "lat": 32.9256,
+    "lon": 44.7758,
+    "population": 46958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩalabjah",
+    "region": "Sulaymaniyah Governorate",
+    "lat": 35.1778,
+    "lon": 45.9861,
+    "population": 46927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Afak",
+    "region": "Al-Qādisiyyah Governorate",
+    "lat": 32.0643,
+    "lon": 45.2474,
+    "population": 46691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baynjiwayn",
+    "region": "Sulaymaniyah Governorate",
+    "lat": 35.6205,
+    "lon": 45.9491,
+    "population": 46174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hārithah",
+    "region": "Basra Governorate",
+    "lat": 30.5848,
+    "lon": 47.7611,
+    "population": 45756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Başrah al Qadīmah",
+    "region": "Basra Governorate",
+    "lat": 30.5032,
+    "lon": 47.8151,
+    "population": 45608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balad",
+    "region": "Saladin Governorate",
+    "lat": 34.0149,
+    "lon": 44.1457,
+    "population": 45518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zubayr",
+    "region": "Basra Governorate",
+    "lat": 30.3921,
+    "lon": 47.7017,
+    "population": 45450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nasiriyah",
+    "region": "Dhi Qar Governorate",
+    "lat": 31.058,
+    "lon": 46.2573,
+    "population": 45020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shāmīyah",
+    "region": "Al-Qādisiyyah Governorate",
+    "lat": 31.9626,
+    "lon": 44.6007,
+    "population": 44925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Samawah",
+    "region": "Al Muthanna Governorate",
+    "lat": 31.332,
+    "lon": 45.2944,
+    "population": 44611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sīnah",
+    "region": "Dohuk Governorate",
+    "lat": 36.8085,
+    "lon": 43.0393,
+    "population": 44026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dujayl",
+    "region": "Saladin Governorate",
+    "lat": 33.8467,
+    "lon": 44.2344,
+    "population": 43888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Anah",
+    "region": "Al Anbar Governorate",
+    "lat": 34.3686,
+    "lon": 41.9819,
+    "population": 43857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaqlāwah",
+    "region": "Erbil Governorate",
+    "lat": 36.4042,
+    "lon": 44.3256,
+    "population": 43846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karbala",
+    "region": "Karbala Governorate",
+    "lat": 32.616,
+    "lon": 44.0249,
+    "population": 43519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamjamāl",
+    "region": "Sulaymaniyah Governorate",
+    "lat": 35.5336,
+    "lon": 44.8343,
+    "population": 42252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Hamdaniya",
+    "region": "Nineveh Governorate",
+    "lat": 36.2709,
+    "lon": 43.3776,
+    "population": 42153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shaykhān",
+    "region": "Nineveh Governorate",
+    "lat": 36.696,
+    "lon": 43.352,
+    "population": 42146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fāw",
+    "region": "Basra Governorate",
+    "lat": 29.9742,
+    "lon": 48.4731,
+    "population": 41816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soran",
+    "region": "Erbil Governorate",
+    "lat": 36.6532,
+    "lon": 44.5441,
+    "population": 41047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shaţrah",
+    "region": "Dhi Qar Governorate",
+    "lat": 31.4091,
+    "lon": 46.1727,
+    "population": 40922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu Ghraib District",
+    "region": "Baghdad Governorate",
+    "lat": 33.2919,
+    "lon": 44.0692,
+    "population": 40568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩadīthah",
+    "region": "Al Anbar Governorate",
+    "lat": 34.1366,
+    "lon": 42.3773,
+    "population": 39911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Amārah",
+    "region": "Maysan Governorate",
+    "lat": 31.8356,
+    "lon": 47.1448,
+    "population": 38814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rumaythah",
+    "region": "Al Muthanna Governorate",
+    "lat": 31.5284,
+    "lon": 45.2038,
+    "population": 38765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sulaymānīyah",
+    "region": "Sulaymaniyah Governorate",
+    "lat": 35.565,
+    "lon": 45.4329,
+    "population": 38113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nāḩiyat al Fuhūd",
+    "region": "Dhi Qar Governorate",
+    "lat": 30.9697,
+    "lon": 46.7228,
+    "population": 37760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinjar",
+    "region": "Nineveh Governorate",
+    "lat": 36.2955,
+    "lon": 41.8931,
+    "population": 35486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mishkhāb",
+    "region": "Najaf Governorate",
+    "lat": 31.8044,
+    "lon": 44.4893,
+    "population": 35032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramadi",
+    "region": "Al Anbar Governorate",
+    "lat": 33.4206,
+    "lon": 43.3078,
+    "population": 34724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nāḩiyat ash Shināfīyah",
+    "region": "Al-Qādisiyyah Governorate",
+    "lat": 31.5838,
+    "lon": 44.6467,
+    "population": 34425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩayy",
+    "region": "Wasit Governorate",
+    "lat": 32.1742,
+    "lon": 46.0434,
+    "population": 33605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dīwānīyah",
+    "region": "Al-Qādisiyyah Governorate",
+    "lat": 31.9929,
+    "lon": 44.9255,
+    "population": 31572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koysinceq",
+    "region": "Erbil Governorate",
+    "lat": 36.0829,
+    "lon": 44.6287,
+    "population": 29586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dihok",
+    "region": "Dohuk Governorate",
+    "lat": 36.8671,
+    "lon": 42.9885,
+    "population": 29314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hindīyah",
+    "region": "Karbala Governorate",
+    "lat": 32.5467,
+    "lon": 44.2276,
+    "population": 29184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Fallūjah",
+    "region": "Al Anbar Governorate",
+    "lat": 33.3491,
+    "lon": 43.786,
+    "population": 27023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaxo",
+    "region": "Dohuk Governorate",
+    "lat": 37.1487,
+    "lon": 42.6859,
+    "population": 26764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Aqrah",
+    "region": "Nineveh Governorate",
+    "lat": 36.7604,
+    "lon": 43.8943,
+    "population": 25754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayjī",
+    "region": "Saladin Governorate",
+    "lat": 34.9291,
+    "lon": 43.4888,
+    "population": 25251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Najaf",
+    "region": "Najaf Governorate",
+    "lat": 32.0259,
+    "lon": 44.3462,
+    "population": 25234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tall ‘Afar",
+    "region": "Nineveh Governorate",
+    "lat": 36.3791,
+    "lon": 42.4481,
+    "population": 25133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāwah",
+    "region": "Al Anbar Governorate",
+    "lat": 34.4823,
+    "lon": 41.919,
+    "population": 24976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sāmarrā’",
+    "region": "Saladin Governorate",
+    "lat": 34.1959,
+    "lon": 43.8857,
+    "population": 24866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baghdad",
+    "region": "Baghdad Governorate",
+    "lat": 33.3406,
+    "lon": 44.4009,
+    "population": 24732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Ruţbah",
+    "region": "Al Anbar Governorate",
+    "lat": 33.0372,
+    "lon": 40.2859,
+    "population": 23415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩillah",
+    "region": "Babylon Governorate",
+    "lat": 32.4637,
+    "lon": 44.4196,
+    "population": 23309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tallkayf",
+    "region": "Nineveh Governorate",
+    "lat": 36.4912,
+    "lon": 43.1211,
+    "population": 23219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruwāndiz",
+    "region": "Erbil Governorate",
+    "lat": 36.6121,
+    "lon": 44.5237,
+    "population": 22836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kufa",
+    "region": "Najaf Governorate",
+    "lat": 32.0511,
+    "lon": 44.4402,
+    "population": 22593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baladrūz",
+    "region": "Diyala Governorate",
+    "lat": 33.6963,
+    "lon": 45.0778,
+    "population": 21193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abū Ghurayb",
+    "region": "Baghdad Governorate",
+    "lat": 33.3056,
+    "lon": 44.1848,
+    "population": 21134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Alī al Gharbī",
+    "region": "Maysan Governorate",
+    "lat": 32.4619,
+    "lon": 46.6879,
+    "population": 19517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Anat al Qadīmah",
+    "region": "Al Anbar Governorate",
+    "lat": 34.4693,
+    "lon": 41.9422,
+    "population": 19275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hīt",
+    "region": "Al Anbar Governorate",
+    "lat": 33.6366,
+    "lon": 42.8277,
+    "population": 18160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Kūt",
+    "region": "Wasit Governorate",
+    "lat": 32.5128,
+    "lon": 45.8182,
+    "population": 17426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erbil",
+    "region": "Erbil Governorate",
+    "lat": 36.1833,
+    "lon": 44.0119,
+    "population": 17209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosul",
+    "region": "Nineveh Governorate",
+    "lat": 36.335,
+    "lon": 43.1189,
+    "population": 17013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Amādīyah",
+    "region": "Dohuk Governorate",
+    "lat": 37.0921,
+    "lon": 43.4877,
+    "population": 16523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nahiyat Ghammas",
+    "region": "Al-Qādisiyyah Governorate",
+    "lat": 31.7431,
+    "lon": 44.6196,
+    "population": 16276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Musayyib",
+    "region": "Babylon Governorate",
+    "lat": 32.7787,
+    "lon": 44.2901,
+    "population": 15923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaḑā’ Kifrī",
+    "region": "Diyala Governorate",
+    "lat": 34.5229,
+    "lon": 44.8582,
+    "population": 15825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khāliş",
+    "region": "Diyala Governorate",
+    "lat": 33.8081,
+    "lon": 44.5334,
+    "population": 15603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kifrī",
+    "region": "Diyala Governorate",
+    "lat": 34.6896,
+    "lon": 44.9606,
+    "population": 13571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batifa",
+    "region": "Dohuk Governorate",
+    "lat": 37.1745,
+    "lon": 43.0123,
+    "population": 13234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Azīzīyah",
+    "region": "Wasit Governorate",
+    "lat": 32.9094,
+    "lon": 45.0636,
+    "population": 13191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Qaşr",
+    "region": "Basra Governorate",
+    "lat": 30.0362,
+    "lon": 47.9195,
+    "population": 12647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baqubah",
+    "region": "Diyala Governorate",
+    "lat": 33.754,
+    "lon": 44.6052,
+    "population": 12104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkuk",
+    "region": "Kirkuk Governorate",
+    "lat": 35.4681,
+    "lon": 44.3922,
+    "population": 12042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Miqdādīyah",
+    "region": "Diyala Governorate",
+    "lat": 33.9786,
+    "lon": 44.9369,
+    "population": 11976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandalī",
+    "region": "Diyala Governorate",
+    "lat": 33.7481,
+    "lon": 45.555,
+    "population": 11282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tozkhurmato",
+    "region": "Saladin Governorate",
+    "lat": 34.8881,
+    "lon": 44.6326,
+    "population": 11262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arbil",
+    "region": "Erbil Governorate",
+    "lat": 36.1907,
+    "lon": 44.0095,
+    "population": 10950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nāḩīyat Saddat al Hindīyah",
+    "region": "Babylon Governorate",
+    "lat": 32.7156,
+    "lon": 44.2786,
+    "population": 10483,
+    "timezone": "UTC"
+  }
+]

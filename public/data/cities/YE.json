@@ -1,0 +1,2738 @@
+[
+  {
+    "name": "Ash Shamayatayn",
+    "region": "Ta'izz Governorate",
+    "lat": 13.1822,
+    "lon": 43.98,
+    "population": 49814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajr",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.4708,
+    "lon": 48.2774,
+    "population": 49813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawran Aness",
+    "region": "Dhamar Governorate",
+    "lat": 14.8288,
+    "lon": 44.1143,
+    "population": 49645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nisab",
+    "region": "Shabwah Governorate",
+    "lat": 14.5257,
+    "lon": 46.4477,
+    "population": 49619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Salif",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.2288,
+    "lon": 42.7254,
+    "population": 49533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jafariyah",
+    "region": "Raymah Governorate",
+    "lat": 14.5196,
+    "lon": 43.5817,
+    "population": 49512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Said",
+    "region": "Shabwah Governorate",
+    "lat": 14.2766,
+    "lon": 46.8693,
+    "population": 49299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shahil",
+    "region": "Hajjah Governorate",
+    "lat": 15.8553,
+    "lon": 43.4516,
+    "population": 49214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yahr",
+    "region": "Lahij Governorate",
+    "lat": 13.7227,
+    "lon": 45.1305,
+    "population": 49070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dar Sad",
+    "region": "'Adan Governorate",
+    "lat": 12.907,
+    "lon": 44.9784,
+    "population": 48728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shawātī",
+    "region": "Saada Governorate",
+    "lat": 16.7831,
+    "lon": 43.8126,
+    "population": 48590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghayl Ba Wazir",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.8778,
+    "lon": 49.0245,
+    "population": 48422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhī as Sufāl",
+    "region": "Ibb Governorate",
+    "lat": 13.8214,
+    "lon": 44.0778,
+    "population": 48042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bayḑā’",
+    "region": "Al Bayda' Governorate",
+    "lat": 13.9367,
+    "lon": 45.5482,
+    "population": 47852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shara'b Ar Rawnah",
+    "region": "Ta'izz Governorate",
+    "lat": 13.7336,
+    "lon": 43.7672,
+    "population": 47806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zinjibār",
+    "region": "Abyan Governorate",
+    "lat": 13.1287,
+    "lon": 45.3807,
+    "population": 47443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ku'aydinah",
+    "region": "Hajjah Governorate",
+    "lat": 15.8183,
+    "lon": 43.3599,
+    "population": 47418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Durayhimi",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.6046,
+    "lon": 43.0718,
+    "population": 47313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuhlan Ash Sharaf",
+    "region": "Hajjah Governorate",
+    "lat": 16.0231,
+    "lon": 43.4863,
+    "population": 47048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghayl",
+    "region": "Al Jawf Governorate",
+    "lat": 16.0914,
+    "lon": 44.6852,
+    "population": 46838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilmia",
+    "region": "Hadhramaut Governorate",
+    "lat": 12.1858,
+    "lon": 52.2333,
+    "population": 46760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawza",
+    "region": "Ta'izz Governorate",
+    "lat": 13.3782,
+    "lon": 43.6145,
+    "population": 46609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hashwah",
+    "region": "Saada Governorate",
+    "lat": 16.8884,
+    "lon": 44.2738,
+    "population": 46408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shaikh Outhman",
+    "region": "'Adan Governorate",
+    "lat": 12.8864,
+    "lon": 45.0156,
+    "population": 46407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zaydīyah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.2959,
+    "lon": 43.0645,
+    "population": 46340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarah",
+    "region": "Hajjah Governorate",
+    "lat": 16.4019,
+    "lon": 43.474,
+    "population": 46257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rudum",
+    "region": "Shabwah Governorate",
+    "lat": 14.0376,
+    "lon": 47.8382,
+    "population": 46184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Malagim",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.3654,
+    "lon": 45.3851,
+    "population": 46065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qatabir",
+    "region": "Saada Governorate",
+    "lat": 17.3368,
+    "lon": 43.3311,
+    "population": 46018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Talh",
+    "region": "Shabwah Governorate",
+    "lat": 15.0826,
+    "lon": 47.3514,
+    "population": 45680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khwlan",
+    "region": "Sana'a Governorate",
+    "lat": 15.2749,
+    "lon": 44.7686,
+    "population": 45653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Washḩah",
+    "region": "Hajjah Governorate",
+    "lat": 16.3216,
+    "lon": 43.3755,
+    "population": 45480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al A'rsh",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.3656,
+    "lon": 44.7778,
+    "population": 45421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marib City",
+    "region": "Ma'rib Governorate",
+    "lat": 15.4156,
+    "lon": 45.3034,
+    "population": 45392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarim",
+    "region": "Hadhramaut Governorate",
+    "lat": 16.066,
+    "lon": 49.0229,
+    "population": 45339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ḩarīb",
+    "region": "Ma'rib Governorate",
+    "lat": 14.9305,
+    "lon": 45.3682,
+    "population": 45289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arhab",
+    "region": "Sana'a Governorate",
+    "lat": 15.7995,
+    "lon": 44.2466,
+    "population": 45218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Ta‘izzīyah",
+    "region": "Ta'izz Governorate",
+    "lat": 13.6948,
+    "lon": 44.0094,
+    "population": 45079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Village of ALAMRAH",
+    "region": "Ta'izz Governorate",
+    "lat": 13.7432,
+    "lon": 43.7299,
+    "population": 45027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kusmah",
+    "region": "Raymah Governorate",
+    "lat": 14.5474,
+    "lon": 43.6833,
+    "population": 44818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brom Mayfa",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.3423,
+    "lon": 48.7281,
+    "population": 44811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ma'rib",
+    "region": "Ma'rib Governorate",
+    "lat": 15.4625,
+    "lon": 45.3258,
+    "population": 44788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharas",
+    "region": "Hajjah Governorate",
+    "lat": 15.7286,
+    "lon": 43.6546,
+    "population": 44621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qalansīyah",
+    "region": "Socotra Governorate",
+    "lat": 12.6896,
+    "lon": 53.4871,
+    "population": 44548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shibam",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.8703,
+    "lon": 48.6534,
+    "population": 44487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habil Jabr",
+    "region": "Lahij Governorate",
+    "lat": 13.5921,
+    "lon": 45.0737,
+    "population": 44293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dimnat Khadir",
+    "region": "Ta'izz Governorate",
+    "lat": 13.4386,
+    "lon": 44.2542,
+    "population": 44181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mukalla",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.7292,
+    "lon": 48.9199,
+    "population": 44014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qishn",
+    "region": "Al Mahrah Governorate",
+    "lat": 15.6999,
+    "lon": 51.324,
+    "population": 43870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raghwan",
+    "region": "Ma'rib Governorate",
+    "lat": 15.7902,
+    "lon": 45.0694,
+    "population": 43866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Ryashyyah",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.2424,
+    "lon": 44.7754,
+    "population": 43779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thamud",
+    "region": "Hadhramaut Governorate",
+    "lat": 17.6031,
+    "lon": 49.7361,
+    "population": 43709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sawadiyah",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.452,
+    "lon": 45.3697,
+    "population": 43627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maswarah",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.4027,
+    "lon": 45.7033,
+    "population": 43459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mukhā’",
+    "region": "Ta'izz Governorate",
+    "lat": 13.52,
+    "lon": 43.428,
+    "population": 43337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marib",
+    "region": "Ma'rib Governorate",
+    "lat": 15.6213,
+    "lon": 46.0111,
+    "population": 43301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Madaribah Wa Al Arah",
+    "region": "Lahij Governorate",
+    "lat": 12.8569,
+    "lon": 43.9906,
+    "population": 43011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadibu",
+    "region": "Socotra Governorate",
+    "lat": 12.6488,
+    "lon": 54.0189,
+    "population": 43008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabir Al Mawadim",
+    "region": "Ta'izz Governorate",
+    "lat": 13.5318,
+    "lon": 44.0462,
+    "population": 42800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wadi Al Ayn",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.7403,
+    "lon": 48.1475,
+    "population": 42711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zuhrah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.7173,
+    "lon": 43.0637,
+    "population": 42564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manakhah",
+    "region": "Sana'a Governorate",
+    "lat": 15.0717,
+    "lon": 43.6862,
+    "population": 42463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qulensya Wa Abd Al Kuri",
+    "region": "Socotra Governorate",
+    "lat": 12.5548,
+    "lon": 53.5867,
+    "population": 42377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ta‘izz",
+    "region": "Ta'izz Governorate",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "population": 42168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nihm",
+    "region": "Sana'a Governorate",
+    "lat": 15.7516,
+    "lon": 44.5746,
+    "population": 42119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Abr",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.9137,
+    "lon": 47.2288,
+    "population": 42044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hubaysh",
+    "region": "Ibb Governorate",
+    "lat": 14.116,
+    "lon": 44.0824,
+    "population": 41958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shaghadirah",
+    "region": "Hajjah Governorate",
+    "lat": 15.6061,
+    "lon": 43.4992,
+    "population": 41811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qafr",
+    "region": "Ibb Governorate",
+    "lat": 14.3129,
+    "lon": 44.03,
+    "population": 41546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radfan",
+    "region": "Lahij Governorate",
+    "lat": 13.4667,
+    "lon": 44.99,
+    "population": 41470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Garrahi",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.1058,
+    "lon": 43.4094,
+    "population": 41425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barţ al ‘Anān",
+    "region": "Al Jawf Governorate",
+    "lat": 16.9197,
+    "lon": 44.5188,
+    "population": 41061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khalq",
+    "region": "Al Jawf Governorate",
+    "lat": 16.0681,
+    "lon": 44.797,
+    "population": 41047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Saddah",
+    "region": "Ibb Governorate",
+    "lat": 14.1661,
+    "lon": 44.3751,
+    "population": 40743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saqayn",
+    "region": "Saada Governorate",
+    "lat": 16.8601,
+    "lon": 43.4716,
+    "population": 40660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jabal Murad",
+    "region": "Ma'rib Governorate",
+    "lat": 15.0474,
+    "lon": 45.1887,
+    "population": 40370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daw'an",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.0507,
+    "lon": 48.3072,
+    "population": 40158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şa‘dah",
+    "region": "Saada Governorate",
+    "lat": 16.9173,
+    "lon": 43.76,
+    "population": 40136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mashannah",
+    "region": "Ibb Governorate",
+    "lat": 13.9573,
+    "lon": 44.17,
+    "population": 40112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Udayn",
+    "region": "Ibb Governorate",
+    "lat": 13.9611,
+    "lon": 43.9661,
+    "population": 40044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maḩwīt",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.4701,
+    "lon": 43.5448,
+    "population": 40029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mabyan",
+    "region": "Hajjah Governorate",
+    "lat": 15.7717,
+    "lon": 43.551,
+    "population": 40026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raydah",
+    "region": "'Amran Governorate",
+    "lat": 15.7406,
+    "lon": 44.0563,
+    "population": 39968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Misrakh",
+    "region": "Ta'izz Governorate",
+    "lat": 13.4702,
+    "lon": 44.0377,
+    "population": 39929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Husn",
+    "region": "Sana'a Governorate",
+    "lat": 15.0206,
+    "lon": 44.5044,
+    "population": 39818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Sa'd",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.2355,
+    "lon": 43.5156,
+    "population": 39405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maflahy",
+    "region": "Lahij Governorate",
+    "lat": 13.7767,
+    "lon": 45.1088,
+    "population": 39402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mudhaykhirah",
+    "region": "Ibb Governorate",
+    "lat": 13.8661,
+    "lon": 43.9687,
+    "population": 39317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hada",
+    "region": "Dhamar Governorate",
+    "lat": 14.8076,
+    "lon": 44.5679,
+    "population": 39091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Dhihar",
+    "region": "Ibb Governorate",
+    "lat": 13.979,
+    "lon": 44.1526,
+    "population": 38965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Shihr",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.9723,
+    "lon": 49.5526,
+    "population": 38964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāziḩ",
+    "region": "Saada Governorate",
+    "lat": 16.937,
+    "lon": 43.2608,
+    "population": 38957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bayda",
+    "region": "Al Bayda' Governorate",
+    "lat": 13.9852,
+    "lon": 45.5727,
+    "population": 38818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiblah",
+    "region": "Ibb Governorate",
+    "lat": 13.9148,
+    "lon": 44.1213,
+    "population": 38765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Miftah",
+    "region": "Hajjah Governorate",
+    "lat": 15.961,
+    "lon": 43.5147,
+    "population": 38750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rawdah",
+    "region": "Shabwah Governorate",
+    "lat": 14.4956,
+    "lon": 47.2746,
+    "population": 38622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajjah",
+    "region": "Hajjah Governorate",
+    "lat": 15.6816,
+    "lon": 43.45,
+    "population": 38501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mualla",
+    "region": "'Adan Governorate",
+    "lat": 12.6584,
+    "lon": 43.4274,
+    "population": 38494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harib Al Qaramish",
+    "region": "Ma'rib Governorate",
+    "lat": 15.4735,
+    "lon": 44.6153,
+    "population": 38110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghamr",
+    "region": "Saada Governorate",
+    "lat": 16.983,
+    "lon": 43.3161,
+    "population": 38109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suwayr",
+    "region": "'Amran Governorate",
+    "lat": 16.0611,
+    "lon": 43.6212,
+    "population": 38037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayhan",
+    "region": "Shabwah Governorate",
+    "lat": 14.7619,
+    "lon": 45.7482,
+    "population": 37892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayfan",
+    "region": "Ta'izz Governorate",
+    "lat": 13.2906,
+    "lon": 44.2607,
+    "population": 37811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Amrān",
+    "region": "'Amran Governorate",
+    "lat": 15.6594,
+    "lon": 43.9438,
+    "population": 37715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majzar",
+    "region": "Ma'rib Governorate",
+    "lat": 15.8277,
+    "lon": 44.7941,
+    "population": 37689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayran",
+    "region": "Hajjah Governorate",
+    "lat": 16.2508,
+    "lon": 43.0599,
+    "population": 37603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jahran",
+    "region": "Dhamar Governorate",
+    "lat": 14.7331,
+    "lon": 44.3143,
+    "population": 37595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Humaydat",
+    "region": "Al Jawf Governorate",
+    "lat": 16.4667,
+    "lon": 44.4299,
+    "population": 36742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hagr As Sai'ar",
+    "region": "Hadhramaut Governorate",
+    "lat": 16.3056,
+    "lon": 47.9537,
+    "population": 36705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khanfir",
+    "region": "Abyan Governorate",
+    "lat": 13.4205,
+    "lon": 45.6871,
+    "population": 36611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Masilah",
+    "region": "Al Mahrah Governorate",
+    "lat": 15.6399,
+    "lon": 50.6445,
+    "population": 36609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ain",
+    "region": "Shabwah Governorate",
+    "lat": 14.9503,
+    "lon": 45.6004,
+    "population": 36592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tuhayat",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.1099,
+    "lon": 43.1598,
+    "population": 36583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mukalla City",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.6203,
+    "lon": 49.248,
+    "population": 36447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wusab As Safil",
+    "region": "Dhamar Governorate",
+    "lat": 14.2548,
+    "lon": 43.6325,
+    "population": 36188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Salafiyah",
+    "region": "Raymah Governorate",
+    "lat": 14.6866,
+    "lon": 43.8216,
+    "population": 36166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhamār",
+    "region": "Dhamar Governorate",
+    "lat": 14.5427,
+    "lon": 44.4051,
+    "population": 36071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hali",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.825,
+    "lon": 43.0014,
+    "population": 36068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zabīd",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.2774,
+    "lon": 43.3684,
+    "population": 36008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thula",
+    "region": "'Amran Governorate",
+    "lat": 15.601,
+    "lon": 43.8252,
+    "population": 35962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahan",
+    "region": "Al Mahrah Governorate",
+    "lat": 17.5923,
+    "lon": 52.594,
+    "population": 35684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Attyal",
+    "region": "Sana'a Governorate",
+    "lat": 15.3293,
+    "lon": 44.5774,
+    "population": 35647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iyal Surayh",
+    "region": "'Amran Governorate",
+    "lat": 15.7146,
+    "lon": 43.9974,
+    "population": 35502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Radmah",
+    "region": "Ibb Governorate",
+    "lat": 14.212,
+    "lon": 44.5642,
+    "population": 35369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabah",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.2759,
+    "lon": 44.67,
+    "population": 35228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radman Al Awad",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.4836,
+    "lon": 45.2744,
+    "population": 35133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aflah Ash Shawm",
+    "region": "Hajjah Governorate",
+    "lat": 16.0528,
+    "lon": 43.412,
+    "population": 34889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ashah",
+    "region": "'Amran Governorate",
+    "lat": 16.324,
+    "lon": 43.7874,
+    "population": 34672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bura",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.8982,
+    "lon": 43.4753,
+    "population": 34464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huswain",
+    "region": "Al Mahrah Governorate",
+    "lat": 15.723,
+    "lon": 51.9124,
+    "population": 34052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yarīm",
+    "region": "Ibb Governorate",
+    "lat": 14.2539,
+    "lon": 44.3118,
+    "population": 34008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Man'ar",
+    "region": "Al Mahrah Governorate",
+    "lat": 16.5505,
+    "lon": 50.9879,
+    "population": 33877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al  Hawtah",
+    "region": "Lahij Governorate",
+    "lat": 13.0624,
+    "lon": 44.8816,
+    "population": 33839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hufash",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.3747,
+    "lon": 43.4265,
+    "population": 33557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zingibar",
+    "region": "Abyan Governorate",
+    "lat": 13.1342,
+    "lon": 45.4304,
+    "population": 33477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mawasit",
+    "region": "Ta'izz Governorate",
+    "lat": 13.3042,
+    "lon": 44.1005,
+    "population": 33447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazhar",
+    "region": "Raymah Governorate",
+    "lat": 14.5709,
+    "lon": 43.7607,
+    "population": 33390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jabal Habashy",
+    "region": "Ta'izz Governorate",
+    "lat": 13.4665,
+    "lon": 43.881,
+    "population": 33376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nati'",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.5539,
+    "lon": 45.585,
+    "population": 33297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harf Sufyan",
+    "region": "'Amran Governorate",
+    "lat": 16.4139,
+    "lon": 43.9857,
+    "population": 33217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bājil",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.0756,
+    "lon": 43.1735,
+    "population": 33152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sama",
+    "region": "Ta'izz Governorate",
+    "lat": 13.3809,
+    "lon": 44.1166,
+    "population": 32949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huraidhah",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.5542,
+    "lon": 48.175,
+    "population": 32948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibah",
+    "region": "Abyan Governorate",
+    "lat": 13.8091,
+    "lon": 45.4023,
+    "population": 32917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banī al ‘Awwām",
+    "region": "Hajjah Governorate",
+    "lat": 15.5812,
+    "lon": 43.5873,
+    "population": 32887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jayshan",
+    "region": "Abyan Governorate",
+    "lat": 14.1662,
+    "lon": 46.1723,
+    "population": 32836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mahabishah",
+    "region": "Hajjah Governorate",
+    "lat": 15.9287,
+    "lon": 43.448,
+    "population": 32820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Had",
+    "region": "Lahij Governorate",
+    "lat": 13.9783,
+    "lon": 45.2553,
+    "population": 32758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sawma'ah",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.1667,
+    "lon": 45.8311,
+    "population": 32736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghayz̧ah",
+    "region": "Al Mahrah Governorate",
+    "lat": 16.2079,
+    "lon": 52.176,
+    "population": 32528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirwah",
+    "region": "Ma'rib Governorate",
+    "lat": 15.4369,
+    "lon": 45.0115,
+    "population": 32150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sukhnah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.7484,
+    "lon": 43.3342,
+    "population": 32003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilad Ar Rus",
+    "region": "Sana'a Governorate",
+    "lat": 15.0351,
+    "lon": 44.2514,
+    "population": 31995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayun",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.9831,
+    "lon": 48.8315,
+    "population": 31876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Safra",
+    "region": "Saada Governorate",
+    "lat": 17.0142,
+    "lon": 43.8566,
+    "population": 31588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laḩij",
+    "region": "Lahij Governorate",
+    "lat": 13.0567,
+    "lon": 44.8819,
+    "population": 31480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qanawis",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.4921,
+    "lon": 43.1378,
+    "population": 31358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhubab",
+    "region": "Ta'izz Governorate",
+    "lat": 12.9659,
+    "lon": 43.4724,
+    "population": 31160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merkhah As Sufla",
+    "region": "Shabwah Governorate",
+    "lat": 14.6999,
+    "lon": 46.1563,
+    "population": 30995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Hushaysh",
+    "region": "Sana'a Governorate",
+    "lat": 15.4505,
+    "lon": 44.3782,
+    "population": 30933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Merkhah Al Ulya",
+    "region": "Shabwah Governorate",
+    "lat": 14.4847,
+    "lon": 45.9299,
+    "population": 30568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baqim",
+    "region": "Saada Governorate",
+    "lat": 17.3781,
+    "lon": 43.4635,
+    "population": 30435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haydan",
+    "region": "Saada Governorate",
+    "lat": 16.7287,
+    "lon": 43.4849,
+    "population": 30409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mansuriyah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.6903,
+    "lon": 43.3682,
+    "population": 30353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mighlaf",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.3111,
+    "lon": 43.1836,
+    "population": 30282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dahi",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.2232,
+    "lon": 43.1935,
+    "population": 30278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khabt",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.4817,
+    "lon": 43.3677,
+    "population": 30167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mina",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.8078,
+    "lon": 42.9373,
+    "population": 30117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhi Bin",
+    "region": "'Amran Governorate",
+    "lat": 16.0276,
+    "lon": 44.1515,
+    "population": 30034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayfa'a",
+    "region": "Shabwah Governorate",
+    "lat": 14.3978,
+    "lon": 47.7404,
+    "population": 30001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arma",
+    "region": "Shabwah Governorate",
+    "lat": 15.4127,
+    "lon": 47.2345,
+    "population": 29910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dīs ash Sharqīyah",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.9084,
+    "lon": 49.9485,
+    "population": 29374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maswar",
+    "region": "'Amran Governorate",
+    "lat": 15.5986,
+    "lon": 43.6925,
+    "population": 29332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumah",
+    "region": "Hadhramaut Governorate",
+    "lat": 17.8145,
+    "lon": 51.0759,
+    "population": 29189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ba'dan",
+    "region": "Ibb Governorate",
+    "lat": 13.9887,
+    "lon": 44.3236,
+    "population": 29188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qaf",
+    "region": "Hadhramaut Governorate",
+    "lat": 17.4287,
+    "lon": 48.9405,
+    "population": 29112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mudiyah",
+    "region": "Abyan Governorate",
+    "lat": 13.9096,
+    "lon": 46.2196,
+    "population": 29085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qaflah",
+    "region": "'Amran Governorate",
+    "lat": 16.3386,
+    "lon": 43.7036,
+    "population": 28959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Suraim",
+    "region": "'Amran Governorate",
+    "lat": 16.1253,
+    "lon": 43.9602,
+    "population": 28817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayfa'at Anss",
+    "region": "Dhamar Governorate",
+    "lat": 14.5152,
+    "lon": 44.6106,
+    "population": 28662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahwar",
+    "region": "Abyan Governorate",
+    "lat": 13.6853,
+    "lon": 46.7556,
+    "population": 28634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghaydah",
+    "region": "Al Mahrah Governorate",
+    "lat": 16.2618,
+    "lon": 52.0816,
+    "population": 28627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahliyah",
+    "region": "Ma'rib Governorate",
+    "lat": 14.6821,
+    "lon": 45.1832,
+    "population": 28616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khayran Al Muharraq",
+    "region": "Hajjah Governorate",
+    "lat": 16.0896,
+    "lon": 43.3576,
+    "population": 28591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radā‘",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.34,
+    "lon": 44.9087,
+    "population": 28427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qafl Shamer",
+    "region": "Hajjah Governorate",
+    "lat": 15.9087,
+    "lon": 43.364,
+    "population": 28189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zahir",
+    "region": "Al Jawf Governorate",
+    "lat": 16.3308,
+    "lon": 44.5244,
+    "population": 28089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bidbadah",
+    "region": "Ma'rib Governorate",
+    "lat": 15.3981,
+    "lon": 44.7473,
+    "population": 28084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayt al Faqīh",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.4874,
+    "lon": 43.2781,
+    "population": 27871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Craiter",
+    "region": "'Adan Governorate",
+    "lat": 12.7731,
+    "lon": 45.0381,
+    "population": 27860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Munirah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.3528,
+    "lon": 42.9062,
+    "population": 27838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mashra'a Wa Hadnan",
+    "region": "Ta'izz Governorate",
+    "lat": 13.5417,
+    "lon": 43.9983,
+    "population": 27695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sayyani",
+    "region": "Ibb Governorate",
+    "lat": 13.8224,
+    "lon": 44.2118,
+    "population": 27684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al-Medy Village, قرية المدي",
+    "region": "Dhamar Governorate",
+    "lat": 14.4015,
+    "lon": 43.7918,
+    "population": 27455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monabbih",
+    "region": "Saada Governorate",
+    "lat": 17.1693,
+    "lon": 43.2791,
+    "population": 27399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩamdī",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.9473,
+    "lon": 48.7796,
+    "population": 27300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamaran",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.3605,
+    "lon": 42.5854,
+    "population": 27142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "AL-khashā upper",
+    "region": "Shabwah Governorate",
+    "lat": 14.3404,
+    "lon": 46.7137,
+    "population": 26950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qatn",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.9232,
+    "lon": 48.2146,
+    "population": 26907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jihanah",
+    "region": "Sana'a Governorate",
+    "lat": 15.1919,
+    "lon": 44.5195,
+    "population": 26841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghayl Bin Yamin",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.3896,
+    "lon": 49.2854,
+    "population": 26421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Al Awam",
+    "region": "Hajjah Governorate",
+    "lat": 15.581,
+    "lon": 43.6079,
+    "population": 25993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Na'man",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.5939,
+    "lon": 45.5286,
+    "population": 25990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩabīlayn",
+    "region": "Lahij Governorate",
+    "lat": 13.52,
+    "lon": 44.8508,
+    "population": 25680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Matar",
+    "region": "Sana'a Governorate",
+    "lat": 15.215,
+    "lon": 44.0498,
+    "population": 25637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahārah",
+    "region": "'Amran Governorate",
+    "lat": 16.18,
+    "lon": 43.7094,
+    "population": 25410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aflah Al Yaman",
+    "region": "Hajjah Governorate",
+    "lat": 15.9789,
+    "lon": 43.4111,
+    "population": 25210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jardan",
+    "region": "Shabwah Governorate",
+    "lat": 15.19,
+    "lon": 46.7338,
+    "population": 25202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jubah",
+    "region": "Ma'rib Governorate",
+    "lat": 15.1249,
+    "lon": 45.2868,
+    "population": 25181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Makhādir",
+    "region": "Ibb Governorate",
+    "lat": 14.1396,
+    "lon": 44.2033,
+    "population": 25149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakil Al Mir",
+    "region": "Hajjah Governorate",
+    "lat": 16.5069,
+    "lon": 43.3615,
+    "population": 25138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zamakh wa Manwakh",
+    "region": "Hadhramaut Governorate",
+    "lat": 17.2032,
+    "lon": 47.7033,
+    "population": 24962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maton",
+    "region": "Al Jawf Governorate",
+    "lat": 16.2872,
+    "lon": 44.6389,
+    "population": 24934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Silw",
+    "region": "Ta'izz Governorate",
+    "lat": 13.3459,
+    "lon": 44.2072,
+    "population": 24913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jabal Iyal Yazid",
+    "region": "'Amran Governorate",
+    "lat": 15.7717,
+    "lon": 43.9051,
+    "population": 24860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hazm",
+    "region": "Al Jawf Governorate",
+    "lat": 16.0378,
+    "lon": 44.9585,
+    "population": 24593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wald Rabi'",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.5557,
+    "lon": 44.906,
+    "population": 24472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ḩudaydah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.7978,
+    "lon": 42.9545,
+    "population": 24378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saḩār",
+    "region": "Saada Governorate",
+    "lat": 16.8852,
+    "lon": 43.6831,
+    "population": 23971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Haymah Ad Dakhiliyah",
+    "region": "Sana'a Governorate",
+    "lat": 15.2722,
+    "lon": 43.8393,
+    "population": 23556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Quraishyah",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.605,
+    "lon": 44.8896,
+    "population": 23534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Haymah Al Kharijiyah",
+    "region": "Sana'a Governorate",
+    "lat": 15.0267,
+    "lon": 43.85,
+    "population": 23497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hawak",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.7601,
+    "lon": 42.9978,
+    "population": 23417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Far Al Udayn",
+    "region": "Ibb Governorate",
+    "lat": 13.9578,
+    "lon": 43.7827,
+    "population": 23403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasad",
+    "region": "Abyan Governorate",
+    "lat": 13.7231,
+    "lon": 45.2814,
+    "population": 23371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mahwait",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.4117,
+    "lon": 43.5663,
+    "population": 23010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Āqir",
+    "region": "Shabwah Governorate",
+    "lat": 14.5682,
+    "lon": 45.9116,
+    "population": 22922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habur Zulaymah",
+    "region": "'Amran Governorate",
+    "lat": 16.035,
+    "lon": 43.7338,
+    "population": 22878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitaf wa Al Boqe'e",
+    "region": "Saada Governorate",
+    "lat": 17.0808,
+    "lon": 44.3962,
+    "population": 22490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lawdar",
+    "region": "Abyan Governorate",
+    "lat": 13.8059,
+    "lon": 45.8008,
+    "population": 22463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aden",
+    "region": "'Adan Governorate",
+    "lat": 12.7794,
+    "lon": 45.0367,
+    "population": 22456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khimār",
+    "region": "Shabwah Governorate",
+    "lat": 14.3198,
+    "lon": 46.7392,
+    "population": 22440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wade'a",
+    "region": "Abyan Governorate",
+    "lat": 13.7136,
+    "lon": 46.0122,
+    "population": 22438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aţ Ţawīlah",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.4416,
+    "lon": 43.7748,
+    "population": 22400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Manar",
+    "region": "Dhamar Governorate",
+    "lat": 14.653,
+    "lon": 44.1164,
+    "population": 22312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rujum",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.4101,
+    "lon": 43.6606,
+    "population": 22303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajuzah",
+    "region": "Al Jawf Governorate",
+    "lat": 16.6342,
+    "lon": 44.5042,
+    "population": 22237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hat",
+    "region": "Al Mahrah Governorate",
+    "lat": 17.8031,
+    "lon": 51.675,
+    "population": 22150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suḩayl Shibām",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.9145,
+    "lon": 48.6386,
+    "population": 22090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qahirah",
+    "region": "Ta'izz Governorate",
+    "lat": 13.5849,
+    "lon": 44.0101,
+    "population": 22017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Buraiqeh",
+    "region": "'Adan Governorate",
+    "lat": 12.8038,
+    "lon": 44.7762,
+    "population": 21787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhi Na'im",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.1111,
+    "lon": 45.4642,
+    "population": 21618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milhan",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.3224,
+    "lon": 43.3318,
+    "population": 21597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amd",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.3486,
+    "lon": 47.9286,
+    "population": 21458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jamimah",
+    "region": "Hajjah Governorate",
+    "lat": 16.0284,
+    "lon": 43.5297,
+    "population": 21428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abs",
+    "region": "Hajjah Governorate",
+    "lat": 16.0215,
+    "lon": 43.0485,
+    "population": 21157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanhan",
+    "region": "Sana'a Governorate",
+    "lat": 15.2252,
+    "lon": 44.3057,
+    "population": 21100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Milah",
+    "region": "Lahij Governorate",
+    "lat": 13.3202,
+    "lon": 44.9267,
+    "population": 20703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habban",
+    "region": "Shabwah Governorate",
+    "lat": 14.2878,
+    "lon": 47.1361,
+    "population": 20697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majz",
+    "region": "Saada Governorate",
+    "lat": 17.0923,
+    "lon": 43.5104,
+    "population": 20693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hays",
+    "region": "Al Hudaydah Governorate",
+    "lat": 13.9332,
+    "lon": 43.4984,
+    "population": 20298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harad District",
+    "region": "Hajjah Governorate",
+    "lat": 16.4045,
+    "lon": 43.0774,
+    "population": 19967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatib",
+    "region": "Shabwah Governorate",
+    "lat": 14.1802,
+    "lon": 46.4439,
+    "population": 19966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maqatirah",
+    "region": "Lahij Governorate",
+    "lat": 13.1372,
+    "lon": 44.1404,
+    "population": 19952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Marawi'ah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.8346,
+    "lon": 43.1965,
+    "population": 19901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayyān",
+    "region": "Sana'a Governorate",
+    "lat": 15.1718,
+    "lon": 44.3244,
+    "population": 19847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maslub",
+    "region": "Al Jawf Governorate",
+    "lat": 16.0961,
+    "lon": 44.5667,
+    "population": 19617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rahabah",
+    "region": "Ma'rib Governorate",
+    "lat": 14.951,
+    "lon": 45.0885,
+    "population": 19561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Māwīyah",
+    "region": "Ta'izz Governorate",
+    "lat": 13.5846,
+    "lon": 44.3191,
+    "population": 19518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Raydah Wa Qusayar",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.1841,
+    "lon": 50.3133,
+    "population": 19514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khabb wa ash Sha'af",
+    "region": "Al Jawf Governorate",
+    "lat": 16.5975,
+    "lon": 45.7853,
+    "population": 19467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuhlan Affar",
+    "region": "Hajjah Governorate",
+    "lat": 15.7554,
+    "lon": 43.697,
+    "population": 19434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wadhrah",
+    "region": "Hajjah Governorate",
+    "lat": 15.7142,
+    "lon": 43.4667,
+    "population": 19395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Madan",
+    "region": "'Amran Governorate",
+    "lat": 16.2328,
+    "lon": 43.639,
+    "population": 18973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuban",
+    "region": "Lahij Governorate",
+    "lat": 13.0921,
+    "lon": 44.8784,
+    "population": 18292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Sharafayn",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.307,
+    "lon": 45.1263,
+    "population": 18165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sudah",
+    "region": "'Amran Governorate",
+    "lat": 15.9664,
+    "lon": 43.7756,
+    "population": 17840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aslem",
+    "region": "Hajjah Governorate",
+    "lat": 16.06,
+    "lon": 43.2939,
+    "population": 17795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khamir",
+    "region": "'Amran Governorate",
+    "lat": 15.9765,
+    "lon": 43.9337,
+    "population": 17752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shara'b As Salam",
+    "region": "Ta'izz Governorate",
+    "lat": 13.7832,
+    "lon": 43.8861,
+    "population": 17732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bayda City",
+    "region": "Al Bayda' Governorate",
+    "lat": 13.9849,
+    "lon": 45.5566,
+    "population": 17593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medghal",
+    "region": "Ma'rib Governorate",
+    "lat": 15.6384,
+    "lon": 45.0038,
+    "population": 17532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhar",
+    "region": "Shabwah Governorate",
+    "lat": 15.5036,
+    "lon": 47.6058,
+    "population": 17498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jawf al Maqbābah",
+    "region": "Abyan Governorate",
+    "lat": 13.8378,
+    "lon": 45.8349,
+    "population": 17309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sawm",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.998,
+    "lon": 49.6686,
+    "population": 17216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Taḩāluf",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.9379,
+    "lon": 48.7864,
+    "population": 17128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jabin",
+    "region": "Raymah Governorate",
+    "lat": 14.6899,
+    "lon": 43.6196,
+    "population": 17039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hooth",
+    "region": "'Amran Governorate",
+    "lat": 16.284,
+    "lon": 43.9781,
+    "population": 17017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kharab Al Marashi",
+    "region": "Al Jawf Governorate",
+    "lat": 16.6107,
+    "lon": 44.2255,
+    "population": 16919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sa'fan",
+    "region": "Sana'a Governorate",
+    "lat": 15.0712,
+    "lon": 43.5827,
+    "population": 16851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wusab Al Ali",
+    "region": "Dhamar Governorate",
+    "lat": 14.3344,
+    "lon": 43.7947,
+    "population": 16850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jabal Ra's",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.0309,
+    "lon": 43.6278,
+    "population": 16641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayhut",
+    "region": "Al Mahrah Governorate",
+    "lat": 15.5345,
+    "lon": 51.2869,
+    "population": 16627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Matammah",
+    "region": "Al Jawf Governorate",
+    "lat": 16.1984,
+    "lon": 44.3902,
+    "population": 16446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shada'a",
+    "region": "Saada Governorate",
+    "lat": 16.8913,
+    "lon": 43.1871,
+    "population": 16376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adh Dhlia'ah",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.0139,
+    "lon": 47.8972,
+    "population": 16288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salh",
+    "region": "Ta'izz Governorate",
+    "lat": 13.5839,
+    "lon": 44.0402,
+    "population": 16129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mukalla",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.5425,
+    "lon": 49.1242,
+    "population": 16127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Inān",
+    "region": "Al Jawf Governorate",
+    "lat": 16.7219,
+    "lon": 44.3125,
+    "population": 15847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jabal Ash sharq",
+    "region": "Dhamar Governorate",
+    "lat": 14.7296,
+    "lon": 43.9062,
+    "population": 15809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ataq",
+    "region": "Shabwah Governorate",
+    "lat": 14.5377,
+    "lon": 46.8319,
+    "population": 15778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mukayras",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.032,
+    "lon": 45.7964,
+    "population": 15774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zahir",
+    "region": "Al Bayda' Governorate",
+    "lat": 13.9918,
+    "lon": 45.4218,
+    "population": 15665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Najrah",
+    "region": "Hajjah Governorate",
+    "lat": 15.6527,
+    "lon": 43.5452,
+    "population": 15643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tur Al Bahah",
+    "region": "Lahij Governorate",
+    "lat": 13.0427,
+    "lon": 44.4115,
+    "population": 15510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Ans",
+    "region": "Dhamar Governorate",
+    "lat": 14.4361,
+    "lon": 44.3889,
+    "population": 15487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Midi",
+    "region": "Hajjah Governorate",
+    "lat": 16.192,
+    "lon": 42.8891,
+    "population": 15434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarar",
+    "region": "Abyan Governorate",
+    "lat": 13.583,
+    "lon": 45.3508,
+    "population": 15330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Qa'is",
+    "region": "Hajjah Governorate",
+    "lat": 15.6346,
+    "lon": 43.3372,
+    "population": 15202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halimayn",
+    "region": "Lahij Governorate",
+    "lat": 13.7088,
+    "lon": 44.9443,
+    "population": 15180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yabuth",
+    "region": "Hadhramaut Governorate",
+    "lat": 14.7182,
+    "lon": 47.7358,
+    "population": 15025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saḩar",
+    "region": "Sana'a Governorate",
+    "lat": 15.3164,
+    "lon": 44.3088,
+    "population": 14979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamdān",
+    "region": "Sana'a Governorate",
+    "lat": 15.5066,
+    "lon": 44.0603,
+    "population": 14968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Dhaher",
+    "region": "Saada Governorate",
+    "lat": 16.7314,
+    "lon": 43.2753,
+    "population": 14843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Abdiyah",
+    "region": "Ma'rib Governorate",
+    "lat": 14.717,
+    "lon": 45.3934,
+    "population": 14807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ma'afer",
+    "region": "Ta'izz Governorate",
+    "lat": 13.3742,
+    "lon": 43.9262,
+    "population": 14797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mudhaffar",
+    "region": "Ta'izz Governorate",
+    "lat": 13.5831,
+    "lon": 43.9927,
+    "population": 14730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alluheyah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 15.6363,
+    "lon": 42.8716,
+    "population": 14621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qabbaytah",
+    "region": "Lahij Governorate",
+    "lat": 13.3275,
+    "lon": 44.5025,
+    "population": 14397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sa'dah",
+    "region": "Saada Governorate",
+    "lat": 16.9402,
+    "lon": 43.7639,
+    "population": 14265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wazi'iyah",
+    "region": "Ta'izz Governorate",
+    "lat": 13.1846,
+    "lon": 43.7298,
+    "population": 14263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sawd",
+    "region": "'Amran Governorate",
+    "lat": 15.8134,
+    "lon": 43.777,
+    "population": 14241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yafa'a",
+    "region": "Lahij Governorate",
+    "lat": 13.862,
+    "lon": 45.2014,
+    "population": 13988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Utmah",
+    "region": "Dhamar Governorate",
+    "lat": 14.4738,
+    "lon": 43.9483,
+    "population": 13744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maqbanah",
+    "region": "Ta'izz Governorate",
+    "lat": 13.6212,
+    "lon": 43.6674,
+    "population": 13504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanaa",
+    "region": "Sana'a Governorate",
+    "lat": 15.3547,
+    "lon": 44.2067,
+    "population": 13404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usaylan",
+    "region": "Shabwah Governorate",
+    "lat": 15.1703,
+    "lon": 46.0274,
+    "population": 13367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Maghrabah",
+    "region": "Hajjah Governorate",
+    "lat": 15.8937,
+    "lon": 43.6091,
+    "population": 13356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Sabrah",
+    "region": "Ibb Governorate",
+    "lat": 13.8427,
+    "lon": 44.3386,
+    "population": 13106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Musaymir",
+    "region": "Lahij Governorate",
+    "lat": 13.4291,
+    "lon": 44.5914,
+    "population": 13076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ad Dis",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.0949,
+    "lon": 50.0159,
+    "population": 12852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Attawahi",
+    "region": "'Adan Governorate",
+    "lat": 12.7741,
+    "lon": 44.9941,
+    "population": 12816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Taffah",
+    "region": "Al Bayda' Governorate",
+    "lat": 14.1983,
+    "lon": 45.3581,
+    "population": 12676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sah",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.5342,
+    "lon": 48.8955,
+    "population": 12361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilad At Ta'am",
+    "region": "Raymah Governorate",
+    "lat": 14.8382,
+    "lon": 43.6078,
+    "population": 12216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hawf",
+    "region": "Al Mahrah Governorate",
+    "lat": 16.6953,
+    "lon": 52.8182,
+    "population": 12194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Dhabyan",
+    "region": "Sana'a Governorate",
+    "lat": 15.0481,
+    "lon": 44.8718,
+    "population": 12034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kharif",
+    "region": "'Amran Governorate",
+    "lat": 15.847,
+    "lon": 44.0822,
+    "population": 11997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ash Sha'ir",
+    "region": "Ibb Governorate",
+    "lat": 14.0318,
+    "lon": 44.3619,
+    "population": 11781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakhyah",
+    "region": "Hadhramaut Governorate",
+    "lat": 15.4618,
+    "lon": 47.7728,
+    "population": 11523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mansura",
+    "region": "'Adan Governorate",
+    "lat": 12.8532,
+    "lon": 44.9724,
+    "population": 11357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hidaybu",
+    "region": "Socotra Governorate",
+    "lat": 12.5025,
+    "lon": 54.0082,
+    "population": 11349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kushar",
+    "region": "Hajjah Governorate",
+    "lat": 16.1709,
+    "lon": 43.472,
+    "population": 11333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "An Nādirah",
+    "region": "Ibb Governorate",
+    "lat": 14.074,
+    "lon": 44.4993,
+    "population": 11230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khāniq",
+    "region": "Sana'a Governorate",
+    "lat": 15.5025,
+    "lon": 44.1816,
+    "population": 11200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maghirib Ans",
+    "region": "Dhamar Governorate",
+    "lat": 14.4653,
+    "lon": 44.1233,
+    "population": 10838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibb",
+    "region": "Ibb Governorate",
+    "lat": 13.9667,
+    "lon": 44.1833,
+    "population": 10825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shibām Kawkabān",
+    "region": "Al Mahwit Governorate",
+    "lat": 15.5028,
+    "lon": 43.8424,
+    "population": 10815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Hajjaylah",
+    "region": "Al Hudaydah Governorate",
+    "lat": 14.9907,
+    "lon": 43.5823,
+    "population": 10674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mustaba",
+    "region": "Hajjah Governorate",
+    "lat": 16.2736,
+    "lon": 43.2685,
+    "population": 10582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Mahfad",
+    "region": "Abyan Governorate",
+    "lat": 13.9705,
+    "lon": 46.756,
+    "population": 10287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hazm Al Udayn",
+    "region": "Ibb Governorate",
+    "lat": 14.1698,
+    "lon": 43.9381,
+    "population": 10189,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,834 @@
+[
+  {
+    "name": "Kerewan",
+    "region": "North Bank Division",
+    "lat": 13.4898,
+    "lon": -16.0888,
+    "population": 49881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bureng",
+    "region": "Lower River Division",
+    "lat": 13.4167,
+    "lon": -15.2833,
+    "population": 49399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "No Kunda",
+    "region": "North Bank Division",
+    "lat": 13.5667,
+    "lon": -15.8333,
+    "population": 48891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brikama Nding",
+    "region": "Central River Division",
+    "lat": 13.5333,
+    "lon": -14.9333,
+    "population": 48861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiang East",
+    "region": "Lower River Division",
+    "lat": 13.4167,
+    "lon": -15.6333,
+    "population": 48748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niani",
+    "region": "Central River Division",
+    "lat": 13.6667,
+    "lon": -14.9167,
+    "population": 48341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarreng",
+    "region": "Central River Division",
+    "lat": 13.6167,
+    "lon": -15.1833,
+    "population": 47665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarra West",
+    "region": "Lower River Division",
+    "lat": 13.4167,
+    "lon": -15.5333,
+    "population": 47333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakadagy",
+    "region": "Upper River Division",
+    "lat": 13.3,
+    "lon": -14.3833,
+    "population": 45668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jifarong",
+    "region": "Lower River Division",
+    "lat": 13.3,
+    "lon": -15.8667,
+    "population": 44082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kombo Saint Mary District",
+    "region": "Banjul",
+    "lat": 13.4439,
+    "lon": -16.6458,
+    "population": 43777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perai",
+    "region": "Upper River Division",
+    "lat": 13.3833,
+    "lon": -14.0333,
+    "population": 43586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kass Wollof",
+    "region": "Central River Division",
+    "lat": 13.7833,
+    "lon": -14.9333,
+    "population": 43172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sara Kunda",
+    "region": "North Bank Division",
+    "lat": 13.5333,
+    "lon": -15.4167,
+    "population": 41999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mansa Konko",
+    "region": "Lower River Division",
+    "lat": 13.4433,
+    "lon": -15.5357,
+    "population": 41884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sudowol",
+    "region": "Upper River Division",
+    "lat": 13.3667,
+    "lon": -13.9667,
+    "population": 40886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daba Kunda",
+    "region": "Upper River Division",
+    "lat": 13.3167,
+    "lon": -14.3,
+    "population": 40817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sun Kunda",
+    "region": "Upper River Division",
+    "lat": 13.3833,
+    "lon": -13.85,
+    "population": 40138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saba",
+    "region": "North Bank Division",
+    "lat": 13.5164,
+    "lon": -16.0492,
+    "population": 39688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toniataba",
+    "region": "Lower River Division",
+    "lat": 13.4333,
+    "lon": -15.5833,
+    "population": 39301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serekunda",
+    "region": "Banjul",
+    "lat": 13.4383,
+    "lon": -16.6781,
+    "population": 39279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saruja",
+    "region": "Central River Division",
+    "lat": 13.55,
+    "lon": -14.9167,
+    "population": 39262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nianija District",
+    "region": "Central River Division",
+    "lat": 13.729,
+    "lon": -15.091,
+    "population": 39150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kantora",
+    "region": "Upper River Division",
+    "lat": 13.4167,
+    "lon": -13.9167,
+    "population": 38996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunting",
+    "region": "Central River Division",
+    "lat": 13.5333,
+    "lon": -14.6667,
+    "population": 38838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banjul",
+    "region": "Banjul",
+    "lat": 13.4527,
+    "lon": -16.578,
+    "population": 38493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janjanbureh",
+    "region": "Central River Division",
+    "lat": 13.5356,
+    "lon": -14.7652,
+    "population": 38314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jokadu",
+    "region": "North Bank Division",
+    "lat": 13.5333,
+    "lon": -16.1833,
+    "population": 38221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galleh Manda",
+    "region": "Central River Division",
+    "lat": 13.4333,
+    "lon": -14.7833,
+    "population": 37631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarra East",
+    "region": "Lower River Division",
+    "lat": 13.4167,
+    "lon": -15.25,
+    "population": 37130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baro Kunda",
+    "region": "Lower River Division",
+    "lat": 13.4833,
+    "lon": -15.2667,
+    "population": 36847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lower Niumi District",
+    "region": "North Bank Division",
+    "lat": 13.5333,
+    "lon": -16.4167,
+    "population": 36264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Central Baddibu",
+    "region": "North Bank Division",
+    "lat": 13.5333,
+    "lon": -15.9167,
+    "population": 36203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sami",
+    "region": "Central River Division",
+    "lat": 13.5833,
+    "lon": -15.2,
+    "population": 36139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellingara Ba",
+    "region": "Lower River Division",
+    "lat": 13.4167,
+    "lon": -15.4,
+    "population": 35175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Essau",
+    "region": "North Bank Division",
+    "lat": 13.4839,
+    "lon": -16.5347,
+    "population": 35074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Si Kunda",
+    "region": "Lower River Division",
+    "lat": 13.4333,
+    "lon": -15.5667,
+    "population": 35049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandu",
+    "region": "Upper River Division",
+    "lat": 13.4167,
+    "lon": -14.3667,
+    "population": 34811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Georgetown",
+    "region": "Central River Division",
+    "lat": 13.5404,
+    "lon": -14.7637,
+    "population": 34695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutukung",
+    "region": "Lower River Division",
+    "lat": 13.4667,
+    "lon": -15.2667,
+    "population": 34573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyamanari",
+    "region": "Upper River Division",
+    "lat": 13.3333,
+    "lon": -13.8667,
+    "population": 33827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diabugu",
+    "region": "Upper River Division",
+    "lat": 13.3833,
+    "lon": -14.4,
+    "population": 33480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiang Central",
+    "region": "Lower River Division",
+    "lat": 13.4,
+    "lon": -15.75,
+    "population": 33388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diabugu Basilla",
+    "region": "Upper River Division",
+    "lat": 13.3333,
+    "lon": -13.95,
+    "population": 32885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keneba",
+    "region": "Lower River Division",
+    "lat": 13.3289,
+    "lon": -16.015,
+    "population": 32362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foni Jarrol",
+    "region": "West Coast Division",
+    "lat": 13.2333,
+    "lon": -15.8333,
+    "population": 32333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuli",
+    "region": "Upper River Division",
+    "lat": 13.5,
+    "lon": -14.0833,
+    "population": 32260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foni Bondali",
+    "region": "West Coast Division",
+    "lat": 13.2167,
+    "lon": -15.9333,
+    "population": 32065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabi",
+    "region": "Upper River Division",
+    "lat": 13.2333,
+    "lon": -14.2,
+    "population": 31933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abuko",
+    "region": "West Coast Division",
+    "lat": 13.4042,
+    "lon": -16.6558,
+    "population": 31403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kombo North District",
+    "region": "West Coast Division",
+    "lat": 13.3667,
+    "lon": -16.6667,
+    "population": 31245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upper Niumi District",
+    "region": "North Bank Division",
+    "lat": 13.4,
+    "lon": -16.3333,
+    "population": 31211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basse Santa Su",
+    "region": "Upper River Division",
+    "lat": 13.31,
+    "lon": -14.2137,
+    "population": 30952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karantaba",
+    "region": "Central River Division",
+    "lat": 13.6667,
+    "lon": -15.0333,
+    "population": 30852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakau",
+    "region": "Banjul",
+    "lat": 13.4781,
+    "lon": -16.6819,
+    "population": 30588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soma",
+    "region": "Lower River Division",
+    "lat": 13.4333,
+    "lon": -15.5333,
+    "population": 29912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jakhaly",
+    "region": "Central River Division",
+    "lat": 13.55,
+    "lon": -14.9667,
+    "population": 29711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niamina West District",
+    "region": "Central River Division",
+    "lat": 13.5833,
+    "lon": -15.25,
+    "population": 29438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upper Baddibu",
+    "region": "North Bank Division",
+    "lat": 13.55,
+    "lon": -15.6667,
+    "population": 29182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunjur Kuta",
+    "region": "Upper River Division",
+    "lat": 13.5333,
+    "lon": -14.1167,
+    "population": 28969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamin",
+    "region": "North Bank Division",
+    "lat": 13.3522,
+    "lon": -16.4339,
+    "population": 28405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jali",
+    "region": "Lower River Division",
+    "lat": 13.35,
+    "lon": -15.9667,
+    "population": 27447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brikama",
+    "region": "West Coast Division",
+    "lat": 13.2714,
+    "lon": -16.6494,
+    "population": 26991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Denton",
+    "region": "Central River Division",
+    "lat": 13.5,
+    "lon": -14.9333,
+    "population": 26637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kombo Central District",
+    "region": "West Coast Division",
+    "lat": 13.25,
+    "lon": -16.6667,
+    "population": 26000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaiaf",
+    "region": "Lower River Division",
+    "lat": 13.4,
+    "lon": -15.6167,
+    "population": 25806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pateh Sam",
+    "region": "Central River Division",
+    "lat": 13.6167,
+    "lon": -15.0667,
+    "population": 24970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karantaba",
+    "region": "Lower River Division",
+    "lat": 13.4333,
+    "lon": -15.5167,
+    "population": 24165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nioro",
+    "region": "Lower River Division",
+    "lat": 13.35,
+    "lon": -15.75,
+    "population": 23342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutukoba",
+    "region": "Upper River Division",
+    "lat": 13.5,
+    "lon": -14.0167,
+    "population": 22284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Demba Kunda",
+    "region": "Upper River Division",
+    "lat": 13.25,
+    "lon": -14.2667,
+    "population": 22270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarra Central",
+    "region": "Lower River Division",
+    "lat": 13.4167,
+    "lon": -15.4167,
+    "population": 22247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upper Saloum",
+    "region": "Central River Division",
+    "lat": 13.75,
+    "lon": -15.2,
+    "population": 21077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunjur",
+    "region": "West Coast Division",
+    "lat": 13.2019,
+    "lon": -16.7339,
+    "population": 21065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumbija",
+    "region": "Upper River Division",
+    "lat": 13.2667,
+    "lon": -14.1833,
+    "population": 20085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bambali",
+    "region": "North Bank Division",
+    "lat": 13.4833,
+    "lon": -15.3333,
+    "population": 19917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bansang",
+    "region": "Central River Division",
+    "lat": 13.4333,
+    "lon": -14.65,
+    "population": 19227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jenoi",
+    "region": "Lower River Division",
+    "lat": 13.4833,
+    "lon": -15.5667,
+    "population": 19105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiang West District",
+    "region": "Lower River Division",
+    "lat": 13.3333,
+    "lon": -16,
+    "population": 18865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barra",
+    "region": "North Bank Division",
+    "lat": 13.4828,
+    "lon": -16.5456,
+    "population": 18058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fulladu West",
+    "region": "Central River Division",
+    "lat": 13.5,
+    "lon": -14.75,
+    "population": 17184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foni Kansala",
+    "region": "West Coast Division",
+    "lat": 13.2167,
+    "lon": -16.05,
+    "population": 16947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lower Baddibu District",
+    "region": "North Bank Division",
+    "lat": 13.5,
+    "lon": -16.05,
+    "population": 16919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wassu",
+    "region": "Central River Division",
+    "lat": 13.6909,
+    "lon": -14.8788,
+    "population": 15780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunjur",
+    "region": "North Bank Division",
+    "lat": 13.5228,
+    "lon": -16.0278,
+    "population": 15765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farafenni",
+    "region": "North Bank Division",
+    "lat": 13.5667,
+    "lon": -15.6,
+    "population": 15690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lower Saloum",
+    "region": "Central River Division",
+    "lat": 13.7167,
+    "lon": -15.3667,
+    "population": 15621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sankwia",
+    "region": "Lower River Division",
+    "lat": 13.4667,
+    "lon": -15.5167,
+    "population": 15291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niamina East District",
+    "region": "Central River Division",
+    "lat": 13.6333,
+    "lon": -15.0833,
+    "population": 15219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuntaur",
+    "region": "Central River Division",
+    "lat": 13.6708,
+    "lon": -14.8898,
+    "population": 15178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somita",
+    "region": "West Coast Division",
+    "lat": 13.2058,
+    "lon": -16.3056,
+    "population": 14746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sukuta",
+    "region": "Central River Division",
+    "lat": 13.6167,
+    "lon": -14.9167,
+    "population": 14528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilla",
+    "region": "North Bank Division",
+    "lat": 13.55,
+    "lon": -16.2833,
+    "population": 14367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sami District",
+    "region": "Central River Division",
+    "lat": 13.5833,
+    "lon": -14.5833,
+    "population": 14137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katchang",
+    "region": "North Bank Division",
+    "lat": 13.5,
+    "lon": -15.75,
+    "population": 14015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sukuta",
+    "region": "West Coast Division",
+    "lat": 13.4103,
+    "lon": -16.7081,
+    "population": 12611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daru Rilwan",
+    "region": "North Bank Division",
+    "lat": 13.55,
+    "lon": -15.9833,
+    "population": 12314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fulladu East",
+    "region": "Upper River Division",
+    "lat": 13.3333,
+    "lon": -14.25,
+    "population": 11936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kombo South District",
+    "region": "West Coast Division",
+    "lat": 13.25,
+    "lon": -16.75,
+    "population": 11761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brifu",
+    "region": "Upper River Division",
+    "lat": 13.5,
+    "lon": -13.9333,
+    "population": 11720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kombo East District",
+    "region": "West Coast Division",
+    "lat": 13.2167,
+    "lon": -16.5167,
+    "population": 11406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foni Brefet",
+    "region": "West Coast Division",
+    "lat": 13.2167,
+    "lon": -16.3333,
+    "population": 10821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koina",
+    "region": "Upper River Division",
+    "lat": 13.4833,
+    "lon": -13.8667,
+    "population": 10678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dankunku",
+    "region": "Central River Division",
+    "lat": 13.5667,
+    "lon": -15.3167,
+    "population": 10172,
+    "timezone": "UTC"
+  }
+]

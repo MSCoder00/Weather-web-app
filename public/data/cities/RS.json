@@ -1,0 +1,2674 @@
+[
+  {
+    "name": "Golubinci",
+    "region": "Vojvodina",
+    "lat": 44.9853,
+    "lon": 20.0634,
+    "population": 49849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaša Tomić",
+    "region": "Vojvodina",
+    "lat": 45.4472,
+    "lon": 20.8555,
+    "population": 49744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobanovci",
+    "region": "Central Banat District",
+    "lat": 44.8263,
+    "lon": 20.2249,
+    "population": 49538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golubac",
+    "region": "Central Banat District",
+    "lat": 44.653,
+    "lon": 21.632,
+    "population": 49508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jelenča",
+    "region": "Central Banat District",
+    "lat": 44.727,
+    "lon": 19.735,
+    "population": 49438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Slankamen",
+    "region": "Vojvodina",
+    "lat": 45.1255,
+    "lon": 20.2391,
+    "population": 49350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumenka",
+    "region": "Vojvodina",
+    "lat": 45.294,
+    "lon": 19.7431,
+    "population": 49345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarkovac",
+    "region": "Vojvodina",
+    "lat": 45.2698,
+    "lon": 20.7608,
+    "population": 49338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banatska Topola",
+    "region": "Vojvodina",
+    "lat": 45.6725,
+    "lon": 20.4653,
+    "population": 49185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uljma",
+    "region": "Vojvodina",
+    "lat": 45.0421,
+    "lon": 21.1539,
+    "population": 49027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banatski Dvor",
+    "region": "Vojvodina",
+    "lat": 45.5187,
+    "lon": 20.5115,
+    "population": 48862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veternik",
+    "region": "Vojvodina",
+    "lat": 45.2545,
+    "lon": 19.7588,
+    "population": 48775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klenak",
+    "region": "Vojvodina",
+    "lat": 44.7885,
+    "lon": 19.71,
+    "population": 48511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dublje",
+    "region": "Central Banat District",
+    "lat": 44.8012,
+    "lon": 19.509,
+    "population": 48264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kovin",
+    "region": "Vojvodina",
+    "lat": 44.7475,
+    "lon": 20.9761,
+    "population": 48092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joševa",
+    "region": "Central Banat District",
+    "lat": 44.5877,
+    "lon": 19.4097,
+    "population": 48090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banatsko Veliko Selo",
+    "region": "Vojvodina",
+    "lat": 45.8196,
+    "lon": 20.6077,
+    "population": 47715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Miloševo",
+    "region": "Vojvodina",
+    "lat": 45.7192,
+    "lon": 20.3036,
+    "population": 47578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Riđica",
+    "region": "Vojvodina",
+    "lat": 45.9909,
+    "lon": 19.1063,
+    "population": 47483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belgrade",
+    "region": "Central Banat District",
+    "lat": 44.804,
+    "lon": 20.4651,
+    "population": 47435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bosut",
+    "region": "Vojvodina",
+    "lat": 44.9298,
+    "lon": 19.3609,
+    "population": 47363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nišava",
+    "region": "Central Banat District",
+    "lat": 43.3231,
+    "lon": 21.8944,
+    "population": 47351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolut",
+    "region": "Vojvodina",
+    "lat": 45.8929,
+    "lon": 18.9276,
+    "population": 47339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutjeska",
+    "region": "Vojvodina",
+    "lat": 45.3831,
+    "lon": 20.6962,
+    "population": 47232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hetin",
+    "region": "Vojvodina",
+    "lat": 45.662,
+    "lon": 20.7914,
+    "population": 47035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petkovica",
+    "region": "Central Banat District",
+    "lat": 44.6663,
+    "lon": 19.4392,
+    "population": 46946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Sad",
+    "region": "Vojvodina",
+    "lat": 45.2517,
+    "lon": 19.8369,
+    "population": 46813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pčinja",
+    "region": "Central Banat District",
+    "lat": 42.5628,
+    "lon": 21.8825,
+    "population": 46762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belo Blato",
+    "region": "Vojvodina",
+    "lat": 45.2728,
+    "lon": 20.375,
+    "population": 46570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Štitar",
+    "region": "Central Banat District",
+    "lat": 44.7942,
+    "lon": 19.5953,
+    "population": 46554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šašinci",
+    "region": "Vojvodina",
+    "lat": 44.9651,
+    "lon": 19.7415,
+    "population": 46492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boka",
+    "region": "Vojvodina",
+    "lat": 45.3554,
+    "lon": 20.8299,
+    "population": 46456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulpin",
+    "region": "Vojvodina",
+    "lat": 45.4024,
+    "lon": 19.5881,
+    "population": 46381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irig",
+    "region": "Vojvodina",
+    "lat": 45.0523,
+    "lon": 19.8445,
+    "population": 46354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruma",
+    "region": "Vojvodina",
+    "lat": 45.0081,
+    "lon": 19.8222,
+    "population": 46221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obrenovac",
+    "region": "Central Banat District",
+    "lat": 44.6549,
+    "lon": 20.2002,
+    "population": 46206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vršac",
+    "region": "Vojvodina",
+    "lat": 45.1167,
+    "lon": 21.3036,
+    "population": 46111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umka",
+    "region": "Central Banat District",
+    "lat": 44.6781,
+    "lon": 20.3047,
+    "population": 46081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Pazova",
+    "region": "Vojvodina",
+    "lat": 44.9437,
+    "lon": 20.2193,
+    "population": 45911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Crnja",
+    "region": "Vojvodina",
+    "lat": 45.6683,
+    "lon": 20.605,
+    "population": 45586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senta",
+    "region": "Vojvodina",
+    "lat": 45.9275,
+    "lon": 20.0772,
+    "population": 45394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buđanovci",
+    "region": "Vojvodina",
+    "lat": 44.8939,
+    "lon": 19.8634,
+    "population": 45344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belotić",
+    "region": "Central Banat District",
+    "lat": 44.8178,
+    "lon": 19.548,
+    "population": 45343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrdnik",
+    "region": "Vojvodina",
+    "lat": 45.1217,
+    "lon": 19.7923,
+    "population": 45204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majdanpek",
+    "region": "Central Banat District",
+    "lat": 44.4277,
+    "lon": 21.946,
+    "population": 44955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljukovo",
+    "region": "Vojvodina",
+    "lat": 45.026,
+    "lon": 20.0274,
+    "population": 44827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debeljača",
+    "region": "Vojvodina",
+    "lat": 45.0707,
+    "lon": 20.6015,
+    "population": 44712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vojvoda Stepa",
+    "region": "Vojvodina",
+    "lat": 45.6854,
+    "lon": 20.6554,
+    "population": 44623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bački Petrovac",
+    "region": "Vojvodina",
+    "lat": 45.3606,
+    "lon": 19.5917,
+    "population": 44141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torda",
+    "region": "Vojvodina",
+    "lat": 45.5842,
+    "lon": 20.459,
+    "population": 44094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stara Pazova",
+    "region": "Vojvodina",
+    "lat": 44.985,
+    "lon": 20.1608,
+    "population": 44022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maglić",
+    "region": "Vojvodina",
+    "lat": 45.3625,
+    "lon": 19.5321,
+    "population": 43892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sajan",
+    "region": "Vojvodina",
+    "lat": 45.8423,
+    "lon": 20.2782,
+    "population": 43824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apatin",
+    "region": "Vojvodina",
+    "lat": 45.6726,
+    "lon": 18.978,
+    "population": 43776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolubara",
+    "region": "Central Banat District",
+    "lat": 44.2633,
+    "lon": 19.8875,
+    "population": 43736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Kneževac",
+    "region": "Vojvodina",
+    "lat": 46.05,
+    "lon": 20.1,
+    "population": 43511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vlajkovac",
+    "region": "Vojvodina",
+    "lat": 45.0721,
+    "lon": 21.1994,
+    "population": 43361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aleksandrovo",
+    "region": "Vojvodina",
+    "lat": 45.6375,
+    "lon": 20.5929,
+    "population": 43335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inđija",
+    "region": "Vojvodina",
+    "lat": 45.0482,
+    "lon": 20.0816,
+    "population": 43256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mihajlovo",
+    "region": "Vojvodina",
+    "lat": 45.4708,
+    "lon": 20.4151,
+    "population": 43102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrnjačka Banja",
+    "region": "Central Banat District",
+    "lat": 43.6272,
+    "lon": 20.8963,
+    "population": 43056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kraljevo",
+    "region": "Central Banat District",
+    "lat": 43.7258,
+    "lon": 20.6894,
+    "population": 43027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drenovac",
+    "region": "Central Banat District",
+    "lat": 44.8665,
+    "lon": 19.7094,
+    "population": 42999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogatić",
+    "region": "Central Banat District",
+    "lat": 44.8375,
+    "lon": 19.4806,
+    "population": 42843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarebice",
+    "region": "Central Banat District",
+    "lat": 44.5399,
+    "lon": 19.4242,
+    "population": 42784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morava",
+    "region": "Central Banat District",
+    "lat": 43.8039,
+    "lon": 20.1781,
+    "population": 42758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knićanin",
+    "region": "Vojvodina",
+    "lat": 45.1868,
+    "lon": 20.319,
+    "population": 42741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stari Lec",
+    "region": "Vojvodina",
+    "lat": 45.284,
+    "lon": 20.9643,
+    "population": 42650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gudurica",
+    "region": "Vojvodina",
+    "lat": 45.1682,
+    "lon": 21.4426,
+    "population": 42593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biljača",
+    "region": "Central Banat District",
+    "lat": 42.3552,
+    "lon": 21.7478,
+    "population": 42358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Priboj",
+    "region": "Central Banat District",
+    "lat": 43.5831,
+    "lon": 19.5252,
+    "population": 42109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lešnica",
+    "region": "Central Banat District",
+    "lat": 44.6525,
+    "lon": 19.31,
+    "population": 41506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tršić",
+    "region": "Central Banat District",
+    "lat": 44.495,
+    "lon": 19.2649,
+    "population": 41296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barice",
+    "region": "Vojvodina",
+    "lat": 45.1819,
+    "lon": 21.0828,
+    "population": 41090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farkaždin",
+    "region": "Vojvodina",
+    "lat": 45.1917,
+    "lon": 20.4724,
+    "population": 40874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brdarica",
+    "region": "Central Banat District",
+    "lat": 44.5538,
+    "lon": 19.7715,
+    "population": 40871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ševarice",
+    "region": "Central Banat District",
+    "lat": 44.867,
+    "lon": 19.6601,
+    "population": 40812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ðurići",
+    "region": "Central Banat District",
+    "lat": 43.8253,
+    "lon": 19.4123,
+    "population": 40710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čelarevo",
+    "region": "Vojvodina",
+    "lat": 45.27,
+    "lon": 19.5248,
+    "population": 40686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljig",
+    "region": "Central Banat District",
+    "lat": 44.2301,
+    "lon": 20.2382,
+    "population": 40368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasina",
+    "region": "Central Banat District",
+    "lat": 43.5592,
+    "lon": 21.2147,
+    "population": 40128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Užice",
+    "region": "Central Banat District",
+    "lat": 43.8586,
+    "lon": 19.8488,
+    "population": 39941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kragujevac",
+    "region": "Central Banat District",
+    "lat": 44.0167,
+    "lon": 20.9167,
+    "population": 39895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mali Zvornik",
+    "region": "Central Banat District",
+    "lat": 44.3734,
+    "lon": 19.1065,
+    "population": 39733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vranić",
+    "region": "Central Banat District",
+    "lat": 44.6024,
+    "lon": 20.3287,
+    "population": 39720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sečanj",
+    "region": "Vojvodina",
+    "lat": 45.3667,
+    "lon": 20.7722,
+    "population": 39538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čortanovci",
+    "region": "Vojvodina",
+    "lat": 45.1546,
+    "lon": 20.0185,
+    "population": 39413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lapovo",
+    "region": "Central Banat District",
+    "lat": 44.1842,
+    "lon": 21.0973,
+    "population": 39275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krajišnik",
+    "region": "Vojvodina",
+    "lat": 45.4528,
+    "lon": 20.7298,
+    "population": 39274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crna Bara",
+    "region": "Central Banat District",
+    "lat": 44.8737,
+    "lon": 19.3948,
+    "population": 39265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinošević",
+    "region": "Central Banat District",
+    "lat": 44.615,
+    "lon": 19.636,
+    "population": 39204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klenje",
+    "region": "Central Banat District",
+    "lat": 44.8079,
+    "lon": 19.4351,
+    "population": 39081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orlovat",
+    "region": "Vojvodina",
+    "lat": 45.2417,
+    "lon": 20.5809,
+    "population": 39080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Višnjićevo",
+    "region": "Vojvodina",
+    "lat": 44.9673,
+    "lon": 19.2899,
+    "population": 39025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kovačica",
+    "region": "Vojvodina",
+    "lat": 45.1117,
+    "lon": 20.6214,
+    "population": 38727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sombor",
+    "region": "Vojvodina",
+    "lat": 45.7742,
+    "lon": 19.1122,
+    "population": 38613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrbas",
+    "region": "Vojvodina",
+    "lat": 45.5714,
+    "lon": 19.6408,
+    "population": 38386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlatibor",
+    "region": "Central Banat District",
+    "lat": 43.729,
+    "lon": 19.7003,
+    "population": 38288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugrinovci",
+    "region": "Central Banat District",
+    "lat": 44.8764,
+    "lon": 20.1876,
+    "population": 38201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elemir",
+    "region": "Vojvodina",
+    "lat": 45.4426,
+    "lon": 20.3,
+    "population": 38173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majur",
+    "region": "Central Banat District",
+    "lat": 44.7711,
+    "lon": 19.6551,
+    "population": 37851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surčin",
+    "region": "Central Banat District",
+    "lat": 44.7931,
+    "lon": 20.2803,
+    "population": 37817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lazarevo",
+    "region": "Vojvodina",
+    "lat": 45.3889,
+    "lon": 20.54,
+    "population": 37813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trstenik",
+    "region": "Central Banat District",
+    "lat": 43.6169,
+    "lon": 21.0025,
+    "population": 37608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metković",
+    "region": "Central Banat District",
+    "lat": 44.8562,
+    "lon": 19.5465,
+    "population": 37468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomaševac",
+    "region": "Vojvodina",
+    "lat": 45.2685,
+    "lon": 20.6227,
+    "population": 37426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boljevci",
+    "region": "Central Banat District",
+    "lat": 44.7236,
+    "lon": 20.2235,
+    "population": 37270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravnje",
+    "region": "Vojvodina",
+    "lat": 44.9433,
+    "lon": 19.4228,
+    "population": 37223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radenka",
+    "region": "Central Banat District",
+    "lat": 44.5834,
+    "lon": 21.7647,
+    "population": 37114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ečka",
+    "region": "Vojvodina",
+    "lat": 45.3233,
+    "lon": 20.4429,
+    "population": 36964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krčedin",
+    "region": "Vojvodina",
+    "lat": 45.1387,
+    "lon": 20.1331,
+    "population": 36907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrtkovci",
+    "region": "Vojvodina",
+    "lat": 44.8815,
+    "lon": 19.7637,
+    "population": 36887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čačak",
+    "region": "Central Banat District",
+    "lat": 43.8914,
+    "lon": 20.3497,
+    "population": 36748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žujince",
+    "region": "Central Banat District",
+    "lat": 42.3157,
+    "lon": 21.7021,
+    "population": 36718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokolovica",
+    "region": "Central Banat District",
+    "lat": 43.2153,
+    "lon": 20.3156,
+    "population": 36666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aradac",
+    "region": "Vojvodina",
+    "lat": 45.3835,
+    "lon": 20.3014,
+    "population": 36612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bajina Bašta",
+    "region": "Central Banat District",
+    "lat": 43.9708,
+    "lon": 19.5675,
+    "population": 36460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokrin",
+    "region": "Vojvodina",
+    "lat": 45.9336,
+    "lon": 20.4122,
+    "population": 36460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uzdin",
+    "region": "Vojvodina",
+    "lat": 45.2051,
+    "lon": 20.6234,
+    "population": 36458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toplica",
+    "region": "Central Banat District",
+    "lat": 43.1419,
+    "lon": 21.2781,
+    "population": 36382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrić",
+    "region": "Central Banat District",
+    "lat": 44.7022,
+    "lon": 19.5793,
+    "population": 36352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiszahegyes",
+    "region": "Vojvodina",
+    "lat": 45.8265,
+    "lon": 20.3179,
+    "population": 36338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lok",
+    "region": "Vojvodina",
+    "lat": 45.2158,
+    "lon": 20.2122,
+    "population": 36325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adorjan",
+    "region": "Vojvodina",
+    "lat": 46.0033,
+    "lon": 20.0401,
+    "population": 36186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jazovo",
+    "region": "Vojvodina",
+    "lat": 45.8988,
+    "lon": 20.2213,
+    "population": 36097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gakovo",
+    "region": "Vojvodina",
+    "lat": 45.9008,
+    "lon": 19.0614,
+    "population": 36086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lazarevac",
+    "region": "Central Banat District",
+    "lat": 44.3853,
+    "lon": 20.2557,
+    "population": 36046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumulicë",
+    "region": "Central Banat District",
+    "lat": 42.3868,
+    "lon": 21.734,
+    "population": 35346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajdučica",
+    "region": "Vojvodina",
+    "lat": 45.2501,
+    "lon": 20.9602,
+    "population": 35334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bor",
+    "region": "Central Banat District",
+    "lat": 44.3667,
+    "lon": 22.25,
+    "population": 35277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prigrevica",
+    "region": "Vojvodina",
+    "lat": 45.6764,
+    "lon": 19.0881,
+    "population": 35229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pančevo",
+    "region": "Vojvodina",
+    "lat": 44.8718,
+    "lon": 20.6417,
+    "population": 35160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opovo",
+    "region": "Vojvodina",
+    "lat": 45.0522,
+    "lon": 20.4303,
+    "population": 35157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čokešina",
+    "region": "Central Banat District",
+    "lat": 44.6532,
+    "lon": 19.3902,
+    "population": 35052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stubline",
+    "region": "Central Banat District",
+    "lat": 44.5748,
+    "lon": 20.1348,
+    "population": 34959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bačko Petrovo Selo",
+    "region": "Vojvodina",
+    "lat": 45.7068,
+    "lon": 20.0793,
+    "population": 34565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lipnički Šor",
+    "region": "Central Banat District",
+    "lat": 44.5806,
+    "lon": 19.2657,
+    "population": 34402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osječenik",
+    "region": "Central Banat District",
+    "lat": 43.1453,
+    "lon": 19.8589,
+    "population": 34386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beška",
+    "region": "Vojvodina",
+    "lat": 45.1309,
+    "lon": 20.067,
+    "population": 34352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonta",
+    "region": "Vojvodina",
+    "lat": 45.5943,
+    "lon": 19.0972,
+    "population": 34244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrovaradin",
+    "region": "Vojvodina",
+    "lat": 45.2467,
+    "lon": 19.8794,
+    "population": 34212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuštilj",
+    "region": "Vojvodina",
+    "lat": 45.0349,
+    "lon": 21.3799,
+    "population": 34060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sjenica",
+    "region": "Central Banat District",
+    "lat": 43.2731,
+    "lon": 19.9994,
+    "population": 33921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stepanovićevo",
+    "region": "Vojvodina",
+    "lat": 45.4137,
+    "lon": 19.7,
+    "population": 33861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vladimirci",
+    "region": "Central Banat District",
+    "lat": 44.6147,
+    "lon": 19.7853,
+    "population": 33618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radenković",
+    "region": "Vojvodina",
+    "lat": 44.9219,
+    "lon": 19.4954,
+    "population": 33566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Botoš",
+    "region": "Vojvodina",
+    "lat": 45.3084,
+    "lon": 20.6351,
+    "population": 33128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čurug",
+    "region": "Vojvodina",
+    "lat": 45.4722,
+    "lon": 20.0686,
+    "population": 32809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabanović",
+    "region": "Central Banat District",
+    "lat": 44.8202,
+    "lon": 19.6413,
+    "population": 32678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samoljica",
+    "region": "Central Banat District",
+    "lat": 42.3845,
+    "lon": 21.7371,
+    "population": 32671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stepojevac",
+    "region": "Central Banat District",
+    "lat": 44.5128,
+    "lon": 20.295,
+    "population": 32355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ostojićevo",
+    "region": "Vojvodina",
+    "lat": 45.8886,
+    "lon": 20.1664,
+    "population": 32249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prokuplje",
+    "region": "Central Banat District",
+    "lat": 43.2342,
+    "lon": 21.5881,
+    "population": 32118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toba",
+    "region": "Vojvodina",
+    "lat": 45.6894,
+    "lon": 20.5571,
+    "population": 32034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izbište",
+    "region": "Vojvodina",
+    "lat": 45.0225,
+    "lon": 21.1839,
+    "population": 31960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Margita",
+    "region": "Vojvodina",
+    "lat": 45.216,
+    "lon": 21.1753,
+    "population": 31853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogojevo",
+    "region": "Vojvodina",
+    "lat": 45.5301,
+    "lon": 19.1302,
+    "population": 31412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prnjavor",
+    "region": "Central Banat District",
+    "lat": 44.7006,
+    "lon": 19.3869,
+    "population": 31262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukor",
+    "region": "Central Banat District",
+    "lat": 44.4952,
+    "lon": 19.5712,
+    "population": 31202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagja e Poshtme",
+    "region": "Central Banat District",
+    "lat": 42.3885,
+    "lon": 21.7297,
+    "population": 30950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grabovac",
+    "region": "Central Banat District",
+    "lat": 44.6005,
+    "lon": 20.0854,
+    "population": 30910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vojka",
+    "region": "Vojvodina",
+    "lat": 44.9371,
+    "lon": 20.1524,
+    "population": 30872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kikinda",
+    "region": "Vojvodina",
+    "lat": 45.8297,
+    "lon": 20.4653,
+    "population": 30826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jarak",
+    "region": "Vojvodina",
+    "lat": 44.9184,
+    "lon": 19.7548,
+    "population": 30710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obrovac",
+    "region": "Vojvodina",
+    "lat": 45.3211,
+    "lon": 19.3505,
+    "population": 30630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ćuprija",
+    "region": "Central Banat District",
+    "lat": 43.9275,
+    "lon": 21.37,
+    "population": 30520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakovo",
+    "region": "Vojvodina",
+    "lat": 45.875,
+    "lon": 20.5671,
+    "population": 30467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Selo",
+    "region": "Central Banat District",
+    "lat": 44.6704,
+    "lon": 19.345,
+    "population": 30429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valjevo",
+    "region": "Central Banat District",
+    "lat": 44.2751,
+    "lon": 19.8982,
+    "population": 30386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veliko Središte",
+    "region": "Vojvodina",
+    "lat": 45.1792,
+    "lon": 21.4035,
+    "population": 30372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumska",
+    "region": "Central Banat District",
+    "lat": 44.5726,
+    "lon": 19.5899,
+    "population": 29983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rusko Selo",
+    "region": "Vojvodina",
+    "lat": 45.7629,
+    "lon": 20.5712,
+    "population": 29928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negotin",
+    "region": "Central Banat District",
+    "lat": 44.2264,
+    "lon": 22.5308,
+    "population": 29910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donji Milanovac",
+    "region": "Central Banat District",
+    "lat": 44.4659,
+    "lon": 22.1517,
+    "population": 29873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klek",
+    "region": "Vojvodina",
+    "lat": 45.4225,
+    "lon": 20.4805,
+    "population": 29838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banatsko Karađorđevo",
+    "region": "Vojvodina",
+    "lat": 45.5869,
+    "lon": 20.5642,
+    "population": 29777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornja Bukovica",
+    "region": "Central Banat District",
+    "lat": 44.3399,
+    "lon": 19.8137,
+    "population": 29359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kovilj",
+    "region": "Vojvodina",
+    "lat": 45.2342,
+    "lon": 20.0233,
+    "population": 29248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bačka Palanka",
+    "region": "Vojvodina",
+    "lat": 45.2497,
+    "lon": 19.3966,
+    "population": 29182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konak",
+    "region": "Vojvodina",
+    "lat": 45.3158,
+    "lon": 20.9147,
+    "population": 29181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taraš",
+    "region": "Vojvodina",
+    "lat": 45.4674,
+    "lon": 20.1987,
+    "population": 29130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radojevo",
+    "region": "Vojvodina",
+    "lat": 45.7462,
+    "lon": 20.7892,
+    "population": 29077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torak",
+    "region": "Vojvodina",
+    "lat": 45.5093,
+    "lon": 20.609,
+    "population": 29069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisač",
+    "region": "Vojvodina",
+    "lat": 45.3542,
+    "lon": 19.7297,
+    "population": 28920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ćićevac",
+    "region": "Central Banat District",
+    "lat": 43.7188,
+    "lon": 21.4409,
+    "population": 28692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljubovija",
+    "region": "Central Banat District",
+    "lat": 44.1894,
+    "lon": 19.3767,
+    "population": 28663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čoka",
+    "region": "Vojvodina",
+    "lat": 45.9425,
+    "lon": 20.1433,
+    "population": 28504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jadranska Lešnica",
+    "region": "Central Banat District",
+    "lat": 44.5973,
+    "lon": 19.3521,
+    "population": 28489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sremčica",
+    "region": "Central Banat District",
+    "lat": 44.6765,
+    "lon": 20.3923,
+    "population": 28461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Greda",
+    "region": "Vojvodina",
+    "lat": 45.2438,
+    "lon": 21.035,
+    "population": 28355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mačvanska Mitrovica",
+    "region": "Vojvodina",
+    "lat": 44.9674,
+    "lon": 19.5931,
+    "population": 28241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaječar",
+    "region": "Central Banat District",
+    "lat": 43.6992,
+    "lon": 21.9878,
+    "population": 27870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arilje",
+    "region": "Central Banat District",
+    "lat": 43.7531,
+    "lon": 20.0956,
+    "population": 27620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Karlovci",
+    "region": "Vojvodina",
+    "lat": 45.0764,
+    "lon": 20.1795,
+    "population": 27551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prislonica",
+    "region": "Central Banat District",
+    "lat": 43.9522,
+    "lon": 20.4352,
+    "population": 27497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bela Crkva",
+    "region": "Vojvodina",
+    "lat": 44.8975,
+    "lon": 21.4172,
+    "population": 27266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krupanj",
+    "region": "Central Banat District",
+    "lat": 44.3656,
+    "lon": 19.3619,
+    "population": 27215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sefkerin",
+    "region": "Vojvodina",
+    "lat": 45.005,
+    "lon": 20.4826,
+    "population": 27157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanjiža",
+    "region": "Vojvodina",
+    "lat": 46.0667,
+    "lon": 20.05,
+    "population": 26979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barič",
+    "region": "Central Banat District",
+    "lat": 44.6507,
+    "lon": 20.2594,
+    "population": 26903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šumadija",
+    "region": "Central Banat District",
+    "lat": 44.0022,
+    "lon": 20.9178,
+    "population": 26841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vladimirovac",
+    "region": "Vojvodina",
+    "lat": 45.0312,
+    "lon": 20.8657,
+    "population": 26825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Međa",
+    "region": "Vojvodina",
+    "lat": 45.5382,
+    "lon": 20.8068,
+    "population": 26782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jablanica",
+    "region": "Central Banat District",
+    "lat": 42.9953,
+    "lon": 21.9178,
+    "population": 26587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bašaid",
+    "region": "Vojvodina",
+    "lat": 45.641,
+    "lon": 20.4143,
+    "population": 26538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sremska Mitrovica",
+    "region": "Vojvodina",
+    "lat": 44.9764,
+    "lon": 19.6122,
+    "population": 26382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doroslovo",
+    "region": "Vojvodina",
+    "lat": 45.607,
+    "lon": 19.1887,
+    "population": 26337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Subotica",
+    "region": "Vojvodina",
+    "lat": 46.1,
+    "lon": 19.6667,
+    "population": 26299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neuzina",
+    "region": "Vojvodina",
+    "lat": 45.3446,
+    "lon": 20.7142,
+    "population": 26137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ribari",
+    "region": "Central Banat District",
+    "lat": 44.7096,
+    "lon": 19.4247,
+    "population": 25976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plandište",
+    "region": "Vojvodina",
+    "lat": 45.2272,
+    "lon": 21.1217,
+    "population": 25975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niš",
+    "region": "Central Banat District",
+    "lat": 43.3247,
+    "lon": 21.9033,
+    "population": 25916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocerski Pričinović",
+    "region": "Central Banat District",
+    "lat": 44.7222,
+    "lon": 19.7072,
+    "population": 25875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tutin",
+    "region": "Central Banat District",
+    "lat": 42.9903,
+    "lon": 20.3314,
+    "population": 25775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zminjak",
+    "region": "Central Banat District",
+    "lat": 44.7571,
+    "lon": 19.4707,
+    "population": 25762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grabovci",
+    "region": "Vojvodina",
+    "lat": 44.765,
+    "lon": 19.8449,
+    "population": 25711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pomoravlje",
+    "region": "Central Banat District",
+    "lat": 43.9367,
+    "lon": 21.4022,
+    "population": 25467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šabac",
+    "region": "Central Banat District",
+    "lat": 44.7467,
+    "lon": 19.69,
+    "population": 25099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banovo Polje",
+    "region": "Central Banat District",
+    "lat": 44.9104,
+    "lon": 19.4492,
+    "population": 25095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozjak",
+    "region": "Central Banat District",
+    "lat": 44.5873,
+    "lon": 19.2841,
+    "population": 24854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bački Breg",
+    "region": "Vojvodina",
+    "lat": 45.9203,
+    "lon": 18.9294,
+    "population": 24833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mala Moštanica",
+    "region": "Central Banat District",
+    "lat": 44.6383,
+    "lon": 20.306,
+    "population": 24413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Draginje",
+    "region": "Central Banat District",
+    "lat": 44.533,
+    "lon": 19.7625,
+    "population": 23847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janošik",
+    "region": "Vojvodina",
+    "lat": 45.1714,
+    "lon": 21.0066,
+    "population": 23700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamenica",
+    "region": "Central Banat District",
+    "lat": 44.343,
+    "lon": 19.7233,
+    "population": 23168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kupinovo",
+    "region": "Vojvodina",
+    "lat": 44.7071,
+    "lon": 20.0496,
+    "population": 23148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duboka",
+    "region": "Central Banat District",
+    "lat": 44.5222,
+    "lon": 21.7603,
+    "population": 22836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bačko Gradište",
+    "region": "Vojvodina",
+    "lat": 45.5327,
+    "lon": 20.0308,
+    "population": 22782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lugavčina",
+    "region": "Central Banat District",
+    "lat": 44.5231,
+    "lon": 21.0708,
+    "population": 22769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bočar",
+    "region": "Vojvodina",
+    "lat": 45.7699,
+    "lon": 20.2839,
+    "population": 22329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jagodina",
+    "region": "Central Banat District",
+    "lat": 43.9771,
+    "lon": 21.2612,
+    "population": 22246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čestereg",
+    "region": "Vojvodina",
+    "lat": 45.5636,
+    "lon": 20.5319,
+    "population": 22193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srpski Itebej",
+    "region": "Vojvodina",
+    "lat": 45.5671,
+    "lon": 20.7135,
+    "population": 21806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumane",
+    "region": "Vojvodina",
+    "lat": 45.5395,
+    "lon": 20.229,
+    "population": 21706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Banovci",
+    "region": "Vojvodina",
+    "lat": 44.9569,
+    "lon": 20.2808,
+    "population": 21461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravni Topolovac",
+    "region": "Vojvodina",
+    "lat": 45.4608,
+    "lon": 20.5694,
+    "population": 21371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knjazevac",
+    "region": "Central Banat District",
+    "lat": 43.5663,
+    "lon": 22.257,
+    "population": 21360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vranje",
+    "region": "Central Banat District",
+    "lat": 42.5514,
+    "lon": 21.9003,
+    "population": 21184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukićevo",
+    "region": "Vojvodina",
+    "lat": 45.3381,
+    "lon": 20.499,
+    "population": 21171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jermenovci",
+    "region": "Vojvodina",
+    "lat": 45.1863,
+    "lon": 21.0455,
+    "population": 20987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mačva",
+    "region": "Central Banat District",
+    "lat": 44.6147,
+    "lon": 19.4722,
+    "population": 20933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zvečka",
+    "region": "Central Banat District",
+    "lat": 44.6403,
+    "lon": 20.1643,
+    "population": 20502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Titel",
+    "region": "Vojvodina",
+    "lat": 45.2061,
+    "lon": 20.2944,
+    "population": 20406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ševica",
+    "region": "Central Banat District",
+    "lat": 44.5088,
+    "lon": 21.723,
+    "population": 20347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrica",
+    "region": "Vojvodina",
+    "lat": 45.2134,
+    "lon": 20.8499,
+    "population": 20235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Breg",
+    "region": "Vojvodina",
+    "lat": 45.92,
+    "lon": 20.0177,
+    "population": 20180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gornji Milanovac",
+    "region": "Central Banat District",
+    "lat": 44.026,
+    "lon": 20.4615,
+    "population": 19981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belegiš",
+    "region": "Vojvodina",
+    "lat": 45.0192,
+    "lon": 20.3332,
+    "population": 19969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ostružnica",
+    "region": "Central Banat District",
+    "lat": 44.7277,
+    "lon": 20.3184,
+    "population": 19941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Platičevo",
+    "region": "Vojvodina",
+    "lat": 44.8221,
+    "lon": 19.7949,
+    "population": 19937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ðurđevo",
+    "region": "Vojvodina",
+    "lat": 45.3259,
+    "lon": 20.0653,
+    "population": 19859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osečina",
+    "region": "Central Banat District",
+    "lat": 44.3731,
+    "lon": 19.6014,
+    "population": 19705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Despotovo",
+    "region": "Vojvodina",
+    "lat": 45.4598,
+    "lon": 19.5265,
+    "population": 19454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smederevo",
+    "region": "Central Banat District",
+    "lat": 44.6644,
+    "lon": 20.9276,
+    "population": 19315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mol",
+    "region": "Vojvodina",
+    "lat": 45.7646,
+    "lon": 20.1329,
+    "population": 19302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pavliš",
+    "region": "Vojvodina",
+    "lat": 45.1057,
+    "lon": 21.2395,
+    "population": 18914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakule",
+    "region": "Vojvodina",
+    "lat": 45.1467,
+    "lon": 20.4862,
+    "population": 18772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilovo",
+    "region": "Vojvodina",
+    "lat": 45.2486,
+    "lon": 20.1552,
+    "population": 18718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seleuš",
+    "region": "Vojvodina",
+    "lat": 45.1277,
+    "lon": 20.9146,
+    "population": 18201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podunavlje District",
+    "region": "Central Banat District",
+    "lat": 44.4842,
+    "lon": 20.9117,
+    "population": 18160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turija",
+    "region": "Central Banat District",
+    "lat": 44.5227,
+    "lon": 21.6395,
+    "population": 18108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surduk",
+    "region": "Vojvodina",
+    "lat": 45.0712,
+    "lon": 20.3251,
+    "population": 18072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salaš Noćajski",
+    "region": "Vojvodina",
+    "lat": 44.9472,
+    "lon": 19.5861,
+    "population": 17913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rušanj",
+    "region": "Central Banat District",
+    "lat": 44.6848,
+    "lon": 20.4499,
+    "population": 17816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čenta",
+    "region": "Vojvodina",
+    "lat": 45.1081,
+    "lon": 20.3895,
+    "population": 17604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bačka Topola",
+    "region": "Vojvodina",
+    "lat": 45.8152,
+    "lon": 19.6318,
+    "population": 17590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žabalj",
+    "region": "Vojvodina",
+    "lat": 45.3722,
+    "lon": 20.0639,
+    "population": 17577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varna",
+    "region": "Central Banat District",
+    "lat": 44.6791,
+    "lon": 19.6515,
+    "population": 17557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crepaja",
+    "region": "Vojvodina",
+    "lat": 45.0098,
+    "lon": 20.637,
+    "population": 17508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanad",
+    "region": "Vojvodina",
+    "lat": 45.976,
+    "lon": 20.1082,
+    "population": 17504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogosavac",
+    "region": "Central Banat District",
+    "lat": 44.718,
+    "lon": 19.5953,
+    "population": 17437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prijepolje",
+    "region": "Central Banat District",
+    "lat": 43.39,
+    "lon": 19.6487,
+    "population": 17252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aranđelovac",
+    "region": "Central Banat District",
+    "lat": 44.3069,
+    "lon": 20.56,
+    "population": 17162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kupusina",
+    "region": "Vojvodina",
+    "lat": 45.7376,
+    "lon": 19.0108,
+    "population": 17042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Požarevac",
+    "region": "Central Banat District",
+    "lat": 44.6213,
+    "lon": 21.1878,
+    "population": 17023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zemun",
+    "region": "Central Banat District",
+    "lat": 44.8458,
+    "lon": 20.4012,
+    "population": 17021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šimanovci",
+    "region": "Vojvodina",
+    "lat": 44.8739,
+    "lon": 20.0918,
+    "population": 16973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nikinci",
+    "region": "Vojvodina",
+    "lat": 44.8502,
+    "lon": 19.8232,
+    "population": 16951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stanišić",
+    "region": "Vojvodina",
+    "lat": 45.9389,
+    "lon": 19.1671,
+    "population": 16892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sremski Karlovci",
+    "region": "Vojvodina",
+    "lat": 45.2028,
+    "lon": 19.9337,
+    "population": 16617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pećinci",
+    "region": "Vojvodina",
+    "lat": 44.9089,
+    "lon": 19.9664,
+    "population": 16608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stajićevo",
+    "region": "Vojvodina",
+    "lat": 45.2949,
+    "lon": 20.4584,
+    "population": 16592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veliki Gaj",
+    "region": "Vojvodina",
+    "lat": 45.2885,
+    "lon": 21.1706,
+    "population": 16381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padina",
+    "region": "Vojvodina",
+    "lat": 45.1199,
+    "lon": 20.7286,
+    "population": 16364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banatski Despotovac",
+    "region": "Vojvodina",
+    "lat": 45.3661,
+    "lon": 20.6641,
+    "population": 16224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokolovo Brdo",
+    "region": "Central Banat District",
+    "lat": 43.1369,
+    "lon": 19.8056,
+    "population": 16110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banatski Karlovac",
+    "region": "Vojvodina",
+    "lat": 45.0499,
+    "lon": 21.018,
+    "population": 16101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraćin",
+    "region": "Central Banat District",
+    "lat": 43.8608,
+    "lon": 21.4078,
+    "population": 15979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilandža",
+    "region": "Vojvodina",
+    "lat": 45.169,
+    "lon": 20.9201,
+    "population": 15912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lokve",
+    "region": "Vojvodina",
+    "lat": 45.152,
+    "lon": 21.0307,
+    "population": 15812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruševac",
+    "region": "Central Banat District",
+    "lat": 43.58,
+    "lon": 21.3339,
+    "population": 15780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padej",
+    "region": "Vojvodina",
+    "lat": 45.8276,
+    "lon": 20.1628,
+    "population": 15740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravno Selo",
+    "region": "Vojvodina",
+    "lat": 45.4497,
+    "lon": 19.621,
+    "population": 15728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alibunar",
+    "region": "Vojvodina",
+    "lat": 45.0808,
+    "lon": 20.9658,
+    "population": 15685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ovča",
+    "region": "Central Banat District",
+    "lat": 44.8835,
+    "lon": 20.5334,
+    "population": 15578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samoš",
+    "region": "Vojvodina",
+    "lat": 45.2026,
+    "lon": 20.7739,
+    "population": 15470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Kozarci",
+    "region": "Vojvodina",
+    "lat": 45.7824,
+    "lon": 20.6229,
+    "population": 15428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donji Dobrić",
+    "region": "Central Banat District",
+    "lat": 44.6118,
+    "lon": 19.3311,
+    "population": 15393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srpska Crnja",
+    "region": "Vojvodina",
+    "lat": 45.7254,
+    "lon": 20.6901,
+    "population": 15295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miratovac",
+    "region": "Central Banat District",
+    "lat": 42.2585,
+    "lon": 21.6646,
+    "population": 15236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žitište",
+    "region": "Vojvodina",
+    "lat": 45.485,
+    "lon": 20.5497,
+    "population": 14950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rajince",
+    "region": "Central Banat District",
+    "lat": 42.3787,
+    "lon": 21.6959,
+    "population": 14742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Čajetina",
+    "region": "Central Banat District",
+    "lat": 43.7498,
+    "lon": 19.7127,
+    "population": 14630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velika Moštanica",
+    "region": "Central Banat District",
+    "lat": 44.6649,
+    "lon": 20.354,
+    "population": 14538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nikolinci",
+    "region": "Vojvodina",
+    "lat": 45.0525,
+    "lon": 21.0669,
+    "population": 14155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Pazar",
+    "region": "Central Banat District",
+    "lat": 43.1367,
+    "lon": 20.5122,
+    "population": 14090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melenci",
+    "region": "Vojvodina",
+    "lat": 45.5168,
+    "lon": 20.3196,
+    "population": 13797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozjak",
+    "region": "Vojvodina",
+    "lat": 45.1826,
+    "lon": 20.8638,
+    "population": 13613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smederevska Palanka",
+    "region": "Central Banat District",
+    "lat": 44.3655,
+    "lon": 20.9589,
+    "population": 13576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radovnica",
+    "region": "Central Banat District",
+    "lat": 42.4336,
+    "lon": 22.2286,
+    "population": 13452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glušci",
+    "region": "Central Banat District",
+    "lat": 44.8902,
+    "lon": 19.5491,
+    "population": 13400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novi Itebej",
+    "region": "Vojvodina",
+    "lat": 45.5592,
+    "lon": 20.7003,
+    "population": 13130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krivaja",
+    "region": "Central Banat District",
+    "lat": 44.5502,
+    "lon": 19.5915,
+    "population": 12927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirot",
+    "region": "Central Banat District",
+    "lat": 43.1753,
+    "lon": 22.5928,
+    "population": 12845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gardinovci",
+    "region": "Vojvodina",
+    "lat": 45.2036,
+    "lon": 20.1356,
+    "population": 12824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šajkaš",
+    "region": "Vojvodina",
+    "lat": 45.2732,
+    "lon": 20.0905,
+    "population": 12797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jevremovac",
+    "region": "Central Banat District",
+    "lat": 44.7217,
+    "lon": 19.6636,
+    "population": 12736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badovinci",
+    "region": "Central Banat District",
+    "lat": 44.7853,
+    "lon": 19.3715,
+    "population": 12512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bečej",
+    "region": "Vojvodina",
+    "lat": 45.6163,
+    "lon": 20.0333,
+    "population": 12491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perlez",
+    "region": "Vojvodina",
+    "lat": 45.2081,
+    "lon": 20.382,
+    "population": 12418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gložan",
+    "region": "Vojvodina",
+    "lat": 45.2795,
+    "lon": 19.5684,
+    "population": 12346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baranda",
+    "region": "Vojvodina",
+    "lat": 45.0846,
+    "lon": 20.4426,
+    "population": 12162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idvor",
+    "region": "Vojvodina",
+    "lat": 45.1889,
+    "lon": 20.5144,
+    "population": 12069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lipolist",
+    "region": "Central Banat District",
+    "lat": 44.6978,
+    "lon": 19.501,
+    "population": 11538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salaš Crnobarski",
+    "region": "Central Banat District",
+    "lat": 44.8284,
+    "lon": 19.3944,
+    "population": 10954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uzveće",
+    "region": "Central Banat District",
+    "lat": 44.8786,
+    "lon": 19.6036,
+    "population": 10949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raška",
+    "region": "Central Banat District",
+    "lat": 43.2669,
+    "lon": 20.6528,
+    "population": 10758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mošorin",
+    "region": "Vojvodina",
+    "lat": 45.302,
+    "lon": 20.1692,
+    "population": 10742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putinci",
+    "region": "Vojvodina",
+    "lat": 44.9926,
+    "lon": 19.971,
+    "population": 10709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zrenjanin",
+    "region": "Vojvodina",
+    "lat": 45.3836,
+    "lon": 20.3819,
+    "population": 10646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bečmen",
+    "region": "Central Banat District",
+    "lat": 44.7798,
+    "lon": 20.2058,
+    "population": 10578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leskovac",
+    "region": "Central Banat District",
+    "lat": 42.9981,
+    "lon": 21.9461,
+    "population": 10506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stari Banovci",
+    "region": "Vojvodina",
+    "lat": 44.9842,
+    "lon": 20.2838,
+    "population": 10484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zmajevo",
+    "region": "Vojvodina",
+    "lat": 45.4541,
+    "lon": 19.6905,
+    "population": 10210,
+    "timezone": "UTC"
+  }
+]

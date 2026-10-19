@@ -1,0 +1,762 @@
+[
+  {
+    "name": "Dáli",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0229,
+    "lon": 33.422,
+    "population": 49223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parekklisha",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7458,
+    "lon": 33.1583,
+    "population": 49218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lefkónoiko",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.2598,
+    "lon": 33.7319,
+    "population": 48935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akáki",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.1334,
+    "lon": 33.1287,
+    "population": 48204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsáda",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.838,
+    "lon": 32.4755,
+    "population": 48171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Derýneia",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.0648,
+    "lon": 33.9608,
+    "population": 48110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pérgamos",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 35.0417,
+    "lon": 33.7083,
+    "population": 47664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pólis",
+    "region": "Paphos District (Pafos)",
+    "lat": 35.0353,
+    "lon": 32.4258,
+    "population": 46979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolossi",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.6686,
+    "lon": 32.9338,
+    "population": 46726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paralímni",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.0395,
+    "lon": 33.9818,
+    "population": 46478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Pýrgos",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.179,
+    "lon": 32.686,
+    "population": 45956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Týchon",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.7261,
+    "lon": 33.1387,
+    "population": 45778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouttagiáka",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7202,
+    "lon": 33.1007,
+    "population": 45638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosfilotí",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.9526,
+    "lon": 33.4251,
+    "population": 43994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Léfka",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.112,
+    "lon": 32.85,
+    "population": 42820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lýmpia",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 34.9989,
+    "lon": 33.4618,
+    "population": 42770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Protaras",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.0125,
+    "lon": 34.0583,
+    "population": 42727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argáka",
+    "region": "Paphos District (Pafos)",
+    "lat": 35.0665,
+    "lon": 32.4945,
+    "population": 42559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyrenia",
+    "region": "Kyrenia District (Keryneia)",
+    "lat": 35.3363,
+    "lon": 33.3173,
+    "population": 42470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limassol",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.6841,
+    "lon": 33.0379,
+    "population": 42470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayia Napa",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 34.9821,
+    "lon": 34.0018,
+    "population": 41968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Tomás",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7116,
+    "lon": 32.7313,
+    "population": 41851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liopétri",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.0089,
+    "lon": 33.8926,
+    "population": 40950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tála",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.8374,
+    "lon": 32.4327,
+    "population": 40826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xylofágou",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.9774,
+    "lon": 33.8489,
+    "population": 40510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Péra",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0335,
+    "lon": 33.2541,
+    "population": 39296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tríkomo",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.2863,
+    "lon": 33.8917,
+    "population": 39201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soúni-Zanakiá",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7357,
+    "lon": 32.8844,
+    "population": 38680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lythrodóntas",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 34.9511,
+    "lon": 33.2978,
+    "population": 38082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tséri",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0731,
+    "lon": 33.3234,
+    "population": 37906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mámmari",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.176,
+    "lon": 33.2043,
+    "population": 36662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyrgos",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7417,
+    "lon": 33.1833,
+    "population": 36456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Defterá",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0849,
+    "lon": 33.2756,
+    "population": 36017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Méniko",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.1095,
+    "lon": 33.1447,
+    "population": 34922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lemesós",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.6922,
+    "lon": 33.0285,
+    "population": 34917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesógi",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.8158,
+    "lon": 32.4554,
+    "population": 34089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xylotymbou",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 35.0172,
+    "lon": 33.7424,
+    "population": 33068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Germasógeia",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7221,
+    "lon": 33.0825,
+    "population": 32991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kofínou",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.8245,
+    "lon": 33.3913,
+    "population": 32933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nicosia Municipality",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.1694,
+    "lon": 33.3608,
+    "population": 32110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voróklini",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.986,
+    "lon": 33.6539,
+    "population": 31977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kórnos",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.924,
+    "lon": 33.3976,
+    "population": 31496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sotíra",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7119,
+    "lon": 32.8634,
+    "population": 31443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avgórou",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.0361,
+    "lon": 33.8392,
+    "population": 31204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áchna",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.0551,
+    "lon": 33.7839,
+    "population": 31021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Géri",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.1056,
+    "lon": 33.4198,
+    "population": 30857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pissoúri",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.6694,
+    "lon": 32.7013,
+    "population": 30522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koloni",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.7523,
+    "lon": 32.4649,
+    "population": 29780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geroskípou (quarter)",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.7619,
+    "lon": 32.4513,
+    "population": 29756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aradíppou",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.9515,
+    "lon": 33.592,
+    "population": 29451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perivólia",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.8336,
+    "lon": 33.582,
+    "population": 29314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tersefánou",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.8541,
+    "lon": 33.5475,
+    "population": 29312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kissonerga",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.8228,
+    "lon": 32.4013,
+    "population": 29232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lápithos",
+    "region": "Kyrenia District (Keryneia)",
+    "lat": 35.3382,
+    "lon": 33.1737,
+    "population": 28144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acherítou",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.1002,
+    "lon": 33.8616,
+    "population": 28059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leonárisso",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.4689,
+    "lon": 34.1389,
+    "population": 28032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erími",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.6777,
+    "lon": 32.9181,
+    "population": 27893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astromerítis",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.141,
+    "lon": 33.0379,
+    "population": 27692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nicosia",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.1753,
+    "lon": 33.3642,
+    "population": 27379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rizokárpaso",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.5972,
+    "lon": 34.3792,
+    "population": 26941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meneou",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.8611,
+    "lon": 33.5952,
+    "population": 26869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyrenia Municipality",
+    "region": "Kyrenia District (Keryneia)",
+    "lat": 35.3367,
+    "lon": 33.315,
+    "population": 26062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páno Defterá",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0778,
+    "lon": 33.2658,
+    "population": 24914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Famagusta",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.1205,
+    "lon": 33.9389,
+    "population": 24526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ýpsonas",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.688,
+    "lon": 32.9619,
+    "population": 23896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyperoúnta",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.9382,
+    "lon": 32.9755,
+    "population": 23732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konia",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.7852,
+    "lon": 32.459,
+    "population": 23542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athíenou",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 35.0618,
+    "lon": 33.5416,
+    "population": 23506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alámpra",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 34.989,
+    "lon": 33.3989,
+    "population": 23436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pégeia",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.8834,
+    "lon": 32.3817,
+    "population": 22797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Livádia",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.9512,
+    "lon": 33.6266,
+    "population": 21872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pýla",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 35.0124,
+    "lon": 33.6919,
+    "population": 21813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peléndri",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.896,
+    "lon": 32.9682,
+    "population": 21522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kíti",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.847,
+    "lon": 33.5734,
+    "population": 21356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larnaca",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.9229,
+    "lon": 33.6233,
+    "population": 20934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klírou",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.02,
+    "lon": 33.1781,
+    "population": 20699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Psevdás",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.9465,
+    "lon": 33.4628,
+    "population": 20569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peristeróna",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.1293,
+    "lon": 33.0786,
+    "population": 19164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chlórakas",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.7977,
+    "lon": 32.4121,
+    "population": 19110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geroskípou Municipality",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.7514,
+    "lon": 32.4545,
+    "population": 18125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emba",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.807,
+    "lon": 32.4241,
+    "population": 17081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhromolaxia",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 34.8755,
+    "lon": 33.5868,
+    "population": 16565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Troúlloi",
+    "region": "Larnaca District (Larnaka)",
+    "lat": 35.032,
+    "lon": 33.615,
+    "population": 16216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokkinotrimithiá",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.153,
+    "lon": 33.1997,
+    "population": 16015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kakopetriá",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 34.9877,
+    "lon": 32.9047,
+    "population": 15725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mórfou",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.1987,
+    "lon": 32.9934,
+    "population": 13895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ammochostos Municipality",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.1176,
+    "lon": 33.9434,
+    "population": 13317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Psimolofou",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0625,
+    "lon": 33.2625,
+    "population": 12794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páchna",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7787,
+    "lon": 32.7936,
+    "population": 12434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paphos",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.7768,
+    "lon": 32.4245,
+    "population": 12304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geroskipou",
+    "region": "Paphos District (Pafos)",
+    "lat": 34.755,
+    "lon": 32.4515,
+    "population": 11765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frénaros",
+    "region": "Famagusta District (Mağusa)",
+    "lat": 35.0412,
+    "lon": 33.9224,
+    "population": 11718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ergátes",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0536,
+    "lon": 33.2429,
+    "population": 11542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aredioú",
+    "region": "Nicosia District (Lefkoşa)",
+    "lat": 35.0484,
+    "lon": 33.1961,
+    "population": 10077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páno Polemídia",
+    "region": "Limassol District (Leymasun)",
+    "lat": 34.7056,
+    "lon": 32.9927,
+    "population": 10071,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Al Qubbah",
+    "region": "Derna District",
+    "lat": 32.7568,
+    "lon": 22.2411,
+    "population": 49990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benghazi",
+    "region": "Benghazi",
+    "lat": 32.1149,
+    "lon": 20.0686,
+    "population": 49352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Abyār",
+    "region": "Marj District",
+    "lat": 32.19,
+    "lon": 20.5965,
+    "population": 49061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giado",
+    "region": "Jabal al Gharbi District",
+    "lat": 31.9551,
+    "lon": 12.029,
+    "population": 44769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Bayḑā’",
+    "region": "Jabal al Akhdar",
+    "lat": 32.7627,
+    "lon": 21.7551,
+    "population": 44204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khums",
+    "region": "Murqub",
+    "lat": 32.6486,
+    "lon": 14.2619,
+    "population": 43908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirte",
+    "region": "Sirte District",
+    "lat": 31.2089,
+    "lon": 16.5887,
+    "population": 43870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Burayqah",
+    "region": "Al Wahat District",
+    "lat": 30.4062,
+    "lon": 19.5739,
+    "population": 43718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hūn",
+    "region": "Jufra",
+    "lat": 29.1268,
+    "lon": 15.9477,
+    "population": 43716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "At Tāj",
+    "region": "Kufra District",
+    "lat": 24.2049,
+    "lon": 23.2857,
+    "population": 43293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brak",
+    "region": "Wadi al Shatii District",
+    "lat": 27.5496,
+    "lon": 14.2714,
+    "population": 42444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaryat Sulūq",
+    "region": "Benghazi",
+    "lat": 31.6682,
+    "lon": 20.2521,
+    "population": 40903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zuwārah",
+    "region": "Nuqat al Khams",
+    "lat": 32.9312,
+    "lon": 12.082,
+    "population": 40112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tūkrah",
+    "region": "Marj District",
+    "lat": 32.5341,
+    "lon": 20.5791,
+    "population": 39644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bani Walid",
+    "region": "Misrata District",
+    "lat": 31.7455,
+    "lon": 13.9835,
+    "population": 37637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Qaţrūn",
+    "region": "Murzuq District",
+    "lat": 24.9514,
+    "lon": 14.6486,
+    "population": 37394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tagiura",
+    "region": "Tripoli District",
+    "lat": 32.8817,
+    "lon": 13.3506,
+    "population": 37035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nālūt",
+    "region": "Nalut District",
+    "lat": 31.8685,
+    "lon": 10.9812,
+    "population": 34858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masallātah",
+    "region": "Murqub",
+    "lat": 32.6167,
+    "lon": 14,
+    "population": 34720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabhā",
+    "region": "Sabha District",
+    "lat": 27.0377,
+    "lon": 14.4283,
+    "population": 34218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zintan",
+    "region": "Jabal al Gharbi District",
+    "lat": 31.9316,
+    "lon": 12.2529,
+    "population": 33497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zāwīyah",
+    "region": "Zawiya District",
+    "lat": 32.7571,
+    "lon": 12.7276,
+    "population": 32424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zawiya",
+    "region": "Zawiya District",
+    "lat": 32.7522,
+    "lon": 12.7278,
+    "population": 32191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Marj",
+    "region": "Marj District",
+    "lat": 32.4926,
+    "lon": 20.8291,
+    "population": 31608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Awjilah",
+    "region": "Al Wahat District",
+    "lat": 29.1081,
+    "lon": 21.2869,
+    "population": 31517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mişrātah",
+    "region": "Misrata District",
+    "lat": 32.3753,
+    "lon": 15.0925,
+    "population": 28280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qasr Abu Hadi",
+    "region": "Sirte District",
+    "lat": 31.0593,
+    "lon": 16.6591,
+    "population": 28197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tripoli",
+    "region": "Tripoli District",
+    "lat": 32.8874,
+    "lon": 13.1873,
+    "population": 28130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darnah",
+    "region": "Derna District",
+    "lat": 32.767,
+    "lon": 22.6367,
+    "population": 27630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jadīd",
+    "region": "Sabha District",
+    "lat": 27.05,
+    "lon": 14.4,
+    "population": 27504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gharyan",
+    "region": "Jabal al Gharbi District",
+    "lat": 32.1722,
+    "lon": 13.0203,
+    "population": 27418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghadāmis",
+    "region": "Nalut District",
+    "lat": 30.1337,
+    "lon": 9.5007,
+    "population": 26891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghat",
+    "region": "Ghat District",
+    "lat": 24.9633,
+    "lon": 10.18,
+    "population": 25064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mizdah",
+    "region": "Jabal al Gharbi District",
+    "lat": 31.4493,
+    "lon": 12.9853,
+    "population": 24984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yafran",
+    "region": "Jabal al Gharbi District",
+    "lat": 32.0633,
+    "lon": 12.5286,
+    "population": 24961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marādah",
+    "region": "Al Wahat District",
+    "lat": 29.2205,
+    "lon": 19.2045,
+    "population": 24079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gialo",
+    "region": "Al Wahat District",
+    "lat": 29.0333,
+    "lon": 21.55,
+    "population": 22781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jawf",
+    "region": "Kufra District",
+    "lat": 24.1989,
+    "lon": 23.2909,
+    "population": 22695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şabrātah",
+    "region": "Zawiya District",
+    "lat": 32.7933,
+    "lon": 12.4885,
+    "population": 22695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şurmān",
+    "region": "Zawiya District",
+    "lat": 32.7567,
+    "lon": 12.5716,
+    "population": 20840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Idrī",
+    "region": "Wadi al Shatii District",
+    "lat": 27.4471,
+    "lon": 13.0517,
+    "population": 20662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajdabiya",
+    "region": "Al Wahat District",
+    "lat": 30.7554,
+    "lon": 20.2263,
+    "population": 19736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zliten",
+    "region": "Misrata District",
+    "lat": 32.4674,
+    "lon": 14.5687,
+    "population": 18986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waddān",
+    "region": "Jufra",
+    "lat": 29.1614,
+    "lon": 16.139,
+    "population": 18774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ajaylat",
+    "region": "Nuqat al Khams",
+    "lat": 32.7572,
+    "lon": 12.3763,
+    "population": 18447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murzuq",
+    "region": "Murzuq District",
+    "lat": 25.9155,
+    "lon": 13.9184,
+    "population": 14662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al ‘Azīzīyah",
+    "region": "Jafara",
+    "lat": 32.5319,
+    "lon": 13.0175,
+    "population": 13822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarhuna",
+    "region": "Murqub",
+    "lat": 32.435,
+    "lon": 13.6332,
+    "population": 13810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Az Zuwaytīnah",
+    "region": "Al Wahat District",
+    "lat": 30.9522,
+    "lon": 20.1202,
+    "population": 12838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ubari",
+    "region": "Wadi al Hayaa District",
+    "lat": 26.5903,
+    "lon": 12.7751,
+    "population": 11213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zalţan",
+    "region": "Nuqat al Khams",
+    "lat": 32.947,
+    "lon": 11.8667,
+    "population": 10528,
+    "timezone": "UTC"
+  }
+]

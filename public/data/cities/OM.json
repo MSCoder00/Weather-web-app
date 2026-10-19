@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Şalālah",
+    "region": "Dhofar Governorate",
+    "lat": 17.015,
+    "lon": 54.0924,
+    "population": 49761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liwá",
+    "region": "Al Batinah North Governorate",
+    "lat": 24.5308,
+    "lon": 56.563,
+    "population": 49202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sur",
+    "region": "Ash Sharqiyah Region",
+    "lat": 22.5667,
+    "lon": 59.5289,
+    "population": 48465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khābūrah",
+    "region": "Al Batinah North Governorate",
+    "lat": 23.9714,
+    "lon": 57.0931,
+    "population": 47884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Buraymī",
+    "region": "Al Buraimi Governorate",
+    "lat": 24.2509,
+    "lon": 55.7931,
+    "population": 43007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nizwá",
+    "region": "Ad Dakhiliyah Governorate",
+    "lat": 22.9333,
+    "lon": 57.5333,
+    "population": 42168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şaḩam",
+    "region": "Al Batinah North Governorate",
+    "lat": 24.1722,
+    "lon": 56.8886,
+    "population": 41108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shināş",
+    "region": "Al Batinah North Governorate",
+    "lat": 24.7426,
+    "lon": 56.467,
+    "population": 39148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dib Dibba",
+    "region": "Musandam Governorate",
+    "lat": 26.1978,
+    "lon": 56.2578,
+    "population": 37772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Izkī",
+    "region": "Ad Dakhiliyah Governorate",
+    "lat": 22.9333,
+    "lon": 57.7667,
+    "population": 33522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahlā’",
+    "region": "Ad Dakhiliyah Governorate",
+    "lat": 22.9789,
+    "lon": 57.3047,
+    "population": 28495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bidbid",
+    "region": "Ad Dakhiliyah Governorate",
+    "lat": 23.4079,
+    "lon": 58.1283,
+    "population": 27942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haymā’",
+    "region": "Al Wusta Governorate",
+    "lat": 19.9593,
+    "lon": 56.2758,
+    "population": 27873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rustaq",
+    "region": "Al Batinah Region",
+    "lat": 23.3908,
+    "lon": 57.4244,
+    "population": 25918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "As Suwayq",
+    "region": "Al Batinah North Governorate",
+    "lat": 23.8494,
+    "lon": 57.4386,
+    "population": 25731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayt al ‘Awābī",
+    "region": "Al Batinah Region",
+    "lat": 23.3032,
+    "lon": 57.5246,
+    "population": 24941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sohar",
+    "region": "Al Batinah North Governorate",
+    "lat": 24.3474,
+    "lon": 56.7094,
+    "population": 24386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khasab",
+    "region": "Musandam Governorate",
+    "lat": 26.1799,
+    "lon": 56.2477,
+    "population": 23267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bawshar",
+    "region": "Muscat Governorate",
+    "lat": 23.5777,
+    "lon": 58.3998,
+    "population": 18279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanqul",
+    "region": "Ad Dhahirah Governorate",
+    "lat": 23.5864,
+    "lon": 56.5397,
+    "population": 15066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seeb",
+    "region": "Muscat Governorate",
+    "lat": 23.6703,
+    "lon": 58.1891,
+    "population": 14366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Ibrī",
+    "region": "Ad Dhahirah Governorate",
+    "lat": 23.2257,
+    "lon": 56.5157,
+    "population": 13952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muscat",
+    "region": "Muscat Governorate",
+    "lat": 23.5841,
+    "lon": 58.4078,
+    "population": 13573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adam",
+    "region": "Ad Dakhiliyah Governorate",
+    "lat": 22.3793,
+    "lon": 57.5272,
+    "population": 12882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sufālat Samā’il",
+    "region": "Ad Dakhiliyah Governorate",
+    "lat": 23.3167,
+    "lon": 58.0167,
+    "population": 12680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barkā’",
+    "region": "Al Batinah Region",
+    "lat": 23.6787,
+    "lon": 57.886,
+    "population": 11717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oman Smart Future City",
+    "region": "Al Batinah Region",
+    "lat": 23.6527,
+    "lon": 57.5993,
+    "population": 11461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madḩā’ al Jadīdah",
+    "region": "Musandam Governorate",
+    "lat": 25.2834,
+    "lon": 56.3328,
+    "population": 11417,
+    "timezone": "UTC"
+  }
+]

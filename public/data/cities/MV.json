@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Hulhumale",
+    "region": "Kaafu Atoll",
+    "lat": 4.2117,
+    "lon": 73.5401,
+    "population": 47169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thinadhoo",
+    "region": "Gaafu Dhaalu Atoll",
+    "lat": 0.5306,
+    "lon": 72.9997,
+    "population": 46519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahibadhoo",
+    "region": "South Central Province",
+    "lat": 3.7571,
+    "lon": 72.9689,
+    "population": 44992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manadhoo",
+    "region": "Noonu Atoll",
+    "lat": 5.7669,
+    "lon": 73.4136,
+    "population": 43249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hithadhoo",
+    "region": "Addu Atoll",
+    "lat": -0.6,
+    "lon": 73.0833,
+    "population": 35545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulhudhuffushi",
+    "region": "Haa Dhaalu Atoll",
+    "lat": 6.6221,
+    "lon": 73.07,
+    "population": 34336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muli",
+    "region": "Meemu Atoll",
+    "lat": 2.9167,
+    "lon": 73.5667,
+    "population": 33134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fonadhoo",
+    "region": "Laamu Atoll",
+    "lat": 1.8324,
+    "lon": 73.5026,
+    "population": 31671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naifaru",
+    "region": "Lhaviyani Atoll",
+    "lat": 5.4444,
+    "lon": 73.3657,
+    "population": 29555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guraidhoo",
+    "region": "Kaafu Atoll",
+    "lat": 3.9005,
+    "lon": 73.4662,
+    "population": 29282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugoofaaru",
+    "region": "Raa Atoll",
+    "lat": 5.6681,
+    "lon": 73.0302,
+    "population": 25453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Funadhoo",
+    "region": "Shaviyani Atoll",
+    "lat": 6.1509,
+    "lon": 73.2901,
+    "population": 24742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viligili",
+    "region": "Gaafu Alif Atoll",
+    "lat": 0.7591,
+    "lon": 73.433,
+    "population": 23891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maafushi",
+    "region": "Kaafu Atoll",
+    "lat": 3.9423,
+    "lon": 73.4907,
+    "population": 23217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuvahmulah",
+    "region": "Gnaviyani Atoll",
+    "lat": -0.2988,
+    "lon": 73.424,
+    "population": 22959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Felidhoo",
+    "region": "Vaavu Atoll",
+    "lat": 3.4718,
+    "lon": 73.547,
+    "population": 20195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meedhoo",
+    "region": "Addu Atoll",
+    "lat": -0.5833,
+    "lon": 73.2333,
+    "population": 19884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veymandoo",
+    "region": "Thaa Atoll",
+    "lat": 2.1877,
+    "lon": 73.0956,
+    "population": 19590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhidhdhoo",
+    "region": "Haa Alif Atoll",
+    "lat": 6.8874,
+    "lon": 73.114,
+    "population": 19020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kudahuvadhoo",
+    "region": "Dhaalu Atoll",
+    "lat": 2.6707,
+    "lon": 72.8944,
+    "population": 18212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Male",
+    "region": "Kaafu Atoll",
+    "lat": 4.1752,
+    "lon": 73.5092,
+    "population": 13684,
+    "timezone": "UTC"
+  }
+]

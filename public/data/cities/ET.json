@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "Āreka",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.0667,
+    "lon": 37.7,
+    "population": 49945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ginir",
+    "region": "Oromia Region",
+    "lat": 7.1395,
+    "lon": 40.7108,
+    "population": 49620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mojo",
+    "region": "Oromia Region",
+    "lat": 8.5868,
+    "lon": 39.1211,
+    "population": 49570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metahāra",
+    "region": "Oromia Region",
+    "lat": 8.9,
+    "lon": 39.9167,
+    "population": 49099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dejen",
+    "region": "Amhara Region",
+    "lat": 10.1667,
+    "lon": 38.1333,
+    "population": 48689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shakiso",
+    "region": "Oromia Region",
+    "lat": 5.7649,
+    "lon": 38.9101,
+    "population": 48619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Administrative Zone 2",
+    "region": "Afar Region",
+    "lat": 13.6851,
+    "lon": 40.0562,
+    "population": 48572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sendafa",
+    "region": "Oromia Region",
+    "lat": 9.152,
+    "lon": 39.0234,
+    "population": 48479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leku",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.8731,
+    "lon": 38.4442,
+    "population": 48352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Illubabor Zone",
+    "region": "Oromia Region",
+    "lat": 8.2753,
+    "lon": 35.756,
+    "population": 48338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debre Mark’os",
+    "region": "Amhara Region",
+    "lat": 10.35,
+    "lon": 37.7333,
+    "population": 48282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wendo",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.6,
+    "lon": 38.4167,
+    "population": 48146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konso",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 5.25,
+    "lon": 37.4833,
+    "population": 48133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gelemso",
+    "region": "Oromia Region",
+    "lat": 8.8167,
+    "lon": 40.5167,
+    "population": 47965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ziway",
+    "region": "Oromia Region",
+    "lat": 7.9333,
+    "lon": 38.7167,
+    "population": 47386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Wollo Zone",
+    "region": "Amhara Region",
+    "lat": 11.92,
+    "lon": 39.1,
+    "population": 47329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Addiet Canna",
+    "region": "Amhara Region",
+    "lat": 11.2667,
+    "lon": 37.4833,
+    "population": 47230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinka",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 5.65,
+    "lon": 36.65,
+    "population": 46997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Finote Selam",
+    "region": "Amhara Region",
+    "lat": 10.7,
+    "lon": 37.2667,
+    "population": 46394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Wellega Zone",
+    "region": "Oromia Region",
+    "lat": 9.5193,
+    "lon": 36.7576,
+    "population": 45859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dembī Dolo",
+    "region": "Oromia Region",
+    "lat": 8.5333,
+    "lon": 34.8,
+    "population": 45746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sebeta",
+    "region": "Oromia Region",
+    "lat": 8.9167,
+    "lon": 38.6167,
+    "population": 45722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Genet",
+    "region": "Oromia Region",
+    "lat": 9.0667,
+    "lon": 38.5,
+    "population": 45662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burē",
+    "region": "Amhara Region",
+    "lat": 10.7,
+    "lon": 37.0667,
+    "population": 45613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorē",
+    "region": "Oromia Region",
+    "lat": 8.15,
+    "lon": 35.5333,
+    "population": 45195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Addis Ababa",
+    "region": "Addis Ababa",
+    "lat": 9.025,
+    "lon": 38.7469,
+    "population": 44654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metu",
+    "region": "Oromia Region",
+    "lat": 8.3,
+    "lon": 35.5833,
+    "population": 44446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kemisē",
+    "region": "Amhara Region",
+    "lat": 10.7167,
+    "lon": 39.87,
+    "population": 44421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alaba Special Wereda",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.4535,
+    "lon": 38.2119,
+    "population": 44342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jimma Zone",
+    "region": "Oromia Region",
+    "lat": 7.6667,
+    "lon": 37,
+    "population": 44283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hosa’ina",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.5498,
+    "lon": 37.8537,
+    "population": 43646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debre Birhan",
+    "region": "Amhara Region",
+    "lat": 9.6795,
+    "lon": 39.5326,
+    "population": 43583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sodo",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.86,
+    "lon": 37.7616,
+    "population": 43507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maych’ew",
+    "region": "Tigray Region",
+    "lat": 12.7875,
+    "lon": 39.5422,
+    "population": 43439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huruta",
+    "region": "Oromia Region",
+    "lat": 8.15,
+    "lon": 39.35,
+    "population": 42715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Wollo Zone",
+    "region": "Amhara Region",
+    "lat": 11,
+    "lon": 39.25,
+    "population": 42087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guji Zone",
+    "region": "Oromia Region",
+    "lat": 5.588,
+    "lon": 39.067,
+    "population": 41896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debre Werk’",
+    "region": "Amhara Region",
+    "lat": 10.6667,
+    "lon": 38.1667,
+    "population": 41384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waliso",
+    "region": "Oromia Region",
+    "lat": 8.5342,
+    "lon": 37.9652,
+    "population": 40721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kombolcha",
+    "region": "Amhara Region",
+    "lat": 11.0816,
+    "lon": 39.7434,
+    "population": 40678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fichē",
+    "region": "Oromia Region",
+    "lat": 9.8,
+    "lon": 38.7333,
+    "population": 40075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirre",
+    "region": "Oromia Region",
+    "lat": 8.3167,
+    "lon": 39.4833,
+    "population": 39944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gambēla",
+    "region": "Gambela Region",
+    "lat": 8.25,
+    "lon": 34.5833,
+    "population": 39908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turmi",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 4.9667,
+    "lon": 36.4833,
+    "population": 39899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mēga",
+    "region": "Oromia Region",
+    "lat": 4.05,
+    "lon": 38.3,
+    "population": 39379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gondar",
+    "region": "Amhara Region",
+    "lat": 12.6,
+    "lon": 37.4667,
+    "population": 39303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gedeo Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.1273,
+    "lon": 38.2772,
+    "population": 38510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Desē",
+    "region": "Amhara Region",
+    "lat": 11.1333,
+    "lon": 39.6333,
+    "population": 38367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jijiga",
+    "region": "Somali Region",
+    "lat": 9.35,
+    "lon": 42.8,
+    "population": 38352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deder",
+    "region": "Oromia Region",
+    "lat": 9.3117,
+    "lon": 41.443,
+    "population": 38153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arba Minch",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.0333,
+    "lon": 37.55,
+    "population": 37674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dīla",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.4167,
+    "lon": 38.3167,
+    "population": 37631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimbi",
+    "region": "Oromia Region",
+    "lat": 9.1703,
+    "lon": 35.8349,
+    "population": 37377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debre Sīna",
+    "region": "Amhara Region",
+    "lat": 9.8475,
+    "lon": 39.7603,
+    "population": 37364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadiya Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.5,
+    "lon": 37.75,
+    "population": 37099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goba",
+    "region": "Oromia Region",
+    "lat": 7.0167,
+    "lon": 39.9833,
+    "population": 36944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guraghe Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 8.25,
+    "lon": 38,
+    "population": 36452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bedēsa",
+    "region": "Oromia Region",
+    "lat": 8.9,
+    "lon": 40.7833,
+    "population": 34957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bichena",
+    "region": "Amhara Region",
+    "lat": 10.45,
+    "lon": 38.2,
+    "population": 34601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahir Dar",
+    "region": "Amhara Region",
+    "lat": 11.5936,
+    "lon": 37.3908,
+    "population": 34529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nazrēt",
+    "region": "Oromia Region",
+    "lat": 8.55,
+    "lon": 39.2667,
+    "population": 34009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arsi Zone",
+    "region": "Oromia Region",
+    "lat": 7.5,
+    "lon": 39.5,
+    "population": 33846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āwash",
+    "region": "Afar Region",
+    "lat": 8.9833,
+    "lon": 40.1667,
+    "population": 33815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kembata Alaba Tembaro Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.2704,
+    "lon": 37.7789,
+    "population": 33178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidama Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.718,
+    "lon": 38.448,
+    "population": 33172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dire Dawa",
+    "region": "Dire Dawa",
+    "lat": 9.5931,
+    "lon": 41.8661,
+    "population": 33065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korem",
+    "region": "Tigray Region",
+    "lat": 12.5058,
+    "lon": 39.5228,
+    "population": 32249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āsbe Teferī",
+    "region": "Oromia Region",
+    "lat": 9.0857,
+    "lon": 40.8671,
+    "population": 31684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hāgere Selam",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.4833,
+    "lon": 38.5167,
+    "population": 31260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sheka Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.5617,
+    "lon": 35.4017,
+    "population": 31238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubti",
+    "region": "Afar Region",
+    "lat": 11.7329,
+    "lon": 41.082,
+    "population": 30704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ādīs Zemen",
+    "region": "Amhara Region",
+    "lat": 12.1167,
+    "lon": 37.7833,
+    "population": 30575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mīzan Teferī",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.9986,
+    "lon": 35.5888,
+    "population": 30041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bedelē",
+    "region": "Oromia Region",
+    "lat": 8.456,
+    "lon": 36.353,
+    "population": 30038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonga",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.2833,
+    "lon": 36.2333,
+    "population": 29781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mek'ele",
+    "region": "Tigray Region",
+    "lat": 13.4967,
+    "lon": 39.4753,
+    "population": 29715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hawassa",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.0621,
+    "lon": 38.4763,
+    "population": 29308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bako",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 5.7833,
+    "lon": 36.5667,
+    "population": 29004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batī",
+    "region": "Amhara Region",
+    "lat": 11.1915,
+    "lon": 40.0168,
+    "population": 28983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hīrna",
+    "region": "Oromia Region",
+    "lat": 9.2167,
+    "lon": 41.1,
+    "population": 28248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Administrative Zone 3",
+    "region": "Afar Region",
+    "lat": 10.009,
+    "lon": 40.4739,
+    "population": 28143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bench Maji Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.4599,
+    "lon": 35.3055,
+    "population": 27812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lobuni",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 4.8333,
+    "lon": 36.1,
+    "population": 27187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Shewa Zone",
+    "region": "Oromia Region",
+    "lat": 8.2135,
+    "lon": 38.8481,
+    "population": 26862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gode Zone",
+    "region": "Somali Region",
+    "lat": 6,
+    "lon": 43.75,
+    "population": 26577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Axum",
+    "region": "Tigray Region",
+    "lat": 14.1211,
+    "lon": 38.7234,
+    "population": 26067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gīdolē",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 5.65,
+    "lon": 37.3667,
+    "population": 25418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āgaro",
+    "region": "Oromia Region",
+    "lat": 7.85,
+    "lon": 36.65,
+    "population": 24656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shashemenē",
+    "region": "Oromia Region",
+    "lat": 7.2,
+    "lon": 38.6,
+    "population": 24649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Southeastern Tigray Zone",
+    "region": "Tigray Region",
+    "lat": 13.248,
+    "lon": 39.5316,
+    "population": 24626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gebre Guracha",
+    "region": "Oromia Region",
+    "lat": 9.8,
+    "lon": 38.4,
+    "population": 24532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shinile Zone",
+    "region": "Somali Region",
+    "lat": 10.171,
+    "lon": 41.8375,
+    "population": 24173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nejo",
+    "region": "Oromia Region",
+    "lat": 9.5,
+    "lon": 35.5,
+    "population": 24042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Felege Neway",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.3,
+    "lon": 36.8833,
+    "population": 23759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mendī",
+    "region": "Oromia Region",
+    "lat": 9.8,
+    "lon": 35.1,
+    "population": 23754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debark’",
+    "region": "Amhara Region",
+    "lat": 13.1561,
+    "lon": 37.8981,
+    "population": 23475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afder Zone",
+    "region": "Somali Region",
+    "lat": 5.25,
+    "lon": 43,
+    "population": 22976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gēdo",
+    "region": "Oromia Region",
+    "lat": 9.0167,
+    "lon": 37.45,
+    "population": 22738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yem",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.8333,
+    "lon": 37.5,
+    "population": 22598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bodītī",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.9667,
+    "lon": 37.8667,
+    "population": 22586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kofelē",
+    "region": "Oromia Region",
+    "lat": 7.0667,
+    "lon": 38.7833,
+    "population": 22574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Werota",
+    "region": "Amhara Region",
+    "lat": 11.9167,
+    "lon": 37.7,
+    "population": 22399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robīt",
+    "region": "Amhara Region",
+    "lat": 12.0167,
+    "lon": 39.6333,
+    "population": 22357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butajīra",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 8.1167,
+    "lon": 38.3667,
+    "population": 22050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Harerghe Zone",
+    "region": "Oromia Region",
+    "lat": 8.6724,
+    "lon": 40.8488,
+    "population": 21692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wolayita Zone",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.8431,
+    "lon": 37.7005,
+    "population": 21307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Administrative Zone 1",
+    "region": "Gambela Region",
+    "lat": 8.147,
+    "lon": 33.9734,
+    "population": 21058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abomsa",
+    "region": "Amhara Region",
+    "lat": 9.9833,
+    "lon": 39.9833,
+    "population": 19346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shambu",
+    "region": "Oromia Region",
+    "lat": 9.5667,
+    "lon": 37.1,
+    "population": 19328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asaita",
+    "region": "Afar Region",
+    "lat": 11.5684,
+    "lon": 41.4387,
+    "population": 19246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yabēlo",
+    "region": "Oromia Region",
+    "lat": 4.8833,
+    "lon": 38.0833,
+    "population": 18932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tulu Bolo",
+    "region": "Oromia Region",
+    "lat": 8.6667,
+    "lon": 38.2167,
+    "population": 18826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bishoftu",
+    "region": "Oromia Region",
+    "lat": 8.7523,
+    "lon": 38.9785,
+    "population": 18681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "West Wellega Zone",
+    "region": "Oromia Region",
+    "lat": 9.1728,
+    "lon": 35.0528,
+    "population": 18383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "East Harerghe Zone",
+    "region": "Oromia Region",
+    "lat": 8.7011,
+    "lon": 42.0024,
+    "population": 18303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalībela",
+    "region": "Amhara Region",
+    "lat": 12.0322,
+    "lon": 39.0476,
+    "population": 17806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yirga ‘Alem",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 6.75,
+    "lon": 38.4167,
+    "population": 17744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inda Silasē",
+    "region": "Tigray Region",
+    "lat": 14.1031,
+    "lon": 38.2829,
+    "population": 17689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debre Tabor",
+    "region": "Amhara Region",
+    "lat": 11.85,
+    "lon": 38.0167,
+    "population": 17304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dodola",
+    "region": "Oromia Region",
+    "lat": 6.9833,
+    "lon": 39.1833,
+    "population": 17208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Southern Tigray Zone",
+    "region": "Tigray Region",
+    "lat": 12.9603,
+    "lon": 39.5283,
+    "population": 17135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harar",
+    "region": "Harari Region",
+    "lat": 9.3139,
+    "lon": 42.1181,
+    "population": 16980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Semera",
+    "region": "Afar Region",
+    "lat": 11.7934,
+    "lon": 41.0058,
+    "population": 16231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metekel",
+    "region": "Benishangul-Gumuz Region",
+    "lat": 10.4267,
+    "lon": 35.7197,
+    "population": 16095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "South Gondar Zone",
+    "region": "Amhara Region",
+    "lat": 11.8385,
+    "lon": 38.0995,
+    "population": 15249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asosa",
+    "region": "Benishangul-Gumuz Region",
+    "lat": 10,
+    "lon": 34.5,
+    "population": 15087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gewanē",
+    "region": "Afar Region",
+    "lat": 10.1666,
+    "lon": 40.6469,
+    "population": 14984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabat",
+    "region": "Amhara Region",
+    "lat": 12.9842,
+    "lon": 37.765,
+    "population": 13810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hāgere Hiywet",
+    "region": "Oromia Region",
+    "lat": 8.9833,
+    "lon": 37.85,
+    "population": 13721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Were Īlu",
+    "region": "Amhara Region",
+    "lat": 10.5896,
+    "lon": 39.4377,
+    "population": 13714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ādīgrat",
+    "region": "Tigray Region",
+    "lat": 14.277,
+    "lon": 39.462,
+    "population": 13608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Shewa Zone",
+    "region": "Amhara Region",
+    "lat": 9.769,
+    "lon": 39.668,
+    "population": 13261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liben zone",
+    "region": "Somali Region",
+    "lat": 4.75,
+    "lon": 40.5,
+    "population": 13173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āsasa",
+    "region": "Oromia Region",
+    "lat": 7.1,
+    "lon": 39.2,
+    "population": 13055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hagere Maryam",
+    "region": "Oromia Region",
+    "lat": 5.6342,
+    "lon": 38.236,
+    "population": 12591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jimma",
+    "region": "Oromia Region",
+    "lat": 7.6734,
+    "lon": 36.8344,
+    "population": 12429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ādīs ‘Alem",
+    "region": "Oromia Region",
+    "lat": 9.0333,
+    "lon": 38.4,
+    "population": 12400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wag Hemra Zone",
+    "region": "Amhara Region",
+    "lat": 12.765,
+    "lon": 38.843,
+    "population": 11852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Degehabur Zone",
+    "region": "Somali Region",
+    "lat": 8.25,
+    "lon": 43.75,
+    "population": 11015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibre Mengist",
+    "region": "Oromia Region",
+    "lat": 5.8833,
+    "lon": 38.9833,
+    "population": 10798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "K’olīto",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.3167,
+    "lon": 38.0833,
+    "population": 10525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenjī",
+    "region": "Oromia Region",
+    "lat": 8.45,
+    "lon": 39.2833,
+    "population": 10298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tippi",
+    "region": "Southern Nations, Nationalities, and Peoples' Region",
+    "lat": 7.2,
+    "lon": 35.45,
+    "population": 10250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "North Shewa Zone",
+    "region": "Oromia Region",
+    "lat": 9.6692,
+    "lon": 38.8124,
+    "population": 10117,
+    "timezone": "UTC"
+  }
+]

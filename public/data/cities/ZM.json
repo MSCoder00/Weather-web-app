@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Luanshya",
+    "region": "Copperbelt Province",
+    "lat": -13.1367,
+    "lon": 28.4166,
+    "population": 49996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luwingu",
+    "region": "Northern Province",
+    "lat": -10.2621,
+    "lon": 29.9271,
+    "population": 49859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalabo",
+    "region": "Western Province",
+    "lat": -14.9931,
+    "lon": 22.6793,
+    "population": 49593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwense",
+    "region": "Luapula Province",
+    "lat": -10.3845,
+    "lon": 28.698,
+    "population": 47330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinsali",
+    "region": "Muchinga Province",
+    "lat": -10.5414,
+    "lon": 32.0816,
+    "population": 47286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mporokoso",
+    "region": "Northern Province",
+    "lat": -9.3727,
+    "lon": 30.125,
+    "population": 46672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapiri Mposhi",
+    "region": "Central Province",
+    "lat": -13.9715,
+    "lon": 28.6699,
+    "population": 46167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limulunga",
+    "region": "Western Province",
+    "lat": -15.0969,
+    "lon": 23.1376,
+    "population": 45843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mongu",
+    "region": "Western Province",
+    "lat": -15.2484,
+    "lon": 23.1274,
+    "population": 45838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petauke",
+    "region": "Eastern Province",
+    "lat": -14.2412,
+    "lon": 31.3197,
+    "population": 45424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mungwi",
+    "region": "Northern Province",
+    "lat": -10.1732,
+    "lon": 31.3694,
+    "population": 45305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbala",
+    "region": "Northern Province",
+    "lat": -8.8402,
+    "lon": 31.3659,
+    "population": 44774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kafue",
+    "region": "Lusaka Province",
+    "lat": -15.7691,
+    "lon": 28.1814,
+    "population": 43558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabompo",
+    "region": "Northwestern Province",
+    "lat": -13.5927,
+    "lon": 24.2008,
+    "population": 42947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakambala",
+    "region": "Southern Province",
+    "lat": -15.8324,
+    "lon": 27.7799,
+    "population": 42577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mansa",
+    "region": "Luapula Province",
+    "lat": -11.1998,
+    "lon": 28.8943,
+    "population": 42013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chipata",
+    "region": "Eastern Province",
+    "lat": -13.6333,
+    "lon": 32.65,
+    "population": 40371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siavonga District",
+    "region": "Southern Province",
+    "lat": -16.2674,
+    "lon": 28.5504,
+    "population": 40316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukulu",
+    "region": "Western Province",
+    "lat": -14.3707,
+    "lon": 23.242,
+    "population": 39999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itezhi-Tezhi District",
+    "region": "Southern Province",
+    "lat": -15.7409,
+    "lon": 26.0415,
+    "population": 39805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mkushi",
+    "region": "Central Province",
+    "lat": -13.6202,
+    "lon": 29.3939,
+    "population": 39174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zambezi",
+    "region": "Northwestern Province",
+    "lat": -13.5432,
+    "lon": 23.1047,
+    "population": 38876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpika",
+    "region": "Muchinga Province",
+    "lat": -11.8343,
+    "lon": 31.4529,
+    "population": 38865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luangwa",
+    "region": "Lusaka Province",
+    "lat": -15.6167,
+    "lon": 30.4167,
+    "population": 38736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nchelenge",
+    "region": "Luapula Province",
+    "lat": -9.3451,
+    "lon": 28.734,
+    "population": 38673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasama",
+    "region": "Northern Province",
+    "lat": -10.2129,
+    "lon": 31.1808,
+    "population": 38326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samfya",
+    "region": "Luapula Province",
+    "lat": -11.3649,
+    "lon": 29.5565,
+    "population": 37785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sesheke",
+    "region": "Western Province",
+    "lat": -17.4759,
+    "lon": 24.2968,
+    "population": 37585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monze",
+    "region": "Southern Province",
+    "lat": -16.2833,
+    "lon": 27.4833,
+    "population": 36945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitwe",
+    "region": "Copperbelt Province",
+    "lat": -12.8024,
+    "lon": 28.2132,
+    "population": 36411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serenje",
+    "region": "Central Province",
+    "lat": -13.2325,
+    "lon": 30.2352,
+    "population": 34861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mufumbwe",
+    "region": "Northwestern Province",
+    "lat": -13.6833,
+    "lon": 24.8,
+    "population": 34835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chililabombwe",
+    "region": "Copperbelt Province",
+    "lat": -12.3648,
+    "lon": 27.8229,
+    "population": 34476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senanga",
+    "region": "Western Province",
+    "lat": -16.1167,
+    "lon": 23.2667,
+    "population": 32337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kataba",
+    "region": "Copperbelt Province",
+    "lat": -11.8833,
+    "lon": 29.7833,
+    "population": 31413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpongwe",
+    "region": "Copperbelt Province",
+    "lat": -13.5091,
+    "lon": 28.155,
+    "population": 29709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maamba",
+    "region": "Southern Province",
+    "lat": -17.3667,
+    "lon": 27.15,
+    "population": 29281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinazongwe",
+    "region": "Southern Province",
+    "lat": -17.2614,
+    "lon": 27.4618,
+    "population": 29236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chama",
+    "region": "Muchinga Province",
+    "lat": -11.213,
+    "lon": 33.1521,
+    "population": 28159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lundazi",
+    "region": "Eastern Province",
+    "lat": -12.2929,
+    "lon": 33.1782,
+    "population": 28110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siavonga",
+    "region": "Southern Province",
+    "lat": -16.5382,
+    "lon": 28.7088,
+    "population": 27679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chongwe",
+    "region": "Lusaka Province",
+    "lat": -15.3292,
+    "lon": 28.682,
+    "population": 27495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Livingstone",
+    "region": "Southern Province",
+    "lat": -17.8419,
+    "lon": 25.8543,
+    "population": 27313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lusaka",
+    "region": "Lusaka Province",
+    "lat": -15.4067,
+    "lon": 28.2871,
+    "population": 26699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choma",
+    "region": "Southern Province",
+    "lat": -16.8089,
+    "lon": 26.9875,
+    "population": 25615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwinilunga",
+    "region": "Northwestern Province",
+    "lat": -11.7358,
+    "lon": 24.4293,
+    "population": 24768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mumbwa",
+    "region": "Central Province",
+    "lat": -14.9829,
+    "lon": 27.0619,
+    "population": 24249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasempa",
+    "region": "Northwestern Province",
+    "lat": -13.4584,
+    "lon": 25.8338,
+    "population": 23340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chingola District",
+    "region": "Copperbelt Province",
+    "lat": -12.4848,
+    "lon": 27.6631,
+    "population": 22944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isoka",
+    "region": "Muchinga Province",
+    "lat": -10.1606,
+    "lon": 32.6335,
+    "population": 21863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chingola",
+    "region": "Copperbelt Province",
+    "lat": -12.529,
+    "lon": 27.8838,
+    "population": 21694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaputa",
+    "region": "Northern Province",
+    "lat": -8.4689,
+    "lon": 29.6619,
+    "population": 21299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chambishi",
+    "region": "Copperbelt Province",
+    "lat": -12.6325,
+    "lon": 28.0537,
+    "population": 20820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gwembe",
+    "region": "Southern Province",
+    "lat": -16.4976,
+    "lon": 27.6069,
+    "population": 19798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndola",
+    "region": "Copperbelt Province",
+    "lat": -12.9587,
+    "lon": 28.6366,
+    "population": 19456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chibombo",
+    "region": "Central Province",
+    "lat": -14.6569,
+    "lon": 28.0706,
+    "population": 18722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solwezi",
+    "region": "Northwestern Province",
+    "lat": -12.1688,
+    "lon": 26.3894,
+    "population": 16653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazabuka",
+    "region": "Southern Province",
+    "lat": -15.856,
+    "lon": 27.748,
+    "population": 16588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kansanshi",
+    "region": "Northwestern Province",
+    "lat": -12.0951,
+    "lon": 26.4273,
+    "population": 16194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chibombo District",
+    "region": "Central Province",
+    "lat": -14.6581,
+    "lon": 28.0738,
+    "population": 16169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namwala",
+    "region": "Southern Province",
+    "lat": -15.7504,
+    "lon": 26.4384,
+    "population": 14753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakonde",
+    "region": "Muchinga Province",
+    "lat": -9.3421,
+    "lon": 32.745,
+    "population": 14656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalulushi",
+    "region": "Copperbelt Province",
+    "lat": -12.8415,
+    "lon": 28.0948,
+    "population": 13634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaoma",
+    "region": "Western Province",
+    "lat": -14.7833,
+    "lon": 24.8,
+    "population": 12822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyimba",
+    "region": "Eastern Province",
+    "lat": -14.5566,
+    "lon": 30.8149,
+    "population": 12408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chadiza",
+    "region": "Eastern Province",
+    "lat": -14.0678,
+    "lon": 32.4392,
+    "population": 12272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabwe",
+    "region": "Central Province",
+    "lat": -14.4469,
+    "lon": 28.4464,
+    "population": 11664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalengwa",
+    "region": "Northwestern Province",
+    "lat": -13.4659,
+    "lon": 25.0027,
+    "population": 11445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mufulira",
+    "region": "Copperbelt Province",
+    "lat": -12.5498,
+    "lon": 28.2407,
+    "population": 11369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpulungu",
+    "region": "Northern Province",
+    "lat": -8.7623,
+    "lon": 31.114,
+    "population": 11214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kawambwa",
+    "region": "Luapula Province",
+    "lat": -9.7915,
+    "lon": 29.0791,
+    "population": 10985,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ash Shīḩānīyah",
+    "region": "Al-Shahaniya",
+    "lat": 25.3709,
+    "lon": 51.2226,
+    "population": 49783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Ruways",
+    "region": "Madinat ash Shamal",
+    "lat": 26.1398,
+    "lon": 51.2149,
+    "population": 49529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuwayriţ",
+    "region": "Madinat ash Shamal",
+    "lat": 26.0256,
+    "lon": 51.3697,
+    "population": 48224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Bāb",
+    "region": "Al Rayyan Municipality",
+    "lat": 25.2142,
+    "lon": 50.8072,
+    "population": 42951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doha",
+    "region": "Doha",
+    "lat": 25.2855,
+    "lon": 51.531,
+    "population": 42055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ar Rayyān",
+    "region": "Al Rayyan Municipality",
+    "lat": 25.2919,
+    "lon": 51.4244,
+    "population": 39702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wakrah",
+    "region": "Al Wakrah",
+    "lat": 25.1715,
+    "lon": 51.6034,
+    "population": 34755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Jumaylīyah",
+    "region": "Al-Shahaniya",
+    "lat": 25.6107,
+    "lon": 51.0911,
+    "population": 27699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umm Şalāl Muḩammad",
+    "region": "Umm Salal Municipality",
+    "lat": 25.4152,
+    "lon": 51.4065,
+    "population": 21471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madīnat ash Shamāl",
+    "region": "Madinat ash Shamal",
+    "lat": 26.1293,
+    "lon": 51.2009,
+    "population": 21004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Khawr",
+    "region": "Al Khor",
+    "lat": 25.6839,
+    "lon": 51.5058,
+    "population": 20960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Wukayr",
+    "region": "Al Wakrah",
+    "lat": 25.1511,
+    "lon": 51.5372,
+    "population": 16952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musay‘īd",
+    "region": "Al Wakrah",
+    "lat": 24.9923,
+    "lon": 51.5507,
+    "population": 15920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dukhān",
+    "region": "Al-Shahaniya",
+    "lat": 25.4248,
+    "lon": 50.7823,
+    "population": 13135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Al Ghuwayrīyah",
+    "region": "Al Khor",
+    "lat": 25.8288,
+    "lon": 51.2457,
+    "population": 12961,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,1426 @@
+[
+  {
+    "name": "Pushkino",
+    "region": "Bilasuvar District",
+    "lat": 39.4583,
+    "lon": 48.545,
+    "population": 49996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaraçuxur",
+    "region": "Baku",
+    "lat": 40.3967,
+    "lon": 49.9736,
+    "population": 49843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Çalxanqala",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.4417,
+    "lon": 45.2833,
+    "population": 49832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghsu",
+    "region": "Agsu District",
+    "lat": 40.5703,
+    "lon": 48.4009,
+    "population": 49159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jebrail",
+    "region": "Jabrayil District",
+    "lat": 39.3992,
+    "lon": 47.0284,
+    "population": 48184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geoktschai",
+    "region": "Goychay",
+    "lat": 40.6506,
+    "lon": 47.7422,
+    "population": 47998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arıqıran",
+    "region": "Gədəbəy",
+    "lat": 40.5397,
+    "lon": 45.6141,
+    "population": 47755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faldarlı",
+    "region": "Zaqatala District",
+    "lat": 41.4687,
+    "lon": 46.5158,
+    "population": 47600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuxarı Aran",
+    "region": "Beylagan District",
+    "lat": 39.7336,
+    "lon": 47.655,
+    "population": 47253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balakhani",
+    "region": "Baku",
+    "lat": 40.4634,
+    "lon": 49.9189,
+    "population": 47058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oğlanqala",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.5869,
+    "lon": 45.0461,
+    "population": 46900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nizami Rayonu",
+    "region": "Baku",
+    "lat": 40.4097,
+    "lon": 49.9193,
+    "population": 46372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahbuz Rayon",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.4167,
+    "lon": 45.5833,
+    "population": 45926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tazakend",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.1546,
+    "lon": 45.4428,
+    "population": 45601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aliabad",
+    "region": "Zaqatala District",
+    "lat": 41.4829,
+    "lon": 46.6348,
+    "population": 45481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirallahı",
+    "region": "Baku",
+    "lat": 40.4701,
+    "lon": 50.3248,
+    "population": 45401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumqayıt",
+    "region": "Sumqayit",
+    "lat": 40.5897,
+    "lon": 49.6686,
+    "population": 45211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Çobansığnaq",
+    "region": "Tovuz District",
+    "lat": 40.7524,
+    "lon": 45.7064,
+    "population": 45177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qax İngiloy",
+    "region": "Qakh District",
+    "lat": 41.4241,
+    "lon": 46.9386,
+    "population": 45032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masally",
+    "region": "Masally District",
+    "lat": 39.0353,
+    "lon": 48.6654,
+    "population": 44977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deste",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 38.8837,
+    "lon": 45.9096,
+    "population": 44748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakhchivan",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.2089,
+    "lon": 45.4122,
+    "population": 44646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kizhaba",
+    "region": "Astara District",
+    "lat": 38.5346,
+    "lon": 48.8055,
+    "population": 44645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hacıqabul",
+    "region": "Hajigabul District",
+    "lat": 40.0387,
+    "lon": 48.9429,
+    "population": 44347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Culfa",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 38.954,
+    "lon": 45.6296,
+    "population": 44138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xudat",
+    "region": "Khachmaz District",
+    "lat": 41.6305,
+    "lon": 48.6816,
+    "population": 44113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horadiz",
+    "region": "Fizuli District",
+    "lat": 39.4502,
+    "lon": 47.335,
+    "population": 44076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qax",
+    "region": "Qakh District",
+    "lat": 41.4183,
+    "lon": 46.9204,
+    "population": 43835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ujar",
+    "region": "Ujar District",
+    "lat": 40.519,
+    "lon": 47.6542,
+    "population": 43790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badamdar",
+    "region": "Baku",
+    "lat": 40.3402,
+    "lon": 49.8045,
+    "population": 43781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zyrya",
+    "region": "Baku",
+    "lat": 40.3661,
+    "lon": 50.292,
+    "population": 43229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qutqashen",
+    "region": "Qabala District",
+    "lat": 40.9825,
+    "lon": 47.8491,
+    "population": 42720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şuraabad",
+    "region": "Khizi District",
+    "lat": 40.8199,
+    "lon": 49.4677,
+    "population": 42656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganja",
+    "region": "Ganja",
+    "lat": 40.6828,
+    "lon": 46.3606,
+    "population": 42648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amirdzhan",
+    "region": "Baku",
+    "lat": 40.4264,
+    "lon": 49.9836,
+    "population": 42588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terter",
+    "region": "Tartar District",
+    "lat": 40.342,
+    "lon": 46.9316,
+    "population": 42461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yevlakh",
+    "region": "Yevlakh",
+    "lat": 40.6183,
+    "lon": 47.1501,
+    "population": 42201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binagadi",
+    "region": "Baku",
+    "lat": 40.466,
+    "lon": 49.8278,
+    "population": 41606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cahri",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.3484,
+    "lon": 45.4156,
+    "population": 41364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qıvraq",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.3994,
+    "lon": 45.1151,
+    "population": 41194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laçın",
+    "region": "Lachin District",
+    "lat": 39.5988,
+    "lon": 46.5504,
+    "population": 41012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qobustan",
+    "region": "Baku",
+    "lat": 40.0824,
+    "lon": 49.4121,
+    "population": 40932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mardakan",
+    "region": "Baku",
+    "lat": 40.4918,
+    "lon": 50.1429,
+    "population": 40545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şahbuz",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.4072,
+    "lon": 45.5739,
+    "population": 40482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Julfa Rayon",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.1667,
+    "lon": 45.6667,
+    "population": 40409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avşar",
+    "region": "Aghjabadi District",
+    "lat": 39.9739,
+    "lon": 47.4239,
+    "population": 39504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyzyl-Burun",
+    "region": "Siazan District",
+    "lat": 41.0781,
+    "lon": 49.1156,
+    "population": 39504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolyar",
+    "region": "Shamkir District",
+    "lat": 40.8628,
+    "lon": 46.0349,
+    "population": 39158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novosaratovka",
+    "region": "Gədəbəy",
+    "lat": 40.5981,
+    "lon": 45.6008,
+    "population": 38892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lerik",
+    "region": "Lerik District",
+    "lat": 38.7739,
+    "lon": 48.415,
+    "population": 38598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shushi",
+    "region": "Shusha District",
+    "lat": 39.7601,
+    "lon": 46.7499,
+    "population": 37850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samux",
+    "region": "Samukh District",
+    "lat": 40.7649,
+    "lon": 46.4087,
+    "population": 37761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lankaran",
+    "region": "Lankaran District",
+    "lat": 38.7543,
+    "lon": 48.8506,
+    "population": 37646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zangilan",
+    "region": "Zangilan District",
+    "lat": 39.0837,
+    "lon": 46.6599,
+    "population": 37542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qubadlı",
+    "region": "Qubadli District",
+    "lat": 39.3444,
+    "lon": 46.5818,
+    "population": 36832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dondar Quşçu",
+    "region": "Tovuz District",
+    "lat": 40.9539,
+    "lon": 45.6194,
+    "population": 36112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerbakhiar",
+    "region": "Kalbajar District",
+    "lat": 40.1098,
+    "lon": 46.0445,
+    "population": 35999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saloğlu",
+    "region": "Agstafa District",
+    "lat": 41.2752,
+    "lon": 45.3529,
+    "population": 35720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ağdaş",
+    "region": "Agdash District",
+    "lat": 40.647,
+    "lon": 47.4738,
+    "population": 35492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salyan",
+    "region": "Salyan District",
+    "lat": 39.5962,
+    "lon": 48.9848,
+    "population": 35366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadrut",
+    "region": "Martuni",
+    "lat": 39.52,
+    "lon": 47.0319,
+    "population": 34775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Divichibazar",
+    "region": "Shabran District",
+    "lat": 41.2012,
+    "lon": 48.9871,
+    "population": 34759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khyzy",
+    "region": "Khizi District",
+    "lat": 40.9085,
+    "lon": 49.0748,
+    "population": 34690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khodzhi-Gasan",
+    "region": "Baku",
+    "lat": 40.4129,
+    "lon": 49.769,
+    "population": 33560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orjonikidze",
+    "region": "Beylagan District",
+    "lat": 39.6357,
+    "lon": 47.712,
+    "population": 33515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabirabad",
+    "region": "Sabirabad District",
+    "lat": 40.0087,
+    "lon": 48.477,
+    "population": 33271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sheki",
+    "region": "Shaki",
+    "lat": 41.1919,
+    "lon": 47.1706,
+    "population": 33269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novyy Karanlug",
+    "region": "Martuni",
+    "lat": 39.795,
+    "lon": 47.1117,
+    "population": 33247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birinci Aşıqlı",
+    "region": "Beylagan District",
+    "lat": 39.8192,
+    "lon": 47.6794,
+    "population": 33122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Əhmədbəyli",
+    "region": "Saatly District",
+    "lat": 39.8807,
+    "lon": 48.3916,
+    "population": 32990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khirdalan",
+    "region": "Absheron District",
+    "lat": 40.4481,
+    "lon": 49.755,
+    "population": 32981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aran",
+    "region": "Yevlakh District",
+    "lat": 40.6253,
+    "lon": 46.9756,
+    "population": 32613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Çatax",
+    "region": "Tovuz District",
+    "lat": 40.7262,
+    "lon": 45.5592,
+    "population": 32607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hacı Zeynalabdin",
+    "region": "Sumqayit",
+    "lat": 40.6233,
+    "lon": 49.5586,
+    "population": 32098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lökbatan",
+    "region": "Baku",
+    "lat": 40.3256,
+    "lon": 49.7338,
+    "population": 32072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qusar",
+    "region": "Qusar District",
+    "lat": 41.4275,
+    "lon": 48.4302,
+    "population": 31665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ordubad Rayon",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.0833,
+    "lon": 45.9167,
+    "population": 31555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yardımlı",
+    "region": "Yardymli District",
+    "lat": 38.9077,
+    "lon": 48.2405,
+    "population": 31229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imishli",
+    "region": "Imishli District",
+    "lat": 39.871,
+    "lon": 48.06,
+    "population": 31134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qobu",
+    "region": "Absheron District",
+    "lat": 40.4047,
+    "lon": 49.7131,
+    "population": 30952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prishibinskoye",
+    "region": "Jalilabad District",
+    "lat": 39.12,
+    "lon": 48.5938,
+    "population": 30917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fizuli",
+    "region": "Fizuli District",
+    "lat": 39.6009,
+    "lon": 47.1453,
+    "population": 30717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Severo-Vostotchnyi Bank",
+    "region": "Neftchala District",
+    "lat": 39.4112,
+    "lon": 49.2479,
+    "population": 30595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaraçala",
+    "region": "Salyan District",
+    "lat": 39.8161,
+    "lon": 48.9379,
+    "population": 30581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Şirvan",
+    "region": "Shirvan",
+    "lat": 39.9378,
+    "lon": 48.929,
+    "population": 30424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saatlı",
+    "region": "Saatly District",
+    "lat": 39.9321,
+    "lon": 48.3689,
+    "population": 30421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qazax",
+    "region": "Qazakh District",
+    "lat": 41.0925,
+    "lon": 45.3656,
+    "population": 30384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biny Selo",
+    "region": "Baku",
+    "lat": 40.4508,
+    "lon": 50.0869,
+    "population": 30095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Türkan",
+    "region": "Baku",
+    "lat": 40.3646,
+    "lon": 50.2208,
+    "population": 29505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dünyamalılar",
+    "region": "Beylagan District",
+    "lat": 39.7728,
+    "lon": 47.7589,
+    "population": 29277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altıağac",
+    "region": "Khizi District",
+    "lat": 40.8578,
+    "lon": 48.9354,
+    "population": 29093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nardaran",
+    "region": "Baku",
+    "lat": 40.5561,
+    "lon": 50.0056,
+    "population": 28602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oğuz",
+    "region": "Oghuz District",
+    "lat": 41.0713,
+    "lon": 47.4653,
+    "population": 28483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramana",
+    "region": "Baku",
+    "lat": 40.4422,
+    "lon": 49.9806,
+    "population": 28215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puta",
+    "region": "Baku",
+    "lat": 40.2967,
+    "lon": 49.6603,
+    "population": 28146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyadabek",
+    "region": "Gədəbəy",
+    "lat": 40.5705,
+    "lon": 45.8123,
+    "population": 27656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zardob",
+    "region": "Zardab District",
+    "lat": 40.2184,
+    "lon": 47.7121,
+    "population": 27655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vurğun",
+    "region": "Agstafa District",
+    "lat": 41.0952,
+    "lon": 45.4711,
+    "population": 27127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ceyranbatan",
+    "region": "Absheron District",
+    "lat": 40.5419,
+    "lon": 49.6607,
+    "population": 26874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qandax",
+    "region": "Zaqatala District",
+    "lat": 41.4755,
+    "lon": 46.5413,
+    "population": 26804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Çinarlı",
+    "region": "Qakh District",
+    "lat": 41.4697,
+    "lon": 46.9158,
+    "population": 26774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mingelchaur",
+    "region": "Mingachevir",
+    "lat": 40.764,
+    "lon": 47.0595,
+    "population": 26568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agdzhabedy",
+    "region": "Aghjabadi District",
+    "lat": 40.0502,
+    "lon": 47.4594,
+    "population": 26249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zabrat",
+    "region": "Baku",
+    "lat": 40.4775,
+    "lon": 49.9417,
+    "population": 26075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ağdam",
+    "region": "Agdam District",
+    "lat": 39.991,
+    "lon": 46.9274,
+    "population": 26063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yelenendorf",
+    "region": "Goygol District",
+    "lat": 40.5858,
+    "lon": 46.3189,
+    "population": 25414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "İsmayıllı",
+    "region": "Ismailli District",
+    "lat": 40.7848,
+    "lon": 48.1514,
+    "population": 25381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qabaqçöl",
+    "region": "Balakan District",
+    "lat": 41.7526,
+    "lon": 46.2705,
+    "population": 24134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Verkhniy Dashkesan",
+    "region": "Dashkasan District",
+    "lat": 40.4936,
+    "lon": 46.0718,
+    "population": 24049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barda",
+    "region": "Barda District",
+    "lat": 40.3758,
+    "lon": 47.1262,
+    "population": 24041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumbatan-diza",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 38.948,
+    "lon": 45.8257,
+    "population": 23872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qala",
+    "region": "Baku",
+    "lat": 40.4426,
+    "lon": 50.1676,
+    "population": 23508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalilabad",
+    "region": "Jalilabad District",
+    "lat": 39.2096,
+    "lon": 48.4919,
+    "population": 23482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samur",
+    "region": "Qusar District",
+    "lat": 41.6367,
+    "lon": 48.4303,
+    "population": 23462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beylagan",
+    "region": "Beylagan District",
+    "lat": 39.7756,
+    "lon": 47.6186,
+    "population": 23182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qobustan",
+    "region": "Gobustan District",
+    "lat": 40.5336,
+    "lon": 48.9282,
+    "population": 23150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yukhary-Dashkesan",
+    "region": "Dashkasan District",
+    "lat": 40.5239,
+    "lon": 46.0819,
+    "population": 22834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Böyük Qaramurad",
+    "region": "Gədəbəy",
+    "lat": 40.5763,
+    "lon": 45.6373,
+    "population": 22279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xocalı",
+    "region": "Khojali District",
+    "lat": 39.913,
+    "lon": 46.7903,
+    "population": 22239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaycı",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 38.9405,
+    "lon": 45.7324,
+    "population": 22180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gilgilçay",
+    "region": "Siazan District",
+    "lat": 41.1393,
+    "lon": 49.0904,
+    "population": 21864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hacıhüseynli",
+    "region": "Quba District",
+    "lat": 41.4564,
+    "lon": 48.6489,
+    "population": 21692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaraxanlı",
+    "region": "Tovuz District",
+    "lat": 41.0436,
+    "lon": 45.6553,
+    "population": 21508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shamakhi",
+    "region": "Shamakhi District",
+    "lat": 40.6314,
+    "lon": 48.6414,
+    "population": 21465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilyazi",
+    "region": "Khizi District",
+    "lat": 40.8739,
+    "lon": 49.3438,
+    "population": 21199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanqaçal",
+    "region": "Baku",
+    "lat": 40.1699,
+    "lon": 49.4639,
+    "population": 20827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarayeri",
+    "region": "Samukh District",
+    "lat": 40.7867,
+    "lon": 46.3137,
+    "population": 20349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qırmızı Samux",
+    "region": "Samukh District",
+    "lat": 40.9397,
+    "lon": 46.3789,
+    "population": 20183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mincivan",
+    "region": "Zangilan District",
+    "lat": 39.0302,
+    "lon": 46.7233,
+    "population": 19889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ordubad",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 38.9096,
+    "lon": 46.0227,
+    "population": 19602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basqal",
+    "region": "Ismailli District",
+    "lat": 40.7552,
+    "lon": 48.391,
+    "population": 19517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quba",
+    "region": "Quba District",
+    "lat": 41.3611,
+    "lon": 48.5134,
+    "population": 18964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arıqdam",
+    "region": "Gədəbəy",
+    "lat": 40.5931,
+    "lon": 45.799,
+    "population": 18918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korgöz",
+    "region": "Baku",
+    "lat": 40.3045,
+    "lon": 49.6236,
+    "population": 18885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Digah",
+    "region": "Absheron District",
+    "lat": 40.4926,
+    "lon": 49.8748,
+    "population": 18875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharur City",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.553,
+    "lon": 44.9799,
+    "population": 18646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astara",
+    "region": "Astara District",
+    "lat": 38.456,
+    "lon": 48.875,
+    "population": 18642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qızılhacılı",
+    "region": "Goranboy District",
+    "lat": 40.5736,
+    "lon": 46.849,
+    "population": 18530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sovetabad",
+    "region": "Neftchala District",
+    "lat": 39.3367,
+    "lon": 49.2141,
+    "population": 18429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baku",
+    "region": "Baku",
+    "lat": 40.3777,
+    "lon": 49.892,
+    "population": 18302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyurdarmir",
+    "region": "Kurdamir District",
+    "lat": 40.3426,
+    "lon": 48.1565,
+    "population": 17866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzagam",
+    "region": "Shamkir District",
+    "lat": 40.9033,
+    "lon": 45.8856,
+    "population": 17810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaxbaş",
+    "region": "Qakh District",
+    "lat": 41.4325,
+    "lon": 46.9646,
+    "population": 17775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heydarabad",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.7229,
+    "lon": 44.8485,
+    "population": 17399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilajer",
+    "region": "Baku",
+    "lat": 40.5644,
+    "lon": 50.04,
+    "population": 16963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corat",
+    "region": "Sumqayit",
+    "lat": 40.5718,
+    "lon": 49.7051,
+    "population": 16515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martakert",
+    "region": "Tartar District",
+    "lat": 40.2113,
+    "lon": 46.8214,
+    "population": 16362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sedarak",
+    "region": "Nakhchivan Autonomous Republic",
+    "lat": 39.7143,
+    "lon": 44.8845,
+    "population": 16306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaqatala",
+    "region": "Zaqatala District",
+    "lat": 41.6316,
+    "lon": 46.6448,
+    "population": 16291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goranboy",
+    "region": "Goranboy District",
+    "lat": 40.6103,
+    "lon": 46.7897,
+    "population": 16276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shamkhor",
+    "region": "Shamkir District",
+    "lat": 40.8297,
+    "lon": 46.0178,
+    "population": 16134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askyaran",
+    "region": "Khojali District",
+    "lat": 39.9391,
+    "lon": 46.8316,
+    "population": 15990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xaçmaz",
+    "region": "Khachmaz District",
+    "lat": 41.4643,
+    "lon": 48.8056,
+    "population": 15870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghstafa",
+    "region": "Agstafa District",
+    "lat": 41.1189,
+    "lon": 45.4539,
+    "population": 15556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xıllı",
+    "region": "Neftchala District",
+    "lat": 39.4301,
+    "lon": 49.1017,
+    "population": 15496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyuzdek",
+    "region": "Absheron District",
+    "lat": 40.3744,
+    "lon": 49.6819,
+    "population": 15073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buzovna",
+    "region": "Baku",
+    "lat": 40.519,
+    "lon": 50.1144,
+    "population": 14673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haftoni",
+    "region": "Lankaran District",
+    "lat": 38.7632,
+    "lon": 48.7622,
+    "population": 14639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vank",
+    "region": "Kalbajar District",
+    "lat": 40.0528,
+    "lon": 46.5442,
+    "population": 14577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tovuz",
+    "region": "Tovuz District",
+    "lat": 40.9925,
+    "lon": 45.6284,
+    "population": 14069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qasım İsmayılov",
+    "region": "Shamkir District",
+    "lat": 40.8124,
+    "lon": 46.2594,
+    "population": 14059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaramanlı",
+    "region": "Yevlakh District",
+    "lat": 40.4813,
+    "lon": 46.9934,
+    "population": 13647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mamrux",
+    "region": "Zaqatala District",
+    "lat": 41.5424,
+    "lon": 46.767,
+    "population": 13503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belokany",
+    "region": "Balakan District",
+    "lat": 41.7263,
+    "lon": 46.4048,
+    "population": 13333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanıqlı",
+    "region": "Tovuz District",
+    "lat": 40.8432,
+    "lon": 45.6803,
+    "population": 13312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boradigah",
+    "region": "Masally District",
+    "lat": 38.9301,
+    "lon": 48.7092,
+    "population": 13002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baş Göynük",
+    "region": "Shaki District",
+    "lat": 41.3258,
+    "lon": 47.1136,
+    "population": 12334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maştağa",
+    "region": "Baku",
+    "lat": 40.5298,
+    "lon": 50.0062,
+    "population": 12169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakıxanov",
+    "region": "Baku",
+    "lat": 40.4189,
+    "lon": 49.9669,
+    "population": 12080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mughan",
+    "region": "Hajigabul District",
+    "lat": 40.099,
+    "lon": 48.8189,
+    "population": 12039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabunçu",
+    "region": "Baku",
+    "lat": 40.4425,
+    "lon": 49.9481,
+    "population": 11919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeni Suraxanı",
+    "region": "Baku",
+    "lat": 40.4303,
+    "lon": 50.036,
+    "population": 11804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neftçala",
+    "region": "Neftchala District",
+    "lat": 39.3768,
+    "lon": 49.247,
+    "population": 11644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saray",
+    "region": "Absheron District",
+    "lat": 40.533,
+    "lon": 49.7168,
+    "population": 11592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samuxlu",
+    "region": "Barda District",
+    "lat": 40.5083,
+    "lon": 47.1692,
+    "population": 11555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilajari",
+    "region": "Baku",
+    "lat": 40.4444,
+    "lon": 49.8057,
+    "population": 11113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qırmızı Bazar",
+    "region": "Martuni",
+    "lat": 39.6767,
+    "lon": 46.9512,
+    "population": 10106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hövsan",
+    "region": "Baku",
+    "lat": 40.3744,
+    "lon": 50.0853,
+    "population": 10083,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Ghazieh",
+    "region": "South Governorate",
+    "lat": 33.5175,
+    "lon": 35.3689,
+    "population": 48855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "En Nâqoûra",
+    "region": "South Governorate",
+    "lat": 33.1181,
+    "lon": 35.1397,
+    "population": 48482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jounieh",
+    "region": "Mount Lebanon Governorate",
+    "lat": 33.9808,
+    "lon": 35.6178,
+    "population": 45594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ain Ebel",
+    "region": "Nabatieh Governorate",
+    "lat": 33.1102,
+    "lon": 35.4025,
+    "population": 43892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caza de Aakkar",
+    "region": "Akkar Governorate",
+    "lat": 34.5333,
+    "lon": 36.1667,
+    "population": 42907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marjayoûn",
+    "region": "Nabatieh Governorate",
+    "lat": 33.3603,
+    "lon": 35.5911,
+    "population": 42426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caza de Bent Jbaïl",
+    "region": "Nabatieh Governorate",
+    "lat": 33.1596,
+    "lon": 35.4114,
+    "population": 42416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batroûn",
+    "region": "North Governorate",
+    "lat": 34.2553,
+    "lon": 35.6581,
+    "population": 40253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baabda",
+    "region": "Mount Lebanon Governorate",
+    "lat": 33.8339,
+    "lon": 35.5442,
+    "population": 38519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhamdoun",
+    "region": "Mount Lebanon Governorate",
+    "lat": 33.795,
+    "lon": 35.6511,
+    "population": 37322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habboûch",
+    "region": "Nabatieh Governorate",
+    "lat": 33.4073,
+    "lon": 35.4817,
+    "population": 35365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tripoli",
+    "region": "North Governorate",
+    "lat": 34.4335,
+    "lon": 35.8441,
+    "population": 29452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caza de Baabda",
+    "region": "Mount Lebanon Governorate",
+    "lat": 33.8459,
+    "lon": 35.6679,
+    "population": 29009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aanjar",
+    "region": "Beqaa Governorate",
+    "lat": 33.7278,
+    "lon": 35.9311,
+    "population": 28441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidon",
+    "region": "South Governorate",
+    "lat": 33.5575,
+    "lon": 35.3715,
+    "population": 28036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caza de Nabatîyé",
+    "region": "Nabatieh Governorate",
+    "lat": 33.3944,
+    "lon": 35.4448,
+    "population": 27985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caza de Baalbek",
+    "region": "Baalbek-Hermel Governorate",
+    "lat": 34.0982,
+    "lon": 36.2716,
+    "population": 27978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baalbek",
+    "region": "Baalbek-Hermel Governorate",
+    "lat": 34.0058,
+    "lon": 36.2181,
+    "population": 26921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nabatîyé et Tahta",
+    "region": "Nabatieh Governorate",
+    "lat": 33.3789,
+    "lon": 35.4839,
+    "population": 25947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bcharré",
+    "region": "North Governorate",
+    "lat": 34.2508,
+    "lon": 36.0106,
+    "population": 24870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zahlé",
+    "region": "Beqaa Governorate",
+    "lat": 33.8468,
+    "lon": 35.902,
+    "population": 24411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bhamdoûn el Mhatta",
+    "region": "Mount Lebanon Governorate",
+    "lat": 33.8086,
+    "lon": 35.6597,
+    "population": 24215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tyre",
+    "region": "South Governorate",
+    "lat": 33.2733,
+    "lon": 35.1939,
+    "population": 23556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beirut",
+    "region": "Beirut Governorate",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "population": 21377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jbaïl",
+    "region": "Mount Lebanon Governorate",
+    "lat": 34.1211,
+    "lon": 35.6481,
+    "population": 18871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ra’s Bayrūt",
+    "region": "Beirut Governorate",
+    "lat": 33.9,
+    "lon": 35.4833,
+    "population": 13627,
+    "timezone": "UTC"
+  }
+]

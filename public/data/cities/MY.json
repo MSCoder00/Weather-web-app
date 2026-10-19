@@ -1,0 +1,1434 @@
+[
+  {
+    "name": "Jerantut",
+    "region": "Pahang",
+    "lat": 3.936,
+    "lon": 102.3626,
+    "population": 48893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labis",
+    "region": "Johor",
+    "lat": 2.385,
+    "lon": 103.021,
+    "population": 48562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pontian Kechil",
+    "region": "Johor",
+    "lat": 1.4866,
+    "lon": 103.3896,
+    "population": 48260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ladang Seri Kundang",
+    "region": "Selangor",
+    "lat": 3.2856,
+    "lon": 101.519,
+    "population": 47998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandakan",
+    "region": "Sabah",
+    "lat": 5.8402,
+    "lon": 118.1179,
+    "population": 47869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perai",
+    "region": "Penang",
+    "lat": 5.3833,
+    "lon": 100.3833,
+    "population": 47790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batu Feringgi",
+    "region": "Penang",
+    "lat": 5.4709,
+    "lon": 100.2453,
+    "population": 47671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "George Town",
+    "region": "Penang",
+    "lat": 5.4112,
+    "lon": 100.3354,
+    "population": 47530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mersing",
+    "region": "Johor",
+    "lat": 2.4312,
+    "lon": 103.8405,
+    "population": 47425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raub",
+    "region": "Pahang",
+    "lat": 3.7899,
+    "lon": 101.857,
+    "population": 47387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gurun",
+    "region": "Kedah",
+    "lat": 5.8172,
+    "lon": 100.4738,
+    "population": 47245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Besut",
+    "region": "Terengganu",
+    "lat": 5.833,
+    "lon": 102.5551,
+    "population": 47141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banting",
+    "region": "Selangor",
+    "lat": 2.8136,
+    "lon": 101.5019,
+    "population": 47123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bentong Town",
+    "region": "Pahang",
+    "lat": 3.5223,
+    "lon": 101.9087,
+    "population": 47072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Permatang Kuching",
+    "region": "Penang",
+    "lat": 5.4634,
+    "lon": 100.3814,
+    "population": 46824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buloh Kasap",
+    "region": "Johor",
+    "lat": 2.5536,
+    "lon": 102.764,
+    "population": 46502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Masjid Tanah",
+    "region": "Malacca",
+    "lat": 2.35,
+    "lon": 102.1167,
+    "population": 46378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paka",
+    "region": "Terengganu",
+    "lat": 4.6374,
+    "lon": 103.4368,
+    "population": 46296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sungai Petani",
+    "region": "Kedah",
+    "lat": 5.647,
+    "lon": 100.4877,
+    "population": 46019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simanggang",
+    "region": "Sarawak",
+    "lat": 1.2472,
+    "lon": 111.4528,
+    "population": 45541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Tekek",
+    "region": "Pahang",
+    "lat": 2.8147,
+    "lon": 104.1592,
+    "population": 45373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanjung Sepat",
+    "region": "Selangor",
+    "lat": 2.6579,
+    "lon": 101.5629,
+    "population": 45215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Data Kakus",
+    "region": "Sarawak",
+    "lat": 2.6547,
+    "lon": 113.6225,
+    "population": 45184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langkawi",
+    "region": "Kedah",
+    "lat": 6.3561,
+    "lon": 99.7837,
+    "population": 44820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Baharu Balakong",
+    "region": "Selangor",
+    "lat": 3.0333,
+    "lon": 101.75,
+    "population": 43939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batu Berendam",
+    "region": "Malacca",
+    "lat": 2.2487,
+    "lon": 102.246,
+    "population": 43725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kota Tinggi",
+    "region": "Johor",
+    "lat": 1.7381,
+    "lon": 103.8999,
+    "population": 43270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kudat",
+    "region": "Sabah",
+    "lat": 6.8873,
+    "lon": 116.8236,
+    "population": 43090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahau",
+    "region": "Negeri Sembilan",
+    "lat": 2.8079,
+    "lon": 102.4049,
+    "population": 42847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampar",
+    "region": "Perak",
+    "lat": 4.3,
+    "lon": 101.15,
+    "population": 42776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cukai",
+    "region": "Terengganu",
+    "lat": 4.25,
+    "lon": 103.4167,
+    "population": 42764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Kedah",
+    "region": "Kedah",
+    "lat": 6.1,
+    "lon": 100.3,
+    "population": 42636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Bukit Tinggi, Bentong",
+    "region": "Pahang",
+    "lat": 3.3494,
+    "lon": 101.8263,
+    "population": 42473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Selangor",
+    "region": "Selangor",
+    "lat": 3.35,
+    "lon": 101.25,
+    "population": 42371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Sungai Ara",
+    "region": "Penang",
+    "lat": 5.327,
+    "lon": 100.2735,
+    "population": 42313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaufort",
+    "region": "Sabah",
+    "lat": 5.3473,
+    "lon": 115.7455,
+    "population": 42300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "region": "Kuala Lumpur",
+    "lat": 3.1412,
+    "lon": 101.6865,
+    "population": 42131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Temerluh",
+    "region": "Pahang",
+    "lat": 3.4506,
+    "lon": 102.4176,
+    "population": 42069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelapa Sawit",
+    "region": "Johor",
+    "lat": 1.6698,
+    "lon": 103.5327,
+    "population": 41820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Kilim",
+    "region": "Kedah",
+    "lat": 6.4055,
+    "lon": 99.8502,
+    "population": 41637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padang Mat Sirat",
+    "region": "Kedah",
+    "lat": 6.3542,
+    "lon": 99.734,
+    "population": 41115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Muar",
+    "region": "Johor",
+    "lat": 2.25,
+    "lon": 102.75,
+    "population": 40902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klebang Besar",
+    "region": "Malacca",
+    "lat": 2.2186,
+    "lon": 102.1995,
+    "population": 40703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tampin",
+    "region": "Negeri Sembilan",
+    "lat": 2.4701,
+    "lon": 102.2302,
+    "population": 40595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petaling Jaya",
+    "region": "Selangor",
+    "lat": 3.1073,
+    "lon": 101.6067,
+    "population": 40569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Ayer Molek",
+    "region": "Malacca",
+    "lat": 2.2139,
+    "lon": 102.3278,
+    "population": 40347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuching",
+    "region": "Sarawak",
+    "lat": 1.55,
+    "lon": 110.3333,
+    "population": 40012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Tanjung Karang",
+    "region": "Selangor",
+    "lat": 3.4242,
+    "lon": 101.1849,
+    "population": 39232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nibong Tebal",
+    "region": "Penang",
+    "lat": 5.1659,
+    "lon": 100.4779,
+    "population": 38923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miri",
+    "region": "Sarawak",
+    "lat": 4.3993,
+    "lon": 113.9916,
+    "population": 38693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Kadok",
+    "region": "Kelantan",
+    "lat": 6,
+    "lon": 102.25,
+    "population": 38538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putra Heights",
+    "region": "Selangor",
+    "lat": 2.9936,
+    "lon": 101.5726,
+    "population": 38481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pulau Sebang",
+    "region": "Malacca",
+    "lat": 2.455,
+    "lon": 102.2329,
+    "population": 37884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Bukit Baharu",
+    "region": "Malacca",
+    "lat": 2.2152,
+    "lon": 102.2851,
+    "population": 37717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasir Mas",
+    "region": "Kelantan",
+    "lat": 6.0493,
+    "lon": 102.1399,
+    "population": 37554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limbang",
+    "region": "Sarawak",
+    "lat": 4.75,
+    "lon": 115,
+    "population": 37528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ampang",
+    "region": "Selangor",
+    "lat": 3.15,
+    "lon": 101.7667,
+    "population": 37257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarikei",
+    "region": "Sarawak",
+    "lat": 2.1167,
+    "lon": 111.5167,
+    "population": 37183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sungai Udang",
+    "region": "Malacca",
+    "lat": 2.269,
+    "lon": 102.1427,
+    "population": 36799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Segamat",
+    "region": "Johor",
+    "lat": 2.5148,
+    "lon": 102.8158,
+    "population": 36744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tapah Road",
+    "region": "Perak",
+    "lat": 4.1667,
+    "lon": 101.2,
+    "population": 36565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Dungun",
+    "region": "Perak",
+    "lat": 3.2167,
+    "lon": 101.3167,
+    "population": 36406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yong Peng",
+    "region": "Johor",
+    "lat": 2.0136,
+    "lon": 103.0659,
+    "population": 36399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandar Labuan",
+    "region": "Sabah",
+    "lat": 5.2888,
+    "lon": 115.2692,
+    "population": 36040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Simpang Renggam",
+    "region": "Johor",
+    "lat": 1.8278,
+    "lon": 103.3,
+    "population": 35476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumpat",
+    "region": "Kelantan",
+    "lat": 6.1978,
+    "lon": 102.171,
+    "population": 35448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukit Rambai",
+    "region": "Malacca",
+    "lat": 2.2594,
+    "lon": 102.1838,
+    "population": 34937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sungai Pelek New Village",
+    "region": "Selangor",
+    "lat": 2.65,
+    "lon": 101.7,
+    "population": 34824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pantai Cenang",
+    "region": "Perlis",
+    "lat": 6.2937,
+    "lon": 99.7279,
+    "population": 34719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pantai Remis",
+    "region": "Perak",
+    "lat": 4.4557,
+    "lon": 100.6288,
+    "population": 34600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Batu Pahat",
+    "region": "Johor",
+    "lat": 1.9333,
+    "lon": 103,
+    "population": 34499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kota Bharu",
+    "region": "Kelantan",
+    "lat": 6.1236,
+    "lon": 102.2433,
+    "population": 34053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parit Raja",
+    "region": "Johor",
+    "lat": 1.8681,
+    "lon": 103.1124,
+    "population": 33819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gua Musang",
+    "region": "Kelantan",
+    "lat": 4.8844,
+    "lon": 101.9686,
+    "population": 33475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinarut",
+    "region": "Sabah",
+    "lat": 5.8231,
+    "lon": 116.0466,
+    "population": 33462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Kok",
+    "region": "Kedah",
+    "lat": 6.3676,
+    "lon": 99.6825,
+    "population": 33283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jertih",
+    "region": "Terengganu",
+    "lat": 5.7336,
+    "lon": 102.4897,
+    "population": 33122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukit Mertajam",
+    "region": "Penang",
+    "lat": 5.363,
+    "lon": 100.4667,
+    "population": 32452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Kangsar",
+    "region": "Perak",
+    "lat": 4.7667,
+    "lon": 100.9333,
+    "population": 32200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kertih",
+    "region": "Terengganu",
+    "lat": 4.5141,
+    "lon": 103.4483,
+    "population": 32171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Butterworth",
+    "region": "Penang",
+    "lat": 5.3991,
+    "lon": 100.3638,
+    "population": 32048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lahad Datu",
+    "region": "Sabah",
+    "lat": 5.023,
+    "lon": 118.329,
+    "population": 31929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Pasir Gudang Baru",
+    "region": "Johor",
+    "lat": 1.4726,
+    "lon": 103.878,
+    "population": 31570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seberang Perai",
+    "region": "Penang",
+    "lat": 5.3877,
+    "lon": 100.426,
+    "population": 31486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mukah",
+    "region": "Sarawak",
+    "lat": 2.8944,
+    "lon": 112.0914,
+    "population": 31319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pekan",
+    "region": "Pahang",
+    "lat": 3.4836,
+    "lon": 103.3996,
+    "population": 30939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuah",
+    "region": "Kedah",
+    "lat": 6.3265,
+    "lon": 99.8432,
+    "population": 30646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Segamat",
+    "region": "Johor",
+    "lat": 2.6,
+    "lon": 102.8167,
+    "population": 30173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pekan Nenas",
+    "region": "Johor",
+    "lat": 1.51,
+    "lon": 103.5141,
+    "population": 30116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taman Senai",
+    "region": "Johor",
+    "lat": 1.6006,
+    "lon": 103.6419,
+    "population": 29931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Semenyih",
+    "region": "Selangor",
+    "lat": 2.9516,
+    "lon": 101.843,
+    "population": 29884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranau",
+    "region": "Sabah",
+    "lat": 5.9538,
+    "lon": 116.6641,
+    "population": 29700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Baharu Nilai",
+    "region": "Negeri Sembilan",
+    "lat": 2.8033,
+    "lon": 101.7972,
+    "population": 29536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Serendah",
+    "region": "Selangor",
+    "lat": 3.3646,
+    "lon": 101.6041,
+    "population": 29205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papar",
+    "region": "Sabah",
+    "lat": 5.7333,
+    "lon": 115.9333,
+    "population": 28870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kota Kinabalu",
+    "region": "Sabah",
+    "lat": 5.9749,
+    "lon": 116.0724,
+    "population": 28855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malacca",
+    "region": "Malacca",
+    "lat": 2.196,
+    "lon": 102.2405,
+    "population": 28827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanah Rata",
+    "region": "Pahang",
+    "lat": 4.4636,
+    "lon": 101.3763,
+    "population": 28730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Semporna",
+    "region": "Sabah",
+    "lat": 4.4818,
+    "lon": 118.6112,
+    "population": 28652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ipoh",
+    "region": "Perak",
+    "lat": 4.5841,
+    "lon": 101.0829,
+    "population": 28534,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibu",
+    "region": "Sarawak",
+    "lat": 2.3,
+    "lon": 111.8167,
+    "population": 28430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keningau",
+    "region": "Sabah",
+    "lat": 5.3378,
+    "lon": 116.1602,
+    "population": 28292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumut",
+    "region": "Perak",
+    "lat": 4.2323,
+    "lon": 100.6298,
+    "population": 28064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Long Ampan Aing or Abanang",
+    "region": "Sarawak",
+    "lat": 2.6567,
+    "lon": 114.7368,
+    "population": 27658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakri",
+    "region": "Johor",
+    "lat": 2.0441,
+    "lon": 102.6527,
+    "population": 27636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Baru Subang",
+    "region": "Selangor",
+    "lat": 3.15,
+    "lon": 101.5333,
+    "population": 27393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bemban",
+    "region": "Malacca",
+    "lat": 2.2684,
+    "lon": 102.3746,
+    "population": 26653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bintulu",
+    "region": "Sarawak",
+    "lat": 3.1667,
+    "lon": 113.0333,
+    "population": 26392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Pontian",
+    "region": "Johor",
+    "lat": 1.5,
+    "lon": 103.5,
+    "population": 26097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kota Belud",
+    "region": "Sabah",
+    "lat": 6.351,
+    "lon": 116.4305,
+    "population": 26021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lawas",
+    "region": "Sarawak",
+    "lat": 4.8604,
+    "lon": 115.409,
+    "population": 25586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mentekab",
+    "region": "Pahang",
+    "lat": 3.4854,
+    "lon": 102.3484,
+    "population": 25586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batang Berjuntai",
+    "region": "Selangor",
+    "lat": 3.3833,
+    "lon": 101.4167,
+    "population": 25039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donggongon",
+    "region": "Sabah",
+    "lat": 5.907,
+    "lon": 116.1015,
+    "population": 24119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tawau",
+    "region": "Sabah",
+    "lat": 4.2448,
+    "lon": 117.8911,
+    "population": 23700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Port Dickson",
+    "region": "Negeri Sembilan",
+    "lat": 2.5372,
+    "lon": 101.8057,
+    "population": 23583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Teriang",
+    "region": "Kedah",
+    "lat": 6.3638,
+    "lon": 99.7153,
+    "population": 23458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Lipis",
+    "region": "Pahang",
+    "lat": 4.1842,
+    "lon": 102.0468,
+    "population": 23380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapit",
+    "region": "Sarawak",
+    "lat": 1.9955,
+    "lon": 112.9325,
+    "population": 23344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelabuhan Klang",
+    "region": "Selangor",
+    "lat": 2.9996,
+    "lon": 101.3929,
+    "population": 23208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangar",
+    "region": "Perlis",
+    "lat": 6.4414,
+    "lon": 100.1986,
+    "population": 23045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rawang",
+    "region": "Selangor",
+    "lat": 3.3213,
+    "lon": 101.5767,
+    "population": 22847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagan Serai",
+    "region": "Perak",
+    "lat": 5.0108,
+    "lon": 100.541,
+    "population": 22421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juru",
+    "region": "Penang",
+    "lat": 5.312,
+    "lon": 100.4423,
+    "population": 22029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lidung Jelo",
+    "region": "Sarawak",
+    "lat": 2.6485,
+    "lon": 114.7865,
+    "population": 21967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shah Alam",
+    "region": "Selangor",
+    "lat": 3.0851,
+    "lon": 101.5328,
+    "population": 21785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Pangkal Kalong",
+    "region": "Kelantan",
+    "lat": 5.9167,
+    "lon": 102.2167,
+    "population": 21565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marudi",
+    "region": "Sarawak",
+    "lat": 4.1833,
+    "lon": 114.3167,
+    "population": 21562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jenjarum",
+    "region": "Selangor",
+    "lat": 2.8724,
+    "lon": 101.4948,
+    "population": 21432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Perlis",
+    "region": "Perlis",
+    "lat": 6.4,
+    "lon": 100.1333,
+    "population": 21338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batu Gajah",
+    "region": "Perak",
+    "lat": 4.4692,
+    "lon": 101.0411,
+    "population": 21186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Mersing",
+    "region": "Johor",
+    "lat": 2.3167,
+    "lon": 103.7167,
+    "population": 20342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Terengganu",
+    "region": "Terengganu",
+    "lat": 5.3302,
+    "lon": 103.1408,
+    "population": 20327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuantan",
+    "region": "Pahang",
+    "lat": 3.8077,
+    "lon": 103.326,
+    "population": 19530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batu Pahat",
+    "region": "Johor",
+    "lat": 1.8548,
+    "lon": 102.9325,
+    "population": 19494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skudai",
+    "region": "Johor",
+    "lat": 1.5374,
+    "lon": 103.6578,
+    "population": 19251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangkak",
+    "region": "Johor",
+    "lat": 2.2673,
+    "lon": 102.5453,
+    "population": 19168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peringat",
+    "region": "Kelantan",
+    "lat": 6.0333,
+    "lon": 102.2833,
+    "population": 19083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Kuala Besut",
+    "region": "Terengganu",
+    "lat": 5.833,
+    "lon": 102.5506,
+    "population": 18522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Ayer Keroh",
+    "region": "Malacca",
+    "lat": 2.2654,
+    "lon": 102.2801,
+    "population": 18459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayer Hangat",
+    "region": "Kedah",
+    "lat": 6.4206,
+    "lon": 99.822,
+    "population": 18384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kepala Batas",
+    "region": "Penang",
+    "lat": 5.5171,
+    "lon": 100.4265,
+    "population": 17808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simpang Empat",
+    "region": "Perak",
+    "lat": 4.95,
+    "lon": 100.6333,
+    "population": 17436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Subang Jaya",
+    "region": "Selangor",
+    "lat": 3.0438,
+    "lon": 101.5806,
+    "population": 17145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batu Arang",
+    "region": "Selangor",
+    "lat": 3.3167,
+    "lon": 101.4667,
+    "population": 17025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parit Buntar",
+    "region": "Perak",
+    "lat": 5.1267,
+    "lon": 100.4932,
+    "population": 16942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sungai Besar",
+    "region": "Selangor",
+    "lat": 3.6746,
+    "lon": 100.9867,
+    "population": 16468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Pilah",
+    "region": "Negeri Sembilan",
+    "lat": 2.7389,
+    "lon": 102.2487,
+    "population": 16463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marang",
+    "region": "Terengganu",
+    "lat": 5.2056,
+    "lon": 103.2059,
+    "population": 16424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tasek Glugor",
+    "region": "Penang",
+    "lat": 5.4803,
+    "lon": 100.4985,
+    "population": 16400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanjung Tokong",
+    "region": "Penang",
+    "lat": 5.4606,
+    "lon": 100.3074,
+    "population": 16385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Johor Baharu",
+    "region": "Johor",
+    "lat": 1.65,
+    "lon": 103.6,
+    "population": 16358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulai",
+    "region": "Johor",
+    "lat": 1.6561,
+    "lon": 103.6032,
+    "population": 16354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alor Setar",
+    "region": "Kedah",
+    "lat": 6.121,
+    "lon": 100.3601,
+    "population": 16231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Kota Tinggi",
+    "region": "Johor",
+    "lat": 1.8167,
+    "lon": 103.9667,
+    "population": 16031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jitra",
+    "region": "Kedah",
+    "lat": 6.2681,
+    "lon": 100.4217,
+    "population": 15917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampung Batu Feringgi",
+    "region": "Penang",
+    "lat": 5.4695,
+    "lon": 100.2445,
+    "population": 15083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daerah Keluang",
+    "region": "Johor",
+    "lat": 2.2,
+    "lon": 103.3333,
+    "population": 14903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kulim",
+    "region": "Kedah",
+    "lat": 5.365,
+    "lon": 100.5618,
+    "population": 14423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johor Bahru",
+    "region": "Johor",
+    "lat": 1.4655,
+    "lon": 103.7578,
+    "population": 14301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alor Gajah",
+    "region": "Malacca",
+    "lat": 2.3804,
+    "lon": 102.2089,
+    "population": 14266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuala Sungai Baru",
+    "region": "Malacca",
+    "lat": 2.3594,
+    "lon": 102.0353,
+    "population": 14097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muar",
+    "region": "Johor",
+    "lat": 2.0442,
+    "lon": 102.5689,
+    "population": 13701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teluk Intan",
+    "region": "Perak",
+    "lat": 4.0222,
+    "lon": 101.0208,
+    "population": 13598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaah",
+    "region": "Johor",
+    "lat": 2.249,
+    "lon": 103.048,
+    "population": 13512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taiping",
+    "region": "Perak",
+    "lat": 4.85,
+    "lon": 100.7333,
+    "population": 13416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kluang",
+    "region": "Johor",
+    "lat": 2.0305,
+    "lon": 103.3169,
+    "population": 13305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulu Tiram",
+    "region": "Johor",
+    "lat": 1.6,
+    "lon": 103.8167,
+    "population": 13261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seremban",
+    "region": "Negeri Sembilan",
+    "lat": 2.7297,
+    "lon": 101.9381,
+    "population": 13252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putrajaya",
+    "region": "Putrajaya",
+    "lat": 2.9353,
+    "lon": 101.6911,
+    "population": 12893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuang",
+    "region": "Selangor",
+    "lat": 3.2594,
+    "lon": 101.5541,
+    "population": 12667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klang",
+    "region": "Selangor",
+    "lat": 3.0367,
+    "lon": 101.4433,
+    "population": 12360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bedong",
+    "region": "Kedah",
+    "lat": 5.7274,
+    "lon": 100.5088,
+    "population": 12351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bidur",
+    "region": "Perak",
+    "lat": 4.1167,
+    "lon": 101.2833,
+    "population": 12161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagan Pulau Ketam",
+    "region": "Selangor",
+    "lat": 3.0167,
+    "lon": 101.2667,
+    "population": 11775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telaga Batu",
+    "region": "Penang",
+    "lat": 5.4667,
+    "lon": 100.2333,
+    "population": 10862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taman Rajawali",
+    "region": "Sabah",
+    "lat": 5.8948,
+    "lon": 118.0458,
+    "population": 10796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Labuan",
+    "region": "Labuan",
+    "lat": 5.2803,
+    "lon": 115.2475,
+    "population": 10416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putatan",
+    "region": "Sabah",
+    "lat": 5.9258,
+    "lon": 116.0609,
+    "population": 10199,
+    "timezone": "UTC"
+  }
+]

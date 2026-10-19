@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Botro",
+    "region": "Vallée du Bandama Region",
+    "lat": 7.8525,
+    "lon": -5.3106,
+    "population": 49826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bounkani",
+    "region": "Zanzan Region",
+    "lat": 9.4784,
+    "lon": -3.3124,
+    "population": 49718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouaflé",
+    "region": "Sassandra-Marahoué District",
+    "lat": 6.9904,
+    "lon": -5.7442,
+    "population": 49477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danané",
+    "region": "Dix-Huit Montagnes",
+    "lat": 7.2596,
+    "lon": -8.155,
+    "population": 48874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakota",
+    "region": "Gôh-Djiboua District",
+    "lat": 5.8475,
+    "lon": -5.682,
+    "population": 48444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bafing",
+    "region": "Woroba District",
+    "lat": 8.4061,
+    "lon": -7.5805,
+    "population": 48128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yamoussoukro",
+    "region": "Lacs Region",
+    "lat": 6.8205,
+    "lon": -5.2767,
+    "population": 47275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouaké",
+    "region": "Vallée du Bandama Region",
+    "lat": 7.6939,
+    "lon": -5.0303,
+    "population": 47147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrah",
+    "region": "Lacs Region",
+    "lat": 6.6734,
+    "lon": -3.9694,
+    "population": 45655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Séguéla",
+    "region": "Woroba District",
+    "lat": 7.9611,
+    "lon": -6.6731,
+    "population": 44965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akoupé",
+    "region": "Lagunes region",
+    "lat": 6.3842,
+    "lon": -3.8876,
+    "population": 44877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sud-Comoé",
+    "region": "Comoé District",
+    "lat": 5.4996,
+    "lon": -3.2408,
+    "population": 44842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zuénoula",
+    "region": "Sassandra-Marahoué District",
+    "lat": 7.4303,
+    "lon": -6.0505,
+    "population": 44086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daloa",
+    "region": "Sassandra-Marahoué District",
+    "lat": 6.8773,
+    "lon": -6.4502,
+    "population": 43849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangolo",
+    "region": "Dix-Huit Montagnes",
+    "lat": 7.0123,
+    "lon": -7.4864,
+    "population": 43547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San-Pédro",
+    "region": "Bas-Sassandra District",
+    "lat": 4.7677,
+    "lon": -6.6503,
+    "population": 42849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hambol",
+    "region": "Vallée du Bandama Region",
+    "lat": 8.3037,
+    "lon": -5.154,
+    "population": 41431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Béré",
+    "region": "Woroba District",
+    "lat": 8.1895,
+    "lon": -6.1716,
+    "population": 41195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gbôklé",
+    "region": "Bas-Sassandra District",
+    "lat": 4.9571,
+    "lon": -6.0937,
+    "population": 40342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toumodi",
+    "region": "Lacs Region",
+    "lat": 6.558,
+    "lon": -5.0177,
+    "population": 40222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mankono",
+    "region": "Woroba District",
+    "lat": 8.0586,
+    "lon": -6.1897,
+    "population": 40093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bongouanou",
+    "region": "Lacs Region",
+    "lat": 6.6517,
+    "lon": -4.2041,
+    "population": 39980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guémon",
+    "region": "Dix-Huit Montagnes",
+    "lat": 7.093,
+    "lon": -7.1779,
+    "population": 37089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabou",
+    "region": "Bas-Sassandra District",
+    "lat": 4.423,
+    "lon": -7.3528,
+    "population": 36606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonoua",
+    "region": "Comoé District",
+    "lat": 5.2725,
+    "lon": -3.5962,
+    "population": 36185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiassalé",
+    "region": "Lagunes region",
+    "lat": 5.8984,
+    "lon": -4.8229,
+    "population": 35719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lôh-Djiboua",
+    "region": "Gôh-Djiboua District",
+    "lat": 5.8248,
+    "lon": -5.4767,
+    "population": 35342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daoukro",
+    "region": "Lacs Region",
+    "lat": 7.0591,
+    "lon": -3.9631,
+    "population": 35156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanda",
+    "region": "Zanzan Region",
+    "lat": 7.8034,
+    "lon": -3.1683,
+    "population": 35110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Touba",
+    "region": "Woroba District",
+    "lat": 8.2833,
+    "lon": -7.6833,
+    "population": 34529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abobo",
+    "region": "Abidjan",
+    "lat": 5.4161,
+    "lon": -4.0159,
+    "population": 34327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abidjan",
+    "region": "Abidjan",
+    "lat": 5.3097,
+    "lon": -4.0127,
+    "population": 34026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duekoué",
+    "region": "Dix-Huit Montagnes",
+    "lat": 6.742,
+    "lon": -7.3492,
+    "population": 32530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marahoué",
+    "region": "Sassandra-Marahoué District",
+    "lat": 7.0325,
+    "lon": -5.8022,
+    "population": 31638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biankouma",
+    "region": "Dix-Huit Montagnes",
+    "lat": 7.7391,
+    "lon": -7.6138,
+    "population": 31468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agnibilékrou",
+    "region": "Comoé District",
+    "lat": 7.1311,
+    "lon": -3.2041,
+    "population": 31391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Issia",
+    "region": "Sassandra-Marahoué District",
+    "lat": 6.4922,
+    "lon": -6.5856,
+    "population": 31082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grands-Ponts",
+    "region": "Lagunes region",
+    "lat": 5.3049,
+    "lon": -4.3925,
+    "population": 30879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haut-Sassandra",
+    "region": "Sassandra-Marahoué District",
+    "lat": 6.6696,
+    "lon": -6.5012,
+    "population": 29987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sassandra",
+    "region": "Bas-Sassandra District",
+    "lat": 4.9538,
+    "lon": -6.0853,
+    "population": 29515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonkpi",
+    "region": "Dix-Huit Montagnes",
+    "lat": 7.5678,
+    "lon": -7.6094,
+    "population": 28621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakassou",
+    "region": "Vallée du Bandama Region",
+    "lat": 7.4546,
+    "lon": -5.2926,
+    "population": 28532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Divo",
+    "region": "Gôh-Djiboua District",
+    "lat": 5.8374,
+    "lon": -5.3572,
+    "population": 28426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Béoumi",
+    "region": "Vallée du Bandama Region",
+    "lat": 7.6739,
+    "lon": -5.5808,
+    "population": 28173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aboisso",
+    "region": "Comoé District",
+    "lat": 5.4678,
+    "lon": -3.2071,
+    "population": 27989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anyama",
+    "region": "Abidjan",
+    "lat": 5.4946,
+    "lon": -4.0518,
+    "population": 27051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dimbokro",
+    "region": "Lacs Region",
+    "lat": 6.6468,
+    "lon": -4.7052,
+    "population": 26838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guibéroua",
+    "region": "Gôh-Djiboua District",
+    "lat": 6.2387,
+    "lon": -6.1715,
+    "population": 26186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabou",
+    "region": "Lagunes region",
+    "lat": 5.3256,
+    "lon": -4.3769,
+    "population": 25477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabakala",
+    "region": "Vallée du Bandama Region",
+    "lat": 8.3632,
+    "lon": -4.4286,
+    "population": 25442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iffou",
+    "region": "Lacs Region",
+    "lat": 7.1151,
+    "lon": -3.9503,
+    "population": 25029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agboville",
+    "region": "Lagunes region",
+    "lat": 5.928,
+    "lon": -4.2132,
+    "population": 24395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Folon",
+    "region": "Denguélé District",
+    "lat": 9.8124,
+    "lon": -7.5189,
+    "population": 24082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agnéby-Tiassa",
+    "region": "Lagunes region",
+    "lat": 5.7949,
+    "lon": -4.3719,
+    "population": 23710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bélier",
+    "region": "Lacs Region",
+    "lat": 7.0258,
+    "lon": -5.0674,
+    "population": 23705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "N'Zi",
+    "region": "Lacs Region",
+    "lat": 6.828,
+    "lon": -4.5813,
+    "population": 22913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sinfra",
+    "region": "Zanzan Region",
+    "lat": 6.621,
+    "lon": -5.9114,
+    "population": 22495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand-Bassam",
+    "region": "Comoé District",
+    "lat": 5.2118,
+    "lon": -3.7388,
+    "population": 21922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toulépleu Gueré",
+    "region": "Dix-Huit Montagnes",
+    "lat": 6.5739,
+    "lon": -8.4259,
+    "population": 21746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayamé",
+    "region": "Comoé District",
+    "lat": 5.6052,
+    "lon": -3.1571,
+    "population": 20474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vavoua",
+    "region": "Sassandra-Marahoué District",
+    "lat": 7.3819,
+    "lon": -6.4778,
+    "population": 20182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gagnoa",
+    "region": "Gôh-Djiboua District",
+    "lat": 6.1319,
+    "lon": -5.9506,
+    "population": 19523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gontougo",
+    "region": "Zanzan Region",
+    "lat": 7.8713,
+    "lon": -3.0707,
+    "population": 19248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nawa",
+    "region": "Bas-Sassandra District",
+    "lat": 5.8011,
+    "lon": -6.6031,
+    "population": 18160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bondoukou",
+    "region": "Zanzan Region",
+    "lat": 8.0402,
+    "lon": -2.8,
+    "population": 17873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gbêkê",
+    "region": "Vallée du Bandama Region",
+    "lat": 7.7027,
+    "lon": -5.2851,
+    "population": 17861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adiaké",
+    "region": "Comoé District",
+    "lat": 5.2863,
+    "lon": -3.304,
+    "population": 17560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cavally",
+    "region": "Dix-Huit Montagnes",
+    "lat": 6.5634,
+    "lon": -7.9253,
+    "population": 17418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grand-Lahou",
+    "region": "Lagunes region",
+    "lat": 5.2507,
+    "lon": -5.0033,
+    "population": 17244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odienné",
+    "region": "Denguélé District",
+    "lat": 9.5051,
+    "lon": -7.5643,
+    "population": 16995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bingerville",
+    "region": "Abidjan",
+    "lat": 5.3558,
+    "lon": -3.8854,
+    "population": 16744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abengourou",
+    "region": "Comoé District",
+    "lat": 6.7297,
+    "lon": -3.4964,
+    "population": 15915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adzopé",
+    "region": "Lagunes region",
+    "lat": 6.1069,
+    "lon": -3.8619,
+    "population": 15563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabadougou",
+    "region": "Denguélé District",
+    "lat": 9.6057,
+    "lon": -7.4377,
+    "population": 15057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Worodougou",
+    "region": "Woroba District",
+    "lat": 8.1648,
+    "lon": -6.6659,
+    "population": 13797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Man",
+    "region": "Dix-Huit Montagnes",
+    "lat": 7.4125,
+    "lon": -7.5538,
+    "population": 13432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gôh",
+    "region": "Gôh-Djiboua District",
+    "lat": 6.1446,
+    "lon": -5.9264,
+    "population": 13332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guiglo",
+    "region": "Dix-Huit Montagnes",
+    "lat": 6.5437,
+    "lon": -7.4935,
+    "population": 13160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oumé",
+    "region": "Gôh-Djiboua District",
+    "lat": 6.3831,
+    "lon": -5.4176,
+    "population": 12541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moronou",
+    "region": "Lacs Region",
+    "lat": 6.6683,
+    "lon": -4.1315,
+    "population": 12172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katiola",
+    "region": "Vallée du Bandama Region",
+    "lat": 8.1373,
+    "lon": -5.101,
+    "population": 11964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Indénié-Djuablin",
+    "region": "Comoé District",
+    "lat": 6.7443,
+    "lon": -3.494,
+    "population": 11256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouna",
+    "region": "Zanzan Region",
+    "lat": 9.2693,
+    "lon": -2.9951,
+    "population": 11080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bocanda",
+    "region": "Lacs Region",
+    "lat": 7.0626,
+    "lon": -4.4995,
+    "population": 10766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Affery",
+    "region": "Lagunes region",
+    "lat": 6.3204,
+    "lon": -3.9524,
+    "population": 10309,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "Wiwilí",
+    "region": "Nueva Segovia",
+    "lat": 13.6208,
+    "lon": -85.8317,
+    "population": 49578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Dionisio",
+    "region": "Matagalpa",
+    "lat": 12.7602,
+    "lon": -85.8502,
+    "population": 49529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nindirí",
+    "region": "Masaya",
+    "lat": 12.0039,
+    "lon": -86.1213,
+    "population": 49426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diriá",
+    "region": "Granada",
+    "lat": 11.8842,
+    "lon": -86.0551,
+    "population": 49249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Totogalpa",
+    "region": "Madriz",
+    "lat": 13.5628,
+    "lon": -86.4925,
+    "population": 49081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Oriente",
+    "region": "Masaya",
+    "lat": 11.9062,
+    "lon": -86.0734,
+    "population": 48899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granada",
+    "region": "Granada",
+    "lat": 11.9299,
+    "lon": -85.956,
+    "population": 48668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguelito",
+    "region": "Río San Juan",
+    "lat": 11.4025,
+    "lon": -84.8999,
+    "population": 48655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiquilillo",
+    "region": "Chinandega",
+    "lat": 12.7459,
+    "lon": -87.4516,
+    "population": 48469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diriamba",
+    "region": "Carazo",
+    "lat": 11.8581,
+    "lon": -86.2392,
+    "population": 48120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Juan del Sur",
+    "region": "Rivas",
+    "lat": 11.2237,
+    "lon": -85.7829,
+    "population": 47790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinotepe",
+    "region": "Carazo",
+    "lat": 11.8496,
+    "lon": -86.199,
+    "population": 47734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Trinidad",
+    "region": "Estelí",
+    "lat": 12.9688,
+    "lon": -86.2353,
+    "population": 47473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Viejo",
+    "region": "Chinandega",
+    "lat": 12.6635,
+    "lon": -87.1666,
+    "population": 47221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boaco",
+    "region": "Boaco",
+    "lat": 12.4722,
+    "lon": -85.6586,
+    "population": 47196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Juan de Oriente",
+    "region": "Masaya",
+    "lat": 11.9052,
+    "lon": -86.0746,
+    "population": 47042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Achuapa",
+    "region": "León",
+    "lat": 13.0537,
+    "lon": -86.59,
+    "population": 46931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Sabanas",
+    "region": "Madriz",
+    "lat": 13.343,
+    "lon": -86.6218,
+    "population": 46880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Morazán",
+    "region": "Chinandega",
+    "lat": 12.8504,
+    "lon": -87.1717,
+    "population": 46844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tola",
+    "region": "Rivas",
+    "lat": 11.4393,
+    "lon": -85.9389,
+    "population": 46798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Sandino",
+    "region": "Managua",
+    "lat": 12.1589,
+    "lon": -86.3442,
+    "population": 46698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Posoltega",
+    "region": "Chinandega",
+    "lat": 12.5442,
+    "lon": -86.9798,
+    "population": 45841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Tola",
+    "region": "Rivas",
+    "lat": 11.4601,
+    "lon": -86.0079,
+    "population": 45542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terrabona",
+    "region": "Matagalpa",
+    "lat": 12.7303,
+    "lon": -85.9647,
+    "population": 45372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rosario",
+    "region": "Carazo",
+    "lat": 11.7776,
+    "lon": -86.3737,
+    "population": 45336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Concordia",
+    "region": "Jinotega",
+    "lat": 13.1953,
+    "lon": -86.1666,
+    "population": 44932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Nandasmo",
+    "region": "Masaya",
+    "lat": 11.9333,
+    "lon": -86.1167,
+    "population": 44456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Rivas",
+    "lat": 11.503,
+    "lon": -85.8893,
+    "population": 44076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Almendro",
+    "region": "Río San Juan",
+    "lat": 11.6786,
+    "lon": -84.7027,
+    "population": 43530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nandasmo",
+    "region": "Masaya",
+    "lat": 11.9241,
+    "lon": -86.1207,
+    "population": 43021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "Chontales",
+    "lat": 12.2164,
+    "lon": -85.1659,
+    "population": 42898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomás",
+    "region": "Chontales",
+    "lat": 12.0694,
+    "lon": -85.0906,
+    "population": 42278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolores",
+    "region": "Carazo",
+    "lat": 11.8567,
+    "lon": -86.2155,
+    "population": 41896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masaya",
+    "region": "Masaya",
+    "lat": 11.9744,
+    "lon": -86.0942,
+    "population": 41523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuapa",
+    "region": "Chontales",
+    "lat": 12.2688,
+    "lon": -85.3821,
+    "population": 41408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siuna",
+    "region": "North Caribbean Coast",
+    "lat": 13.7332,
+    "lon": -84.7772,
+    "population": 41308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael del Sur",
+    "region": "Managua",
+    "lat": 11.8485,
+    "lon": -86.4384,
+    "population": 41281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivas",
+    "region": "Rivas",
+    "lat": 11.4372,
+    "lon": -85.8263,
+    "population": 41251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comalapa",
+    "region": "Chontales",
+    "lat": 12.2835,
+    "lon": -85.5108,
+    "population": 40910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cuá",
+    "region": "Jinotega",
+    "lat": 13.4167,
+    "lon": -85.75,
+    "population": 40868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Managua",
+    "region": "Managua",
+    "lat": 12.1328,
+    "lon": -86.2504,
+    "population": 40787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cruz de Río Grande",
+    "region": "South Caribbean Coast",
+    "lat": 13.1129,
+    "lon": -84.1859,
+    "population": 40745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía",
+    "region": "Boaco",
+    "lat": 12.5326,
+    "lon": -85.7107,
+    "population": 39729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocotal",
+    "region": "Nueva Segovia",
+    "lat": 13.6341,
+    "lon": -86.5011,
+    "population": 39697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Rivas",
+    "lat": 11.4692,
+    "lon": -85.8166,
+    "population": 38946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Sauce",
+    "region": "León",
+    "lat": 12.8869,
+    "lon": -86.539,
+    "population": 38538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "León",
+    "region": "León",
+    "lat": 12.4379,
+    "lon": -86.878,
+    "population": 38528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bluefields",
+    "region": "South Caribbean Coast",
+    "lat": 12.0137,
+    "lon": -83.7635,
+    "population": 38046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telica",
+    "region": "León",
+    "lat": 12.522,
+    "lon": -86.8594,
+    "population": 37905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Buenos Aires",
+    "region": "Rivas",
+    "lat": 11.5176,
+    "lon": -85.7833,
+    "population": 37795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Crucero",
+    "region": "Managua",
+    "lat": 11.9901,
+    "lon": -86.3095,
+    "population": 37544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masachapa",
+    "region": "Managua",
+    "lat": 11.7869,
+    "lon": -86.5142,
+    "population": 37362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morrito",
+    "region": "Río San Juan",
+    "lat": 11.6212,
+    "lon": -85.0805,
+    "population": 37206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "Estelí",
+    "lat": 13.3798,
+    "lon": -86.4808,
+    "population": 37035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Boaco",
+    "lat": 12.3783,
+    "lon": -85.6665,
+    "population": 36266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moyogalpa",
+    "region": "Rivas",
+    "lat": 11.5401,
+    "lon": -85.698,
+    "population": 35992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonanza",
+    "region": "North Caribbean Coast",
+    "lat": 14.0289,
+    "lon": -84.591,
+    "population": 35375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quezalguaque",
+    "region": "León",
+    "lat": 12.5068,
+    "lon": -86.9029,
+    "population": 34696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalapa",
+    "region": "Nueva Segovia",
+    "lat": 13.9207,
+    "lon": -86.1421,
+    "population": 34133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián de Yalí",
+    "region": "Jinotega",
+    "lat": 13.3054,
+    "lon": -86.1864,
+    "population": 34105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa del Peñón",
+    "region": "León",
+    "lat": 12.8012,
+    "lon": -86.3699,
+    "population": 33573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dipilto",
+    "region": "Nueva Segovia",
+    "lat": 13.7223,
+    "lon": -86.5137,
+    "population": 33175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catarina",
+    "region": "Masaya",
+    "lat": 11.912,
+    "lon": -86.0738,
+    "population": 33102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan del Sur",
+    "region": "Rivas",
+    "lat": 11.2529,
+    "lon": -85.8705,
+    "population": 32896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rama",
+    "region": "South Caribbean Coast",
+    "lat": 12.1596,
+    "lon": -84.2195,
+    "population": 32893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Sandino",
+    "region": "Chontales",
+    "lat": 12.0483,
+    "lon": -84.9936,
+    "population": 32779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tisma",
+    "region": "Masaya",
+    "lat": 12.0819,
+    "lon": -86.0174,
+    "population": 32254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somoto",
+    "region": "Madriz",
+    "lat": 13.4808,
+    "lon": -86.5821,
+    "population": 31700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niquinohomo",
+    "region": "Masaya",
+    "lat": 11.9052,
+    "lon": -86.0945,
+    "population": 31529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomás del Norte",
+    "region": "Chinandega",
+    "lat": 13.1861,
+    "lon": -86.9227,
+    "population": 30475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yalagüina",
+    "region": "Madriz",
+    "lat": 13.4838,
+    "lon": -86.493,
+    "population": 29597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Bocay",
+    "region": "Jinotega",
+    "lat": 13.542,
+    "lon": -85.5394,
+    "population": 28879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jorge",
+    "region": "Rivas",
+    "lat": 11.4558,
+    "lon": -85.8031,
+    "population": 28856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corn Island",
+    "region": "South Caribbean Coast",
+    "lat": 12.1758,
+    "lon": -83.0614,
+    "population": 28740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cárdenas",
+    "region": "Rivas",
+    "lat": 11.1964,
+    "lon": -85.5089,
+    "population": 28629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilalí",
+    "region": "Nueva Segovia",
+    "lat": 13.5649,
+    "lon": -86.0292,
+    "population": 28556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Chontales",
+    "lat": 12.2644,
+    "lon": -85.0824,
+    "population": 28368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Jorge",
+    "region": "Rivas",
+    "lat": 11.427,
+    "lon": -85.789,
+    "population": 27938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muelle de los Bueyes",
+    "region": "South Caribbean Coast",
+    "lat": 12.07,
+    "lon": -84.535,
+    "population": 27894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Limay",
+    "region": "Estelí",
+    "lat": 13.176,
+    "lon": -86.6123,
+    "population": 27873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael del Norte",
+    "region": "Jinotega",
+    "lat": 13.2125,
+    "lon": -86.1109,
+    "population": 27849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Teresa",
+    "region": "Carazo",
+    "lat": 11.7432,
+    "lon": -86.2141,
+    "population": 27821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fernando",
+    "region": "Nueva Segovia",
+    "lat": 13.6787,
+    "lon": -86.3208,
+    "population": 27447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tortuguero",
+    "region": "South Caribbean Coast",
+    "lat": 12.8225,
+    "lon": -84.1963,
+    "population": 27436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "LLano de La Cruz",
+    "region": "Jinotega",
+    "lat": 13.1245,
+    "lon": -86.0083,
+    "population": 27137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Condega",
+    "region": "Estelí",
+    "lat": 13.365,
+    "lon": -86.3985,
+    "population": 26847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Rivas",
+    "region": "Rivas",
+    "lat": 11.4393,
+    "lon": -85.827,
+    "population": 26665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ticuantepe",
+    "region": "Managua",
+    "lat": 12.0226,
+    "lon": -86.2049,
+    "population": 26658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estelí",
+    "region": "Estelí",
+    "lat": 13.0919,
+    "lon": -86.3538,
+    "population": 26065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Masatepe",
+    "region": "Masaya",
+    "lat": 11.9057,
+    "lon": -86.1495,
+    "population": 25992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagarote",
+    "region": "León",
+    "lat": 12.2659,
+    "lon": -86.5647,
+    "population": 25359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Altagracia",
+    "region": "Rivas",
+    "lat": 11.4798,
+    "lon": -85.5417,
+    "population": 25035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Belén",
+    "region": "Rivas",
+    "lat": 11.5719,
+    "lon": -85.9632,
+    "population": 24825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valle San Francisco",
+    "region": "Managua",
+    "lat": 12.5167,
+    "lon": -86.2833,
+    "population": 24411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Niquinohomo",
+    "region": "Masaya",
+    "lat": 11.8823,
+    "lon": -86.1004,
+    "population": 24025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diriomo",
+    "region": "Granada",
+    "lat": 11.8763,
+    "lon": -86.0518,
+    "population": 23904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muy Muy",
+    "region": "Matagalpa",
+    "lat": 12.7622,
+    "lon": -85.6291,
+    "population": 23440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Realejo",
+    "region": "Chinandega",
+    "lat": 12.5433,
+    "lon": -87.1652,
+    "population": 23391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waspán",
+    "region": "North Caribbean Coast",
+    "lat": 14.7419,
+    "lon": -83.9717,
+    "population": 23354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinandega",
+    "region": "Chinandega",
+    "lat": 12.6294,
+    "lon": -87.1311,
+    "population": 23256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Jicaral",
+    "region": "León",
+    "lat": 12.7268,
+    "lon": -86.3806,
+    "population": 23165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Conquista",
+    "region": "Carazo",
+    "lat": 11.7343,
+    "lon": -86.1928,
+    "population": 22981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camoapa",
+    "region": "Boaco",
+    "lat": 12.3838,
+    "lon": -85.5128,
+    "population": 22697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Praderas",
+    "region": "Jinotega",
+    "lat": 13.17,
+    "lon": -85.85,
+    "population": 22690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Río San Juan",
+    "lat": 11.1236,
+    "lon": -84.778,
+    "population": 22682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juigalpa",
+    "region": "Chontales",
+    "lat": 12.1063,
+    "lon": -85.3645,
+    "population": 22655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palacagüina",
+    "region": "Madriz",
+    "lat": 13.4557,
+    "lon": -86.4062,
+    "population": 22641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matiguás",
+    "region": "Matagalpa",
+    "lat": 12.8373,
+    "lon": -85.4622,
+    "population": 22373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Telpaneca",
+    "region": "Madriz",
+    "lat": 13.5315,
+    "lon": -86.2871,
+    "population": 21960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corinto",
+    "region": "Chinandega",
+    "lat": 12.4825,
+    "lon": -87.173,
+    "population": 21148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa El Carmen",
+    "region": "Managua",
+    "lat": 11.9801,
+    "lon": -86.5057,
+    "population": 21119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Jícaro",
+    "region": "Nueva Segovia",
+    "lat": 13.7222,
+    "lon": -86.1412,
+    "population": 21103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matagalpa",
+    "region": "Matagalpa",
+    "lat": 12.9256,
+    "lon": -85.9175,
+    "population": 21055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prinzapolka",
+    "region": "North Caribbean Coast",
+    "lat": 13.4071,
+    "lon": -83.5645,
+    "population": 20749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz de Carazo",
+    "region": "Carazo",
+    "lat": 11.8231,
+    "lon": -86.1278,
+    "population": 20495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macuelizo",
+    "region": "Nueva Segovia",
+    "lat": 13.6519,
+    "lon": -86.6143,
+    "population": 20267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potosí",
+    "region": "Rivas",
+    "lat": 11.4942,
+    "lon": -85.8568,
+    "population": 19917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masatepe",
+    "region": "Masaya",
+    "lat": 11.9145,
+    "lon": -86.1446,
+    "population": 19542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Potosí",
+    "region": "Rivas",
+    "lat": 11.5785,
+    "lon": -85.8776,
+    "population": 19501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Greytown",
+    "region": "Río San Juan",
+    "lat": 10.9468,
+    "lon": -83.7347,
+    "population": 19231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acoyapa",
+    "region": "Chontales",
+    "lat": 11.9703,
+    "lon": -85.1711,
+    "population": 17564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Marcos",
+    "region": "Carazo",
+    "lat": 11.9178,
+    "lon": -86.2747,
+    "population": 17347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waslala",
+    "region": "North Caribbean Coast",
+    "lat": 13.2333,
+    "lon": -85.3833,
+    "population": 17079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Murra",
+    "region": "Nueva Segovia",
+    "lat": 13.7593,
+    "lon": -86.022,
+    "population": 17025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nandaime",
+    "region": "Granada",
+    "lat": 11.757,
+    "lon": -86.0529,
+    "population": 16851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ramón",
+    "region": "Matagalpa",
+    "lat": 12.9234,
+    "lon": -85.839,
+    "population": 16706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Paz Centro",
+    "region": "León",
+    "lat": 12.34,
+    "lon": -86.6753,
+    "population": 16658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bocana de Paiwas",
+    "region": "South Caribbean Coast",
+    "lat": 12.7857,
+    "lon": -85.1227,
+    "population": 16583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Cusmapa",
+    "region": "Madriz",
+    "lat": 13.2884,
+    "lon": -86.6554,
+    "population": 16474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Río Coco",
+    "region": "Madriz",
+    "lat": 13.5448,
+    "lon": -86.165,
+    "population": 16223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mozonte",
+    "region": "Nueva Segovia",
+    "lat": 13.6596,
+    "lon": -86.4454,
+    "population": 16200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Guinea",
+    "region": "South Caribbean Coast",
+    "lat": 11.6876,
+    "lon": -84.4562,
+    "population": 16120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Francisco del Norte",
+    "region": "Chinandega",
+    "lat": 13.2119,
+    "lon": -86.7711,
+    "population": 16096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Cabezas",
+    "region": "North Caribbean Coast",
+    "lat": 14.0351,
+    "lon": -83.3888,
+    "population": 15555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Darío",
+    "region": "Matagalpa",
+    "lat": 12.7314,
+    "lon": -86.124,
+    "population": 15242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tipitapa",
+    "region": "Managua",
+    "lat": 12.1973,
+    "lon": -86.0971,
+    "population": 15102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lucas",
+    "region": "Madriz",
+    "lat": 13.4138,
+    "lon": -86.6111,
+    "population": 14908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larreynaga",
+    "region": "León",
+    "lat": 12.6769,
+    "lon": -86.5719,
+    "population": 14807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna de Perlas",
+    "region": "South Caribbean Coast",
+    "lat": 12.3429,
+    "lon": -83.6712,
+    "population": 14377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teustepe",
+    "region": "Boaco",
+    "lat": 12.4203,
+    "lon": -85.798,
+    "population": 14153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kukrahill",
+    "region": "South Caribbean Coast",
+    "lat": 12.241,
+    "lon": -83.7452,
+    "population": 14129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Concepción",
+    "region": "Masaya",
+    "lat": 11.9371,
+    "lon": -86.1898,
+    "population": 14091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Moyogalpa",
+    "region": "Rivas",
+    "lat": 11.5263,
+    "lon": -85.6733,
+    "population": 13715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Cárdenas",
+    "region": "Rivas",
+    "lat": 11.1491,
+    "lon": -85.4232,
+    "population": 13635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Antigua",
+    "region": "Nueva Segovia",
+    "lat": 13.6393,
+    "lon": -86.3119,
+    "population": 13518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Ayote",
+    "region": "Chontales",
+    "lat": 12.1905,
+    "lon": -85.2874,
+    "population": 12738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinotega",
+    "region": "Jinotega",
+    "lat": 13.091,
+    "lon": -86.0023,
+    "population": 12552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de los Remates",
+    "region": "Boaco",
+    "lat": 12.5975,
+    "lon": -85.7617,
+    "population": 12482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cinco Pinos",
+    "region": "Chinandega",
+    "lat": 13.2296,
+    "lon": -86.8681,
+    "population": 12270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Blanco",
+    "region": "Matagalpa",
+    "lat": 12.9344,
+    "lon": -85.2235,
+    "population": 11883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altagracia",
+    "region": "Rivas",
+    "lat": 11.5662,
+    "lon": -85.5784,
+    "population": 11167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chichigalpa",
+    "region": "Chinandega",
+    "lat": 12.5776,
+    "lon": -87.0271,
+    "population": 10970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos",
+    "region": "Carazo",
+    "lat": 11.9095,
+    "lon": -86.2035,
+    "population": 10926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Nueva Segovia",
+    "lat": 13.7467,
+    "lon": -86.7112,
+    "population": 10526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somotillo",
+    "region": "Chinandega",
+    "lat": 13.0439,
+    "lon": -86.9051,
+    "population": 10161,
+    "timezone": "UTC"
+  }
+]

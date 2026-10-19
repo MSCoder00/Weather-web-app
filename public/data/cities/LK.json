@@ -1,0 +1,1178 @@
+[
+  {
+    "name": "Kotikawatta",
+    "region": "Western Province",
+    "lat": 6.9269,
+    "lon": 79.9095,
+    "population": 49355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horawala Junction",
+    "region": "Western Province",
+    "lat": 6.4809,
+    "lon": 80.1271,
+    "population": 49334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colombo District",
+    "region": "Western Province",
+    "lat": 6.8664,
+    "lon": 80.0166,
+    "population": 49078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaffna District",
+    "region": "Northern Province",
+    "lat": 9.75,
+    "lon": 80.0833,
+    "population": 48779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padukka",
+    "region": "Colombo District",
+    "lat": 6.8479,
+    "lon": 80.1015,
+    "population": 48244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wellawaya",
+    "region": "Uva Province",
+    "lat": 6.7369,
+    "lon": 81.1028,
+    "population": 47541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilinochchi District",
+    "region": "Northern Province",
+    "lat": 9.3949,
+    "lon": 80.4089,
+    "population": 47097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuliyapitiya",
+    "region": "North Western Province",
+    "lat": 7.4688,
+    "lon": 80.0401,
+    "population": 46893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wattala",
+    "region": "Western Province",
+    "lat": 6.9892,
+    "lon": 79.8917,
+    "population": 46699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ampara District",
+    "region": "Eastern Province",
+    "lat": 7.0833,
+    "lon": 81.75,
+    "population": 45787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaduwela",
+    "region": "Colombo District",
+    "lat": 6.9311,
+    "lon": 79.9794,
+    "population": 45755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galle District",
+    "region": "Southern Province",
+    "lat": 6.25,
+    "lon": 80.25,
+    "population": 45691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galle",
+    "region": "Southern Province",
+    "lat": 6.0461,
+    "lon": 80.2103,
+    "population": 45639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maharagama",
+    "region": "Colombo District",
+    "lat": 6.8495,
+    "lon": 79.9251,
+    "population": 45521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ella Town",
+    "region": "Uva Province",
+    "lat": 6.8756,
+    "lon": 81.0463,
+    "population": 45081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pathahewaheta",
+    "region": "Kandy District",
+    "lat": 7.2314,
+    "lon": 80.7085,
+    "population": 44612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Udunuwara",
+    "region": "Kandy District",
+    "lat": 7.2278,
+    "lon": 80.5589,
+    "population": 44241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poojapitiya",
+    "region": "Kandy District",
+    "lat": 7.3809,
+    "lon": 80.5891,
+    "population": 43755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gampola",
+    "region": "Kandy District",
+    "lat": 7.1643,
+    "lon": 80.5696,
+    "population": 43633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negombo",
+    "region": "Western Province",
+    "lat": 7.2083,
+    "lon": 79.8358,
+    "population": 43424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilinochchi",
+    "region": "Northern Province",
+    "lat": 9.3961,
+    "lon": 80.3982,
+    "population": 43419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolonnawa",
+    "region": "Colombo District",
+    "lat": 6.9289,
+    "lon": 79.895,
+    "population": 43286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandy",
+    "region": "Central Province",
+    "lat": 7.2906,
+    "lon": 80.6336,
+    "population": 43239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Battaramulla South",
+    "region": "Western Province",
+    "lat": 6.8964,
+    "lon": 79.9181,
+    "population": 42658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandy District",
+    "region": "Central Province",
+    "lat": 7.3044,
+    "lon": 80.7073,
+    "population": 42148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pallekele",
+    "region": "Kandy District",
+    "lat": 7.2833,
+    "lon": 80.7,
+    "population": 41920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kegalle District",
+    "region": "Sabaragamuwa Province",
+    "lat": 7.1167,
+    "lon": 80.3333,
+    "population": 41693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vakarai",
+    "region": "Eastern Province",
+    "lat": 8.1333,
+    "lon": 81.4333,
+    "population": 41370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ratnapura District",
+    "region": "Sabaragamuwa Province",
+    "lat": 6.5831,
+    "lon": 80.5833,
+    "population": 41287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pussellawa",
+    "region": "Kandy District",
+    "lat": 7.1053,
+    "lon": 80.6367,
+    "population": 41145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalutara",
+    "region": "Western Province",
+    "lat": 6.5831,
+    "lon": 79.9593,
+    "population": 41078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trincomalee",
+    "region": "Eastern Province",
+    "lat": 8.5778,
+    "lon": 81.2289,
+    "population": 41012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mihintale",
+    "region": "North Central Province",
+    "lat": 8.3593,
+    "lon": 80.5103,
+    "population": 40647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talpe",
+    "region": "Southern Province",
+    "lat": 5.9999,
+    "lon": 80.2787,
+    "population": 40613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puttalam District",
+    "region": "North Western Province",
+    "lat": 8.0454,
+    "lon": 79.9319,
+    "population": 40404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teldeniya",
+    "region": "Kandy District",
+    "lat": 7.3,
+    "lon": 80.7667,
+    "population": 40373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doluwa",
+    "region": "Kandy District",
+    "lat": 7.1852,
+    "lon": 80.6057,
+    "population": 40351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ratmalana",
+    "region": "Colombo District",
+    "lat": 6.8211,
+    "lon": 79.8802,
+    "population": 39529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehiwala-Mount Lavinia",
+    "region": "Colombo District",
+    "lat": 6.8402,
+    "lon": 79.8712,
+    "population": 39327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panvila",
+    "region": "Kandy District",
+    "lat": 7.4093,
+    "lon": 80.7397,
+    "population": 38637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hendala",
+    "region": "Western Province",
+    "lat": 6.9909,
+    "lon": 79.883,
+    "population": 38238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colombo",
+    "region": "Western Province",
+    "lat": 6.9355,
+    "lon": 79.8487,
+    "population": 38237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hikkaduwa",
+    "region": "Southern Province",
+    "lat": 6.1407,
+    "lon": 80.1012,
+    "population": 38115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalmunai",
+    "region": "Eastern Province",
+    "lat": 7.409,
+    "lon": 81.8347,
+    "population": 37866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thimbirigasyaya",
+    "region": "Colombo District",
+    "lat": 6.9021,
+    "lon": 79.8696,
+    "population": 37806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangalle",
+    "region": "Southern Province",
+    "lat": 6.0234,
+    "lon": 80.7974,
+    "population": 37760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alawatugoda",
+    "region": "Kandy District",
+    "lat": 7.4105,
+    "lon": 80.6092,
+    "population": 37630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Udadumbara",
+    "region": "Kandy District",
+    "lat": 7.35,
+    "lon": 80.8333,
+    "population": 37529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurunegala District",
+    "region": "North Western Province",
+    "lat": 7.75,
+    "lon": 80.25,
+    "population": 37498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mulleriyawa",
+    "region": "Western Province",
+    "lat": 6.933,
+    "lon": 79.9297,
+    "population": 36827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kesbewa",
+    "region": "Colombo District",
+    "lat": 6.7843,
+    "lon": 79.9467,
+    "population": 36695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuwara Eliya",
+    "region": "Central Province",
+    "lat": 6.9708,
+    "lon": 80.7829,
+    "population": 35991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hambantota District",
+    "region": "Southern Province",
+    "lat": 6.2544,
+    "lon": 81.1111,
+    "population": 35712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yatinuwara",
+    "region": "Kandy District",
+    "lat": 7.2858,
+    "lon": 80.5352,
+    "population": 35134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambalangoda",
+    "region": "Southern Province",
+    "lat": 6.2355,
+    "lon": 80.0538,
+    "population": 35073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gampaha District",
+    "region": "Western Province",
+    "lat": 7.1333,
+    "lon": 80,
+    "population": 34825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talawakele",
+    "region": "Central Province",
+    "lat": 6.9371,
+    "lon": 80.6581,
+    "population": 33523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kataragama",
+    "region": "Uva Province",
+    "lat": 6.4134,
+    "lon": 81.3346,
+    "population": 33355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Homagama",
+    "region": "Colombo District",
+    "lat": 6.8488,
+    "lon": 80.0047,
+    "population": 33276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minuwangoda",
+    "region": "Western Province",
+    "lat": 7.1663,
+    "lon": 79.9533,
+    "population": 33273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasbage Korale",
+    "region": "Kandy District",
+    "lat": 7.0151,
+    "lon": 80.5408,
+    "population": 33130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harispattuwa",
+    "region": "Kandy District",
+    "lat": 7.3302,
+    "lon": 80.5877,
+    "population": 32518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ratnapura",
+    "region": "Sabaragamuwa Province",
+    "lat": 6.6858,
+    "lon": 80.4036,
+    "population": 32308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kurunegala",
+    "region": "North Western Province",
+    "lat": 7.4839,
+    "lon": 80.3683,
+    "population": 32271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panadura",
+    "region": "Western Province",
+    "lat": 6.7132,
+    "lon": 79.9026,
+    "population": 32094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monaragala",
+    "region": "Uva Province",
+    "lat": 6.8714,
+    "lon": 81.3487,
+    "population": 32003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batticaloa",
+    "region": "Eastern Province",
+    "lat": 7.7102,
+    "lon": 81.6924,
+    "population": 31746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katunayaka",
+    "region": "Western Province",
+    "lat": 7.1699,
+    "lon": 79.8884,
+    "population": 31689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daskara",
+    "region": "Kandy District",
+    "lat": 7.209,
+    "lon": 80.5776,
+    "population": 31570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matara District",
+    "region": "Southern Province",
+    "lat": 6.1329,
+    "lon": 80.528,
+    "population": 31074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weligama",
+    "region": "Southern Province",
+    "lat": 5.975,
+    "lon": 80.4297,
+    "population": 31023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bentota",
+    "region": "Southern Province",
+    "lat": 6.426,
+    "lon": 79.9958,
+    "population": 30635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peradeniya",
+    "region": "Kandy District",
+    "lat": 7.2667,
+    "lon": 80.6,
+    "population": 30488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaffna",
+    "region": "Northern Province",
+    "lat": 9.6684,
+    "lon": 80.0074,
+    "population": 30404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirissa city",
+    "region": "Southern Province",
+    "lat": 5.9466,
+    "lon": 80.4583,
+    "population": 30281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Welamboda",
+    "region": "Kandy District",
+    "lat": 7.2,
+    "lon": 80.55,
+    "population": 29907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matale District",
+    "region": "Central Province",
+    "lat": 7.6598,
+    "lon": 80.7073,
+    "population": 29858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandana",
+    "region": "Western Province",
+    "lat": 7.048,
+    "lon": 79.8937,
+    "population": 29722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galagedara",
+    "region": "Kandy District",
+    "lat": 7.3683,
+    "lon": 80.5275,
+    "population": 28967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Udapalatha",
+    "region": "Kandy District",
+    "lat": 7.1152,
+    "lon": 80.6025,
+    "population": 28827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sigiriya",
+    "region": "Central Province",
+    "lat": 7.9495,
+    "lon": 80.7504,
+    "population": 28741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pathadumbara",
+    "region": "Kandy District",
+    "lat": 7.3493,
+    "lon": 80.663,
+    "population": 28732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotte",
+    "region": "Colombo District",
+    "lat": 6.8893,
+    "lon": 79.9036,
+    "population": 27863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koggala",
+    "region": "Southern Province",
+    "lat": 5.9886,
+    "lon": 80.3286,
+    "population": 27654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vavuniya",
+    "region": "Northern Province",
+    "lat": 8.7514,
+    "lon": 80.4971,
+    "population": 27650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devinuwara",
+    "region": "Southern Province",
+    "lat": 5.9283,
+    "lon": 80.5888,
+    "population": 27629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anuradhapura",
+    "region": "North Central Province",
+    "lat": 8.3122,
+    "lon": 80.4131,
+    "population": 27324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minipe",
+    "region": "Kandy District",
+    "lat": 7.2264,
+    "lon": 81.0012,
+    "population": 27218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beruwala",
+    "region": "Western Province",
+    "lat": 6.4788,
+    "lon": 79.9828,
+    "population": 26380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badulla",
+    "region": "Uva Province",
+    "lat": 6.9802,
+    "lon": 81.0577,
+    "population": 26247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ududumbara",
+    "region": "Kandy District",
+    "lat": 7.3143,
+    "lon": 80.8771,
+    "population": 25440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moratuwa",
+    "region": "Colombo District",
+    "lat": 6.7815,
+    "lon": 79.8835,
+    "population": 25216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madawala",
+    "region": "Kandy District",
+    "lat": 7.3283,
+    "lon": 80.6736,
+    "population": 25154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pita Kotte",
+    "region": "Western Province",
+    "lat": 6.8905,
+    "lon": 79.9015,
+    "population": 25030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuwara Eliya District",
+    "region": "Central Province",
+    "lat": 6.9785,
+    "lon": 80.7133,
+    "population": 24953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daulagala",
+    "region": "Kandy District",
+    "lat": 7.2288,
+    "lon": 80.5776,
+    "population": 24413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horana South",
+    "region": "Western Province",
+    "lat": 6.7159,
+    "lon": 80.0626,
+    "population": 24027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kegalle",
+    "region": "Sabaragamuwa Province",
+    "lat": 7.2523,
+    "lon": 80.3436,
+    "population": 23680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Seethawaka",
+    "region": "Colombo District",
+    "lat": 6.9296,
+    "lon": 80.1498,
+    "population": 23668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delthota",
+    "region": "Kandy District",
+    "lat": 7.1849,
+    "lon": 80.7049,
+    "population": 23667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ja Ela",
+    "region": "Western Province",
+    "lat": 7.0744,
+    "lon": 79.8919,
+    "population": 23610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haputale",
+    "region": "Uva Province",
+    "lat": 6.7657,
+    "lon": 80.951,
+    "population": 23397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batticaloa District",
+    "region": "Eastern Province",
+    "lat": 7.75,
+    "lon": 81.4997,
+    "population": 22736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medadumbara",
+    "region": "Kandy District",
+    "lat": 7.3043,
+    "lon": 80.7752,
+    "population": 22568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sri Jayewardenepura Kotte",
+    "region": "Western Province",
+    "lat": 6.883,
+    "lon": 79.9071,
+    "population": 21413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chilaw",
+    "region": "North Western Province",
+    "lat": 7.5758,
+    "lon": 79.7953,
+    "population": 21269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polonnaruwa",
+    "region": "North Central Province",
+    "lat": 7.9397,
+    "lon": 81.0027,
+    "population": 21148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gampaha",
+    "region": "Western Province",
+    "lat": 7.0897,
+    "lon": 79.9925,
+    "population": 20981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilimathalawa",
+    "region": "Kandy District",
+    "lat": 7.27,
+    "lon": 80.57,
+    "population": 20843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandy Four Gravets",
+    "region": "Kandy District",
+    "lat": 7.2832,
+    "lon": 80.6353,
+    "population": 20799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanwella Ihala",
+    "region": "Western Province",
+    "lat": 6.9012,
+    "lon": 80.0852,
+    "population": 20771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polonnaruwa District",
+    "region": "North Central Province",
+    "lat": 8,
+    "lon": 81,
+    "population": 20480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nawalapitiya",
+    "region": "Kandy District",
+    "lat": 7.037,
+    "lon": 80.5163,
+    "population": 20356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelaniya",
+    "region": "Western Province",
+    "lat": 6.9553,
+    "lon": 79.922,
+    "population": 20087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dambulla",
+    "region": "Central Province",
+    "lat": 7.86,
+    "lon": 80.6517,
+    "population": 19010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Welisara",
+    "region": "Western Province",
+    "lat": 7.0281,
+    "lon": 79.9014,
+    "population": 18885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moneragala District",
+    "region": "Uva Province",
+    "lat": 6.6667,
+    "lon": 81.3333,
+    "population": 18842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vavuniya District",
+    "region": "Northern Province",
+    "lat": 8.8613,
+    "lon": 80.4758,
+    "population": 18686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganga Ihala Korale",
+    "region": "Kandy District",
+    "lat": 7.1146,
+    "lon": 80.5145,
+    "population": 18593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thumpane",
+    "region": "Kandy District",
+    "lat": 7.3662,
+    "lon": 80.5159,
+    "population": 17857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wattegama",
+    "region": "Kandy District",
+    "lat": 7.3503,
+    "lon": 80.6825,
+    "population": 17573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akurana",
+    "region": "Kandy District",
+    "lat": 7.365,
+    "lon": 80.6172,
+    "population": 17436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Point Pedro",
+    "region": "Northern Province",
+    "lat": 9.8167,
+    "lon": 80.2333,
+    "population": 17246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puttalam",
+    "region": "North Western Province",
+    "lat": 8.0362,
+    "lon": 79.8283,
+    "population": 17083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hapugastalawa",
+    "region": "Kandy District",
+    "lat": 7.0587,
+    "lon": 80.5714,
+    "population": 17067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menikdiwela",
+    "region": "Kandy District",
+    "lat": 7.0833,
+    "lon": 80.7333,
+    "population": 17003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanguranketa",
+    "region": "Kandy District",
+    "lat": 7.1667,
+    "lon": 80.7833,
+    "population": 16596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulapane",
+    "region": "Kandy District",
+    "lat": 7.1028,
+    "lon": 80.5611,
+    "population": 16205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matara",
+    "region": "Southern Province",
+    "lat": 5.9485,
+    "lon": 80.5353,
+    "population": 16195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galhinna",
+    "region": "Kandy District",
+    "lat": 7.4161,
+    "lon": 80.5688,
+    "population": 15766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambatenna",
+    "region": "Kandy District",
+    "lat": 7.3525,
+    "lon": 80.6138,
+    "population": 15630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kundasale",
+    "region": "Kandy District",
+    "lat": 7.3039,
+    "lon": 80.7123,
+    "population": 15270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadugannawa",
+    "region": "Kandy District",
+    "lat": 7.2547,
+    "lon": 80.5242,
+    "population": 14981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unawatuna",
+    "region": "Southern Province",
+    "lat": 6.0212,
+    "lon": 80.2503,
+    "population": 14625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katugastota",
+    "region": "Kandy District",
+    "lat": 7.3333,
+    "lon": 80.6167,
+    "population": 14239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matale",
+    "region": "Central Province",
+    "lat": 7.4698,
+    "lon": 80.6217,
+    "population": 13611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anuradhapura District",
+    "region": "North Central Province",
+    "lat": 8.3333,
+    "lon": 80.5,
+    "population": 13235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talatuoya",
+    "region": "Kandy District",
+    "lat": 7.25,
+    "lon": 80.6833,
+    "population": 12920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peliyagoda",
+    "region": "Western Province",
+    "lat": 6.9685,
+    "lon": 79.8836,
+    "population": 12374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatharaliyadda",
+    "region": "Kandy District",
+    "lat": 7.3303,
+    "lon": 80.4788,
+    "population": 12328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trincomalee District",
+    "region": "Eastern Province",
+    "lat": 8.5833,
+    "lon": 81.0833,
+    "population": 11976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eravur Town",
+    "region": "Eastern Province",
+    "lat": 7.7782,
+    "lon": 81.6038,
+    "population": 11455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ampara",
+    "region": "Eastern Province",
+    "lat": 7.2975,
+    "lon": 81.682,
+    "population": 11203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Watadeniya",
+    "region": "Kandy District",
+    "lat": 7.195,
+    "lon": 80.5525,
+    "population": 11154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatton",
+    "region": "Central Province",
+    "lat": 6.8916,
+    "lon": 80.5955,
+    "population": 10962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badulla District",
+    "region": "Uva Province",
+    "lat": 6.9847,
+    "lon": 81.0564,
+    "population": 10334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valvedditturai",
+    "region": "Northern Province",
+    "lat": 9.8167,
+    "lon": 80.1667,
+    "population": 10142,
+    "timezone": "UTC"
+  }
+]

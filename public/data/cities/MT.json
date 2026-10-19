@@ -1,0 +1,546 @@
+[
+  {
+    "name": "Haz-Zebbug",
+    "region": "Żebbuġ Gozo",
+    "lat": 35.8719,
+    "lon": 14.4411,
+    "population": 49890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siġġiewi",
+    "region": "Siġġiewi",
+    "lat": 35.8556,
+    "lon": 14.4364,
+    "population": 49192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paola",
+    "region": "Paola",
+    "lat": 35.8731,
+    "lon": 14.4989,
+    "population": 49178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "L-Iklin",
+    "region": "Iklin",
+    "lat": 35.9041,
+    "lon": 14.4542,
+    "population": 48551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hal Gharghur",
+    "region": "Għajnsielem",
+    "lat": 35.9241,
+    "lon": 14.4512,
+    "population": 47163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Żabbar",
+    "region": "Żabbar",
+    "lat": 35.8761,
+    "lon": 14.535,
+    "population": 46413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalkara",
+    "region": "Marsa",
+    "lat": 35.8892,
+    "lon": 14.5328,
+    "population": 46345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nadur",
+    "region": "Nadur",
+    "lat": 36.0378,
+    "lon": 14.2942,
+    "population": 46240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valletta",
+    "region": "Valletta",
+    "lat": 35.8997,
+    "lon": 14.5147,
+    "population": 46028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabat",
+    "region": "Victoria",
+    "lat": 35.8815,
+    "lon": 14.3987,
+    "population": 45979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Luċija",
+    "region": "St. Paul's Bay",
+    "lat": 35.8628,
+    "lon": 14.5075,
+    "population": 43889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senglea",
+    "region": "Luqa",
+    "lat": 35.8875,
+    "lon": 14.5169,
+    "population": 43349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imsida",
+    "region": "Kirkop",
+    "lat": 35.8925,
+    "lon": 14.4828,
+    "population": 43144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Żejtun",
+    "region": "Żejtun",
+    "lat": 35.8558,
+    "lon": 14.5331,
+    "population": 42786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Attard",
+    "region": "Attard",
+    "lat": 35.8897,
+    "lon": 14.4425,
+    "population": 42564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pembroke",
+    "region": "Pembroke",
+    "lat": 35.9306,
+    "lon": 14.4764,
+    "population": 42407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint John",
+    "region": "St. Julian's",
+    "lat": 35.9056,
+    "lon": 14.4761,
+    "population": 38698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gudja",
+    "region": "Għasri",
+    "lat": 35.8492,
+    "lon": 14.5031,
+    "population": 38046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swieqi",
+    "region": "Swieqi",
+    "lat": 35.9225,
+    "lon": 14.48,
+    "population": 36867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ta’ Xbiex",
+    "region": "Ta' Xbiex",
+    "lat": 35.8992,
+    "lon": 14.4944,
+    "population": 36145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pietà",
+    "region": "Pietà",
+    "lat": 35.8947,
+    "lon": 14.495,
+    "population": 35520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vittoriosa",
+    "region": "Birgu",
+    "lat": 35.8922,
+    "lon": 14.5183,
+    "population": 34045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingli",
+    "region": "Dingli",
+    "lat": 35.8614,
+    "lon": 14.3822,
+    "population": 33693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marsaxlokk",
+    "region": "Marsaxlokk",
+    "lat": 35.8419,
+    "lon": 14.5431,
+    "population": 33303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lija",
+    "region": "Lija",
+    "lat": 35.9006,
+    "lon": 14.4464,
+    "population": 33133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lawrenz",
+    "region": "Saint Lawrence",
+    "lat": 36.0556,
+    "lon": 14.2036,
+    "population": 32913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Għaxaq",
+    "region": "Għargħur",
+    "lat": 35.8489,
+    "lon": 14.5167,
+    "population": 32858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerċem",
+    "region": "Marsaskala",
+    "lat": 36.0419,
+    "lon": 14.2267,
+    "population": 31776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gżira",
+    "region": "Għaxaq",
+    "lat": 35.9058,
+    "lon": 14.4881,
+    "population": 31319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sliema",
+    "region": "Sliema",
+    "lat": 35.9125,
+    "lon": 14.5019,
+    "population": 30875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imdina",
+    "region": "Senglea",
+    "lat": 35.8869,
+    "lon": 14.4025,
+    "population": 30737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munxar",
+    "region": "Munxar",
+    "lat": 36.03,
+    "lon": 14.2333,
+    "population": 29383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xewkija",
+    "region": "Xewkija",
+    "lat": 36.0328,
+    "lon": 14.2581,
+    "population": 28862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Għarb",
+    "region": "Gżira",
+    "lat": 36.06,
+    "lon": 14.2089,
+    "population": 28500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Żebbuġ",
+    "region": "Żebbuġ Malta",
+    "lat": 36.0722,
+    "lon": 14.2358,
+    "population": 27453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birżebbuġa",
+    "region": "Birżebbuġa",
+    "lat": 35.8258,
+    "lon": 14.5269,
+    "population": 25992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mġarr",
+    "region": "Kalkara",
+    "lat": 36.0253,
+    "lon": 14.295,
+    "population": 25159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fgura",
+    "region": "Fgura",
+    "lat": 35.8703,
+    "lon": 14.5133,
+    "population": 25080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naxxar",
+    "region": "Naxxar",
+    "lat": 35.9136,
+    "lon": 14.4436,
+    "population": 25068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imġarr",
+    "region": "Kalkara",
+    "lat": 35.9206,
+    "lon": 14.3664,
+    "population": 23893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qrendi",
+    "region": "Qrendi",
+    "lat": 35.8347,
+    "lon": 14.4583,
+    "population": 22367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Żurrieq",
+    "region": "Żurrieq",
+    "lat": 35.8311,
+    "lon": 14.4742,
+    "population": 22361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Għajnsielem",
+    "region": "Għajnsielem",
+    "lat": 36.0264,
+    "lon": 14.285,
+    "population": 21086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mellieħa",
+    "region": "Msida",
+    "lat": 35.9564,
+    "lon": 14.3622,
+    "population": 20477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pawl il-Baħar",
+    "region": "Sannat",
+    "lat": 35.9506,
+    "lon": 14.4156,
+    "population": 20031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xgħajra",
+    "region": "Xgħajra",
+    "lat": 35.8856,
+    "lon": 14.5475,
+    "population": 19992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marsaskala",
+    "region": "Marsaskala",
+    "lat": 35.8622,
+    "lon": 14.567,
+    "population": 19911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sannat",
+    "region": "Sannat",
+    "lat": 36.0244,
+    "lon": 14.2428,
+    "population": 18609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ġiljan",
+    "region": "San Ġwann",
+    "lat": 35.9184,
+    "lon": 14.4898,
+    "population": 18593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balzan",
+    "region": "Balzan",
+    "lat": 35.9003,
+    "lon": 14.455,
+    "population": 18461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birkirkara",
+    "region": "Birkirkara",
+    "lat": 35.8972,
+    "lon": 14.4611,
+    "population": 18280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "Victoria",
+    "lat": 36.0444,
+    "lon": 14.2397,
+    "population": 17521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Imtarfa",
+    "region": "Lija",
+    "lat": 35.8933,
+    "lon": 14.3989,
+    "population": 16874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosta",
+    "region": "St. Paul's Bay",
+    "lat": 35.9092,
+    "lon": 14.4256,
+    "population": 16577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luqa",
+    "region": "Luqa",
+    "lat": 35.8589,
+    "lon": 14.4886,
+    "population": 15383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mqabba",
+    "region": "Kerċem",
+    "lat": 35.8476,
+    "lon": 14.4682,
+    "population": 15226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qala",
+    "region": "Qala",
+    "lat": 36.0361,
+    "lon": 14.3094,
+    "population": 14833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qormi",
+    "region": "Qormi",
+    "lat": 35.876,
+    "lon": 14.472,
+    "population": 14468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Venera",
+    "region": "Santa Luċija",
+    "lat": 35.8908,
+    "lon": 14.4742,
+    "population": 14305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saint Lucia",
+    "region": "St. Paul's Bay",
+    "lat": 36.0431,
+    "lon": 14.2172,
+    "population": 13885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarxien",
+    "region": "Tarxien",
+    "lat": 35.8658,
+    "lon": 14.515,
+    "population": 13819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fontana",
+    "region": "Fontana",
+    "lat": 36.0375,
+    "lon": 14.2361,
+    "population": 13076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ħamrun",
+    "region": "Ħamrun",
+    "lat": 35.8847,
+    "lon": 14.4844,
+    "population": 12555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marsa",
+    "region": "Mġarr",
+    "lat": 35.8792,
+    "lon": 14.4953,
+    "population": 11707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkop",
+    "region": "Kirkop",
+    "lat": 35.8422,
+    "lon": 14.4853,
+    "population": 11250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cospicua",
+    "region": "Cospicua",
+    "lat": 35.8856,
+    "lon": 14.5275,
+    "population": 11131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xagħra",
+    "region": "Xagħra",
+    "lat": 36.05,
+    "lon": 14.2644,
+    "population": 10185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Floriana",
+    "region": "Floriana",
+    "lat": 35.8958,
+    "lon": 14.5083,
+    "population": 10081,
+    "timezone": "UTC"
+  }
+]

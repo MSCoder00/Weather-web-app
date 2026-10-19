@@ -4,15 +4,18 @@
   "private": true,
   "description": "Aura Weather — Real-Time Live Weather Forecast",
   "scripts": {
-    "dev": "vite --open",
-    "start": "vite --open",
+    "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
+    "start": "serve -s dist -l tcp://0.0.0.0:$PORT"
   },
-  "devDependencies": {
+  "dependencies": {
     "country-state-city": "^3.2.1",
     "flag-icons": "^7.6.0",
-    "sharp": "^0.35.5",
+    "serve": "^14.2.4",
     "vite": "^6.2.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
   }
 }

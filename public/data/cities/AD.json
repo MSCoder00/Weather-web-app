@@ -1,0 +1,82 @@
+[
+  {
+    "name": "la Massana",
+    "region": "La Massana",
+    "lat": 42.545,
+    "lon": 1.5148,
+    "population": 46094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pas de la Casa",
+    "region": "Encamp",
+    "lat": 42.5428,
+    "lon": 1.7336,
+    "population": 31130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ordino",
+    "region": "Ordino",
+    "lat": 42.5562,
+    "lon": 1.5332,
+    "population": 30256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "les Escaldes",
+    "region": "Escaldes-Engordany",
+    "lat": 42.5073,
+    "lon": 1.5341,
+    "population": 29069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arinsal",
+    "region": "La Massana",
+    "lat": 42.572,
+    "lon": 1.4845,
+    "population": 24163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andorra la Vella",
+    "region": "Andorra la Vella",
+    "lat": 42.5078,
+    "lon": 1.5211,
+    "population": 22172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tarter",
+    "region": "Canillo",
+    "lat": 42.5795,
+    "lon": 1.6536,
+    "population": 21320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sant Julià de Lòria",
+    "region": "Sant Julià de Lòria",
+    "lat": 42.4637,
+    "lon": 1.4913,
+    "population": 13291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canillo",
+    "region": "Canillo",
+    "lat": 42.5676,
+    "lon": 1.5976,
+    "population": 12952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encamp",
+    "region": "Encamp",
+    "lat": 42.5347,
+    "lon": 1.5801,
+    "population": 10763,
+    "timezone": "UTC"
+  }
+]

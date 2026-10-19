@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Okakarara",
+    "region": "Otjozondjupa Region",
+    "lat": -20.5833,
+    "lon": 17.4333,
+    "population": 48215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omaruru",
+    "region": "Erongo Region",
+    "lat": -21.4333,
+    "lon": 15.9333,
+    "population": 46537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoachanas",
+    "region": "Hardap Region",
+    "lat": -23.9167,
+    "lon": 18.05,
+    "population": 45977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Outapi",
+    "region": "Omusati Region",
+    "lat": -17.5,
+    "lon": 14.9833,
+    "population": 44386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khorixas",
+    "region": "Kunene Region",
+    "lat": -20.3667,
+    "lon": 14.9667,
+    "population": 41028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oshakati",
+    "region": "Oshana Region",
+    "lat": -17.7883,
+    "lon": 15.7044,
+    "population": 40083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariental",
+    "region": "Hardap Region",
+    "lat": -24.6333,
+    "lon": 17.9667,
+    "population": 37798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otavi",
+    "region": "Otjozondjupa Region",
+    "lat": -19.65,
+    "lon": 17.3333,
+    "population": 37387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oshikango",
+    "region": "Ohangwena Region",
+    "lat": -17.4,
+    "lon": 15.8833,
+    "population": 35973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsumeb",
+    "region": "Oshikoto Region",
+    "lat": -19.2333,
+    "lon": 17.7167,
+    "population": 35947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bethanie",
+    "region": "Karas Region",
+    "lat": -26.4833,
+    "lon": 17.15,
+    "population": 35596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aranos",
+    "region": "Hardap Region",
+    "lat": -24.1333,
+    "lon": 19.1167,
+    "population": 35242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karasburg",
+    "region": "Karas Region",
+    "lat": -28.0167,
+    "lon": 18.75,
+    "population": 34447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Windhoek",
+    "region": "Khomas Region",
+    "lat": -22.5594,
+    "lon": 17.0832,
+    "population": 33933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arandis",
+    "region": "Erongo Region",
+    "lat": -22.4167,
+    "lon": 14.9667,
+    "population": 33716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walvis Bay",
+    "region": "Erongo Region",
+    "lat": -22.9575,
+    "lon": 14.5053,
+    "population": 33687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Epupa Constituency",
+    "region": "Kunene Region",
+    "lat": -17.0039,
+    "lon": 13.2483,
+    "population": 32484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opuwo",
+    "region": "Kunene Region",
+    "lat": -18.0607,
+    "lon": 13.84,
+    "population": 31848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keetmanshoop",
+    "region": "Karas Region",
+    "lat": -26.5833,
+    "lon": 18.1333,
+    "population": 31777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rundu",
+    "region": "Kavango East Region",
+    "lat": -17.9333,
+    "lon": 19.7667,
+    "population": 31757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ongwediva",
+    "region": "Oshana Region",
+    "lat": -17.7833,
+    "lon": 15.7667,
+    "population": 29056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opuwo Constituency",
+    "region": "Kunene Region",
+    "lat": -18.5425,
+    "lon": 13.5162,
+    "population": 28824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usakos",
+    "region": "Erongo Region",
+    "lat": -22,
+    "lon": 15.6,
+    "population": 28554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lüderitz",
+    "region": "Karas Region",
+    "lat": -26.6481,
+    "lon": 15.1538,
+    "population": 28213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katima Mulilo",
+    "region": "Zambezi Region",
+    "lat": -17.5,
+    "lon": 24.2667,
+    "population": 28130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ongandjera",
+    "region": "Omusati Region",
+    "lat": -17.8833,
+    "lon": 15.0667,
+    "population": 27681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omuthiya",
+    "region": "Oshikoto Region",
+    "lat": -18.3646,
+    "lon": 16.5815,
+    "population": 25898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tses",
+    "region": "Karas Region",
+    "lat": -25.8833,
+    "lon": 18,
+    "population": 23466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Outjo",
+    "region": "Kunene Region",
+    "lat": -20.1167,
+    "lon": 16.15,
+    "population": 21178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otjiwarongo",
+    "region": "Otjozondjupa Region",
+    "lat": -20.4637,
+    "lon": 16.6477,
+    "population": 20829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karibib",
+    "region": "Erongo Region",
+    "lat": -21.9333,
+    "lon": 15.8333,
+    "population": 20710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swakopmund Constituency",
+    "region": "Erongo Region",
+    "lat": -22.632,
+    "lon": 14.6012,
+    "population": 19982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rehoboth",
+    "region": "Hardap Region",
+    "lat": -23.317,
+    "lon": 17.09,
+    "population": 19903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katutura",
+    "region": "Khomas Region",
+    "lat": -22.5231,
+    "lon": 17.0603,
+    "population": 18731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warmbad",
+    "region": "Karas Region",
+    "lat": -28.45,
+    "lon": 18.7333,
+    "population": 16950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagani",
+    "region": "Zambezi Region",
+    "lat": -18.1106,
+    "lon": 21.6165,
+    "population": 16186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobabis",
+    "region": "Omaheke Region",
+    "lat": -22.45,
+    "lon": 18.9667,
+    "population": 16177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okahandja",
+    "region": "Otjozondjupa Region",
+    "lat": -21.9833,
+    "lon": 16.9167,
+    "population": 15307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okahao",
+    "region": "Omusati Region",
+    "lat": -17.8876,
+    "lon": 15.0668,
+    "population": 15208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Swakopmund",
+    "region": "Erongo Region",
+    "lat": -22.6784,
+    "lon": 14.5266,
+    "population": 15129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oranjemund",
+    "region": "Karas Region",
+    "lat": -28.55,
+    "lon": 16.4333,
+    "population": 14538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grootfontein",
+    "region": "Otjozondjupa Region",
+    "lat": -19.5667,
+    "lon": 18.1167,
+    "population": 14396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otjimbingwe",
+    "region": "Erongo Region",
+    "lat": -22.35,
+    "lon": 16.1333,
+    "population": 13714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maltahöhe",
+    "region": "Hardap Region",
+    "lat": -24.8333,
+    "lon": 16.9833,
+    "population": 13448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ondangwa",
+    "region": "Oshana Region",
+    "lat": -17.9167,
+    "lon": 15.95,
+    "population": 12888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sesfontein Constituency",
+    "region": "Kunene Region",
+    "lat": -19.5611,
+    "lon": 13.7653,
+    "population": 12322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khorixas Constituency",
+    "region": "Kunene Region",
+    "lat": -20.3679,
+    "lon": 14.96,
+    "population": 11885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hentiesbaai",
+    "region": "Erongo Region",
+    "lat": -22.1167,
+    "lon": 14.2833,
+    "population": 11585,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,1114 @@
+[
+  {
+    "name": "Meïganga",
+    "region": "Adamawa",
+    "lat": 6.5167,
+    "lon": 14.3,
+    "population": 49997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penja",
+    "region": "Littoral",
+    "lat": 4.6391,
+    "lon": 9.6799,
+    "population": 49951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamendjou",
+    "region": "West",
+    "lat": 5.3899,
+    "lon": 10.3301,
+    "population": 49636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okola",
+    "region": "Centre",
+    "lat": 4.0167,
+    "lon": 11.3833,
+    "population": 49091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kousséri",
+    "region": "Far North",
+    "lat": 12.0769,
+    "lon": 15.0306,
+    "population": 48777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayo-Banyo",
+    "region": "Adamawa",
+    "lat": 6.5814,
+    "lon": 11.7352,
+    "population": 48708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngoro",
+    "region": "Centre",
+    "lat": 4.95,
+    "lon": 11.3833,
+    "population": 48176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Okoa",
+    "region": "Centre",
+    "lat": 3.9833,
+    "lon": 11.6,
+    "population": 47927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamusso",
+    "region": "Southwest",
+    "lat": 4.4591,
+    "lon": 8.9027,
+    "population": 47569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ébolowa",
+    "region": "South",
+    "lat": 2.9,
+    "lon": 11.15,
+    "population": 46814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manjo",
+    "region": "Littoral",
+    "lat": 4.8428,
+    "lon": 9.8217,
+    "population": 46613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babanki",
+    "region": "Northwest",
+    "lat": 6.1167,
+    "lon": 10.25,
+    "population": 46548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kribi",
+    "region": "South",
+    "lat": 2.9373,
+    "lon": 9.9077,
+    "population": 46394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mutengene",
+    "region": "Southwest",
+    "lat": 4.0913,
+    "lon": 9.3144,
+    "population": 46305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangangté",
+    "region": "West",
+    "lat": 5.1408,
+    "lon": 10.5253,
+    "population": 46300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tcholliré",
+    "region": "North",
+    "lat": 8.4022,
+    "lon": 14.1698,
+    "population": 46135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djohong",
+    "region": "Adamawa",
+    "lat": 6.8333,
+    "lon": 14.7,
+    "population": 46130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndikiniméki",
+    "region": "Centre",
+    "lat": 4.7667,
+    "lon": 10.8333,
+    "population": 45809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bafia",
+    "region": "Centre",
+    "lat": 4.75,
+    "lon": 11.2333,
+    "population": 45756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngaoundéré",
+    "region": "Adamawa",
+    "lat": 7.3277,
+    "lon": 13.5847,
+    "population": 45719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokolo",
+    "region": "Far North",
+    "lat": 10.7424,
+    "lon": 13.8023,
+    "population": 45655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muyuka",
+    "region": "Southwest",
+    "lat": 4.2898,
+    "lon": 9.4103,
+    "population": 45242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loum",
+    "region": "Littoral",
+    "lat": 4.7182,
+    "lon": 9.7351,
+    "population": 45195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mundemba",
+    "region": "Southwest",
+    "lat": 4.9479,
+    "lon": 8.8724,
+    "population": 44012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndom",
+    "region": "Littoral",
+    "lat": 4.4978,
+    "lon": 9.5628,
+    "population": 43962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbankomo",
+    "region": "Centre",
+    "lat": 3.7833,
+    "lon": 11.3833,
+    "population": 43183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambam",
+    "region": "South",
+    "lat": 2.3833,
+    "lon": 11.2833,
+    "population": 42677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dimako",
+    "region": "East",
+    "lat": 4.3833,
+    "lon": 13.5667,
+    "population": 42594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaélé",
+    "region": "Far North",
+    "lat": 10.1092,
+    "lon": 14.4508,
+    "population": 42426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fontem",
+    "region": "Southwest",
+    "lat": 5.4685,
+    "lon": 9.8818,
+    "population": 42310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minta",
+    "region": "Centre",
+    "lat": 4.5833,
+    "lon": 12.8,
+    "population": 42117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mamfe",
+    "region": "Southwest",
+    "lat": 5.7513,
+    "lon": 9.3137,
+    "population": 41935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngou",
+    "region": "West",
+    "lat": 5.1969,
+    "lon": 10.3859,
+    "population": 41668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mme-Bafumen",
+    "region": "Northwest",
+    "lat": 6.3333,
+    "lon": 10.2333,
+    "population": 40260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayo-Louti",
+    "region": "North",
+    "lat": 9.9658,
+    "lon": 13.7274,
+    "population": 39926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangmélima",
+    "region": "South",
+    "lat": 2.9333,
+    "lon": 11.9833,
+    "population": 39736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dizangué",
+    "region": "Littoral",
+    "lat": 3.7667,
+    "lon": 9.9833,
+    "population": 39489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bazou",
+    "region": "West",
+    "lat": 5.06,
+    "lon": 10.4675,
+    "population": 39311,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ntui",
+    "region": "Centre",
+    "lat": 4.45,
+    "lon": 11.6333,
+    "population": 39068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garoua",
+    "region": "North",
+    "lat": 9.3014,
+    "lon": 13.3977,
+    "population": 38893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bansoa",
+    "region": "West",
+    "lat": 5.4484,
+    "lon": 10.3135,
+    "population": 38824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obala",
+    "region": "Centre",
+    "lat": 4.1667,
+    "lon": 11.5333,
+    "population": 38748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiko",
+    "region": "Southwest",
+    "lat": 4.075,
+    "lon": 9.36,
+    "population": 38469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayo-Rey",
+    "region": "North",
+    "lat": 8.1263,
+    "lon": 14.6146,
+    "population": 38346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boyo",
+    "region": "Northwest",
+    "lat": 6.3636,
+    "lon": 10.3554,
+    "population": 37880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batibo",
+    "region": "Northwest",
+    "lat": 5.8358,
+    "lon": 9.8553,
+    "population": 37241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanga Eboko",
+    "region": "Centre",
+    "lat": 4.6833,
+    "lon": 12.3667,
+    "population": 36903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yabassi",
+    "region": "Littoral",
+    "lat": 4.457,
+    "lon": 9.9682,
+    "population": 36892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kontcha",
+    "region": "Adamawa",
+    "lat": 7.9667,
+    "lon": 12.2333,
+    "population": 36523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melong",
+    "region": "Littoral",
+    "lat": 5.1218,
+    "lon": 9.9614,
+    "population": 34999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Essé",
+    "region": "Centre",
+    "lat": 4.1,
+    "lon": 11.9,
+    "population": 34716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diang",
+    "region": "Littoral",
+    "lat": 4.25,
+    "lon": 10.0167,
+    "population": 34495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fako Division",
+    "region": "Southwest",
+    "lat": 4.1667,
+    "lon": 9.1667,
+    "population": 34292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkongsamba",
+    "region": "Littoral",
+    "lat": 4.9547,
+    "lon": 9.9404,
+    "population": 34199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbandjok",
+    "region": "Centre",
+    "lat": 4.45,
+    "lon": 11.9,
+    "population": 34007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poli",
+    "region": "North",
+    "lat": 8.4756,
+    "lon": 13.241,
+    "population": 33879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buea",
+    "region": "Southwest",
+    "lat": 4.1534,
+    "lon": 9.2423,
+    "population": 33783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yagoua",
+    "region": "Far North",
+    "lat": 10.3411,
+    "lon": 15.2329,
+    "population": 33202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Somié",
+    "region": "Adamawa",
+    "lat": 6.4584,
+    "lon": 11.433,
+    "population": 32817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vina",
+    "region": "Adamawa",
+    "lat": 7.1636,
+    "lon": 13.7271,
+    "population": 32540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ndelele",
+    "region": "East",
+    "lat": 4.0407,
+    "lon": 14.925,
+    "population": 32093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tignère",
+    "region": "Adamawa",
+    "lat": 7.3667,
+    "lon": 12.65,
+    "population": 31984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edéa",
+    "region": "Littoral",
+    "lat": 3.8,
+    "lon": 10.1333,
+    "population": 31730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faro Department",
+    "region": "North",
+    "lat": 8.2501,
+    "lon": 12.8783,
+    "population": 31698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douala",
+    "region": "Littoral",
+    "lat": 4.0483,
+    "lon": 9.7043,
+    "population": 31250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mefou-et-Akono",
+    "region": "Centre",
+    "lat": 3.5871,
+    "lon": 11.3609,
+    "population": 31166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbengwi",
+    "region": "Northwest",
+    "lat": 6.0167,
+    "lon": 10,
+    "population": 29785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbalmayo",
+    "region": "Centre",
+    "lat": 3.5167,
+    "lon": 11.5,
+    "population": 29752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dibombari",
+    "region": "Littoral",
+    "lat": 4.1787,
+    "lon": 9.6561,
+    "population": 29720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumba",
+    "region": "Southwest",
+    "lat": 4.6363,
+    "lon": 9.4469,
+    "population": 29485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lolodorf",
+    "region": "South",
+    "lat": 3.2333,
+    "lon": 10.7333,
+    "population": 29420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbanga",
+    "region": "Littoral",
+    "lat": 4.5016,
+    "lon": 9.5671,
+    "population": 29044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mvangué",
+    "region": "South",
+    "lat": 2.9667,
+    "lon": 11.5167,
+    "population": 28877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doumé",
+    "region": "East",
+    "lat": 4.2333,
+    "lon": 13.45,
+    "population": 28822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batouri",
+    "region": "East",
+    "lat": 4.4333,
+    "lon": 14.3667,
+    "population": 28820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makary",
+    "region": "Far North",
+    "lat": 12.5754,
+    "lon": 14.4548,
+    "population": 28569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bertoua",
+    "region": "East",
+    "lat": 4.5773,
+    "lon": 13.6846,
+    "population": 28471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumbo",
+    "region": "Northwest",
+    "lat": 6.2,
+    "lon": 10.6667,
+    "population": 28349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akonolinga",
+    "region": "Centre",
+    "lat": 3.7667,
+    "lon": 12.25,
+    "population": 26965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Évodoula",
+    "region": "Centre",
+    "lat": 4.0833,
+    "lon": 11.2,
+    "population": 26951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayo-Tsanaga",
+    "region": "Far North",
+    "lat": 10.5822,
+    "lon": 13.7935,
+    "population": 26935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limbe",
+    "region": "Southwest",
+    "lat": 4.0236,
+    "lon": 9.2061,
+    "population": 26916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbouda",
+    "region": "West",
+    "lat": 5.6261,
+    "lon": 10.2542,
+    "population": 26104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mora",
+    "region": "Far North",
+    "lat": 11.0461,
+    "lon": 14.1401,
+    "population": 26045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koung-Khi",
+    "region": "West",
+    "lat": 5.3385,
+    "lon": 10.4745,
+    "population": 26021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonabéri",
+    "region": "Littoral",
+    "lat": 4.0714,
+    "lon": 9.6818,
+    "population": 25987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayo-Sava",
+    "region": "Far North",
+    "lat": 11.1068,
+    "lon": 14.2056,
+    "population": 25971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yoko",
+    "region": "Centre",
+    "lat": 5.5333,
+    "lon": 12.3167,
+    "population": 25884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkoteng",
+    "region": "Centre",
+    "lat": 4.5167,
+    "lon": 12.0333,
+    "population": 25784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akono",
+    "region": "Centre",
+    "lat": 3.5,
+    "lon": 11.3333,
+    "population": 24546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamenda",
+    "region": "Northwest",
+    "lat": 5.9597,
+    "lon": 10.146,
+    "population": 24525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Njinikom",
+    "region": "Northwest",
+    "lat": 6.2333,
+    "lon": 10.2833,
+    "population": 22537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ombésa",
+    "region": "Centre",
+    "lat": 4.6,
+    "lon": 11.25,
+    "population": 21998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banyo",
+    "region": "Adamawa",
+    "lat": 6.75,
+    "lon": 11.8167,
+    "population": 21840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guider",
+    "region": "North",
+    "lat": 9.9333,
+    "lon": 13.9467,
+    "population": 21813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wum",
+    "region": "Northwest",
+    "lat": 6.3833,
+    "lon": 10.0667,
+    "population": 21492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibati",
+    "region": "Adamawa",
+    "lat": 6.465,
+    "lon": 12.6284,
+    "population": 21258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dschang",
+    "region": "West",
+    "lat": 5.444,
+    "lon": 10.0533,
+    "population": 21128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bekondo",
+    "region": "Southwest",
+    "lat": 4.6819,
+    "lon": 9.3214,
+    "population": 20876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yokadouma",
+    "region": "East",
+    "lat": 3.5167,
+    "lon": 15.05,
+    "population": 20780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hauts-Plateaux",
+    "region": "West",
+    "lat": 5.2963,
+    "lon": 10.3431,
+    "population": 20587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbang",
+    "region": "East",
+    "lat": 4.5833,
+    "lon": 13.3333,
+    "population": 19630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaoundé",
+    "region": "Centre",
+    "lat": 3.8667,
+    "lon": 11.5167,
+    "population": 18956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fundong",
+    "region": "Northwest",
+    "lat": 6.25,
+    "lon": 10.2667,
+    "population": 18558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandjoun",
+    "region": "West",
+    "lat": 5.3757,
+    "lon": 10.4133,
+    "population": 18230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maroua",
+    "region": "Far North",
+    "lat": 10.5909,
+    "lon": 14.3159,
+    "population": 18173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foumban",
+    "region": "West",
+    "lat": 5.7266,
+    "lon": 10.8986,
+    "population": 17666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagdo",
+    "region": "North",
+    "lat": 9.0583,
+    "lon": 13.6661,
+    "population": 17614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nguti",
+    "region": "Southwest",
+    "lat": 5.3299,
+    "lon": 9.4185,
+    "population": 17434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bana",
+    "region": "West",
+    "lat": 5.1466,
+    "lon": 10.2754,
+    "population": 17133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bélabo",
+    "region": "East",
+    "lat": 4.9333,
+    "lon": 13.3,
+    "population": 17033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koza",
+    "region": "Far North",
+    "lat": 10.8685,
+    "lon": 13.882,
+    "population": 16869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rey Bouba",
+    "region": "North",
+    "lat": 8.6724,
+    "lon": 14.1786,
+    "population": 16710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngomedzap",
+    "region": "Centre",
+    "lat": 3.25,
+    "lon": 11.2,
+    "population": 16661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitoa",
+    "region": "North",
+    "lat": 9.3839,
+    "lon": 13.5023,
+    "population": 16530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saa",
+    "region": "Centre",
+    "lat": 4.3667,
+    "lon": 11.45,
+    "population": 16165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bali",
+    "region": "Northwest",
+    "lat": 5.8874,
+    "lon": 10.0118,
+    "population": 15827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bélel",
+    "region": "Adamawa",
+    "lat": 7.05,
+    "lon": 14.4333,
+    "population": 15705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonga",
+    "region": "West",
+    "lat": 4.9667,
+    "lon": 10.7,
+    "population": 15263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eséka",
+    "region": "Centre",
+    "lat": 3.65,
+    "lon": 10.7667,
+    "population": 15240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jakiri",
+    "region": "Northwest",
+    "lat": 6.1,
+    "lon": 10.65,
+    "population": 15033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbam-Et-Inoubou",
+    "region": "Centre",
+    "lat": 4.7375,
+    "lon": 10.9697,
+    "population": 14977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garoua Boulaï",
+    "region": "East",
+    "lat": 5.8833,
+    "lon": 14.55,
+    "population": 14785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noun",
+    "region": "West",
+    "lat": 5.6412,
+    "lon": 10.9184,
+    "population": 14749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mvila",
+    "region": "South",
+    "lat": 2.798,
+    "lon": 11.3943,
+    "population": 14570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bogo",
+    "region": "Far North",
+    "lat": 10.7336,
+    "lon": 14.6093,
+    "population": 14555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mindif",
+    "region": "Far North",
+    "lat": 10.3976,
+    "lon": 14.4363,
+    "population": 14289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belo",
+    "region": "Northwest",
+    "lat": 6.1333,
+    "lon": 10.25,
+    "population": 14254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bafang",
+    "region": "West",
+    "lat": 5.157,
+    "lon": 10.1771,
+    "population": 14156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abong Mbang",
+    "region": "East",
+    "lat": 3.9833,
+    "lon": 13.1833,
+    "population": 14148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bankim",
+    "region": "Adamawa",
+    "lat": 6.083,
+    "lon": 11.4905,
+    "population": 13979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foumbot",
+    "region": "West",
+    "lat": 5.508,
+    "lon": 10.6325,
+    "population": 13042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebialem",
+    "region": "Southwest",
+    "lat": 5.5604,
+    "lon": 9.9232,
+    "population": 13021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngambé",
+    "region": "Littoral",
+    "lat": 4.2334,
+    "lon": 10.6153,
+    "population": 12769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bétaré Oya",
+    "region": "East",
+    "lat": 5.6,
+    "lon": 14.0833,
+    "population": 12305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bafoussam",
+    "region": "West",
+    "lat": 5.4778,
+    "lon": 10.4176,
+    "population": 11667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akom II",
+    "region": "South",
+    "lat": 2.7833,
+    "lon": 10.5667,
+    "population": 11554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mfoundi",
+    "region": "Centre",
+    "lat": 3.8667,
+    "lon": 11.5167,
+    "population": 10826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouanko",
+    "region": "Littoral",
+    "lat": 3.6397,
+    "lon": 9.7769,
+    "population": 10635,
+    "timezone": "UTC"
+  }
+]

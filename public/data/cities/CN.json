@@ -1,0 +1,10370 @@
+[
+  {
+    "name": "Huicheng",
+    "region": "Guangdong",
+    "lat": 23.0385,
+    "lon": 116.2899,
+    "population": 49984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ezhou",
+    "region": "Hubei",
+    "lat": 30.4,
+    "lon": 114.8333,
+    "population": 49959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongzhai",
+    "region": "Hunan",
+    "lat": 27.1953,
+    "lon": 109.2686,
+    "population": 49868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gongchangling",
+    "region": "Liaoning",
+    "lat": 41.1167,
+    "lon": 123.45,
+    "population": 49859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengxian",
+    "region": "Taiwan",
+    "lat": 34.7039,
+    "lon": 116.5872,
+    "population": 49665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putian",
+    "region": "Fujian",
+    "lat": 25.4394,
+    "lon": 119.0103,
+    "population": 49651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taizhou",
+    "region": "Zhejiang",
+    "lat": 28.6627,
+    "lon": 121.4331,
+    "population": 49645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baishishan",
+    "region": "Jilin",
+    "lat": 43.5833,
+    "lon": 127.5667,
+    "population": 49619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shashi",
+    "region": "Hubei",
+    "lat": 30.3072,
+    "lon": 112.2447,
+    "population": 49616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuanghejiedao",
+    "region": "Sichuan",
+    "lat": 30.3745,
+    "lon": 106.7727,
+    "population": 49590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foshan",
+    "region": "Guangdong",
+    "lat": 23.0268,
+    "lon": 113.1315,
+    "population": 49586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guli",
+    "region": "Zhejiang",
+    "lat": 28.8816,
+    "lon": 120.0331,
+    "population": 49562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuqa",
+    "region": "Xinjiang",
+    "lat": 41.7171,
+    "lon": 82.9306,
+    "population": 49531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuai’an",
+    "region": "Fujian",
+    "lat": 26.0342,
+    "lon": 119.4164,
+    "population": 49501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuzhou",
+    "region": "Fujian",
+    "lat": 26.0614,
+    "lon": 119.3061,
+    "population": 49494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guilin",
+    "region": "Guangxi Zhuang",
+    "lat": 25.2819,
+    "lon": 110.2864,
+    "population": 49449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengyang",
+    "region": "Shandong",
+    "lat": 35.5794,
+    "lon": 118.8328,
+    "population": 49439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changzhi",
+    "region": "Shanxi",
+    "lat": 36.1839,
+    "lon": 113.1053,
+    "population": 49385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaihua",
+    "region": "Yunnan",
+    "lat": 23.3695,
+    "lon": 104.2772,
+    "population": 49298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donghu",
+    "region": "Fujian",
+    "lat": 26.2345,
+    "lon": 119.5143,
+    "population": 49249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinzhong Shi",
+    "region": "Shanxi",
+    "lat": 37.436,
+    "lon": 113.0878,
+    "population": 49236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuiju",
+    "region": "Shandong",
+    "lat": 36.8536,
+    "lon": 119.3908,
+    "population": 49178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanchong",
+    "region": "Sichuan",
+    "lat": 30.7951,
+    "lon": 106.0847,
+    "population": 49141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guilin Shi",
+    "region": "Guangxi Zhuang",
+    "lat": 25.2833,
+    "lon": 110.2833,
+    "population": 49114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangzhou",
+    "region": "Fujian",
+    "lat": 24.5133,
+    "lon": 117.6556,
+    "population": 49106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Youhao",
+    "region": "Heilongjiang",
+    "lat": 47.8531,
+    "lon": 128.8356,
+    "population": 49102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaoshan",
+    "region": "Zhejiang",
+    "lat": 30.1675,
+    "lon": 120.2588,
+    "population": 49070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dasha",
+    "region": "Guangdong",
+    "lat": 23.1104,
+    "lon": 113.4418,
+    "population": 49052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luocheng",
+    "region": "Guangdong",
+    "lat": 22.7695,
+    "lon": 111.5688,
+    "population": 49048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songyang",
+    "region": "Henan",
+    "lat": 34.4553,
+    "lon": 113.0281,
+    "population": 48941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buhe",
+    "region": "Hubei",
+    "lat": 30.2876,
+    "lon": 112.2298,
+    "population": 48895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lingcheng",
+    "region": "Guangxi Zhuang",
+    "lat": 22.7072,
+    "lon": 110.3492,
+    "population": 48888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linhai",
+    "region": "Zhejiang",
+    "lat": 28.8554,
+    "lon": 121.1447,
+    "population": 48874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luoyang",
+    "region": "Fujian",
+    "lat": 24.9594,
+    "lon": 118.683,
+    "population": 48860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tai’an",
+    "region": "Shandong",
+    "lat": 36.1853,
+    "lon": 117.12,
+    "population": 48846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chizhou",
+    "region": "Anhui",
+    "lat": 30.6613,
+    "lon": 117.4778,
+    "population": 48832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongqiao",
+    "region": "Hunan",
+    "lat": 26.7684,
+    "lon": 112.1081,
+    "population": 48827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yunmeng Chengguanzhen",
+    "region": "Hubei",
+    "lat": 31.0625,
+    "lon": 113.7655,
+    "population": 48822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haining",
+    "region": "Zhejiang",
+    "lat": 30.5363,
+    "lon": 120.6864,
+    "population": 48804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanxi",
+    "region": "Zhejiang",
+    "lat": 29.2159,
+    "lon": 119.4716,
+    "population": 48802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fenghua",
+    "region": "Zhejiang",
+    "lat": 29.6563,
+    "lon": 121.4064,
+    "population": 48743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinyang",
+    "region": "Henan",
+    "lat": 32.1228,
+    "lon": 114.0656,
+    "population": 48741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ximei",
+    "region": "Fujian",
+    "lat": 24.9877,
+    "lon": 118.3858,
+    "population": 48738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianyungang Shi",
+    "region": "Taiwan",
+    "lat": 34.5484,
+    "lon": 119.1123,
+    "population": 48712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duobao",
+    "region": "Hubei",
+    "lat": 30.67,
+    "lon": 112.6895,
+    "population": 48656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juye",
+    "region": "Shandong",
+    "lat": 35.3947,
+    "lon": 116.0883,
+    "population": 48611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xixiang",
+    "region": "Henan",
+    "lat": 35.1628,
+    "lon": 112.865,
+    "population": 48595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenshan Zhuangzu Miaozu Zizhizhou",
+    "region": "Yunnan",
+    "lat": 23.6513,
+    "lon": 104.7083,
+    "population": 48583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianjiang",
+    "region": "Guangdong",
+    "lat": 21.6467,
+    "lon": 110.2817,
+    "population": 48571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangqiao",
+    "region": "Hunan",
+    "lat": 27.0219,
+    "lon": 110.8406,
+    "population": 48564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songjiang",
+    "region": "Shanghai",
+    "lat": 31.0359,
+    "lon": 121.2146,
+    "population": 48562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuzhoujiang Miaozuxiang",
+    "region": "Hunan",
+    "lat": 26.6753,
+    "lon": 110.0719,
+    "population": 48510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Min’an",
+    "region": "Fujian",
+    "lat": 26.0496,
+    "lon": 119.4996,
+    "population": 48486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hefei Shi",
+    "region": "Anhui",
+    "lat": 31.9467,
+    "lon": 117.278,
+    "population": 48477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiuying",
+    "region": "Hainan",
+    "lat": 20.0007,
+    "lon": 110.2936,
+    "population": 48460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "ZhenJiang",
+    "region": "Jiangsu",
+    "lat": 32.1319,
+    "lon": 119.434,
+    "population": 48406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingmen",
+    "region": "Hubei",
+    "lat": 31.0336,
+    "lon": 112.2047,
+    "population": 48391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guigang",
+    "region": "Guangxi Zhuang",
+    "lat": 23.0964,
+    "lon": 109.6092,
+    "population": 48312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longquan",
+    "region": "Yunnan",
+    "lat": 24.6719,
+    "lon": 102.1613,
+    "population": 48301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongzhou",
+    "region": "Beijing",
+    "lat": 39.904,
+    "lon": 116.6618,
+    "population": 48265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hezuo",
+    "region": "Gansu",
+    "lat": 34.9856,
+    "lon": 102.9094,
+    "population": 48259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingxi Shi",
+    "region": "Gansu",
+    "lat": 35.0371,
+    "lon": 104.3862,
+    "population": 48219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gufeng",
+    "region": "Fujian",
+    "lat": 26.9083,
+    "lon": 118.9819,
+    "population": 48175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yashan",
+    "region": "Guangxi Zhuang",
+    "lat": 22.1975,
+    "lon": 109.9419,
+    "population": 48152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huai’an Shi",
+    "region": "Taiwan",
+    "lat": 33.3116,
+    "lon": 119.0456,
+    "population": 48140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mentougou",
+    "region": "Beijing",
+    "lat": 39.9382,
+    "lon": 116.0931,
+    "population": 48103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malin",
+    "region": "Hunan",
+    "lat": 26.455,
+    "lon": 110.6417,
+    "population": 48004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luotuofangzi",
+    "region": "Tianjin",
+    "lat": 39.0836,
+    "lon": 117.3769,
+    "population": 47953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lintong",
+    "region": "Shaanxi",
+    "lat": 34.378,
+    "lon": 109.2089,
+    "population": 47925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanglong",
+    "region": "Hunan",
+    "lat": 26.5414,
+    "lon": 110.9344,
+    "population": 47891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caidian",
+    "region": "Hubei",
+    "lat": 30.5833,
+    "lon": 114.0333,
+    "population": 47825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhujiachang",
+    "region": "Guizhou",
+    "lat": 27.3575,
+    "lon": 108.9383,
+    "population": 47750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenchang",
+    "region": "Hainan",
+    "lat": 19.6157,
+    "lon": 110.7489,
+    "population": 47748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xintian",
+    "region": "Shanxi",
+    "lat": 35.6136,
+    "lon": 111.3566,
+    "population": 47738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yingchuan",
+    "region": "Henan",
+    "lat": 34.1628,
+    "lon": 113.4639,
+    "population": 47685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangzhi",
+    "region": "Heilongjiang",
+    "lat": 45.2141,
+    "lon": 127.9743,
+    "population": 47669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laiyang",
+    "region": "Shandong",
+    "lat": 36.9758,
+    "lon": 120.7136,
+    "population": 47654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiantao",
+    "region": "Hubei",
+    "lat": 30.3708,
+    "lon": 113.4429,
+    "population": 47636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heze",
+    "region": "Shandong",
+    "lat": 35.2393,
+    "lon": 115.4736,
+    "population": 47590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shiguai",
+    "region": "Inner Mongolia",
+    "lat": 40.7058,
+    "lon": 110.2856,
+    "population": 47557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liujiading",
+    "region": "Tianjin",
+    "lat": 39.9631,
+    "lon": 117.1911,
+    "population": 47510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tingjiang",
+    "region": "Fujian",
+    "lat": 26.074,
+    "lon": 119.5057,
+    "population": 47494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuozhou",
+    "region": "Shanxi",
+    "lat": 39.3158,
+    "lon": 112.4225,
+    "population": 47489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongchuanshi",
+    "region": "Shaanxi",
+    "lat": 35.0747,
+    "lon": 109.085,
+    "population": 47484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinzhan",
+    "region": "Guizhou",
+    "lat": 28.3883,
+    "lon": 106.8567,
+    "population": 47447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wusong",
+    "region": "Anhui",
+    "lat": 30.95,
+    "lon": 117.7833,
+    "population": 47429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liupanshui",
+    "region": "Guizhou",
+    "lat": 26.5944,
+    "lon": 104.8333,
+    "population": 47355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiuquan",
+    "region": "Gansu",
+    "lat": 39.7432,
+    "lon": 98.5174,
+    "population": 47351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuzhen",
+    "region": "Zhejiang",
+    "lat": 30.7454,
+    "lon": 120.4851,
+    "population": 47345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengxiang",
+    "region": "Heilongjiang",
+    "lat": 47.5755,
+    "lon": 130.8231,
+    "population": 47332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "SuQian",
+    "region": "Jiangsu",
+    "lat": 33.9627,
+    "lon": 118.2424,
+    "population": 47320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qianxinan Bouyeizu Miaozu Zizhizhou",
+    "region": "Guizhou",
+    "lat": 25.3881,
+    "lon": 105.3874,
+    "population": 47211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changzhou",
+    "region": "Taiwan",
+    "lat": 31.7736,
+    "lon": 119.954,
+    "population": 47206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bengbu",
+    "region": "Anhui",
+    "lat": 32.9408,
+    "lon": 117.3608,
+    "population": 47116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiamusi",
+    "region": "Heilongjiang",
+    "lat": 46.7993,
+    "lon": 130.3163,
+    "population": 47086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gantang",
+    "region": "Fujian",
+    "lat": 26.92,
+    "lon": 119.6333,
+    "population": 47083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changsha Shi",
+    "region": "Hunan",
+    "lat": 28.1458,
+    "lon": 113.2297,
+    "population": 47067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuhai",
+    "region": "Guangdong",
+    "lat": 22.2769,
+    "lon": 113.5678,
+    "population": 47061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puyang Chengguanzhen",
+    "region": "Henan",
+    "lat": 35.7051,
+    "lon": 115.0141,
+    "population": 46916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nujiang Lisuzu Zizhizhou",
+    "region": "Yunnan",
+    "lat": 26.6174,
+    "lon": 99.1406,
+    "population": 46882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hutang",
+    "region": "Taiwan",
+    "lat": 31.5343,
+    "lon": 119.49,
+    "population": 46849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maping",
+    "region": "Fujian",
+    "lat": 24.6872,
+    "lon": 118.5528,
+    "population": 46754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tieling",
+    "region": "Liaoning",
+    "lat": 42.2931,
+    "lon": 123.8414,
+    "population": 46754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiaojiang",
+    "region": "Hunan",
+    "lat": 27.9372,
+    "lon": 110.6764,
+    "population": 46735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiannü",
+    "region": "Taiwan",
+    "lat": 32.4281,
+    "lon": 119.5605,
+    "population": 46719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yueyang",
+    "region": "Hunan",
+    "lat": 29.3745,
+    "lon": 113.0948,
+    "population": 46637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lishui",
+    "region": "Zhejiang",
+    "lat": 28.4604,
+    "lon": 119.9103,
+    "population": 46636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahuang",
+    "region": "Guizhou",
+    "lat": 27.7181,
+    "lon": 109.0189,
+    "population": 46622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiangyang",
+    "region": "Hubei",
+    "lat": 32.0422,
+    "lon": 112.1448,
+    "population": 46584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prefecture of Chenzhou",
+    "region": "Hunan",
+    "lat": 25.8435,
+    "lon": 113.0538,
+    "population": 46561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingzhuang",
+    "region": "Inner Mongolia",
+    "lat": 42.0372,
+    "lon": 119.2889,
+    "population": 46488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lixiqiao",
+    "region": "Hunan",
+    "lat": 26.7947,
+    "lon": 110.4181,
+    "population": 46481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengtangcun",
+    "region": "Shandong",
+    "lat": 35.0836,
+    "lon": 117.1907,
+    "population": 46407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaiyuan",
+    "region": "Henan",
+    "lat": 36.0681,
+    "lon": 113.8221,
+    "population": 46358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boyang",
+    "region": "Hunan",
+    "lat": 26.2117,
+    "lon": 109.5206,
+    "population": 46344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daliang",
+    "region": "Guangdong",
+    "lat": 22.8407,
+    "lon": 113.2503,
+    "population": 46342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongba",
+    "region": "Sichuan",
+    "lat": 31.7782,
+    "lon": 104.7393,
+    "population": 46299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaozhou",
+    "region": "Guangdong",
+    "lat": 23.654,
+    "lon": 116.6226,
+    "population": 46272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Youyupu",
+    "region": "Guizhou",
+    "lat": 27.5517,
+    "lon": 109.135,
+    "population": 46257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuling",
+    "region": "Chongqing",
+    "lat": 29.706,
+    "lon": 107.3958,
+    "population": 46225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaogan",
+    "region": "Hubei",
+    "lat": 30.9269,
+    "lon": 113.9222,
+    "population": 46221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macheng",
+    "region": "Hubei",
+    "lat": 31.1801,
+    "lon": 115.0221,
+    "population": 46187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongxi",
+    "region": "Sichuan",
+    "lat": 32.0658,
+    "lon": 106.2484,
+    "population": 46174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yishui",
+    "region": "Shandong",
+    "lat": 35.7847,
+    "lon": 118.6281,
+    "population": 46166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaozeng",
+    "region": "Guizhou",
+    "lat": 25.8017,
+    "lon": 108.9375,
+    "population": 46153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humen",
+    "region": "Guangdong",
+    "lat": 22.819,
+    "lon": 113.6731,
+    "population": 46151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xialiang",
+    "region": "Sichuan",
+    "lat": 32.0767,
+    "lon": 106.7715,
+    "population": 46113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dengzhou",
+    "region": "Shandong",
+    "lat": 37.8082,
+    "lon": 120.7591,
+    "population": 46104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puning",
+    "region": "Guangdong",
+    "lat": 23.3107,
+    "lon": 116.1687,
+    "population": 46084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sansha",
+    "region": "Hainan",
+    "lat": 16.8339,
+    "lon": 112.3344,
+    "population": 46067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Licheng",
+    "region": "Taiwan",
+    "lat": 31.4281,
+    "lon": 119.4835,
+    "population": 46057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aykol",
+    "region": "Xinjiang",
+    "lat": 40.9576,
+    "lon": 80.1357,
+    "population": 46029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garzê Zangzu Zizhizhou",
+    "region": "Sichuan",
+    "lat": 31.0241,
+    "lon": 100.4055,
+    "population": 46001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bianzhuang",
+    "region": "Shandong",
+    "lat": 34.8486,
+    "lon": 118.0447,
+    "population": 45868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanzhang Chengguanzhen",
+    "region": "Hubei",
+    "lat": 31.7839,
+    "lon": 111.8275,
+    "population": 45852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qidu",
+    "region": "Fujian",
+    "lat": 26.7653,
+    "lon": 119.5472,
+    "population": 45821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heishan",
+    "region": "Liaoning",
+    "lat": 41.6892,
+    "lon": 122.1128,
+    "population": 45794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ning’an",
+    "region": "Heilongjiang",
+    "lat": 44.3439,
+    "lon": 129.4656,
+    "population": 45792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liukuaizhuang",
+    "region": "Tianjin",
+    "lat": 39.2478,
+    "lon": 117.3394,
+    "population": 45773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiupu",
+    "region": "Liaoning",
+    "lat": 41.0667,
+    "lon": 122.95,
+    "population": 45762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lincheng",
+    "region": "Hainan",
+    "lat": 19.9078,
+    "lon": 109.6858,
+    "population": 45738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fangchenggang Shi",
+    "region": "Guangxi Zhuang",
+    "lat": 21.9358,
+    "lon": 107.9593,
+    "population": 45700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahecheng",
+    "region": "Hebei",
+    "lat": 36.9383,
+    "lon": 114.5058,
+    "population": 45674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tatou",
+    "region": "Fujian",
+    "lat": 24.6173,
+    "lon": 118.5267,
+    "population": 45621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingyuan",
+    "region": "Guangdong",
+    "lat": 23.7,
+    "lon": 113.0333,
+    "population": 45599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xianxi",
+    "region": "Hunan",
+    "lat": 26.3347,
+    "lon": 109.6431,
+    "population": 45578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hangzhou",
+    "region": "Zhejiang",
+    "lat": 30.2936,
+    "lon": 120.1614,
+    "population": 45544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suzhou",
+    "region": "Anhui",
+    "lat": 33.6361,
+    "lon": 116.9789,
+    "population": 45506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xingtai",
+    "region": "Hebei",
+    "lat": 37.0631,
+    "lon": 114.4942,
+    "population": 45342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linxi",
+    "region": "Hebei",
+    "lat": 39.7118,
+    "lon": 118.4495,
+    "population": 45233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liaoyuan",
+    "region": "Jilin",
+    "lat": 42.9036,
+    "lon": 125.1358,
+    "population": 45130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longfeng",
+    "region": "Heilongjiang",
+    "lat": 46.5317,
+    "lon": 125.1038,
+    "population": 45128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiuyan",
+    "region": "Liaoning",
+    "lat": 40.2928,
+    "lon": 123.2744,
+    "population": 45116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuyucun",
+    "region": "Fujian",
+    "lat": 24.3355,
+    "lon": 118.1449,
+    "population": 45095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benxi",
+    "region": "Liaoning",
+    "lat": 41.2886,
+    "lon": 123.765,
+    "population": 45039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaoweizhai",
+    "region": "Guizhou",
+    "lat": 26.1903,
+    "lon": 107.5125,
+    "population": 44958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anshan",
+    "region": "Liaoning",
+    "lat": 41.1236,
+    "lon": 122.99,
+    "population": 44835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bojia",
+    "region": "Hunan",
+    "lat": 26.4672,
+    "lon": 111.9681,
+    "population": 44797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haicheng",
+    "region": "Liaoning",
+    "lat": 40.8516,
+    "lon": 122.7475,
+    "population": 44788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingtao",
+    "region": "Shandong",
+    "lat": 35.0744,
+    "lon": 115.5658,
+    "population": 44702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yinliu",
+    "region": "Tianjin",
+    "lat": 39.9835,
+    "lon": 117.399,
+    "population": 44696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xianyang",
+    "region": "Shaanxi",
+    "lat": 34.3378,
+    "lon": 108.7026,
+    "population": 44621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fangting",
+    "region": "Sichuan",
+    "lat": 31.1277,
+    "lon": 104.1665,
+    "population": 44611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binzhou",
+    "region": "Heilongjiang",
+    "lat": 45.7528,
+    "lon": 127.4799,
+    "population": 44597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jining",
+    "region": "Shandong",
+    "lat": 35.405,
+    "lon": 116.5814,
+    "population": 44586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baihe",
+    "region": "Guangxi Zhuang",
+    "lat": 22.1343,
+    "lon": 107.232,
+    "population": 44573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingjiangqiao",
+    "region": "Hunan",
+    "lat": 26.6044,
+    "lon": 110.9853,
+    "population": 44572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yucheng",
+    "region": "Shandong",
+    "lat": 34.9289,
+    "lon": 116.4653,
+    "population": 44564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baotou",
+    "region": "Inner Mongolia",
+    "lat": 40.6522,
+    "lon": 109.8222,
+    "population": 44555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lijiang",
+    "region": "Yunnan",
+    "lat": 26.8688,
+    "lon": 100.2207,
+    "population": 44551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingfeng",
+    "region": "Fujian",
+    "lat": 24.9744,
+    "lon": 118.9649,
+    "population": 44525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changshu City",
+    "region": "Taiwan",
+    "lat": 31.6461,
+    "lon": 120.7422,
+    "population": 44501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanpiao",
+    "region": "Liaoning",
+    "lat": 41.0982,
+    "lon": 120.7479,
+    "population": 44489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luohe Shi",
+    "region": "Henan",
+    "lat": 33.6881,
+    "lon": 113.9131,
+    "population": 44475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhabei",
+    "region": "Shanghai",
+    "lat": 31.2586,
+    "lon": 121.4597,
+    "population": 44473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dashitou",
+    "region": "Jilin",
+    "lat": 43.3067,
+    "lon": 128.5114,
+    "population": 44463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaowu",
+    "region": "Guizhou",
+    "lat": 25.5625,
+    "lon": 108.908,
+    "population": 44461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chongru",
+    "region": "Fujian",
+    "lat": 26.9511,
+    "lon": 119.9253,
+    "population": 44448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hami",
+    "region": "Xinjiang",
+    "lat": 42.8339,
+    "lon": 93.506,
+    "population": 44416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingcheng",
+    "region": "Henan",
+    "lat": 32.1272,
+    "lon": 115.0394,
+    "population": 44409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingjiang",
+    "region": "Guizhou",
+    "lat": 25.9706,
+    "lon": 108.3953,
+    "population": 44408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luxia",
+    "region": "Fujian",
+    "lat": 26.93,
+    "lon": 118.8072,
+    "population": 44399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaihua",
+    "region": "Hunan",
+    "lat": 27.5634,
+    "lon": 110.004,
+    "population": 44337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinhualu",
+    "region": "Henan",
+    "lat": 34.3963,
+    "lon": 113.7247,
+    "population": 44322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guixi",
+    "region": "Jiangxi",
+    "lat": 28.2886,
+    "lon": 117.2133,
+    "population": 44259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangjiakou Shi Xuanhua Qu",
+    "region": "Hebei",
+    "lat": 40.6103,
+    "lon": 115.0447,
+    "population": 44246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengmen",
+    "region": "Fujian",
+    "lat": 25.9934,
+    "lon": 119.3614,
+    "population": 44231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanchazi",
+    "region": "Jilin",
+    "lat": 42.0817,
+    "lon": 126.6003,
+    "population": 44215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babu",
+    "region": "Guangxi Zhuang",
+    "lat": 24.4167,
+    "lon": 111.5167,
+    "population": 44182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jincheng",
+    "region": "Shanxi",
+    "lat": 35.5022,
+    "lon": 112.8328,
+    "population": 44046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hepingjie",
+    "region": "Jilin",
+    "lat": 42.0597,
+    "lon": 126.9158,
+    "population": 44017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yueyang Shi",
+    "region": "Hunan",
+    "lat": 29.3247,
+    "lon": 113.302,
+    "population": 44003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xujiaba",
+    "region": "Guizhou",
+    "lat": 27.8847,
+    "lon": 108.1136,
+    "population": 44000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dali",
+    "region": "Yunnan",
+    "lat": 25.5847,
+    "lon": 100.2123,
+    "population": 43989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rizhao",
+    "region": "Shandong",
+    "lat": 35.4275,
+    "lon": 119.4553,
+    "population": 43961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changde",
+    "region": "Hunan",
+    "lat": 29.0464,
+    "lon": 111.6783,
+    "population": 43949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shijiazhuang",
+    "region": "Hebei",
+    "lat": 38.0414,
+    "lon": 114.4786,
+    "population": 43933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benchu",
+    "region": "Guizhou",
+    "lat": 26.7711,
+    "lon": 109.2906,
+    "population": 43893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongkan",
+    "region": "Taiwan",
+    "lat": 33.9997,
+    "lon": 119.8308,
+    "population": 43885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangzhou",
+    "region": "Taiwan",
+    "lat": 32.3972,
+    "lon": 119.4358,
+    "population": 43784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meizhou",
+    "region": "Guangdong",
+    "lat": 24.2886,
+    "lon": 116.1177,
+    "population": 43781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huizhou",
+    "region": "Guangdong",
+    "lat": 23.1115,
+    "lon": 114.4152,
+    "population": 43762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tianchang",
+    "region": "Hebei",
+    "lat": 37.9981,
+    "lon": 114.0156,
+    "population": 43749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shiyan",
+    "region": "Hubei",
+    "lat": 32.6475,
+    "lon": 110.7781,
+    "population": 43729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuxi",
+    "region": "Hunan",
+    "lat": 26.5844,
+    "lon": 111.859,
+    "population": 43715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuding",
+    "region": "Fujian",
+    "lat": 27.3273,
+    "lon": 120.214,
+    "population": 43655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beidao",
+    "region": "Gansu",
+    "lat": 34.5686,
+    "lon": 105.8933,
+    "population": 43633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanming",
+    "region": "Fujian",
+    "lat": 26.2486,
+    "lon": 117.6186,
+    "population": 43578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyingchi Prefecture",
+    "region": "Xizang",
+    "lat": 29.6009,
+    "lon": 94.4241,
+    "population": 43535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laiwu",
+    "region": "Shandong",
+    "lat": 36.1928,
+    "lon": 117.6569,
+    "population": 43525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tianshui",
+    "region": "Gansu",
+    "lat": 34.5795,
+    "lon": 105.7424,
+    "population": 43514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuxi",
+    "region": "Taiwan",
+    "lat": 31.5689,
+    "lon": 120.2886,
+    "population": 43496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fangshan",
+    "region": "Beijing",
+    "lat": 39.687,
+    "lon": 115.9966,
+    "population": 43427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suileng",
+    "region": "Heilongjiang",
+    "lat": 47.248,
+    "lon": 127.0953,
+    "population": 43421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangzhu",
+    "region": "Fujian",
+    "lat": 26.6311,
+    "lon": 118.6457,
+    "population": 43375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dazhou",
+    "region": "Sichuan",
+    "lat": 31.2159,
+    "lon": 107.5009,
+    "population": 43367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ningyang",
+    "region": "Shandong",
+    "lat": 35.7642,
+    "lon": 116.7914,
+    "population": 43353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinsha",
+    "region": "Taiwan",
+    "lat": 32.0898,
+    "lon": 121.0735,
+    "population": 43336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "TaiZhou",
+    "region": "Jiangsu",
+    "lat": 32.3184,
+    "lon": 119.8812,
+    "population": 43309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinjing",
+    "region": "Fujian",
+    "lat": 24.575,
+    "lon": 118.5972,
+    "population": 43308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayan Nur",
+    "region": "Inner Mongolia",
+    "lat": 40.7414,
+    "lon": 107.386,
+    "population": 43296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingdao",
+    "region": "Shandong",
+    "lat": 36.0649,
+    "lon": 120.3804,
+    "population": 43274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuidatian",
+    "region": "Hunan",
+    "lat": 27.8522,
+    "lon": 109.6047,
+    "population": 43241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiaozuo",
+    "region": "Henan",
+    "lat": 35.2397,
+    "lon": 113.2331,
+    "population": 43223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rikaze",
+    "region": "Xizang",
+    "lat": 29.25,
+    "lon": 88.8833,
+    "population": 43211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chabaihu",
+    "region": "Tianjin",
+    "lat": 39.4656,
+    "lon": 117.1483,
+    "population": 43177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pengcheng",
+    "region": "Hebei",
+    "lat": 36.4311,
+    "lon": 114.17,
+    "population": 43175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingjiang",
+    "region": "Taiwan",
+    "lat": 32.0142,
+    "lon": 120.2625,
+    "population": 43171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanzhou District",
+    "region": "Chongqing",
+    "lat": 30.7058,
+    "lon": 108.402,
+    "population": 43145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liuwudiancun",
+    "region": "Fujian",
+    "lat": 24.5692,
+    "lon": 118.1906,
+    "population": 43143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hede",
+    "region": "Taiwan",
+    "lat": 33.7722,
+    "lon": 120.2618,
+    "population": 43142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Feiluan",
+    "region": "Fujian",
+    "lat": 26.5625,
+    "lon": 119.5975,
+    "population": 43077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baiqi",
+    "region": "Fujian",
+    "lat": 24.8824,
+    "lon": 118.7087,
+    "population": 43049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawangtai",
+    "region": "Tianjin",
+    "lat": 39.275,
+    "lon": 117.485,
+    "population": 43023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangyin",
+    "region": "Taiwan",
+    "lat": 31.911,
+    "lon": 120.263,
+    "population": 43012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baise City",
+    "region": "Guangxi Zhuang",
+    "lat": 23.8997,
+    "lon": 106.6133,
+    "population": 42969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Youguzhuang",
+    "region": "Tianjin",
+    "lat": 39.908,
+    "lon": 117.2458,
+    "population": 42934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luzhou",
+    "region": "Sichuan",
+    "lat": 28.8903,
+    "lon": 105.4257,
+    "population": 42882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongren",
+    "region": "Guizhou",
+    "lat": 27.7172,
+    "lon": 109.1853,
+    "population": 42831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changchun",
+    "region": "Jilin",
+    "lat": 43.88,
+    "lon": 125.3228,
+    "population": 42817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yantai",
+    "region": "Shandong",
+    "lat": 37.4765,
+    "lon": 121.4408,
+    "population": 42790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanhecun",
+    "region": "Heilongjiang",
+    "lat": 45.7113,
+    "lon": 128.5803,
+    "population": 42784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qujing",
+    "region": "Yunnan",
+    "lat": 25.4833,
+    "lon": 103.7833,
+    "population": 42696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pandu",
+    "region": "Fujian",
+    "lat": 26.2364,
+    "lon": 119.4503,
+    "population": 42676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruzhou",
+    "region": "Henan",
+    "lat": 34.1617,
+    "lon": 112.8297,
+    "population": 42665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kengyuan",
+    "region": "Fujian",
+    "lat": 26.3396,
+    "lon": 119.7648,
+    "population": 42654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenling",
+    "region": "Zhejiang",
+    "lat": 28.3752,
+    "lon": 121.3842,
+    "population": 42612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jixi",
+    "region": "Heilongjiang",
+    "lat": 45.3011,
+    "lon": 130.9572,
+    "population": 42610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nantai",
+    "region": "Liaoning",
+    "lat": 40.9241,
+    "lon": 122.8044,
+    "population": 42605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingling",
+    "region": "Hubei",
+    "lat": 30.65,
+    "lon": 113.1,
+    "population": 42355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganzhou Shi",
+    "region": "Jiangxi",
+    "lat": 25.7039,
+    "lon": 115.3482,
+    "population": 42344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huludao",
+    "region": "Liaoning",
+    "lat": 40.7524,
+    "lon": 120.8355,
+    "population": 42232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaihe",
+    "region": "Heilongjiang",
+    "lat": 44.7598,
+    "lon": 129.6783,
+    "population": 42205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nada",
+    "region": "Hainan",
+    "lat": 19.5226,
+    "lon": 109.5786,
+    "population": 42166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linxia Chengguanzhen",
+    "region": "Gansu",
+    "lat": 35.6003,
+    "lon": 103.2064,
+    "population": 42146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongshigu",
+    "region": "Tianjin",
+    "lat": 39.8789,
+    "lon": 117.3303,
+    "population": 42087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guangyuan",
+    "region": "Sichuan",
+    "lat": 32.442,
+    "lon": 105.823,
+    "population": 41994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaojingzhuang",
+    "region": "Tianjin",
+    "lat": 39.4161,
+    "lon": 117.63,
+    "population": 41987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadunqiu",
+    "region": "Tianjin",
+    "lat": 39.4061,
+    "lon": 117.0331,
+    "population": 41977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehang",
+    "region": "Hunan",
+    "lat": 28.3071,
+    "lon": 109.7967,
+    "population": 41920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yinchuan",
+    "region": "Ningxia Huizu",
+    "lat": 38.4681,
+    "lon": 106.2731,
+    "population": 41912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ji’an",
+    "region": "Jiangxi",
+    "lat": 27.1172,
+    "lon": 114.9793,
+    "population": 41842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suohe",
+    "region": "Henan",
+    "lat": 34.7872,
+    "lon": 113.3581,
+    "population": 41826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiling",
+    "region": "Fujian",
+    "lat": 26.8144,
+    "lon": 119.0472,
+    "population": 41775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maoping",
+    "region": "Guizhou",
+    "lat": 26.7369,
+    "lon": 109.2211,
+    "population": 41770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huomachong",
+    "region": "Hunan",
+    "lat": 27.8833,
+    "lon": 110.23,
+    "population": 41748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuzhong District",
+    "region": "Chongqing",
+    "lat": 29.5521,
+    "lon": 106.5381,
+    "population": 41711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binzhou",
+    "region": "Shandong",
+    "lat": 37.3667,
+    "lon": 118.0167,
+    "population": 41695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haizhou",
+    "region": "Taiwan",
+    "lat": 34.5817,
+    "lon": 119.1289,
+    "population": 41690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puqi",
+    "region": "Hubei",
+    "lat": 29.7167,
+    "lon": 113.8833,
+    "population": 41627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingguang",
+    "region": "Tianjin",
+    "lat": 39.1967,
+    "lon": 117.0547,
+    "population": 41595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aba Zangzu Qiangzu Zizhizhou",
+    "region": "Sichuan",
+    "lat": 32.4188,
+    "lon": 102.6366,
+    "population": 41591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaoyao",
+    "region": "Guangdong",
+    "lat": 23.0243,
+    "lon": 112.4455,
+    "population": 41572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gushu",
+    "region": "Anhui",
+    "lat": 31.5605,
+    "lon": 118.4815,
+    "population": 41551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunming",
+    "region": "Yunnan",
+    "lat": 25.0389,
+    "lon": 102.7183,
+    "population": 41502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encheng",
+    "region": "Guangdong",
+    "lat": 22.1866,
+    "lon": 112.3042,
+    "population": 41480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huantuo",
+    "region": "Tianjin",
+    "lat": 39.2264,
+    "lon": 117.3239,
+    "population": 41480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mujiayingzi",
+    "region": "Inner Mongolia",
+    "lat": 42.1167,
+    "lon": 118.7833,
+    "population": 41453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dali Baizu Zizhizhou",
+    "region": "Yunnan",
+    "lat": 25.6855,
+    "lon": 100.131,
+    "population": 41447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalianwan",
+    "region": "Liaoning",
+    "lat": 39.0286,
+    "lon": 121.695,
+    "population": 41391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenquan",
+    "region": "Inner Mongolia",
+    "lat": 47.1756,
+    "lon": 119.9481,
+    "population": 41355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangpi",
+    "region": "Hubei",
+    "lat": 30.8845,
+    "lon": 114.3779,
+    "population": 41342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hotan",
+    "region": "Xinjiang",
+    "lat": 37.1075,
+    "lon": 79.9355,
+    "population": 41339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suzhou",
+    "region": "Taiwan",
+    "lat": 31.3041,
+    "lon": 120.5954,
+    "population": 41334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sigaozhuang",
+    "region": "Tianjin",
+    "lat": 39.4671,
+    "lon": 117.2555,
+    "population": 41306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanjing",
+    "region": "Taiwan",
+    "lat": 32.0617,
+    "lon": 118.7778,
+    "population": 41285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dinghaicun",
+    "region": "Fujian",
+    "lat": 26.2802,
+    "lon": 119.7896,
+    "population": 41217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangjiakou",
+    "region": "Hebei",
+    "lat": 40.81,
+    "lon": 114.8794,
+    "population": 41213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yongchuan",
+    "region": "Chongqing",
+    "lat": 29.3538,
+    "lon": 105.8939,
+    "population": 41184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiyan",
+    "region": "Hunan",
+    "lat": 26.6164,
+    "lon": 110.4736,
+    "population": 41161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongyang",
+    "region": "Fujian",
+    "lat": 26.5286,
+    "lon": 119.4625,
+    "population": 41144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangxikou",
+    "region": "Hunan",
+    "lat": 27.7189,
+    "lon": 110.385,
+    "population": 41134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuytun",
+    "region": "Xinjiang",
+    "lat": 44.4271,
+    "lon": 84.9007,
+    "population": 41133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yantian",
+    "region": "Fujian",
+    "lat": 26.8533,
+    "lon": 119.8575,
+    "population": 41123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiawuqi",
+    "region": "Tianjin",
+    "lat": 39.6155,
+    "lon": 117.0552,
+    "population": 41100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinglongshan",
+    "region": "Jilin",
+    "lat": 43.9561,
+    "lon": 125.4661,
+    "population": 41028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaozhuang",
+    "region": "Shandong",
+    "lat": 34.8647,
+    "lon": 117.5542,
+    "population": 40951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liaoyang",
+    "region": "Liaoning",
+    "lat": 41.2719,
+    "lon": 123.1731,
+    "population": 40927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoxtolgay",
+    "region": "Xinjiang",
+    "lat": 46.5187,
+    "lon": 86.0021,
+    "population": 40900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinxing",
+    "region": "Liaoning",
+    "lat": 39.8669,
+    "lon": 124.123,
+    "population": 40873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiehu",
+    "region": "Shandong",
+    "lat": 35.5428,
+    "lon": 118.455,
+    "population": 40825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baiyun",
+    "region": "Fujian",
+    "lat": 26.0365,
+    "lon": 118.9062,
+    "population": 40813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guangming",
+    "region": "Jilin",
+    "lat": 45.3333,
+    "lon": 122.7833,
+    "population": 40792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fenyi",
+    "region": "Jiangxi",
+    "lat": 27.8112,
+    "lon": 114.668,
+    "population": 40790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chumi",
+    "region": "Guizhou",
+    "lat": 28.2336,
+    "lon": 106.8328,
+    "population": 40787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhouzhuang",
+    "region": "Taiwan",
+    "lat": 31.1179,
+    "lon": 120.8443,
+    "population": 40731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuzhou",
+    "region": "Guangxi Zhuang",
+    "lat": 23.4833,
+    "lon": 111.3167,
+    "population": 40693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuangyuan",
+    "region": "Shandong",
+    "lat": 37.3055,
+    "lon": 120.8275,
+    "population": 40675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "YanCheng",
+    "region": "Jiangsu",
+    "lat": 33.2011,
+    "lon": 120.501,
+    "population": 40673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haikou",
+    "region": "Hainan",
+    "lat": 20.0458,
+    "lon": 110.3417,
+    "population": 40612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangzi",
+    "region": "Xizang",
+    "lat": 28.9203,
+    "lon": 89.5996,
+    "population": 40598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaolongmen",
+    "region": "Hunan",
+    "lat": 27.8019,
+    "lon": 110.1606,
+    "population": 40592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianhecun",
+    "region": "Fujian",
+    "lat": 24.5893,
+    "lon": 118.339,
+    "population": 40590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiqihar",
+    "region": "Heilongjiang",
+    "lat": 47.3409,
+    "lon": 123.9604,
+    "population": 40536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanyang",
+    "region": "Henan",
+    "lat": 32.9947,
+    "lon": 112.5328,
+    "population": 40525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hengyang",
+    "region": "Hunan",
+    "lat": 26.8895,
+    "lon": 112.6189,
+    "population": 40501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binhe",
+    "region": "Henan",
+    "lat": 32.6883,
+    "lon": 112.8275,
+    "population": 40459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chenghua",
+    "region": "Guangdong",
+    "lat": 23.4613,
+    "lon": 116.7701,
+    "population": 40388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weihai",
+    "region": "Shandong",
+    "lat": 37.5091,
+    "lon": 122.1136,
+    "population": 40358,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuzhou",
+    "region": "Hunan",
+    "lat": 27.8333,
+    "lon": 113.15,
+    "population": 40304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganshui",
+    "region": "Chongqing",
+    "lat": 28.7422,
+    "lon": 106.7111,
+    "population": 40295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengtai (Ninghe)",
+    "region": "Tianjin",
+    "lat": 39.5581,
+    "lon": 117.7492,
+    "population": 40229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shennongjia",
+    "region": "Hubei",
+    "lat": 31.5834,
+    "lon": 110.4972,
+    "population": 40198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangliuqing",
+    "region": "Tianjin",
+    "lat": 39.1274,
+    "lon": 117.0088,
+    "population": 40195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xixi",
+    "region": "Hunan",
+    "lat": 27.6938,
+    "lon": 110.9533,
+    "population": 40177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huazhou",
+    "region": "Henan",
+    "lat": 32.6822,
+    "lon": 112.0819,
+    "population": 40096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deqing",
+    "region": "Zhejiang",
+    "lat": 30.5449,
+    "lon": 119.9599,
+    "population": 40081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liangping District",
+    "region": "Chongqing",
+    "lat": 30.6741,
+    "lon": 107.7938,
+    "population": 40052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiangyun",
+    "region": "Fujian",
+    "lat": 24.9711,
+    "lon": 118.1603,
+    "population": 39940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hengbanqiao",
+    "region": "Hunan",
+    "lat": 27.1717,
+    "lon": 110.8653,
+    "population": 39876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangxi",
+    "region": "Hunan",
+    "lat": 27.2283,
+    "lon": 109.8558,
+    "population": 39848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaoxing",
+    "region": "Zhejiang",
+    "lat": 30.0024,
+    "lon": 120.5786,
+    "population": 39779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hunchun",
+    "region": "Jilin",
+    "lat": 42.8675,
+    "lon": 130.3581,
+    "population": 39742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanggang",
+    "region": "Guangdong",
+    "lat": 23.677,
+    "lon": 116.9996,
+    "population": 39700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liaocheng",
+    "region": "Shandong",
+    "lat": 36.456,
+    "lon": 115.9777,
+    "population": 39698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengzihe",
+    "region": "Heilongjiang",
+    "lat": 45.3333,
+    "lon": 131.0667,
+    "population": 39679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baijiantan",
+    "region": "Xinjiang",
+    "lat": 45.693,
+    "lon": 85.1394,
+    "population": 39602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shilin",
+    "region": "Yunnan",
+    "lat": 24.8188,
+    "lon": 103.3324,
+    "population": 39569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guangzhou Shi",
+    "region": "Guangdong",
+    "lat": 23.3733,
+    "lon": 113.5122,
+    "population": 39537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huazhou",
+    "region": "Guangdong",
+    "lat": 21.6333,
+    "lon": 110.5833,
+    "population": 39510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loushanguan",
+    "region": "Guizhou",
+    "lat": 28.1368,
+    "lon": 106.822,
+    "population": 39507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hebi",
+    "region": "Henan",
+    "lat": 35.8992,
+    "lon": 114.1925,
+    "population": 39425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lengshuitan",
+    "region": "Hunan",
+    "lat": 26.4111,
+    "lon": 111.5956,
+    "population": 39390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongfang",
+    "region": "Hunan",
+    "lat": 27.4114,
+    "lon": 109.9319,
+    "population": 39337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalai Nur",
+    "region": "Inner Mongolia",
+    "lat": 49.45,
+    "lon": 117.7,
+    "population": 39306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaozhou",
+    "region": "Heilongjiang",
+    "lat": 45.6833,
+    "lon": 125.3167,
+    "population": 39269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangjiang",
+    "region": "Tianjin",
+    "lat": 39.0419,
+    "lon": 117.3123,
+    "population": 39246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changling",
+    "region": "Jilin",
+    "lat": 44.2653,
+    "lon": 124.0005,
+    "population": 39234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangjiazhuang",
+    "region": "Hebei",
+    "lat": 39.7433,
+    "lon": 118.451,
+    "population": 39214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dengyuantai",
+    "region": "Hunan",
+    "lat": 26.6881,
+    "lon": 110.5422,
+    "population": 39210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jieshou",
+    "region": "Anhui",
+    "lat": 33.2634,
+    "lon": 115.3611,
+    "population": 39155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangding",
+    "region": "Sichuan",
+    "lat": 30.0022,
+    "lon": 101.9569,
+    "population": 39149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yinglin",
+    "region": "Fujian",
+    "lat": 24.6322,
+    "lon": 118.5806,
+    "population": 39123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingmen Shi",
+    "region": "Hubei",
+    "lat": 31.1124,
+    "lon": 112.6431,
+    "population": 39106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiongshan",
+    "region": "Hainan",
+    "lat": 20.0058,
+    "lon": 110.3542,
+    "population": 39106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongwan",
+    "region": "Hunan",
+    "lat": 27.5811,
+    "lon": 110.2772,
+    "population": 39083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changleng",
+    "region": "Jiangxi",
+    "lat": 28.7,
+    "lon": 115.8167,
+    "population": 39070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erenhot",
+    "region": "Inner Mongolia",
+    "lat": 43.6475,
+    "lon": 111.9767,
+    "population": 39042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dawukou",
+    "region": "Ningxia Huizu",
+    "lat": 39.0419,
+    "lon": 106.3958,
+    "population": 39008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiujiang",
+    "region": "Jiangxi",
+    "lat": 29.7048,
+    "lon": 116.0021,
+    "population": 39005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langtoucun",
+    "region": "Liaoning",
+    "lat": 40.0407,
+    "lon": 124.3353,
+    "population": 38805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daxinzhuang",
+    "region": "Tianjin",
+    "lat": 39.5036,
+    "lon": 117.6861,
+    "population": 38623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chongzuo Shi",
+    "region": "Guangxi Zhuang",
+    "lat": 22.4654,
+    "lon": 107.3962,
+    "population": 38597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhoucun",
+    "region": "Shandong",
+    "lat": 36.8167,
+    "lon": 117.8167,
+    "population": 38593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chitu",
+    "region": "Tianjin",
+    "lat": 39.2033,
+    "lon": 117.4028,
+    "population": 38565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinpu",
+    "region": "Taiwan",
+    "lat": 34.5997,
+    "lon": 119.1594,
+    "population": 38515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zigong",
+    "region": "Sichuan",
+    "lat": 29.3416,
+    "lon": 104.7769,
+    "population": 38473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xi’an",
+    "region": "Shaanxi",
+    "lat": 34.2583,
+    "lon": 108.9286,
+    "population": 38472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delingha",
+    "region": "Qinghai",
+    "lat": 37.376,
+    "lon": 97.3746,
+    "population": 38464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangmen",
+    "region": "Guangdong",
+    "lat": 22.5833,
+    "lon": 113.0833,
+    "population": 38371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hulan",
+    "region": "Heilongjiang",
+    "lat": 45.9833,
+    "lon": 126.6,
+    "population": 38345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shoushan",
+    "region": "Fujian",
+    "lat": 26.9644,
+    "lon": 119.1617,
+    "population": 38308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guozhen",
+    "region": "Shaanxi",
+    "lat": 34.3659,
+    "lon": 107.359,
+    "population": 38292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuzhai",
+    "region": "Fujian",
+    "lat": 24.983,
+    "lon": 118.8319,
+    "population": 38272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaoping",
+    "region": "Sichuan",
+    "lat": 30.7758,
+    "lon": 106.1029,
+    "population": 38235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xianning Prefecture",
+    "region": "Hubei",
+    "lat": 29.6661,
+    "lon": 114.2639,
+    "population": 38149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liuduzhai",
+    "region": "Hunan",
+    "lat": 27.3661,
+    "lon": 110.935,
+    "population": 38106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuyang Shi",
+    "region": "Anhui",
+    "lat": 32.9372,
+    "lon": 115.7078,
+    "population": 38088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luocheng",
+    "region": "Sichuan",
+    "lat": 30.9802,
+    "lon": 104.2808,
+    "population": 38070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Honggang",
+    "region": "Heilongjiang",
+    "lat": 46.4012,
+    "lon": 124.8832,
+    "population": 38044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huichang",
+    "region": "Henan",
+    "lat": 34.9038,
+    "lon": 112.7843,
+    "population": 38042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangjiang",
+    "region": "Hunan",
+    "lat": 26.1547,
+    "lon": 109.7138,
+    "population": 37965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huoqiu Chengguanzhen",
+    "region": "Anhui",
+    "lat": 32.3547,
+    "lon": 116.2939,
+    "population": 37859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanting",
+    "region": "Shandong",
+    "lat": 36.7708,
+    "lon": 119.2108,
+    "population": 37794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hengshui",
+    "region": "Hebei",
+    "lat": 37.7322,
+    "lon": 115.7011,
+    "population": 37757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xucheng",
+    "region": "Guangdong",
+    "lat": 20.3292,
+    "lon": 110.1671,
+    "population": 37749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sujiatun",
+    "region": "Liaoning",
+    "lat": 41.6592,
+    "lon": 123.3392,
+    "population": 37720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xingning",
+    "region": "Guangdong",
+    "lat": 24.1483,
+    "lon": 115.7227,
+    "population": 37719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loudi",
+    "region": "Hunan",
+    "lat": 27.7344,
+    "lon": 111.9944,
+    "population": 37685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cangzhou",
+    "region": "Hebei",
+    "lat": 38.3167,
+    "lon": 116.8667,
+    "population": 37656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anshun",
+    "region": "Guizhou",
+    "lat": 26.25,
+    "lon": 105.9333,
+    "population": 37654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taixing",
+    "region": "Taiwan",
+    "lat": 32.1667,
+    "lon": 120.0136,
+    "population": 37597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jian’ou",
+    "region": "Fujian",
+    "lat": 27.0469,
+    "lon": 118.3253,
+    "population": 37593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongxi",
+    "region": "Chongqing",
+    "lat": 28.7614,
+    "lon": 106.6611,
+    "population": 37592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuyu",
+    "region": "Jilin",
+    "lat": 45.1833,
+    "lon": 124.8167,
+    "population": 37554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinzhou",
+    "region": "Shanxi",
+    "lat": 38.4092,
+    "lon": 112.7333,
+    "population": 37541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhengjiatun",
+    "region": "Jilin",
+    "lat": 43.5064,
+    "lon": 123.5064,
+    "population": 37540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xihe",
+    "region": "Hubei",
+    "lat": 31.6864,
+    "lon": 113.4659,
+    "population": 37526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhu Cheng City",
+    "region": "Shandong",
+    "lat": 35.995,
+    "lon": 119.4026,
+    "population": 37526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lüshun",
+    "region": "Liaoning",
+    "lat": 38.8,
+    "lon": 121.2667,
+    "population": 37497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuokou",
+    "region": "Hunan",
+    "lat": 27.1247,
+    "lon": 109.6247,
+    "population": 37445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luoyang",
+    "region": "Henan",
+    "lat": 34.6836,
+    "lon": 112.4536,
+    "population": 37416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiazi",
+    "region": "Guangdong",
+    "lat": 22.8793,
+    "lon": 116.0732,
+    "population": 37410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changping",
+    "region": "Beijing",
+    "lat": 40.2161,
+    "lon": 116.2347,
+    "population": 37391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hailin",
+    "region": "Heilongjiang",
+    "lat": 44.5715,
+    "lon": 129.3854,
+    "population": 37360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tieli",
+    "region": "Heilongjiang",
+    "lat": 46.9804,
+    "lon": 128.045,
+    "population": 37300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ji’an",
+    "region": "Jilin",
+    "lat": 41.1235,
+    "lon": 126.1763,
+    "population": 37289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaodong",
+    "region": "Heilongjiang",
+    "lat": 46.0677,
+    "lon": 125.9826,
+    "population": 37266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingdezhen",
+    "region": "Jiangxi",
+    "lat": 29.2947,
+    "lon": 117.2079,
+    "population": 37242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quzhou",
+    "region": "Zhejiang",
+    "lat": 28.9594,
+    "lon": 118.8686,
+    "population": 37178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mositai",
+    "region": "Inner Mongolia",
+    "lat": 45.5354,
+    "lon": 119.667,
+    "population": 37168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuyao",
+    "region": "Zhejiang",
+    "lat": 30.05,
+    "lon": 121.1494,
+    "population": 37160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jining",
+    "region": "Inner Mongolia",
+    "lat": 41.0275,
+    "lon": 113.1058,
+    "population": 37141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinxiang",
+    "region": "Zhejiang",
+    "lat": 27.4326,
+    "lon": 120.6063,
+    "population": 37130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanfeng",
+    "region": "Guangdong",
+    "lat": 23.7269,
+    "lon": 111.7972,
+    "population": 37111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shannan Diqu",
+    "region": "Xizang",
+    "lat": 28.5563,
+    "lon": 92.5568,
+    "population": 37054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaitong",
+    "region": "Jilin",
+    "lat": 44.8135,
+    "lon": 123.15,
+    "population": 37017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hefei",
+    "region": "Anhui",
+    "lat": 31.8639,
+    "lon": 117.2808,
+    "population": 37006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caodian",
+    "region": "Tianjin",
+    "lat": 39.6119,
+    "lon": 117.4717,
+    "population": 36997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangjiang",
+    "region": "Guangdong",
+    "lat": 21.8556,
+    "lon": 111.9627,
+    "population": 36990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ezhou Shi",
+    "region": "Hubei",
+    "lat": 30.4883,
+    "lon": 114.7798,
+    "population": 36946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hailun",
+    "region": "Heilongjiang",
+    "lat": 47.4565,
+    "lon": 126.9537,
+    "population": 36933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mingyue",
+    "region": "Jilin",
+    "lat": 43.1069,
+    "lon": 128.9217,
+    "population": 36889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deyang",
+    "region": "Sichuan",
+    "lat": 31.1302,
+    "lon": 104.382,
+    "population": 36833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongshan",
+    "region": "Taiwan",
+    "lat": 34.1805,
+    "lon": 117.1571,
+    "population": 36824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linghai",
+    "region": "Liaoning",
+    "lat": 41.1653,
+    "lon": 121.3667,
+    "population": 36821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhumadian",
+    "region": "Henan",
+    "lat": 32.9794,
+    "lon": 114.0294,
+    "population": 36796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hepo",
+    "region": "Guangdong",
+    "lat": 23.4308,
+    "lon": 115.8299,
+    "population": 36756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangjiawo",
+    "region": "Tianjin",
+    "lat": 39.0568,
+    "lon": 117.0362,
+    "population": 36713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linfen",
+    "region": "Shanxi",
+    "lat": 36.0889,
+    "lon": 111.5189,
+    "population": 36712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongyang",
+    "region": "Zhejiang",
+    "lat": 29.2678,
+    "lon": 120.2253,
+    "population": 36707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longlisuo",
+    "region": "Guizhou",
+    "lat": 26.4142,
+    "lon": 109.1022,
+    "population": 36701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huayuan",
+    "region": "Hunan",
+    "lat": 26.9136,
+    "lon": 110.5358,
+    "population": 36672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juegang",
+    "region": "Taiwan",
+    "lat": 32.3174,
+    "lon": 121.1855,
+    "population": 36634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuda",
+    "region": "Inner Mongolia",
+    "lat": 39.4994,
+    "lon": 106.7117,
+    "population": 36600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangjiagang",
+    "region": "Taiwan",
+    "lat": 31.865,
+    "lon": 120.5389,
+    "population": 36583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huainan",
+    "region": "Anhui",
+    "lat": 32.6264,
+    "lon": 116.9969,
+    "population": 36571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucheng",
+    "region": "Anhui",
+    "lat": 31.2336,
+    "lon": 117.2806,
+    "population": 36466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dazuo",
+    "region": "Fujian",
+    "lat": 24.8862,
+    "lon": 118.9643,
+    "population": 36439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganzhou",
+    "region": "Jiangxi",
+    "lat": 25.8466,
+    "lon": 114.9326,
+    "population": 36437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangdong",
+    "region": "Guizhou",
+    "lat": 26.9756,
+    "lon": 109.1858,
+    "population": 36434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baise Shi",
+    "region": "Guangxi Zhuang",
+    "lat": 23.9,
+    "lon": 106.6167,
+    "population": 36423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaotong",
+    "region": "Yunnan",
+    "lat": 27.3167,
+    "lon": 103.7167,
+    "population": 36383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maba",
+    "region": "Guangdong",
+    "lat": 24.6841,
+    "lon": 113.5984,
+    "population": 36364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuanghe",
+    "region": "Liaoning",
+    "lat": 39.7008,
+    "lon": 122.9911,
+    "population": 36347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laocheng",
+    "region": "Shandong",
+    "lat": 37.1428,
+    "lon": 115.8883,
+    "population": 36285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boli",
+    "region": "Heilongjiang",
+    "lat": 45.7528,
+    "lon": 130.5721,
+    "population": 36244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yichun",
+    "region": "Jiangxi",
+    "lat": 27.8333,
+    "lon": 114.4,
+    "population": 36234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingzhou",
+    "region": "Hebei",
+    "lat": 38.5131,
+    "lon": 114.9956,
+    "population": 36231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baicheng",
+    "region": "Jilin",
+    "lat": 45.6075,
+    "lon": 122.8208,
+    "population": 36221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taihecun",
+    "region": "Heilongjiang",
+    "lat": 45.7635,
+    "lon": 130.8505,
+    "population": 36191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anping",
+    "region": "Hunan",
+    "lat": 27.8664,
+    "lon": 110.1161,
+    "population": 36139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longtan",
+    "region": "Hunan",
+    "lat": 27.4114,
+    "lon": 110.5364,
+    "population": 36138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianzhou",
+    "region": "Guangxi Zhuang",
+    "lat": 21.6662,
+    "lon": 109.2012,
+    "population": 36097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danshui",
+    "region": "Guangdong",
+    "lat": 22.7984,
+    "lon": 114.4672,
+    "population": 36087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qianjiang",
+    "region": "Hubei",
+    "lat": 30.421,
+    "lon": 112.8919,
+    "population": 36046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guankou",
+    "region": "Hunan",
+    "lat": 28.1586,
+    "lon": 113.6271,
+    "population": 36035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panzhuang",
+    "region": "Tianjin",
+    "lat": 39.3394,
+    "lon": 117.4682,
+    "population": 35977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haimen",
+    "region": "Guangdong",
+    "lat": 23.1935,
+    "lon": 116.6122,
+    "population": 35911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangtou",
+    "region": "Guizhou",
+    "lat": 27.6894,
+    "lon": 109.4139,
+    "population": 35898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anbu",
+    "region": "Guangdong",
+    "lat": 23.4489,
+    "lon": 116.6809,
+    "population": 35804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ürümqi",
+    "region": "Xinjiang",
+    "lat": 43.801,
+    "lon": 87.6005,
+    "population": 35804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karamay",
+    "region": "Xinjiang",
+    "lat": 45.5847,
+    "lon": 84.8872,
+    "population": 35708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingdezhen Shi",
+    "region": "Jiangxi",
+    "lat": 29.3168,
+    "lon": 117.2469,
+    "population": 35661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongshu",
+    "region": "Yunnan",
+    "lat": 24.5167,
+    "lon": 103.7667,
+    "population": 35627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xincheng",
+    "region": "Henan",
+    "lat": 33.6333,
+    "lon": 115.1833,
+    "population": 35598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulanhot",
+    "region": "Inner Mongolia",
+    "lat": 46.0833,
+    "lon": 122.0833,
+    "population": 35588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Runing",
+    "region": "Henan",
+    "lat": 33.0011,
+    "lon": 114.3542,
+    "population": 35586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuzhuang",
+    "region": "Tianjin",
+    "lat": 39.2661,
+    "lon": 117.9344,
+    "population": 35553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gongzhuling",
+    "region": "Jilin",
+    "lat": 43.5007,
+    "lon": 124.8198,
+    "population": 35553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanzhong",
+    "region": "Shaanxi",
+    "lat": 33.0751,
+    "lon": 107.0221,
+    "population": 35525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhalantun",
+    "region": "Inner Mongolia",
+    "lat": 48.0095,
+    "lon": 122.7365,
+    "population": 35458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hexiwu",
+    "region": "Tianjin",
+    "lat": 39.6225,
+    "lon": 116.954,
+    "population": 35452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saga",
+    "region": "Xizang",
+    "lat": 29.3237,
+    "lon": 85.226,
+    "population": 35438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaoqiao",
+    "region": "Hunan",
+    "lat": 26.6336,
+    "lon": 110.9,
+    "population": 35437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luorong",
+    "region": "Guangxi Zhuang",
+    "lat": 24.4058,
+    "lon": 109.6086,
+    "population": 35428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhujiajiao",
+    "region": "Shanghai",
+    "lat": 31.1076,
+    "lon": 121.057,
+    "population": 35403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangshan",
+    "region": "Hebei",
+    "lat": 39.6333,
+    "lon": 118.1833,
+    "population": 35373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengjiao",
+    "region": "Henan",
+    "lat": 35.4049,
+    "lon": 114.0604,
+    "population": 35330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laixi",
+    "region": "Shandong",
+    "lat": 36.8592,
+    "lon": 120.5269,
+    "population": 35328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuyang",
+    "region": "Anhui",
+    "lat": 31.9925,
+    "lon": 116.2472,
+    "population": 35326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Foshan Shi",
+    "region": "Guangdong",
+    "lat": 23.0226,
+    "lon": 112.963,
+    "population": 35203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linkou",
+    "region": "Heilongjiang",
+    "lat": 45.2861,
+    "lon": 130.2615,
+    "population": 35181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fanzhuang",
+    "region": "Tianjin",
+    "lat": 39.1936,
+    "lon": 117.335,
+    "population": 35130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaiyuan",
+    "region": "Yunnan",
+    "lat": 23.6977,
+    "lon": 103.3037,
+    "population": 35095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenlan",
+    "region": "Yunnan",
+    "lat": 23.36,
+    "lon": 103.4368,
+    "population": 35061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanjiang",
+    "region": "Sichuan",
+    "lat": 30.1211,
+    "lon": 104.6481,
+    "population": 35053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingnian",
+    "region": "Shandong",
+    "lat": 36.8403,
+    "lon": 115.7118,
+    "population": 35051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leshan",
+    "region": "Sichuan",
+    "lat": 29.5623,
+    "lon": 103.7639,
+    "population": 35018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linyi",
+    "region": "Shandong",
+    "lat": 35.0631,
+    "lon": 118.3428,
+    "population": 34957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mengyin",
+    "region": "Shandong",
+    "lat": 35.7069,
+    "lon": 117.9264,
+    "population": 34942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongzhou",
+    "region": "Guizhou",
+    "lat": 26.1258,
+    "lon": 109.4089,
+    "population": 34936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puhechang",
+    "region": "Chongqing",
+    "lat": 28.9525,
+    "lon": 106.8311,
+    "population": 34924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingshan",
+    "region": "Guangdong",
+    "lat": 22.9938,
+    "lon": 114.7131,
+    "population": 34797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puyang",
+    "region": "Zhejiang",
+    "lat": 29.4568,
+    "lon": 119.8887,
+    "population": 34767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xitazhuang",
+    "region": "Tianjin",
+    "lat": 39.9331,
+    "lon": 117.2108,
+    "population": 34757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tahe",
+    "region": "Heilongjiang",
+    "lat": 52.3333,
+    "lon": 124.7333,
+    "population": 34723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haikou",
+    "region": "Yunnan",
+    "lat": 24.7798,
+    "lon": 102.5755,
+    "population": 34716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanbian Chaoxianzu Zizhizhou",
+    "region": "Jilin",
+    "lat": 43.1258,
+    "lon": 129.1283,
+    "population": 34621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Renqiu",
+    "region": "Hebei",
+    "lat": 38.6989,
+    "lon": 116.0936,
+    "population": 34588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changqing",
+    "region": "Shandong",
+    "lat": 36.5575,
+    "lon": 116.7272,
+    "population": 34540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinan",
+    "region": "Fujian",
+    "lat": 26.72,
+    "lon": 119.8556,
+    "population": 34501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fu’an",
+    "region": "Fujian",
+    "lat": 27.0637,
+    "lon": 119.6528,
+    "population": 34487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changtu",
+    "region": "Liaoning",
+    "lat": 42.7788,
+    "lon": 124.0954,
+    "population": 34476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaiyuan",
+    "region": "Liaoning",
+    "lat": 42.5331,
+    "lon": 124.0403,
+    "population": 34473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yakeshi",
+    "region": "Inner Mongolia",
+    "lat": 49.2833,
+    "lon": 120.7333,
+    "population": 34450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiazhuang",
+    "region": "Shandong",
+    "lat": 34.9161,
+    "lon": 118.6389,
+    "population": 34449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linping",
+    "region": "Zhejiang",
+    "lat": 30.4225,
+    "lon": 120.2972,
+    "population": 34444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nehe",
+    "region": "Heilongjiang",
+    "lat": 48.4833,
+    "lon": 124.8333,
+    "population": 34434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuyu",
+    "region": "Heilongjiang",
+    "lat": 47.7976,
+    "lon": 124.4573,
+    "population": 34314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianran",
+    "region": "Yunnan",
+    "lat": 24.9227,
+    "lon": 102.485,
+    "population": 34234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuci",
+    "region": "Shanxi",
+    "lat": 37.6803,
+    "lon": 112.7319,
+    "population": 34204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anxiang",
+    "region": "Hunan",
+    "lat": 29.4,
+    "lon": 112.15,
+    "population": 34044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dazhai",
+    "region": "Guangxi Zhuang",
+    "lat": 25.8098,
+    "lon": 110.15,
+    "population": 34028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qimeng",
+    "region": "Guizhou",
+    "lat": 26.4847,
+    "lon": 108.9994,
+    "population": 33991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yushan",
+    "region": "Taiwan",
+    "lat": 31.6775,
+    "lon": 120.8013,
+    "population": 33987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maoping",
+    "region": "Hunan",
+    "lat": 26.5197,
+    "lon": 110.4119,
+    "population": 33977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ailan Mubage",
+    "region": "Xinjiang",
+    "lat": 43.9085,
+    "lon": 81.333,
+    "population": 33923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yushu Zangzu Zizhizhou",
+    "region": "Qinghai",
+    "lat": 34.398,
+    "lon": 94.1902,
+    "population": 33913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuqing",
+    "region": "Fujian",
+    "lat": 25.725,
+    "lon": 119.3794,
+    "population": 33906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minzhu",
+    "region": "Jilin",
+    "lat": 43.7214,
+    "lon": 127.334,
+    "population": 33901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiannan",
+    "region": "Sichuan",
+    "lat": 31.3436,
+    "lon": 104.1959,
+    "population": 33855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pumiao",
+    "region": "Guangxi Zhuang",
+    "lat": 22.7587,
+    "lon": 108.4811,
+    "population": 33829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianhe",
+    "region": "Heilongjiang",
+    "lat": 47.1333,
+    "lon": 129.2743,
+    "population": 33820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huilong",
+    "region": "Taiwan",
+    "lat": 31.8111,
+    "lon": 121.655,
+    "population": 33785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guandu",
+    "region": "Guizhou",
+    "lat": 28.5683,
+    "lon": 106.1025,
+    "population": 33784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shajiang",
+    "region": "Fujian",
+    "lat": 26.7825,
+    "lon": 119.9669,
+    "population": 33762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiongzhou",
+    "region": "Guangdong",
+    "lat": 25.1167,
+    "lon": 114.3,
+    "population": 33760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qamdo Shi",
+    "region": "Xizang",
+    "lat": 31.5837,
+    "lon": 97.223,
+    "population": 33744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longjing",
+    "region": "Jilin",
+    "lat": 42.7714,
+    "lon": 129.4233,
+    "population": 33722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linshui",
+    "region": "Hebei",
+    "lat": 36.4247,
+    "lon": 114.2047,
+    "population": 33687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Houyu",
+    "region": "Fujian",
+    "lat": 26.0596,
+    "lon": 119.535,
+    "population": 33670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaifeng",
+    "region": "Henan",
+    "lat": 34.7986,
+    "lon": 114.3074,
+    "population": 33614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinxiang Shi",
+    "region": "Henan",
+    "lat": 35.3086,
+    "lon": 114.0511,
+    "population": 33590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dêqên",
+    "region": "Xizang",
+    "lat": 29.9618,
+    "lon": 90.7188,
+    "population": 33579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bei’an",
+    "region": "Heilongjiang",
+    "lat": 48.2667,
+    "lon": 126.6,
+    "population": 33528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayingolin Mongol Zizhizhou",
+    "region": "Xinjiang",
+    "lat": 41.7333,
+    "lon": 86.15,
+    "population": 33522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qinzhou",
+    "region": "Guangxi Zhuang",
+    "lat": 21.973,
+    "lon": 108.6261,
+    "population": 33423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaolingwei",
+    "region": "Taiwan",
+    "lat": 32.0324,
+    "lon": 118.854,
+    "population": 33321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinshiqiao",
+    "region": "Hunan",
+    "lat": 27.5843,
+    "lon": 110.9363,
+    "population": 33300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enshi Tujiazu Miaozu Zizhizhou",
+    "region": "Hubei",
+    "lat": 30.1981,
+    "lon": 109.6756,
+    "population": 33275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bazhong Shi",
+    "region": "Sichuan",
+    "lat": 32.0403,
+    "lon": 107.0623,
+    "population": 33266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiancun",
+    "region": "Fujian",
+    "lat": 26.9386,
+    "lon": 119.3603,
+    "population": 33210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunyang",
+    "region": "Zhejiang",
+    "lat": 27.6658,
+    "lon": 120.5658,
+    "population": 33144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongyuan",
+    "region": "Fujian",
+    "lat": 24.9174,
+    "lon": 118.7524,
+    "population": 33112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuwei",
+    "region": "Gansu",
+    "lat": 37.9267,
+    "lon": 102.632,
+    "population": 33096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anqing Shi",
+    "region": "Anhui",
+    "lat": 30.6627,
+    "lon": 116.5591,
+    "population": 33084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longmen",
+    "region": "Fujian",
+    "lat": 24.9597,
+    "lon": 118.0889,
+    "population": 33044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuhan",
+    "region": "Hubei",
+    "lat": 30.5833,
+    "lon": 114.2667,
+    "population": 33003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heihe",
+    "region": "Heilongjiang",
+    "lat": 50.2441,
+    "lon": 127.4902,
+    "population": 32997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dazhongzhuang",
+    "region": "Tianjin",
+    "lat": 39.6808,
+    "lon": 117.5642,
+    "population": 32975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jingzhou",
+    "region": "Hubei",
+    "lat": 30.3503,
+    "lon": 112.1903,
+    "population": 32947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabachang",
+    "region": "Guizhou",
+    "lat": 27.7425,
+    "lon": 108.3433,
+    "population": 32924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shixing",
+    "region": "Guangdong",
+    "lat": 24.9482,
+    "lon": 114.0657,
+    "population": 32850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangzhong",
+    "region": "Fujian",
+    "lat": 26.7056,
+    "lon": 119.3744,
+    "population": 32849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xingcheng",
+    "region": "Liaoning",
+    "lat": 40.6167,
+    "lon": 120.7167,
+    "population": 32785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caijia",
+    "region": "Chongqing",
+    "lat": 28.9089,
+    "lon": 106.3404,
+    "population": 32740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongling",
+    "region": "Fujian",
+    "lat": 24.9827,
+    "lon": 118.8979,
+    "population": 32728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanzhou",
+    "region": "Hunan",
+    "lat": 29.3595,
+    "lon": 112.4024,
+    "population": 32675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingliang",
+    "region": "Gansu",
+    "lat": 35.5392,
+    "lon": 106.6861,
+    "population": 32645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baishan",
+    "region": "Jilin",
+    "lat": 41.9385,
+    "lon": 126.4197,
+    "population": 32634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhenzhou",
+    "region": "Taiwan",
+    "lat": 32.2803,
+    "lon": 119.17,
+    "population": 32632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangshan Shi",
+    "region": "Hebei",
+    "lat": 39.63,
+    "lon": 118.18,
+    "population": 32574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daokou",
+    "region": "Henan",
+    "lat": 35.5639,
+    "lon": 114.5058,
+    "population": 32557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taishan",
+    "region": "Guangdong",
+    "lat": 22.2513,
+    "lon": 112.7799,
+    "population": 32539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaiyuan Chengguanzhen",
+    "region": "Anhui",
+    "lat": 32.9589,
+    "lon": 117.1657,
+    "population": 32536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhoukou",
+    "region": "Henan",
+    "lat": 33.6333,
+    "lon": 114.6333,
+    "population": 32531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenzhou",
+    "region": "Zhejiang",
+    "lat": 27.9994,
+    "lon": 120.6668,
+    "population": 32455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huludao Shi",
+    "region": "Liaoning",
+    "lat": 40.7453,
+    "lon": 120.2197,
+    "population": 32445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wubao",
+    "region": "Fujian",
+    "lat": 24.5959,
+    "lon": 118.5536,
+    "population": 32363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengdu",
+    "region": "Sichuan",
+    "lat": 30.6667,
+    "lon": 104.0667,
+    "population": 32362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qufu",
+    "region": "Shandong",
+    "lat": 35.5967,
+    "lon": 116.9911,
+    "population": 32320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xuanzhou",
+    "region": "Anhui",
+    "lat": 30.9525,
+    "lon": 118.7553,
+    "population": 32256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yebaishou",
+    "region": "Liaoning",
+    "lat": 41.3975,
+    "lon": 119.6408,
+    "population": 32198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xifeng",
+    "region": "Liaoning",
+    "lat": 42.7372,
+    "lon": 124.7222,
+    "population": 32185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangping",
+    "region": "Guangdong",
+    "lat": 22.0318,
+    "lon": 111.9354,
+    "population": 32163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangfang",
+    "region": "Hunan",
+    "lat": 26.5016,
+    "lon": 110.3464,
+    "population": 32155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beichengqu",
+    "region": "Inner Mongolia",
+    "lat": 40.4394,
+    "lon": 113.1536,
+    "population": 32145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaoniang",
+    "region": "Guizhou",
+    "lat": 26.8425,
+    "lon": 109.1789,
+    "population": 32115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehong Daizu Jingpozu Zizhizhou",
+    "region": "Yunnan",
+    "lat": 24.6635,
+    "lon": 98.0396,
+    "population": 32084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaping",
+    "region": "Guangdong",
+    "lat": 22.7702,
+    "lon": 112.9578,
+    "population": 32053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neijiang",
+    "region": "Sichuan",
+    "lat": 29.5835,
+    "lon": 105.0622,
+    "population": 32047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangzi",
+    "region": "Tianjin",
+    "lat": 39.9085,
+    "lon": 117.1654,
+    "population": 32024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengguan",
+    "region": "Henan",
+    "lat": 35.4586,
+    "lon": 113.7978,
+    "population": 32011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangjiajie",
+    "region": "Hunan",
+    "lat": 29.1294,
+    "lon": 110.4783,
+    "population": 31985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haibei Tibetan Autonomous Prefecture",
+    "region": "Qinghai",
+    "lat": 37.7192,
+    "lon": 100.4566,
+    "population": 31979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongdai",
+    "region": "Fujian",
+    "lat": 26.2437,
+    "lon": 119.6157,
+    "population": 31977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongwei",
+    "region": "Ningxia Huizu",
+    "lat": 37.5113,
+    "lon": 105.1907,
+    "population": 31926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongcun",
+    "region": "Shandong",
+    "lat": 36.7767,
+    "lon": 121.1597,
+    "population": 31918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanggu",
+    "region": "Shandong",
+    "lat": 36.1106,
+    "lon": 115.7753,
+    "population": 31878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yulinshi",
+    "region": "Shaanxi",
+    "lat": 38.2918,
+    "lon": 109.7375,
+    "population": 31849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gutao",
+    "region": "Shanxi",
+    "lat": 37.2025,
+    "lon": 112.1781,
+    "population": 31802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangyan",
+    "region": "Taiwan",
+    "lat": 32.5061,
+    "lon": 120.1428,
+    "population": 31794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinhui",
+    "region": "Guangdong",
+    "lat": 22.456,
+    "lon": 113.0482,
+    "population": 31736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuchuan",
+    "region": "Guangdong",
+    "lat": 21.4571,
+    "lon": 110.7659,
+    "population": 31732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuyang",
+    "region": "Anhui",
+    "lat": 32.9,
+    "lon": 115.8167,
+    "population": 31720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Datong",
+    "region": "Shanxi",
+    "lat": 40.0936,
+    "lon": 113.2914,
+    "population": 31693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinghong",
+    "region": "Yunnan",
+    "lat": 21.991,
+    "lon": 100.7341,
+    "population": 31686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hulunbuir Region",
+    "region": "Inner Mongolia",
+    "lat": 49.7099,
+    "lon": 121.7218,
+    "population": 31561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luojiu",
+    "region": "Hunan",
+    "lat": 27.5158,
+    "lon": 109.8089,
+    "population": 31559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dashentang",
+    "region": "Tianjin",
+    "lat": 39.2172,
+    "lon": 117.9525,
+    "population": 31513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanghai",
+    "region": "Shanghai",
+    "lat": 31.2222,
+    "lon": 121.4581,
+    "population": 31506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xining",
+    "region": "Qinghai",
+    "lat": 36.6255,
+    "lon": 101.7574,
+    "population": 31422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianzhuang",
+    "region": "Tianjin",
+    "lat": 39.41,
+    "lon": 117.7564,
+    "population": 31407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zijinglu",
+    "region": "Henan",
+    "lat": 34.76,
+    "lon": 112.9714,
+    "population": 31388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longgang",
+    "region": "Shandong",
+    "lat": 37.6518,
+    "lon": 120.3306,
+    "population": 31349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shijing",
+    "region": "Fujian",
+    "lat": 24.6196,
+    "lon": 118.4244,
+    "population": 31250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shizilu",
+    "region": "Shandong",
+    "lat": 35.1711,
+    "lon": 118.8289,
+    "population": 31242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuyishan",
+    "region": "Fujian",
+    "lat": 27.7599,
+    "lon": 118.0307,
+    "population": 31227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuelongzhuang",
+    "region": "Tianjin",
+    "lat": 39.5683,
+    "lon": 117.8542,
+    "population": 31206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yucheng",
+    "region": "Sichuan",
+    "lat": 29.9852,
+    "lon": 102.999,
+    "population": 31162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lincang Shi",
+    "region": "Yunnan",
+    "lat": 23.948,
+    "lon": 99.5512,
+    "population": 31151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suicheng",
+    "region": "Taiwan",
+    "lat": 33.8963,
+    "lon": 117.9331,
+    "population": 31149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "LianYunGang",
+    "region": "Jiangsu",
+    "lat": 34.8406,
+    "lon": 119.1773,
+    "population": 31110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liangcunchang",
+    "region": "Guizhou",
+    "lat": 28.4067,
+    "lon": 106.4244,
+    "population": 31062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuxue",
+    "region": "Hubei",
+    "lat": 29.8506,
+    "lon": 115.5525,
+    "population": 31040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Genhe",
+    "region": "Inner Mongolia",
+    "lat": 50.7833,
+    "lon": 121.5167,
+    "population": 31024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jishu",
+    "region": "Jilin",
+    "lat": 44.3167,
+    "lon": 126.8,
+    "population": 30981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinan",
+    "region": "Shandong",
+    "lat": 36.6683,
+    "lon": 116.9972,
+    "population": 30957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanbei",
+    "region": "Henan",
+    "lat": 35.0881,
+    "lon": 112.9394,
+    "population": 30955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fujin",
+    "region": "Heilongjiang",
+    "lat": 47.26,
+    "lon": 132.0322,
+    "population": 30912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songkan",
+    "region": "Guizhou",
+    "lat": 28.5497,
+    "lon": 106.8597,
+    "population": 30910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunhua",
+    "region": "Jilin",
+    "lat": 43.3725,
+    "lon": 128.2425,
+    "population": 30825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fukang",
+    "region": "Xinjiang",
+    "lat": 44.1587,
+    "lon": 87.9742,
+    "population": 30803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baluntaicun",
+    "region": "Xinjiang",
+    "lat": 42.6684,
+    "lon": 86.3242,
+    "population": 30797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changtun",
+    "region": "Tianjin",
+    "lat": 39.4433,
+    "lon": 117.0706,
+    "population": 30775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaqiao",
+    "region": "Hunan",
+    "lat": 27.7081,
+    "lon": 110.1419,
+    "population": 30769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lintingkou",
+    "region": "Tianjin",
+    "lat": 39.6303,
+    "lon": 117.5003,
+    "population": 30768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiexiu",
+    "region": "Shanxi",
+    "lat": 37.0244,
+    "lon": 111.9125,
+    "population": 30766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shiwan",
+    "region": "Guangdong",
+    "lat": 23.0011,
+    "lon": 113.077,
+    "population": 30753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuxin",
+    "region": "Liaoning",
+    "lat": 42.0156,
+    "lon": 121.6589,
+    "population": 30741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinmin",
+    "region": "Liaoning",
+    "lat": 41.9908,
+    "lon": 122.8253,
+    "population": 30730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaoyi",
+    "region": "Hunan",
+    "lat": 26.9594,
+    "lon": 110.0156,
+    "population": 30670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chatian",
+    "region": "Hunan",
+    "lat": 27.8022,
+    "lon": 109.3736,
+    "population": 30665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengde Prefecture",
+    "region": "Hebei",
+    "lat": 40.97,
+    "lon": 117.93,
+    "population": 30662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yushu",
+    "region": "Jilin",
+    "lat": 44.8,
+    "lon": 126.5333,
+    "population": 30583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dandong",
+    "region": "Liaoning",
+    "lat": 40.1292,
+    "lon": 124.3947,
+    "population": 30559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangkouxu",
+    "region": "Hunan",
+    "lat": 27.6942,
+    "lon": 109.7358,
+    "population": 30505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaowu",
+    "region": "Fujian",
+    "lat": 27.3409,
+    "lon": 117.4831,
+    "population": 30492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lecheng",
+    "region": "Guangdong",
+    "lat": 25.128,
+    "lon": 113.3504,
+    "population": 30478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongtai",
+    "region": "Taiwan",
+    "lat": 32.8523,
+    "lon": 120.3095,
+    "population": 30439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalian",
+    "region": "Liaoning",
+    "lat": 38.9122,
+    "lon": 121.6022,
+    "population": 30437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shenzhen",
+    "region": "Guangdong",
+    "lat": 22.5565,
+    "lon": 113.9859,
+    "population": 30437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baoshan",
+    "region": "Heilongjiang",
+    "lat": 46.5586,
+    "lon": 131.4244,
+    "population": 30407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yongning",
+    "region": "Fujian",
+    "lat": 24.68,
+    "lon": 118.69,
+    "population": 30374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yakou",
+    "region": "Fujian",
+    "lat": 24.6719,
+    "lon": 118.6372,
+    "population": 30336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zunyi",
+    "region": "Guizhou",
+    "lat": 27.6867,
+    "lon": 106.9072,
+    "population": 30335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changji Huizu Zizhizhou",
+    "region": "Xinjiang",
+    "lat": 44.0167,
+    "lon": 87.3167,
+    "population": 30326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongfeng",
+    "region": "Jilin",
+    "lat": 42.6403,
+    "lon": 125.5118,
+    "population": 30234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bijie",
+    "region": "Guizhou",
+    "lat": 27.3019,
+    "lon": 105.2863,
+    "population": 30162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donghai",
+    "region": "Guangdong",
+    "lat": 22.9459,
+    "lon": 115.642,
+    "population": 30000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baijian",
+    "region": "Tianjin",
+    "lat": 39.9942,
+    "lon": 117.2086,
+    "population": 29995,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chizhou Shi",
+    "region": "Anhui",
+    "lat": 30.3043,
+    "lon": 117.4139,
+    "population": 29972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anyang",
+    "region": "Henan",
+    "lat": 36.096,
+    "lon": 114.3828,
+    "population": 29967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dabaozi",
+    "region": "Hunan",
+    "lat": 26.6956,
+    "lon": 109.4478,
+    "population": 29895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guiyang",
+    "region": "Guizhou",
+    "lat": 26.5833,
+    "lon": 106.7167,
+    "population": 29891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangnihe",
+    "region": "Jilin",
+    "lat": 43.5583,
+    "lon": 128.0239,
+    "population": 29866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangkou",
+    "region": "Fujian",
+    "lat": 25.4869,
+    "lon": 119.1983,
+    "population": 29864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mianyang",
+    "region": "Sichuan",
+    "lat": 31.4678,
+    "lon": 104.6817,
+    "population": 29829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fendou",
+    "region": "Heilongjiang",
+    "lat": 46.6414,
+    "lon": 124.8628,
+    "population": 29789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hechuan",
+    "region": "Chongqing",
+    "lat": 29.9923,
+    "lon": 106.2646,
+    "population": 29716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daixi",
+    "region": "Fujian",
+    "lat": 26.8125,
+    "lon": 119.1142,
+    "population": 29691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qapqal",
+    "region": "Xinjiang",
+    "lat": 43.8019,
+    "lon": 81.0872,
+    "population": 29639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barkam",
+    "region": "Sichuan",
+    "lat": 31.9006,
+    "lon": 102.2209,
+    "population": 29625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaoyang",
+    "region": "Liaoning",
+    "lat": 41.5703,
+    "lon": 120.4586,
+    "population": 29551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tingdong",
+    "region": "Guizhou",
+    "lat": 25.8244,
+    "lon": 108.6125,
+    "population": 29450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingdingshan",
+    "region": "Henan",
+    "lat": 33.7385,
+    "lon": 113.3012,
+    "population": 29442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongxing",
+    "region": "Heilongjiang",
+    "lat": 45.3609,
+    "lon": 130.7868,
+    "population": 29398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiangxi Tujiazu Miaozu Zizhizhou",
+    "region": "Hunan",
+    "lat": 28.7057,
+    "lon": 109.7333,
+    "population": 29381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "SuZhou",
+    "region": "Jiangsu",
+    "lat": 31.3023,
+    "lon": 120.6313,
+    "population": 29364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanmen",
+    "region": "Hunan",
+    "lat": 27.225,
+    "lon": 110.6928,
+    "population": 29336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enshi",
+    "region": "Hubei",
+    "lat": 30.3,
+    "lon": 109.4833,
+    "population": 29287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changsha",
+    "region": "Guizhou",
+    "lat": 28.6878,
+    "lon": 105.9897,
+    "population": 29258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luoqiao",
+    "region": "Fujian",
+    "lat": 26.4727,
+    "lon": 119.0039,
+    "population": 29201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panshan",
+    "region": "Liaoning",
+    "lat": 41.1881,
+    "lon": 122.0494,
+    "population": 29189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangzhai",
+    "region": "Anhui",
+    "lat": 34.4328,
+    "lon": 116.5911,
+    "population": 29172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinshi",
+    "region": "Hunan",
+    "lat": 29.6049,
+    "lon": 111.8701,
+    "population": 29070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhenjiang",
+    "region": "Taiwan",
+    "lat": 32.2109,
+    "lon": 119.4551,
+    "population": 29051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shengli",
+    "region": "Shandong",
+    "lat": 37.4627,
+    "lon": 118.4917,
+    "population": 29049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongshan",
+    "region": "Guangdong",
+    "lat": 21.3199,
+    "lon": 110.5723,
+    "population": 29040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langfang Shi",
+    "region": "Hebei",
+    "lat": 39.5167,
+    "lon": 116.6833,
+    "population": 29024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Binhai New Area",
+    "region": "Tianjin",
+    "lat": 39.0033,
+    "lon": 117.7108,
+    "population": 29019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanmao",
+    "region": "Taiwan",
+    "lat": 32.2393,
+    "lon": 119.8154,
+    "population": 28994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tianpeng",
+    "region": "Sichuan",
+    "lat": 30.9866,
+    "lon": 103.9393,
+    "population": 28978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinjiang",
+    "region": "Hainan",
+    "lat": 19.7288,
+    "lon": 110.0085,
+    "population": 28970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mizhou",
+    "region": "Shandong",
+    "lat": 35.9947,
+    "lon": 119.3975,
+    "population": 28921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanchahe",
+    "region": "Guizhou",
+    "lat": 28.4953,
+    "lon": 106.4283,
+    "population": 28857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengxiang",
+    "region": "Taiwan",
+    "lat": 31.4478,
+    "lon": 121.0939,
+    "population": 28789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanzhou",
+    "region": "Shandong",
+    "lat": 35.5528,
+    "lon": 116.8286,
+    "population": 28778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suixi",
+    "region": "Anhui",
+    "lat": 33.8907,
+    "lon": 116.7747,
+    "population": 28745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanting",
+    "region": "Shandong",
+    "lat": 35.0753,
+    "lon": 117.4578,
+    "population": 28742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songling",
+    "region": "Taiwan",
+    "lat": 31.1933,
+    "lon": 120.7176,
+    "population": 28726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golmud",
+    "region": "Qinghai",
+    "lat": 36.4067,
+    "lon": 94.9006,
+    "population": 28723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongchongcun",
+    "region": "Fujian",
+    "lat": 26.54,
+    "lon": 119.8326,
+    "population": 28663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yicheng",
+    "region": "Hubei",
+    "lat": 31.7047,
+    "lon": 112.2561,
+    "population": 28619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhijiang",
+    "region": "Hubei",
+    "lat": 30.4214,
+    "lon": 111.7533,
+    "population": 28548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baishi",
+    "region": "Guizhou",
+    "lat": 26.9736,
+    "lon": 109.4433,
+    "population": 28532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kashgar",
+    "region": "Xinjiang",
+    "lat": 39.4707,
+    "lon": 75.9895,
+    "population": 28529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ordos",
+    "region": "Inner Mongolia",
+    "lat": 39.6086,
+    "lon": 109.7816,
+    "population": 28528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangjiafang",
+    "region": "Hunan",
+    "lat": 26.84,
+    "lon": 110.3647,
+    "population": 28514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumen",
+    "region": "Jilin",
+    "lat": 42.9661,
+    "lon": 129.8425,
+    "population": 28499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jimo",
+    "region": "Shandong",
+    "lat": 36.3897,
+    "lon": 120.4622,
+    "population": 28456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laibin",
+    "region": "Guangxi Zhuang",
+    "lat": 23.7,
+    "lon": 109.2667,
+    "population": 28423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiaozhou",
+    "region": "Shandong",
+    "lat": 36.2839,
+    "lon": 120.0033,
+    "population": 28335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalai",
+    "region": "Jilin",
+    "lat": 45.5,
+    "lon": 124.3,
+    "population": 28279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baisha",
+    "region": "Hunan",
+    "lat": 26.5222,
+    "lon": 110.9311,
+    "population": 28209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengkou",
+    "region": "Hubei",
+    "lat": 30.0827,
+    "lon": 113.3335,
+    "population": 28136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanwan",
+    "region": "Hunan",
+    "lat": 27.9664,
+    "lon": 110.1503,
+    "population": 28130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bozhou",
+    "region": "Anhui",
+    "lat": 33.8772,
+    "lon": 115.7703,
+    "population": 28119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacheng",
+    "region": "Xinjiang",
+    "lat": 46.7454,
+    "lon": 82.9585,
+    "population": 28026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nandu",
+    "region": "Guangxi Zhuang",
+    "lat": 22.8525,
+    "lon": 110.8233,
+    "population": 27982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiyuan",
+    "region": "Henan",
+    "lat": 35.09,
+    "lon": 112.58,
+    "population": 27968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altay",
+    "region": "Xinjiang",
+    "lat": 47.8486,
+    "lon": 88.1336,
+    "population": 27949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongchuan",
+    "region": "Sichuan",
+    "lat": 31.0941,
+    "lon": 105.0873,
+    "population": 27949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangshi",
+    "region": "Hubei",
+    "lat": 30.2471,
+    "lon": 115.0481,
+    "population": 27893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiashan",
+    "region": "Zhejiang",
+    "lat": 30.8492,
+    "lon": 120.9258,
+    "population": 27860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wulingyuan",
+    "region": "Hunan",
+    "lat": 29.3494,
+    "lon": 110.5441,
+    "population": 27789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingyin",
+    "region": "Shandong",
+    "lat": 36.2831,
+    "lon": 116.4453,
+    "population": 27772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingping",
+    "region": "Henan",
+    "lat": 34.5366,
+    "lon": 113.3753,
+    "population": 27699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shizuishan",
+    "region": "Ningxia Huizu",
+    "lat": 39.2333,
+    "lon": 106.7694,
+    "population": 27681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linqiong",
+    "region": "Sichuan",
+    "lat": 30.4159,
+    "lon": 103.4609,
+    "population": 27679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songling",
+    "region": "Hebei",
+    "lat": 40.293,
+    "lon": 118.2691,
+    "population": 27624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinzhou",
+    "region": "Hubei",
+    "lat": 30.8667,
+    "lon": 114.8,
+    "population": 27567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burang",
+    "region": "Xizang",
+    "lat": 30.2956,
+    "lon": 81.1751,
+    "population": 27546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinzhi",
+    "region": "Shanxi",
+    "lat": 36.4989,
+    "lon": 111.7047,
+    "population": 27495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guiren",
+    "region": "Taiwan",
+    "lat": 33.6697,
+    "lon": 118.1889,
+    "population": 27492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kunshan",
+    "region": "Taiwan",
+    "lat": 31.3776,
+    "lon": 120.9543,
+    "population": 27455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hexiangqiao",
+    "region": "Hunan",
+    "lat": 27.2203,
+    "lon": 110.9633,
+    "population": 27448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "XuZhou",
+    "region": "Jiangsu",
+    "lat": 34.2882,
+    "lon": 117.1855,
+    "population": 27426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yibin",
+    "region": "Sichuan",
+    "lat": 28.7667,
+    "lon": 104.6238,
+    "population": 27404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mingguang",
+    "region": "Anhui",
+    "lat": 32.7802,
+    "lon": 117.9638,
+    "population": 27401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadonghai",
+    "region": "Hainan",
+    "lat": 18.2206,
+    "lon": 109.5103,
+    "population": 27371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shapingba District",
+    "region": "Chongqing",
+    "lat": 29.5417,
+    "lon": 106.4555,
+    "population": 27350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yunfu",
+    "region": "Guangdong",
+    "lat": 22.9283,
+    "lon": 112.0395,
+    "population": 27340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiaojiang",
+    "region": "Zhejiang",
+    "lat": 28.6984,
+    "lon": 121.4733,
+    "population": 27337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haikuotiankong",
+    "region": "Guangdong",
+    "lat": 22.5288,
+    "lon": 113.9399,
+    "population": 27332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaohu",
+    "region": "Anhui",
+    "lat": 31.6,
+    "lon": 117.8667,
+    "population": 27261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linkou",
+    "region": "Hunan",
+    "lat": 26.2481,
+    "lon": 109.8636,
+    "population": 27242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rong’an",
+    "region": "Fujian",
+    "lat": 26.1247,
+    "lon": 119.1214,
+    "population": 27213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longjiang",
+    "region": "Heilongjiang",
+    "lat": 47.3307,
+    "lon": 123.1782,
+    "population": 27147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiancheng",
+    "region": "Sichuan",
+    "lat": 30.391,
+    "lon": 104.5491,
+    "population": 27140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanchang",
+    "region": "Jiangxi",
+    "lat": 28.684,
+    "lon": 115.8531,
+    "population": 27136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songyuan",
+    "region": "Jilin",
+    "lat": 45.129,
+    "lon": 124.8277,
+    "population": 27084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urumqi Shi",
+    "region": "Xinjiang",
+    "lat": 43.8,
+    "lon": 87.5833,
+    "population": 27039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bangjun",
+    "region": "Tianjin",
+    "lat": 39.9884,
+    "lon": 117.2685,
+    "population": 27016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miyang",
+    "region": "Yunnan",
+    "lat": 24.4042,
+    "lon": 103.4428,
+    "population": 26976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mudu",
+    "region": "Taiwan",
+    "lat": 31.256,
+    "lon": 120.5186,
+    "population": 26975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinji",
+    "region": "Guangxi Zhuang",
+    "lat": 23.2281,
+    "lon": 110.8261,
+    "population": 26960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaibei",
+    "region": "Anhui",
+    "lat": 33.9744,
+    "lon": 116.7917,
+    "population": 26946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zangguy",
+    "region": "Xinjiang",
+    "lat": 37.2833,
+    "lon": 78.7667,
+    "population": 26935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meichang",
+    "region": "Tianjin",
+    "lat": 39.3661,
+    "lon": 117.1806,
+    "population": 26929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingdu",
+    "region": "Shandong",
+    "lat": 36.7844,
+    "lon": 119.9464,
+    "population": 26927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tieling Shi",
+    "region": "Liaoning",
+    "lat": 42.6258,
+    "lon": 124.3236,
+    "population": 26878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beipiao",
+    "region": "Liaoning",
+    "lat": 41.7919,
+    "lon": 120.7792,
+    "population": 26869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaoyou",
+    "region": "Taiwan",
+    "lat": 32.7893,
+    "lon": 119.4418,
+    "population": 26835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanma",
+    "region": "Shandong",
+    "lat": 36.1848,
+    "lon": 118.1549,
+    "population": 26796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tantou",
+    "region": "Fujian",
+    "lat": 26.0303,
+    "lon": 119.5974,
+    "population": 26794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shiqi",
+    "region": "Guangdong",
+    "lat": 22.5168,
+    "lon": 113.3852,
+    "population": 26766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poyang",
+    "region": "Jiangxi",
+    "lat": 28.9924,
+    "lon": 116.6675,
+    "population": 26721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengzhou",
+    "region": "Fujian",
+    "lat": 24.9576,
+    "lon": 118.5336,
+    "population": 26653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhanjiang",
+    "region": "Guangdong",
+    "lat": 21.2814,
+    "lon": 110.3427,
+    "population": 26653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puji",
+    "region": "Sichuan",
+    "lat": 32.2391,
+    "lon": 106.4548,
+    "population": 26619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinxiang",
+    "region": "Henan",
+    "lat": 35.1903,
+    "lon": 113.8015,
+    "population": 26613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaoqing",
+    "region": "Guangdong",
+    "lat": 23.0489,
+    "lon": 112.4609,
+    "population": 26591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhenhaicun",
+    "region": "Fujian",
+    "lat": 24.2589,
+    "lon": 118.0919,
+    "population": 26561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sishilichengzi",
+    "region": "Xinjiang",
+    "lat": 41.9619,
+    "lon": 86.4767,
+    "population": 26447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiamaying",
+    "region": "Shandong",
+    "lat": 37.2081,
+    "lon": 115.95,
+    "population": 26443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pulandian",
+    "region": "Liaoning",
+    "lat": 39.3953,
+    "lon": 121.9669,
+    "population": 26431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangmei",
+    "region": "Hubei",
+    "lat": 30.1924,
+    "lon": 116.025,
+    "population": 26419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oroqen Zizhiqi",
+    "region": "Inner Mongolia",
+    "lat": 50.5667,
+    "lon": 123.7167,
+    "population": 26403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaogou",
+    "region": "Taiwan",
+    "lat": 34.0175,
+    "lon": 119.1886,
+    "population": 26346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lichuan",
+    "region": "Hubei",
+    "lat": 30.3,
+    "lon": 108.85,
+    "population": 26342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lu’an",
+    "region": "Anhui",
+    "lat": 31.7356,
+    "lon": 116.5169,
+    "population": 26220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chixi",
+    "region": "Fujian",
+    "lat": 26.9111,
+    "lon": 119.4831,
+    "population": 26216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Touying",
+    "region": "Tianjin",
+    "lat": 39.9639,
+    "lon": 117.2183,
+    "population": 26209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangshi",
+    "region": "Hunan",
+    "lat": 27.1233,
+    "lon": 109.7378,
+    "population": 26178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langzhong",
+    "region": "Sichuan",
+    "lat": 31.5504,
+    "lon": 105.9938,
+    "population": 26175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anyang Shi",
+    "region": "Henan",
+    "lat": 36.1364,
+    "lon": 114.3367,
+    "population": 26120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guye",
+    "region": "Hebei",
+    "lat": 39.7305,
+    "lon": 118.4408,
+    "population": 26097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weiwangzhuang",
+    "region": "Tianjin",
+    "lat": 39.025,
+    "lon": 117.4408,
+    "population": 25998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beihai",
+    "region": "Guangxi Zhuang",
+    "lat": 21.4833,
+    "lon": 109.1,
+    "population": 25981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shazikou",
+    "region": "Shandong",
+    "lat": 36.115,
+    "lon": 120.5372,
+    "population": 25979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongfang",
+    "region": "Fujian",
+    "lat": 26.6008,
+    "lon": 119.4258,
+    "population": 25946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaoguli",
+    "region": "Tianjin",
+    "lat": 39.1667,
+    "lon": 117.2419,
+    "population": 25943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Feicheng",
+    "region": "Shandong",
+    "lat": 36.2486,
+    "lon": 116.7658,
+    "population": 25881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhoucheng",
+    "region": "Shandong",
+    "lat": 35.9122,
+    "lon": 116.3117,
+    "population": 25874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangri-La",
+    "region": "Yunnan",
+    "lat": 27.8251,
+    "lon": 99.7078,
+    "population": 25780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korla",
+    "region": "Xinjiang",
+    "lat": 41.7606,
+    "lon": 86.1523,
+    "population": 25730,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lingdong",
+    "region": "Heilongjiang",
+    "lat": 46.5669,
+    "lon": 131.1453,
+    "population": 25729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanshui",
+    "region": "Guangdong",
+    "lat": 23.1549,
+    "lon": 112.8916,
+    "population": 25716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luoyang",
+    "region": "Guangdong",
+    "lat": 23.1624,
+    "lon": 114.2734,
+    "population": 25663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Altay Diqu",
+    "region": "Xinjiang",
+    "lat": 47.8667,
+    "lon": 88.1167,
+    "population": 25643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shijiaochang",
+    "region": "Chongqing",
+    "lat": 28.9244,
+    "lon": 106.7561,
+    "population": 25621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huotong",
+    "region": "Fujian",
+    "lat": 26.8497,
+    "lon": 119.4181,
+    "population": 25614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yantongshan",
+    "region": "Jilin",
+    "lat": 43.2919,
+    "lon": 126.0094,
+    "population": 25554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongning",
+    "region": "Heilongjiang",
+    "lat": 44.0622,
+    "lon": 131.1207,
+    "population": 25299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayan",
+    "region": "Heilongjiang",
+    "lat": 46.0756,
+    "lon": 127.3984,
+    "population": 25297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiajiang",
+    "region": "Guizhou",
+    "lat": 25.7556,
+    "lon": 108.6919,
+    "population": 25176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xuchang",
+    "region": "Henan",
+    "lat": 34.0319,
+    "lon": 113.863,
+    "population": 25169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shijiang",
+    "region": "Hunan",
+    "lat": 27.0819,
+    "lon": 110.7933,
+    "population": 25161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaoshi",
+    "region": "Hunan",
+    "lat": 26.2931,
+    "lon": 110.7892,
+    "population": 25108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xilin Gol Meng",
+    "region": "Inner Mongolia",
+    "lat": 44.8549,
+    "lon": 115.7279,
+    "population": 25103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanzhou",
+    "region": "Gansu",
+    "lat": 36.057,
+    "lon": 103.8399,
+    "population": 25080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shantou",
+    "region": "Guangdong",
+    "lat": 23.3681,
+    "lon": 116.7148,
+    "population": 25073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuanping",
+    "region": "Shanxi",
+    "lat": 38.7153,
+    "lon": 112.7575,
+    "population": 25073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaxgar Diqu",
+    "region": "Xinjiang",
+    "lat": 39.4754,
+    "lon": 75.9897,
+    "population": 25060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanji",
+    "region": "Jilin",
+    "lat": 42.9075,
+    "lon": 129.5078,
+    "population": 25051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaidian",
+    "region": "Henan",
+    "lat": 33.4333,
+    "lon": 115.0333,
+    "population": 25011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaoshajiang",
+    "region": "Hunan",
+    "lat": 27.5214,
+    "lon": 110.7481,
+    "population": 25007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shihezi",
+    "region": "Xinjiang",
+    "lat": 44.3023,
+    "lon": 86.0369,
+    "population": 24984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taihe",
+    "region": "Sichuan",
+    "lat": 30.8712,
+    "lon": 105.3845,
+    "population": 24983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuxi",
+    "region": "Yunnan",
+    "lat": 24.355,
+    "lon": 102.5422,
+    "population": 24952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xianrenwan",
+    "region": "Hunan",
+    "lat": 27.7544,
+    "lon": 110.3297,
+    "population": 24951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huocheng",
+    "region": "Xinjiang",
+    "lat": 44.053,
+    "lon": 80.8717,
+    "population": 24937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dengjiapu",
+    "region": "Hunan",
+    "lat": 26.9044,
+    "lon": 110.92,
+    "population": 24907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinyu",
+    "region": "Jiangxi",
+    "lat": 27.8043,
+    "lon": 114.9334,
+    "population": 24890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangmei",
+    "region": "Hunan",
+    "lat": 27.7428,
+    "lon": 111.2956,
+    "population": 24878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhushi",
+    "region": "Hunan",
+    "lat": 27.0878,
+    "lon": 110.6769,
+    "population": 24878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qincheng",
+    "region": "Gansu",
+    "lat": 34.5803,
+    "lon": 105.7272,
+    "population": 24860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panjin Shi",
+    "region": "Liaoning",
+    "lat": 41.1317,
+    "lon": 121.9936,
+    "population": 24826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rucheng",
+    "region": "Taiwan",
+    "lat": 32.3883,
+    "lon": 120.5553,
+    "population": 24818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagqu",
+    "region": "Xizang",
+    "lat": 31.4768,
+    "lon": 92.0573,
+    "population": 24784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiancheng",
+    "region": "Hunan",
+    "lat": 27.185,
+    "lon": 109.7654,
+    "population": 24763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daye",
+    "region": "Hubei",
+    "lat": 30.0833,
+    "lon": 114.95,
+    "population": 24745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hancheng",
+    "region": "Shaanxi",
+    "lat": 35.4603,
+    "lon": 110.4292,
+    "population": 24716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qamdo",
+    "region": "Xizang",
+    "lat": 31.1304,
+    "lon": 97.1798,
+    "population": 24716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Licheng",
+    "region": "Guangdong",
+    "lat": 23.2955,
+    "lon": 113.8247,
+    "population": 24646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mengquan",
+    "region": "Tianjin",
+    "lat": 39.8253,
+    "lon": 117.4767,
+    "population": 24640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beilizigu",
+    "region": "Tianjin",
+    "lat": 39.4914,
+    "lon": 117.465,
+    "population": 24601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongsheng",
+    "region": "Inner Mongolia",
+    "lat": 39.8161,
+    "lon": 109.9776,
+    "population": 24571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daxing",
+    "region": "Beijing",
+    "lat": 39.7403,
+    "lon": 116.3269,
+    "population": 24492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaizhou",
+    "region": "Liaoning",
+    "lat": 40.3942,
+    "lon": 122.3686,
+    "population": 24440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tailai",
+    "region": "Heilongjiang",
+    "lat": 46.3891,
+    "lon": 123.4137,
+    "population": 24426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianghu",
+    "region": "Zhejiang",
+    "lat": 29.9915,
+    "lon": 120.8984,
+    "population": 24380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuikou",
+    "region": "Fujian",
+    "lat": 26.3836,
+    "lon": 118.7303,
+    "population": 24374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangyu",
+    "region": "Zhejiang",
+    "lat": 30.0156,
+    "lon": 120.8711,
+    "population": 24372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shilong",
+    "region": "Guangdong",
+    "lat": 23.1144,
+    "lon": 113.8472,
+    "population": 24302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biaokou",
+    "region": "Tianjin",
+    "lat": 39.3295,
+    "lon": 117.5691,
+    "population": 24198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anda",
+    "region": "Heilongjiang",
+    "lat": 46.402,
+    "lon": 125.3145,
+    "population": 24173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanmen",
+    "region": "Hunan",
+    "lat": 27.855,
+    "lon": 109.7403,
+    "population": 24127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanwei",
+    "region": "Guangdong",
+    "lat": 22.782,
+    "lon": 115.3475,
+    "population": 24102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yatunpu",
+    "region": "Hunan",
+    "lat": 26.155,
+    "lon": 109.6267,
+    "population": 24062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaozhou",
+    "region": "Guangdong",
+    "lat": 21.9392,
+    "lon": 110.8461,
+    "population": 24048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xichang",
+    "region": "Sichuan",
+    "lat": 27.8964,
+    "lon": 102.2634,
+    "population": 24048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mudanjiang",
+    "region": "Heilongjiang",
+    "lat": 44.5833,
+    "lon": 129.6,
+    "population": 24034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qianzhou",
+    "region": "Hunan",
+    "lat": 28.3193,
+    "lon": 109.7335,
+    "population": 24011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingxiang",
+    "region": "Jiangxi",
+    "lat": 27.6167,
+    "lon": 113.8535,
+    "population": 24010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huai'an",
+    "region": "Taiwan",
+    "lat": 33.5886,
+    "lon": 119.0192,
+    "population": 23965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fushun",
+    "region": "Liaoning",
+    "lat": 41.8867,
+    "lon": 123.9436,
+    "population": 23931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhicheng",
+    "region": "Zhejiang",
+    "lat": 31.0075,
+    "lon": 119.9085,
+    "population": 23928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shouguang",
+    "region": "Shandong",
+    "lat": 36.88,
+    "lon": 118.7375,
+    "population": 23906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neikeng",
+    "region": "Fujian",
+    "lat": 24.7854,
+    "lon": 118.4604,
+    "population": 23861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suizhou",
+    "region": "Hubei",
+    "lat": 31.7111,
+    "lon": 113.3631,
+    "population": 23824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erdaojiang",
+    "region": "Jilin",
+    "lat": 41.7764,
+    "lon": 126.0319,
+    "population": 23806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanding",
+    "region": "Shandong",
+    "lat": 36.7483,
+    "lon": 118.0558,
+    "population": 23798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengpu",
+    "region": "Fujian",
+    "lat": 26.6828,
+    "lon": 118.7601,
+    "population": 23704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuxiong Yizu Zizhizhou",
+    "region": "Yunnan",
+    "lat": 25.432,
+    "lon": 101.7048,
+    "population": 23701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qionghai",
+    "region": "Hainan",
+    "lat": 19.2425,
+    "lon": 110.4642,
+    "population": 23675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanshi Chengguanzhen",
+    "region": "Henan",
+    "lat": 34.716,
+    "lon": 112.7957,
+    "population": 23633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangcang",
+    "region": "Tianjin",
+    "lat": 39.9052,
+    "lon": 117.3955,
+    "population": 23627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiaxing Shi",
+    "region": "Zhejiang",
+    "lat": 30.7707,
+    "lon": 120.7524,
+    "population": 23579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "HuaiAn",
+    "region": "Jiangsu",
+    "lat": 33.2943,
+    "lon": 118.8735,
+    "population": 23551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hetang",
+    "region": "Fujian",
+    "lat": 26.6628,
+    "lon": 119.1106,
+    "population": 23536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanyang",
+    "region": "Fujian",
+    "lat": 26.6702,
+    "lon": 119.2051,
+    "population": 23479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanchuan",
+    "region": "Hubei",
+    "lat": 30.65,
+    "lon": 113.7667,
+    "population": 23448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuyang",
+    "region": "Hunan",
+    "lat": 26.7428,
+    "lon": 110.3283,
+    "population": 23445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuyang",
+    "region": "Zhejiang",
+    "lat": 30.0533,
+    "lon": 119.9519,
+    "population": 23411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouyang",
+    "region": "Guizhou",
+    "lat": 26.4191,
+    "lon": 109.216,
+    "population": 23401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lingbao Chengguanzhen",
+    "region": "Henan",
+    "lat": 34.5197,
+    "lon": 110.8644,
+    "population": 23296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingxi",
+    "region": "Hunan",
+    "lat": 26.4311,
+    "lon": 110.3549,
+    "population": 23289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changsha",
+    "region": "Hunan",
+    "lat": 28.1987,
+    "lon": 112.9709,
+    "population": 23255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pizhou",
+    "region": "Taiwan",
+    "lat": 34.3114,
+    "lon": 117.9503,
+    "population": 23243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianyuan",
+    "region": "Hunan",
+    "lat": 27.6883,
+    "lon": 111.6642,
+    "population": 23239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yinzhu",
+    "region": "Shandong",
+    "lat": 35.8786,
+    "lon": 119.9753,
+    "population": 23238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yilan",
+    "region": "Heilongjiang",
+    "lat": 46.3162,
+    "lon": 129.5546,
+    "population": 23221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meishan Shi",
+    "region": "Sichuan",
+    "lat": 30.03,
+    "lon": 104.04,
+    "population": 23093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianzhou",
+    "region": "Guangdong",
+    "lat": 24.7819,
+    "lon": 112.3712,
+    "population": 23086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiangcheng Chengguanzhen",
+    "region": "Henan",
+    "lat": 33.847,
+    "lon": 113.4778,
+    "population": 23028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xilin Hot",
+    "region": "Inner Mongolia",
+    "lat": 43.9667,
+    "lon": 116.0333,
+    "population": 22986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mabai",
+    "region": "Yunnan",
+    "lat": 23.0128,
+    "lon": 104.4508,
+    "population": 22978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mishan",
+    "region": "Heilongjiang",
+    "lat": 45.55,
+    "lon": 131.8833,
+    "population": 22975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongxing",
+    "region": "Taiwan",
+    "lat": 33.7039,
+    "lon": 118.6792,
+    "population": 22867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Runsong",
+    "region": "Guizhou",
+    "lat": 26.87,
+    "lon": 109.097,
+    "population": 22856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiabaishi",
+    "region": "Fujian",
+    "lat": 26.8153,
+    "lon": 119.6792,
+    "population": 22856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingyang",
+    "region": "Shandong",
+    "lat": 37.4958,
+    "lon": 121.2581,
+    "population": 22783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ili Kazak Zizhizhou",
+    "region": "Xinjiang",
+    "lat": 43.3121,
+    "lon": 82.271,
+    "population": 22718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aral",
+    "region": "Xinjiang",
+    "lat": 40.5418,
+    "lon": 81.2657,
+    "population": 22715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiazhen",
+    "region": "Shandong",
+    "lat": 34.8022,
+    "lon": 117.1117,
+    "population": 22689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangtukuang",
+    "region": "Hunan",
+    "lat": 26.9153,
+    "lon": 110.4078,
+    "population": 22622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jilin",
+    "region": "Jilin",
+    "lat": 43.8508,
+    "lon": 126.5603,
+    "population": 22520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yiwu",
+    "region": "Zhejiang",
+    "lat": 29.3151,
+    "lon": 120.0768,
+    "population": 22473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darong",
+    "region": "Guizhou",
+    "lat": 25.785,
+    "lon": 108.864,
+    "population": 22460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngari Diqu",
+    "region": "Xizang",
+    "lat": 33.2184,
+    "lon": 82.5751,
+    "population": 22416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangzhou",
+    "region": "Hubei",
+    "lat": 30.45,
+    "lon": 114.8,
+    "population": 22406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dêqên Tibetan Autonomous Prefecture",
+    "region": "Yunnan",
+    "lat": 27.9169,
+    "lon": 99.5484,
+    "population": 22351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mengcheng Chengguanzhen",
+    "region": "Anhui",
+    "lat": 33.2661,
+    "lon": 116.5661,
+    "population": 22349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nenjiang",
+    "region": "Heilongjiang",
+    "lat": 49.1741,
+    "lon": 125.2177,
+    "population": 22349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xishan",
+    "region": "Guizhou",
+    "lat": 25.6853,
+    "lon": 108.9639,
+    "population": 22292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huzhou",
+    "region": "Zhejiang",
+    "lat": 30.8703,
+    "lon": 120.0933,
+    "population": 22283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yingshang Chengguanzhen",
+    "region": "Anhui",
+    "lat": 32.6294,
+    "lon": 116.2701,
+    "population": 22263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ordos Shi",
+    "region": "Inner Mongolia",
+    "lat": 39.4614,
+    "lon": 108.8095,
+    "population": 22234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuhu",
+    "region": "Anhui",
+    "lat": 31.3373,
+    "lon": 118.3735,
+    "population": 22213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xianning",
+    "region": "Hubei",
+    "lat": 29.8435,
+    "lon": 114.322,
+    "population": 22209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Botou",
+    "region": "Hebei",
+    "lat": 38.0667,
+    "lon": 116.5666,
+    "population": 22198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suining",
+    "region": "Sichuan",
+    "lat": 30.508,
+    "lon": 105.5733,
+    "population": 22178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wantouqiao",
+    "region": "Hunan",
+    "lat": 26.8411,
+    "lon": 110.6194,
+    "population": 22136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanli",
+    "region": "Hunan",
+    "lat": 27.8869,
+    "lon": 109.9186,
+    "population": 22120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangyashan",
+    "region": "Heilongjiang",
+    "lat": 46.6361,
+    "lon": 131.1539,
+    "population": 22115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangcheng",
+    "region": "Heilongjiang",
+    "lat": 45.35,
+    "lon": 126.2833,
+    "population": 22105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehui",
+    "region": "Jilin",
+    "lat": 44.5333,
+    "lon": 125.7,
+    "population": 22081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beizhai",
+    "region": "Shandong",
+    "lat": 36.2197,
+    "lon": 120.5289,
+    "population": 22061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangmaoyuan",
+    "region": "Hunan",
+    "lat": 27.4042,
+    "lon": 110.4747,
+    "population": 22060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taizhou",
+    "region": "Taiwan",
+    "lat": 32.4907,
+    "lon": 119.9081,
+    "population": 22037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longnan Shi",
+    "region": "Gansu",
+    "lat": 33.5345,
+    "lon": 105.3495,
+    "population": 22023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meihekou",
+    "region": "Jilin",
+    "lat": 42.5272,
+    "lon": 125.6753,
+    "population": 22019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangye",
+    "region": "Gansu",
+    "lat": 38.9342,
+    "lon": 100.4517,
+    "population": 22013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nangong",
+    "region": "Hebei",
+    "lat": 37.3581,
+    "lon": 115.3744,
+    "population": 22007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beijing",
+    "region": "Beijing",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "population": 21993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lhasa",
+    "region": "Xizang",
+    "lat": 29.65,
+    "lon": 91.1,
+    "population": 21988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huogezhuang",
+    "region": "Tianjin",
+    "lat": 39.7439,
+    "lon": 117.3675,
+    "population": 21963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anlu",
+    "region": "Hubei",
+    "lat": 31.2575,
+    "lon": 113.6783,
+    "population": 21913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiaxing",
+    "region": "Zhejiang",
+    "lat": 30.7522,
+    "lon": 120.75,
+    "population": 21907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beidaihehaibin",
+    "region": "Hebei",
+    "lat": 39.8222,
+    "lon": 119.5181,
+    "population": 21873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huai’an",
+    "region": "Fujian",
+    "lat": 26.099,
+    "lon": 119.2217,
+    "population": 21826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangxi",
+    "region": "Fujian",
+    "lat": 27.0225,
+    "lon": 119.0414,
+    "population": 21777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guiping",
+    "region": "Guangxi Zhuang",
+    "lat": 23.3934,
+    "lon": 110.0744,
+    "population": 21763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daqing",
+    "region": "Heilongjiang",
+    "lat": 46.5833,
+    "lon": 125,
+    "population": 21746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meipu",
+    "region": "Fujian",
+    "lat": 26.2112,
+    "lon": 118.8956,
+    "population": 21587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mingshui",
+    "region": "Heilongjiang",
+    "lat": 47.1815,
+    "lon": 125.9003,
+    "population": 21579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ducheng",
+    "region": "Guangdong",
+    "lat": 23.2421,
+    "lon": 111.5284,
+    "population": 21552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acheng",
+    "region": "Heilongjiang",
+    "lat": 45.5455,
+    "lon": 126.977,
+    "population": 21518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qinglang",
+    "region": "Guizhou",
+    "lat": 27.1247,
+    "lon": 108.7328,
+    "population": 21494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yulin",
+    "region": "Guangxi Zhuang",
+    "lat": 22.6333,
+    "lon": 110.15,
+    "population": 21437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangwakou",
+    "region": "Tianjin",
+    "lat": 39.5225,
+    "lon": 117.7025,
+    "population": 21332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turpan Diqu",
+    "region": "Xinjiang",
+    "lat": 42.9333,
+    "lon": 89.1667,
+    "population": 21303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenshang",
+    "region": "Shandong",
+    "lat": 35.7275,
+    "lon": 116.4961,
+    "population": 21299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changqiao",
+    "region": "Fujian",
+    "lat": 26.8214,
+    "lon": 118.8436,
+    "population": 21261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langfang",
+    "region": "Hebei",
+    "lat": 39.5097,
+    "lon": 116.6947,
+    "population": 21230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangyan",
+    "region": "Zhejiang",
+    "lat": 28.6501,
+    "lon": 121.2659,
+    "population": 21157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aksu Diqu",
+    "region": "Xinjiang",
+    "lat": 40.5569,
+    "lon": 81.8463,
+    "population": 21115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangjinjing",
+    "region": "Hunan",
+    "lat": 27.5856,
+    "lon": 110.8913,
+    "population": 21105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cangzhou Shi",
+    "region": "Hebei",
+    "lat": 38.31,
+    "lon": 116.86,
+    "population": 21084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fenghuang",
+    "region": "Hunan",
+    "lat": 27.9356,
+    "lon": 109.5996,
+    "population": 21041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hohhot",
+    "region": "Inner Mongolia",
+    "lat": 40.8106,
+    "lon": 111.6522,
+    "population": 21034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianshan",
+    "region": "Liaoning",
+    "lat": 40.7643,
+    "lon": 120.8533,
+    "population": 21005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinchang",
+    "region": "Gansu",
+    "lat": 38.5006,
+    "lon": 102.1938,
+    "population": 20992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panzhihua",
+    "region": "Sichuan",
+    "lat": 26.5851,
+    "lon": 101.7128,
+    "population": 20973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xunchang",
+    "region": "Sichuan",
+    "lat": 28.4543,
+    "lon": 104.715,
+    "population": 20943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "NanTong",
+    "region": "Jiangsu",
+    "lat": 32.0099,
+    "lon": 120.8574,
+    "population": 20861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gejiu",
+    "region": "Yunnan",
+    "lat": 23.3608,
+    "lon": 103.1537,
+    "population": 20858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qinnan",
+    "region": "Taiwan",
+    "lat": 33.2531,
+    "lon": 119.9133,
+    "population": 20858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wangkui",
+    "region": "Heilongjiang",
+    "lat": 46.8328,
+    "lon": 126.4777,
+    "population": 20809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changli",
+    "region": "Hebei",
+    "lat": 39.7042,
+    "lon": 119.1506,
+    "population": 20711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turpan",
+    "region": "Xinjiang",
+    "lat": 42.9477,
+    "lon": 89.1789,
+    "population": 20662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quanzhou",
+    "region": "Fujian",
+    "lat": 24.9139,
+    "lon": 118.5858,
+    "population": 20655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengcheng",
+    "region": "Liaoning",
+    "lat": 40.4536,
+    "lon": 124.0717,
+    "population": 20641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changji",
+    "region": "Xinjiang",
+    "lat": 44.0078,
+    "lon": 87.3046,
+    "population": 20599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangmu",
+    "region": "Guizhou",
+    "lat": 28.2153,
+    "lon": 106.2689,
+    "population": 20573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuyuan",
+    "region": "Heilongjiang",
+    "lat": 48.3631,
+    "lon": 134.2892,
+    "population": 20570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erwangzhuang",
+    "region": "Tianjin",
+    "lat": 39.3917,
+    "lon": 117.3539,
+    "population": 20547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lingyuan",
+    "region": "Liaoning",
+    "lat": 41.24,
+    "lon": 119.4011,
+    "population": 20526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaishi Miaozu Dongzuxiang",
+    "region": "Hunan",
+    "lat": 26.5008,
+    "lon": 110.0444,
+    "population": 20475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruoshui",
+    "region": "Hunan",
+    "lat": 27.0019,
+    "lon": 109.9667,
+    "population": 20458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinqing",
+    "region": "Heilongjiang",
+    "lat": 48.287,
+    "lon": 129.5234,
+    "population": 20413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wangqinzhuang",
+    "region": "Tianjin",
+    "lat": 39.2294,
+    "lon": 117.0897,
+    "population": 20395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiangyou",
+    "region": "Sichuan",
+    "lat": 31.7667,
+    "lon": 104.7167,
+    "population": 20359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dundong",
+    "region": "Guizhou",
+    "lat": 26.0119,
+    "lon": 109.141,
+    "population": 20340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taiyuan",
+    "region": "Shanxi",
+    "lat": 37.8694,
+    "lon": 112.5603,
+    "population": 20337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuiche",
+    "region": "Hunan",
+    "lat": 27.6869,
+    "lon": 110.9997,
+    "population": 20324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guantou",
+    "region": "Fujian",
+    "lat": 26.1359,
+    "lon": 119.5616,
+    "population": 20316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangwan",
+    "region": "Fujian",
+    "lat": 26.7114,
+    "lon": 119.5919,
+    "population": 20313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jidong",
+    "region": "Heilongjiang",
+    "lat": 45.2167,
+    "lon": 131.0833,
+    "population": 20292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beicang",
+    "region": "Tianjin",
+    "lat": 39.2301,
+    "lon": 117.1189,
+    "population": 20251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boshan",
+    "region": "Shandong",
+    "lat": 36.4833,
+    "lon": 117.8333,
+    "population": 20239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longyan",
+    "region": "Fujian",
+    "lat": 25.1072,
+    "lon": 117.0225,
+    "population": 20217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gannan",
+    "region": "Heilongjiang",
+    "lat": 47.9147,
+    "lon": 123.5031,
+    "population": 20204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chifeng",
+    "region": "Inner Mongolia",
+    "lat": 42.2683,
+    "lon": 118.9636,
+    "population": 20154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinyi",
+    "region": "Guangdong",
+    "lat": 22.373,
+    "lon": 110.9475,
+    "population": 20145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dashiqiao",
+    "region": "Liaoning",
+    "lat": 40.6373,
+    "lon": 122.5025,
+    "population": 20131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xibing",
+    "region": "Fujian",
+    "lat": 26.9814,
+    "lon": 119.7247,
+    "population": 20066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laizhou",
+    "region": "Shandong",
+    "lat": 37.1807,
+    "lon": 119.9422,
+    "population": 20057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zunhua",
+    "region": "Hebei",
+    "lat": 40.1792,
+    "lon": 117.9586,
+    "population": 20042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xindian",
+    "region": "Shandong",
+    "lat": 36.7975,
+    "lon": 118.2944,
+    "population": 20030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baoqing",
+    "region": "Heilongjiang",
+    "lat": 46.3317,
+    "lon": 132.2111,
+    "population": 20026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinzhou",
+    "region": "Liaoning",
+    "lat": 41.1078,
+    "lon": 121.1417,
+    "population": 20016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dakoutun",
+    "region": "Tianjin",
+    "lat": 39.5856,
+    "lon": 117.2364,
+    "population": 19933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ankang",
+    "region": "Shaanxi",
+    "lat": 32.68,
+    "lon": 109.0172,
+    "population": 19895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suihua",
+    "region": "Heilongjiang",
+    "lat": 46.6395,
+    "lon": 126.9951,
+    "population": 19806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suzhou Shi",
+    "region": "Anhui",
+    "lat": 33.8697,
+    "lon": 117.2057,
+    "population": 19766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaohenglong",
+    "region": "Hunan",
+    "lat": 27.605,
+    "lon": 110.5169,
+    "population": 19758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xishan",
+    "region": "Hunan",
+    "lat": 27.6667,
+    "lon": 113.5,
+    "population": 19717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taiping",
+    "region": "Sichuan",
+    "lat": 28.1408,
+    "lon": 106.0377,
+    "population": 19713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonggu",
+    "region": "Guizhou",
+    "lat": 26.5722,
+    "lon": 109.3094,
+    "population": 19700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonghua Shi",
+    "region": "Jilin",
+    "lat": 42.1239,
+    "lon": 125.8483,
+    "population": 19691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaqiu",
+    "region": "Guizhou",
+    "lat": 28.1166,
+    "lon": 106.6022,
+    "population": 19652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinghua",
+    "region": "Taiwan",
+    "lat": 32.9392,
+    "lon": 119.8342,
+    "population": 19652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaoyuan",
+    "region": "Shandong",
+    "lat": 37.365,
+    "lon": 120.41,
+    "population": 19624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bozhou",
+    "region": "Hunan",
+    "lat": 27.3789,
+    "lon": 109.2778,
+    "population": 19548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiliguantun",
+    "region": "Shandong",
+    "lat": 37.0783,
+    "lon": 115.9414,
+    "population": 19491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wafangdian",
+    "region": "Liaoning",
+    "lat": 39.6183,
+    "lon": 122.0081,
+    "population": 19460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuncheng",
+    "region": "Shanxi",
+    "lat": 35.0231,
+    "lon": 110.9928,
+    "population": 19455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadeng",
+    "region": "Fujian",
+    "lat": 24.5439,
+    "lon": 118.3275,
+    "population": 19385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chonglong",
+    "region": "Sichuan",
+    "lat": 29.7806,
+    "lon": 104.8522,
+    "population": 19371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hecun",
+    "region": "Hebei",
+    "lat": 36.5333,
+    "lon": 114.1111,
+    "population": 19362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qiandongnan Miao and Dong Autonomous Prefecture",
+    "region": "Guizhou",
+    "lat": 26.5738,
+    "lon": 108.5991,
+    "population": 19336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiditou",
+    "region": "Tianjin",
+    "lat": 39.2532,
+    "lon": 117.3471,
+    "population": 19243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hulan Ergi",
+    "region": "Heilongjiang",
+    "lat": 47.2042,
+    "lon": 123.6333,
+    "population": 19240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yunyang",
+    "region": "Henan",
+    "lat": 33.4474,
+    "lon": 112.7142,
+    "population": 19233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guangshui",
+    "region": "Hubei",
+    "lat": 31.6199,
+    "lon": 113.9978,
+    "population": 19231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danyang",
+    "region": "Fujian",
+    "lat": 26.351,
+    "lon": 119.4803,
+    "population": 19186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongditou",
+    "region": "Tianjin",
+    "lat": 39.2664,
+    "lon": 117.3728,
+    "population": 19181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jieyang",
+    "region": "Guangdong",
+    "lat": 23.5418,
+    "lon": 116.3658,
+    "population": 19139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badu",
+    "region": "Fujian",
+    "lat": 26.8103,
+    "lon": 119.5642,
+    "population": 19116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yigou",
+    "region": "Henan",
+    "lat": 35.8114,
+    "lon": 114.3167,
+    "population": 19106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanan",
+    "region": "Heilongjiang",
+    "lat": 46.2207,
+    "lon": 130.525,
+    "population": 18979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huadian",
+    "region": "Jilin",
+    "lat": 42.9633,
+    "lon": 126.7478,
+    "population": 18963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanggang",
+    "region": "Hubei",
+    "lat": 30.4514,
+    "lon": 114.8704,
+    "population": 18882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luancheng",
+    "region": "Hebei",
+    "lat": 37.8792,
+    "lon": 114.6517,
+    "population": 18834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jitoucun",
+    "region": "Fujian",
+    "lat": 26.4768,
+    "lon": 119.6052,
+    "population": 18816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuji",
+    "region": "Zhejiang",
+    "lat": 29.7188,
+    "lon": 120.2423,
+    "population": 18762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karamay Shi",
+    "region": "Xinjiang",
+    "lat": 45.4999,
+    "lon": 84.9168,
+    "population": 18743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beishancun",
+    "region": "Fujian",
+    "lat": 26.4373,
+    "lon": 119.6337,
+    "population": 18724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liangshan Yizu Zizhizhou",
+    "region": "Sichuan",
+    "lat": 27.8764,
+    "lon": 102.1018,
+    "population": 18703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fengrun",
+    "region": "Hebei",
+    "lat": 39.8333,
+    "lon": 118.1167,
+    "population": 18690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanya",
+    "region": "Hainan",
+    "lat": 18.2431,
+    "lon": 109.505,
+    "population": 18672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heyuan",
+    "region": "Guangdong",
+    "lat": 23.7333,
+    "lon": 114.6833,
+    "population": 18669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingyang Shi",
+    "region": "Gansu",
+    "lat": 36.236,
+    "lon": 107.5811,
+    "population": 18669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuzhou Shi",
+    "region": "Hunan",
+    "lat": 27.8245,
+    "lon": 113.0823,
+    "population": 18666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anqing",
+    "region": "Anhui",
+    "lat": 30.5136,
+    "lon": 117.0472,
+    "population": 18657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiantan",
+    "region": "Sichuan",
+    "lat": 28.8186,
+    "lon": 106.1927,
+    "population": 18627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingnan",
+    "region": "Guangxi Zhuang",
+    "lat": 23.5422,
+    "lon": 110.3895,
+    "population": 18622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laojunmiao",
+    "region": "Gansu",
+    "lat": 39.8333,
+    "lon": 97.7333,
+    "population": 18599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangjiakou Shi",
+    "region": "Hebei",
+    "lat": 40.8333,
+    "lon": 114.9333,
+    "population": 18584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chenzhou",
+    "region": "Hunan",
+    "lat": 25.8,
+    "lon": 113.0333,
+    "population": 18573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhengzhou",
+    "region": "Henan",
+    "lat": 34.7578,
+    "lon": 113.6486,
+    "population": 18565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huayin",
+    "region": "Shaanxi",
+    "lat": 34.5653,
+    "lon": 110.0664,
+    "population": 18532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "YangZhou",
+    "region": "Jiangsu",
+    "lat": 32.3946,
+    "lon": 119.4316,
+    "population": 18420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guofuchang",
+    "region": "Chongqing",
+    "lat": 28.85,
+    "lon": 106.6014,
+    "population": 18384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamencheng",
+    "region": "Tianjin",
+    "lat": 39.5778,
+    "lon": 117.6053,
+    "population": 18380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linxia Huizu Zizhizhou",
+    "region": "Gansu",
+    "lat": 35.666,
+    "lon": 103.2408,
+    "population": 18352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Songjianghe",
+    "region": "Jilin",
+    "lat": 42.1859,
+    "lon": 127.4789,
+    "population": 18228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yichang",
+    "region": "Hubei",
+    "lat": 30.7144,
+    "lon": 111.2847,
+    "population": 18223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shima",
+    "region": "Fujian",
+    "lat": 24.4465,
+    "lon": 117.8122,
+    "population": 18203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chongqing",
+    "region": "Chongqing",
+    "lat": 29.5628,
+    "lon": 106.5528,
+    "population": 18166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yudong",
+    "region": "Chongqing",
+    "lat": 29.385,
+    "lon": 106.5194,
+    "population": 18160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangshan",
+    "region": "Anhui",
+    "lat": 29.7114,
+    "lon": 118.3125,
+    "population": 18143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuzhou Shi",
+    "region": "Anhui",
+    "lat": 32.6008,
+    "lon": 118.0881,
+    "population": 18141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helong",
+    "region": "Jilin",
+    "lat": 42.5397,
+    "lon": 128.9972,
+    "population": 18040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shache",
+    "region": "Xinjiang",
+    "lat": 38.4167,
+    "lon": 77.2406,
+    "population": 18002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Handan",
+    "region": "Hebei",
+    "lat": 36.6006,
+    "lon": 114.4678,
+    "population": 17985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuoyang",
+    "region": "Fujian",
+    "lat": 26.63,
+    "lon": 119.0215,
+    "population": 17893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qinhuangdao",
+    "region": "Hebei",
+    "lat": 39.9317,
+    "lon": 119.5883,
+    "population": 17838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hegang",
+    "region": "Heilongjiang",
+    "lat": 47.3512,
+    "lon": 130.3001,
+    "population": 17829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caijiapu",
+    "region": "Tianjin",
+    "lat": 39.1731,
+    "lon": 117.8106,
+    "population": 17788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huanren",
+    "region": "Liaoning",
+    "lat": 41.2647,
+    "lon": 125.3667,
+    "population": 17769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongdu",
+    "region": "Shandong",
+    "lat": 35.85,
+    "lon": 117.7,
+    "population": 17712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gangdong",
+    "region": "Hunan",
+    "lat": 27.9169,
+    "lon": 110.8342,
+    "population": 17687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manzhouli",
+    "region": "Inner Mongolia",
+    "lat": 49.6,
+    "lon": 117.4333,
+    "population": 17656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sishui",
+    "region": "Shandong",
+    "lat": 35.6489,
+    "lon": 117.2758,
+    "population": 17536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dengying",
+    "region": "Shandong",
+    "lat": 36.1389,
+    "lon": 120.5742,
+    "population": 17486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xuchang Shi",
+    "region": "Henan",
+    "lat": 34.1478,
+    "lon": 113.7147,
+    "population": 17349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhuqi",
+    "region": "Fujian",
+    "lat": 26.1486,
+    "lon": 119.1022,
+    "population": 17338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangjinzhuang",
+    "region": "Tianjin",
+    "lat": 39.8665,
+    "lon": 117.4259,
+    "population": 17333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongguan",
+    "region": "Guangdong",
+    "lat": 23.018,
+    "lon": 113.7487,
+    "population": 17308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yima",
+    "region": "Henan",
+    "lat": 34.7381,
+    "lon": 111.8839,
+    "population": 17305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beibei",
+    "region": "Chongqing",
+    "lat": 29.8274,
+    "lon": 106.4364,
+    "population": 17301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenshan City",
+    "region": "Yunnan",
+    "lat": 23.3631,
+    "lon": 104.2505,
+    "population": 17283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Honghe Hanizu Yizu Zizhizhou",
+    "region": "Yunnan",
+    "lat": 23.5167,
+    "lon": 102.9739,
+    "population": 17266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacheng Diqu",
+    "region": "Xinjiang",
+    "lat": 46.75,
+    "lon": 82.95,
+    "population": 17260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mawu",
+    "region": "Gansu",
+    "lat": 34.4264,
+    "lon": 104.9147,
+    "population": 17206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weining",
+    "region": "Guizhou",
+    "lat": 26.85,
+    "lon": 104.2333,
+    "population": 17199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wucheng",
+    "region": "Anhui",
+    "lat": 29.6008,
+    "lon": 118.1749,
+    "population": 17181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chadian",
+    "region": "Guizhou",
+    "lat": 27.5819,
+    "lon": 109.1328,
+    "population": 17171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "ChangZhou",
+    "region": "Jiangsu",
+    "lat": 31.7232,
+    "lon": 119.5979,
+    "population": 17171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guangzhou",
+    "region": "Guangdong",
+    "lat": 23.1167,
+    "lon": 113.25,
+    "population": 17140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anjiang",
+    "region": "Hunan",
+    "lat": 27.3194,
+    "lon": 110.1031,
+    "population": 17136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jijiang",
+    "region": "Chongqing",
+    "lat": 29.2899,
+    "lon": 106.25,
+    "population": 17134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhumadian Shi",
+    "region": "Henan",
+    "lat": 32.9942,
+    "lon": 114.0617,
+    "population": 17054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yancheng",
+    "region": "Taiwan",
+    "lat": 33.3575,
+    "lon": 120.1573,
+    "population": 17002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puzi",
+    "region": "Hunan",
+    "lat": 26.9864,
+    "lon": 109.7764,
+    "population": 16991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiayuguan",
+    "region": "Gansu",
+    "lat": 39.8112,
+    "lon": 98.2862,
+    "population": 16990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taozhuang",
+    "region": "Shandong",
+    "lat": 34.85,
+    "lon": 117.3333,
+    "population": 16957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fubao",
+    "region": "Sichuan",
+    "lat": 28.7691,
+    "lon": 106.0767,
+    "population": 16936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baiyin",
+    "region": "Gansu",
+    "lat": 36.547,
+    "lon": 104.1702,
+    "population": 16881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xireg",
+    "region": "Qinghai",
+    "lat": 36.9187,
+    "lon": 98.4446,
+    "population": 16850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingquan",
+    "region": "Hubei",
+    "lat": 30.4511,
+    "lon": 115.2559,
+    "population": 16774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shiqiao",
+    "region": "Guangdong",
+    "lat": 22.9464,
+    "lon": 113.3577,
+    "population": 16727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanmuping",
+    "region": "Hunan",
+    "lat": 27.3111,
+    "lon": 109.6786,
+    "population": 16725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jieshi",
+    "region": "Guangdong",
+    "lat": 22.8103,
+    "lon": 115.8306,
+    "population": 16667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaogezhuang",
+    "region": "Hebei",
+    "lat": 39.7654,
+    "lon": 118.4119,
+    "population": 16633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaomi",
+    "region": "Shandong",
+    "lat": 36.3833,
+    "lon": 119.7528,
+    "population": 16604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baoding",
+    "region": "Hebei",
+    "lat": 38.8511,
+    "lon": 115.4903,
+    "population": 16533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinji",
+    "region": "Hebei",
+    "lat": 37.9028,
+    "lon": 115.2036,
+    "population": 16495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xindian",
+    "region": "Fujian",
+    "lat": 24.6101,
+    "lon": 118.2407,
+    "population": 16454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shijiazhuang Shi",
+    "region": "Hebei",
+    "lat": 38.04,
+    "lon": 114.47,
+    "population": 16429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengtougu",
+    "region": "Tianjin",
+    "lat": 39.14,
+    "lon": 117.7789,
+    "population": 16400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majie",
+    "region": "Yunnan",
+    "lat": 25.0319,
+    "lon": 102.638,
+    "population": 16293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wacheng",
+    "region": "Henan",
+    "lat": 33.7833,
+    "lon": 114.5167,
+    "population": 16210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuzhong",
+    "region": "Ningxia Huizu",
+    "lat": 37.9867,
+    "lon": 106.201,
+    "population": 16186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maoming",
+    "region": "Guangdong",
+    "lat": 21.65,
+    "lon": 110.9,
+    "population": 16168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhicheng",
+    "region": "Hubei",
+    "lat": 30.2956,
+    "lon": 111.5047,
+    "population": 16086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shuangyang",
+    "region": "Jilin",
+    "lat": 43.5242,
+    "lon": 125.6736,
+    "population": 16029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangrao",
+    "region": "Jiangxi",
+    "lat": 28.4518,
+    "lon": 117.9429,
+    "population": 16021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pingyi",
+    "region": "Shandong",
+    "lat": 35.5006,
+    "lon": 117.6308,
+    "population": 15982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lantian",
+    "region": "Guizhou",
+    "lat": 27.025,
+    "lon": 109.2947,
+    "population": 15980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dezhou",
+    "region": "Shandong",
+    "lat": 37.4513,
+    "lon": 116.3105,
+    "population": 15976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pucheng",
+    "region": "Fujian",
+    "lat": 27.9233,
+    "lon": 118.5333,
+    "population": 15972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhenlai",
+    "region": "Jilin",
+    "lat": 45.8496,
+    "lon": 123.2973,
+    "population": 15950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiagedaqi",
+    "region": "Inner Mongolia",
+    "lat": 50.4167,
+    "lon": 124.1167,
+    "population": 15913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuchang",
+    "region": "Heilongjiang",
+    "lat": 44.9143,
+    "lon": 127.15,
+    "population": 15880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minggang",
+    "region": "Henan",
+    "lat": 32.4586,
+    "lon": 114.0486,
+    "population": 15867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingtoucun",
+    "region": "Fujian",
+    "lat": 26.8398,
+    "lon": 119.6611,
+    "population": 15863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hailar",
+    "region": "Inner Mongolia",
+    "lat": 49.2,
+    "lon": 119.7,
+    "population": 15830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaoyuan",
+    "region": "Heilongjiang",
+    "lat": 45.5,
+    "lon": 125.1333,
+    "population": 15802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanping",
+    "region": "Fujian",
+    "lat": 26.645,
+    "lon": 118.1736,
+    "population": 15749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tianfu",
+    "region": "Shandong",
+    "lat": 37.1972,
+    "lon": 122.0523,
+    "population": 15738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongchao",
+    "region": "Guizhou",
+    "lat": 26.1375,
+    "lon": 109.22,
+    "population": 15728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zibo",
+    "region": "Shandong",
+    "lat": 36.7906,
+    "lon": 118.0633,
+    "population": 15642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanhaiguan",
+    "region": "Hebei",
+    "lat": 40.0025,
+    "lon": 119.7489,
+    "population": 15615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nianzishan",
+    "region": "Heilongjiang",
+    "lat": 47.5167,
+    "lon": 122.8833,
+    "population": 15603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiaoshi",
+    "region": "Liaoning",
+    "lat": 41.2971,
+    "lon": 124.1209,
+    "population": 15567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongta",
+    "region": "Ningxia Huizu",
+    "lat": 38.0814,
+    "lon": 106.3444,
+    "population": 15494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangjie",
+    "region": "Fujian",
+    "lat": 26.0868,
+    "lon": 119.1849,
+    "population": 15443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qionghu",
+    "region": "Hunan",
+    "lat": 28.8406,
+    "lon": 112.374,
+    "population": 15417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suifenhe",
+    "region": "Heilongjiang",
+    "lat": 44.3998,
+    "lon": 131.1478,
+    "population": 15390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dazhong",
+    "region": "Taiwan",
+    "lat": 33.1997,
+    "lon": 120.4578,
+    "population": 15376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongren Diqu",
+    "region": "Guizhou",
+    "lat": 27.7419,
+    "lon": 109.1931,
+    "population": 15366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linjiang",
+    "region": "Jilin",
+    "lat": 41.8069,
+    "lon": 126.9078,
+    "population": 15351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingshancun",
+    "region": "Shandong",
+    "lat": 36.1542,
+    "lon": 120.6824,
+    "population": 15344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shilaorencun",
+    "region": "Shandong",
+    "lat": 36.0972,
+    "lon": 120.4891,
+    "population": 15336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinhua",
+    "region": "Zhejiang",
+    "lat": 29.1068,
+    "lon": 119.6442,
+    "population": 15255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fuli",
+    "region": "Heilongjiang",
+    "lat": 46.7217,
+    "lon": 131.1394,
+    "population": 15223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shenyang",
+    "region": "Liaoning",
+    "lat": 41.7922,
+    "lon": 123.4328,
+    "population": 15105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hancheng",
+    "region": "Henan",
+    "lat": 32.5186,
+    "lon": 112.3522,
+    "population": 15081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiulin",
+    "region": "Hubei",
+    "lat": 29.7167,
+    "lon": 112.4,
+    "population": 15070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simenqian",
+    "region": "Hunan",
+    "lat": 27.4872,
+    "lon": 110.8861,
+    "population": 15039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenxing",
+    "region": "Hunan",
+    "lat": 28.6821,
+    "lon": 112.8786,
+    "population": 15037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anqiu",
+    "region": "Shandong",
+    "lat": 36.4342,
+    "lon": 119.1925,
+    "population": 15005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luohe",
+    "region": "Henan",
+    "lat": 33.5639,
+    "lon": 114.0427,
+    "population": 15002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamiantong",
+    "region": "Heilongjiang",
+    "lat": 44.9174,
+    "lon": 130.52,
+    "population": 14997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huinan",
+    "region": "Jilin",
+    "lat": 42.6225,
+    "lon": 126.2614,
+    "population": 14996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nantong",
+    "region": "Taiwan",
+    "lat": 32.0303,
+    "lon": 120.8747,
+    "population": 14983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zoucheng",
+    "region": "Shandong",
+    "lat": 35.4006,
+    "lon": 116.9656,
+    "population": 14939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangtian",
+    "region": "Fujian",
+    "lat": 26.4385,
+    "lon": 118.624,
+    "population": 14927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daqiao",
+    "region": "Fujian",
+    "lat": 26.615,
+    "lon": 118.9064,
+    "population": 14912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanjiashu",
+    "region": "Tianjin",
+    "lat": 39.1875,
+    "lon": 117.0731,
+    "population": 14906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liuhe",
+    "region": "Jilin",
+    "lat": 42.2401,
+    "lon": 125.7172,
+    "population": 14893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yutan",
+    "region": "Hunan",
+    "lat": 28.2583,
+    "lon": 112.5605,
+    "population": 14883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaoyang",
+    "region": "Hubei",
+    "lat": 32.1272,
+    "lon": 112.7542,
+    "population": 14844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leiyang",
+    "region": "Hunan",
+    "lat": 26.4024,
+    "lon": 112.8591,
+    "population": 14838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuxia",
+    "region": "Shaanxi",
+    "lat": 34.0615,
+    "lon": 108.6291,
+    "population": 14692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lengshuijiang",
+    "region": "Hunan",
+    "lat": 27.6881,
+    "lon": 111.4294,
+    "population": 14669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weinan",
+    "region": "Shaanxi",
+    "lat": 34.5035,
+    "lon": 109.5089,
+    "population": 14637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuzhou",
+    "region": "Anhui",
+    "lat": 32.3219,
+    "lon": 118.2978,
+    "population": 14597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yakou",
+    "region": "Henan",
+    "lat": 33.2965,
+    "lon": 113.5235,
+    "population": 14555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jianshe",
+    "region": "Henan",
+    "lat": 34.2175,
+    "lon": 113.7689,
+    "population": 14538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiahu",
+    "region": "Fujian",
+    "lat": 26.6106,
+    "lon": 119.9483,
+    "population": 14521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhoushan",
+    "region": "Zhejiang",
+    "lat": 29.9887,
+    "lon": 122.2049,
+    "population": 14516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongshan Prefecture",
+    "region": "Guangdong",
+    "lat": 22.5536,
+    "lon": 113.3755,
+    "population": 14485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongshan Dongzuxiang",
+    "region": "Hunan",
+    "lat": 26.595,
+    "lon": 109.8967,
+    "population": 14484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Basuo",
+    "region": "Hainan",
+    "lat": 19.0939,
+    "lon": 108.6546,
+    "population": 14478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tangkou",
+    "region": "Fujian",
+    "lat": 26.9542,
+    "lon": 119.0128,
+    "population": 14418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shiqian",
+    "region": "Guizhou",
+    "lat": 27.5225,
+    "lon": 108.2281,
+    "population": 14394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qingzhou",
+    "region": "Shandong",
+    "lat": 36.6967,
+    "lon": 118.4797,
+    "population": 14364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangcaotuo",
+    "region": "Tianjin",
+    "lat": 39.1794,
+    "lon": 117.3217,
+    "population": 14359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "E’erguna",
+    "region": "Inner Mongolia",
+    "lat": 50.2236,
+    "lon": 120.1709,
+    "population": 14302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luqiao",
+    "region": "Zhejiang",
+    "lat": 28.5802,
+    "lon": 121.3749,
+    "population": 14283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinhe",
+    "region": "Hunan",
+    "lat": 27.7169,
+    "lon": 109.6047,
+    "population": 14228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiamen",
+    "region": "Fujian",
+    "lat": 24.4798,
+    "lon": 118.0819,
+    "population": 14225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanliang",
+    "region": "Shaanxi",
+    "lat": 34.6592,
+    "lon": 109.2292,
+    "population": 14125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ningbo",
+    "region": "Zhejiang",
+    "lat": 29.8782,
+    "lon": 121.5494,
+    "population": 14111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salaqi",
+    "region": "Inner Mongolia",
+    "lat": 40.5414,
+    "lon": 110.5108,
+    "population": 14107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengqu",
+    "region": "Shandong",
+    "lat": 36.9106,
+    "lon": 121.525,
+    "population": 14066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pukou",
+    "region": "Hunan",
+    "lat": 26.5222,
+    "lon": 109.5558,
+    "population": 14029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangquan",
+    "region": "Shanxi",
+    "lat": 37.8575,
+    "lon": 113.5633,
+    "population": 14024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiangxiang",
+    "region": "Hunan",
+    "lat": 27.7333,
+    "lon": 112.5333,
+    "population": 14018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shaoguan",
+    "region": "Guangdong",
+    "lat": 24.8,
+    "lon": 113.5833,
+    "population": 14000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yiyang",
+    "region": "Hunan",
+    "lat": 28.5892,
+    "lon": 112.3283,
+    "population": 13954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liangxiang",
+    "region": "Beijing",
+    "lat": 39.736,
+    "lon": 116.1329,
+    "population": 13952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zengjia",
+    "region": "Sichuan",
+    "lat": 32.6196,
+    "lon": 106.1012,
+    "population": 13862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liuzhou Shi",
+    "region": "Guangxi Zhuang",
+    "lat": 24.3167,
+    "lon": 109.4,
+    "population": 13823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laohekou",
+    "region": "Hubei",
+    "lat": 32.3858,
+    "lon": 111.6678,
+    "population": 13810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shangqiu",
+    "region": "Henan",
+    "lat": 34.45,
+    "lon": 115.65,
+    "population": 13779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yongzhou",
+    "region": "Hunan",
+    "lat": 26.4401,
+    "lon": 111.6029,
+    "population": 13775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wenshui",
+    "region": "Guizhou",
+    "lat": 28.4506,
+    "lon": 106.5267,
+    "population": 13661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanta",
+    "region": "Shandong",
+    "lat": 36.2411,
+    "lon": 115.6672,
+    "population": 13623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shitanjing",
+    "region": "Ningxia Huizu",
+    "lat": 39.2342,
+    "lon": 106.3439,
+    "population": 13612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gucheng Chengguanzhen",
+    "region": "Hubei",
+    "lat": 32.266,
+    "lon": 111.6348,
+    "population": 13587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puyang Shi",
+    "region": "Henan",
+    "lat": 35.8133,
+    "lon": 115.155,
+    "population": 13583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tongliao",
+    "region": "Inner Mongolia",
+    "lat": 43.6125,
+    "lon": 122.2653,
+    "population": 13515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nagqu Diqu",
+    "region": "Xizang",
+    "lat": 32.6636,
+    "lon": 88.9315,
+    "population": 13510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kutao",
+    "region": "Shandong",
+    "lat": 36.145,
+    "lon": 120.4878,
+    "population": 13474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonghua",
+    "region": "Jilin",
+    "lat": 41.7197,
+    "lon": 125.9264,
+    "population": 13367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huaicheng",
+    "region": "Guangdong",
+    "lat": 23.9195,
+    "lon": 112.1763,
+    "population": 13354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jianjiang",
+    "region": "Fujian",
+    "lat": 26.5497,
+    "lon": 119.755,
+    "population": 13354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panshi",
+    "region": "Jilin",
+    "lat": 42.9422,
+    "lon": 126.0561,
+    "population": 13282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huainan Shi",
+    "region": "Anhui",
+    "lat": 32.7382,
+    "lon": 116.7881,
+    "population": 13280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lubu",
+    "region": "Guangdong",
+    "lat": 23.1723,
+    "lon": 112.283,
+    "population": 13265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longtou’an",
+    "region": "Hunan",
+    "lat": 27.6703,
+    "lon": 110.3361,
+    "population": 13224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangnan Zangzu Zizhizhou",
+    "region": "Qinghai",
+    "lat": 35.0632,
+    "lon": 101.6515,
+    "population": 13170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wuhai",
+    "region": "Inner Mongolia",
+    "lat": 39.6844,
+    "lon": 106.8158,
+    "population": 13115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhongxiang",
+    "region": "Hubei",
+    "lat": 31.1661,
+    "lon": 112.5831,
+    "population": 13100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luyang",
+    "region": "Hunan",
+    "lat": 27.6239,
+    "lon": 110.0989,
+    "population": 13044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wangqing",
+    "region": "Jilin",
+    "lat": 43.3218,
+    "lon": 129.7634,
+    "population": 13018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuijiamatou",
+    "region": "Tianjin",
+    "lat": 39.0747,
+    "lon": 117.3006,
+    "population": 12989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liaozhong",
+    "region": "Liaoning",
+    "lat": 41.5061,
+    "lon": 122.7242,
+    "population": 12917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badaogu",
+    "region": "Tianjin",
+    "lat": 39.4733,
+    "lon": 117.3297,
+    "population": 12904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanxian",
+    "region": "Chongqing",
+    "lat": 30.8154,
+    "lon": 108.3709,
+    "population": 12874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengde",
+    "region": "Hebei",
+    "lat": 40.9519,
+    "lon": 117.9588,
+    "population": 12836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ma’an",
+    "region": "Hunan",
+    "lat": 26.9775,
+    "lon": 110.7211,
+    "population": 12833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wanning",
+    "region": "Hainan",
+    "lat": 18.7993,
+    "lon": 110.3841,
+    "population": 12548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baoji Shi",
+    "region": "Shaanxi",
+    "lat": 34.3694,
+    "lon": 107.1363,
+    "population": 12505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhangye Shi",
+    "region": "Gansu",
+    "lat": 39.1218,
+    "lon": 99.9249,
+    "population": 12490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beihuaidian",
+    "region": "Tianjin",
+    "lat": 39.2622,
+    "lon": 117.5748,
+    "population": 12464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danjiangkou",
+    "region": "Hubei",
+    "lat": 32.5428,
+    "lon": 111.5086,
+    "population": 12454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yixingfu",
+    "region": "Tianjin",
+    "lat": 39.1992,
+    "lon": 117.2114,
+    "population": 12355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanxia",
+    "region": "Fujian",
+    "lat": 24.938,
+    "lon": 118.8817,
+    "population": 12345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mingshui",
+    "region": "Shandong",
+    "lat": 36.7167,
+    "lon": 117.5,
+    "population": 12341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jianguang",
+    "region": "Jiangxi",
+    "lat": 28.1938,
+    "lon": 115.7836,
+    "population": 12320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiangtan",
+    "region": "Hunan",
+    "lat": 27.85,
+    "lon": 112.9,
+    "population": 12207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiutai",
+    "region": "Jilin",
+    "lat": 44.1525,
+    "lon": 125.8328,
+    "population": 12199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jishui",
+    "region": "Henan",
+    "lat": 33.7333,
+    "lon": 115.4,
+    "population": 12195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shancheng",
+    "region": "Shandong",
+    "lat": 34.7953,
+    "lon": 116.0817,
+    "population": 12147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huangshan Shi",
+    "region": "Anhui",
+    "lat": 29.892,
+    "lon": 118.1055,
+    "population": 12127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guang’an",
+    "region": "Sichuan",
+    "lat": 30.4741,
+    "lon": 106.637,
+    "population": 12122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ningde",
+    "region": "Fujian",
+    "lat": 26.6617,
+    "lon": 119.5228,
+    "population": 12116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yanghou",
+    "region": "Fujian",
+    "lat": 26.6408,
+    "lon": 118.5081,
+    "population": 12112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinkaikou",
+    "region": "Tianjin",
+    "lat": 39.68,
+    "lon": 117.1888,
+    "population": 12072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yongfeng",
+    "region": "Hunan",
+    "lat": 27.4283,
+    "lon": 112.1834,
+    "population": 12026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baiquan",
+    "region": "Heilongjiang",
+    "lat": 47.6061,
+    "lon": 126.0848,
+    "population": 12019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xintai",
+    "region": "Shandong",
+    "lat": 35.9006,
+    "lon": 117.7519,
+    "population": 11998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongjiang",
+    "region": "Hunan",
+    "lat": 27.11,
+    "lon": 109.9956,
+    "population": 11931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qibu",
+    "region": "Fujian",
+    "lat": 26.5075,
+    "lon": 119.545,
+    "population": 11931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lüliang",
+    "region": "Shanxi",
+    "lat": 37.7356,
+    "lon": 111.3054,
+    "population": 11871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yingkou",
+    "region": "Liaoning",
+    "lat": 40.639,
+    "lon": 122.2476,
+    "population": 11843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xindi",
+    "region": "Hubei",
+    "lat": 29.8167,
+    "lon": 113.4667,
+    "population": 11789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linqu",
+    "region": "Shandong",
+    "lat": 36.5156,
+    "lon": 118.5397,
+    "population": 11725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ninghai",
+    "region": "Zhejiang",
+    "lat": 29.2892,
+    "lon": 121.4247,
+    "population": 11668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yushan",
+    "region": "Fujian",
+    "lat": 26.9086,
+    "lon": 118.5671,
+    "population": 11527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weifang",
+    "region": "Shandong",
+    "lat": 36.71,
+    "lon": 119.1019,
+    "population": 11525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aksu",
+    "region": "Xinjiang",
+    "lat": 41.1842,
+    "lon": 80.2792,
+    "population": 11479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shulan",
+    "region": "Jilin",
+    "lat": 44.4167,
+    "lon": 126.95,
+    "population": 11478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langxiang",
+    "region": "Heilongjiang",
+    "lat": 46.9498,
+    "lon": 128.8685,
+    "population": 11474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taikang",
+    "region": "Heilongjiang",
+    "lat": 46.8614,
+    "lon": 124.442,
+    "population": 11462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chengzhong",
+    "region": "Hubei",
+    "lat": 30.9445,
+    "lon": 113.5528,
+    "population": 11437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerencun",
+    "region": "Fujian",
+    "lat": 24.5821,
+    "lon": 118.6605,
+    "population": 11413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tianjin",
+    "region": "Tianjin",
+    "lat": 39.1467,
+    "lon": 117.2056,
+    "population": 11389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Datong Shi",
+    "region": "Shanxi",
+    "lat": 40.1048,
+    "lon": 113.6333,
+    "population": 11339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harbin",
+    "region": "Heilongjiang",
+    "lat": 45.75,
+    "lon": 126.65,
+    "population": 11297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yicheng",
+    "region": "Taiwan",
+    "lat": 31.3606,
+    "lon": 119.8202,
+    "population": 11284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suozhen",
+    "region": "Shandong",
+    "lat": 36.9539,
+    "lon": 118.1047,
+    "population": 11279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hebeitun",
+    "region": "Tianjin",
+    "lat": 39.5747,
+    "lon": 117.1133,
+    "population": 11221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lishu",
+    "region": "Jilin",
+    "lat": 43.3047,
+    "lon": 124.3278,
+    "population": 11205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caohe",
+    "region": "Hubei",
+    "lat": 30.2297,
+    "lon": 115.4335,
+    "population": 11192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yuguzhuang",
+    "region": "Tianjin",
+    "lat": 39.6429,
+    "lon": 117.3647,
+    "population": 11113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yatou",
+    "region": "Shandong",
+    "lat": 37.1566,
+    "lon": 122.4376,
+    "population": 11099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "WuXi",
+    "region": "Jiangsu",
+    "lat": 31.5285,
+    "lon": 120.2843,
+    "population": 11060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuandian",
+    "region": "Liaoning",
+    "lat": 40.7286,
+    "lon": 124.7847,
+    "population": 11035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaobaoshan",
+    "region": "Zhejiang",
+    "lat": 29.9695,
+    "lon": 121.6875,
+    "population": 11008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dongling",
+    "region": "Liaoning",
+    "lat": 41.8144,
+    "lon": 123.5758,
+    "population": 11007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinyuan",
+    "region": "Xinjiang",
+    "lat": 43.4265,
+    "lon": 83.2496,
+    "population": 11007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Datong",
+    "region": "Anhui",
+    "lat": 32.6208,
+    "lon": 117.0632,
+    "population": 10980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golog Tibetan Autonomous Prefecture",
+    "region": "Qinghai",
+    "lat": 34.0859,
+    "lon": 99.5518,
+    "population": 10965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shimianzhuang",
+    "region": "Tianjin",
+    "lat": 39.418,
+    "lon": 117.1569,
+    "population": 10943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaojiacheng",
+    "region": "Tianjin",
+    "lat": 39.2817,
+    "lon": 117.4252,
+    "population": 10927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Duyun",
+    "region": "Guizhou",
+    "lat": 26.2667,
+    "lon": 107.5167,
+    "population": 10892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shenjiamen",
+    "region": "Zhejiang",
+    "lat": 29.9576,
+    "lon": 122.298,
+    "population": 10853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yingcheng",
+    "region": "Guangdong",
+    "lat": 24.1659,
+    "lon": 113.4127,
+    "population": 10816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hechi Shi",
+    "region": "Guangxi Zhuang",
+    "lat": 24.7,
+    "lon": 108.03,
+    "population": 10800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shunyi",
+    "region": "Beijing",
+    "lat": 40.1217,
+    "lon": 116.6478,
+    "population": 10756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinshi",
+    "region": "Hubei",
+    "lat": 31.047,
+    "lon": 113.141,
+    "population": 10736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaoyang",
+    "region": "Jilin",
+    "lat": 42.6622,
+    "lon": 126.0263,
+    "population": 10726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayannur Shi",
+    "region": "Inner Mongolia",
+    "lat": 41.5696,
+    "lon": 107.4948,
+    "population": 10678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanlong",
+    "region": "Sichuan",
+    "lat": 31.3533,
+    "lon": 106.0631,
+    "population": 10584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baoying",
+    "region": "Taiwan",
+    "lat": 33.2292,
+    "lon": 119.3092,
+    "population": 10556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ninghai",
+    "region": "Shandong",
+    "lat": 37.3842,
+    "lon": 121.6086,
+    "population": 10504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangshuo",
+    "region": "Guangxi Zhuang",
+    "lat": 24.7808,
+    "lon": 110.4897,
+    "population": 10473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yingdu",
+    "region": "Fujian",
+    "lat": 24.9717,
+    "lon": 118.2442,
+    "population": 10461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yichun",
+    "region": "Heilongjiang",
+    "lat": 47.7214,
+    "lon": 128.8753,
+    "population": 10393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "NanJing",
+    "region": "Jiangsu",
+    "lat": 31.3275,
+    "lon": 118.8921,
+    "population": 10369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liuzikou",
+    "region": "Tianjin",
+    "lat": 39.8703,
+    "lon": 117.3467,
+    "population": 10347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liangyaping",
+    "region": "Hunan",
+    "lat": 27.7183,
+    "lon": 110.6708,
+    "population": 10337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chongshan",
+    "region": "Hainan",
+    "lat": 18.7823,
+    "lon": 109.5013,
+    "population": 10317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xianju",
+    "region": "Zhejiang",
+    "lat": 28.8547,
+    "lon": 120.7317,
+    "population": 10316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yangchun",
+    "region": "Guangdong",
+    "lat": 22.1667,
+    "lon": 111.7833,
+    "population": 10275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanning",
+    "region": "Guangxi Zhuang",
+    "lat": 22.8167,
+    "lon": 108.3167,
+    "population": 10218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dadukou",
+    "region": "Sichuan",
+    "lat": 26.5479,
+    "lon": 101.7054,
+    "population": 10213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siping",
+    "region": "Jilin",
+    "lat": 43.1614,
+    "lon": 124.3778,
+    "population": 10192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinjiang",
+    "region": "Fujian",
+    "lat": 24.8198,
+    "lon": 118.5742,
+    "population": 10155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biyong",
+    "region": "Hunan",
+    "lat": 27.1872,
+    "lon": 109.51,
+    "population": 10115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanxi",
+    "region": "Heilongjiang",
+    "lat": 46.2578,
+    "lon": 126.2827,
+    "population": 10092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hongtang",
+    "region": "Fujian",
+    "lat": 26.0706,
+    "lon": 119.2308,
+    "population": 10090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Changchi",
+    "region": "Sichuan",
+    "lat": 32.1638,
+    "lon": 106.6581,
+    "population": 10036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aoshi",
+    "region": "Guizhou",
+    "lat": 26.4017,
+    "lon": 109.0711,
+    "population": 10022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qinggang",
+    "region": "Heilongjiang",
+    "lat": 46.6847,
+    "lon": 126.106,
+    "population": 10015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hushitai",
+    "region": "Liaoning",
+    "lat": 41.9417,
+    "lon": 123.5027,
+    "population": 10014,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Mossendjo",
+    "region": "Niari Department",
+    "lat": -2.9497,
+    "lon": 12.7042,
+    "population": 49913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ewo",
+    "region": "Cuvette-Ouest Department",
+    "lat": -0.8725,
+    "lon": 14.8206,
+    "population": 48931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolisie",
+    "region": "Niari Department",
+    "lat": -4.1983,
+    "lon": 12.6666,
+    "population": 46954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouésso",
+    "region": "Sangha Department",
+    "lat": 1.6136,
+    "lon": 16.0517,
+    "population": 42856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loandjili",
+    "region": "Pointe-Noire",
+    "lat": -4.7561,
+    "lon": 11.8578,
+    "population": 41301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sémbé",
+    "region": "Sangha Department",
+    "lat": 1.6481,
+    "lon": 14.5806,
+    "population": 40866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brazzaville",
+    "region": "Brazzaville",
+    "lat": -4.2661,
+    "lon": 15.2832,
+    "population": 40478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibiti",
+    "region": "Lékoumou Department",
+    "lat": -3.6819,
+    "lon": 13.3498,
+    "population": 27002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kayes",
+    "region": "Bouenza Department",
+    "lat": -4.2049,
+    "lon": 13.2861,
+    "population": 24240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Owando",
+    "region": "Cuvette Department",
+    "lat": -0.4819,
+    "lon": 15.8999,
+    "population": 21159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamboma",
+    "region": "Plateaux Department",
+    "lat": -1.8764,
+    "lon": 15.8644,
+    "population": 16996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pointe-Noire",
+    "region": "Pointe-Noire",
+    "lat": -4.7761,
+    "lon": 11.8635,
+    "population": 15131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinkala",
+    "region": "Pool Department",
+    "lat": -4.3614,
+    "lon": 14.7644,
+    "population": 14691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djambala",
+    "region": "Plateaux Department",
+    "lat": -2.5447,
+    "lon": 14.7533,
+    "population": 13212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madingou",
+    "region": "Bouenza Department",
+    "lat": -4.1536,
+    "lon": 13.55,
+    "population": 12605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Impfondo",
+    "region": "Likouala Department",
+    "lat": 1.618,
+    "lon": 18.0598,
+    "population": 10256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makoua",
+    "region": "Cuvette Department",
+    "lat": 0.0069,
+    "lon": 15.6333,
+    "population": 10210,
+    "timezone": "UTC"
+  }
+]

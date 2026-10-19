@@ -1,0 +1,850 @@
+[
+  {
+    "name": "Srŏk Âk Phnŭm",
+    "region": "Battambang",
+    "lat": 13.2362,
+    "lon": 103.4589,
+    "population": 49695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Trâpeăng Prasat",
+    "region": "Oddar Meanchey",
+    "lat": 14.2581,
+    "lon": 104.3084,
+    "population": 49676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Bay",
+    "region": "Kampot",
+    "lat": 10.5955,
+    "lon": 104.1714,
+    "population": 49597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ângkôr Thum",
+    "region": "Siem Reap",
+    "lat": 13.5788,
+    "lon": 103.8564,
+    "population": 48379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samraong",
+    "region": "Oddar Meanchey",
+    "lat": 14.1817,
+    "lon": 103.5176,
+    "population": 48152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan Duŏn Pénh",
+    "region": "Phnom Penh",
+    "lat": 11.5756,
+    "lon": 104.9202,
+    "population": 47854,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Cham",
+    "region": "Kampong Cham",
+    "lat": 11.98,
+    "lon": 105.445,
+    "population": 47223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ban Lŭng",
+    "region": "Ratanakiri",
+    "lat": 13.682,
+    "lon": 107.0302,
+    "population": 46343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baribour",
+    "region": "Kampong Chhnang",
+    "lat": 12.43,
+    "lon": 104.47,
+    "population": 46268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Svay Chrŭm",
+    "region": "Svay Rieng",
+    "lat": 11.1116,
+    "lon": 105.6981,
+    "population": 45837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mongkol Borei",
+    "region": "Banteay Meanchey",
+    "lat": 13.4553,
+    "lon": 102.9919,
+    "population": 43759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampot",
+    "region": "Kampot",
+    "lat": 10.6104,
+    "lon": 104.1814,
+    "population": 42938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krŏng Sênmônoŭrôm",
+    "region": "Mondulkiri",
+    "lat": 12.5048,
+    "lon": 107.1552,
+    "population": 42822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ŏdŏngk",
+    "region": "Kampong Speu",
+    "lat": 11.6684,
+    "lon": 104.6122,
+    "population": 42012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Véal Vêng",
+    "region": "Pursat",
+    "lat": 12.2423,
+    "lon": 103.1344,
+    "population": 41217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tbeng Meanchey",
+    "region": "Preah Vihear",
+    "lat": 13.8073,
+    "lon": 104.9805,
+    "population": 41170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheung Prey",
+    "region": "Kampong Cham",
+    "lat": 12.1,
+    "lon": 105.07,
+    "population": 41067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prey Veng",
+    "region": "Prey Veng",
+    "lat": 11.4868,
+    "lon": 105.3253,
+    "population": 41056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ta Khmau",
+    "region": "Kandal",
+    "lat": 11.4833,
+    "lon": 104.95,
+    "population": 40753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Kông Pĭsei",
+    "region": "Kampong Speu",
+    "lat": 11.3165,
+    "lon": 104.6599,
+    "population": 40722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Speu",
+    "region": "Kampong Speu",
+    "lat": 11.4533,
+    "lon": 104.5208,
+    "population": 40697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kracheh",
+    "region": "Kratie",
+    "lat": 12.57,
+    "lon": 106.2,
+    "population": 40584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Kândiĕng",
+    "region": "Pursat",
+    "lat": 12.7125,
+    "lon": 104.0259,
+    "population": 40020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan Saen Sokh",
+    "region": "Phnom Penh",
+    "lat": 11.6129,
+    "lon": 104.8608,
+    "population": 39324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Bâvĭl",
+    "region": "Battambang",
+    "lat": 13.236,
+    "lon": 102.8291,
+    "population": 39135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Rotanak Mondol",
+    "region": "Battambang",
+    "lat": 12.8405,
+    "lon": 102.887,
+    "population": 39051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bakan",
+    "region": "Pursat",
+    "lat": 12.78,
+    "lon": 103.79,
+    "population": 38837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smach Mean Chey",
+    "region": "Koh Kong",
+    "lat": 11.5466,
+    "lon": 103.0357,
+    "population": 38591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Srêsén",
+    "region": "Stung Treng",
+    "lat": 13.6053,
+    "lon": 106.3582,
+    "population": 37668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sisophon",
+    "region": "Banteay Meanchey",
+    "lat": 13.5859,
+    "lon": 102.9737,
+    "population": 37588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kratié",
+    "region": "Kratie",
+    "lat": 12.4881,
+    "lon": 106.0188,
+    "population": 37455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rolea B'ier",
+    "region": "Kampong Chhnang",
+    "lat": 12.21,
+    "lon": 104.61,
+    "population": 37204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krŏng Doun Kaev",
+    "region": "Takeo",
+    "lat": 10.9946,
+    "lon": 104.7955,
+    "population": 37038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Dâmnăk Châng’aeur",
+    "region": "Kep",
+    "lat": 10.5339,
+    "lon": 104.3486,
+    "population": 36759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banlung",
+    "region": "Ratanakiri",
+    "lat": 13.7394,
+    "lon": 106.9873,
+    "population": 36531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Borei Cholsar",
+    "region": "Takeo",
+    "lat": 10.8141,
+    "lon": 104.9899,
+    "population": 35341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Kâmpóng Léav",
+    "region": "Prey Veng",
+    "lat": 11.5097,
+    "lon": 105.3011,
+    "population": 35116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Rôviĕng",
+    "region": "Preah Vihear",
+    "lat": 13.3511,
+    "lon": 105.0996,
+    "population": 35087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan Châmkar Mon",
+    "region": "Phnom Penh",
+    "lat": 11.5439,
+    "lon": 104.9218,
+    "population": 34818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srae Ambel",
+    "region": "Koh Kong",
+    "lat": 11.1097,
+    "lon": 103.7623,
+    "population": 34790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumphat",
+    "region": "Ratanakiri",
+    "lat": 13.4915,
+    "lon": 106.9802,
+    "population": 34677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varin",
+    "region": "Siem Reap",
+    "lat": 13.8357,
+    "lon": 103.8997,
+    "population": 34670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Môndôl Seima",
+    "region": "Koh Kong",
+    "lat": 11.8129,
+    "lon": 103.0116,
+    "population": 34558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ch’êh Sên",
+    "region": "Preah Vihear",
+    "lat": 13.5822,
+    "lon": 105.3453,
+    "population": 34090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Bântéay Âmpĭl",
+    "region": "Oddar Meanchey",
+    "lat": 14.1859,
+    "lon": 103.2592,
+    "population": 33801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Kaev Seima",
+    "region": "Mondulkiri",
+    "lat": 12.4172,
+    "lon": 106.7703,
+    "population": 32847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan Dângkaô",
+    "region": "Phnom Penh",
+    "lat": 11.5246,
+    "lon": 104.8394,
+    "population": 32105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Dângtóng",
+    "region": "Kampot",
+    "lat": 10.7073,
+    "lon": 104.4223,
+    "population": 31876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Basedth",
+    "region": "Kampong Speu",
+    "lat": 11.1843,
+    "lon": 104.5358,
+    "population": 31488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Batum Sakôr",
+    "region": "Koh Kong",
+    "lat": 11.1146,
+    "lon": 103.3899,
+    "population": 30181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Chhnang",
+    "region": "Kampong Chhnang",
+    "lat": 12.26,
+    "lon": 104.67,
+    "population": 30029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Preăh Sdéch",
+    "region": "Prey Veng",
+    "lat": 11.0869,
+    "lon": 105.375,
+    "population": 29187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Sameakki Mean Chey",
+    "region": "Kampong Chhnang",
+    "lat": 11.8679,
+    "lon": 104.5555,
+    "population": 29077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Sâmraông",
+    "region": "Oddar Meanchey",
+    "lat": 14.2504,
+    "lon": 103.6274,
+    "population": 28863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sangkom Thmei",
+    "region": "Preah Vihear",
+    "lat": 13.474,
+    "lon": 104.7705,
+    "population": 28800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banteay Meas",
+    "region": "Kampot",
+    "lat": 10.6167,
+    "lon": 104.5333,
+    "population": 28765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svay Rieng",
+    "region": "Svay Rieng",
+    "lat": 11.0878,
+    "lon": 105.7994,
+    "population": 27710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stueng Traeng",
+    "region": "Stung Treng",
+    "lat": 13.65,
+    "lon": 106.07,
+    "population": 27501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ou Ya Dav",
+    "region": "Ratanakiri",
+    "lat": 13.5433,
+    "lon": 107.4464,
+    "population": 27044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Bathéay",
+    "region": "Kampong Cham",
+    "lat": 12.0299,
+    "lon": 104.9317,
+    "population": 25844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Kulén",
+    "region": "Preah Vihear",
+    "lat": 13.786,
+    "lon": 104.6105,
+    "population": 25790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sampov Meas",
+    "region": "Pursat",
+    "lat": 12.4705,
+    "lon": 103.9182,
+    "population": 25025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Chol Kiri",
+    "region": "Kampong Chhnang",
+    "lat": 12.1586,
+    "lon": 104.8229,
+    "population": 24419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ou Chum",
+    "region": "Ratanakiri",
+    "lat": 13.8407,
+    "lon": 107.0347,
+    "population": 24116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Chhêb",
+    "region": "Preah Vihear",
+    "lat": 13.9108,
+    "lon": 105.4618,
+    "population": 24044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Malai",
+    "region": "Banteay Meanchey",
+    "lat": 13.499,
+    "lon": 102.6016,
+    "population": 23936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krŏng Chbar Mon",
+    "region": "Kampong Speu",
+    "lat": 11.4709,
+    "lon": 104.5066,
+    "population": 23920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krŏng Ta Khmau",
+    "region": "Kandal",
+    "lat": 11.4547,
+    "lon": 104.9435,
+    "population": 23806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koh Kong",
+    "region": "Koh Kong",
+    "lat": 11.6153,
+    "lon": 102.9838,
+    "population": 23786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Tbêng Méanchey",
+    "region": "Preah Vihear",
+    "lat": 13.7862,
+    "lon": 105.0159,
+    "population": 21486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Koun Mom",
+    "region": "Ratanakiri",
+    "lat": 13.5177,
+    "lon": 106.7514,
+    "population": 21235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pursat",
+    "region": "Pursat",
+    "lat": 12.5388,
+    "lon": 103.9192,
+    "population": 21211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krakor",
+    "region": "Pursat",
+    "lat": 12.48,
+    "lon": 104.19,
+    "population": 20747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takeo",
+    "region": "Takeo",
+    "lat": 10.9908,
+    "lon": 104.785,
+    "population": 20315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampong Tranch",
+    "region": "Kampot",
+    "lat": 10.55,
+    "lon": 104.4667,
+    "population": 19274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phumĭ Véal Srê",
+    "region": "Takeo",
+    "lat": 10.9808,
+    "lon": 104.7783,
+    "population": 18206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srok Stueng Hav",
+    "region": "Sihanoukville",
+    "lat": 10.8525,
+    "lon": 103.7402,
+    "population": 17604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan 7 Makara",
+    "region": "Phnom Penh",
+    "lat": 11.5625,
+    "lon": 104.9141,
+    "population": 17594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Bâ Kêv",
+    "region": "Ratanakiri",
+    "lat": 13.7075,
+    "lon": 107.1944,
+    "population": 16788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srok Tuek Chhou",
+    "region": "Kampot",
+    "lat": 10.7456,
+    "lon": 104.1101,
+    "population": 16738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ta Vêng",
+    "region": "Ratanakiri",
+    "lat": 14.2919,
+    "lon": 107.2403,
+    "population": 16446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sihanoukville",
+    "region": "Sihanoukville",
+    "lat": 10.6093,
+    "lon": 103.5296,
+    "population": 15805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svay Leu",
+    "region": "Siem Reap",
+    "lat": 13.6917,
+    "lon": 104.2745,
+    "population": 15802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Svay Chék",
+    "region": "Banteay Meanchey",
+    "lat": 13.8131,
+    "lon": 102.9527,
+    "population": 15593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Banăn",
+    "region": "Battambang",
+    "lat": 12.9707,
+    "lon": 103.0474,
+    "population": 15007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angkor Chey",
+    "region": "Kampot",
+    "lat": 10.7667,
+    "lon": 104.65,
+    "population": 14913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan Méan Chey",
+    "region": "Phnom Penh",
+    "lat": 11.5198,
+    "lon": 104.9547,
+    "population": 14751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stung Treng",
+    "region": "Stung Treng",
+    "lat": 13.5259,
+    "lon": 105.9683,
+    "population": 13951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Pech Chreada",
+    "region": "Mondulkiri",
+    "lat": 12.7278,
+    "lon": 107.0948,
+    "population": 13736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paoy Paet",
+    "region": "Banteay Meanchey",
+    "lat": 13.658,
+    "lon": 102.5636,
+    "population": 13298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Khsăch Kândal",
+    "region": "Kandal",
+    "lat": 11.6922,
+    "lon": 105.0373,
+    "population": 13051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krong Kep",
+    "region": "Kep",
+    "lat": 10.4829,
+    "lon": 104.3167,
+    "population": 12879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan Sala Krau",
+    "region": "Pailin",
+    "lat": 12.9798,
+    "lon": 102.6396,
+    "population": 12519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Battambang",
+    "region": "Battambang",
+    "lat": 13.1027,
+    "lon": 103.1982,
+    "population": 12371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pailin",
+    "region": "Pailin",
+    "lat": 12.849,
+    "lon": 102.6093,
+    "population": 12147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phnom Penh",
+    "region": "Phnom Penh",
+    "lat": 11.5625,
+    "lon": 104.916,
+    "population": 12099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sen Monorom",
+    "region": "Mondulkiri",
+    "lat": 12.4558,
+    "lon": 107.1881,
+    "population": 11756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Mésang",
+    "region": "Prey Veng",
+    "lat": 11.3553,
+    "lon": 105.5724,
+    "population": 11420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ângkôr Borei",
+    "region": "Takeo",
+    "lat": 10.9929,
+    "lon": 104.9518,
+    "population": 11242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Ândong Méas",
+    "region": "Ratanakiri",
+    "lat": 13.9335,
+    "lon": 107.3115,
+    "population": 10965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chhouk District",
+    "region": "Kampot",
+    "lat": 10.8167,
+    "lon": 104.45,
+    "population": 10833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snuol",
+    "region": "Kratie",
+    "lat": 12.1937,
+    "lon": 106.4736,
+    "population": 10649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Chŭm Kiri",
+    "region": "Kampot",
+    "lat": 11.0054,
+    "lon": 104.4421,
+    "population": 10326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khan Russey Keo",
+    "region": "Phnom Penh",
+    "lat": 11.6195,
+    "lon": 104.9099,
+    "population": 10320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Srŏk Prasat Bakong",
+    "region": "Siem Reap",
+    "lat": 13.2103,
+    "lon": 103.9769,
+    "population": 10264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siem Reap",
+    "region": "Siem Reap",
+    "lat": 13.3618,
+    "lon": 103.8606,
+    "population": 10113,
+    "timezone": "UTC"
+  }
+]

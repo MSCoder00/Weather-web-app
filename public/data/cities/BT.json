@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Lhuentse",
+    "region": "Lhuntse District",
+    "lat": 27.6679,
+    "lon": 91.1839,
+    "population": 47141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trashigang",
+    "region": "Trashigang District",
+    "lat": 27.3331,
+    "lon": 91.5542,
+    "population": 46027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thimphu",
+    "region": "Thimphu District",
+    "lat": 27.4661,
+    "lon": 89.6419,
+    "population": 44912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajo",
+    "region": "Punakha District",
+    "lat": 27.5333,
+    "lon": 89.8833,
+    "population": 42910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Phuntsholing",
+    "region": "Chukha District",
+    "lat": 26.8516,
+    "lon": 89.3884,
+    "population": 42067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daphu",
+    "region": "Chukha District",
+    "lat": 26.9667,
+    "lon": 89.3833,
+    "population": 41398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panbang",
+    "region": "Zhemgang District",
+    "lat": 26.8667,
+    "lon": 90.9833,
+    "population": 40044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mongar",
+    "region": "Mongar District",
+    "lat": 27.2747,
+    "lon": 91.2396,
+    "population": 39297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punākha",
+    "region": "Punakha District",
+    "lat": 27.5914,
+    "lon": 89.8774,
+    "population": 38750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daga",
+    "region": "Dagana District",
+    "lat": 27.0753,
+    "lon": 89.8769,
+    "population": 37829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pemagatshel",
+    "region": "Pemagatshel District",
+    "lat": 27.0379,
+    "lon": 91.403,
+    "population": 36857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ha",
+    "region": "Haa District",
+    "lat": 27.3875,
+    "lon": 89.2807,
+    "population": 32977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsirang",
+    "region": "Tsirang District",
+    "lat": 27.0219,
+    "lon": 90.1229,
+    "population": 27074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trashi Yangtse",
+    "region": "Wangdue Phodrang District",
+    "lat": 27.6116,
+    "lon": 91.498,
+    "population": 26814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gasa",
+    "region": "Gasa District",
+    "lat": 27.9037,
+    "lon": 89.7269,
+    "population": 25906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paro",
+    "region": "Paro District",
+    "lat": 27.4305,
+    "lon": 89.4133,
+    "population": 25487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shemgang",
+    "region": "Zhemgang District",
+    "lat": 27.2169,
+    "lon": 90.6579,
+    "population": 24124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarpang",
+    "region": "Sarpang District",
+    "lat": 26.8639,
+    "lon": 90.2674,
+    "population": 22382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samtse",
+    "region": "Samtse District",
+    "lat": 26.899,
+    "lon": 89.0995,
+    "population": 20079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trongsa",
+    "region": "Tsirang District",
+    "lat": 27.5026,
+    "lon": 90.5072,
+    "population": 17377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wangdue Phodrang",
+    "region": "Dagana District",
+    "lat": 27.4861,
+    "lon": 89.8992,
+    "population": 15061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsimasham",
+    "region": "Chukha District",
+    "lat": 27.0989,
+    "lon": 89.536,
+    "population": 13069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samdrup Jongkhar",
+    "region": "Samdrup Jongkhar District",
+    "lat": 26.8007,
+    "lon": 91.5052,
+    "population": 11618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jakar",
+    "region": "Bumthang District",
+    "lat": 27.5492,
+    "lon": 90.7525,
+    "population": 11024,
+    "timezone": "UTC"
+  }
+]

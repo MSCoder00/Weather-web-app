@@ -1,0 +1,8202 @@
+[
+  {
+    "name": "Andravída",
+    "region": "West Greece Region",
+    "lat": 37.9059,
+    "lon": 21.2694,
+    "population": 49993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vathýlakkos",
+    "region": "Central Macedonia",
+    "lat": 40.7694,
+    "lon": 22.7088,
+    "population": 49987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Messíni",
+    "region": "Peloponnese Region",
+    "lat": 37.0511,
+    "lon": 22.0078,
+    "population": 49975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Exaplátanos",
+    "region": "Central Macedonia",
+    "lat": 40.9764,
+    "lon": 22.1296,
+    "population": 49933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Távros",
+    "region": "Attica Region",
+    "lat": 37.9706,
+    "lon": 23.6904,
+    "population": 49926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makrychóri",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4398,
+    "lon": 21.9658,
+    "population": 49911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peteinós",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1006,
+    "lon": 24.8985,
+    "population": 49877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalkidóna",
+    "region": "Central Macedonia",
+    "lat": 40.7318,
+    "lon": 22.5999,
+    "population": 49850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megísti",
+    "region": "South Aegean",
+    "lat": 36.1489,
+    "lon": 29.5936,
+    "population": 49829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelasgía",
+    "region": "Central Greece Region",
+    "lat": 38.9481,
+    "lon": 22.8398,
+    "population": 49793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Lipochóri",
+    "region": "Central Macedonia",
+    "lat": 40.7575,
+    "lon": 22.1796,
+    "population": 49784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neochóri",
+    "region": "East Attica Regional Unit",
+    "lat": 41.5113,
+    "lon": 26.4574,
+    "population": 49777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petroússa",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1947,
+    "lon": 24.0173,
+    "population": 49759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Rethýmnis",
+    "region": "Crete Region",
+    "lat": 35.25,
+    "lon": 24.5833,
+    "population": 49703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prámanta",
+    "region": "Epirus Region",
+    "lat": 39.5231,
+    "lon": 21.1014,
+    "population": 49608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marmárion",
+    "region": "Central Greece Region",
+    "lat": 38.0484,
+    "lon": 24.3204,
+    "population": 49543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perachóra",
+    "region": "Peloponnese Region",
+    "lat": 38.0302,
+    "lon": 22.949,
+    "population": 49523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Spyrídon",
+    "region": "Central Macedonia",
+    "lat": 40.2078,
+    "lon": 22.4431,
+    "population": 49522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaiochóri",
+    "region": "Central Macedonia",
+    "lat": 40.4919,
+    "lon": 23.6493,
+    "population": 49520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gargaliánoi",
+    "region": "Peloponnese Region",
+    "lat": 37.0652,
+    "lon": 21.6381,
+    "population": 49508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thesprotikó",
+    "region": "Epirus Region",
+    "lat": 39.2511,
+    "lon": 20.7853,
+    "population": 49448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tríkeri",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.1011,
+    "lon": 23.0767,
+    "population": 49396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gázoros",
+    "region": "Central Macedonia",
+    "lat": 41.0256,
+    "lon": 23.7757,
+    "population": 49293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deskáti",
+    "region": "West Macedonia Region",
+    "lat": 39.9242,
+    "lon": 21.8103,
+    "population": 49187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Véroia",
+    "region": "Central Macedonia",
+    "lat": 40.5244,
+    "lon": 22.2024,
+    "population": 49118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vólakas",
+    "region": "East Attica Regional Unit",
+    "lat": 41.3166,
+    "lon": 24.0022,
+    "population": 49111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sosándra",
+    "region": "Central Macedonia",
+    "lat": 40.9989,
+    "lon": 22.0325,
+    "population": 49047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ássiros",
+    "region": "Central Macedonia",
+    "lat": 40.8214,
+    "lon": 23.0301,
+    "population": 49038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komotiní",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1192,
+    "lon": 25.4053,
+    "population": 49028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Platariá",
+    "region": "Epirus Region",
+    "lat": 39.4504,
+    "lon": 20.2778,
+    "population": 48998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Géfyra",
+    "region": "Peloponnese Region",
+    "lat": 36.6872,
+    "lon": 23.0351,
+    "population": 48979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zevgolateió",
+    "region": "Peloponnese Region",
+    "lat": 37.9333,
+    "lon": 22.8,
+    "population": 48969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asímion",
+    "region": "Crete Region",
+    "lat": 35.0432,
+    "lon": 25.0928,
+    "population": 48937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áratos",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0814,
+    "lon": 25.5519,
+    "population": 48926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pylaía",
+    "region": "Central Macedonia",
+    "lat": 40.5992,
+    "lon": 22.9861,
+    "population": 48915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pithári",
+    "region": "Crete Region",
+    "lat": 35.5167,
+    "lon": 24.0865,
+    "population": 48835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makrakómi",
+    "region": "Central Greece Region",
+    "lat": 38.9415,
+    "lon": 22.1153,
+    "population": 48810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katastárion",
+    "region": "Ionian Islands Region",
+    "lat": 37.8301,
+    "lon": 20.7575,
+    "population": 48801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kréstena",
+    "region": "West Greece Region",
+    "lat": 37.5919,
+    "lon": 21.6203,
+    "population": 48782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portariá",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.3895,
+    "lon": 22.9995,
+    "population": 48772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Apollonía",
+    "region": "Central Macedonia",
+    "lat": 40.6256,
+    "lon": 23.4407,
+    "population": 48650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andros",
+    "region": "South Aegean",
+    "lat": 37.8333,
+    "lon": 24.9333,
+    "population": 48622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evropós",
+    "region": "Central Macedonia",
+    "lat": 40.897,
+    "lon": 22.5528,
+    "population": 48613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodolívos",
+    "region": "Central Macedonia",
+    "lat": 40.9205,
+    "lon": 23.9749,
+    "population": 48580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karpathos",
+    "region": "South Aegean",
+    "lat": 35.507,
+    "lon": 27.2132,
+    "population": 48573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalamiá",
+    "region": "Epirus Region",
+    "lat": 39.1653,
+    "lon": 20.9321,
+    "population": 48553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erétria",
+    "region": "Central Greece Region",
+    "lat": 38.401,
+    "lon": 23.8022,
+    "population": 48518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Seléfkeia",
+    "region": "Epirus Region",
+    "lat": 39.5246,
+    "lon": 20.2552,
+    "population": 48514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pérama",
+    "region": "Crete Region",
+    "lat": 35.3703,
+    "lon": 24.7035,
+    "population": 48506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ptolemaḯda",
+    "region": "West Macedonia Region",
+    "lat": 40.5147,
+    "lon": 21.6786,
+    "population": 48504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peraía",
+    "region": "Central Macedonia",
+    "lat": 40.4987,
+    "lon": 22.9262,
+    "population": 48501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalamata",
+    "region": "Peloponnese Region",
+    "lat": 37.0391,
+    "lon": 22.1126,
+    "population": 48359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalós Agrós",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1054,
+    "lon": 24.0857,
+    "population": 48323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velestíno",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.3818,
+    "lon": 22.7462,
+    "population": 48308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozáni",
+    "region": "West Macedonia Region",
+    "lat": 40.3007,
+    "lon": 21.789,
+    "population": 48186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kýria",
+    "region": "East Attica Regional Unit",
+    "lat": 41.099,
+    "lon": 24.2891,
+    "population": 48151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chálki",
+    "region": "South Aegean",
+    "lat": 36.2224,
+    "lon": 27.6119,
+    "population": 48149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krinídes",
+    "region": "East Attica Regional Unit",
+    "lat": 41.014,
+    "lon": 24.2965,
+    "population": 48129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eksochí",
+    "region": "Epirus Region",
+    "lat": 39.6874,
+    "lon": 20.8224,
+    "population": 48092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orchomenós",
+    "region": "Central Greece Region",
+    "lat": 38.4929,
+    "lon": 22.9796,
+    "population": 48086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pediní",
+    "region": "Epirus Region",
+    "lat": 39.5999,
+    "lon": 20.8426,
+    "population": 48062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ílion",
+    "region": "Attica Region",
+    "lat": 38.0333,
+    "lon": 23.7,
+    "population": 47997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kardiá",
+    "region": "Central Macedonia",
+    "lat": 40.4691,
+    "lon": 22.9938,
+    "population": 47961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skýdra",
+    "region": "Central Macedonia",
+    "lat": 40.7672,
+    "lon": 22.1519,
+    "population": 47934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Michanióna",
+    "region": "Central Macedonia",
+    "lat": 40.4637,
+    "lon": 22.8617,
+    "population": 47918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pálairos",
+    "region": "West Greece Region",
+    "lat": 38.783,
+    "lon": 20.8818,
+    "population": 47890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalá Déndra",
+    "region": "Central Macedonia",
+    "lat": 41.0994,
+    "lon": 23.424,
+    "population": 47876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrochóri",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0874,
+    "lon": 24.8409,
+    "population": 47873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kardamás",
+    "region": "West Greece Region",
+    "lat": 37.7673,
+    "lon": 21.3395,
+    "population": 47813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áyios Adhrianós",
+    "region": "Peloponnese Region",
+    "lat": 37.5998,
+    "lon": 22.8456,
+    "population": 47779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Proástio",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4868,
+    "lon": 21.9029,
+    "population": 47766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koropí",
+    "region": "Attica Region",
+    "lat": 37.8989,
+    "lon": 23.8718,
+    "population": 47706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lithakiá",
+    "region": "Ionian Islands Region",
+    "lat": 37.7193,
+    "lon": 20.8301,
+    "population": 47703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Plágia",
+    "region": "Central Macedonia",
+    "lat": 40.2654,
+    "lon": 23.2038,
+    "population": 47693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áno Kómi",
+    "region": "West Macedonia Region",
+    "lat": 40.2266,
+    "lon": 21.8283,
+    "population": 47686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arkalochóri",
+    "region": "Crete Region",
+    "lat": 35.1463,
+    "lon": 25.2654,
+    "population": 47652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Náfpaktos",
+    "region": "West Greece Region",
+    "lat": 38.3917,
+    "lon": 21.8275,
+    "population": 47617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rízoma",
+    "region": "Corfu Prefecture",
+    "lat": 39.6643,
+    "lon": 21.7354,
+    "population": 47601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lávrio",
+    "region": "Attica Region",
+    "lat": 37.7144,
+    "lon": 24.0565,
+    "population": 47596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavráki",
+    "region": "Epirus Region",
+    "lat": 39.6561,
+    "lon": 20.8181,
+    "population": 47593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ádendro",
+    "region": "Central Macedonia",
+    "lat": 40.6713,
+    "lon": 22.6047,
+    "population": 47503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áthyra",
+    "region": "Central Macedonia",
+    "lat": 40.8261,
+    "lon": 22.5928,
+    "population": 47483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fotolívos",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0601,
+    "lon": 24.0472,
+    "population": 47470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trípoli",
+    "region": "Peloponnese Region",
+    "lat": 37.5089,
+    "lon": 22.3794,
+    "population": 47434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Geórgios",
+    "region": "Central Macedonia",
+    "lat": 40.6022,
+    "lon": 22.1943,
+    "population": 47376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chrysoúpolis",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9856,
+    "lon": 24.6939,
+    "population": 47321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mílos",
+    "region": "South Aegean",
+    "lat": 36.7454,
+    "lon": 24.4265,
+    "population": 47169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sochós",
+    "region": "Central Macedonia",
+    "lat": 40.8179,
+    "lon": 23.3555,
+    "population": 47065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áris",
+    "region": "Peloponnese Region",
+    "lat": 37.0992,
+    "lon": 22.0044,
+    "population": 47055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Scholári",
+    "region": "Central Macedonia",
+    "lat": 40.4291,
+    "lon": 23.0298,
+    "population": 46960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néos Mylótopos",
+    "region": "Central Macedonia",
+    "lat": 40.8187,
+    "lon": 22.3549,
+    "population": 46948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Tírins",
+    "region": "Peloponnese Region",
+    "lat": 37.6079,
+    "lon": 22.82,
+    "population": 46921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pérama",
+    "region": "Epirus Region",
+    "lat": 39.6933,
+    "lon": 20.8466,
+    "population": 46862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsiflikópoulo",
+    "region": "Epirus Region",
+    "lat": 39.6562,
+    "lon": 20.8388,
+    "population": 46847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Axós",
+    "region": "Central Macedonia",
+    "lat": 40.8022,
+    "lon": 22.3616,
+    "population": 46841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lechainá",
+    "region": "West Greece Region",
+    "lat": 37.9333,
+    "lon": 21.2667,
+    "population": 46827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Nevrokópi",
+    "region": "East Attica Regional Unit",
+    "lat": 41.35,
+    "lon": 23.8667,
+    "population": 46813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallíthiro",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.281,
+    "lon": 21.9049,
+    "population": 46803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virós",
+    "region": "Ionian Islands Region",
+    "lat": 39.5834,
+    "lon": 19.8827,
+    "population": 46800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koímisi",
+    "region": "Central Macedonia",
+    "lat": 41.2128,
+    "lon": 23.3004,
+    "population": 46726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loutrós",
+    "region": "Central Macedonia",
+    "lat": 40.5887,
+    "lon": 22.3998,
+    "population": 46705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Málgara",
+    "region": "Central Macedonia",
+    "lat": 40.6099,
+    "lon": 22.682,
+    "population": 46695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plagiári",
+    "region": "Central Macedonia",
+    "lat": 40.4728,
+    "lon": 22.9579,
+    "population": 46673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áyios Thomás",
+    "region": "Central Greece Region",
+    "lat": 38.2772,
+    "lon": 23.5891,
+    "population": 46668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zefyri",
+    "region": "Attica Region",
+    "lat": 38.0665,
+    "lon": 23.717,
+    "population": 46618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neochorópoulo",
+    "region": "Epirus Region",
+    "lat": 39.6255,
+    "lon": 20.8356,
+    "population": 46569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pátmos",
+    "region": "South Aegean",
+    "lat": 37.309,
+    "lon": 26.5472,
+    "population": 46470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavála",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9396,
+    "lon": 24.4069,
+    "population": 46460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastaniés",
+    "region": "East Attica Regional Unit",
+    "lat": 41.6455,
+    "lon": 26.4768,
+    "population": 46380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kos",
+    "region": "South Aegean",
+    "lat": 36.8929,
+    "lon": 27.2877,
+    "population": 46380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Istiaía",
+    "region": "Central Greece Region",
+    "lat": 38.9552,
+    "lon": 23.1521,
+    "population": 46319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martínon",
+    "region": "Central Greece Region",
+    "lat": 38.5682,
+    "lon": 23.2146,
+    "population": 46280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neochóri",
+    "region": "Epirus Region",
+    "lat": 39.0703,
+    "lon": 21.0189,
+    "population": 46279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sylivainiótika",
+    "region": "West Greece Region",
+    "lat": 38.1614,
+    "lon": 22.3316,
+    "population": 46160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallífytos",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1728,
+    "lon": 24.2153,
+    "population": 46125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyriáki",
+    "region": "Central Greece Region",
+    "lat": 38.3537,
+    "lon": 22.7884,
+    "population": 46042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rízia",
+    "region": "East Attica Regional Unit",
+    "lat": 41.6249,
+    "lon": 26.4277,
+    "population": 45985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mavrommáti",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4239,
+    "lon": 21.6938,
+    "population": 45935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skála Oropoú",
+    "region": "Attica Region",
+    "lat": 38.3196,
+    "lon": 23.7876,
+    "population": 45906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paralía",
+    "region": "West Greece Region",
+    "lat": 38.1983,
+    "lon": 21.7026,
+    "population": 45844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argyroúpoli",
+    "region": "Attica Region",
+    "lat": 37.9059,
+    "lon": 23.7504,
+    "population": 45836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Matthaíos",
+    "region": "Ionian Islands Region",
+    "lat": 39.4951,
+    "lon": 19.8734,
+    "population": 45820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Síndos",
+    "region": "Central Macedonia",
+    "lat": 40.6705,
+    "lon": 22.8055,
+    "population": 45805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aridaía",
+    "region": "Central Macedonia",
+    "lat": 40.9731,
+    "lon": 22.0564,
+    "population": 45790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melíssia",
+    "region": "Attica Region",
+    "lat": 38.05,
+    "lon": 23.8333,
+    "population": 45745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paralía",
+    "region": "Central Macedonia",
+    "lat": 40.2671,
+    "lon": 22.5962,
+    "population": 45727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aegina",
+    "region": "Attica Region",
+    "lat": 37.7467,
+    "lon": 23.4275,
+    "population": 45686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vári",
+    "region": "South Aegean",
+    "lat": 37.3986,
+    "lon": 24.949,
+    "population": 45669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kálamos",
+    "region": "Attica Region",
+    "lat": 38.2845,
+    "lon": 23.8631,
+    "population": 45646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eláteia",
+    "region": "Central Greece Region",
+    "lat": 38.6277,
+    "lon": 22.7649,
+    "population": 45608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artémida",
+    "region": "Attica Region",
+    "lat": 37.9673,
+    "lon": 23.9968,
+    "population": 45447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesariá",
+    "region": "South Aegean",
+    "lat": 36.3989,
+    "lon": 25.4481,
+    "population": 45424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavásila",
+    "region": "West Greece Region",
+    "lat": 37.8758,
+    "lon": 21.2642,
+    "population": 45405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nerokoúros",
+    "region": "Crete Region",
+    "lat": 35.4759,
+    "lon": 24.04,
+    "population": 45264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spercheiáda",
+    "region": "Central Greece Region",
+    "lat": 38.9066,
+    "lon": 22.1279,
+    "population": 45260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Témeni",
+    "region": "West Greece Region",
+    "lat": 38.2371,
+    "lon": 22.1253,
+    "population": 45177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kýthnos",
+    "region": "South Aegean",
+    "lat": 37.4124,
+    "lon": 24.4307,
+    "population": 45145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaniá",
+    "region": "Crete Region",
+    "lat": 35.5112,
+    "lon": 24.0292,
+    "population": 45134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anoixi",
+    "region": "Attica Region",
+    "lat": 38.1327,
+    "lon": 23.8587,
+    "population": 45123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Párga",
+    "region": "Epirus Region",
+    "lat": 39.2857,
+    "lon": 20.4004,
+    "population": 45106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arfará",
+    "region": "Peloponnese Region",
+    "lat": 37.1562,
+    "lon": 22.0449,
+    "population": 45064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afántou",
+    "region": "South Aegean",
+    "lat": 36.2935,
+    "lon": 28.1623,
+    "population": 45059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papágou",
+    "region": "Attica Region",
+    "lat": 37.9864,
+    "lon": 23.7935,
+    "population": 45037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Methóni",
+    "region": "Peloponnese Region",
+    "lat": 36.8197,
+    "lon": 21.7049,
+    "population": 45036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vraná",
+    "region": "Attica Region",
+    "lat": 38.125,
+    "lon": 23.952,
+    "population": 45028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chóra Sfakíon",
+    "region": "Crete Region",
+    "lat": 35.2018,
+    "lon": 24.1371,
+    "population": 44958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágioi Theódoroi",
+    "region": "Peloponnese Region",
+    "lat": 37.9274,
+    "lon": 23.1422,
+    "population": 44811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lávara",
+    "region": "East Attica Regional Unit",
+    "lat": 41.2696,
+    "lon": 26.3852,
+    "population": 44753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lárdos",
+    "region": "South Aegean",
+    "lat": 36.0942,
+    "lon": 28.0157,
+    "population": 44736,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Náousa",
+    "region": "Central Macedonia",
+    "lat": 40.6294,
+    "lon": 22.0681,
+    "population": 44734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianokládhion",
+    "region": "Central Greece Region",
+    "lat": 38.9166,
+    "lon": 22.3034,
+    "population": 44698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xylaganí",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9744,
+    "lon": 25.4202,
+    "population": 44655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Pétros",
+    "region": "Central Macedonia",
+    "lat": 40.8672,
+    "lon": 22.583,
+    "population": 44568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mavrochóri",
+    "region": "West Macedonia Region",
+    "lat": 40.5122,
+    "lon": 21.3204,
+    "population": 44558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skópelos",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.1214,
+    "lon": 23.7269,
+    "population": 44540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Kozánis",
+    "region": "West Macedonia Region",
+    "lat": 40.3333,
+    "lon": 21.7167,
+    "population": 44497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kouvarás",
+    "region": "Attica Region",
+    "lat": 37.8271,
+    "lon": 23.9672,
+    "population": 44494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koutselió",
+    "region": "Epirus Region",
+    "lat": 39.5881,
+    "lon": 20.912,
+    "population": 44458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Igoumenítsa",
+    "region": "Epirus Region",
+    "lat": 39.5034,
+    "lon": 20.2673,
+    "population": 44418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angelochóri",
+    "region": "Central Macedonia",
+    "lat": 40.6786,
+    "lon": 22.1993,
+    "population": 44373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sfendámi",
+    "region": "Central Macedonia",
+    "lat": 40.4131,
+    "lon": 22.5468,
+    "population": 44277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áyios Konstandínos",
+    "region": "West Greece Region",
+    "lat": 38.6334,
+    "lon": 21.3995,
+    "population": 44244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páros",
+    "region": "South Aegean",
+    "lat": 37.0833,
+    "lon": 25.15,
+    "population": 44217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyparissía",
+    "region": "Peloponnese Region",
+    "lat": 37.2511,
+    "lon": 21.6736,
+    "population": 44193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limnokhórion",
+    "region": "West Greece Region",
+    "lat": 38.1412,
+    "lon": 21.4805,
+    "population": 44119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Iraklítsa",
+    "region": "East Attica Regional Unit",
+    "lat": 40.8644,
+    "lon": 24.3165,
+    "population": 44118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neapoli",
+    "region": "Central Macedonia",
+    "lat": 40.6532,
+    "lon": 22.9416,
+    "population": 44085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stamáta",
+    "region": "Attica Region",
+    "lat": 38.1255,
+    "lon": 23.8804,
+    "population": 44080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lykóvrysi",
+    "region": "Attica Region",
+    "lat": 38.0693,
+    "lon": 23.7822,
+    "population": 44077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Nikólaos",
+    "region": "Crete Region",
+    "lat": 35.1911,
+    "lon": 25.7152,
+    "population": 44042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kateríni",
+    "region": "Central Macedonia",
+    "lat": 40.2696,
+    "lon": 22.5061,
+    "population": 43997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vlachiótis",
+    "region": "Peloponnese Region",
+    "lat": 36.8609,
+    "lon": 22.7083,
+    "population": 43984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mólos",
+    "region": "Central Greece Region",
+    "lat": 38.81,
+    "lon": 22.6454,
+    "population": 43981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keratéa",
+    "region": "Attica Region",
+    "lat": 37.8058,
+    "lon": 23.9774,
+    "population": 43858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diónysos",
+    "region": "Attica Region",
+    "lat": 38.1046,
+    "lon": 23.8794,
+    "population": 43740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sérifos",
+    "region": "South Aegean",
+    "lat": 37.154,
+    "lon": 24.5061,
+    "population": 43720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pontisméno",
+    "region": "Central Macedonia",
+    "lat": 41.2088,
+    "lon": 23.2832,
+    "population": 43587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anávyssos",
+    "region": "Attica Region",
+    "lat": 37.7341,
+    "lon": 23.9439,
+    "population": 43560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meneméni",
+    "region": "Central Macedonia",
+    "lat": 40.6583,
+    "lon": 22.8971,
+    "population": 43520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasilikí",
+    "region": "Corfu Prefecture",
+    "lat": 39.6398,
+    "lon": 21.7045,
+    "population": 43494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Évlalo",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9833,
+    "lon": 24.8,
+    "population": 43453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thrakomakedónes",
+    "region": "Attica Region",
+    "lat": 38.1296,
+    "lon": 23.7575,
+    "population": 43419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maniákoi",
+    "region": "West Macedonia Region",
+    "lat": 40.5006,
+    "lon": 21.2445,
+    "population": 43318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avlónas",
+    "region": "Attica Region",
+    "lat": 38.2515,
+    "lon": 23.6955,
+    "population": 43309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastélla",
+    "region": "Central Greece Region",
+    "lat": 38.5705,
+    "lon": 23.6313,
+    "population": 43273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áno Kastrítsi",
+    "region": "West Greece Region",
+    "lat": 38.2723,
+    "lon": 21.836,
+    "population": 43239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gázi",
+    "region": "Crete Region",
+    "lat": 35.3253,
+    "lon": 25.0669,
+    "population": 43183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alexándreia",
+    "region": "Central Macedonia",
+    "lat": 40.6267,
+    "lon": 22.4442,
+    "population": 43135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pteleós",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.0526,
+    "lon": 22.9527,
+    "population": 43128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Árta",
+    "region": "Epirus Region",
+    "lat": 39.1601,
+    "lon": 20.9856,
+    "population": 43093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chóra",
+    "region": "Peloponnese Region",
+    "lat": 37.0511,
+    "lon": 21.7169,
+    "population": 43035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Róda",
+    "region": "Central Macedonia",
+    "lat": 40.3812,
+    "lon": 23.9237,
+    "population": 42986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emporeío",
+    "region": "South Aegean",
+    "lat": 36.3582,
+    "lon": 25.4461,
+    "population": 42942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eleftheroúpolis",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9139,
+    "lon": 24.2514,
+    "population": 42930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oía",
+    "region": "South Aegean",
+    "lat": 36.4626,
+    "lon": 25.3764,
+    "population": 42882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamárai",
+    "region": "West Greece Region",
+    "lat": 38.2988,
+    "lon": 21.9989,
+    "population": 42866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fteliá",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0827,
+    "lon": 24.1897,
+    "population": 42850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Kíos",
+    "region": "Peloponnese Region",
+    "lat": 37.5902,
+    "lon": 22.7434,
+    "population": 42698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domokós",
+    "region": "Central Greece Region",
+    "lat": 39.1272,
+    "lon": 22.3003,
+    "population": 42617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Péramos",
+    "region": "East Attica Regional Unit",
+    "lat": 40.8385,
+    "lon": 24.3013,
+    "population": 42501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eleoúsa",
+    "region": "Epirus Region",
+    "lat": 39.1528,
+    "lon": 20.9621,
+    "population": 42300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spétses",
+    "region": "Attica Region",
+    "lat": 37.2619,
+    "lon": 23.1594,
+    "population": 42274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Aitolías kai Akarnanías",
+    "region": "West Greece Region",
+    "lat": 38.5,
+    "lon": 21.5,
+    "population": 42258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Goúves",
+    "region": "Crete Region",
+    "lat": 35.3293,
+    "lon": 25.3135,
+    "population": 42216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhráfi",
+    "region": "Attica Region",
+    "lat": 38.0237,
+    "lon": 23.9079,
+    "population": 42196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antikyra",
+    "region": "Central Greece Region",
+    "lat": 38.3833,
+    "lon": 22.6333,
+    "population": 42148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Erythraía",
+    "region": "Attica Region",
+    "lat": 38.0927,
+    "lon": 23.8222,
+    "population": 42131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Álli Meriá",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.3704,
+    "lon": 22.9835,
+    "population": 42092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marína",
+    "region": "Central Macedonia",
+    "lat": 40.692,
+    "lon": 22.101,
+    "population": 42056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nikísiani",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9474,
+    "lon": 24.1431,
+    "population": 42025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magoúla",
+    "region": "Peloponnese Region",
+    "lat": 37.0801,
+    "lon": 22.4047,
+    "population": 41972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalýves",
+    "region": "Crete Region",
+    "lat": 35.4505,
+    "lon": 24.1751,
+    "population": 41938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néo Soúli",
+    "region": "Central Macedonia",
+    "lat": 41.094,
+    "lon": 23.6438,
+    "population": 41937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kompóti",
+    "region": "Epirus Region",
+    "lat": 39.1026,
+    "lon": 21.0839,
+    "population": 41913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río",
+    "region": "West Greece Region",
+    "lat": 38.2956,
+    "lon": 21.785,
+    "population": 41904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagkadás",
+    "region": "Central Macedonia",
+    "lat": 40.75,
+    "lon": 23.0667,
+    "population": 41851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavroúpoli",
+    "region": "Central Macedonia",
+    "lat": 40.6694,
+    "lon": 22.9381,
+    "population": 41820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ampelókipoi",
+    "region": "Central Macedonia",
+    "lat": 40.653,
+    "lon": 22.9262,
+    "population": 41735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Árnissa",
+    "region": "Central Macedonia",
+    "lat": 40.7955,
+    "lon": 21.8358,
+    "population": 41693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irákleion",
+    "region": "Crete Region",
+    "lat": 35.3279,
+    "lon": 25.1434,
+    "population": 41691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Politiká",
+    "region": "Central Greece Region",
+    "lat": 38.5967,
+    "lon": 23.5446,
+    "population": 41657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Páchni",
+    "region": "East Attica Regional Unit",
+    "lat": 41.3051,
+    "lon": 24.8944,
+    "population": 41613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kardamýli",
+    "region": "Peloponnese Region",
+    "lat": 36.8878,
+    "lon": 22.2332,
+    "population": 41562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fáros",
+    "region": "Central Greece Region",
+    "lat": 38.3996,
+    "lon": 23.6227,
+    "population": 41491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kardámaina",
+    "region": "South Aegean",
+    "lat": 36.7831,
+    "lon": 27.1429,
+    "population": 41433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polýgyros",
+    "region": "Central Macedonia",
+    "lat": 40.377,
+    "lon": 23.4413,
+    "population": 41401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kíssamos",
+    "region": "Crete Region",
+    "lat": 35.4946,
+    "lon": 23.6537,
+    "population": 41339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Díon",
+    "region": "Central Macedonia",
+    "lat": 40.1717,
+    "lon": 22.4846,
+    "population": 41323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kopanós",
+    "region": "Central Macedonia",
+    "lat": 40.6338,
+    "lon": 22.1289,
+    "population": 41176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stratónion",
+    "region": "Central Macedonia",
+    "lat": 40.5141,
+    "lon": 23.8247,
+    "population": 41132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lákkoma",
+    "region": "Central Macedonia",
+    "lat": 40.3914,
+    "lon": 23.0558,
+    "population": 41097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Ionía",
+    "region": "Attica Region",
+    "lat": 38.0357,
+    "lon": 23.7573,
+    "population": 41090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galatiní",
+    "region": "West Macedonia Region",
+    "lat": 40.3197,
+    "lon": 21.5515,
+    "population": 41085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keramotí",
+    "region": "East Attica Regional Unit",
+    "lat": 40.8559,
+    "lon": 24.706,
+    "population": 41044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Magnisía",
+    "region": "Central Macedonia",
+    "lat": 40.6878,
+    "lon": 22.8458,
+    "population": 41003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitrópoli",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.3393,
+    "lon": 21.8375,
+    "population": 40988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sitia",
+    "region": "Crete Region",
+    "lat": 35.2078,
+    "lon": 26.1047,
+    "population": 40986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lidoríki",
+    "region": "Central Greece Region",
+    "lat": 38.5239,
+    "lon": 22.1997,
+    "population": 40973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ierápetra",
+    "region": "Crete Region",
+    "lat": 35.0119,
+    "lon": 25.7423,
+    "population": 40960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markópoulo Oropoú",
+    "region": "Attica Region",
+    "lat": 38.2898,
+    "lon": 23.8248,
+    "population": 40951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Achaḯas",
+    "region": "West Greece Region",
+    "lat": 38,
+    "lon": 22,
+    "population": 40907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Graikochóri",
+    "region": "Epirus Region",
+    "lat": 39.4979,
+    "lon": 20.2761,
+    "population": 40866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Empório",
+    "region": "West Macedonia Region",
+    "lat": 40.4887,
+    "lon": 21.5577,
+    "population": 40859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varvásaina",
+    "region": "West Greece Region",
+    "lat": 37.6711,
+    "lon": 21.4989,
+    "population": 40823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néos Marmarás",
+    "region": "Central Macedonia",
+    "lat": 40.0961,
+    "lon": 23.7832,
+    "population": 40802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Triandría",
+    "region": "Central Macedonia",
+    "lat": 40.615,
+    "lon": 22.9762,
+    "population": 40786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agrínio",
+    "region": "West Greece Region",
+    "lat": 38.6214,
+    "lon": 21.4078,
+    "population": 40762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loutráki",
+    "region": "Peloponnese Region",
+    "lat": 37.9783,
+    "lon": 22.9778,
+    "population": 40735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakkí",
+    "region": "South Aegean",
+    "lat": 37.1334,
+    "lon": 26.8524,
+    "population": 40685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ammochóri",
+    "region": "West Macedonia Region",
+    "lat": 40.782,
+    "lon": 21.4846,
+    "population": 40655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drosiá",
+    "region": "Attica Region",
+    "lat": 38.1198,
+    "lon": 23.8643,
+    "population": 40638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Achaḯa",
+    "region": "West Greece Region",
+    "lat": 38.15,
+    "lon": 21.55,
+    "population": 40543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sidirókastro",
+    "region": "Central Macedonia",
+    "lat": 41.235,
+    "lon": 23.389,
+    "population": 40517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Asítai",
+    "region": "Crete Region",
+    "lat": 35.2027,
+    "lon": 24.9983,
+    "population": 40503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áno Merá",
+    "region": "South Aegean",
+    "lat": 37.449,
+    "lon": 25.391,
+    "population": 40458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pylí",
+    "region": "South Aegean",
+    "lat": 36.8447,
+    "lon": 27.1593,
+    "population": 40407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Stíra",
+    "region": "Central Greece Region",
+    "lat": 38.1793,
+    "lon": 24.2084,
+    "population": 40380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galaxídhion",
+    "region": "Central Greece Region",
+    "lat": 38.3807,
+    "lon": 22.38,
+    "population": 40374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portariá",
+    "region": "Central Macedonia",
+    "lat": 40.2841,
+    "lon": 23.2955,
+    "population": 40371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrilissia",
+    "region": "Attica Region",
+    "lat": 38.0338,
+    "lon": 23.8296,
+    "population": 40366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lefkónas",
+    "region": "Central Macedonia",
+    "lat": 41.1003,
+    "lon": 23.4966,
+    "population": 40245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Lámpsakos",
+    "region": "Central Greece Region",
+    "lat": 38.4373,
+    "lon": 23.6282,
+    "population": 40194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corfu",
+    "region": "Ionian Islands Region",
+    "lat": 39.6207,
+    "lon": 19.9198,
+    "population": 40182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paralía Vérgas",
+    "region": "Peloponnese Region",
+    "lat": 37.0071,
+    "lon": 22.1568,
+    "population": 40031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akraifnía",
+    "region": "Central Greece Region",
+    "lat": 38.4566,
+    "lon": 23.2209,
+    "population": 39968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chlói",
+    "region": "West Macedonia Region",
+    "lat": 40.5392,
+    "lon": 21.2592,
+    "population": 39959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Litóchoro",
+    "region": "Central Macedonia",
+    "lat": 40.1006,
+    "lon": 22.4978,
+    "population": 39927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tolón",
+    "region": "Peloponnese Region",
+    "lat": 37.5202,
+    "lon": 22.8586,
+    "population": 39894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Platanórevma",
+    "region": "West Macedonia Region",
+    "lat": 40.2008,
+    "lon": 22.0249,
+    "population": 39891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asíni",
+    "region": "Peloponnese Region",
+    "lat": 37.5443,
+    "lon": 22.8644,
+    "population": 39881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katochí",
+    "region": "West Greece Region",
+    "lat": 38.4124,
+    "lon": 21.2526,
+    "population": 39806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Níkiti",
+    "region": "Central Macedonia",
+    "lat": 40.222,
+    "lon": 23.6684,
+    "population": 39790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langádhia",
+    "region": "Peloponnese Region",
+    "lat": 37.6819,
+    "lon": 22.03,
+    "population": 39780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schimatári",
+    "region": "Central Greece Region",
+    "lat": 38.35,
+    "lon": 23.5833,
+    "population": 39764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gra Liyiá",
+    "region": "Crete Region",
+    "lat": 35.0147,
+    "lon": 25.6913,
+    "population": 39760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilkís",
+    "region": "Central Macedonia",
+    "lat": 40.993,
+    "lon": 22.8743,
+    "population": 39729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pentaplátano",
+    "region": "Central Macedonia",
+    "lat": 40.819,
+    "lon": 22.419,
+    "population": 39613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plátanos",
+    "region": "West Greece Region",
+    "lat": 37.6673,
+    "lon": 21.6111,
+    "population": 39598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paralía Avlídhos",
+    "region": "Central Greece Region",
+    "lat": 38.38,
+    "lon": 23.6284,
+    "population": 39557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasiliká",
+    "region": "Central Macedonia",
+    "lat": 40.4797,
+    "lon": 23.1369,
+    "population": 39481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anatolikó",
+    "region": "Central Macedonia",
+    "lat": 40.6615,
+    "lon": 22.7119,
+    "population": 39476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valteró",
+    "region": "Central Macedonia",
+    "lat": 41.1793,
+    "lon": 23.3202,
+    "population": 39463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agios Georgis",
+    "region": "Ionian Islands Region",
+    "lat": 39.7236,
+    "lon": 19.6997,
+    "population": 39457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karyótissa",
+    "region": "Central Macedonia",
+    "lat": 40.7692,
+    "lon": 22.3133,
+    "population": 39433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhafní",
+    "region": "Attica Region",
+    "lat": 37.95,
+    "lon": 23.7344,
+    "population": 39432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vélo",
+    "region": "Peloponnese Region",
+    "lat": 37.9761,
+    "lon": 22.7599,
+    "population": 39380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallithéa",
+    "region": "Central Macedonia",
+    "lat": 40.0737,
+    "lon": 23.4464,
+    "population": 39328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monastiráki",
+    "region": "West Greece Region",
+    "lat": 38.8505,
+    "lon": 20.9446,
+    "population": 39274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalýves Polygýrou",
+    "region": "Central Macedonia",
+    "lat": 40.2866,
+    "lon": 23.3903,
+    "population": 39229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voúla",
+    "region": "Attica Region",
+    "lat": 37.8422,
+    "lon": 23.7765,
+    "population": 39192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aitolikó",
+    "region": "West Greece Region",
+    "lat": 38.437,
+    "lon": 21.3536,
+    "population": 39168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panórama",
+    "region": "Central Macedonia",
+    "lat": 40.5878,
+    "lon": 23.0315,
+    "population": 39122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prómachoi",
+    "region": "Central Macedonia",
+    "lat": 41.0252,
+    "lon": 22.0044,
+    "population": 39100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paramythiá",
+    "region": "Epirus Region",
+    "lat": 39.4711,
+    "lon": 20.5111,
+    "population": 39042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agios Dimítrios Kropiás",
+    "region": "Attica Region",
+    "lat": 37.8061,
+    "lon": 23.8579,
+    "population": 39037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kríkellos",
+    "region": "West Greece Region",
+    "lat": 38.9453,
+    "lon": 21.1791,
+    "population": 39034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antirrio",
+    "region": "West Greece Region",
+    "lat": 38.3301,
+    "lon": 21.7641,
+    "population": 38849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sápes",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0286,
+    "lon": 25.6931,
+    "population": 38820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vári",
+    "region": "Attica Region",
+    "lat": 37.8332,
+    "lon": 23.8031,
+    "population": 38802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kostakioí",
+    "region": "Epirus Region",
+    "lat": 39.1367,
+    "lon": 20.9576,
+    "population": 38668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Irakleíou",
+    "region": "Crete Region",
+    "lat": 35.3297,
+    "lon": 25.1299,
+    "population": 38661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chrysó",
+    "region": "Central Macedonia",
+    "lat": 41.0581,
+    "lon": 23.6511,
+    "population": 38651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velventós",
+    "region": "West Macedonia Region",
+    "lat": 40.2553,
+    "lon": 22.0754,
+    "population": 38597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Výronas",
+    "region": "Attica Region",
+    "lat": 37.9611,
+    "lon": 23.753,
+    "population": 38593,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anatolí",
+    "region": "Epirus Region",
+    "lat": 39.6353,
+    "lon": 20.8658,
+    "population": 38409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moíres",
+    "region": "Crete Region",
+    "lat": 35.0514,
+    "lon": 24.8733,
+    "population": 38405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Mazaráki",
+    "region": "West Greece Region",
+    "lat": 38.0703,
+    "lon": 21.651,
+    "population": 38365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karditsomagoúla",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.3906,
+    "lon": 21.9233,
+    "population": 38341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geráni",
+    "region": "Crete Region",
+    "lat": 35.5172,
+    "lon": 23.8782,
+    "population": 38308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limín Khersonísou",
+    "region": "Crete Region",
+    "lat": 35.323,
+    "lon": 25.3927,
+    "population": 38289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fíki",
+    "region": "Corfu Prefecture",
+    "lat": 39.516,
+    "lon": 21.6556,
+    "population": 38266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagyná",
+    "region": "Central Macedonia",
+    "lat": 40.7235,
+    "lon": 23.0042,
+    "population": 38241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallithéa",
+    "region": "Attica Region",
+    "lat": 37.95,
+    "lon": 23.7,
+    "population": 38222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karpenísi",
+    "region": "Central Greece Region",
+    "lat": 38.9122,
+    "lon": 21.7984,
+    "population": 38221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalí Vrýsi",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1465,
+    "lon": 23.9067,
+    "population": 38209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dílesi",
+    "region": "Central Greece Region",
+    "lat": 38.3376,
+    "lon": 23.6708,
+    "population": 38173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sými",
+    "region": "South Aegean",
+    "lat": 36.6155,
+    "lon": 27.8362,
+    "population": 38125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áno Sýros",
+    "region": "South Aegean",
+    "lat": 37.45,
+    "lon": 24.9356,
+    "population": 38115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áno Kalentíni",
+    "region": "Epirus Region",
+    "lat": 39.25,
+    "lon": 21.1853,
+    "population": 38074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesopotamía",
+    "region": "West Macedonia Region",
+    "lat": 40.5025,
+    "lon": 21.1611,
+    "population": 37998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neochóri",
+    "region": "West Greece Region",
+    "lat": 37.9079,
+    "lon": 21.2039,
+    "population": 37918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vlycháda",
+    "region": "Attica Region",
+    "lat": 38.0273,
+    "lon": 23.4366,
+    "population": 37908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choristí",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1306,
+    "lon": 24.2084,
+    "population": 37890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalývia Thorikoú",
+    "region": "Attica Region",
+    "lat": 37.8389,
+    "lon": 23.925,
+    "population": 37853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koíla",
+    "region": "West Macedonia Region",
+    "lat": 40.3306,
+    "lon": 21.791,
+    "population": 37814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kontariótissa",
+    "region": "Central Macedonia",
+    "lat": 40.2275,
+    "lon": 22.461,
+    "population": 37790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filiatrá",
+    "region": "Peloponnese Region",
+    "lat": 37.1564,
+    "lon": 21.5853,
+    "population": 37760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mália",
+    "region": "Crete Region",
+    "lat": 35.2837,
+    "lon": 25.4626,
+    "population": 37714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koilás",
+    "region": "Peloponnese Region",
+    "lat": 37.4123,
+    "lon": 23.1255,
+    "population": 37699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sykiá",
+    "region": "Central Macedonia",
+    "lat": 40.0387,
+    "lon": 23.9405,
+    "population": 37636,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koróni",
+    "region": "Peloponnese Region",
+    "lat": 36.7953,
+    "lon": 21.9579,
+    "population": 37613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amýntaio",
+    "region": "West Macedonia Region",
+    "lat": 40.6897,
+    "lon": 21.6797,
+    "population": 37581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argithéa",
+    "region": "Attica Region",
+    "lat": 37.9751,
+    "lon": 23.8856,
+    "population": 37574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiáto",
+    "region": "Peloponnese Region",
+    "lat": 38.0132,
+    "lon": 22.7484,
+    "population": 37564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eloúnda",
+    "region": "Crete Region",
+    "lat": 35.265,
+    "lon": 25.7213,
+    "population": 37500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Epitálio",
+    "region": "West Greece Region",
+    "lat": 37.6268,
+    "lon": 21.4953,
+    "population": 37488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pánormos",
+    "region": "South Aegean",
+    "lat": 36.9716,
+    "lon": 26.9373,
+    "population": 37484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalývia",
+    "region": "Central Macedonia",
+    "lat": 40.7551,
+    "lon": 22.2175,
+    "population": 37453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agkathiá",
+    "region": "Central Macedonia",
+    "lat": 40.5553,
+    "lon": 22.4708,
+    "population": 37243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Triáda",
+    "region": "Central Macedonia",
+    "lat": 40.5,
+    "lon": 22.8735,
+    "population": 37210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaió Fáliro",
+    "region": "Attica Region",
+    "lat": 37.9281,
+    "lon": 23.701,
+    "population": 37188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megálo Chorió",
+    "region": "South Aegean",
+    "lat": 37.4582,
+    "lon": 26.9727,
+    "population": 37184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pérdika",
+    "region": "Epirus Region",
+    "lat": 39.3697,
+    "lon": 20.3042,
+    "population": 37121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asprópyrgos",
+    "region": "Attica Region",
+    "lat": 38.0613,
+    "lon": 23.5897,
+    "population": 37107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Triáda",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4636,
+    "lon": 21.8985,
+    "population": 37084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sevastianá",
+    "region": "Central Macedonia",
+    "lat": 40.7687,
+    "lon": 22.1235,
+    "population": 37063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paravóla",
+    "region": "West Greece Region",
+    "lat": 38.6147,
+    "lon": 21.5205,
+    "population": 37031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tílisos",
+    "region": "Crete Region",
+    "lat": 35.2961,
+    "lon": 25.0159,
+    "population": 36954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valsamáta",
+    "region": "Ionian Islands Region",
+    "lat": 38.176,
+    "lon": 20.5839,
+    "population": 36883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vergína",
+    "region": "Central Macedonia",
+    "lat": 40.4865,
+    "lon": 22.3174,
+    "population": 36880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prokópi",
+    "region": "Central Greece Region",
+    "lat": 38.734,
+    "lon": 23.4906,
+    "population": 36833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Próchoma",
+    "region": "Central Macedonia",
+    "lat": 40.7983,
+    "lon": 22.6666,
+    "population": 36820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rododáfni",
+    "region": "West Greece Region",
+    "lat": 38.2698,
+    "lon": 22.0487,
+    "population": 36773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grizáno",
+    "region": "Corfu Prefecture",
+    "lat": 39.6319,
+    "lon": 22.0526,
+    "population": 36697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lixoúri",
+    "region": "Ionian Islands Region",
+    "lat": 38.2013,
+    "lon": 20.4371,
+    "population": 36693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaífyto",
+    "region": "Central Macedonia",
+    "lat": 40.7828,
+    "lon": 22.2739,
+    "population": 36663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouzaki",
+    "region": "Ionian Islands Region",
+    "lat": 37.7356,
+    "lon": 20.8229,
+    "population": 36571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pýlos",
+    "region": "Peloponnese Region",
+    "lat": 36.913,
+    "lon": 21.6965,
+    "population": 36515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Filadélfeia",
+    "region": "Attica Region",
+    "lat": 38.0349,
+    "lon": 23.7381,
+    "population": 36479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loúros",
+    "region": "Epirus Region",
+    "lat": 39.166,
+    "lon": 20.7561,
+    "population": 36452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katoúna",
+    "region": "West Greece Region",
+    "lat": 38.7855,
+    "lon": 21.1142,
+    "population": 36374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fry",
+    "region": "South Aegean",
+    "lat": 35.4162,
+    "lon": 26.9233,
+    "population": 36367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skoútari",
+    "region": "Central Macedonia",
+    "lat": 41.0187,
+    "lon": 23.5197,
+    "population": 36333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinéta",
+    "region": "Attica Region",
+    "lat": 37.9684,
+    "lon": 23.2135,
+    "population": 36324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ástros",
+    "region": "Peloponnese Region",
+    "lat": 37.404,
+    "lon": 22.7212,
+    "population": 36252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aianí",
+    "region": "West Macedonia Region",
+    "lat": 40.1638,
+    "lon": 21.8194,
+    "population": 36232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vlachópoulo",
+    "region": "Peloponnese Region",
+    "lat": 37.0319,
+    "lon": 21.7916,
+    "population": 36120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kremastí",
+    "region": "South Aegean",
+    "lat": 36.4098,
+    "lon": 28.1192,
+    "population": 36105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lálas",
+    "region": "West Greece Region",
+    "lat": 37.7094,
+    "lon": 21.7212,
+    "population": 36103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vágia",
+    "region": "Central Greece Region",
+    "lat": 38.3175,
+    "lon": 23.1775,
+    "population": 36097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faliraki",
+    "region": "South Aegean",
+    "lat": 36.3398,
+    "lon": 28.1994,
+    "population": 36054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krýa Vrýsi",
+    "region": "Central Macedonia",
+    "lat": 40.6874,
+    "lon": 22.3052,
+    "population": 36033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampánis",
+    "region": "Central Macedonia",
+    "lat": 40.8895,
+    "lon": 22.9168,
+    "population": 35912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markópoulo",
+    "region": "Attica Region",
+    "lat": 37.8833,
+    "lon": 23.9333,
+    "population": 35838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roviés",
+    "region": "Central Greece Region",
+    "lat": 38.8097,
+    "lon": 23.2307,
+    "population": 35757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néo Agionéri",
+    "region": "Central Macedonia",
+    "lat": 40.8083,
+    "lon": 22.7073,
+    "population": 35735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aráchova",
+    "region": "Central Greece Region",
+    "lat": 38.4796,
+    "lon": 22.5835,
+    "population": 35728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ymittos",
+    "region": "Attica Region",
+    "lat": 37.9534,
+    "lon": 23.749,
+    "population": 35667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Evrytanías",
+    "region": "Central Greece Region",
+    "lat": 39,
+    "lon": 21.6667,
+    "population": 35626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perístasi",
+    "region": "Central Macedonia",
+    "lat": 40.2744,
+    "lon": 22.5416,
+    "population": 35626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lófos",
+    "region": "Central Macedonia",
+    "lat": 40.2439,
+    "lon": 22.3803,
+    "population": 35611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sárti",
+    "region": "Central Macedonia",
+    "lat": 40.0937,
+    "lon": 23.9786,
+    "population": 35553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mitroúsi",
+    "region": "Central Macedonia",
+    "lat": 41.0704,
+    "lon": 23.4606,
+    "population": 35544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Axioúpoli",
+    "region": "Central Macedonia",
+    "lat": 40.9858,
+    "lon": 22.5417,
+    "population": 35527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kryonéri",
+    "region": "Attica Region",
+    "lat": 38.1371,
+    "lon": 23.8305,
+    "population": 35515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Examília",
+    "region": "Peloponnese Region",
+    "lat": 37.8974,
+    "lon": 22.9283,
+    "population": 35501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Póros",
+    "region": "Attica Region",
+    "lat": 37.4994,
+    "lon": 23.4536,
+    "population": 35431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mantoúdi",
+    "region": "Central Greece Region",
+    "lat": 38.7981,
+    "lon": 23.4797,
+    "population": 35390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Pélla",
+    "region": "Central Macedonia",
+    "lat": 40.7652,
+    "lon": 22.4917,
+    "population": 35351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pérama",
+    "region": "Attica Region",
+    "lat": 37.9678,
+    "lon": 23.5721,
+    "population": 35344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chrysochóri",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9333,
+    "lon": 24.7109,
+    "population": 35338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patrída",
+    "region": "Central Macedonia",
+    "lat": 40.5607,
+    "lon": 22.1854,
+    "population": 35235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ápsalos",
+    "region": "Central Macedonia",
+    "lat": 40.8924,
+    "lon": 22.0571,
+    "population": 35234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kardítsa",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.3648,
+    "lon": 21.9219,
+    "population": 35162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neochóri",
+    "region": "Central Macedonia",
+    "lat": 41.0523,
+    "lon": 23.58,
+    "population": 35156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néos Skopós",
+    "region": "Central Macedonia",
+    "lat": 41.0239,
+    "lon": 23.6093,
+    "population": 35143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tympáki",
+    "region": "Crete Region",
+    "lat": 35.0729,
+    "lon": 24.7685,
+    "population": 35140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ierissós",
+    "region": "Central Macedonia",
+    "lat": 40.3975,
+    "lon": 23.8751,
+    "population": 35138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kímolos",
+    "region": "South Aegean",
+    "lat": 36.7937,
+    "lon": 24.5758,
+    "population": 35138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pásion",
+    "region": "Peloponnese Region",
+    "lat": 38.0129,
+    "lon": 22.7281,
+    "population": 34988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néon Monastírion",
+    "region": "Central Greece Region",
+    "lat": 39.2399,
+    "lon": 22.2747,
+    "population": 34884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pappadátes",
+    "region": "Epirus Region",
+    "lat": 39.3144,
+    "lon": 20.7931,
+    "population": 34867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kleidí",
+    "region": "Central Macedonia",
+    "lat": 40.5663,
+    "lon": 22.5903,
+    "population": 34843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alíartos",
+    "region": "Central Greece Region",
+    "lat": 38.3667,
+    "lon": 23.1,
+    "population": 34710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandíla",
+    "region": "West Greece Region",
+    "lat": 38.7056,
+    "lon": 20.9475,
+    "population": 34674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nestório",
+    "region": "West Macedonia Region",
+    "lat": 40.4128,
+    "lon": 21.0622,
+    "population": 34653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áyios Vasílios",
+    "region": "Peloponnese Region",
+    "lat": 37.7976,
+    "lon": 22.7973,
+    "population": 34650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thessaloníki",
+    "region": "Central Macedonia",
+    "lat": 40.6436,
+    "lon": 22.9309,
+    "population": 34637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anávra",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.19,
+    "lon": 22.0931,
+    "population": 34626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megalochóri",
+    "region": "Corfu Prefecture",
+    "lat": 39.5598,
+    "lon": 21.842,
+    "population": 34606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Paraskeví",
+    "region": "Central Macedonia",
+    "lat": 40.4815,
+    "lon": 23.0486,
+    "population": 34529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalí",
+    "region": "Central Macedonia",
+    "lat": 40.8193,
+    "lon": 22.1776,
+    "population": 34513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Alikarnassós",
+    "region": "Crete Region",
+    "lat": 35.3398,
+    "lon": 25.159,
+    "population": 34476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eirinoúpoli",
+    "region": "Central Macedonia",
+    "lat": 40.6781,
+    "lon": 22.1928,
+    "population": 34467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chrysochórafa",
+    "region": "Central Macedonia",
+    "lat": 41.181,
+    "lon": 23.2355,
+    "population": 34442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irákleio",
+    "region": "Attica Region",
+    "lat": 38.0528,
+    "lon": 23.7652,
+    "population": 34425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menídi",
+    "region": "West Greece Region",
+    "lat": 39.0421,
+    "lon": 21.1187,
+    "population": 34409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anakasiá",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.3811,
+    "lon": 22.9748,
+    "population": 34399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaiochóri",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9434,
+    "lon": 24.1775,
+    "population": 34390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vamvakófyto",
+    "region": "Central Macedonia",
+    "lat": 41.1792,
+    "lon": 23.396,
+    "population": 34387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalandrítsa",
+    "region": "West Greece Region",
+    "lat": 38.1084,
+    "lon": 21.7835,
+    "population": 34375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágioi Anárgyroi",
+    "region": "Attica Region",
+    "lat": 38.0301,
+    "lon": 23.7238,
+    "population": 34327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Ileías",
+    "region": "West Greece Region",
+    "lat": 37.75,
+    "lon": 21.5833,
+    "population": 34299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itháki",
+    "region": "Ionian Islands Region",
+    "lat": 38.3642,
+    "lon": 20.7185,
+    "population": 34279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Karyá",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9062,
+    "lon": 24.7073,
+    "population": 34192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polydéndri",
+    "region": "Attica Region",
+    "lat": 38.216,
+    "lon": 23.8681,
+    "population": 34110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Moudhaniá",
+    "region": "Central Macedonia",
+    "lat": 40.2439,
+    "lon": 23.2848,
+    "population": 34084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arsénio",
+    "region": "Central Macedonia",
+    "lat": 40.7141,
+    "lon": 22.1592,
+    "population": 34042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pappadhátai",
+    "region": "West Greece Region",
+    "lat": 38.5282,
+    "lon": 21.4502,
+    "population": 34038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fylí",
+    "region": "Attica Region",
+    "lat": 38.1024,
+    "lon": 23.669,
+    "population": 33992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pýli",
+    "region": "Corfu Prefecture",
+    "lat": 39.4581,
+    "lon": 21.6189,
+    "population": 33987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kálymnos",
+    "region": "South Aegean",
+    "lat": 36.9503,
+    "lon": 26.9839,
+    "population": 33964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zakynthos",
+    "region": "Ionian Islands Region",
+    "lat": 37.7802,
+    "lon": 20.8956,
+    "population": 33875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kleítos",
+    "region": "West Macedonia Region",
+    "lat": 40.4314,
+    "lon": 21.8581,
+    "population": 33831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isthmía",
+    "region": "Peloponnese Region",
+    "lat": 37.9136,
+    "lon": 23.0046,
+    "population": 33823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrakháti",
+    "region": "Peloponnese Region",
+    "lat": 37.959,
+    "lon": 22.8057,
+    "population": 33804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sardínia",
+    "region": "West Greece Region",
+    "lat": 38.89,
+    "lon": 21.2062,
+    "population": 33720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gáïos",
+    "region": "Ionian Islands Region",
+    "lat": 39.1972,
+    "lon": 20.1856,
+    "population": 33719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lápas",
+    "region": "West Greece Region",
+    "lat": 38.0975,
+    "lon": 21.4186,
+    "population": 33708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vounoplagiá",
+    "region": "Epirus Region",
+    "lat": 39.6916,
+    "lon": 20.786,
+    "population": 33561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Próti",
+    "region": "Central Macedonia",
+    "lat": 40.9441,
+    "lon": 24.0012,
+    "population": 33550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magoúla",
+    "region": "Attica Region",
+    "lat": 38.0799,
+    "lon": 23.5211,
+    "population": 33528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krókos",
+    "region": "West Macedonia Region",
+    "lat": 40.2635,
+    "lon": 21.8176,
+    "population": 33513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alepoú",
+    "region": "Ionian Islands Region",
+    "lat": 39.6159,
+    "lon": 19.8956,
+    "population": 33463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sourotí",
+    "region": "Central Macedonia",
+    "lat": 40.4727,
+    "lon": 23.092,
+    "population": 33452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voulgaréli",
+    "region": "Epirus Region",
+    "lat": 39.3719,
+    "lon": 21.1833,
+    "population": 33416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pikérmi",
+    "region": "Attica Region",
+    "lat": 38.0016,
+    "lon": 23.9408,
+    "population": 33271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Chalkidóna",
+    "region": "Attica Region",
+    "lat": 38.0271,
+    "lon": 23.7305,
+    "population": 33218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Potídhaia",
+    "region": "Central Macedonia",
+    "lat": 40.1943,
+    "lon": 23.3287,
+    "population": 33217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fíliro",
+    "region": "Central Macedonia",
+    "lat": 40.6915,
+    "lon": 23.0046,
+    "population": 33181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Psachná",
+    "region": "Central Greece Region",
+    "lat": 38.5785,
+    "lon": 23.6433,
+    "population": 33162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karellás",
+    "region": "Attica Region",
+    "lat": 37.9344,
+    "lon": 23.8648,
+    "population": 33070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tínos",
+    "region": "South Aegean",
+    "lat": 37.5375,
+    "lon": 25.1634,
+    "population": 33014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kifisiá",
+    "region": "Attica Region",
+    "lat": 38.0744,
+    "lon": 23.8111,
+    "population": 32954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katsikás",
+    "region": "Epirus Region",
+    "lat": 39.6228,
+    "lon": 20.8876,
+    "population": 32937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ilioúpoli",
+    "region": "Attica Region",
+    "lat": 37.9315,
+    "lon": 23.7678,
+    "population": 32692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xilópolis",
+    "region": "Central Macedonia",
+    "lat": 40.9271,
+    "lon": 23.1794,
+    "population": 32688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaióchora",
+    "region": "Crete Region",
+    "lat": 35.2313,
+    "lon": 23.6819,
+    "population": 32647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Karváli",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9615,
+    "lon": 24.5113,
+    "population": 32607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oinófyta",
+    "region": "Central Greece Region",
+    "lat": 38.3116,
+    "lon": 23.64,
+    "population": 32581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pýrgos",
+    "region": "West Greece Region",
+    "lat": 37.6751,
+    "lon": 21.441,
+    "population": 32558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thérmi",
+    "region": "Central Macedonia",
+    "lat": 40.5471,
+    "lon": 23.0197,
+    "population": 32558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mourniés",
+    "region": "Crete Region",
+    "lat": 35.4823,
+    "lon": 24.0125,
+    "population": 32510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Varvára",
+    "region": "Crete Region",
+    "lat": 35.1371,
+    "lon": 25.0013,
+    "population": 32470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaisarianí",
+    "region": "Attica Region",
+    "lat": 37.9634,
+    "lon": 23.7652,
+    "population": 32445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fílla",
+    "region": "Central Greece Region",
+    "lat": 38.4418,
+    "lon": 23.6831,
+    "population": 32367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agios Ioannis Rentis",
+    "region": "Attica Region",
+    "lat": 37.9649,
+    "lon": 23.6651,
+    "population": 32355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loutrá Aidhipsoú",
+    "region": "Central Greece Region",
+    "lat": 38.8569,
+    "lon": 23.0474,
+    "population": 32338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Anatolí",
+    "region": "Crete Region",
+    "lat": 35.0092,
+    "lon": 25.6617,
+    "population": 32336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mataránga",
+    "region": "West Greece Region",
+    "lat": 38.5236,
+    "lon": 21.4733,
+    "population": 32259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samothráki",
+    "region": "East Attica Regional Unit",
+    "lat": 40.4733,
+    "lon": 25.5222,
+    "population": 32197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amfilochía",
+    "region": "West Greece Region",
+    "lat": 38.8594,
+    "lon": 21.1664,
+    "population": 32186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanáli",
+    "region": "Ionian Islands Region",
+    "lat": 39.6056,
+    "lon": 19.8925,
+    "population": 32181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Poteídaia",
+    "region": "Central Macedonia",
+    "lat": 40.1941,
+    "lon": 23.3283,
+    "population": 32063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Georgioupolis",
+    "region": "Crete Region",
+    "lat": 35.3623,
+    "lon": 24.2601,
+    "population": 32034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Episkopí",
+    "region": "Central Macedonia",
+    "lat": 40.6875,
+    "lon": 22.1364,
+    "population": 32015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melíssi",
+    "region": "Central Macedonia",
+    "lat": 40.7741,
+    "lon": 22.353,
+    "population": 32006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalástra",
+    "region": "Central Macedonia",
+    "lat": 40.6264,
+    "lon": 22.7329,
+    "population": 32003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palamás",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4667,
+    "lon": 22.0833,
+    "population": 31997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makrísia",
+    "region": "West Greece Region",
+    "lat": 37.6096,
+    "lon": 21.6051,
+    "population": 31878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ovriá",
+    "region": "West Greece Region",
+    "lat": 38.1887,
+    "lon": 21.729,
+    "population": 31839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyrgetós",
+    "region": "Corfu Prefecture",
+    "lat": 39.5528,
+    "lon": 21.7485,
+    "population": 31837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pélla",
+    "region": "Central Macedonia",
+    "lat": 40.7617,
+    "lon": 22.5264,
+    "population": 31709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drapetsóna",
+    "region": "Attica Region",
+    "lat": 37.9499,
+    "lon": 23.6231,
+    "population": 31700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argostólion",
+    "region": "Ionian Islands Region",
+    "lat": 38.1811,
+    "lon": 20.489,
+    "population": 31689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Mesimvría",
+    "region": "Central Macedonia",
+    "lat": 40.7516,
+    "lon": 22.769,
+    "population": 31603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kórinthos",
+    "region": "Peloponnese Region",
+    "lat": 37.9401,
+    "lon": 22.9513,
+    "population": 31588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skotoússa",
+    "region": "Central Macedonia",
+    "lat": 41.1284,
+    "lon": 23.3817,
+    "population": 31510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loutrá Oraías Elénis",
+    "region": "Peloponnese Region",
+    "lat": 37.8647,
+    "lon": 22.9961,
+    "population": 31491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limín Mesoyaías",
+    "region": "Attica Region",
+    "lat": 37.8911,
+    "lon": 24.0031,
+    "population": 31432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Foteiní",
+    "region": "Crete Region",
+    "lat": 35.2546,
+    "lon": 24.6349,
+    "population": 31339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cholargós",
+    "region": "Attica Region",
+    "lat": 38,
+    "lon": 23.8,
+    "population": 31301,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thespiés",
+    "region": "Central Greece Region",
+    "lat": 38.303,
+    "lon": 23.1502,
+    "population": 31300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kardamítsia",
+    "region": "Epirus Region",
+    "lat": 39.6782,
+    "lon": 20.8196,
+    "population": 31285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asopós",
+    "region": "Peloponnese Region",
+    "lat": 36.7299,
+    "lon": 22.8545,
+    "population": 31244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trílofos",
+    "region": "Central Macedonia",
+    "lat": 40.469,
+    "lon": 22.9718,
+    "population": 31198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asprángeloi",
+    "region": "Epirus Region",
+    "lat": 39.8233,
+    "lon": 20.7286,
+    "population": 31188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pefkochóri",
+    "region": "Central Macedonia",
+    "lat": 39.9878,
+    "lon": 23.6122,
+    "population": 31180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kassándreia",
+    "region": "Central Macedonia",
+    "lat": 40.0483,
+    "lon": 23.4136,
+    "population": 31172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makrýgialos",
+    "region": "Central Macedonia",
+    "lat": 40.4155,
+    "lon": 22.6039,
+    "population": 31038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kontokáli",
+    "region": "Ionian Islands Region",
+    "lat": 39.6444,
+    "lon": 19.8519,
+    "population": 30935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iliokentima",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9493,
+    "lon": 24.7886,
+    "population": 30892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áyios Nikólaos",
+    "region": "Central Greece Region",
+    "lat": 38.4205,
+    "lon": 23.6477,
+    "population": 30777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chortiátis",
+    "region": "Central Macedonia",
+    "lat": 40.6095,
+    "lon": 23.1001,
+    "population": 30739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kárystos",
+    "region": "Central Greece Region",
+    "lat": 38.0133,
+    "lon": 24.4161,
+    "population": 30713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filótion",
+    "region": "South Aegean",
+    "lat": 37.0517,
+    "lon": 25.4983,
+    "population": 30605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kynopiástes",
+    "region": "Ionian Islands Region",
+    "lat": 39.5678,
+    "lon": 19.8836,
+    "population": 30601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filiátes",
+    "region": "Epirus Region",
+    "lat": 39.6011,
+    "lon": 20.3119,
+    "population": 30595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paranésti",
+    "region": "East Attica Regional Unit",
+    "lat": 41.2667,
+    "lon": 24.5,
+    "population": 30558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laimós",
+    "region": "West Macedonia Region",
+    "lat": 40.8363,
+    "lon": 21.1406,
+    "population": 30524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kranídi",
+    "region": "Peloponnese Region",
+    "lat": 37.3797,
+    "lon": 23.1597,
+    "population": 30497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akrolímni",
+    "region": "Central Macedonia",
+    "lat": 40.6802,
+    "lon": 22.2645,
+    "population": 30496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néo Psychikó",
+    "region": "Attica Region",
+    "lat": 38.0062,
+    "lon": 23.7837,
+    "population": 30487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provatás",
+    "region": "Central Macedonia",
+    "lat": 41.0682,
+    "lon": 23.3903,
+    "population": 30385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xinó Neró",
+    "region": "West Macedonia Region",
+    "lat": 40.6903,
+    "lon": 21.6232,
+    "population": 30379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lékhaio",
+    "region": "Peloponnese Region",
+    "lat": 37.9328,
+    "lon": 22.85,
+    "population": 30293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Kamíla",
+    "region": "Central Macedonia",
+    "lat": 41.0212,
+    "lon": 23.4834,
+    "population": 30268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamariótissa",
+    "region": "East Attica Regional Unit",
+    "lat": 40.475,
+    "lon": 25.4746,
+    "population": 30243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siátista",
+    "region": "West Macedonia Region",
+    "lat": 40.2619,
+    "lon": 21.5442,
+    "population": 30197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Souflí",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1919,
+    "lon": 26.2994,
+    "population": 30076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skiáthos",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.1623,
+    "lon": 23.4909,
+    "population": 30030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xánthi",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1349,
+    "lon": 24.888,
+    "population": 30030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peristéri",
+    "region": "Attica Region",
+    "lat": 38.0154,
+    "lon": 23.6919,
+    "population": 30016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athíkia",
+    "region": "Peloponnese Region",
+    "lat": 37.8167,
+    "lon": 22.9294,
+    "population": 30010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Péta",
+    "region": "Epirus Region",
+    "lat": 39.1667,
+    "lon": 21.0347,
+    "population": 29993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erátyra",
+    "region": "West Macedonia Region",
+    "lat": 40.3425,
+    "lon": 21.5133,
+    "population": 29930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesolóngi",
+    "region": "West Greece Region",
+    "lat": 38.3714,
+    "lon": 21.4315,
+    "population": 29922,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Éfesos",
+    "region": "Central Macedonia",
+    "lat": 40.2292,
+    "lon": 22.4981,
+    "population": 29867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aria",
+    "region": "Peloponnese Region",
+    "lat": 37.5737,
+    "lon": 22.8354,
+    "population": 29843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ámfissa",
+    "region": "Central Greece Region",
+    "lat": 38.5281,
+    "lon": 22.3771,
+    "population": 29841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metamórfosi",
+    "region": "Attica Region",
+    "lat": 38.0658,
+    "lon": 23.7636,
+    "population": 29837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Anchiálos",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.2801,
+    "lon": 22.8182,
+    "population": 29779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Psychikó",
+    "region": "Attica Region",
+    "lat": 38.0132,
+    "lon": 23.7722,
+    "population": 29696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sérvia",
+    "region": "West Macedonia Region",
+    "lat": 40.1797,
+    "lon": 21.9944,
+    "population": 29632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gerakaroú",
+    "region": "Central Macedonia",
+    "lat": 40.6267,
+    "lon": 23.2157,
+    "population": 29621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glyfáda",
+    "region": "Attica Region",
+    "lat": 37.8629,
+    "lon": 23.758,
+    "population": 29569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loukísia",
+    "region": "Central Greece Region",
+    "lat": 38.4795,
+    "lon": 23.448,
+    "population": 29504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zonianá",
+    "region": "Crete Region",
+    "lat": 35.295,
+    "lon": 24.8294,
+    "population": 29491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oichalía",
+    "region": "Corfu Prefecture",
+    "lat": 39.6083,
+    "lon": 21.98,
+    "population": 29476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Pentéli",
+    "region": "Attica Region",
+    "lat": 38.0606,
+    "lon": 23.8593,
+    "population": 29465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Echínos",
+    "region": "East Attica Regional Unit",
+    "lat": 41.2756,
+    "lon": 24.9724,
+    "population": 29447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kouloúra",
+    "region": "Central Macedonia",
+    "lat": 40.5465,
+    "lon": 22.3179,
+    "population": 29425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alfeioúsa",
+    "region": "West Greece Region",
+    "lat": 37.6402,
+    "lon": 21.5375,
+    "population": 29383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asvestochóri",
+    "region": "Central Macedonia",
+    "lat": 40.6412,
+    "lon": 23.0253,
+    "population": 29374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrachnaíika",
+    "region": "West Greece Region",
+    "lat": 38.1625,
+    "lon": 21.6669,
+    "population": 29374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piraeus",
+    "region": "Attica Region",
+    "lat": 37.942,
+    "lon": 23.6462,
+    "population": 29369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Féres",
+    "region": "East Attica Regional Unit",
+    "lat": 40.8931,
+    "lon": 26.1723,
+    "population": 29350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kypséli",
+    "region": "Attica Region",
+    "lat": 37.7602,
+    "lon": 23.4545,
+    "population": 29348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anthoúsa",
+    "region": "Attica Region",
+    "lat": 38.0254,
+    "lon": 23.8762,
+    "population": 29345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stathmós Mourión",
+    "region": "Central Macedonia",
+    "lat": 41.2638,
+    "lon": 22.8386,
+    "population": 29340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afrátion",
+    "region": "Central Greece Region",
+    "lat": 38.4521,
+    "lon": 23.6878,
+    "population": 29333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Afidnés",
+    "region": "Attica Region",
+    "lat": 38.2033,
+    "lon": 23.8398,
+    "population": 29232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savália",
+    "region": "West Greece Region",
+    "lat": 37.8216,
+    "lon": 21.2943,
+    "population": 29210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastoria",
+    "region": "West Macedonia Region",
+    "lat": 40.5217,
+    "lon": 21.2634,
+    "population": 29183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taxiárches",
+    "region": "Corfu Prefecture",
+    "lat": 39.5757,
+    "lon": 21.8925,
+    "population": 29177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouranoupolis",
+    "region": "Central Macedonia",
+    "lat": 40.3333,
+    "lon": 23.9833,
+    "population": 29144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Geráki",
+    "region": "Peloponnese Region",
+    "lat": 36.9923,
+    "lon": 22.7066,
+    "population": 29076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tycheró",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0288,
+    "lon": 26.2946,
+    "population": 28992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ialysós",
+    "region": "South Aegean",
+    "lat": 36.4135,
+    "lon": 28.1552,
+    "population": 28964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polýkastro",
+    "region": "Central Macedonia",
+    "lat": 40.9944,
+    "lon": 22.5691,
+    "population": 28932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelópi",
+    "region": "West Greece Region",
+    "lat": 37.6744,
+    "lon": 21.5934,
+    "population": 28902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaiokómi",
+    "region": "Central Macedonia",
+    "lat": 40.8707,
+    "lon": 23.9012,
+    "population": 28879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Símantra",
+    "region": "Central Macedonia",
+    "lat": 40.3456,
+    "lon": 23.3103,
+    "population": 28837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xiropótamos",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1921,
+    "lon": 24.1039,
+    "population": 28823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerasochóri",
+    "region": "Central Greece Region",
+    "lat": 39.0056,
+    "lon": 21.6378,
+    "population": 28761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arrianá",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0813,
+    "lon": 25.6949,
+    "population": 28737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fillýra",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1167,
+    "lon": 25.6333,
+    "population": 28707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastráki",
+    "region": "Corfu Prefecture",
+    "lat": 39.7169,
+    "lon": 21.6186,
+    "population": 28690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Tithoréa",
+    "region": "Central Greece Region",
+    "lat": 38.6075,
+    "lon": 22.7135,
+    "population": 28656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angelókastro",
+    "region": "West Greece Region",
+    "lat": 38.5658,
+    "lon": 21.2963,
+    "population": 28643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galatádes",
+    "region": "Central Macedonia",
+    "lat": 40.7559,
+    "lon": 22.2806,
+    "population": 28639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Marína",
+    "region": "Crete Region",
+    "lat": 35.5178,
+    "lon": 23.9267,
+    "population": 28616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astypálaia",
+    "region": "South Aegean",
+    "lat": 36.55,
+    "lon": 26.35,
+    "population": 28569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastrí",
+    "region": "Crete Region",
+    "lat": 34.8346,
+    "lon": 24.0857,
+    "population": 28549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askós",
+    "region": "Central Macedonia",
+    "lat": 40.751,
+    "lon": 23.3872,
+    "population": 28540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myrsíni",
+    "region": "West Greece Region",
+    "lat": 37.9212,
+    "lon": 21.237,
+    "population": 28494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Palátia",
+    "region": "Attica Region",
+    "lat": 38.3194,
+    "lon": 23.7965,
+    "population": 28439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ródos",
+    "region": "South Aegean",
+    "lat": 36.4356,
+    "lon": 28.222,
+    "population": 28417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsotíli",
+    "region": "West Macedonia Region",
+    "lat": 40.2615,
+    "lon": 21.3253,
+    "population": 28410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prosotsáni",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1833,
+    "lon": 23.9667,
+    "population": 28407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metsovo",
+    "region": "Epirus Region",
+    "lat": 39.7694,
+    "lon": 21.1822,
+    "population": 28294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oraiókastro",
+    "region": "Central Macedonia",
+    "lat": 40.7308,
+    "lon": 22.9172,
+    "population": 28284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kainoúryion",
+    "region": "Central Greece Region",
+    "lat": 38.7928,
+    "lon": 22.7247,
+    "population": 28263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Athanásios",
+    "region": "Central Macedonia",
+    "lat": 40.716,
+    "lon": 22.7284,
+    "population": 28205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikrópolis",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1935,
+    "lon": 23.8157,
+    "population": 28097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarós",
+    "region": "Crete Region",
+    "lat": 35.1303,
+    "lon": 24.9041,
+    "population": 28087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giannitsá",
+    "region": "Central Macedonia",
+    "lat": 40.7919,
+    "lon": 22.4075,
+    "population": 27965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokkónion",
+    "region": "Peloponnese Region",
+    "lat": 37.9706,
+    "lon": 22.7802,
+    "population": 27944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodópoli",
+    "region": "Attica Region",
+    "lat": 38.1167,
+    "lon": 23.8757,
+    "population": 27938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Didymóteicho",
+    "region": "East Attica Regional Unit",
+    "lat": 41.3481,
+    "lon": 26.4961,
+    "population": 27868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ýdra",
+    "region": "Attica Region",
+    "lat": 37.3498,
+    "lon": 23.4656,
+    "population": 27850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokkinóchoma",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9269,
+    "lon": 24.3081,
+    "population": 27718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galátsi",
+    "region": "Attica Region",
+    "lat": 38.0167,
+    "lon": 23.75,
+    "population": 27640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stalís",
+    "region": "Crete Region",
+    "lat": 35.2926,
+    "lon": 25.4329,
+    "population": 27640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Kerkýras",
+    "region": "Ionian Islands Region",
+    "lat": 39.6667,
+    "lon": 19.75,
+    "population": 27633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skála",
+    "region": "Peloponnese Region",
+    "lat": 36.85,
+    "lon": 22.6667,
+    "population": 27587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mytikas",
+    "region": "Central Greece Region",
+    "lat": 38.4437,
+    "lon": 23.6536,
+    "population": 27526,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selínia",
+    "region": "Attica Region",
+    "lat": 37.9332,
+    "lon": 23.5315,
+    "population": 27521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Royítika",
+    "region": "West Greece Region",
+    "lat": 38.1827,
+    "lon": 21.6841,
+    "population": 27520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mégara",
+    "region": "Attica Region",
+    "lat": 37.9947,
+    "lon": 23.3432,
+    "population": 27491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sámi",
+    "region": "Ionian Islands Region",
+    "lat": 38.2508,
+    "lon": 20.6469,
+    "population": 27489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agios Dimitrios",
+    "region": "Attica Region",
+    "lat": 37.9333,
+    "lon": 23.7333,
+    "population": 27485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tríkala",
+    "region": "Central Macedonia",
+    "lat": 40.5981,
+    "lon": 22.5573,
+    "population": 27339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kipséli",
+    "region": "Attica Region",
+    "lat": 38.0029,
+    "lon": 23.7375,
+    "population": 27293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manoláda",
+    "region": "West Greece Region",
+    "lat": 38.0471,
+    "lon": 21.3481,
+    "population": 27285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Náousa",
+    "region": "South Aegean",
+    "lat": 37.1218,
+    "lon": 25.2401,
+    "population": 27189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Vasíleios",
+    "region": "Central Macedonia",
+    "lat": 40.6642,
+    "lon": 23.1137,
+    "population": 27152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eleftherés",
+    "region": "East Attica Regional Unit",
+    "lat": 40.8467,
+    "lon": 24.2543,
+    "population": 27120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grevená",
+    "region": "West Macedonia Region",
+    "lat": 40.0845,
+    "lon": 21.4274,
+    "population": 27066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almyrós",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.1822,
+    "lon": 22.7594,
+    "population": 27030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khalándrion",
+    "region": "Attica Region",
+    "lat": 38.0237,
+    "lon": 23.8007,
+    "population": 27008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaïtánion",
+    "region": "Ionian Islands Region",
+    "lat": 37.7913,
+    "lon": 20.8741,
+    "population": 26993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapandríti",
+    "region": "Attica Region",
+    "lat": 38.2158,
+    "lon": 23.8794,
+    "population": 26977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sísion",
+    "region": "Crete Region",
+    "lat": 35.3077,
+    "lon": 25.5202,
+    "population": 26817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neápoli",
+    "region": "Crete Region",
+    "lat": 35.2563,
+    "lon": 25.6042,
+    "population": 26755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amárynthos",
+    "region": "Central Greece Region",
+    "lat": 38.393,
+    "lon": 23.8849,
+    "population": 26745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Árma",
+    "region": "Central Greece Region",
+    "lat": 38.3512,
+    "lon": 23.486,
+    "population": 26703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pátra",
+    "region": "West Greece Region",
+    "lat": 38.2444,
+    "lon": 21.7344,
+    "population": 26672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arkhaía Kórinthos",
+    "region": "Peloponnese Region",
+    "lat": 37.9095,
+    "lon": 22.8835,
+    "population": 26615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolympári",
+    "region": "Crete Region",
+    "lat": 35.5412,
+    "lon": 23.7799,
+    "population": 26612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Pávlos",
+    "region": "Central Macedonia",
+    "lat": 40.6407,
+    "lon": 22.9604,
+    "population": 26599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Loukás",
+    "region": "Central Macedonia",
+    "lat": 40.718,
+    "lon": 22.2954,
+    "population": 26540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perivólia",
+    "region": "Crete Region",
+    "lat": 35.4849,
+    "lon": 23.9942,
+    "population": 26525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kopanáki",
+    "region": "Peloponnese Region",
+    "lat": 37.2891,
+    "lon": 21.8185,
+    "population": 26523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Péllis",
+    "region": "Central Macedonia",
+    "lat": 40.8333,
+    "lon": 22.25,
+    "population": 26523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smínthi",
+    "region": "East Attica Regional Unit",
+    "lat": 41.2333,
+    "lon": 24.8667,
+    "population": 26446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sykiá",
+    "region": "Peloponnese Region",
+    "lat": 36.764,
+    "lon": 22.943,
+    "population": 26437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khalkoútsion",
+    "region": "Attica Region",
+    "lat": 38.3326,
+    "lon": 23.7319,
+    "population": 26424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aigáleo",
+    "region": "Attica Region",
+    "lat": 37.9833,
+    "lon": 23.6833,
+    "population": 26343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zográfos",
+    "region": "Attica Region",
+    "lat": 37.9757,
+    "lon": 23.7691,
+    "population": 26317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arnaía",
+    "region": "Central Macedonia",
+    "lat": 40.4865,
+    "lon": 23.5954,
+    "population": 26294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rizári",
+    "region": "Central Macedonia",
+    "lat": 40.7837,
+    "lon": 22.088,
+    "population": 26257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ampeleíes",
+    "region": "Central Macedonia",
+    "lat": 40.8342,
+    "lon": 22.3877,
+    "population": 26113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krousón",
+    "region": "Crete Region",
+    "lat": 35.2306,
+    "lon": 24.9829,
+    "population": 26074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elefsína",
+    "region": "Attica Region",
+    "lat": 38.0414,
+    "lon": 23.543,
+    "population": 26053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Géfyra",
+    "region": "Central Macedonia",
+    "lat": 40.7325,
+    "lon": 22.6936,
+    "population": 26010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darátsos",
+    "region": "Crete Region",
+    "lat": 35.4995,
+    "lon": 23.9749,
+    "population": 25981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meligalás",
+    "region": "Peloponnese Region",
+    "lat": 37.2167,
+    "lon": 21.9667,
+    "population": 25939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anthíli",
+    "region": "Central Greece Region",
+    "lat": 38.85,
+    "lon": 22.4791,
+    "population": 25875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pallíni",
+    "region": "Attica Region",
+    "lat": 38.0051,
+    "lon": 23.883,
+    "population": 25863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ambelókipoi",
+    "region": "Ionian Islands Region",
+    "lat": 37.7581,
+    "lon": 20.8725,
+    "population": 25831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peristerá",
+    "region": "Central Macedonia",
+    "lat": 40.5488,
+    "lon": 23.1654,
+    "population": 25825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potamós",
+    "region": "Ionian Islands Region",
+    "lat": 39.6242,
+    "lon": 19.8783,
+    "population": 25652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Émponas",
+    "region": "South Aegean",
+    "lat": 36.2268,
+    "lon": 27.8564,
+    "population": 25648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spárti",
+    "region": "Peloponnese Region",
+    "lat": 37.0745,
+    "lon": 22.4301,
+    "population": 25592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágioi Déka",
+    "region": "Crete Region",
+    "lat": 35.0667,
+    "lon": 24.9667,
+    "population": 25582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dimitsána",
+    "region": "Peloponnese Region",
+    "lat": 37.5952,
+    "lon": 22.0403,
+    "population": 25577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesiméri",
+    "region": "Central Macedonia",
+    "lat": 40.4134,
+    "lon": 23.0075,
+    "population": 25573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fyteíes",
+    "region": "West Greece Region",
+    "lat": 38.6952,
+    "lon": 21.1847,
+    "population": 25517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mandráki",
+    "region": "South Aegean",
+    "lat": 36.6114,
+    "lon": 27.1333,
+    "population": 25431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chairóneia",
+    "region": "Central Greece Region",
+    "lat": 38.4955,
+    "lon": 22.8442,
+    "population": 25414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lefkada",
+    "region": "Ionian Islands Region",
+    "lat": 38.75,
+    "lon": 20.6667,
+    "population": 25399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Volos",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.361,
+    "lon": 22.9425,
+    "population": 25343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Lekhónia",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.3309,
+    "lon": 23.0396,
+    "population": 25291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limenária",
+    "region": "East Attica Regional Unit",
+    "lat": 40.6274,
+    "lon": 24.5765,
+    "population": 25283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akráta",
+    "region": "West Greece Region",
+    "lat": 38.1547,
+    "lon": 22.3183,
+    "population": 25249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adámas",
+    "region": "South Aegean",
+    "lat": 36.7251,
+    "lon": 24.4469,
+    "population": 25224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varybóbi",
+    "region": "Attica Region",
+    "lat": 38.1272,
+    "lon": 23.7873,
+    "population": 25216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaió Tsiflíki",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9049,
+    "lon": 24.3508,
+    "population": 25213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lití",
+    "region": "Central Macedonia",
+    "lat": 40.7453,
+    "lon": 22.9798,
+    "population": 25212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokkíni Cháni",
+    "region": "Crete Region",
+    "lat": 35.3283,
+    "lon": 25.2581,
+    "population": 25148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nisí",
+    "region": "Central Macedonia",
+    "lat": 40.6361,
+    "lon": 22.3888,
+    "population": 25097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galatás",
+    "region": "West Greece Region",
+    "lat": 38.3574,
+    "lon": 21.5622,
+    "population": 25007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farkadóna",
+    "region": "Corfu Prefecture",
+    "lat": 39.6,
+    "lon": 22.0667,
+    "population": 24990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Kyriakí",
+    "region": "Epirus Region",
+    "lat": 39.5226,
+    "lon": 20.8836,
+    "population": 24937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Sánta",
+    "region": "Central Macedonia",
+    "lat": 40.8408,
+    "lon": 22.9216,
+    "population": 24917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mýki",
+    "region": "East Attica Regional Unit",
+    "lat": 41.2438,
+    "lon": 24.9208,
+    "population": 24858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aktaío",
+    "region": "West Greece Region",
+    "lat": 38.3044,
+    "lon": 21.7944,
+    "population": 24808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itéa",
+    "region": "Central Greece Region",
+    "lat": 38.432,
+    "lon": 22.4244,
+    "population": 24770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pánormos",
+    "region": "Crete Region",
+    "lat": 35.4181,
+    "lon": 24.6909,
+    "population": 24621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mavrothálassa",
+    "region": "Central Macedonia",
+    "lat": 40.8943,
+    "lon": 23.7505,
+    "population": 24592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalpáki",
+    "region": "Epirus Region",
+    "lat": 39.8878,
+    "lon": 20.6239,
+    "population": 24522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalochóri",
+    "region": "Central Macedonia",
+    "lat": 40.6419,
+    "lon": 22.8573,
+    "population": 24509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamína",
+    "region": "Attica Region",
+    "lat": 37.9643,
+    "lon": 23.4965,
+    "population": 24411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekáli",
+    "region": "Attica Region",
+    "lat": 38.1103,
+    "lon": 23.835,
+    "population": 24392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Artáki",
+    "region": "Central Greece Region",
+    "lat": 38.5203,
+    "lon": 23.633,
+    "population": 24349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melissochóri",
+    "region": "Central Macedonia",
+    "lat": 40.768,
+    "lon": 22.9286,
+    "population": 24338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melíki",
+    "region": "Central Macedonia",
+    "lat": 40.5168,
+    "lon": 22.396,
+    "population": 24296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kentrí",
+    "region": "Crete Region",
+    "lat": 35.0326,
+    "lon": 25.7528,
+    "population": 24271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asproválta",
+    "region": "Central Macedonia",
+    "lat": 40.7305,
+    "lon": 23.7118,
+    "population": 24211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grammatikó",
+    "region": "Attica Region",
+    "lat": 38.2025,
+    "lon": 23.965,
+    "population": 24205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Políchni",
+    "region": "Central Macedonia",
+    "lat": 40.6667,
+    "lon": 22.9488,
+    "population": 24204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mavrovoúni",
+    "region": "Central Macedonia",
+    "lat": 40.7824,
+    "lon": 22.1563,
+    "population": 24161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megáli Khóra",
+    "region": "West Greece Region",
+    "lat": 38.6463,
+    "lon": 21.3731,
+    "population": 24137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Potamiá",
+    "region": "East Attica Regional Unit",
+    "lat": 40.7163,
+    "lon": 24.7286,
+    "population": 24064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalávryta",
+    "region": "West Greece Region",
+    "lat": 38.0322,
+    "lon": 22.1125,
+    "population": 24003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dráma",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1528,
+    "lon": 24.1473,
+    "population": 23933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argos Orestiko",
+    "region": "West Macedonia Region",
+    "lat": 40.4535,
+    "lon": 21.2589,
+    "population": 23910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lefkímmi",
+    "region": "Ionian Islands Region",
+    "lat": 39.4234,
+    "lon": 20.0709,
+    "population": 23855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dídyma",
+    "region": "Peloponnese Region",
+    "lat": 37.4625,
+    "lon": 23.1718,
+    "population": 23777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ássos",
+    "region": "Peloponnese Region",
+    "lat": 37.9395,
+    "lon": 22.8222,
+    "population": 23763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sélero",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1338,
+    "lon": 24.9941,
+    "population": 23700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magoúla",
+    "region": "Central Greece Region",
+    "lat": 38.4118,
+    "lon": 23.8213,
+    "population": 23660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Marína",
+    "region": "South Aegean",
+    "lat": 37.1543,
+    "lon": 26.8516,
+    "population": 23657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moláoi",
+    "region": "Peloponnese Region",
+    "lat": 36.8076,
+    "lon": 22.8513,
+    "population": 23586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sofádes",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.3333,
+    "lon": 22.1,
+    "population": 23576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Archángelos",
+    "region": "South Aegean",
+    "lat": 36.2149,
+    "lon": 28.1149,
+    "population": 23478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Livanátes",
+    "region": "Central Greece Region",
+    "lat": 38.711,
+    "lon": 23.0503,
+    "population": 23310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svorónos",
+    "region": "Central Macedonia",
+    "lat": 40.2681,
+    "lon": 22.4637,
+    "population": 23297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irákleia",
+    "region": "Central Macedonia",
+    "lat": 41.1822,
+    "lon": 23.2824,
+    "population": 23296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kýmina",
+    "region": "Central Macedonia",
+    "lat": 40.6135,
+    "lon": 22.6928,
+    "population": 23251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zygós",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0132,
+    "lon": 24.3813,
+    "population": 23209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karpochóri",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.3357,
+    "lon": 22.0113,
+    "population": 23175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhokímion",
+    "region": "West Greece Region",
+    "lat": 38.6135,
+    "lon": 21.3807,
+    "population": 23172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gérgeri",
+    "region": "Crete Region",
+    "lat": 35.1328,
+    "lon": 24.9496,
+    "population": 23158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drymós",
+    "region": "Central Macedonia",
+    "lat": 40.781,
+    "lon": 22.9589,
+    "population": 23149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Zíchni",
+    "region": "Central Macedonia",
+    "lat": 41.032,
+    "lon": 23.8287,
+    "population": 23052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komniná",
+    "region": "West Macedonia Region",
+    "lat": 40.5906,
+    "lon": 21.7767,
+    "population": 22999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Varvára",
+    "region": "Attica Region",
+    "lat": 37.9894,
+    "lon": 23.6601,
+    "population": 22966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayía Triás",
+    "region": "Peloponnese Region",
+    "lat": 37.6371,
+    "lon": 22.805,
+    "population": 22937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Marína",
+    "region": "Attica Region",
+    "lat": 37.8204,
+    "lon": 23.8442,
+    "population": 22917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vathý",
+    "region": "Attica Region",
+    "lat": 37.7642,
+    "lon": 23.4801,
+    "population": 22871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodotópi",
+    "region": "Epirus Region",
+    "lat": 39.7082,
+    "lon": 20.7266,
+    "population": 22802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malesína",
+    "region": "Central Greece Region",
+    "lat": 38.6223,
+    "lon": 23.2337,
+    "population": 22792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Argalastí",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.2263,
+    "lon": 23.2187,
+    "population": 22779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krokeés",
+    "region": "Peloponnese Region",
+    "lat": 36.883,
+    "lon": 22.5468,
+    "population": 22723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kainoúryion",
+    "region": "West Greece Region",
+    "lat": 38.6045,
+    "lon": 21.4878,
+    "population": 22669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavallári",
+    "region": "Central Macedonia",
+    "lat": 40.7154,
+    "lon": 23.0459,
+    "population": 22628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Níkaia",
+    "region": "Attica Region",
+    "lat": 37.9667,
+    "lon": 23.65,
+    "population": 22580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Smýrni",
+    "region": "Attica Region",
+    "lat": 37.945,
+    "lon": 23.7142,
+    "population": 22519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Kallikráteia",
+    "region": "Central Macedonia",
+    "lat": 40.3131,
+    "lon": 23.0634,
+    "population": 22501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Firá",
+    "region": "South Aegean",
+    "lat": 36.4211,
+    "lon": 25.4309,
+    "population": 22419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arkoúdi",
+    "region": "West Greece Region",
+    "lat": 37.8468,
+    "lon": 21.1102,
+    "population": 22403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Fókaia",
+    "region": "Central Macedonia",
+    "lat": 40.1333,
+    "lon": 23.3975,
+    "population": 22399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spáta",
+    "region": "Attica Region",
+    "lat": 37.9616,
+    "lon": 23.9151,
+    "population": 22282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rafína",
+    "region": "Attica Region",
+    "lat": 38.0181,
+    "lon": 24.006,
+    "population": 22267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrontoú",
+    "region": "Central Macedonia",
+    "lat": 40.1936,
+    "lon": 22.432,
+    "population": 22222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vanáton",
+    "region": "Ionian Islands Region",
+    "lat": 37.7945,
+    "lon": 20.8519,
+    "population": 22206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Ionía",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.379,
+    "lon": 22.9275,
+    "population": 22161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Glykóvrysi",
+    "region": "Peloponnese Region",
+    "lat": 36.8279,
+    "lon": 22.7773,
+    "population": 22082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Violí Charáki",
+    "region": "Crete Region",
+    "lat": 35.3586,
+    "lon": 24.4386,
+    "population": 22009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palekastro",
+    "region": "Crete Region",
+    "lat": 35.1979,
+    "lon": 26.2543,
+    "population": 21983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mándalo",
+    "region": "Central Macedonia",
+    "lat": 40.8568,
+    "lon": 22.2126,
+    "population": 21923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oxílithos",
+    "region": "Central Greece Region",
+    "lat": 38.5799,
+    "lon": 24.1118,
+    "population": 21844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paralía Ofryníou",
+    "region": "East Attica Regional Unit",
+    "lat": 40.7666,
+    "lon": 23.9004,
+    "population": 21831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thérmo",
+    "region": "West Greece Region",
+    "lat": 38.5736,
+    "lon": 21.6663,
+    "population": 21805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perivóli",
+    "region": "Ionian Islands Region",
+    "lat": 39.4194,
+    "lon": 20.0147,
+    "population": 21794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikró Monastíri",
+    "region": "Central Macedonia",
+    "lat": 40.7043,
+    "lon": 22.5411,
+    "population": 21749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zipári",
+    "region": "South Aegean",
+    "lat": 36.877,
+    "lon": 27.2053,
+    "population": 21685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pláka Dílesi",
+    "region": "Central Greece Region",
+    "lat": 38.3495,
+    "lon": 23.6506,
+    "population": 21676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makrochóri",
+    "region": "Central Macedonia",
+    "lat": 40.5513,
+    "lon": 22.2495,
+    "population": 21528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akriní",
+    "region": "West Macedonia Region",
+    "lat": 40.4349,
+    "lon": 21.9061,
+    "population": 21458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omvriakí",
+    "region": "Central Greece Region",
+    "lat": 39.1012,
+    "lon": 22.2711,
+    "population": 21439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steíri",
+    "region": "Central Greece Region",
+    "lat": 38.4083,
+    "lon": 22.7116,
+    "population": 21384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Triáda",
+    "region": "Central Greece Region",
+    "lat": 38.355,
+    "lon": 22.9088,
+    "population": 21370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perama",
+    "region": "Ionian Islands Region",
+    "lat": 39.5829,
+    "lon": 19.9122,
+    "population": 21223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Préveza",
+    "region": "Epirus Region",
+    "lat": 38.9562,
+    "lon": 20.7505,
+    "population": 21202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pórto Chéli",
+    "region": "Peloponnese Region",
+    "lat": 37.3279,
+    "lon": 23.1438,
+    "population": 21187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavrós",
+    "region": "Central Greece Region",
+    "lat": 38.8964,
+    "lon": 22.3708,
+    "population": 21174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anaráchi",
+    "region": "West Macedonia Region",
+    "lat": 40.4923,
+    "lon": 21.5728,
+    "population": 21147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asopía",
+    "region": "Central Greece Region",
+    "lat": 38.2988,
+    "lon": 23.5019,
+    "population": 21066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flórina",
+    "region": "West Macedonia Region",
+    "lat": 40.782,
+    "lon": 21.4098,
+    "population": 21065,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaparéllion",
+    "region": "Central Greece Region",
+    "lat": 38.237,
+    "lon": 23.2141,
+    "population": 21033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Epanomí",
+    "region": "Central Macedonia",
+    "lat": 40.4261,
+    "lon": 22.9278,
+    "population": 21030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parapótamos",
+    "region": "Epirus Region",
+    "lat": 39.5486,
+    "lon": 20.3244,
+    "population": 20988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acharnés",
+    "region": "Attica Region",
+    "lat": 38.0833,
+    "lon": 23.7333,
+    "population": 20961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghios Panteleímon",
+    "region": "Attica Region",
+    "lat": 38.1164,
+    "lon": 23.9818,
+    "population": 20742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Édessa",
+    "region": "Central Macedonia",
+    "lat": 40.8026,
+    "lon": 22.0475,
+    "population": 20725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Evxinoúpolis",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.1841,
+    "lon": 22.7383,
+    "population": 20723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Zakýnthou",
+    "region": "Ionian Islands Region",
+    "lat": 37.75,
+    "lon": 20.75,
+    "population": 20706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atsipópoulo",
+    "region": "Crete Region",
+    "lat": 35.3525,
+    "lon": 24.4338,
+    "population": 20628,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Terpní",
+    "region": "Central Macedonia",
+    "lat": 40.9164,
+    "lon": 23.4814,
+    "population": 20528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marathónas",
+    "region": "Attica Region",
+    "lat": 38.1532,
+    "lon": 23.9628,
+    "population": 20523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kými",
+    "region": "Central Greece Region",
+    "lat": 38.6348,
+    "lon": 24.1029,
+    "population": 20515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arísvi",
+    "region": "East Attica Regional Unit",
+    "lat": 41.07,
+    "lon": 25.5904,
+    "population": 20508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyprínos",
+    "region": "East Attica Regional Unit",
+    "lat": 41.5754,
+    "lon": 26.2291,
+    "population": 20473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagós",
+    "region": "East Attica Regional Unit",
+    "lat": 41.451,
+    "lon": 26.4607,
+    "population": 20415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Arkadías",
+    "region": "Peloponnese Region",
+    "lat": 37.5833,
+    "lon": 22.25,
+    "population": 20383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lianovérgi",
+    "region": "Central Macedonia",
+    "lat": 40.6353,
+    "lon": 22.5082,
+    "population": 20352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Genisséa",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0617,
+    "lon": 24.9625,
+    "population": 20295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastélli",
+    "region": "Crete Region",
+    "lat": 35.209,
+    "lon": 25.3377,
+    "population": 20273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalampáki",
+    "region": "East Attica Regional Unit",
+    "lat": 41.05,
+    "lon": 24.1833,
+    "population": 20263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oropós",
+    "region": "Attica Region",
+    "lat": 38.3033,
+    "lon": 23.7555,
+    "population": 20261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nea Lava",
+    "region": "West Macedonia Region",
+    "lat": 40.1905,
+    "lon": 22.0132,
+    "population": 20232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áfytos",
+    "region": "Central Macedonia",
+    "lat": 40.0992,
+    "lon": 23.4367,
+    "population": 20161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soúrpi",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.1032,
+    "lon": 22.8979,
+    "population": 20105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sérres",
+    "region": "Central Macedonia",
+    "lat": 41.085,
+    "lon": 23.5476,
+    "population": 20064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pentéli",
+    "region": "Attica Region",
+    "lat": 38.05,
+    "lon": 23.8667,
+    "population": 20062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skalánion",
+    "region": "Crete Region",
+    "lat": 35.2826,
+    "lon": 25.1868,
+    "population": 20045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Archontochóri",
+    "region": "West Greece Region",
+    "lat": 38.7005,
+    "lon": 21.039,
+    "population": 20042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keratsíni",
+    "region": "Attica Region",
+    "lat": 37.9625,
+    "lon": 23.6197,
+    "population": 20031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megalochóri",
+    "region": "Attica Region",
+    "lat": 37.7105,
+    "lon": 23.3466,
+    "population": 19979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ólynthos",
+    "region": "Central Macedonia",
+    "lat": 40.2915,
+    "lon": 23.3421,
+    "population": 19976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melíti",
+    "region": "West Macedonia Region",
+    "lat": 40.8343,
+    "lon": 21.5843,
+    "population": 19939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neos Voutzás",
+    "region": "Attica Region",
+    "lat": 38.0431,
+    "lon": 23.9775,
+    "population": 19895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anthiró",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.3472,
+    "lon": 21.4583,
+    "population": 19762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sofikón",
+    "region": "Peloponnese Region",
+    "lat": 37.7941,
+    "lon": 23.052,
+    "population": 19732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mándra",
+    "region": "Attica Region",
+    "lat": 38.0667,
+    "lon": 23.5,
+    "population": 19716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Manoláda",
+    "region": "West Greece Region",
+    "lat": 38.0538,
+    "lon": 21.3819,
+    "population": 19659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stylída",
+    "region": "Central Greece Region",
+    "lat": 38.9167,
+    "lon": 22.6167,
+    "population": 19653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néo Rýsi",
+    "region": "Central Macedonia",
+    "lat": 40.496,
+    "lon": 22.9879,
+    "population": 19643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Vrasná",
+    "region": "Central Macedonia",
+    "lat": 40.7059,
+    "lon": 23.6985,
+    "population": 19601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filippiáda",
+    "region": "Epirus Region",
+    "lat": 39.2047,
+    "lon": 20.8822,
+    "population": 19592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Výssa",
+    "region": "East Attica Regional Unit",
+    "lat": 41.5845,
+    "lon": 26.5432,
+    "population": 19577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kítsi",
+    "region": "Attica Region",
+    "lat": 37.8518,
+    "lon": 23.8407,
+    "population": 19507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orestiáda",
+    "region": "East Attica Regional Unit",
+    "lat": 41.5031,
+    "lon": 26.5297,
+    "population": 19501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aigínio",
+    "region": "Central Macedonia",
+    "lat": 40.5014,
+    "lon": 22.54,
+    "population": 19494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néos Oropós",
+    "region": "Epirus Region",
+    "lat": 39.1506,
+    "lon": 20.7364,
+    "population": 19471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anéza",
+    "region": "Epirus Region",
+    "lat": 39.0866,
+    "lon": 20.923,
+    "population": 19457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pýrgos",
+    "region": "Crete Region",
+    "lat": 35.0061,
+    "lon": 25.1519,
+    "population": 19409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megála Kalývia",
+    "region": "Corfu Prefecture",
+    "lat": 39.4969,
+    "lon": 21.788,
+    "population": 19374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maroúsi",
+    "region": "Attica Region",
+    "lat": 38.05,
+    "lon": 23.8,
+    "population": 19292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ano Arhanes",
+    "region": "Crete Region",
+    "lat": 35.2333,
+    "lon": 25.1667,
+    "population": 19274,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Tríglia",
+    "region": "Central Macedonia",
+    "lat": 40.3058,
+    "lon": 23.2066,
+    "population": 19241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mykonos",
+    "region": "South Aegean",
+    "lat": 37.4453,
+    "lon": 25.3287,
+    "population": 19228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gouménissa",
+    "region": "Central Macedonia",
+    "lat": 40.946,
+    "lon": 22.4497,
+    "population": 19206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áyios Konstandínos",
+    "region": "Central Greece Region",
+    "lat": 38.7561,
+    "lon": 22.8576,
+    "population": 19183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Ioannínon",
+    "region": "Epirus Region",
+    "lat": 39.75,
+    "lon": 20.6667,
+    "population": 19175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sykiés",
+    "region": "Central Macedonia",
+    "lat": 40.6494,
+    "lon": 22.9508,
+    "population": 19156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Profítis Ilías",
+    "region": "Central Macedonia",
+    "lat": 40.8137,
+    "lon": 22.1617,
+    "population": 19136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zacháro",
+    "region": "West Greece Region",
+    "lat": 37.4833,
+    "lon": 21.65,
+    "population": 19132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strymonikó",
+    "region": "Central Macedonia",
+    "lat": 41.0414,
+    "lon": 23.3149,
+    "population": 19117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levídion",
+    "region": "Peloponnese Region",
+    "lat": 37.6827,
+    "lon": 22.2959,
+    "population": 19075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Xylókastro",
+    "region": "Peloponnese Region",
+    "lat": 38.0776,
+    "lon": 22.6317,
+    "population": 18996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalkída",
+    "region": "Central Greece Region",
+    "lat": 38.4635,
+    "lon": 23.6028,
+    "population": 18983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charopó",
+    "region": "Central Macedonia",
+    "lat": 41.2603,
+    "lon": 23.3728,
+    "population": 18982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loutráki",
+    "region": "Central Macedonia",
+    "lat": 40.9712,
+    "lon": 21.9466,
+    "population": 18973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Triandaíika",
+    "region": "West Greece Region",
+    "lat": 38.6553,
+    "lon": 21.3832,
+    "population": 18918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thouría",
+    "region": "Peloponnese Region",
+    "lat": 37.0836,
+    "lon": 22.0489,
+    "population": 18881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ormýlia",
+    "region": "Central Macedonia",
+    "lat": 40.2945,
+    "lon": 23.5433,
+    "population": 18845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chávari",
+    "region": "West Greece Region",
+    "lat": 37.8484,
+    "lon": 21.384,
+    "population": 18798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antimácheia",
+    "region": "South Aegean",
+    "lat": 36.8089,
+    "lon": 27.0976,
+    "population": 18686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karyés",
+    "region": "Peloponnese Region",
+    "lat": 37.2912,
+    "lon": 22.5007,
+    "population": 18652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokhós",
+    "region": "Crete Region",
+    "lat": 35.2634,
+    "lon": 25.423,
+    "population": 18589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malakónta",
+    "region": "Central Greece Region",
+    "lat": 38.4,
+    "lon": 23.7667,
+    "population": 18580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Synoikismós Chavaríou",
+    "region": "West Greece Region",
+    "lat": 37.8558,
+    "lon": 21.3879,
+    "population": 18496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dióni",
+    "region": "Attica Region",
+    "lat": 38.0233,
+    "lon": 23.9329,
+    "population": 18454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megáli Panagía",
+    "region": "Central Macedonia",
+    "lat": 40.4451,
+    "lon": 23.68,
+    "population": 18394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavrós",
+    "region": "Central Macedonia",
+    "lat": 40.665,
+    "lon": 23.7002,
+    "population": 18345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amygdaleónas",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9635,
+    "lon": 24.3601,
+    "population": 18295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galátista",
+    "region": "Central Macedonia",
+    "lat": 40.4682,
+    "lon": 23.2801,
+    "population": 18172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rizómata",
+    "region": "Central Macedonia",
+    "lat": 40.3506,
+    "lon": 22.2108,
+    "population": 18093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rethymno",
+    "region": "Crete Region",
+    "lat": 35.3655,
+    "lon": 24.4823,
+    "population": 18088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agnanteró",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4859,
+    "lon": 21.8479,
+    "population": 18087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Fokídos",
+    "region": "Central Greece Region",
+    "lat": 38.5,
+    "lon": 22.25,
+    "population": 18072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Dhiminió",
+    "region": "Peloponnese Region",
+    "lat": 38.0249,
+    "lon": 22.7329,
+    "population": 18047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaména Voúrla",
+    "region": "Central Greece Region",
+    "lat": 38.7784,
+    "lon": 22.7857,
+    "population": 18040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schísma Eloúndas",
+    "region": "Crete Region",
+    "lat": 35.2576,
+    "lon": 25.728,
+    "population": 17937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rizómylos",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.4276,
+    "lon": 22.7472,
+    "population": 17911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanaláki",
+    "region": "Epirus Region",
+    "lat": 39.2336,
+    "lon": 20.6,
+    "population": 17748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ávato",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9628,
+    "lon": 24.8044,
+    "population": 17726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kónitsa",
+    "region": "Epirus Region",
+    "lat": 40.0486,
+    "lon": 20.7567,
+    "population": 17672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delphi",
+    "region": "Central Greece Region",
+    "lat": 38.4794,
+    "lon": 22.4936,
+    "population": 17670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Folégandros",
+    "region": "South Aegean",
+    "lat": 36.6279,
+    "lon": 24.9202,
+    "population": 17632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalampáka",
+    "region": "Corfu Prefecture",
+    "lat": 39.7044,
+    "lon": 21.6269,
+    "population": 17410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krithiá",
+    "region": "Central Macedonia",
+    "lat": 40.8418,
+    "lon": 22.9829,
+    "population": 17407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Galíni",
+    "region": "Crete Region",
+    "lat": 35.0971,
+    "lon": 24.6882,
+    "population": 17403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrýses",
+    "region": "Crete Region",
+    "lat": 35.3758,
+    "lon": 24.2011,
+    "population": 17340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neméa",
+    "region": "Peloponnese Region",
+    "lat": 37.8207,
+    "lon": 22.661,
+    "population": 17337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vília",
+    "region": "Attica Region",
+    "lat": 38.1672,
+    "lon": 23.3366,
+    "population": 17332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saronída",
+    "region": "Attica Region",
+    "lat": 37.7481,
+    "lon": 23.9106,
+    "population": 17275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouzáki",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4297,
+    "lon": 21.6636,
+    "population": 17256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grammenítsa",
+    "region": "Epirus Region",
+    "lat": 39.1844,
+    "lon": 20.9793,
+    "population": 17247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thrapsanón",
+    "region": "Crete Region",
+    "lat": 35.188,
+    "lon": 25.2809,
+    "population": 17179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Péramos",
+    "region": "Attica Region",
+    "lat": 38.0065,
+    "lon": 23.4235,
+    "population": 17140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaïdári",
+    "region": "Attica Region",
+    "lat": 38.0114,
+    "lon": 23.666,
+    "population": 17100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Límni",
+    "region": "Central Greece Region",
+    "lat": 38.7667,
+    "lon": 23.3167,
+    "population": 17040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anáfi",
+    "region": "South Aegean",
+    "lat": 36.35,
+    "lon": 25.7667,
+    "population": 17007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Náfplio",
+    "region": "Peloponnese Region",
+    "lat": 37.5686,
+    "lon": 22.8069,
+    "population": 16969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ermióni",
+    "region": "Peloponnese Region",
+    "lat": 37.3849,
+    "lon": 23.2469,
+    "population": 16912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néoi Epivátes",
+    "region": "Central Macedonia",
+    "lat": 40.4986,
+    "lon": 22.9119,
+    "population": 16907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moúlki",
+    "region": "Peloponnese Region",
+    "lat": 37.9932,
+    "lon": 22.7253,
+    "population": 16892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oreoí",
+    "region": "Central Greece Region",
+    "lat": 38.9503,
+    "lon": 23.0919,
+    "population": 16752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Geórgios",
+    "region": "Central Greece Region",
+    "lat": 38.3934,
+    "lon": 22.9319,
+    "population": 16719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nigríta",
+    "region": "Central Macedonia",
+    "lat": 40.9053,
+    "lon": 23.4994,
+    "population": 16718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Livaderó",
+    "region": "West Macedonia Region",
+    "lat": 40.0346,
+    "lon": 21.9428,
+    "population": 16714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agriá",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.3408,
+    "lon": 23.0126,
+    "population": 16672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aiánteio",
+    "region": "Attica Region",
+    "lat": 37.9213,
+    "lon": 23.4588,
+    "population": 16658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dhrosiá",
+    "region": "Central Greece Region",
+    "lat": 38.4841,
+    "lon": 23.5477,
+    "population": 16454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Stéfanos",
+    "region": "Attica Region",
+    "lat": 38.1466,
+    "lon": 23.8561,
+    "population": 16366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Náxos",
+    "region": "South Aegean",
+    "lat": 37.1056,
+    "lon": 25.3764,
+    "population": 16348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galatás",
+    "region": "Crete Region",
+    "lat": 35.4986,
+    "lon": 23.9634,
+    "population": 16262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Livadeiá",
+    "region": "Central Greece Region",
+    "lat": 38.4362,
+    "lon": 22.8767,
+    "population": 16171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanália",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.4993,
+    "lon": 22.8859,
+    "population": 16131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elaiochóri",
+    "region": "East Attica Regional Unit",
+    "lat": 40.8203,
+    "lon": 24.2437,
+    "population": 16114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thívai",
+    "region": "Central Greece Region",
+    "lat": 38.325,
+    "lon": 23.3189,
+    "population": 16107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dravískos",
+    "region": "Central Macedonia",
+    "lat": 40.9239,
+    "lon": 23.8712,
+    "population": 16072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leonídio",
+    "region": "Peloponnese Region",
+    "lat": 37.1668,
+    "lon": 22.8577,
+    "population": 16060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gómfoi",
+    "region": "Corfu Prefecture",
+    "lat": 39.4641,
+    "lon": 21.6934,
+    "population": 16039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acharávi",
+    "region": "Ionian Islands Region",
+    "lat": 39.7936,
+    "lon": 19.8174,
+    "population": 15973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magoúla",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4539,
+    "lon": 21.8035,
+    "population": 15972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Miliá",
+    "region": "Central Macedonia",
+    "lat": 40.254,
+    "lon": 22.3434,
+    "population": 15906,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diavatá",
+    "region": "Central Macedonia",
+    "lat": 40.6874,
+    "lon": 22.858,
+    "population": 15860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atalánti",
+    "region": "Central Greece Region",
+    "lat": 38.6511,
+    "lon": 22.9992,
+    "population": 15832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalamariá",
+    "region": "Central Macedonia",
+    "lat": 40.5825,
+    "lon": 22.9503,
+    "population": 15821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alexandroupoli",
+    "region": "East Attica Regional Unit",
+    "lat": 40.8499,
+    "lon": 25.8764,
+    "population": 15723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pigí",
+    "region": "Corfu Prefecture",
+    "lat": 39.5106,
+    "lon": 21.701,
+    "population": 15689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neápolis",
+    "region": "West Greece Region",
+    "lat": 38.6714,
+    "lon": 21.3627,
+    "population": 15685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sikyón",
+    "region": "Peloponnese Region",
+    "lat": 37.9823,
+    "lon": 22.7246,
+    "population": 15685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Kykládon",
+    "region": "South Aegean",
+    "lat": 37.4167,
+    "lon": 24.9167,
+    "population": 15671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Árgos",
+    "region": "Peloponnese Region",
+    "lat": 37.6333,
+    "lon": 22.7333,
+    "population": 15661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gavaloú",
+    "region": "West Greece Region",
+    "lat": 38.529,
+    "lon": 21.5323,
+    "population": 15641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodhítsa",
+    "region": "Central Greece Region",
+    "lat": 38.8883,
+    "lon": 22.4641,
+    "population": 15594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diavatós",
+    "region": "Central Macedonia",
+    "lat": 40.5461,
+    "lon": 22.2669,
+    "population": 15548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Athanásios",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0746,
+    "lon": 24.2455,
+    "population": 15390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áyioi Apóstoloi",
+    "region": "Attica Region",
+    "lat": 38.2917,
+    "lon": 23.9101,
+    "population": 15259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasilikón",
+    "region": "Central Greece Region",
+    "lat": 38.4259,
+    "lon": 23.6719,
+    "population": 15217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filothéi",
+    "region": "Attica Region",
+    "lat": 38.0252,
+    "lon": 23.7826,
+    "population": 15199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goúrnes",
+    "region": "Crete Region",
+    "lat": 35.3263,
+    "lon": 25.2774,
+    "population": 15169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mindilóglion",
+    "region": "West Greece Region",
+    "lat": 38.1839,
+    "lon": 21.7013,
+    "population": 15023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimméria",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1479,
+    "lon": 24.9387,
+    "population": 14974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lepenoú",
+    "region": "West Greece Region",
+    "lat": 38.7084,
+    "lon": 21.2897,
+    "population": 14974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ligourión",
+    "region": "Peloponnese Region",
+    "lat": 37.6123,
+    "lon": 23.0377,
+    "population": 14929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koryfí",
+    "region": "Central Macedonia",
+    "lat": 40.6029,
+    "lon": 22.5068,
+    "population": 14726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamía",
+    "region": "Central Greece Region",
+    "lat": 38.9,
+    "lon": 22.4333,
+    "population": 14709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Íos",
+    "region": "South Aegean",
+    "lat": 36.7333,
+    "lon": 25.2833,
+    "population": 14556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varnávas",
+    "region": "Attica Region",
+    "lat": 38.2236,
+    "lon": 23.9231,
+    "population": 14476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolchikón",
+    "region": "Central Macedonia",
+    "lat": 40.7566,
+    "lon": 23.1338,
+    "population": 14464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sperchógeia",
+    "region": "Peloponnese Region",
+    "lat": 37.074,
+    "lon": 22.0625,
+    "population": 14432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koufália",
+    "region": "Central Macedonia",
+    "lat": 40.7778,
+    "lon": 22.5719,
+    "population": 14424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itéa",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4567,
+    "lon": 22.1658,
+    "population": 14410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vouliagméni",
+    "region": "Attica Region",
+    "lat": 37.8142,
+    "lon": 23.7789,
+    "population": 14330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaiá Fókaia",
+    "region": "Attica Region",
+    "lat": 37.72,
+    "lon": 23.9479,
+    "population": 14326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sitagroí",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1107,
+    "lon": 24.0276,
+    "population": 14318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aravissós",
+    "region": "Central Macedonia",
+    "lat": 40.8435,
+    "lon": 22.3018,
+    "population": 14247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amaliáda",
+    "region": "West Greece Region",
+    "lat": 37.7984,
+    "lon": 21.3507,
+    "population": 14196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kítros",
+    "region": "Central Macedonia",
+    "lat": 40.374,
+    "lon": 22.5786,
+    "population": 14193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ermoúpolis",
+    "region": "South Aegean",
+    "lat": 37.4447,
+    "lon": 24.9429,
+    "population": 14160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artesianó",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.4019,
+    "lon": 21.8965,
+    "population": 14140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koutsopódi",
+    "region": "Peloponnese Region",
+    "lat": 37.6843,
+    "lon": 22.7136,
+    "population": 14102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soúda",
+    "region": "Crete Region",
+    "lat": 35.4872,
+    "lon": 24.0734,
+    "population": 14026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moskháton",
+    "region": "Attica Region",
+    "lat": 37.9479,
+    "lon": 23.6788,
+    "population": 14023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Péfki",
+    "region": "Attica Region",
+    "lat": 38.0602,
+    "lon": 23.7926,
+    "population": 14009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lýkeio",
+    "region": "East Attica Regional Unit",
+    "lat": 41.0641,
+    "lon": 25.6857,
+    "population": 14005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áno Lekhónia",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.3276,
+    "lon": 23.054,
+    "population": 13883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patitírion",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.1466,
+    "lon": 23.8649,
+    "population": 13878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filótas",
+    "region": "West Macedonia Region",
+    "lat": 40.6252,
+    "lon": 21.7085,
+    "population": 13857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Profítis Ilías",
+    "region": "Crete Region",
+    "lat": 35.2056,
+    "lon": 25.0998,
+    "population": 13848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neochoroúda",
+    "region": "Central Macedonia",
+    "lat": 40.7382,
+    "lon": 22.8756,
+    "population": 13843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tríkala",
+    "region": "Corfu Prefecture",
+    "lat": 39.5549,
+    "lon": 21.7684,
+    "population": 13819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vathí",
+    "region": "Central Greece Region",
+    "lat": 38.4049,
+    "lon": 23.6033,
+    "population": 13814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Archaía Olympía",
+    "region": "West Greece Region",
+    "lat": 37.6479,
+    "lon": 21.6271,
+    "population": 13813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yimnón",
+    "region": "Central Greece Region",
+    "lat": 38.4405,
+    "lon": 23.884,
+    "population": 13764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mouzourás",
+    "region": "Crete Region",
+    "lat": 35.5388,
+    "lon": 24.1555,
+    "population": 13741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Évosmos",
+    "region": "Central Macedonia",
+    "lat": 40.6706,
+    "lon": 22.9083,
+    "population": 13678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Chalkidikís",
+    "region": "Central Macedonia",
+    "lat": 40.4167,
+    "lon": 23.5,
+    "population": 13673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kýthira",
+    "region": "Attica Region",
+    "lat": 36.1495,
+    "lon": 22.9898,
+    "population": 13669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korydallós",
+    "region": "Attica Region",
+    "lat": 37.9847,
+    "lon": 23.6471,
+    "population": 13666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Efkarpía",
+    "region": "Central Macedonia",
+    "lat": 40.688,
+    "lon": 22.9535,
+    "population": 13547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nomós Thessaloníkis",
+    "region": "Central Macedonia",
+    "lat": 40.6667,
+    "lon": 23,
+    "population": 13538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prínos",
+    "region": "East Attica Regional Unit",
+    "lat": 40.7409,
+    "lon": 24.5779,
+    "population": 13513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Mákri",
+    "region": "Attica Region",
+    "lat": 38.0873,
+    "lon": 23.9764,
+    "population": 13462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goúmero",
+    "region": "West Greece Region",
+    "lat": 37.7624,
+    "lon": 21.6185,
+    "population": 13410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyrás Vrýsi",
+    "region": "Peloponnese Region",
+    "lat": 37.913,
+    "lon": 22.9865,
+    "population": 13386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vartholomió",
+    "region": "West Greece Region",
+    "lat": 37.8622,
+    "lon": 21.2057,
+    "population": 13367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Nikólaos",
+    "region": "Central Macedonia",
+    "lat": 40.2493,
+    "lon": 23.6962,
+    "population": 13349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Megalópoli",
+    "region": "Peloponnese Region",
+    "lat": 37.4011,
+    "lon": 22.1422,
+    "population": 13328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Léchovo",
+    "region": "West Macedonia Region",
+    "lat": 40.5844,
+    "lon": 21.4922,
+    "population": 13310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaiomonástiro",
+    "region": "Corfu Prefecture",
+    "lat": 39.4627,
+    "lon": 21.6579,
+    "population": 13309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stános",
+    "region": "West Greece Region",
+    "lat": 38.8045,
+    "lon": 21.1746,
+    "population": 13307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antíparos",
+    "region": "South Aegean",
+    "lat": 37.0394,
+    "lon": 25.0826,
+    "population": 13184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amfíkleia",
+    "region": "Central Greece Region",
+    "lat": 38.6391,
+    "lon": 22.5917,
+    "population": 13152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thásos",
+    "region": "East Attica Regional Unit",
+    "lat": 40.7781,
+    "lon": 24.7094,
+    "population": 13098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ritíni",
+    "region": "Central Macedonia",
+    "lat": 40.2884,
+    "lon": 22.2836,
+    "population": 13096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chalkiádes",
+    "region": "Epirus Region",
+    "lat": 39.1598,
+    "lon": 20.9329,
+    "population": 12993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyllíni",
+    "region": "West Greece Region",
+    "lat": 37.9354,
+    "lon": 21.145,
+    "population": 12934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néo Petrítsi",
+    "region": "Central Macedonia",
+    "lat": 41.2746,
+    "lon": 23.2938,
+    "population": 12885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anógeia",
+    "region": "Crete Region",
+    "lat": 35.2908,
+    "lon": 24.8841,
+    "population": 12814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astakós",
+    "region": "West Greece Region",
+    "lat": 38.5356,
+    "lon": 21.0814,
+    "population": 12780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Athens",
+    "region": "Attica Region",
+    "lat": 37.9838,
+    "lon": 23.7278,
+    "population": 12776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ellinikó",
+    "region": "Attica Region",
+    "lat": 37.8901,
+    "lon": 23.7441,
+    "population": 12764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Platý",
+    "region": "Central Macedonia",
+    "lat": 40.6424,
+    "lon": 22.5346,
+    "population": 12702,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erythrés",
+    "region": "Attica Region",
+    "lat": 38.2174,
+    "lon": 23.3223,
+    "population": 12667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Péplos",
+    "region": "East Attica Regional Unit",
+    "lat": 40.9575,
+    "lon": 26.2658,
+    "population": 12632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gérakas",
+    "region": "Attica Region",
+    "lat": 38.0228,
+    "lon": 23.8576,
+    "population": 12605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aidipsós",
+    "region": "Central Greece Region",
+    "lat": 38.8792,
+    "lon": 23.0469,
+    "population": 12464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panaitólion",
+    "region": "West Greece Region",
+    "lat": 38.5832,
+    "lon": 21.4473,
+    "population": 12447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leptokaryá",
+    "region": "Central Macedonia",
+    "lat": 40.0603,
+    "lon": 22.5612,
+    "population": 12444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skarmagkás",
+    "region": "Attica Region",
+    "lat": 38.0113,
+    "lon": 23.603,
+    "population": 12343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petroúpolis",
+    "region": "Attica Region",
+    "lat": 38.0419,
+    "lon": 23.6849,
+    "population": 12260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pentálofos",
+    "region": "Central Macedonia",
+    "lat": 40.743,
+    "lon": 22.8526,
+    "population": 12243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ioánnina",
+    "region": "Epirus Region",
+    "lat": 39.6649,
+    "lon": 20.8519,
+    "population": 12181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vónitsa",
+    "region": "West Greece Region",
+    "lat": 38.9164,
+    "lon": 20.8864,
+    "population": 12152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Domvraína",
+    "region": "Central Greece Region",
+    "lat": 38.253,
+    "lon": 22.9821,
+    "population": 12093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amorgós",
+    "region": "South Aegean",
+    "lat": 36.8317,
+    "lon": 25.8982,
+    "population": 12087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallifóni",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.2771,
+    "lon": 21.9613,
+    "population": 12014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Néa Flogitá",
+    "region": "Central Macedonia",
+    "lat": 40.2611,
+    "lon": 23.2211,
+    "population": 11970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaiópyrgos",
+    "region": "Corfu Prefecture",
+    "lat": 39.6084,
+    "lon": 21.8172,
+    "population": 11947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kritsá",
+    "region": "Crete Region",
+    "lat": 35.1582,
+    "lon": 25.6446,
+    "population": 11916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aígio",
+    "region": "West Greece Region",
+    "lat": 38.2486,
+    "lon": 22.0819,
+    "population": 11849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palaiá Epídavros",
+    "region": "Peloponnese Region",
+    "lat": 37.6385,
+    "lon": 23.1561,
+    "population": 11801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khiliomódhi",
+    "region": "Peloponnese Region",
+    "lat": 37.8102,
+    "lon": 22.8697,
+    "population": 11786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gýtheio",
+    "region": "Peloponnese Region",
+    "lat": 36.755,
+    "lon": 22.5642,
+    "population": 11721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skýros",
+    "region": "Central Greece Region",
+    "lat": 38.9042,
+    "lon": 24.5631,
+    "population": 11683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Káto Soúlion",
+    "region": "Attica Region",
+    "lat": 38.168,
+    "lon": 24.0163,
+    "population": 11632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágio Pnévma",
+    "region": "Central Macedonia",
+    "lat": 41.1014,
+    "lon": 23.6799,
+    "population": 11588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Várda",
+    "region": "West Greece Region",
+    "lat": 38.0306,
+    "lon": 21.3651,
+    "population": 11510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamaterón",
+    "region": "Attica Region",
+    "lat": 38.0559,
+    "lon": 23.7051,
+    "population": 11478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Traganón",
+    "region": "Peloponnese Region",
+    "lat": 37.8979,
+    "lon": 21.3124,
+    "population": 11478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neochórion",
+    "region": "West Greece Region",
+    "lat": 38.4085,
+    "lon": 21.2751,
+    "population": 11232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karátoula",
+    "region": "West Greece Region",
+    "lat": 37.7356,
+    "lon": 21.5358,
+    "population": 11214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rizó",
+    "region": "Central Macedonia",
+    "lat": 40.7333,
+    "lon": 22.1367,
+    "population": 11180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agía Paraskeví",
+    "region": "Attica Region",
+    "lat": 38.0167,
+    "lon": 23.8333,
+    "population": 11171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polykárpi",
+    "region": "Central Macedonia",
+    "lat": 40.926,
+    "lon": 22.0163,
+    "population": 11132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karítsa",
+    "region": "Central Macedonia",
+    "lat": 40.1874,
+    "lon": 22.4817,
+    "population": 11048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsikalariá",
+    "region": "Crete Region",
+    "lat": 35.4762,
+    "lon": 24.0627,
+    "population": 10898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavýli",
+    "region": "East Attica Regional Unit",
+    "lat": 41.5622,
+    "lon": 26.5147,
+    "population": 10853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolindrós",
+    "region": "Central Macedonia",
+    "lat": 40.4789,
+    "lon": 22.4832,
+    "population": 10845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paianía",
+    "region": "Attica Region",
+    "lat": 37.9553,
+    "lon": 23.8544,
+    "population": 10806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Péfka",
+    "region": "Central Macedonia",
+    "lat": 40.6581,
+    "lon": 22.9938,
+    "population": 10740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drépanon",
+    "region": "Peloponnese Region",
+    "lat": 37.5389,
+    "lon": 22.8932,
+    "population": 10719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vokhaïkó",
+    "region": "Peloponnese Region",
+    "lat": 37.9484,
+    "lon": 22.792,
+    "population": 10711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kírra",
+    "region": "Central Greece Region",
+    "lat": 38.4294,
+    "lon": 22.4444,
+    "population": 10687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korinós",
+    "region": "Central Macedonia",
+    "lat": 40.3166,
+    "lon": 22.5882,
+    "population": 10684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morfovoúni",
+    "region": "Kefalonia Prefecture",
+    "lat": 39.3525,
+    "lon": 21.75,
+    "population": 10646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galatás",
+    "region": "Attica Region",
+    "lat": 37.4962,
+    "lon": 23.4489,
+    "population": 10629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Álimos",
+    "region": "Attica Region",
+    "lat": 37.9103,
+    "lon": 23.7236,
+    "population": 10596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Áno Liósia",
+    "region": "Attica Region",
+    "lat": 38.0833,
+    "lon": 23.7,
+    "population": 10591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Póros",
+    "region": "Ionian Islands Region",
+    "lat": 38.1537,
+    "lon": 20.7712,
+    "population": 10588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Íasmos",
+    "region": "East Attica Regional Unit",
+    "lat": 41.1275,
+    "lon": 25.1857,
+    "population": 10574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Periyiáli",
+    "region": "Peloponnese Region",
+    "lat": 37.9404,
+    "lon": 22.8395,
+    "population": 10514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aíyira",
+    "region": "West Greece Region",
+    "lat": 38.1485,
+    "lon": 22.3543,
+    "population": 10501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gastoúni",
+    "region": "West Greece Region",
+    "lat": 37.85,
+    "lon": 21.25,
+    "population": 10432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dístomo",
+    "region": "Central Greece Region",
+    "lat": 38.4289,
+    "lon": 22.6673,
+    "population": 10415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ampelákia",
+    "region": "Attica Region",
+    "lat": 37.9505,
+    "lon": 23.528,
+    "population": 10263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leondárion",
+    "region": "Attica Region",
+    "lat": 37.987,
+    "lon": 23.8552,
+    "population": 10201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ágios Andréas",
+    "region": "Peloponnese Region",
+    "lat": 37.3452,
+    "lon": 22.7647,
+    "population": 10165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alistráti",
+    "region": "Central Macedonia",
+    "lat": 41.0644,
+    "lon": 23.9575,
+    "population": 10148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kéfalos",
+    "region": "South Aegean",
+    "lat": 36.7451,
+    "lon": 26.9596,
+    "population": 10140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alivéri",
+    "region": "Central Greece Region",
+    "lat": 38.4167,
+    "lon": 24.0333,
+    "population": 10130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagorá",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.45,
+    "lon": 23.1,
+    "population": 10088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skála",
+    "region": "South Aegean",
+    "lat": 37.3222,
+    "lon": 26.543,
+    "population": 10085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stefanovíkeio",
+    "region": "Lefkada Regional Unit",
+    "lat": 39.4635,
+    "lon": 22.742,
+    "population": 10071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ornós",
+    "region": "South Aegean",
+    "lat": 37.4239,
+    "lon": 25.3225,
+    "population": 10027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zárkos",
+    "region": "Corfu Prefecture",
+    "lat": 39.6086,
+    "lon": 22.1234,
+    "population": 10007,
+    "timezone": "UTC"
+  }
+]

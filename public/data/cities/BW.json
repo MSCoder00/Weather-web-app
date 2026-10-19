@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Serowe",
+    "region": "Central District",
+    "lat": -22.3875,
+    "lon": 26.7108,
+    "population": 49322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mathathane",
+    "region": "Central District",
+    "lat": -22.2688,
+    "lon": 28.7495,
+    "population": 48318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonota",
+    "region": "Central District",
+    "lat": -21.4424,
+    "lon": 27.4615,
+    "population": 48013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maapi",
+    "region": "Central District",
+    "lat": -22.7579,
+    "lon": 27.35,
+    "population": 47986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khudumelapye",
+    "region": "Kweneng District",
+    "lat": -23.8833,
+    "lon": 24.75,
+    "population": 47668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahalapye",
+    "region": "Central District",
+    "lat": -23.1041,
+    "lon": 26.8142,
+    "population": 47282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Thamaga",
+    "region": "Kweneng District",
+    "lat": -24.6701,
+    "lon": 25.5398,
+    "population": 46516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moijabana",
+    "region": "Central District",
+    "lat": -22.4333,
+    "lon": 26.4167,
+    "population": 45975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kopong",
+    "region": "South-East District",
+    "lat": -24.4833,
+    "lon": 25.8833,
+    "population": 45086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shakawe",
+    "region": "North-West District",
+    "lat": -18.3654,
+    "lon": 21.8422,
+    "population": 44900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Botlhapatlou",
+    "region": "Kweneng District",
+    "lat": -24.0259,
+    "lon": 25.4898,
+    "population": 44059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilikwe",
+    "region": "Central District",
+    "lat": -22.799,
+    "lon": 27.1938,
+    "population": 43727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mochudi",
+    "region": "Kgatleng District",
+    "lat": -24.4167,
+    "lon": 26.15,
+    "population": 43246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pilane",
+    "region": "Kgatleng District",
+    "lat": -24.45,
+    "lon": 26.1333,
+    "population": 43074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sehithwa",
+    "region": "North-West District",
+    "lat": -20.4667,
+    "lon": 22.7167,
+    "population": 41120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanye",
+    "region": "Southern District",
+    "lat": -24.9668,
+    "lon": 25.3327,
+    "population": 41099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nata",
+    "region": "Central District",
+    "lat": -20.2167,
+    "lon": 26.1833,
+    "population": 40010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makobeng",
+    "region": "Central District",
+    "lat": -22.9964,
+    "lon": 27.6677,
+    "population": 39895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mookane",
+    "region": "Central District",
+    "lat": -23.6881,
+    "lon": 26.6595,
+    "population": 39609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lehututu",
+    "region": "Kgalagadi District",
+    "lat": -23.9667,
+    "lon": 21.8667,
+    "population": 39604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mathambgwane",
+    "region": "Central District",
+    "lat": -20.9907,
+    "lon": 27.3316,
+    "population": 39058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otse",
+    "region": "South-East District",
+    "lat": -25.0167,
+    "lon": 25.7333,
+    "population": 38756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaphatshwe",
+    "region": "Kweneng District",
+    "lat": -24.5739,
+    "lon": 25.8342,
+    "population": 37833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makaleng",
+    "region": "North-East District",
+    "lat": -20.9,
+    "lon": 27.2833,
+    "population": 37556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mathakola",
+    "region": "Central District",
+    "lat": -22.7213,
+    "lon": 27.3106,
+    "population": 37405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaborone",
+    "region": "South-East District",
+    "lat": -24.7623,
+    "lon": 25.7995,
+    "population": 36819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gweta",
+    "region": "Central District",
+    "lat": -20.1833,
+    "lon": 25.2333,
+    "population": 36648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalamare",
+    "region": "Central District",
+    "lat": -22.9337,
+    "lon": 26.5703,
+    "population": 35825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mopipi",
+    "region": "Central District",
+    "lat": -21.1833,
+    "lon": 24.8833,
+    "population": 35815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosopa",
+    "region": "Southern District",
+    "lat": -24.7718,
+    "lon": 25.4216,
+    "population": 33755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kang",
+    "region": "Kgalagadi District",
+    "lat": -23.6752,
+    "lon": 22.7876,
+    "population": 33680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gobojango",
+    "region": "Central District",
+    "lat": -21.8327,
+    "lon": 28.7288,
+    "population": 33547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bokaa",
+    "region": "Kgatleng District",
+    "lat": -24.45,
+    "lon": 26.0167,
+    "population": 33404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Janeng",
+    "region": "South-East District",
+    "lat": -25.4167,
+    "lon": 25.55,
+    "population": 33396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nkoyaphiri",
+    "region": "Kweneng District",
+    "lat": -24.6322,
+    "lon": 25.8314,
+    "population": 33214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Werda",
+    "region": "Kgalagadi District",
+    "lat": -25.2667,
+    "lon": 23.2833,
+    "population": 33192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dutlwe",
+    "region": "Kweneng District",
+    "lat": -23.9833,
+    "lon": 23.9,
+    "population": 32968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sekoma",
+    "region": "Southern District",
+    "lat": -24.4,
+    "lon": 23.8833,
+    "population": 32893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palapye",
+    "region": "Central District",
+    "lat": -22.5461,
+    "lon": 27.1251,
+    "population": 31842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dukwe",
+    "region": "North-East District",
+    "lat": -20.5833,
+    "lon": 26.4167,
+    "population": 31592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogoditshane",
+    "region": "Kweneng District",
+    "lat": -24.6269,
+    "lon": 25.8656,
+    "population": 31388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letlhakane",
+    "region": "Central District",
+    "lat": -21.4149,
+    "lon": 25.5926,
+    "population": 31377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Metsemotlhaba",
+    "region": "Kweneng District",
+    "lat": -24.5514,
+    "lon": 25.8031,
+    "population": 29921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hukuntsi",
+    "region": "Kgalagadi District",
+    "lat": -23.9988,
+    "lon": 21.7796,
+    "population": 29880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakops",
+    "region": "Central District",
+    "lat": -21.0226,
+    "lon": 24.3605,
+    "population": 29447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dekar",
+    "region": "Ghanzi District",
+    "lat": -21.5333,
+    "lon": 21.9333,
+    "population": 28177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pandamatenga",
+    "region": "North-West District",
+    "lat": -18.5278,
+    "lon": 25.627,
+    "population": 28166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maunatlala",
+    "region": "Central District",
+    "lat": -22.597,
+    "lon": 27.6301,
+    "population": 27610,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letsheng",
+    "region": "Central District",
+    "lat": -22.6638,
+    "lon": 27.2239,
+    "population": 27455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khakhea",
+    "region": "Southern District",
+    "lat": -24.6895,
+    "lon": 23.494,
+    "population": 27412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tshabong",
+    "region": "Kgalagadi District",
+    "lat": -26.05,
+    "lon": 22.45,
+    "population": 26474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makwata",
+    "region": "Central District",
+    "lat": -23.2833,
+    "lon": 27.3,
+    "population": 25087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nokaneng",
+    "region": "North-West District",
+    "lat": -19.6667,
+    "lon": 22.2667,
+    "population": 25082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mmopone",
+    "region": "Kweneng District",
+    "lat": -24.5669,
+    "lon": 25.8742,
+    "population": 23862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letlhakeng",
+    "region": "Kweneng District",
+    "lat": -24.0944,
+    "lon": 25.0298,
+    "population": 23250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosetse",
+    "region": "Central District",
+    "lat": -20.75,
+    "lon": 26.65,
+    "population": 22644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sua",
+    "region": "Central District",
+    "lat": -20.05,
+    "lon": 26.2,
+    "population": 22385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manyana",
+    "region": "Kgalagadi District",
+    "lat": -23.4,
+    "lon": 21.7167,
+    "population": 21022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tobane",
+    "region": "Central District",
+    "lat": -21.95,
+    "lon": 27.9,
+    "population": 20548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghanzi",
+    "region": "Ghanzi District",
+    "lat": -21.6978,
+    "lon": 21.6458,
+    "population": 20387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sebina",
+    "region": "North-East District",
+    "lat": -20.8667,
+    "lon": 27.25,
+    "population": 20337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molepolole",
+    "region": "Kweneng District",
+    "lat": -24.4066,
+    "lon": 25.4951,
+    "population": 20158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ratholo",
+    "region": "Central District",
+    "lat": -22.7245,
+    "lon": 27.572,
+    "population": 19762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machaneng",
+    "region": "Central District",
+    "lat": -23.1862,
+    "lon": 27.4886,
+    "population": 19520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenchwe Le Tau",
+    "region": "Kweneng District",
+    "lat": -24.3833,
+    "lon": 25.85,
+    "population": 19192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mogapi",
+    "region": "Central District",
+    "lat": -22.323,
+    "lon": 27.8349,
+    "population": 18964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramotswa",
+    "region": "South-East District",
+    "lat": -24.8716,
+    "lon": 25.8699,
+    "population": 18861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mmathubudukwane",
+    "region": "Kgatleng District",
+    "lat": -24.6,
+    "lon": 26.4333,
+    "population": 17844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramokgonami",
+    "region": "Central District",
+    "lat": -22.8645,
+    "lon": 27.4239,
+    "population": 17305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sefophe",
+    "region": "Central District",
+    "lat": -22.1833,
+    "lon": 27.9667,
+    "population": 17225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masunga",
+    "region": "North-East District",
+    "lat": -20.6245,
+    "lon": 27.4488,
+    "population": 14452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orapa",
+    "region": "Central District",
+    "lat": -21.3115,
+    "lon": 25.3764,
+    "population": 14408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maun",
+    "region": "North-West District",
+    "lat": -19.9833,
+    "lon": 23.4167,
+    "population": 14336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamasane",
+    "region": "Central District",
+    "lat": -22.4184,
+    "lon": 27.4013,
+    "population": 12511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gabane",
+    "region": "Kweneng District",
+    "lat": -24.6667,
+    "lon": 25.7822,
+    "population": 12448,
+    "timezone": "UTC"
+  }
+]

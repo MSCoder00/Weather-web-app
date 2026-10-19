@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "Heisdorf",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6721,
+    "lon": 6.142,
+    "population": 49215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waldbillig",
+    "region": "Canton of Echternach",
+    "lat": 49.7964,
+    "lon": 6.2843,
+    "population": 49131,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belvaux",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5101,
+    "lon": 5.9241,
+    "population": 48904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosport",
+    "region": "Canton of Echternach",
+    "lat": 49.8047,
+    "lon": 6.5053,
+    "population": 48321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamadelaine",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5464,
+    "lon": 5.8564,
+    "population": 48258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schengen",
+    "region": "Canton of Remich",
+    "lat": 49.47,
+    "lon": 6.362,
+    "population": 48249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obercorn",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5136,
+    "lon": 5.8961,
+    "population": 48067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Troisvierges",
+    "region": "Canton of Clervaux",
+    "lat": 50.1211,
+    "lon": 6.0003,
+    "population": 48041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soleuvre",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5215,
+    "lon": 5.9378,
+    "population": 47059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bous",
+    "region": "Canton of Remich",
+    "lat": 49.5539,
+    "lon": 6.3292,
+    "population": 46833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hesperange",
+    "region": "Canton of Luxembourg",
+    "lat": 49.5681,
+    "lon": 6.1514,
+    "population": 45219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beckerich",
+    "region": "Canton of Redange",
+    "lat": 49.7306,
+    "lon": 5.8872,
+    "population": 45138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berdorf",
+    "region": "Canton of Echternach",
+    "lat": 49.8205,
+    "lon": 6.3495,
+    "population": 45009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grosbous",
+    "region": "Canton of Redange",
+    "lat": 49.8278,
+    "lon": 5.9672,
+    "population": 44816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strassen",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6206,
+    "lon": 6.0733,
+    "population": 44552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leudelange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5683,
+    "lon": 6.0653,
+    "population": 44267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirchberg",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6239,
+    "lon": 6.1494,
+    "population": 43250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frisange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5162,
+    "lon": 6.1886,
+    "population": 43179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goesdorf",
+    "region": "Canton of Wiltz",
+    "lat": 49.9213,
+    "lon": 5.966,
+    "population": 43007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Differdange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5242,
+    "lon": 5.8914,
+    "population": 42785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Redange-sur-Attert",
+    "region": "Canton of Redange",
+    "lat": 49.7644,
+    "lon": 5.89,
+    "population": 42734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonderange",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.6954,
+    "lon": 6.2458,
+    "population": 42688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Béreldange",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6551,
+    "lon": 6.1187,
+    "population": 42594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pontpierre",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5364,
+    "lon": 6.0294,
+    "population": 42218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dudelange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.4806,
+    "lon": 6.0875,
+    "population": 42096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Walferdange",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6632,
+    "lon": 6.1322,
+    "population": 41863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenningen",
+    "region": "Canton of Remich",
+    "lat": 49.5986,
+    "lon": 6.3681,
+    "population": 41142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mertzig",
+    "region": "Canton of Diekirch",
+    "lat": 49.8339,
+    "lon": 6.0075,
+    "population": 40946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Betzdorf",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.6833,
+    "lon": 6.35,
+    "population": 40846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heffingen",
+    "region": "Canton of Mersch",
+    "lat": 49.7691,
+    "lon": 6.2405,
+    "population": 40808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandweiler",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6147,
+    "lon": 6.2222,
+    "population": 40723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moutfort",
+    "region": "Canton of Luxembourg",
+    "lat": 49.5853,
+    "lon": 6.2556,
+    "population": 40718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanem",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5481,
+    "lon": 5.9289,
+    "population": 40683,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contern",
+    "region": "Canton of Luxembourg",
+    "lat": 49.5819,
+    "lon": 6.2267,
+    "population": 40188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steinfort",
+    "region": "Canton of Capellen",
+    "lat": 49.6614,
+    "lon": 5.9192,
+    "population": 39864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Warken",
+    "region": "Canton of Diekirch",
+    "lat": 49.8592,
+    "lon": 6.0842,
+    "population": 39515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niederfeulen",
+    "region": "Canton of Diekirch",
+    "lat": 49.8556,
+    "lon": 6.0472,
+    "population": 39190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fischbach",
+    "region": "Canton of Mersch",
+    "lat": 49.746,
+    "lon": 6.187,
+    "population": 38754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wiltz",
+    "region": "Canton of Wiltz",
+    "lat": 49.9655,
+    "lon": 5.9339,
+    "population": 38686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fentange",
+    "region": "Canton of Luxembourg",
+    "lat": 49.5628,
+    "lon": 6.1539,
+    "population": 38664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pétange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5583,
+    "lon": 5.8806,
+    "population": 38590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hautcharage",
+    "region": "Canton of Capellen",
+    "lat": 49.575,
+    "lon": 5.9097,
+    "population": 38382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kopstal",
+    "region": "Canton of Capellen",
+    "lat": 49.6644,
+    "lon": 6.0731,
+    "population": 38342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grevenmacher",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.6775,
+    "lon": 6.4402,
+    "population": 38315,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colmar",
+    "region": "Canton of Mersch",
+    "lat": 49.8103,
+    "lon": 6.0972,
+    "population": 37675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergem",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.525,
+    "lon": 6.0422,
+    "population": 37603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bourscheid",
+    "region": "Canton of Diekirch",
+    "lat": 49.9086,
+    "lon": 6.0675,
+    "population": 37487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niederanven",
+    "region": "Canton of Luxembourg",
+    "lat": 49.652,
+    "lon": 6.262,
+    "population": 37476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beaufort",
+    "region": "Canton of Echternach",
+    "lat": 49.8358,
+    "lon": 6.2917,
+    "population": 37016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bettendorf",
+    "region": "Canton of Diekirch",
+    "lat": 49.8767,
+    "lon": 6.2181,
+    "population": 36306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hosingen",
+    "region": "Canton of Clervaux",
+    "lat": 50.0122,
+    "lon": 6.0909,
+    "population": 36287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mondercange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5331,
+    "lon": 5.9883,
+    "population": 36036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olm",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6572,
+    "lon": 6.0003,
+    "population": 35867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mondorf-les-Bains",
+    "region": "Canton of Remich",
+    "lat": 49.505,
+    "lon": 6.2811,
+    "population": 35474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vichten",
+    "region": "Canton of Redange",
+    "lat": 49.8031,
+    "lon": 6,
+    "population": 35148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bettembourg",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5186,
+    "lon": 6.1028,
+    "population": 35132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eischen",
+    "region": "Canton of Capellen",
+    "lat": 49.6856,
+    "lon": 5.8786,
+    "population": 34836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roeser",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5372,
+    "lon": 6.1463,
+    "population": 34792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Echternach",
+    "region": "Canton of Echternach",
+    "lat": 49.8121,
+    "lon": 6.4185,
+    "population": 34573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Winseler",
+    "region": "Canton of Wiltz",
+    "lat": 49.9678,
+    "lon": 5.8903,
+    "population": 34422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mersch",
+    "region": "Canton of Mersch",
+    "lat": 49.7489,
+    "lon": 6.1061,
+    "population": 34270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bettborn",
+    "region": "Canton of Redange",
+    "lat": 49.7953,
+    "lon": 5.9411,
+    "population": 34060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Feulen",
+    "region": "Canton of Diekirch",
+    "lat": 49.85,
+    "lon": 6.0167,
+    "population": 33882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nommern",
+    "region": "Canton of Mersch",
+    "lat": 49.7869,
+    "lon": 6.1747,
+    "population": 33860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boulaide",
+    "region": "Canton of Wiltz",
+    "lat": 49.8878,
+    "lon": 5.8164,
+    "population": 33703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alzingen",
+    "region": "Canton of Luxembourg",
+    "lat": 49.565,
+    "lon": 6.1636,
+    "population": 33492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koerich",
+    "region": "Canton of Capellen",
+    "lat": 49.67,
+    "lon": 5.95,
+    "population": 33231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Commune de la Vallée de l’Ernz",
+    "region": "Canton of Diekirch",
+    "lat": 49.8215,
+    "lon": 6.2175,
+    "population": 33089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tétange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.4758,
+    "lon": 6.0422,
+    "population": 32254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schieren",
+    "region": "Canton of Diekirch",
+    "lat": 49.8306,
+    "lon": 6.0986,
+    "population": 32145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Capellen",
+    "region": "Canton of Capellen",
+    "lat": 49.645,
+    "lon": 5.9908,
+    "population": 31020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Waldbredimus",
+    "region": "Canton of Remich",
+    "lat": 49.5568,
+    "lon": 6.2879,
+    "population": 30399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rambrouch",
+    "region": "Canton of Redange",
+    "lat": 49.8308,
+    "lon": 5.845,
+    "population": 30249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tandel",
+    "region": "Canton of Vianden",
+    "lat": 49.8975,
+    "lon": 6.1833,
+    "population": 29955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niedercorn",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5361,
+    "lon": 5.8931,
+    "population": 29917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garnich",
+    "region": "Canton of Capellen",
+    "lat": 49.6167,
+    "lon": 5.9525,
+    "population": 29681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clemency",
+    "region": "Canton of Capellen",
+    "lat": 49.5967,
+    "lon": 5.8758,
+    "population": 29637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bissen",
+    "region": "Canton of Mersch",
+    "lat": 49.7873,
+    "lon": 6.0654,
+    "population": 28580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kehlen",
+    "region": "Canton of Capellen",
+    "lat": 49.6683,
+    "lon": 6.0358,
+    "population": 28510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aspelt",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5228,
+    "lon": 6.2247,
+    "population": 28440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Larochette",
+    "region": "Canton of Mersch",
+    "lat": 49.7836,
+    "lon": 6.2189,
+    "population": 28333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bascharage",
+    "region": "Canton of Capellen",
+    "lat": 49.5673,
+    "lon": 5.9073,
+    "population": 27376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Erpeldange",
+    "region": "Canton of Diekirch",
+    "lat": 49.8647,
+    "lon": 6.1147,
+    "population": 27337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parc Hosingen",
+    "region": "Canton of Clervaux",
+    "lat": 49.9974,
+    "lon": 6.0907,
+    "population": 27137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kayl",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.4892,
+    "lon": 6.0397,
+    "population": 27084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saeul",
+    "region": "Canton of Redange",
+    "lat": 49.7272,
+    "lon": 5.9864,
+    "population": 26754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wincrange",
+    "region": "Canton of Clervaux",
+    "lat": 50.0533,
+    "lon": 5.9192,
+    "population": 26630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flaxweiler",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.666,
+    "lon": 6.3432,
+    "population": 26626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Clervaux",
+    "region": "Canton of Clervaux",
+    "lat": 50.0547,
+    "lon": 6.0314,
+    "population": 26052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luxembourg",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6117,
+    "lon": 6.13,
+    "population": 25698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Itzig",
+    "region": "Canton of Luxembourg",
+    "lat": 49.5877,
+    "lon": 6.1707,
+    "population": 25149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steinsel",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6769,
+    "lon": 6.1239,
+    "population": 25122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boevange-sur-Attert",
+    "region": "Canton of Mersch",
+    "lat": 49.7726,
+    "lon": 6.0153,
+    "population": 24932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mamer",
+    "region": "Canton of Capellen",
+    "lat": 49.6275,
+    "lon": 6.0233,
+    "population": 24604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ell",
+    "region": "Canton of Redange",
+    "lat": 49.7639,
+    "lon": 5.8572,
+    "population": 24314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Useldange",
+    "region": "Canton of Redange",
+    "lat": 49.7697,
+    "lon": 5.9822,
+    "population": 24152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Consdorf",
+    "region": "Canton of Echternach",
+    "lat": 49.7802,
+    "lon": 6.3395,
+    "population": 24117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lorentzweiler",
+    "region": "Canton of Mersch",
+    "lat": 49.7013,
+    "lon": 6.1423,
+    "population": 24082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dippach",
+    "region": "Canton of Capellen",
+    "lat": 49.587,
+    "lon": 5.9833,
+    "population": 22669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lintgen",
+    "region": "Canton of Mersch",
+    "lat": 49.7224,
+    "lon": 6.1302,
+    "population": 22472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiischpelt",
+    "region": "Canton of Wiltz",
+    "lat": 49.9783,
+    "lon": 6.0076,
+    "population": 22395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biwer",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.706,
+    "lon": 6.372,
+    "population": 22083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalheim",
+    "region": "Canton of Remich",
+    "lat": 49.5408,
+    "lon": 6.2597,
+    "population": 21466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diekirch",
+    "region": "Canton of Diekirch",
+    "lat": 49.8678,
+    "lon": 6.1558,
+    "population": 20833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reisdorf",
+    "region": "Canton of Diekirch",
+    "lat": 49.8686,
+    "lon": 6.2678,
+    "population": 20506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schrassig",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6101,
+    "lon": 6.259,
+    "population": 19953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bertrange",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6111,
+    "lon": 6.05,
+    "population": 19474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esch-sur-Sûre",
+    "region": "Canton of Wiltz",
+    "lat": 49.9114,
+    "lon": 5.9364,
+    "population": 18992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putscheid",
+    "region": "Canton of Vianden",
+    "lat": 49.9608,
+    "lon": 6.1431,
+    "population": 18477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vianden",
+    "region": "Canton of Vianden",
+    "lat": 49.935,
+    "lon": 6.2089,
+    "population": 18138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weiler-la-Tour",
+    "region": "Canton of Luxembourg",
+    "lat": 49.5408,
+    "lon": 6.2008,
+    "population": 18115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lac de la Haute-Sûre",
+    "region": "Canton of Wiltz",
+    "lat": 49.9167,
+    "lon": 5.8333,
+    "population": 18093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wasserbillig",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.7153,
+    "lon": 6.4986,
+    "population": 17976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schifflange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5064,
+    "lon": 6.0128,
+    "population": 17614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wilwerwiltz",
+    "region": "Canton of Wiltz",
+    "lat": 49.9889,
+    "lon": 5.9992,
+    "population": 17587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Commune de Préizerdaul",
+    "region": "Canton of Redange",
+    "lat": 49.8011,
+    "lon": 5.933,
+    "population": 17543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Septfontaines",
+    "region": "Canton of Capellen",
+    "lat": 49.7011,
+    "lon": 5.9672,
+    "population": 17484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Käerjeng",
+    "region": "Canton of Capellen",
+    "lat": 49.5831,
+    "lon": 5.8989,
+    "population": 17400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumelange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.4596,
+    "lon": 6.0309,
+    "population": 17148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stadtbredimus",
+    "region": "Canton of Remich",
+    "lat": 49.5628,
+    "lon": 6.3644,
+    "population": 17118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wormeldange",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.6111,
+    "lon": 6.4055,
+    "population": 16950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Junglinster",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.7072,
+    "lon": 6.2531,
+    "population": 16632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ettelbruck",
+    "region": "Canton of Diekirch",
+    "lat": 49.8475,
+    "lon": 6.1042,
+    "population": 16619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Weiswampach",
+    "region": "Canton of Clervaux",
+    "lat": 50.1372,
+    "lon": 6.075,
+    "population": 16399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medernach",
+    "region": "Canton of Diekirch",
+    "lat": 49.8096,
+    "lon": 6.2152,
+    "population": 15877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bavigne",
+    "region": "Canton of Wiltz",
+    "lat": 49.9219,
+    "lon": 5.8494,
+    "population": 15843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Remich",
+    "region": "Canton of Remich",
+    "lat": 49.545,
+    "lon": 6.3669,
+    "population": 15728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodange",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5464,
+    "lon": 5.8408,
+    "population": 15421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manternach",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.7028,
+    "lon": 6.4264,
+    "population": 15062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schouweiler",
+    "region": "Canton of Capellen",
+    "lat": 49.5825,
+    "lon": 5.9564,
+    "population": 14914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mompach",
+    "region": "Canton of Echternach",
+    "lat": 49.7461,
+    "lon": 6.465,
+    "population": 13614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Müllendorf",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6803,
+    "lon": 6.13,
+    "population": 13540,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuntange",
+    "region": "Canton of Mersch",
+    "lat": 49.7178,
+    "lon": 6.0103,
+    "population": 13520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schuttrange",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6206,
+    "lon": 6.2686,
+    "population": 13451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helmsange",
+    "region": "Canton of Luxembourg",
+    "lat": 49.6528,
+    "lon": 6.1414,
+    "population": 12296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rollingen",
+    "region": "Canton of Mersch",
+    "lat": 49.7417,
+    "lon": 6.1144,
+    "population": 11920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hobscheid",
+    "region": "Canton of Capellen",
+    "lat": 49.6886,
+    "lon": 5.9147,
+    "population": 11817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mertert",
+    "region": "Canton of Grevenmacher",
+    "lat": 49.7026,
+    "lon": 6.4797,
+    "population": 11808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wahl",
+    "region": "Canton of Redange",
+    "lat": 49.8367,
+    "lon": 5.9064,
+    "population": 11501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bridel",
+    "region": "Canton of Capellen",
+    "lat": 49.6558,
+    "lon": 6.08,
+    "population": 10640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bech",
+    "region": "Canton of Echternach",
+    "lat": 49.7526,
+    "lon": 6.3638,
+    "population": 10620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esch-sur-Alzette",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.4958,
+    "lon": 5.9806,
+    "population": 10585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Crauthem",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5356,
+    "lon": 6.1469,
+    "population": 10451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reckange-sur-Mess",
+    "region": "Canton of Esch-sur-Alzette",
+    "lat": 49.5625,
+    "lon": 6.0089,
+    "population": 10218,
+    "timezone": "UTC"
+  }
+]

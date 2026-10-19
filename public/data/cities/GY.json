@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Mabaruma",
+    "region": "Barima-Waini",
+    "lat": 8.2,
+    "lon": -59.7833,
+    "population": 49576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahdia",
+    "region": "Potaro-Siparuni",
+    "lat": 5.2667,
+    "lon": -59.15,
+    "population": 46017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anna Regina",
+    "region": "Pomeroon-Supenaam",
+    "lat": 7.2644,
+    "lon": -58.5077,
+    "population": 43362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parika",
+    "region": "Essequibo Islands-West Demerara",
+    "lat": 6.8371,
+    "lon": -58.4294,
+    "population": 41750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linden",
+    "region": "Upper Demerara-Berbice",
+    "lat": 6.0081,
+    "lon": -58.3071,
+    "population": 38179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lethem",
+    "region": "Upper Takutu-Upper Essequibo",
+    "lat": 3.3833,
+    "lon": -59.8,
+    "population": 36036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skeldon",
+    "region": "East Berbice-Corentyne",
+    "lat": 5.8833,
+    "lon": -57.1333,
+    "population": 31808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bartica",
+    "region": "Cuyuni-Mazaruni",
+    "lat": 6.408,
+    "lon": -58.6219,
+    "population": 31538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahaica Village",
+    "region": "Demerara-Mahaica",
+    "lat": 6.6841,
+    "lon": -57.9218,
+    "population": 18882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "New Amsterdam",
+    "region": "East Berbice-Corentyne",
+    "lat": 6.2479,
+    "lon": -57.5171,
+    "population": 17704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Georgetown",
+    "region": "Demerara-Mahaica",
+    "lat": 6.8045,
+    "lon": -58.1553,
+    "population": 15516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahaicony Village",
+    "region": "Mahaica-Berbice",
+    "lat": 6.5763,
+    "lon": -57.8049,
+    "population": 15462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vreed-en-Hoop",
+    "region": "Essequibo Islands-West Demerara",
+    "lat": 6.8093,
+    "lon": -58.198,
+    "population": 14386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosignol",
+    "region": "Mahaica-Berbice",
+    "lat": 6.271,
+    "lon": -57.537,
+    "population": 10248,
+    "timezone": "UTC"
+  }
+]

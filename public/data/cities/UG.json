@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Moyo",
+    "region": "Northern Region",
+    "lat": 3.6609,
+    "lon": 31.7247,
+    "population": 49191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mubende",
+    "region": "Central Region",
+    "lat": 0.5585,
+    "lon": 31.3949,
+    "population": 49012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bwizibwera",
+    "region": "Western Region",
+    "lat": -0.5917,
+    "lon": 30.6286,
+    "population": 48829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kireka",
+    "region": "Central Region",
+    "lat": 0.3475,
+    "lon": 32.6492,
+    "population": 48793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muhororo",
+    "region": "Western Region",
+    "lat": 0.9381,
+    "lon": 30.7594,
+    "population": 48216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayuge",
+    "region": "Eastern Region",
+    "lat": 0.4597,
+    "lon": 33.4803,
+    "population": 48213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyachera",
+    "region": "Western Region",
+    "lat": -0.9,
+    "lon": 30.4167,
+    "population": 47982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Busia",
+    "region": "Eastern Region",
+    "lat": 0.4659,
+    "lon": 34.0922,
+    "population": 47646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lugazi",
+    "region": "Central Region",
+    "lat": 0.3679,
+    "lon": 32.9376,
+    "population": 46690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulambuli District",
+    "region": "Eastern Region",
+    "lat": 1.3205,
+    "lon": 34.2806,
+    "population": 46303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Njeru",
+    "region": "Central Region",
+    "lat": 0.4417,
+    "lon": 33.1792,
+    "population": 45955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulu",
+    "region": "Northern Region",
+    "lat": 2.7746,
+    "lon": 32.299,
+    "population": 45655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasese",
+    "region": "Western Region",
+    "lat": 0.1833,
+    "lon": 30.0833,
+    "population": 45454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pader Palwo",
+    "region": "Northern Region",
+    "lat": 2.8006,
+    "lon": 33.135,
+    "population": 44416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kayunga",
+    "region": "Central Region",
+    "lat": 0.7025,
+    "lon": 32.8886,
+    "population": 42844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mpigi",
+    "region": "Central Region",
+    "lat": 0.225,
+    "lon": 32.3136,
+    "population": 42086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tororo",
+    "region": "Eastern Region",
+    "lat": 0.693,
+    "lon": 34.1808,
+    "population": 41801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbarara",
+    "region": "Western Region",
+    "lat": -0.6047,
+    "lon": 30.6485,
+    "population": 41031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oyam District",
+    "region": "Northern Region",
+    "lat": 2.3813,
+    "lon": 32.5007,
+    "population": 40956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiruhura",
+    "region": "Western Region",
+    "lat": -0.1966,
+    "lon": 30.8445,
+    "population": 40829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibanda District",
+    "region": "Western Region",
+    "lat": -0.081,
+    "lon": 30.556,
+    "population": 40741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugiri",
+    "region": "Eastern Region",
+    "lat": 0.5714,
+    "lon": 33.7417,
+    "population": 39762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbale",
+    "region": "Eastern Region",
+    "lat": 1.0821,
+    "lon": 34.175,
+    "population": 39699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masindi Port",
+    "region": "Western Region",
+    "lat": 1.6961,
+    "lon": 32.0861,
+    "population": 39586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyenjojo",
+    "region": "Western Region",
+    "lat": 0.6328,
+    "lon": 30.6214,
+    "population": 37292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bugembe",
+    "region": "Eastern Region",
+    "lat": 0.4821,
+    "lon": 33.2407,
+    "population": 36265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nebbi",
+    "region": "Northern Region",
+    "lat": 2.4783,
+    "lon": 31.0889,
+    "population": 35694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mubende District",
+    "region": "Central Region",
+    "lat": 0.5,
+    "lon": 31.5,
+    "population": 34820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arua",
+    "region": "Northern Region",
+    "lat": 3.0201,
+    "lon": 30.911,
+    "population": 34159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Otuke District",
+    "region": "Northern Region",
+    "lat": 2.4837,
+    "lon": 33.342,
+    "population": 33701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namasuba",
+    "region": "Central Region",
+    "lat": 0.6894,
+    "lon": 32.4214,
+    "population": 33515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iganga",
+    "region": "Eastern Region",
+    "lat": 0.6092,
+    "lon": 33.4686,
+    "population": 33341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kigorobya",
+    "region": "Western Region",
+    "lat": 1.6162,
+    "lon": 31.3089,
+    "population": 33237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakasongola",
+    "region": "Central Region",
+    "lat": 1.3089,
+    "lon": 32.4564,
+    "population": 32948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitgum",
+    "region": "Northern Region",
+    "lat": 3.2783,
+    "lon": 32.8867,
+    "population": 31829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumi",
+    "region": "Eastern Region",
+    "lat": 1.4608,
+    "lon": 33.9361,
+    "population": 31174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukomansimbi District",
+    "region": "Central Region",
+    "lat": -0.1285,
+    "lon": 31.6253,
+    "population": 31160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wakiso District",
+    "region": "Central Region",
+    "lat": 0.2376,
+    "lon": 32.4784,
+    "population": 31135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibale",
+    "region": "Western Region",
+    "lat": 0.8,
+    "lon": 31.0667,
+    "population": 30362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soroti",
+    "region": "Eastern Region",
+    "lat": 1.7146,
+    "lon": 33.6111,
+    "population": 30279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamuli",
+    "region": "Eastern Region",
+    "lat": 0.9472,
+    "lon": 33.1197,
+    "population": 29552,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotido",
+    "region": "Northern Region",
+    "lat": 2.9806,
+    "lon": 34.1331,
+    "population": 29442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sembabule",
+    "region": "Central Region",
+    "lat": -0.0772,
+    "lon": 31.4567,
+    "population": 29204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jinja",
+    "region": "Eastern Region",
+    "lat": 0.439,
+    "lon": 33.2032,
+    "population": 29022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoima",
+    "region": "Western Region",
+    "lat": 1.4331,
+    "lon": 31.3524,
+    "population": 28880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luwero",
+    "region": "Central Region",
+    "lat": 0.8492,
+    "lon": 32.4731,
+    "population": 28604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byakabanda",
+    "region": "Central Region",
+    "lat": -0.7425,
+    "lon": 31.4064,
+    "population": 27476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pallisa",
+    "region": "Eastern Region",
+    "lat": 1.145,
+    "lon": 33.7094,
+    "population": 27083,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampala District",
+    "region": "Central Region",
+    "lat": 0.3351,
+    "lon": 32.5831,
+    "population": 26230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ibanda",
+    "region": "Western Region",
+    "lat": -0.134,
+    "lon": 30.4962,
+    "population": 25277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sironko",
+    "region": "Eastern Region",
+    "lat": 1.2313,
+    "lon": 34.2477,
+    "population": 25232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bweyogerere",
+    "region": "Central Region",
+    "lat": 0.3577,
+    "lon": 32.6633,
+    "population": 25147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kabale",
+    "region": "Western Region",
+    "lat": -1.2486,
+    "lon": 29.9899,
+    "population": 25064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bukwa District",
+    "region": "Eastern Region",
+    "lat": 1.2712,
+    "lon": 34.6678,
+    "population": 24815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apac",
+    "region": "Northern Region",
+    "lat": 1.9756,
+    "lon": 32.5386,
+    "population": 24359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mukono",
+    "region": "Central Region",
+    "lat": 0.3533,
+    "lon": 32.7553,
+    "population": 24225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amudat",
+    "region": "Northern Region",
+    "lat": 1.95,
+    "lon": 34.95,
+    "population": 23885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paidha",
+    "region": "Northern Region",
+    "lat": 2.4167,
+    "lon": 30.9855,
+    "population": 22627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kibuku District",
+    "region": "Eastern Region",
+    "lat": 1.05,
+    "lon": 33.8088,
+    "population": 22583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiboga",
+    "region": "Central Region",
+    "lat": 0.9161,
+    "lon": 31.7742,
+    "population": 22460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Margherita",
+    "region": "Western Region",
+    "lat": 0.4186,
+    "lon": 29.8911,
+    "population": 22277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wobulenzi",
+    "region": "Central Region",
+    "lat": 0.7283,
+    "lon": 32.5122,
+    "population": 22053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kajansi",
+    "region": "Central Region",
+    "lat": 0.2155,
+    "lon": 32.5345,
+    "population": 21836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gomba District",
+    "region": "Central Region",
+    "lat": 0.2002,
+    "lon": 31.7502,
+    "population": 21778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Wakiso",
+    "region": "Central Region",
+    "lat": 0.4044,
+    "lon": 32.4594,
+    "population": 21413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fort Portal",
+    "region": "Western Region",
+    "lat": 0.6617,
+    "lon": 30.2748,
+    "population": 21272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yumbe",
+    "region": "Northern Region",
+    "lat": 3.4651,
+    "lon": 31.2469,
+    "population": 18205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapchorwa",
+    "region": "Eastern Region",
+    "lat": 1.401,
+    "lon": 34.4504,
+    "population": 18153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Entebbe",
+    "region": "Central Region",
+    "lat": 0.0562,
+    "lon": 32.4795,
+    "population": 17824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masindi",
+    "region": "Western Region",
+    "lat": 1.6744,
+    "lon": 31.715,
+    "population": 17459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masaka",
+    "region": "Central Region",
+    "lat": -0.3338,
+    "lon": 31.7341,
+    "population": 17427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buvuma District",
+    "region": "Central Region",
+    "lat": -0.3674,
+    "lon": 33.2007,
+    "population": 16449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisoro",
+    "region": "Western Region",
+    "lat": -1.2854,
+    "lon": 29.685,
+    "population": 16298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lira",
+    "region": "Northern Region",
+    "lat": 2.2499,
+    "lon": 32.8999,
+    "population": 15309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rukungiri",
+    "region": "Western Region",
+    "lat": -0.8411,
+    "lon": 29.9419,
+    "population": 14954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Busembatia",
+    "region": "Eastern Region",
+    "lat": 0.7772,
+    "lon": 33.6236,
+    "population": 14919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyotera",
+    "region": "Central Region",
+    "lat": -0.6156,
+    "lon": 31.5175,
+    "population": 14756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buwenge",
+    "region": "Eastern Region",
+    "lat": 0.65,
+    "lon": 33.1713,
+    "population": 14709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bundibugyo",
+    "region": "Western Region",
+    "lat": 0.7112,
+    "lon": 30.0647,
+    "population": 13755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanungu",
+    "region": "Western Region",
+    "lat": -0.9575,
+    "lon": 29.7897,
+    "population": 13706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyantonde",
+    "region": "Central Region",
+    "lat": -0.4031,
+    "lon": 31.1572,
+    "population": 13591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mityana",
+    "region": "Central Region",
+    "lat": 0.4175,
+    "lon": 32.0228,
+    "population": 13584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kagadi",
+    "region": "Western Region",
+    "lat": 0.9378,
+    "lon": 30.8089,
+    "population": 13481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kanoni",
+    "region": "Central Region",
+    "lat": 0.1772,
+    "lon": 31.8811,
+    "population": 13427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamwenge",
+    "region": "Western Region",
+    "lat": 0.1866,
+    "lon": 30.4539,
+    "population": 13064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kampala",
+    "region": "Central Region",
+    "lat": 0.3163,
+    "lon": 32.5822,
+    "population": 12675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pader",
+    "region": "Northern Region",
+    "lat": 3.05,
+    "lon": 33.2167,
+    "population": 12541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilembe",
+    "region": "Western Region",
+    "lat": 0.1983,
+    "lon": 30.013,
+    "population": 12501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moroto",
+    "region": "Northern Region",
+    "lat": 2.5345,
+    "lon": 34.6666,
+    "population": 12314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Adjumani",
+    "region": "Northern Region",
+    "lat": 3.3779,
+    "lon": 31.7909,
+    "population": 11786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ntungamo",
+    "region": "Western Region",
+    "lat": -0.8794,
+    "lon": 30.2642,
+    "population": 11168,
+    "timezone": "UTC"
+  }
+]

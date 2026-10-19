@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Jamba",
+    "region": "Huíla Province",
+    "lat": -14.7629,
+    "lon": 15.8349,
+    "population": 49787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uacu Cungo",
+    "region": "Cuanza Sul",
+    "lat": -11.3567,
+    "lon": 15.1172,
+    "population": 49656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longonjo",
+    "region": "Huambo Province",
+    "lat": -12.9067,
+    "lon": 15.2533,
+    "population": 48587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lubango",
+    "region": "Huíla Province",
+    "lat": -14.9172,
+    "lon": 13.4925,
+    "population": 48028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uíge",
+    "region": "Uíge Province",
+    "lat": -7.6087,
+    "lon": 15.0613,
+    "population": 46774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belas",
+    "region": "Luanda Province",
+    "lat": -9.0687,
+    "lon": 13.1607,
+    "population": 44814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soio",
+    "region": "Zaire Province",
+    "lat": -6.1349,
+    "lon": 12.3689,
+    "population": 42971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malanje",
+    "region": "Malanje Province",
+    "lat": -9.5402,
+    "lon": 16.341,
+    "population": 42550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caála",
+    "region": "Huambo Province",
+    "lat": -12.8525,
+    "lon": 15.5606,
+    "population": 41112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chicomba",
+    "region": "Huíla Province",
+    "lat": -14.3079,
+    "lon": 14.9867,
+    "population": 40374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lucapa",
+    "region": "Lunda Norte Province",
+    "lat": -8.6834,
+    "lon": 20.2705,
+    "population": 40124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilengues",
+    "region": "Huíla Province",
+    "lat": -13.9921,
+    "lon": 13.767,
+    "population": 37310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menongue",
+    "region": "Cuando Cubango Province",
+    "lat": -14.6585,
+    "lon": 17.691,
+    "population": 37213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chibia",
+    "region": "Huíla Province",
+    "lat": -15.2366,
+    "lon": 13.8847,
+    "population": 37053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catumbela",
+    "region": "Benguela Province",
+    "lat": -12.43,
+    "lon": 13.5468,
+    "population": 36437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chipindo",
+    "region": "Huíla Province",
+    "lat": -13.8683,
+    "lon": 15.7328,
+    "population": 35706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caconda",
+    "region": "Huíla Province",
+    "lat": -13.7333,
+    "lon": 15.0667,
+    "population": 35470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matala",
+    "region": "Huíla Province",
+    "lat": -15.2397,
+    "lon": 15.1725,
+    "population": 35151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "N’dalatando",
+    "region": "Cuanza Norte Province",
+    "lat": -9.2978,
+    "lon": 14.9116,
+    "population": 34265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caluquembe",
+    "region": "Huíla Province",
+    "lat": -13.9209,
+    "lon": 14.5348,
+    "population": 33996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ondjiva",
+    "region": "Cunene Province",
+    "lat": -17.0667,
+    "lon": 15.7333,
+    "population": 32985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Humpata",
+    "region": "Huíla Province",
+    "lat": -15.0725,
+    "lon": 13.3677,
+    "population": 32230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luena",
+    "region": "Moxico Province",
+    "lat": -11.7833,
+    "lon": 19.9167,
+    "population": 31565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caxito",
+    "region": "Bengo Province",
+    "lat": -8.5785,
+    "lon": 13.6642,
+    "population": 31452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuvango",
+    "region": "Huíla Province",
+    "lat": -14.2769,
+    "lon": 16.3148,
+    "population": 31386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quibala",
+    "region": "Cuanza Sul",
+    "lat": -10.7337,
+    "lon": 14.98,
+    "population": 31052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chissamba",
+    "region": "Bié Province",
+    "lat": -12.1667,
+    "lon": 17.3333,
+    "population": 30303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huambo",
+    "region": "Huambo Province",
+    "lat": -12.7761,
+    "lon": 15.7392,
+    "population": 29696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mbanza Congo",
+    "region": "Zaire Province",
+    "lat": -6.267,
+    "lon": 14.2401,
+    "population": 26448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camabatela",
+    "region": "Cuanza Norte Province",
+    "lat": -8.1881,
+    "lon": 15.375,
+    "population": 23264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabinda",
+    "region": "Cabinda Province",
+    "lat": -5.55,
+    "lon": 12.2,
+    "population": 21376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumeje",
+    "region": "Moxico Province",
+    "lat": -11.55,
+    "lon": 20.7833,
+    "population": 19592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luanda",
+    "region": "Luanda Province",
+    "lat": -8.8368,
+    "lon": 13.2343,
+    "population": 19333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Léua",
+    "region": "Moxico Province",
+    "lat": -11.65,
+    "lon": 20.45,
+    "population": 18951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Icolo e Bengo",
+    "region": "Luanda Province",
+    "lat": -9.2419,
+    "lon": 13.7355,
+    "population": 18444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chela",
+    "region": "Huambo Province",
+    "lat": -12.3026,
+    "lon": 15.4336,
+    "population": 17126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumbe",
+    "region": "Cuanza Sul",
+    "lat": -11.206,
+    "lon": 13.8437,
+    "population": 17004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quipungo",
+    "region": "Huíla Province",
+    "lat": -15.122,
+    "lon": 14.5595,
+    "population": 16949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catabola",
+    "region": "Bié Province",
+    "lat": -12.15,
+    "lon": 17.2833,
+    "population": 16503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cazaji",
+    "region": "Lunda Sul Province",
+    "lat": -11.0671,
+    "lon": 20.7015,
+    "population": 15455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lobito",
+    "region": "Benguela Province",
+    "lat": -12.3644,
+    "lon": 13.536,
+    "population": 15033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Benguela",
+    "region": "Benguela Province",
+    "lat": -12.5763,
+    "lon": 13.4055,
+    "population": 14492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saurimo",
+    "region": "Lunda Sul Province",
+    "lat": -9.6608,
+    "lon": 20.3915,
+    "population": 14328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camacupa",
+    "region": "Bié Province",
+    "lat": -12.0167,
+    "lon": 17.4833,
+    "population": 13708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "N'zeto",
+    "region": "Zaire Province",
+    "lat": -7.2312,
+    "lon": 12.8666,
+    "population": 13147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gambos",
+    "region": "Huíla Province",
+    "lat": -15.8093,
+    "lon": 14.0766,
+    "population": 12891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luau",
+    "region": "Moxico Province",
+    "lat": -10.7073,
+    "lon": 22.2247,
+    "population": 10419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuito",
+    "region": "Bié Province",
+    "lat": -12.3833,
+    "lon": 16.9333,
+    "population": 10010,
+    "timezone": "UTC"
+  }
+]

@@ -1,0 +1,1274 @@
+[
+  {
+    "name": "Santiago",
+    "region": "San José Province",
+    "lat": 9.8464,
+    "lon": -84.3143,
+    "population": 49725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tobosi",
+    "region": "Provincia de Cartago",
+    "lat": 9.8384,
+    "lon": -83.9839,
+    "population": 49218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio",
+    "region": "San José Province",
+    "lat": 9.7985,
+    "lon": -84.1617,
+    "population": 48908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patarrá",
+    "region": "San José Province",
+    "lat": 9.8807,
+    "lon": -84.035,
+    "population": 48739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibás",
+    "region": "San José Province",
+    "lat": 9.9667,
+    "lon": -84.0833,
+    "population": 48479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "Heredia Province",
+    "lat": 10,
+    "lon": -84.0833,
+    "population": 48416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buenos Aires",
+    "region": "Puntarenas Province",
+    "lat": 9.1167,
+    "lon": -83.25,
+    "population": 48153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarcero",
+    "region": "Alajuela Province",
+    "lat": 10.2,
+    "lon": -84.4,
+    "population": 48101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guácimo",
+    "region": "Limón Province",
+    "lat": 10.2,
+    "lon": -83.6667,
+    "population": 48079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Heredia Province",
+    "lat": 9.993,
+    "lon": -84.1293,
+    "population": 47946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canoas",
+    "region": "Puntarenas Province",
+    "lat": 8.533,
+    "lon": -82.8384,
+    "population": 47860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moravia",
+    "region": "San José Province",
+    "lat": 10.04,
+    "lon": -84,
+    "population": 47661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montes de Oca",
+    "region": "San José Province",
+    "lat": 9.9396,
+    "lon": -84.0301,
+    "population": 47462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mora",
+    "region": "San José Province",
+    "lat": 9.9167,
+    "lon": -84.25,
+    "population": 47300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goicoechea",
+    "region": "San José Province",
+    "lat": 9.9485,
+    "lon": -84.0636,
+    "population": 46978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pital",
+    "region": "Alajuela Province",
+    "lat": 10.4506,
+    "lon": -84.2741,
+    "population": 46950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barva",
+    "region": "Heredia Province",
+    "lat": 10.0833,
+    "lon": -84.1,
+    "population": 46528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quesada",
+    "region": "Alajuela Province",
+    "lat": 10.3238,
+    "lon": -84.4271,
+    "population": 46471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coto Brus",
+    "region": "Puntarenas Province",
+    "lat": 8.8833,
+    "lon": -82.9667,
+    "population": 46361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Josecito",
+    "region": "Heredia Province",
+    "lat": 10.0167,
+    "lon": -84.1,
+    "population": 46285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Desamparados",
+    "region": "San José Province",
+    "lat": 9.9,
+    "lon": -84.0667,
+    "population": 46144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Alajuela Province",
+    "lat": 10.9517,
+    "lon": -85.1361,
+    "population": 45955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orosí",
+    "region": "Provincia de Cartago",
+    "lat": 9.7962,
+    "lon": -83.8538,
+    "population": 45721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upala",
+    "region": "Alajuela Province",
+    "lat": 10.85,
+    "lon": -85.1667,
+    "population": 45682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Desamparados",
+    "region": "Alajuela Province",
+    "lat": 9.9473,
+    "lon": -84.5063,
+    "population": 45403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ipís",
+    "region": "San José Province",
+    "lat": 9.9674,
+    "lon": -84.0133,
+    "population": 44845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Suiza",
+    "region": "Provincia de Cartago",
+    "lat": 9.8506,
+    "lon": -83.6169,
+    "population": 44814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paraíso",
+    "region": "Provincia de Cartago",
+    "lat": 9.75,
+    "lon": -83.8,
+    "population": 44738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmares",
+    "region": "Alajuela Province",
+    "lat": 10.0333,
+    "lon": -84.4333,
+    "population": 44576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esparza",
+    "region": "Puntarenas Province",
+    "lat": 10,
+    "lon": -84.6667,
+    "population": 44567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osa",
+    "region": "Puntarenas Province",
+    "lat": 8.8333,
+    "lon": -83.5,
+    "population": 44557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tilarán",
+    "region": "Guanacaste Province",
+    "lat": 10.4588,
+    "lon": -84.9751,
+    "population": 43915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puntarenas",
+    "region": "Puntarenas Province",
+    "lat": 9.9763,
+    "lon": -84.8384,
+    "population": 43801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cartago",
+    "region": "Provincia de Cartago",
+    "lat": 9.8644,
+    "lon": -83.9194,
+    "population": 43624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Isidro",
+    "region": "San José Province",
+    "lat": 9.3674,
+    "lon": -83.6971,
+    "population": 43373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael",
+    "region": "San José Province",
+    "lat": 9.9279,
+    "lon": -84.1372,
+    "population": 42837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael",
+    "region": "Heredia Province",
+    "lat": 10.05,
+    "lon": -84.0667,
+    "population": 42211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nandayure",
+    "region": "Guanacaste Province",
+    "lat": 9.9167,
+    "lon": -85.2833,
+    "population": 42052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parrita",
+    "region": "Puntarenas Province",
+    "lat": 9.55,
+    "lon": -84.3333,
+    "population": 41654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valverde Vega",
+    "region": "Alajuela Province",
+    "lat": 10.1872,
+    "lon": -84.3029,
+    "population": 41528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salitrillos",
+    "region": "San José Province",
+    "lat": 9.8526,
+    "lon": -84.0906,
+    "population": 41426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Heredia Province",
+    "lat": 10.0639,
+    "lon": -84.155,
+    "population": 41399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercedes",
+    "region": "Heredia Province",
+    "lat": 10.0069,
+    "lon": -84.134,
+    "population": 41363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Provincia de Cartago",
+    "lat": 9.9167,
+    "lon": -83.9833,
+    "population": 41322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quepos",
+    "region": "Puntarenas Province",
+    "lat": 9.4319,
+    "lon": -84.1614,
+    "population": 41147,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garabito",
+    "region": "Puntarenas Province",
+    "lat": 9.619,
+    "lon": -84.6201,
+    "population": 40501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Miramar",
+    "region": "Puntarenas Province",
+    "lat": 10.0925,
+    "lon": -84.7298,
+    "population": 40297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrillo",
+    "region": "Guanacaste Province",
+    "lat": 10.4167,
+    "lon": -85.5833,
+    "population": 39993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bagaces",
+    "region": "Guanacaste Province",
+    "lat": 10.5,
+    "lon": -85.25,
+    "population": 39896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Felipe",
+    "region": "San José Province",
+    "lat": 9.9049,
+    "lon": -84.1055,
+    "population": 39558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sixaola",
+    "region": "Limón Province",
+    "lat": 9.5277,
+    "lon": -82.6218,
+    "population": 39493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orotina",
+    "region": "Alajuela Province",
+    "lat": 9.9,
+    "lon": -84.5667,
+    "population": 39377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turrialba",
+    "region": "Provincia de Cartago",
+    "lat": 9.8,
+    "lon": -83.5333,
+    "population": 39129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Mateo",
+    "region": "Alajuela Province",
+    "lat": 9.95,
+    "lon": -84.5167,
+    "population": 39085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colima",
+    "region": "San José Province",
+    "lat": 9.9509,
+    "lon": -84.085,
+    "population": 38931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael Abajo",
+    "region": "San José Province",
+    "lat": 9.831,
+    "lon": -84.2901,
+    "population": 38607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael Arriba",
+    "region": "San José Province",
+    "lat": 9.8756,
+    "lon": -84.0766,
+    "population": 37940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "San José Province",
+    "lat": 9.9326,
+    "lon": -84.1826,
+    "population": 37512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calle Blancos",
+    "region": "San José Province",
+    "lat": 9.95,
+    "lon": -84.0667,
+    "population": 37324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiménez",
+    "region": "Provincia de Cartago",
+    "lat": 9.75,
+    "lon": -83.6833,
+    "population": 36913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan",
+    "region": "Alajuela Province",
+    "lat": 10.1025,
+    "lon": -84.3169,
+    "population": 36755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montes de Oro",
+    "region": "Puntarenas Province",
+    "lat": 10.1,
+    "lon": -84.75,
+    "population": 36516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mercedes",
+    "region": "San José Province",
+    "lat": 9.2627,
+    "lon": -83.582,
+    "population": 36420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pococí",
+    "region": "Limón Province",
+    "lat": 10.5,
+    "lon": -83.6333,
+    "population": 36395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juntas",
+    "region": "Guanacaste Province",
+    "lat": 10.2809,
+    "lon": -84.9595,
+    "population": 36199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanilla",
+    "region": "San José Province",
+    "lat": 9.9452,
+    "lon": -84.0393,
+    "population": 35688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago",
+    "region": "Alajuela Province",
+    "lat": 10.0228,
+    "lon": -84.4442,
+    "population": 35394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corredor",
+    "region": "Puntarenas Province",
+    "lat": 8.64,
+    "lon": -82.946,
+    "population": 35219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Heredia Province",
+    "lat": 9.9833,
+    "lon": -84.1833,
+    "population": 35109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarapiquí",
+    "region": "Heredia Province",
+    "lat": 10.5,
+    "lon": -84,
+    "population": 34841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alajuelita",
+    "region": "San José Province",
+    "lat": 9.9,
+    "lon": -84.1,
+    "population": 34711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tres Ríos",
+    "region": "Provincia de Cartago",
+    "lat": 9.9064,
+    "lon": -83.9876,
+    "population": 33446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pérez Zeledón",
+    "region": "San José Province",
+    "lat": 9.3547,
+    "lon": -83.6348,
+    "population": 33133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatuso",
+    "region": "Alajuela Province",
+    "lat": 10.6667,
+    "lon": -84.8333,
+    "population": 32790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acosta",
+    "region": "San José Province",
+    "lat": 9.8,
+    "lon": -84.2,
+    "population": 32485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Chiles",
+    "region": "Alajuela Province",
+    "lat": 10.8667,
+    "lon": -84.6667,
+    "population": 32177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salitral",
+    "region": "San José Province",
+    "lat": 9.9116,
+    "lon": -84.1783,
+    "population": 32135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tucurrique",
+    "region": "Provincia de Cartago",
+    "lat": 9.8534,
+    "lon": -83.7227,
+    "population": 32127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chacarita",
+    "region": "Puntarenas Province",
+    "lat": 9.9842,
+    "lon": -84.7789,
+    "population": 31779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Diego",
+    "region": "Provincia de Cartago",
+    "lat": 9.899,
+    "lon": -84.0029,
+    "population": 31425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atenas",
+    "region": "Alajuela Province",
+    "lat": 9.9833,
+    "lon": -84.3833,
+    "population": 31247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de Dios",
+    "region": "San José Province",
+    "lat": 9.8773,
+    "lon": -84.0847,
+    "population": 31112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocora",
+    "region": "Limón Province",
+    "lat": 10.1718,
+    "lon": -83.6044,
+    "population": 30666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siquirres",
+    "region": "Limón Province",
+    "lat": 10.1167,
+    "lon": -83.5,
+    "population": 30243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ángeles",
+    "region": "Heredia Province",
+    "lat": 9.9959,
+    "lon": -84.0513,
+    "population": 29796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "San José Province",
+    "lat": 9.9283,
+    "lon": -84.0507,
+    "population": 29257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carrillos",
+    "region": "Alajuela Province",
+    "lat": 10.0292,
+    "lon": -84.274,
+    "population": 28868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabanilla",
+    "region": "Alajuela Province",
+    "lat": 10.074,
+    "lon": -84.2155,
+    "population": 28450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Cortés",
+    "region": "Puntarenas Province",
+    "lat": 8.9599,
+    "lon": -83.5238,
+    "population": 28133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Guarco",
+    "region": "Provincia de Cartago",
+    "lat": 9.75,
+    "lon": -83.9167,
+    "population": 27708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Heredia Province",
+    "lat": 9.9833,
+    "lon": -84.1667,
+    "population": 27655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grecia",
+    "region": "Alajuela Province",
+    "lat": 10.0689,
+    "lon": -84.3146,
+    "population": 27467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "San José Province",
+    "lat": 9.9333,
+    "lon": -84.0833,
+    "population": 27371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roxana",
+    "region": "Limón Province",
+    "lat": 10.2671,
+    "lon": -83.7511,
+    "population": 27342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matina",
+    "region": "Limón Province",
+    "lat": 10,
+    "lon": -83.25,
+    "population": 27332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alvarado",
+    "region": "Provincia de Cartago",
+    "lat": 9.9333,
+    "lon": -83.8,
+    "population": 27221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Escazú",
+    "region": "San José Province",
+    "lat": 9.9333,
+    "lon": -84.1333,
+    "population": 26875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tejar",
+    "region": "San José Province",
+    "lat": 9.7462,
+    "lon": -84.2337,
+    "population": 26744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abangares",
+    "region": "Guanacaste Province",
+    "lat": 10.2167,
+    "lon": -85,
+    "population": 25789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cruz",
+    "region": "Guanacaste Province",
+    "lat": 11,
+    "lon": -85.5833,
+    "population": 25696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belén",
+    "region": "Guanacaste Province",
+    "lat": 10.4079,
+    "lon": -85.5884,
+    "population": 25606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Provincia de Cartago",
+    "lat": 9.9333,
+    "lon": -84,
+    "population": 25325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarrazú",
+    "region": "San José Province",
+    "lat": 9.6596,
+    "lon": -84.0214,
+    "population": 25300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos",
+    "region": "San José Province",
+    "lat": 9.6601,
+    "lon": -84.0203,
+    "population": 25157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sardinal",
+    "region": "Guanacaste Province",
+    "lat": 10.5167,
+    "lon": -85.6475,
+    "population": 25091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nicoya",
+    "region": "Guanacaste Province",
+    "lat": 10.0833,
+    "lon": -85.5,
+    "population": 24760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puriscal",
+    "region": "San José Province",
+    "lat": 9.75,
+    "lon": -84.4167,
+    "population": 24529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pejibaye",
+    "region": "Provincia de Cartago",
+    "lat": 9.8113,
+    "lon": -83.7034,
+    "population": 24310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dota",
+    "region": "San José Province",
+    "lat": 9.65,
+    "lon": -83.95,
+    "population": 23068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naranjo",
+    "region": "Alajuela Province",
+    "lat": 10.1167,
+    "lon": -84.4,
+    "population": 23068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sámara",
+    "region": "Guanacaste Province",
+    "lat": 9.8815,
+    "lon": -85.5281,
+    "population": 22441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "León Cortés",
+    "region": "San José Province",
+    "lat": 9.683,
+    "lon": -84.0478,
+    "population": 22232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente de Moravia",
+    "region": "San José Province",
+    "lat": 9.9616,
+    "lon": -84.0488,
+    "population": 21979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "San José Province",
+    "lat": 9.8712,
+    "lon": -84.0608,
+    "population": 21933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poás",
+    "region": "Alajuela Province",
+    "lat": 10.0833,
+    "lon": -84.2333,
+    "population": 21804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esquipulas",
+    "region": "Alajuela Province",
+    "lat": 10.0568,
+    "lon": -84.4234,
+    "population": 21776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bijagua",
+    "region": "Alajuela Province",
+    "lat": 10.7328,
+    "lon": -85.0568,
+    "population": 21718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turrubares",
+    "region": "San José Province",
+    "lat": 9.75,
+    "lon": -84.5,
+    "population": 21008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan",
+    "region": "San José Province",
+    "lat": 9.9597,
+    "lon": -84.0816,
+    "population": 20903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aserrí",
+    "region": "San José Province",
+    "lat": 9.8667,
+    "lon": -84.1,
+    "population": 20893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Fortuna",
+    "region": "Alajuela Province",
+    "lat": 10.4709,
+    "lon": -84.6453,
+    "population": 20889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vito",
+    "region": "Puntarenas Province",
+    "lat": 8.8208,
+    "lon": -82.9709,
+    "population": 20867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón",
+    "region": "San José Province",
+    "lat": 9.9149,
+    "lon": -84.2417,
+    "population": 20741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llorente",
+    "region": "Heredia Province",
+    "lat": 9.9984,
+    "lon": -84.1545,
+    "population": 20619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Heredia Province",
+    "lat": 10.0833,
+    "lon": -84.15,
+    "population": 20618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "Guanacaste Province",
+    "lat": 10.25,
+    "lon": -85.6667,
+    "population": 19860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flores",
+    "region": "Heredia Province",
+    "lat": 10,
+    "lon": -84.15,
+    "population": 19370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vázquez de Coronado",
+    "region": "San José Province",
+    "lat": 10.06,
+    "lon": -84,
+    "population": 18824,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curridabat",
+    "region": "San José Province",
+    "lat": 9.9167,
+    "lon": -84.0333,
+    "population": 18723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Purral",
+    "region": "San José Province",
+    "lat": 9.9581,
+    "lon": -84.0305,
+    "population": 18579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oreamuno",
+    "region": "Provincia de Cartago",
+    "lat": 10,
+    "lon": -83.8333,
+    "population": 17966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Alajuela Province",
+    "lat": 10.5833,
+    "lon": -84.4167,
+    "population": 17652,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guadalupe",
+    "region": "San José Province",
+    "lat": 9.9481,
+    "lon": -84.0567,
+    "population": 17585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmichal",
+    "region": "San José Province",
+    "lat": 9.8378,
+    "lon": -84.2048,
+    "population": 17431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daniel Flores",
+    "region": "San José Province",
+    "lat": 9.3355,
+    "lon": -83.6694,
+    "population": 17027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacó",
+    "region": "Puntarenas Province",
+    "lat": 9.615,
+    "lon": -84.6298,
+    "population": 16747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañas",
+    "region": "Guanacaste Province",
+    "lat": 10.4801,
+    "lon": -85.1135,
+    "population": 16433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Asunción",
+    "region": "Heredia Province",
+    "lat": 9.9796,
+    "lon": -84.1728,
+    "population": 16236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Liberia",
+    "region": "Guanacaste Province",
+    "lat": 10.635,
+    "lon": -85.4377,
+    "population": 16081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paquera",
+    "region": "Puntarenas Province",
+    "lat": 9.8201,
+    "lon": -84.9351,
+    "population": 16033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limón",
+    "region": "Limón Province",
+    "lat": 9.9907,
+    "lon": -83.036,
+    "population": 16009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guápiles",
+    "region": "Limón Province",
+    "lat": 10.2168,
+    "lon": -83.7848,
+    "population": 15542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corredores",
+    "region": "Puntarenas Province",
+    "lat": 8.5833,
+    "lon": -82.9167,
+    "population": 15455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael",
+    "region": "Alajuela Province",
+    "lat": 10.064,
+    "lon": -84.4728,
+    "population": 15411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cot",
+    "region": "Provincia de Cartago",
+    "lat": 9.8945,
+    "lon": -83.873,
+    "population": 14524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heredia",
+    "region": "Heredia Province",
+    "lat": 10.0024,
+    "lon": -84.1165,
+    "population": 14441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente",
+    "region": "San José Province",
+    "lat": 9.9602,
+    "lon": -84.0476,
+    "population": 14425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pocosol",
+    "region": "Alajuela Province",
+    "lat": 10.3667,
+    "lon": -84.6167,
+    "population": 13731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golfito",
+    "region": "Puntarenas Province",
+    "lat": 8.6,
+    "lon": -83.12,
+    "population": 13082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Isidro",
+    "region": "Heredia Province",
+    "lat": 10.0333,
+    "lon": -84.0333,
+    "population": 12916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alajuela",
+    "region": "Alajuela Province",
+    "lat": 10.0162,
+    "lon": -84.2116,
+    "population": 12177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pacayas",
+    "region": "Provincia de Cartago",
+    "lat": 9.8071,
+    "lon": -84.0476,
+    "population": 11798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fortuna",
+    "region": "Guanacaste Province",
+    "lat": 10.6738,
+    "lon": -85.1998,
+    "population": 11365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talamanca",
+    "region": "Limón Province",
+    "lat": 9.5,
+    "lon": -83.0833,
+    "population": 11232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batán",
+    "region": "Limón Province",
+    "lat": 10.0835,
+    "lon": -83.3341,
+    "population": 10910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ramón",
+    "region": "Alajuela Province",
+    "lat": 10.0872,
+    "lon": -84.4704,
+    "population": 10813,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Segundo",
+    "region": "Alajuela Province",
+    "lat": 10.2414,
+    "lon": -84.2793,
+    "population": 10538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hojancha",
+    "region": "Guanacaste Province",
+    "lat": 9.9667,
+    "lon": -85.4167,
+    "population": 10171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granadilla",
+    "region": "San José Province",
+    "lat": 9.9349,
+    "lon": -84.0169,
+    "population": 10134,
+    "timezone": "UTC"
+  }
+]

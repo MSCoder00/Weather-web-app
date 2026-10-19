@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Département de Gouré",
+    "region": "Zinder Region",
+    "lat": 14.0162,
+    "lon": 10.1472,
+    "population": 49694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Tahoua",
+    "region": "Tahoua Region",
+    "lat": 14.8,
+    "lon": 4.8,
+    "population": 49569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Bouza",
+    "region": "Tahoua Region",
+    "lat": 14.4333,
+    "lon": 6,
+    "population": 48861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirriah",
+    "region": "Zinder Region",
+    "lat": 13.7073,
+    "lon": 9.1501,
+    "population": 48776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dogondoutchi",
+    "region": "Dosso Region",
+    "lat": 13.6403,
+    "lon": 4.0265,
+    "population": 48571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gouré",
+    "region": "Zinder Region",
+    "lat": 13.9835,
+    "lon": 10.2704,
+    "population": 48260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Dosso",
+    "region": "Dosso Region",
+    "lat": 12.8333,
+    "lon": 3.3333,
+    "population": 48167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tillabéri",
+    "region": "Tillabéri Region",
+    "lat": 14.2071,
+    "lon": 1.4542,
+    "population": 48096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Bilma",
+    "region": "Agadez Region",
+    "lat": 20.5,
+    "lon": 13.25,
+    "population": 48033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boboye Department",
+    "region": "Dosso Region",
+    "lat": 13.0817,
+    "lon": 2.9108,
+    "population": 47298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gaya",
+    "region": "Dosso Region",
+    "lat": 11.8843,
+    "lon": 3.4492,
+    "population": 46766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanout",
+    "region": "Zinder Region",
+    "lat": 14.9709,
+    "lon": 8.8879,
+    "population": 46665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département d’Aguié",
+    "region": "Maradi Region",
+    "lat": 13.4698,
+    "lon": 7.7422,
+    "population": 46209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Tchirozérine",
+    "region": "Agadez Region",
+    "lat": 17.4329,
+    "lon": 7.8932,
+    "population": 46074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouallam",
+    "region": "Tillabéri Region",
+    "lat": 14.3164,
+    "lon": 2.086,
+    "population": 45287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zinder",
+    "region": "Zinder Region",
+    "lat": 13.8072,
+    "lon": 8.9881,
+    "population": 44026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Madaoua",
+    "region": "Tahoua Region",
+    "lat": 13.9999,
+    "lon": 6.1001,
+    "population": 43399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balleyara",
+    "region": "Tillabéri Region",
+    "lat": 13.7285,
+    "lon": 2.875,
+    "population": 43056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filingué",
+    "region": "Tillabéri Region",
+    "lat": 14.3521,
+    "lon": 3.3168,
+    "population": 42658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Téra",
+    "region": "Tillabéri Region",
+    "lat": 14.0078,
+    "lon": 0.7531,
+    "population": 42050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keïta",
+    "region": "Tahoua Region",
+    "lat": 14.7551,
+    "lon": 5.7749,
+    "population": 41793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diffa",
+    "region": "Diffa Region",
+    "lat": 13.3154,
+    "lon": 12.6113,
+    "population": 41291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Tânout",
+    "region": "Zinder Region",
+    "lat": 14.75,
+    "lon": 8.3333,
+    "population": 41239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Loga",
+    "region": "Dosso Region",
+    "lat": 13.6333,
+    "lon": 3.5,
+    "population": 39462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Tessaoua",
+    "region": "Maradi Region",
+    "lat": 13.6,
+    "lon": 7.9,
+    "population": 39459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tessaoua",
+    "region": "Maradi Region",
+    "lat": 13.7574,
+    "lon": 7.9874,
+    "population": 39409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Illéla",
+    "region": "Tahoua Region",
+    "lat": 14.4605,
+    "lon": 5.2437,
+    "population": 39262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Say",
+    "region": "Tillabéri Region",
+    "lat": 13.1007,
+    "lon": 2.3689,
+    "population": 39170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Tchin-Tabaraden",
+    "region": "Tahoua Region",
+    "lat": 15.8669,
+    "lon": 5.7104,
+    "population": 38577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Gaya",
+    "region": "Dosso Region",
+    "lat": 11.9597,
+    "lon": 3.4604,
+    "population": 38201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Say",
+    "region": "Tillabéri Region",
+    "lat": 13.0358,
+    "lon": 2.2211,
+    "population": 38009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dakoro",
+    "region": "Maradi Region",
+    "lat": 14.5106,
+    "lon": 6.765,
+    "population": 36219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Birni N Konni",
+    "region": "Tahoua Region",
+    "lat": 13.796,
+    "lon": 5.2503,
+    "population": 35929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Ouallam",
+    "region": "Tillabéri Region",
+    "lat": 14.6333,
+    "lon": 2.25,
+    "population": 35291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Filingué",
+    "region": "Tillabéri Region",
+    "lat": 14.3164,
+    "lon": 3.2361,
+    "population": 34337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Dogondoutchi",
+    "region": "Dosso Region",
+    "lat": 13.5,
+    "lon": 4,
+    "population": 34246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agadez",
+    "region": "Agadez Region",
+    "lat": 16.9733,
+    "lon": 7.9911,
+    "population": 33947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matamey",
+    "region": "Zinder Region",
+    "lat": 13.4231,
+    "lon": 8.4748,
+    "population": 33645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Dakoro",
+    "region": "Maradi Region",
+    "lat": 14.75,
+    "lon": 7,
+    "population": 31503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maïné Soroa",
+    "region": "Diffa Region",
+    "lat": 13.2114,
+    "lon": 12.0241,
+    "population": 29729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kollo Department",
+    "region": "Tillabéri Region",
+    "lat": 13.576,
+    "lon": 2.452,
+    "population": 28428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madaoua",
+    "region": "Tahoua Region",
+    "lat": 14.073,
+    "lon": 5.96,
+    "population": 28032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abalak",
+    "region": "Tahoua Region",
+    "lat": 15.4162,
+    "lon": 6.1697,
+    "population": 27502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arlit",
+    "region": "Agadez Region",
+    "lat": 18.8341,
+    "lon": 7.4333,
+    "population": 27054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tillaberi Department",
+    "region": "Tillabéri Region",
+    "lat": 14.516,
+    "lon": 1.443,
+    "population": 25378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magaria",
+    "region": "Zinder Region",
+    "lat": 12.9983,
+    "lon": 8.9099,
+    "population": 25021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guidan Roumdji Department",
+    "region": "Maradi Region",
+    "lat": 13.6575,
+    "lon": 6.6958,
+    "population": 22846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Birni Nkonni",
+    "region": "Tahoua Region",
+    "lat": 13.9,
+    "lon": 5.25,
+    "population": 22516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Kantché",
+    "region": "Zinder Region",
+    "lat": 13.4,
+    "lon": 8.6,
+    "population": 22165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mayahi",
+    "region": "Maradi Region",
+    "lat": 13.9553,
+    "lon": 7.6712,
+    "population": 21615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Diffa",
+    "region": "Diffa Region",
+    "lat": 13.6667,
+    "lon": 12.5,
+    "population": 21327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Nguigmi",
+    "region": "Diffa Region",
+    "lat": 14.2075,
+    "lon": 13.1218,
+    "population": 21022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département d' Illéla",
+    "region": "Tahoua Region",
+    "lat": 14.25,
+    "lon": 5,
+    "population": 20711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ayorou",
+    "region": "Tillabéri Region",
+    "lat": 14.7308,
+    "lon": 0.9174,
+    "population": 20323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tahoua",
+    "region": "Tahoua Region",
+    "lat": 14.8888,
+    "lon": 5.2692,
+    "population": 20104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dosso",
+    "region": "Dosso Region",
+    "lat": 13.049,
+    "lon": 3.1937,
+    "population": 19594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguié",
+    "region": "Maradi Region",
+    "lat": 13.506,
+    "lon": 7.7786,
+    "population": 19527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alaghsas",
+    "region": "Agadez Region",
+    "lat": 17.0187,
+    "lon": 8.0168,
+    "population": 18550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madarounfa",
+    "region": "Maradi Region",
+    "lat": 13.2825,
+    "lon": 7.155,
+    "population": 18142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bilma",
+    "region": "Agadez Region",
+    "lat": 18.6853,
+    "lon": 12.9164,
+    "population": 17603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Keïta",
+    "region": "Tahoua Region",
+    "lat": 14.8,
+    "lon": 6,
+    "population": 17520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nguigmi",
+    "region": "Diffa Region",
+    "lat": 14.2495,
+    "lon": 13.1092,
+    "population": 17457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Mayahi",
+    "region": "Maradi Region",
+    "lat": 14.1,
+    "lon": 7.6,
+    "population": 14849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bouza",
+    "region": "Tahoua Region",
+    "lat": 14.4229,
+    "lon": 6.0428,
+    "population": 14287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tera Department",
+    "region": "Tillabéri Region",
+    "lat": 14.186,
+    "lon": 0.843,
+    "population": 13844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kollo",
+    "region": "Tillabéri Region",
+    "lat": 13.3043,
+    "lon": 2.339,
+    "population": 13036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tchintabaraden",
+    "region": "Tahoua Region",
+    "lat": 15.8969,
+    "lon": 5.7985,
+    "population": 12349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibiri",
+    "region": "Maradi Region",
+    "lat": 13.5627,
+    "lon": 7.0485,
+    "population": 12281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maradi",
+    "region": "Maradi Region",
+    "lat": 13.5,
+    "lon": 7.1017,
+    "population": 12118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Département de Maïné-Soroa",
+    "region": "Diffa Region",
+    "lat": 13.3121,
+    "lon": 12.0832,
+    "population": 10127,
+    "timezone": "UTC"
+  }
+]

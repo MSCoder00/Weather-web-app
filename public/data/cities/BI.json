@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Bujumbura",
+    "region": "Bujumbura Mairie Province",
+    "lat": -3.3819,
+    "lon": 29.3614,
+    "population": 39637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makamba",
+    "region": "Makamba Province",
+    "lat": -4.1348,
+    "lon": 29.804,
+    "population": 36257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mwaro",
+    "region": "Mwaro Province",
+    "lat": -3.5113,
+    "lon": 29.7033,
+    "population": 35555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muyinga",
+    "region": "Muyinga Province",
+    "lat": -2.8451,
+    "lon": 30.3414,
+    "population": 34400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cankuzo",
+    "region": "Cankuzo Province",
+    "lat": -3.2186,
+    "lon": 30.5528,
+    "population": 33896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bururi",
+    "region": "Bururi Province",
+    "lat": -3.9488,
+    "lon": 29.6244,
+    "population": 33026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cibitoke",
+    "region": "Cibitoke Province",
+    "lat": -2.8869,
+    "lon": 29.1248,
+    "population": 31649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruyigi",
+    "region": "Ruyigi Province",
+    "lat": -3.4764,
+    "lon": 30.2486,
+    "population": 28348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kayanza",
+    "region": "Kayanza Province",
+    "lat": -2.9221,
+    "lon": 29.6293,
+    "population": 26961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirundo",
+    "region": "Kirundo Province",
+    "lat": -2.5845,
+    "lon": 30.0959,
+    "population": 23840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rutana",
+    "region": "Rutana Province",
+    "lat": -3.9279,
+    "lon": 29.992,
+    "population": 23431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ngozi",
+    "region": "Ngozi Province",
+    "lat": -2.9075,
+    "lon": 29.8306,
+    "population": 21279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bubanza",
+    "region": "Bubanza Province",
+    "lat": -3.0804,
+    "lon": 29.391,
+    "population": 20757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Muramvya",
+    "region": "Muramvya Province",
+    "lat": -3.2682,
+    "lon": 29.6079,
+    "population": 19560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumonge",
+    "region": "Rumonge Province",
+    "lat": -3.9736,
+    "lon": 29.4386,
+    "population": 18817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gitega",
+    "region": "Gitega Province",
+    "lat": -3.4271,
+    "lon": 29.9246,
+    "population": 18722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karuzi",
+    "region": "Karuzi Province",
+    "lat": -3.1014,
+    "lon": 30.1628,
+    "population": 10633,
+    "timezone": "UTC"
+  }
+]

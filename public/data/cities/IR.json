@@ -1,0 +1,8722 @@
+[
+  {
+    "name": "Qarah Ẕīā’ od Dīn",
+    "region": "West Azarbaijan",
+    "lat": 38.8915,
+    "lon": 45.0255,
+    "population": 49914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hesar-e Qarah Baghi",
+    "region": "Hamadan",
+    "lat": 34.8225,
+    "lon": 48.2686,
+    "population": 49898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rehnān",
+    "region": "Isfahan",
+    "lat": 32.6833,
+    "lon": 51.6016,
+    "population": 49876,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gonbad-e Kāvūs",
+    "region": "Golestan",
+    "lat": 37.5,
+    "lon": 55,
+    "population": 49825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Noşratābād",
+    "region": "Sistan and Baluchestan",
+    "lat": 29.9,
+    "lon": 59.9833,
+    "population": 49794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Javānrūd",
+    "region": "Kermanshah",
+    "lat": 34.7961,
+    "lon": 46.5172,
+    "population": 49775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mianzulan",
+    "region": "Hamadan",
+    "lat": 34.3122,
+    "lon": 48.5156,
+    "population": 49734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandar Abbas",
+    "region": "Hormozgan",
+    "lat": 27.1865,
+    "lon": 56.2808,
+    "population": 49677,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heriraz",
+    "region": "Hamadan",
+    "lat": 34.2053,
+    "lon": 48.7431,
+    "population": 49649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jijian Rud",
+    "region": "Hamadan",
+    "lat": 34.3564,
+    "lon": 48.6086,
+    "population": 49585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Delījān",
+    "region": "Markazi",
+    "lat": 34.0333,
+    "lon": 50.7667,
+    "population": 49584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tasbandi",
+    "region": "Hamadan",
+    "lat": 34.5614,
+    "lon": 48.7906,
+    "population": 49525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durnian",
+    "region": "Hamadan",
+    "lat": 35.4819,
+    "lon": 49.04,
+    "population": 49452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Jūybār",
+    "region": "Mazandaran",
+    "lat": 36.6667,
+    "lon": 52.95,
+    "population": 49391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aleshtar",
+    "region": "Lorestan",
+    "lat": 33.8642,
+    "lon": 48.2626,
+    "population": 49375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darani-ye Sofla",
+    "region": "Hamadan",
+    "lat": 34.4989,
+    "lon": 48.4122,
+    "population": 49270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Behkandan",
+    "region": "Hamadan",
+    "lat": 35.2722,
+    "lon": 49.0989,
+    "population": 49260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalb Hesari",
+    "region": "Hamadan",
+    "lat": 35.3669,
+    "lon": 48.3958,
+    "population": 49218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borjaki",
+    "region": "Hamadan",
+    "lat": 34.3286,
+    "lon": 48.0331,
+    "population": 49197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ābādān",
+    "region": "Khuzestan",
+    "lat": 30.2167,
+    "lon": 48.5333,
+    "population": 49192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fahrumand",
+    "region": "Hamadan",
+    "lat": 34.2242,
+    "lon": 48.3119,
+    "population": 49166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robat-e Sheverin",
+    "region": "Hamadan",
+    "lat": 34.8611,
+    "lon": 48.6003,
+    "population": 49093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Orūmīyeh",
+    "region": "West Azarbaijan",
+    "lat": 37.55,
+    "lon": 45,
+    "population": 49078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Zīrkūh",
+    "region": "South Khorasan",
+    "lat": 33.5833,
+    "lon": 60.3,
+    "population": 49069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingeleh Kahriz",
+    "region": "Hamadan",
+    "lat": 34.8111,
+    "lon": 48.6847,
+    "population": 49043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharifabad-e Quzan",
+    "region": "Hamadan",
+    "lat": 34.4122,
+    "lon": 48.8258,
+    "population": 49034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahrīz",
+    "region": "Yazd",
+    "lat": 31.5843,
+    "lon": 54.4428,
+    "population": 49014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bābolsar",
+    "region": "Mazandaran",
+    "lat": 36.7025,
+    "lon": 52.6576,
+    "population": 48968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shūsh",
+    "region": "Khuzestan",
+    "lat": 32.0333,
+    "lon": 48.2167,
+    "population": 48931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malek-e Ashtar",
+    "region": "Hamadan",
+    "lat": 34.9522,
+    "lon": 48.315,
+    "population": 48919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bābol",
+    "region": "Mazandaran",
+    "lat": 36.5513,
+    "lon": 52.679,
+    "population": 48905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mehrīz",
+    "region": "Yazd",
+    "lat": 31.4167,
+    "lon": 54.6167,
+    "population": 48891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesar",
+    "region": "Hamadan",
+    "lat": 34.0769,
+    "lon": 48.4686,
+    "population": 48787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khvoshab-e Sofla",
+    "region": "Hamadan",
+    "lat": 35.0178,
+    "lon": 48.3575,
+    "population": 48660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarvābād",
+    "region": "Kurdistan",
+    "lat": 35.25,
+    "lon": 46.3333,
+    "population": 48635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mobārakeh",
+    "region": "Isfahan",
+    "lat": 32.3465,
+    "lon": 51.5045,
+    "population": 48631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taveh",
+    "region": "Hamadan",
+    "lat": 35.1167,
+    "lon": 49.0272,
+    "population": 48585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fasā",
+    "region": "Fars",
+    "lat": 28.9383,
+    "lon": 53.6482,
+    "population": 48524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gusheh-ye Kasavand",
+    "region": "Hamadan",
+    "lat": 34.1553,
+    "lon": 48.9594,
+    "population": 48515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mīāndorūd",
+    "region": "Mazandaran",
+    "lat": 36.5833,
+    "lon": 53.3,
+    "population": 48436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sheverin",
+    "region": "Hamadan",
+    "lat": 34.8075,
+    "lon": 48.5703,
+    "population": 48392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neyrīz",
+    "region": "Fars",
+    "lat": 29.1988,
+    "lon": 54.3278,
+    "population": 48324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheshmeh Pahn-e Nanaj",
+    "region": "Hamadan",
+    "lat": 34.4589,
+    "lon": 48.7675,
+    "population": 48284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sāvojbolāgh",
+    "region": "Alborz",
+    "lat": 36,
+    "lon": 50.8333,
+    "population": 48275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Shirazi",
+    "region": "Hamadan",
+    "lat": 34.3839,
+    "lon": 48.9392,
+    "population": 48267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salehabad",
+    "region": "Hamadan",
+    "lat": 34.9236,
+    "lon": 48.3425,
+    "population": 48251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Najafābād",
+    "region": "Isfahan",
+    "lat": 32.9333,
+    "lon": 51.1167,
+    "population": 48146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rābor",
+    "region": "Kerman",
+    "lat": 29.25,
+    "lon": 56.9833,
+    "population": 48107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāneh",
+    "region": "Kurdistan",
+    "lat": 35.9975,
+    "lon": 45.8853,
+    "population": 47993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chālūs",
+    "region": "Mazandaran",
+    "lat": 36.655,
+    "lon": 51.4204,
+    "population": 47969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kūhrang",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.4167,
+    "lon": 50,
+    "population": 47963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Zāveh",
+    "region": "Razavi Khorasan",
+    "lat": 35.2833,
+    "lon": 59.7333,
+    "population": 47900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morghabad",
+    "region": "Hamadan",
+    "lat": 35.1883,
+    "lon": 49.2828,
+    "population": 47841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bīrjand",
+    "region": "South Khorasan",
+    "lat": 33.0067,
+    "lon": 59.0722,
+    "population": 47810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Jolfā",
+    "region": "East Azerbaijan",
+    "lat": 38.8334,
+    "lon": 45.9168,
+    "population": 47797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavanaj",
+    "region": "Hamadan",
+    "lat": 34.6639,
+    "lon": 47.8969,
+    "population": 47787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rostam",
+    "region": "Fars",
+    "lat": 30.4,
+    "lon": 51.4167,
+    "population": 47731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandar-e Lengeh",
+    "region": "Hormozgan",
+    "lat": 26.5579,
+    "lon": 54.8807,
+    "population": 47693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "sedeyen-e Yek",
+    "region": "Khuzestan",
+    "lat": 31.362,
+    "lon": 48.8183,
+    "population": 47678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kows̄ar",
+    "region": "Ardabil",
+    "lat": 37.7214,
+    "lon": 48.2698,
+    "population": 47658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheshmeh Qandab",
+    "region": "Hamadan",
+    "lat": 34.6269,
+    "lon": 48.0911,
+    "population": 47624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khorramdarreh",
+    "region": "Zanjan",
+    "lat": 36.2333,
+    "lon": 49.2,
+    "population": 47616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Zābol",
+    "region": "Sistan and Baluchestan",
+    "lat": 30.8543,
+    "lon": 60.8536,
+    "population": 47612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kalāt",
+    "region": "Razavi Khorasan",
+    "lat": 36.9,
+    "lon": 59.9,
+    "population": 47600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soleh Bon",
+    "region": "Tehran",
+    "lat": 35.7684,
+    "lon": 52.5609,
+    "population": 47585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kāmyārān",
+    "region": "Kurdistan",
+    "lat": 34.7956,
+    "lon": 46.9355,
+    "population": 47573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nosratabad-e Behraz",
+    "region": "Hamadan",
+    "lat": 34.6922,
+    "lon": 48.0856,
+    "population": 47553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neyshābūr",
+    "region": "Razavi Khorasan",
+    "lat": 36.2133,
+    "lon": 58.7957,
+    "population": 47541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarijlu",
+    "region": "Hamadan",
+    "lat": 35.6125,
+    "lon": 48.8922,
+    "population": 47503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kīār",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32,
+    "lon": 50.7667,
+    "population": 47456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Meshgīn Shahr",
+    "region": "Ardabil",
+    "lat": 38.4333,
+    "lon": 47.75,
+    "population": 47423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagheh-ye Anuch",
+    "region": "Hamadan",
+    "lat": 34.1478,
+    "lon": 48.5542,
+    "population": 47354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ardestān",
+    "region": "Isfahan",
+    "lat": 33.45,
+    "lon": 52.4333,
+    "population": 47341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Charām",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.7667,
+    "lon": 50.85,
+    "population": 47341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khūsf",
+    "region": "South Khorasan",
+    "lat": 32.1833,
+    "lon": 58.7667,
+    "population": 47341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bīrjand",
+    "region": "South Khorasan",
+    "lat": 32.8663,
+    "lon": 59.2211,
+    "population": 47320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kangān",
+    "region": "Bushehr",
+    "lat": 27.7133,
+    "lon": 52.2686,
+    "population": 47287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kūhbanān",
+    "region": "Kerman",
+    "lat": 31.3833,
+    "lon": 56.3333,
+    "population": 47277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahdishahr",
+    "region": "Semnan",
+    "lat": 35.7081,
+    "lon": 53.3508,
+    "population": 47172,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vafr-e Jin",
+    "region": "Hamadan",
+    "lat": 34.8103,
+    "lon": 48.3842,
+    "population": 47075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niyanj",
+    "region": "Hamadan",
+    "lat": 35.3486,
+    "lon": 48.9172,
+    "population": 47044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laleh Dan",
+    "region": "Hamadan",
+    "lat": 35.5811,
+    "lon": 48.9542,
+    "population": 47009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Dehnow",
+    "region": "Hamadan",
+    "lat": 34.5,
+    "lon": 48.5667,
+    "population": 46984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Lālī",
+    "region": "Khuzestan",
+    "lat": 32.4167,
+    "lon": 49.1667,
+    "population": 46984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Āmol",
+    "region": "Mazandaran",
+    "lat": 36.2,
+    "lon": 52.3833,
+    "population": 46820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bāvī",
+    "region": "Khuzestan",
+    "lat": 31.5,
+    "lon": 48.95,
+    "population": 46817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dezfūl",
+    "region": "Khuzestan",
+    "lat": 32.5667,
+    "lon": 48.7833,
+    "population": 46749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buin va Miandasht",
+    "region": "Isfahan",
+    "lat": 33.0724,
+    "lon": 50.1464,
+    "population": 46740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borūjen",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 31.9652,
+    "lon": 51.2873,
+    "population": 46711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gozal Abdal",
+    "region": "Hamadan",
+    "lat": 35.3217,
+    "lon": 48.2386,
+    "population": 46658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Chādegān",
+    "region": "Isfahan",
+    "lat": 32.75,
+    "lon": 50.5,
+    "population": 46626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lamiyan",
+    "region": "Hamadan",
+    "lat": 34.4628,
+    "lon": 48.1928,
+    "population": 46532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Owryad",
+    "region": "Hamadan",
+    "lat": 35.2628,
+    "lon": 48.3725,
+    "population": 46497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaboodrahang",
+    "region": "Hamadan",
+    "lat": 35.2083,
+    "lon": 48.7239,
+    "population": 46434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tākestān",
+    "region": "Qazvin",
+    "lat": 36,
+    "lon": 49.55,
+    "population": 46429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dehāqān",
+    "region": "Isfahan",
+    "lat": 31.9833,
+    "lon": 51.6,
+    "population": 46427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gostar",
+    "region": "Hamadan",
+    "lat": 35.4639,
+    "lon": 48.8764,
+    "population": 46412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Maḩallāt",
+    "region": "Markazi",
+    "lat": 33.9167,
+    "lon": 50.4167,
+    "population": 46342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khalīlābād",
+    "region": "Razavi Khorasan",
+    "lat": 35.1167,
+    "lon": 58.2,
+    "population": 46310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taraqayah",
+    "region": "Hamadan",
+    "lat": 35.3189,
+    "lon": 48.3711,
+    "population": 46299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khowy",
+    "region": "West Azarbaijan",
+    "lat": 38.5503,
+    "lon": 44.9521,
+    "population": 46293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taleh Jerd-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.0458,
+    "lon": 48.8778,
+    "population": 46239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alvand",
+    "region": "Qazvin",
+    "lat": 36.1893,
+    "lon": 50.0643,
+    "population": 46214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shāhīn Shahr va Meymeh",
+    "region": "Isfahan",
+    "lat": 33.2833,
+    "lon": 51.2,
+    "population": 46212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yekanabad",
+    "region": "Hamadan",
+    "lat": 34.8736,
+    "lon": 48.4542,
+    "population": 46183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robāţ Karīm",
+    "region": "Tehran",
+    "lat": 35.4846,
+    "lon": 51.0829,
+    "population": 46109,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e S̄alās̄-e Bābā Jānī",
+    "region": "Kermanshah",
+    "lat": 34.8167,
+    "lon": 45.9833,
+    "population": 46103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e ‘Abbāsābād",
+    "region": "Mazandaran",
+    "lat": 36.6333,
+    "lon": 51.15,
+    "population": 46089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khāsh",
+    "region": "Sistan and Baluchestan",
+    "lat": 28.2167,
+    "lon": 61.2,
+    "population": 46058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aznā",
+    "region": "Lorestan",
+    "lat": 33.4564,
+    "lon": 49.4565,
+    "population": 46035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Marīvān",
+    "region": "Kurdistan",
+    "lat": 35.5667,
+    "lon": 46.35,
+    "population": 46001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dārāb",
+    "region": "Fars",
+    "lat": 28.5667,
+    "lon": 54.95,
+    "population": 45892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bashāgard",
+    "region": "Hormozgan",
+    "lat": 26.45,
+    "lon": 58.0833,
+    "population": 45886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farrokh Shahr",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.2717,
+    "lon": 50.9801,
+    "population": 45872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bahma’ī",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 31.05,
+    "lon": 50.0833,
+    "population": 45842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Safa Riz",
+    "region": "Hamadan",
+    "lat": 35.4069,
+    "lon": 48.3061,
+    "population": 45780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panbeh Dar",
+    "region": "Hamadan",
+    "lat": 34.0653,
+    "lon": 48.4456,
+    "population": 45779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mīāndoāb",
+    "region": "West Azarbaijan",
+    "lat": 36.9,
+    "lon": 46.2,
+    "population": 45735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahandeh",
+    "region": "Hamadan",
+    "lat": 35.5094,
+    "lon": 49.0475,
+    "population": 45731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharīfābād",
+    "region": "Tehran",
+    "lat": 35.4275,
+    "lon": 51.7853,
+    "population": 45706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gujak",
+    "region": "Hamadan",
+    "lat": 34.5408,
+    "lon": 48.8403,
+    "population": 45670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasanabad-e Sheverin",
+    "region": "Hamadan",
+    "lat": 34.8425,
+    "lon": 48.5492,
+    "population": 45604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Farīmān",
+    "region": "Razavi Khorasan",
+    "lat": 35.7,
+    "lon": 59.8333,
+    "population": 45597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tehrān",
+    "region": "Tehran",
+    "lat": 35.7101,
+    "lon": 51.4174,
+    "population": 45591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shāhīn Shahr",
+    "region": "Isfahan",
+    "lat": 32.8579,
+    "lon": 51.5529,
+    "population": 45543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bam",
+    "region": "Kerman",
+    "lat": 29.0667,
+    "lon": 58.2333,
+    "population": 45524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasleh",
+    "region": "Hamadan",
+    "lat": 35.2128,
+    "lon": 48.3464,
+    "population": 45417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kalāleh",
+    "region": "Golestan",
+    "lat": 37.5333,
+    "lon": 55.5333,
+    "population": 45396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āzādshahr",
+    "region": "Golestan",
+    "lat": 37.0864,
+    "lon": 55.1722,
+    "population": 45385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malārd",
+    "region": "Tehran",
+    "lat": 35.6659,
+    "lon": 50.9767,
+    "population": 45362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandar Lengeh",
+    "region": "Hormozgan",
+    "lat": 26.7833,
+    "lon": 54.65,
+    "population": 45212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ardestān",
+    "region": "Isfahan",
+    "lat": 33.3761,
+    "lon": 52.3694,
+    "population": 45042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bākharz",
+    "region": "Razavi Khorasan",
+    "lat": 35.0167,
+    "lon": 60.2833,
+    "population": 44983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shahreẕā",
+    "region": "Isfahan",
+    "lat": 31.9,
+    "lon": 51.8333,
+    "population": 44889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chenari",
+    "region": "Hamadan",
+    "lat": 34.2319,
+    "lon": 48.1761,
+    "population": 44814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahābād",
+    "region": "West Azarbaijan",
+    "lat": 36.7631,
+    "lon": 45.7222,
+    "population": 44776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anuch",
+    "region": "Hamadan",
+    "lat": 34.1081,
+    "lon": 48.5733,
+    "population": 44771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanjur",
+    "region": "Hamadan",
+    "lat": 35.2972,
+    "lon": 49.1764,
+    "population": 44741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nahavand",
+    "region": "Hamadan",
+    "lat": 34.1883,
+    "lon": 48.3769,
+    "population": 44734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Borūjerd",
+    "region": "Lorestan",
+    "lat": 33.8833,
+    "lon": 48.7167,
+    "population": 44690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarchak",
+    "region": "Tehran",
+    "lat": 35.4287,
+    "lon": 51.5754,
+    "population": 44634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mayāmey",
+    "region": "Semnan",
+    "lat": 36.6333,
+    "lon": 55.95,
+    "population": 44614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandar-e Genāveh",
+    "region": "Bushehr",
+    "lat": 29.5791,
+    "lon": 50.517,
+    "population": 44575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avaj",
+    "region": "Qazvin",
+    "lat": 35.5769,
+    "lon": 49.2224,
+    "population": 44562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Arāk",
+    "region": "Markazi",
+    "lat": 34.1333,
+    "lon": 49.8,
+    "population": 44499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorgān",
+    "region": "Golestan",
+    "lat": 36.8427,
+    "lon": 54.4439,
+    "population": 44491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ghazyatan",
+    "region": "Hamadan",
+    "lat": 35.3322,
+    "lon": 48.9317,
+    "population": 44473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Jīroft",
+    "region": "Kerman",
+    "lat": 28.8333,
+    "lon": 57.5833,
+    "population": 44451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Chārāvīmāq",
+    "region": "East Azerbaijan",
+    "lat": 37.1001,
+    "lon": 47.0668,
+    "population": 44340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biatan-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.0253,
+    "lon": 48.9581,
+    "population": 44327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bonāb",
+    "region": "East Azerbaijan",
+    "lat": 37.3404,
+    "lon": 46.0561,
+    "population": 44312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hashtpar",
+    "region": "Gilan",
+    "lat": 37.7966,
+    "lon": 48.9052,
+    "population": 44295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dārāb",
+    "region": "Fars",
+    "lat": 28.7519,
+    "lon": 54.5444,
+    "population": 44196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shavand",
+    "region": "Hamadan",
+    "lat": 35.3753,
+    "lon": 49.2097,
+    "population": 44196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ziabar (Gaskar)",
+    "region": "Gilan",
+    "lat": 37.4261,
+    "lon": 49.2459,
+    "population": 44159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarrīn Shahr",
+    "region": "Isfahan",
+    "lat": 32.3897,
+    "lon": 51.3766,
+    "population": 44100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oshtoran",
+    "region": "Hamadan",
+    "lat": 34.6381,
+    "lon": 48.2956,
+    "population": 44081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qorveh",
+    "region": "Kurdistan",
+    "lat": 35.1664,
+    "lon": 47.8056,
+    "population": 44078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dogonbadan",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.3586,
+    "lon": 50.7981,
+    "population": 44064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Lordegān",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 31.4333,
+    "lon": 50.8333,
+    "population": 44058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khomeyn",
+    "region": "Markazi",
+    "lat": 33.6389,
+    "lon": 50.08,
+    "population": 43887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kusaj Khalil",
+    "region": "Hamadan",
+    "lat": 34.4042,
+    "lon": 48.5881,
+    "population": 43886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khavāş Kūh",
+    "region": "Yazd",
+    "lat": 32.3061,
+    "lon": 53.6744,
+    "population": 43857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aq Bolagh-e Latgah",
+    "region": "Hamadan",
+    "lat": 34.9844,
+    "lon": 48.5553,
+    "population": 43783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Nīkshahr",
+    "region": "Sistan and Baluchestan",
+    "lat": 26.25,
+    "lon": 60,
+    "population": 43749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Konārak",
+    "region": "Sistan and Baluchestan",
+    "lat": 25.55,
+    "lon": 59.85,
+    "population": 43741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haramabad",
+    "region": "Hamadan",
+    "lat": 34.2817,
+    "lon": 48.7825,
+    "population": 43561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fardis",
+    "region": "Alborz",
+    "lat": 35.7232,
+    "lon": 50.9787,
+    "population": 43481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rafsanjān",
+    "region": "Kerman",
+    "lat": 30.4067,
+    "lon": 55.9939,
+    "population": 43455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yunes",
+    "region": "Hamadan",
+    "lat": 34.1586,
+    "lon": 48.6733,
+    "population": 43378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Naţanz",
+    "region": "Isfahan",
+    "lat": 33.55,
+    "lon": 51.8667,
+    "population": 43361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vardavard-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.7003,
+    "lon": 48.2939,
+    "population": 43319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolanjan",
+    "region": "Hamadan",
+    "lat": 34.5944,
+    "lon": 48.3925,
+    "population": 43238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negarabad",
+    "region": "Hamadan",
+    "lat": 35.4758,
+    "lon": 48.5328,
+    "population": 43204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarvestān",
+    "region": "Fars",
+    "lat": 29.2167,
+    "lon": 53.1333,
+    "population": 43163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Biaj",
+    "region": "Hamadan",
+    "lat": 34.815,
+    "lon": 48.0992,
+    "population": 43072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poldasht",
+    "region": "West Azarbaijan",
+    "lat": 39.348,
+    "lon": 45.071,
+    "population": 43038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kermanshah",
+    "region": "Kermanshah",
+    "lat": 34.3142,
+    "lon": 47.065,
+    "population": 43008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khabar Arkhi",
+    "region": "Hamadan",
+    "lat": 35.3633,
+    "lon": 48.2767,
+    "population": 42957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deh Mianeh",
+    "region": "Hamadan",
+    "lat": 34.1731,
+    "lon": 49.0494,
+    "population": 42955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darreh Mirza",
+    "region": "Hamadan",
+    "lat": 34.3761,
+    "lon": 48.0075,
+    "population": 42938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāmhormoz",
+    "region": "Khuzestan",
+    "lat": 31.28,
+    "lon": 49.6035,
+    "population": 42915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landeh",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.9799,
+    "lon": 50.4247,
+    "population": 42898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajin",
+    "region": "Hamadan",
+    "lat": 34.7361,
+    "lon": 47.9242,
+    "population": 42875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tappeh Yazdan",
+    "region": "Hamadan",
+    "lat": 34.3367,
+    "lon": 48.0225,
+    "population": 42861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bighash",
+    "region": "Hamadan",
+    "lat": 34.0911,
+    "lon": 49.0683,
+    "population": 42806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahram",
+    "region": "Bushehr",
+    "lat": 28.8826,
+    "lon": 51.2746,
+    "population": 42744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golshir",
+    "region": "Hamadan",
+    "lat": 34.4,
+    "lon": 48.6833,
+    "population": 42742,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deh Dalian",
+    "region": "Hamadan",
+    "lat": 34.8047,
+    "lon": 48.7114,
+    "population": 42725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Qazvīn",
+    "region": "Qazvin",
+    "lat": 36.4333,
+    "lon": 49.8167,
+    "population": 42668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Komījān",
+    "region": "Markazi",
+    "lat": 34.7214,
+    "lon": 49.3265,
+    "population": 42649,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chal Boqa",
+    "region": "Hamadan",
+    "lat": 35.4206,
+    "lon": 48.9275,
+    "population": 42591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chowtash",
+    "region": "Hamadan",
+    "lat": 34.8369,
+    "lon": 48.2519,
+    "population": 42542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aliabad-e Posht Shahr",
+    "region": "Hamadan",
+    "lat": 34.8378,
+    "lon": 48.5111,
+    "population": 42531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saman",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.4498,
+    "lon": 50.9138,
+    "population": 42478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fereydan",
+    "region": "Isfahan",
+    "lat": 33.1,
+    "lon": 50.2667,
+    "population": 42464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahdaviyeh",
+    "region": "Hamadan",
+    "lat": 34.0833,
+    "lon": 48.8833,
+    "population": 42457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Andīkā",
+    "region": "Khuzestan",
+    "lat": 32.1667,
+    "lon": 49.5333,
+    "population": 42438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ārān va Bīdgol",
+    "region": "Isfahan",
+    "lat": 34.1,
+    "lon": 51.9,
+    "population": 42401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e ‘Ajab Shīr",
+    "region": "East Azerbaijan",
+    "lat": 37.5,
+    "lon": 45.8334,
+    "population": 42385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taft",
+    "region": "Yazd",
+    "lat": 31.7438,
+    "lon": 54.2028,
+    "population": 42383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajji Tu",
+    "region": "Hamadan",
+    "lat": 34.4508,
+    "lon": 48.3536,
+    "population": 42337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ardabīl",
+    "region": "Ardabil",
+    "lat": 38.25,
+    "lon": 48.3,
+    "population": 42328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saqqez",
+    "region": "Kurdistan",
+    "lat": 36.2499,
+    "lon": 46.2735,
+    "population": 42295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabas",
+    "region": "Yazd",
+    "lat": 33.5959,
+    "lon": 56.9244,
+    "population": 42285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artiman",
+    "region": "Hamadan",
+    "lat": 34.5794,
+    "lon": 48.4478,
+    "population": 42213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gug Qash",
+    "region": "Hamadan",
+    "lat": 35.6875,
+    "lon": 48.0253,
+    "population": 42197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simorgh County",
+    "region": "Mazandaran",
+    "lat": 36.5791,
+    "lon": 52.8236,
+    "population": 42174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Māsāl",
+    "region": "Gilan",
+    "lat": 37.35,
+    "lon": 48.9833,
+    "population": 42135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Pākdasht",
+    "region": "Tehran",
+    "lat": 35.4945,
+    "lon": 51.753,
+    "population": 42093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mehrān",
+    "region": "Ilam",
+    "lat": 33.1222,
+    "lon": 46.1646,
+    "population": 42088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bīnālūd",
+    "region": "Razavi Khorasan",
+    "lat": 36.2667,
+    "lon": 59.3333,
+    "population": 42077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bozchalu",
+    "region": "Hamadan",
+    "lat": 35.1689,
+    "lon": 49.2244,
+    "population": 42035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qahderījān",
+    "region": "Isfahan",
+    "lat": 32.5767,
+    "lon": 51.455,
+    "population": 41945,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vesht",
+    "region": "Hamadan",
+    "lat": 34.1386,
+    "lon": 48.4683,
+    "population": 41872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darcham",
+    "region": "Hamadan",
+    "lat": 34.2603,
+    "lon": 48.8208,
+    "population": 41844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aqcheh Kharabeh",
+    "region": "Hamadan",
+    "lat": 35.7136,
+    "lon": 48.7764,
+    "population": 41800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bushehr",
+    "region": "Bushehr",
+    "lat": 28.9689,
+    "lon": 50.8366,
+    "population": 41799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Masjed Soleymān",
+    "region": "Khuzestan",
+    "lat": 31.9833,
+    "lon": 49.2667,
+    "population": 41694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orūmīyeh",
+    "region": "West Azarbaijan",
+    "lat": 37.5527,
+    "lon": 45.0761,
+    "population": 41654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bajestān",
+    "region": "Razavi Khorasan",
+    "lat": 34.5833,
+    "lon": 58.1333,
+    "population": 41617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qohurd-e Sofla",
+    "region": "Hamadan",
+    "lat": 35.4711,
+    "lon": 48.0594,
+    "population": 41614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qazan Qarah",
+    "region": "Hamadan",
+    "lat": 35.6619,
+    "lon": 48.0822,
+    "population": 41612,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Marāgheh",
+    "region": "East Azerbaijan",
+    "lat": 37.3806,
+    "lon": 46.3937,
+    "population": 41574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marvdasht",
+    "region": "Fars",
+    "lat": 30.0833,
+    "lon": 52.6667,
+    "population": 41546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Jājarm",
+    "region": "North Khorasan",
+    "lat": 37.0167,
+    "lon": 56.6833,
+    "population": 41499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonbad Chay",
+    "region": "Hamadan",
+    "lat": 34.8683,
+    "lon": 48.8314,
+    "population": 41441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saravak",
+    "region": "Hamadan",
+    "lat": 35.1792,
+    "lon": 48.9464,
+    "population": 41432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahard",
+    "region": "Hamadan",
+    "lat": 35.2856,
+    "lon": 49.0053,
+    "population": 41398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omīdīyeh",
+    "region": "Khuzestan",
+    "lat": 30.7628,
+    "lon": 49.7023,
+    "population": 41320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gomush Bolagh",
+    "region": "Hamadan",
+    "lat": 34.9319,
+    "lon": 48.2897,
+    "population": 41314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Pāsārgād",
+    "region": "Fars",
+    "lat": 30.1333,
+    "lon": 53.15,
+    "population": 41314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gurjiu",
+    "region": "Hamadan",
+    "lat": 34.1858,
+    "lon": 48.4056,
+    "population": 41221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marvil",
+    "region": "Hamadan",
+    "lat": 34.1681,
+    "lon": 48.8869,
+    "population": 41201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shush Ab",
+    "region": "Hamadan",
+    "lat": 34.3536,
+    "lon": 48.6322,
+    "population": 41087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaranqu Darreh",
+    "region": "Hamadan",
+    "lat": 35.5131,
+    "lon": 48.1775,
+    "population": 41077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savadkuh-e Shomali",
+    "region": "Mazandaran",
+    "lat": 35.9776,
+    "lon": 52.6825,
+    "population": 41063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dowlujerdin-e Bala",
+    "region": "Hamadan",
+    "lat": 35.3478,
+    "lon": 49.1094,
+    "population": 40966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalilabad",
+    "region": "Hamadan",
+    "lat": 34.3392,
+    "lon": 48.5447,
+    "population": 40961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Semnān",
+    "region": "Semnan",
+    "lat": 35.1167,
+    "lon": 53.7833,
+    "population": 40952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shahrīār",
+    "region": "Tehran",
+    "lat": 35.6283,
+    "lon": 51.0663,
+    "population": 40878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kāshmar",
+    "region": "Razavi Khorasan",
+    "lat": 35.2383,
+    "lon": 58.4656,
+    "population": 40775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fannūj",
+    "region": "Sistan and Baluchestan",
+    "lat": 26.5758,
+    "lon": 59.6397,
+    "population": 40764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banesareh",
+    "region": "Hamadan",
+    "lat": 34.2375,
+    "lon": 48.4333,
+    "population": 40738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aqa Bolaghi",
+    "region": "Hamadan",
+    "lat": 35.3669,
+    "lon": 48.2436,
+    "population": 40710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Nīr",
+    "region": "Ardabil",
+    "lat": 38,
+    "lon": 48.0833,
+    "population": 40562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bish Aghaj",
+    "region": "Hamadan",
+    "lat": 34.4611,
+    "lon": 48.7858,
+    "population": 40556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Musa Bolaghi",
+    "region": "Hamadan",
+    "lat": 34.5989,
+    "lon": 48.9411,
+    "population": 40555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bāsht",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.45,
+    "lon": 51.1167,
+    "population": 40545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nīkshahr",
+    "region": "Sistan and Baluchestan",
+    "lat": 26.2258,
+    "lon": 60.2143,
+    "population": 40500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arāk",
+    "region": "Markazi",
+    "lat": 34.0949,
+    "lon": 49.6981,
+    "population": 40468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kherāmeh",
+    "region": "Fars",
+    "lat": 29.5,
+    "lon": 53.25,
+    "population": 40386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Malu",
+    "region": "Hamadan",
+    "lat": 34.9122,
+    "lon": 48.0661,
+    "population": 40384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tāybād",
+    "region": "Razavi Khorasan",
+    "lat": 34.74,
+    "lon": 60.7756,
+    "population": 40379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nowshahr",
+    "region": "Mazandaran",
+    "lat": 36.6485,
+    "lon": 51.4962,
+    "population": 40339,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ardakān",
+    "region": "Yazd",
+    "lat": 32.65,
+    "lon": 54.65,
+    "population": 40333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khvajeh Hesar",
+    "region": "Hamadan",
+    "lat": 35,
+    "lon": 49.3392,
+    "population": 40324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shanabad",
+    "region": "Hamadan",
+    "lat": 34.6089,
+    "lon": 48.1042,
+    "population": 40305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kāmyārān",
+    "region": "Kurdistan",
+    "lat": 34.9167,
+    "lon": 46.9167,
+    "population": 40278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baraband",
+    "region": "Hamadan",
+    "lat": 34.7519,
+    "lon": 48.7986,
+    "population": 40197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Manūjān",
+    "region": "Kerman",
+    "lat": 27.35,
+    "lon": 57.6167,
+    "population": 40143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isfahan",
+    "region": "Isfahan",
+    "lat": 32.6525,
+    "lon": 51.6746,
+    "population": 40140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaşr-e Qand",
+    "region": "Sistan and Baluchestan",
+    "lat": 26.2483,
+    "lon": 60.7525,
+    "population": 40139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qoli Laleh-ye Sofla",
+    "region": "Hamadan",
+    "lat": 34.5281,
+    "lon": 48.2597,
+    "population": 40068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Aznā",
+    "region": "Lorestan",
+    "lat": 33.4667,
+    "lon": 49.4167,
+    "population": 40029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sar‘eyn",
+    "region": "Ardabil",
+    "lat": 38.1833,
+    "lon": 47.9833,
+    "population": 40026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torbat-e Ḩeydarīyeh",
+    "region": "Razavi Khorasan",
+    "lat": 35.274,
+    "lon": 59.2195,
+    "population": 40024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Māneh va Samalqān",
+    "region": "North Khorasan",
+    "lat": 37.7,
+    "lon": 56.6,
+    "population": 40010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jighi",
+    "region": "Hamadan",
+    "lat": 35.2003,
+    "lon": 48.4939,
+    "population": 39851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rumeshkhan County",
+    "region": "Lorestan",
+    "lat": 33.2796,
+    "lon": 47.49,
+    "population": 39832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sāveh",
+    "region": "Markazi",
+    "lat": 35.1,
+    "lon": 49.9833,
+    "population": 39795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lalejin",
+    "region": "Hamadan",
+    "lat": 34.9744,
+    "lon": 48.4756,
+    "population": 39768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Eqlīd",
+    "region": "Fars",
+    "lat": 30.7,
+    "lon": 52.4,
+    "population": 39726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nazul",
+    "region": "Hamadan",
+    "lat": 34.2283,
+    "lon": 48.7181,
+    "population": 39697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khorramabad",
+    "region": "Lorestan",
+    "lat": 33.4878,
+    "lon": 48.3558,
+    "population": 39664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reza Baghi",
+    "region": "Hamadan",
+    "lat": 35.1828,
+    "lon": 49.3144,
+    "population": 39561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kuhani",
+    "region": "Hamadan",
+    "lat": 34.1539,
+    "lon": 48.405,
+    "population": 39556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Semnan",
+    "region": "Semnan",
+    "lat": 35.5769,
+    "lon": 53.392,
+    "population": 39504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rey",
+    "region": "Tehran",
+    "lat": 35.3745,
+    "lon": 51.2774,
+    "population": 39491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrekord",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.3167,
+    "lon": 50.8,
+    "population": 39479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alanjeh",
+    "region": "Hamadan",
+    "lat": 34.7508,
+    "lon": 47.9597,
+    "population": 39463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siah Goleh",
+    "region": "Hamadan",
+    "lat": 34.9458,
+    "lon": 47.9683,
+    "population": 39456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kohnush",
+    "region": "Hamadan",
+    "lat": 34.7258,
+    "lon": 48.2778,
+    "population": 39374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qilab",
+    "region": "Hamadan",
+    "lat": 34.3044,
+    "lon": 48.0608,
+    "population": 39332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mowdaran",
+    "region": "Hamadan",
+    "lat": 34.3325,
+    "lon": 48.4714,
+    "population": 39278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āstāneh-ye Ashrafīyeh",
+    "region": "Gilan",
+    "lat": 37.2632,
+    "lon": 49.9432,
+    "population": 39262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganjab",
+    "region": "Hamadan",
+    "lat": 34.4528,
+    "lon": 48.9872,
+    "population": 39255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gur Gaz",
+    "region": "Hamadan",
+    "lat": 34.9333,
+    "lon": 48.7911,
+    "population": 39243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darrehshahr",
+    "region": "Ilam",
+    "lat": 33.1333,
+    "lon": 47.3667,
+    "population": 39179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tavilan-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.7994,
+    "lon": 47.8694,
+    "population": 39168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Zāhedān",
+    "region": "Sistan and Baluchestan",
+    "lat": 29.48,
+    "lon": 60.2481,
+    "population": 39159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Anuch",
+    "region": "Hamadan",
+    "lat": 34.1161,
+    "lon": 48.5778,
+    "population": 39154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charoq",
+    "region": "Hamadan",
+    "lat": 34.8442,
+    "lon": 48.0661,
+    "population": 39133,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Reẕvānshahr",
+    "region": "Gilan",
+    "lat": 37.5333,
+    "lon": 48.95,
+    "population": 39114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamidiyeh",
+    "region": "Khuzestan",
+    "lat": 31.4811,
+    "lon": 48.433,
+    "population": 39112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mehrestān",
+    "region": "Sistan and Baluchestan",
+    "lat": 27.05,
+    "lon": 61.5333,
+    "population": 39098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shūsh",
+    "region": "Khuzestan",
+    "lat": 32.1942,
+    "lon": 48.2436,
+    "population": 39068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrak-e Kūlūrī",
+    "region": "Khuzestan",
+    "lat": 32.3528,
+    "lon": 48.4706,
+    "population": 38862,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Neshar",
+    "region": "Hamadan",
+    "lat": 34.6772,
+    "lon": 48.8669,
+    "population": 38836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahrīz",
+    "region": "Kermanshah",
+    "lat": 34.3838,
+    "lon": 47.0553,
+    "population": 38828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e ‘Anbarābād",
+    "region": "Kerman",
+    "lat": 28.4333,
+    "lon": 58.1667,
+    "population": 38826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pol-e Dokhtar",
+    "region": "Lorestan",
+    "lat": 33.1667,
+    "lon": 48,
+    "population": 38755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amirabad-e Kord",
+    "region": "Hamadan",
+    "lat": 34.9761,
+    "lon": 49.0917,
+    "population": 38711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varayeneh",
+    "region": "Hamadan",
+    "lat": 34.0792,
+    "lon": 48.4056,
+    "population": 38700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mahābād",
+    "region": "West Azarbaijan",
+    "lat": 36.7667,
+    "lon": 45.7333,
+    "population": 38674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bashqurtaran",
+    "region": "Hamadan",
+    "lat": 35.6372,
+    "lon": 48.1169,
+    "population": 38670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boshrūyeh",
+    "region": "South Khorasan",
+    "lat": 34.1667,
+    "lon": 57.4167,
+    "population": 38662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farsban",
+    "region": "Hamadan",
+    "lat": 34.2442,
+    "lon": 48.1192,
+    "population": 38642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holvar-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.68,
+    "lon": 48.1347,
+    "population": 38634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghajari",
+    "region": "Khuzestan",
+    "lat": 30.7006,
+    "lon": 49.8315,
+    "population": 38568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deh Nush",
+    "region": "Hamadan",
+    "lat": 34.7611,
+    "lon": 48.0031,
+    "population": 38559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheshmeh Qassaban",
+    "region": "Hamadan",
+    "lat": 34.8578,
+    "lon": 48.4189,
+    "population": 38537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tafresh",
+    "region": "Markazi",
+    "lat": 34.6931,
+    "lon": 50.016,
+    "population": 38494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirjaveh",
+    "region": "Sistan and Baluchestan",
+    "lat": 29.0175,
+    "lon": 61.4505,
+    "population": 38428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sabzevar",
+    "region": "Razavi Khorasan",
+    "lat": 36.2126,
+    "lon": 57.6819,
+    "population": 38427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abhar",
+    "region": "Zanjan",
+    "lat": 36.1468,
+    "lon": 49.218,
+    "population": 38406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Pust Shuran",
+    "region": "Hamadan",
+    "lat": 34.4031,
+    "lon": 48.2164,
+    "population": 38353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarāyān",
+    "region": "South Khorasan",
+    "lat": 33.4167,
+    "lon": 58.3167,
+    "population": 38349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varazaneh",
+    "region": "Hamadan",
+    "lat": 34.1864,
+    "lon": 48.1861,
+    "population": 38337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bavānāt",
+    "region": "Fars",
+    "lat": 30.3333,
+    "lon": 53.6667,
+    "population": 38298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Danā",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.95,
+    "lon": 51.2833,
+    "population": 38286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheshmeh Zowraq",
+    "region": "Hamadan",
+    "lat": 34.0661,
+    "lon": 49.1008,
+    "population": 38233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zagheh-ye Tasbandi",
+    "region": "Hamadan",
+    "lat": 34.6036,
+    "lon": 48.8111,
+    "population": 38165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sistaneh",
+    "region": "Hamadan",
+    "lat": 34.6633,
+    "lon": 48.3206,
+    "population": 38135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tonekābon",
+    "region": "Mazandaran",
+    "lat": 36.6333,
+    "lon": 50.8,
+    "population": 38128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Chālūs",
+    "region": "Mazandaran",
+    "lat": 36.45,
+    "lon": 51.1667,
+    "population": 38117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tafrijan",
+    "region": "Hamadan",
+    "lat": 34.7633,
+    "lon": 48.5819,
+    "population": 38087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fūman",
+    "region": "Gilan",
+    "lat": 37.224,
+    "lon": 49.3125,
+    "population": 38072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Malārd",
+    "region": "Tehran",
+    "lat": 35.6333,
+    "lon": 50.65,
+    "population": 38041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molla Bodagh",
+    "region": "Hamadan",
+    "lat": 35.6314,
+    "lon": 48.7389,
+    "population": 38025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sepīdān",
+    "region": "Fars",
+    "lat": 30.15,
+    "lon": 52.1,
+    "population": 38003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rahmanabad, Malayer",
+    "region": "Hamadan",
+    "lat": 34.0886,
+    "lon": 48.5856,
+    "population": 37983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarpol-e Z̄ahāb",
+    "region": "Kermanshah",
+    "lat": 34.4611,
+    "lon": 45.8626,
+    "population": 37956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulvand",
+    "region": "Hamadan",
+    "lat": 34.3808,
+    "lon": 48.9753,
+    "population": 37866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Chābahār",
+    "region": "Sistan and Baluchestan",
+    "lat": 25.5683,
+    "lon": 61.2107,
+    "population": 37852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abrumand",
+    "region": "Hamadan",
+    "lat": 34.9028,
+    "lon": 48.3203,
+    "population": 37842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dashtī",
+    "region": "Bushehr",
+    "lat": 28.4869,
+    "lon": 51.5618,
+    "population": 37808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kahnūj",
+    "region": "Kerman",
+    "lat": 27.9,
+    "lon": 57.6167,
+    "population": 37749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Borūjen",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 31.9,
+    "lon": 51.2,
+    "population": 37735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fīrūzkūh",
+    "region": "Tehran",
+    "lat": 35.7285,
+    "lon": 52.7416,
+    "population": 37733,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eqbālīyeh",
+    "region": "Tehran",
+    "lat": 35.3022,
+    "lon": 51.5358,
+    "population": 37621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Latgah",
+    "region": "Hamadan",
+    "lat": 34.9894,
+    "lon": 48.5464,
+    "population": 37574,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Savādkūh",
+    "region": "Mazandaran",
+    "lat": 36.0833,
+    "lon": 52.9167,
+    "population": 37506,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mah Velāt",
+    "region": "Razavi Khorasan",
+    "lat": 34.9833,
+    "lon": 58.7833,
+    "population": 37484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sabzevār",
+    "region": "Razavi Khorasan",
+    "lat": 36.0167,
+    "lon": 57.4167,
+    "population": 37465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoseynabad-e Nazem",
+    "region": "Hamadan",
+    "lat": 34.2953,
+    "lon": 48.6042,
+    "population": 37453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takhtiabad",
+    "region": "Hamadan",
+    "lat": 34.8122,
+    "lon": 47.8378,
+    "population": 37349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Eslāmābād-e Gharb",
+    "region": "Kermanshah",
+    "lat": 34.05,
+    "lon": 46.6667,
+    "population": 37278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mīnāb",
+    "region": "Hormozgan",
+    "lat": 27.131,
+    "lon": 57.0872,
+    "population": 37216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Behbahān",
+    "region": "Khuzestan",
+    "lat": 30.5959,
+    "lon": 50.2417,
+    "population": 37204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasanabad-e Qush Bolagh",
+    "region": "Hamadan",
+    "lat": 34.4236,
+    "lon": 48.6544,
+    "population": 37152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alan-e Sofla",
+    "region": "Hamadan",
+    "lat": 35.2842,
+    "lon": 48.2158,
+    "population": 37124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angoshteh",
+    "region": "Hamadan",
+    "lat": 34.0914,
+    "lon": 48.54,
+    "population": 37108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahre Jadide Andisheh",
+    "region": "Tehran",
+    "lat": 35.6803,
+    "lon": 51.0193,
+    "population": 36999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aqa Jan Bolaghi",
+    "region": "Hamadan",
+    "lat": 34.8458,
+    "lon": 48.0531,
+    "population": 36977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maryanaj",
+    "region": "Hamadan",
+    "lat": 34.8308,
+    "lon": 48.4592,
+    "population": 36836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qayesh",
+    "region": "Hamadan",
+    "lat": 35.4961,
+    "lon": 48.8669,
+    "population": 36731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dowlatabad-e Hajjilu",
+    "region": "Hamadan",
+    "lat": 35.2811,
+    "lon": 48.8869,
+    "population": 36706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mīāneh",
+    "region": "East Azerbaijan",
+    "lat": 37.4167,
+    "lon": 47.7,
+    "population": 36651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farvaz",
+    "region": "Hamadan",
+    "lat": 34.2269,
+    "lon": 48.9011,
+    "population": 36606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Namileh",
+    "region": "Hamadan",
+    "lat": 34.2711,
+    "lon": 48.82,
+    "population": 36576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qasabestan",
+    "region": "Hamadan",
+    "lat": 34.42,
+    "lon": 48.1878,
+    "population": 36503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babolqani",
+    "region": "Hamadan",
+    "lat": 34.2428,
+    "lon": 49.0575,
+    "population": 36493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kīsh",
+    "region": "Hormozgan",
+    "lat": 26.5578,
+    "lon": 54.0194,
+    "population": 36305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahman",
+    "region": "Hamadan",
+    "lat": 34.2608,
+    "lon": 48.2708,
+    "population": 36277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bad Khvoreh",
+    "region": "Hamadan",
+    "lat": 34.7431,
+    "lon": 48.0803,
+    "population": 36235,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nashtārūd",
+    "region": "Mazandaran",
+    "lat": 36.7509,
+    "lon": 51.0236,
+    "population": 36220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Segavi",
+    "region": "Hamadan",
+    "lat": 34.5853,
+    "lon": 48.1008,
+    "population": 36194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monavvar Tappeh",
+    "region": "Hamadan",
+    "lat": 34.7203,
+    "lon": 47.9111,
+    "population": 36175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bojnūrd",
+    "region": "North Khorasan",
+    "lat": 37.8333,
+    "lon": 57.3333,
+    "population": 36117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ben",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.5356,
+    "lon": 50.752,
+    "population": 36055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khalil Kord",
+    "region": "Hamadan",
+    "lat": 34.9781,
+    "lon": 48.2531,
+    "population": 36047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surtajin",
+    "region": "Hamadan",
+    "lat": 35.5356,
+    "lon": 49.0139,
+    "population": 35979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Nekā",
+    "region": "Mazandaran",
+    "lat": 36.5167,
+    "lon": 53.6,
+    "population": 35943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Firuzan",
+    "region": "Hamadan",
+    "lat": 34.2786,
+    "lon": 48.24,
+    "population": 35923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bābolsar",
+    "region": "Mazandaran",
+    "lat": 36.6667,
+    "lon": 52.7333,
+    "population": 35846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aznahri",
+    "region": "Hamadan",
+    "lat": 34.2375,
+    "lon": 48.1483,
+    "population": 35701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehdasht",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.7949,
+    "lon": 50.5646,
+    "population": 35584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qaser-e Qand",
+    "region": "Sistan and Baluchestan",
+    "lat": 26.2269,
+    "lon": 60.7455,
+    "population": 35557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tas Tappeh",
+    "region": "Hamadan",
+    "lat": 35.1639,
+    "lon": 48.4833,
+    "population": 35531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mākū",
+    "region": "West Azarbaijan",
+    "lat": 39.4167,
+    "lon": 44.5834,
+    "population": 35527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahr-e Qadīm-e Lār",
+    "region": "Fars",
+    "lat": 27.6834,
+    "lon": 54.3417,
+    "population": 35451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Nehbandān",
+    "region": "South Khorasan",
+    "lat": 31.5667,
+    "lon": 59.8167,
+    "population": 35446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tasran",
+    "region": "Hamadan",
+    "lat": 35.3383,
+    "lon": 48.6339,
+    "population": 35406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bitervan",
+    "region": "Hamadan",
+    "lat": 34.6544,
+    "lon": 47.9106,
+    "population": 35346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khondāb",
+    "region": "Markazi",
+    "lat": 34.3667,
+    "lon": 49.1833,
+    "population": 35341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Yusof",
+    "region": "Hamadan",
+    "lat": 34.6889,
+    "lon": 47.8928,
+    "population": 35227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salmās",
+    "region": "West Azarbaijan",
+    "lat": 38.1973,
+    "lon": 44.7653,
+    "population": 35192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vali Mohammad",
+    "region": "Hamadan",
+    "lat": 35.1519,
+    "lon": 48.3806,
+    "population": 35187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarayjuq",
+    "region": "Hamadan",
+    "lat": 35.4289,
+    "lon": 47.9619,
+    "population": 35184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shāhrūd",
+    "region": "Semnan",
+    "lat": 35.5,
+    "lon": 55.5,
+    "population": 35159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Āstārā",
+    "region": "Gilan",
+    "lat": 38.3333,
+    "lon": 48.7667,
+    "population": 35145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yunji",
+    "region": "Hamadan",
+    "lat": 34.3586,
+    "lon": 48.7817,
+    "population": 35112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kheyr Qoli",
+    "region": "Hamadan",
+    "lat": 34.2022,
+    "lon": 48.4014,
+    "population": 35089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrud",
+    "region": "Semnan",
+    "lat": 36.4182,
+    "lon": 54.9763,
+    "population": 35060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delfan",
+    "region": "Lorestan",
+    "lat": 34.05,
+    "lon": 47.7833,
+    "population": 35051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mishen",
+    "region": "Hamadan",
+    "lat": 34.1575,
+    "lon": 48.9272,
+    "population": 34927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestan-e Kalār Dasht",
+    "region": "Mazandaran",
+    "lat": 36.45,
+    "lon": 51.1167,
+    "population": 34892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khalkhāl",
+    "region": "Ardabil",
+    "lat": 37.6184,
+    "lon": 48.5293,
+    "population": 34855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pardis",
+    "region": "Tehran",
+    "lat": 35.7417,
+    "lon": 51.7771,
+    "population": 34789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sorkh Kand",
+    "region": "Hamadan",
+    "lat": 34.0875,
+    "lon": 48.4292,
+    "population": 34786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e ‘Asalūyeh",
+    "region": "Bushehr",
+    "lat": 27.45,
+    "lon": 52.7333,
+    "population": 34775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Deh Ful",
+    "region": "Hamadan",
+    "lat": 34.2439,
+    "lon": 48.3375,
+    "population": 34758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chāypāreh",
+    "region": "West Azarbaijan",
+    "lat": 38.8667,
+    "lon": 45,
+    "population": 34667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Torbat-e Jām",
+    "region": "Razavi Khorasan",
+    "lat": 35.4667,
+    "lon": 60.7833,
+    "population": 34575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarand",
+    "region": "Kerman",
+    "lat": 30.8127,
+    "lon": 56.564,
+    "population": 34539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohammadabad-e Chulak",
+    "region": "Hamadan",
+    "lat": 34.2467,
+    "lon": 48.3044,
+    "population": 34474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shahr-e Bābak",
+    "region": "Kerman",
+    "lat": 30.2333,
+    "lon": 55.05,
+    "population": 34447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rāmhormoz",
+    "region": "Khuzestan",
+    "lat": 31.2167,
+    "lon": 49.65,
+    "population": 34365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samen",
+    "region": "Hamadan",
+    "lat": 34.2092,
+    "lon": 48.7058,
+    "population": 34349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abdol Rahim",
+    "region": "Hamadan",
+    "lat": 34.6264,
+    "lon": 49.0175,
+    "population": 34270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ābādeh",
+    "region": "Fars",
+    "lat": 31.1608,
+    "lon": 52.6506,
+    "population": 34248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Famenin",
+    "region": "Hamadan",
+    "lat": 35.1139,
+    "lon": 48.9717,
+    "population": 34225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Joghatāy",
+    "region": "Razavi Khorasan",
+    "lat": 36.6667,
+    "lon": 57.0333,
+    "population": 34224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Qā’en",
+    "region": "South Khorasan",
+    "lat": 33.742,
+    "lon": 59.3502,
+    "population": 34223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damāvand",
+    "region": "Tehran",
+    "lat": 35.7184,
+    "lon": 52.0696,
+    "population": 34210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pārsābād",
+    "region": "Ardabil",
+    "lat": 39.6482,
+    "lon": 47.9174,
+    "population": 34152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zangeneh-ye Sofla",
+    "region": "Hamadan",
+    "lat": 34.1467,
+    "lon": 49.0167,
+    "population": 34082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aqchelu",
+    "region": "Hamadan",
+    "lat": 35.1314,
+    "lon": 48.4917,
+    "population": 34078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaria",
+    "region": "Hamadan",
+    "lat": 34.3517,
+    "lon": 48.4686,
+    "population": 34075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalāleh",
+    "region": "Golestan",
+    "lat": 37.379,
+    "lon": 55.493,
+    "population": 34043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāgh Shahrestān-e Malek",
+    "region": "Khuzestan",
+    "lat": 31.5,
+    "lon": 49.9167,
+    "population": 33982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tīrān",
+    "region": "Isfahan",
+    "lat": 32.7026,
+    "lon": 51.1537,
+    "population": 33972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Īrānshahr",
+    "region": "Sistan and Baluchestan",
+    "lat": 27.6195,
+    "lon": 60.2107,
+    "population": 33950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fārsān",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.2569,
+    "lon": 50.5609,
+    "population": 33853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dāvarzan",
+    "region": "Razavi Khorasan",
+    "lat": 36.3333,
+    "lon": 56.8333,
+    "population": 33719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Daqdaqabad",
+    "region": "Hamadan",
+    "lat": 35.1828,
+    "lon": 48.7883,
+    "population": 33687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eskanan",
+    "region": "Hamadan",
+    "lat": 34.3581,
+    "lon": 48.5928,
+    "population": 33681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gav Zaban",
+    "region": "Hamadan",
+    "lat": 35.2292,
+    "lon": 48.3053,
+    "population": 33619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Damāvand",
+    "region": "Tehran",
+    "lat": 35.63,
+    "lon": 52.1375,
+    "population": 33557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gachsārān",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.3333,
+    "lon": 50.75,
+    "population": 33537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oshnavīyeh",
+    "region": "West Azarbaijan",
+    "lat": 37.0397,
+    "lon": 45.0983,
+    "population": 33504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheshmeh Malek",
+    "region": "Hamadan",
+    "lat": 34.755,
+    "lon": 48.4931,
+    "population": 33499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chādegān",
+    "region": "Isfahan",
+    "lat": 32.7683,
+    "lon": 50.6287,
+    "population": 33443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borāzjān",
+    "region": "Bushehr",
+    "lat": 29.2699,
+    "lon": 51.2188,
+    "population": 33413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Firuzabad-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.3469,
+    "lon": 48.0964,
+    "population": 33412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Najaf",
+    "region": "Hamadan",
+    "lat": 34.3722,
+    "lon": 48.245,
+    "population": 33405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tīrān va Karvan",
+    "region": "Isfahan",
+    "lat": 32.8333,
+    "lon": 50.9167,
+    "population": 33344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasanabad-e Emam",
+    "region": "Hamadan",
+    "lat": 34.9503,
+    "lon": 48.0508,
+    "population": 33227,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tahunabad",
+    "region": "Hamadan",
+    "lat": 34.8386,
+    "lon": 48.8664,
+    "population": 33105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeserlu",
+    "region": "Hamadan",
+    "lat": 35.0611,
+    "lon": 48.7836,
+    "population": 33069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Falāvarjān",
+    "region": "Isfahan",
+    "lat": 32.5,
+    "lon": 51.5,
+    "population": 33040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arikan",
+    "region": "Hamadan",
+    "lat": 34.5322,
+    "lon": 48.3606,
+    "population": 33035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boyukabad",
+    "region": "Hamadan",
+    "lat": 35.0597,
+    "lon": 48.8417,
+    "population": 33005,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saluk",
+    "region": "Hamadan",
+    "lat": 34.3414,
+    "lon": 48.9931,
+    "population": 32938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bargecheh",
+    "region": "Hamadan",
+    "lat": 34.4514,
+    "lon": 48.3011,
+    "population": 32896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tutal",
+    "region": "Hamadan",
+    "lat": 34.515,
+    "lon": 49.0214,
+    "population": 32880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shūshtar",
+    "region": "Khuzestan",
+    "lat": 32.0497,
+    "lon": 48.8484,
+    "population": 32811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akleh",
+    "region": "Hamadan",
+    "lat": 35.2028,
+    "lon": 49.0825,
+    "population": 32803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kowzareh",
+    "region": "Hamadan",
+    "lat": 34.6986,
+    "lon": 49.0114,
+    "population": 32790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masjed Soleymān",
+    "region": "Khuzestan",
+    "lat": 31.9364,
+    "lon": 49.3039,
+    "population": 32781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shādegān",
+    "region": "Khuzestan",
+    "lat": 30.6667,
+    "lon": 48.6667,
+    "population": 32779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keyni Sayeh",
+    "region": "Hamadan",
+    "lat": 34.8258,
+    "lon": 47.8864,
+    "population": 32745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamilabad",
+    "region": "Hamadan",
+    "lat": 34.4025,
+    "lon": 48.4608,
+    "population": 32687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheshmeh Valad",
+    "region": "Hamadan",
+    "lat": 34.8781,
+    "lon": 47.9839,
+    "population": 32673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakin",
+    "region": "Hamadan",
+    "lat": 35.3881,
+    "lon": 49.2653,
+    "population": 32663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belartu",
+    "region": "Hamadan",
+    "lat": 34.3356,
+    "lon": 48.5158,
+    "population": 32642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eslāmshahr",
+    "region": "Tehran",
+    "lat": 35.5522,
+    "lon": 51.235,
+    "population": 32502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zābol",
+    "region": "Sistan and Baluchestan",
+    "lat": 31.0306,
+    "lon": 61.4949,
+    "population": 32499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shirin Su",
+    "region": "Hamadan",
+    "lat": 35.4928,
+    "lon": 48.4506,
+    "population": 32445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kāshmar",
+    "region": "Razavi Khorasan",
+    "lat": 35.4333,
+    "lon": 58.4833,
+    "population": 32419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mangavi",
+    "region": "Hamadan",
+    "lat": 34.6575,
+    "lon": 48.7086,
+    "population": 32380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esfarāyen",
+    "region": "North Khorasan",
+    "lat": 37.0765,
+    "lon": 57.5101,
+    "population": 32365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Esfarāyen",
+    "region": "North Khorasan",
+    "lat": 37,
+    "lon": 57.55,
+    "population": 32348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Şaḩneh",
+    "region": "Kermanshah",
+    "lat": 34.5833,
+    "lon": 47.5167,
+    "population": 32309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Behbahān",
+    "region": "Khuzestan",
+    "lat": 30.5667,
+    "lon": 50.2,
+    "population": 32303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kāzerūn",
+    "region": "Fars",
+    "lat": 29.6192,
+    "lon": 51.6535,
+    "population": 32293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vashur",
+    "region": "Hamadan",
+    "lat": 35.2317,
+    "lon": 48.3517,
+    "population": 32282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramishan",
+    "region": "Hamadan",
+    "lat": 35.1597,
+    "lon": 48.805,
+    "population": 32208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamzehlu-ye Sofla",
+    "region": "Hamadan",
+    "lat": 34.0578,
+    "lon": 49.0778,
+    "population": 32203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meybod",
+    "region": "Yazd",
+    "lat": 32.1833,
+    "lon": 53.9333,
+    "population": 32196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chahar Bolagh",
+    "region": "Hamadan",
+    "lat": 35.5811,
+    "lon": 48.65,
+    "population": 32126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khomeynī Shahr",
+    "region": "Isfahan",
+    "lat": 32.6856,
+    "lon": 51.5361,
+    "population": 32118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Varzaqān",
+    "region": "East Azerbaijan",
+    "lat": 38.5949,
+    "lon": 46.464,
+    "population": 32050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dahnejerd",
+    "region": "Hamadan",
+    "lat": 34.9675,
+    "lon": 48.5006,
+    "population": 32027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tehran",
+    "region": "Tehran",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "population": 32024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aghcheh Qayah",
+    "region": "Hamadan",
+    "lat": 35.35,
+    "lon": 48.3425,
+    "population": 32014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dāmghān",
+    "region": "Semnan",
+    "lat": 35.5,
+    "lon": 54.3333,
+    "population": 31972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jin Taraqayah",
+    "region": "Hamadan",
+    "lat": 35.3456,
+    "lon": 48.4325,
+    "population": 31964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fārsān",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.2578,
+    "lon": 50.5624,
+    "population": 31962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Hendījān",
+    "region": "Khuzestan",
+    "lat": 30.3333,
+    "lon": 49.6,
+    "population": 31956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mamasanī",
+    "region": "Fars",
+    "lat": 30.0333,
+    "lon": 51.3833,
+    "population": 31875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Eslāmshahr",
+    "region": "Tehran",
+    "lat": 35.5833,
+    "lon": 51.25,
+    "population": 31874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaslan Qayah",
+    "region": "Hamadan",
+    "lat": 35.1939,
+    "lon": 48.1861,
+    "population": 31796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bahārestān",
+    "region": "Tehran",
+    "lat": 35.5333,
+    "lon": 51.15,
+    "population": 31790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahriz-e Jamal",
+    "region": "Hamadan",
+    "lat": 34.335,
+    "lon": 48.1461,
+    "population": 31779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasulabad-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.8789,
+    "lon": 48.2186,
+    "population": 31761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falāvarjān",
+    "region": "Isfahan",
+    "lat": 32.5553,
+    "lon": 51.5097,
+    "population": 31760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dalgān",
+    "region": "Sistan and Baluchestan",
+    "lat": 27.3167,
+    "lon": 59.3,
+    "population": 31739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bozineh Jerd",
+    "region": "Hamadan",
+    "lat": 35.0247,
+    "lon": 48.9439,
+    "population": 31661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jūybār",
+    "region": "Mazandaran",
+    "lat": 36.6412,
+    "lon": 52.9124,
+    "population": 31550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gavkaran",
+    "region": "Hamadan",
+    "lat": 34.4869,
+    "lon": 48.12,
+    "population": 31500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rezvankadeh",
+    "region": "Hamadan",
+    "lat": 34.25,
+    "lon": 48.8333,
+    "population": 31499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abshineh",
+    "region": "Hamadan",
+    "lat": 34.7819,
+    "lon": 48.6147,
+    "population": 31455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khalkhāl",
+    "region": "Ardabil",
+    "lat": 37.406,
+    "lon": 48.5447,
+    "population": 31430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juraqan",
+    "region": "Hamadan",
+    "lat": 34.8847,
+    "lon": 48.5544,
+    "population": 31413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Razini",
+    "region": "Hamadan",
+    "lat": 34.2678,
+    "lon": 48.1261,
+    "population": 31349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kark-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.1694,
+    "lon": 48.2914,
+    "population": 31198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hashtrūd",
+    "region": "East Azerbaijan",
+    "lat": 37.4779,
+    "lon": 47.0508,
+    "population": 31066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pileh Jin",
+    "region": "Hamadan",
+    "lat": 35.3839,
+    "lon": 48.8558,
+    "population": 30997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khūr va Bīābānak",
+    "region": "Isfahan",
+    "lat": 33.7667,
+    "lon": 54.8833,
+    "population": 30985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quch Tappeh",
+    "region": "Hamadan",
+    "lat": 34.9272,
+    "lon": 48.0261,
+    "population": 30974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gol Darreh-ye Anuch",
+    "region": "Hamadan",
+    "lat": 34.1022,
+    "lon": 48.5986,
+    "population": 30971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasan Teymur",
+    "region": "Hamadan",
+    "lat": 35.3758,
+    "lon": 48.3636,
+    "population": 30917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bustandar",
+    "region": "Hamadan",
+    "lat": 34.4486,
+    "lon": 48.4194,
+    "population": 30878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kavār",
+    "region": "Fars",
+    "lat": 29.2167,
+    "lon": 52.7333,
+    "population": 30834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kūhdasht",
+    "region": "Lorestan",
+    "lat": 33.5167,
+    "lon": 47.4,
+    "population": 30826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Giyan",
+    "region": "Hamadan",
+    "lat": 34.1781,
+    "lon": 48.2442,
+    "population": 30809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varkaneh",
+    "region": "Hamadan",
+    "lat": 34.6769,
+    "lon": 48.6192,
+    "population": 30765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dasht-e Āzādegān",
+    "region": "Khuzestan",
+    "lat": 31.7,
+    "lon": 48.0667,
+    "population": 30752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arpa Darreh",
+    "region": "Hamadan",
+    "lat": 35.6914,
+    "lon": 48.805,
+    "population": 30642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Lāmerd",
+    "region": "Fars",
+    "lat": 27.3667,
+    "lon": 53.3833,
+    "population": 30625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tākestān",
+    "region": "Qazvin",
+    "lat": 36.0706,
+    "lon": 49.6957,
+    "population": 30620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Māhneshān",
+    "region": "Zanjan",
+    "lat": 36.6667,
+    "lon": 47.5667,
+    "population": 30581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarah Tegini",
+    "region": "Hamadan",
+    "lat": 34.4403,
+    "lon": 48.9356,
+    "population": 30516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Eşfahān",
+    "region": "Isfahan",
+    "lat": 32.2667,
+    "lon": 52.45,
+    "population": 30452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dorudgaran",
+    "region": "Hamadan",
+    "lat": 34.0203,
+    "lon": 48.9247,
+    "population": 30427,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kand Tappeh",
+    "region": "Hamadan",
+    "lat": 35.2014,
+    "lon": 48.3056,
+    "population": 30414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Komījān",
+    "region": "Markazi",
+    "lat": 34.7667,
+    "lon": 49.3333,
+    "population": 30357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fīrūzeh",
+    "region": "Razavi Khorasan",
+    "lat": 36.3,
+    "lon": 58.4167,
+    "population": 30332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq Baba Rostam",
+    "region": "Hamadan",
+    "lat": 34.1419,
+    "lon": 48.3625,
+    "population": 30296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Qal‘eh Ganj",
+    "region": "Kerman",
+    "lat": 27.2,
+    "lon": 58.3333,
+    "population": 30290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mobarakin",
+    "region": "Hamadan",
+    "lat": 35.0981,
+    "lon": 49.4242,
+    "population": 30285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ommatlar",
+    "region": "Hamadan",
+    "lat": 35.4361,
+    "lon": 48.9686,
+    "population": 30220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeydli Bolagh",
+    "region": "Hamadan",
+    "lat": 35.015,
+    "lon": 48.2875,
+    "population": 30192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoseynabad-e Bahar",
+    "region": "Hamadan",
+    "lat": 34.8675,
+    "lon": 48.3683,
+    "population": 30190,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahanabad",
+    "region": "Hamadan",
+    "lat": 34.1808,
+    "lon": 48.2097,
+    "population": 30171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shāhīn Dezh",
+    "region": "West Azarbaijan",
+    "lat": 36.6834,
+    "lon": 46.6668,
+    "population": 30072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Qā’em Shahr",
+    "region": "Mazandaran",
+    "lat": 36.4833,
+    "lon": 52.9,
+    "population": 30058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bujin",
+    "region": "Hamadan",
+    "lat": 34.8072,
+    "lon": 48.0592,
+    "population": 30046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrak-e Pābedānā",
+    "region": "Kerman",
+    "lat": 31.1344,
+    "lon": 56.3981,
+    "population": 30043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamasa",
+    "region": "Hamadan",
+    "lat": 34.2303,
+    "lon": 49.0875,
+    "population": 30028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khvānsār",
+    "region": "Isfahan",
+    "lat": 33.2205,
+    "lon": 50.315,
+    "population": 29941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Menjan",
+    "region": "Hamadan",
+    "lat": 34.4481,
+    "lon": 48.2356,
+    "population": 29930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dīvāndarreh",
+    "region": "Kurdistan",
+    "lat": 35.9167,
+    "lon": 47,
+    "population": 29871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Narmāshīr",
+    "region": "Kerman",
+    "lat": 29.2667,
+    "lon": 58.7333,
+    "population": 29857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Estahbān",
+    "region": "Fars",
+    "lat": 29.1167,
+    "lon": 54,
+    "population": 29848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Abarkūh",
+    "region": "Yazd",
+    "lat": 31,
+    "lon": 53.4167,
+    "population": 29847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Būkān",
+    "region": "West Azarbaijan",
+    "lat": 36.521,
+    "lon": 46.2089,
+    "population": 29823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qasemabad-e Laklak",
+    "region": "Hamadan",
+    "lat": 34.6753,
+    "lon": 47.9722,
+    "population": 29727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Genāveh",
+    "region": "Bushehr",
+    "lat": 29.6457,
+    "lon": 50.647,
+    "population": 29650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarnābād",
+    "region": "Golestan",
+    "lat": 36.822,
+    "lon": 54.5922,
+    "population": 29639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khorramshahr",
+    "region": "Khuzestan",
+    "lat": 30.4408,
+    "lon": 48.1843,
+    "population": 29604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qahavand",
+    "region": "Hamadan",
+    "lat": 34.8603,
+    "lon": 49.0047,
+    "population": 29585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sīrīk",
+    "region": "Hormozgan",
+    "lat": 26.5,
+    "lon": 57.1833,
+    "population": 29536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doraneh",
+    "region": "Hamadan",
+    "lat": 34.2314,
+    "lon": 48.2194,
+    "population": 29535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marand",
+    "region": "East Azerbaijan",
+    "lat": 38.4329,
+    "lon": 45.7749,
+    "population": 29489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarāb",
+    "region": "East Azerbaijan",
+    "lat": 37.9834,
+    "lon": 47.4668,
+    "population": 29425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Semīrom",
+    "region": "Isfahan",
+    "lat": 31.3,
+    "lon": 51.5333,
+    "population": 29373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khodābandeh",
+    "region": "Zanjan",
+    "lat": 36,
+    "lon": 48.5,
+    "population": 29210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oshtorjin",
+    "region": "Hamadan",
+    "lat": 34.7758,
+    "lon": 48.1722,
+    "population": 29048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fiazaman",
+    "region": "Hamadan",
+    "lat": 34.1311,
+    "lon": 48.3964,
+    "population": 29002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Savaran",
+    "region": "Hamadan",
+    "lat": 34.1181,
+    "lon": 48.7786,
+    "population": 28976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fareydūnkenār",
+    "region": "Mazandaran",
+    "lat": 36.6333,
+    "lon": 52.5667,
+    "population": 28972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Chāldorān",
+    "region": "West Azarbaijan",
+    "lat": 39.0667,
+    "lon": 44.3333,
+    "population": 28891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kāzerūn",
+    "region": "Fars",
+    "lat": 29.5,
+    "lon": 51.7833,
+    "population": 28888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandar-e Anzalī",
+    "region": "Gilan",
+    "lat": 37.4732,
+    "lon": 49.4579,
+    "population": 28879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajji Maqsud",
+    "region": "Hamadan",
+    "lat": 34.9697,
+    "lon": 48.8797,
+    "population": 28860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sīāhkal",
+    "region": "Gilan",
+    "lat": 36.9333,
+    "lon": 49.9,
+    "population": 28802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shāzand",
+    "region": "Markazi",
+    "lat": 33.9,
+    "lon": 49.3,
+    "population": 28791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saziyan",
+    "region": "Hamadan",
+    "lat": 34.5736,
+    "lon": 48.1536,
+    "population": 28786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kheradmand",
+    "region": "Hamadan",
+    "lat": 34.6258,
+    "lon": 48.9314,
+    "population": 28712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bazeran",
+    "region": "Hamadan",
+    "lat": 35.1561,
+    "lon": 49.4231,
+    "population": 28682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lavashan",
+    "region": "Hamadan",
+    "lat": 34.2506,
+    "lon": 48.2742,
+    "population": 28674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shīrvān",
+    "region": "North Khorasan",
+    "lat": 37.5333,
+    "lon": 57.9,
+    "population": 28617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chelgard",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.4672,
+    "lon": 50.1223,
+    "population": 28600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torbat-e Jām",
+    "region": "Razavi Khorasan",
+    "lat": 35.244,
+    "lon": 60.6225,
+    "population": 28572,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Qūchān",
+    "region": "Razavi Khorasan",
+    "lat": 37.0667,
+    "lon": 58.65,
+    "population": 28569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Harsīn",
+    "region": "Kermanshah",
+    "lat": 34.35,
+    "lon": 47.4833,
+    "population": 28556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Namīn",
+    "region": "Ardabil",
+    "lat": 38.3833,
+    "lon": 48.5167,
+    "population": 28554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahu Tappeh",
+    "region": "Hamadan",
+    "lat": 34.9378,
+    "lon": 48.0011,
+    "population": 28547,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Lārestān",
+    "region": "Fars",
+    "lat": 27.75,
+    "lon": 54.45,
+    "population": 28536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deh-e Shaker",
+    "region": "Hamadan",
+    "lat": 34.3789,
+    "lon": 48.5478,
+    "population": 28520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Andīmeshk",
+    "region": "Khuzestan",
+    "lat": 32.7,
+    "lon": 48.3,
+    "population": 28500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bū’īn Zahrā",
+    "region": "Qazvin",
+    "lat": 35.6167,
+    "lon": 49.7,
+    "population": 28458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kordkūy",
+    "region": "Golestan",
+    "lat": 36.6833,
+    "lon": 54.2,
+    "population": 28457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alfavut",
+    "region": "Hamadan",
+    "lat": 34.64,
+    "lon": 48.7497,
+    "population": 28449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tāybād",
+    "region": "Razavi Khorasan",
+    "lat": 34.7333,
+    "lon": 60.7333,
+    "population": 28440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ansar ol Emam",
+    "region": "Hamadan",
+    "lat": 34.8586,
+    "lon": 48.4908,
+    "population": 28438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutlaq",
+    "region": "Hamadan",
+    "lat": 34.5764,
+    "lon": 48.2775,
+    "population": 28381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qods",
+    "region": "Tehran",
+    "lat": 35.7167,
+    "lon": 51.0667,
+    "population": 28375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nekā",
+    "region": "Mazandaran",
+    "lat": 36.6508,
+    "lon": 53.2991,
+    "population": 28367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kāshān",
+    "region": "Isfahan",
+    "lat": 33.8833,
+    "lon": 51.2833,
+    "population": 28303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fanuj",
+    "region": "Sistan and Baluchestan",
+    "lat": 26.5747,
+    "lon": 59.6386,
+    "population": 28272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabriz",
+    "region": "East Azerbaijan",
+    "lat": 38.08,
+    "lon": 46.2919,
+    "population": 28256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Zarandīyeh",
+    "region": "Markazi",
+    "lat": 35.3667,
+    "lon": 50.3333,
+    "population": 28220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahriz-e Hoseynabad-e Nazem",
+    "region": "Hamadan",
+    "lat": 34.3189,
+    "lon": 48.6278,
+    "population": 28219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Neyshābūr",
+    "region": "Razavi Khorasan",
+    "lat": 36.2167,
+    "lon": 58.8833,
+    "population": 28110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leyli Yadegar",
+    "region": "Hamadan",
+    "lat": 34.2858,
+    "lon": 48.2103,
+    "population": 28098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pahnabad",
+    "region": "Hamadan",
+    "lat": 34.8417,
+    "lon": 48.6147,
+    "population": 28082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nimruz",
+    "region": "Sistan and Baluchestan",
+    "lat": 31.1033,
+    "lon": 61.416,
+    "population": 28028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahnian",
+    "region": "Hamadan",
+    "lat": 35.5025,
+    "lon": 49.0658,
+    "population": 27993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuyserkan",
+    "region": "Hamadan",
+    "lat": 34.5481,
+    "lon": 48.4467,
+    "population": 27981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gīlān-e Gharb",
+    "region": "Kermanshah",
+    "lat": 34.1333,
+    "lon": 46,
+    "population": 27968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akbarābād",
+    "region": "Fars",
+    "lat": 29.2464,
+    "lon": 52.7793,
+    "population": 27960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qader Khalaj",
+    "region": "Hamadan",
+    "lat": 35.4011,
+    "lon": 48.73,
+    "population": 27879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Abū Mūsá",
+    "region": "Hormozgan",
+    "lat": 26.0547,
+    "lon": 55.1624,
+    "population": 27758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tavaleh",
+    "region": "Hamadan",
+    "lat": 35.1544,
+    "lon": 49.0439,
+    "population": 27712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jongīyeh",
+    "region": "Khuzestan",
+    "lat": 31.2558,
+    "lon": 48.6167,
+    "population": 27692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shir Barat",
+    "region": "Hamadan",
+    "lat": 35.6333,
+    "lon": 48.3825,
+    "population": 27600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deh Piaz",
+    "region": "Hamadan",
+    "lat": 34.8819,
+    "lon": 48.5147,
+    "population": 27591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarab-e Tajar",
+    "region": "Hamadan",
+    "lat": 34.2322,
+    "lon": 48.6064,
+    "population": 27507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khowshāb",
+    "region": "Razavi Khorasan",
+    "lat": 36.4333,
+    "lon": 58.0667,
+    "population": 27369,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dehgolān",
+    "region": "Kurdistan",
+    "lat": 35.35,
+    "lon": 47.35,
+    "population": 27351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bābol",
+    "region": "Mazandaran",
+    "lat": 36.3167,
+    "lon": 52.65,
+    "population": 27331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aq Bolagh-e Morshed",
+    "region": "Hamadan",
+    "lat": 35.6178,
+    "lon": 48.0297,
+    "population": 27310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Malekshāhī",
+    "region": "Ilam",
+    "lat": 33.3,
+    "lon": 46.55,
+    "population": 27150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Mishan",
+    "region": "Hamadan",
+    "lat": 34.3917,
+    "lon": 48.6661,
+    "population": 27134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Chenārān",
+    "region": "Razavi Khorasan",
+    "lat": 36.6667,
+    "lon": 59.15,
+    "population": 27108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hesar-e Qujeh Baghi",
+    "region": "Hamadan",
+    "lat": 35.2386,
+    "lon": 48.5597,
+    "population": 27101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bifanaj",
+    "region": "Hamadan",
+    "lat": 34.6147,
+    "lon": 48.0169,
+    "population": 27064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shemīrānāt",
+    "region": "Tehran",
+    "lat": 35.9314,
+    "lon": 51.59,
+    "population": 27058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darreh Mianeh-ye Sofla",
+    "region": "Hamadan",
+    "lat": 34.0728,
+    "lon": 48.8353,
+    "population": 26992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qushjeh",
+    "region": "Hamadan",
+    "lat": 35.6642,
+    "lon": 48.3056,
+    "population": 26942,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Alīgūdarz",
+    "region": "Lorestan",
+    "lat": 33.0833,
+    "lon": 49.4833,
+    "population": 26933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rīgān",
+    "region": "Kerman",
+    "lat": 28.4333,
+    "lon": 59.15,
+    "population": 26927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shīrvān",
+    "region": "North Khorasan",
+    "lat": 37.3967,
+    "lon": 57.9295,
+    "population": 26914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tabas",
+    "region": "South Khorasan",
+    "lat": 32.803,
+    "lon": 60.2215,
+    "population": 26884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karaj",
+    "region": "Alborz",
+    "lat": 35.8327,
+    "lon": 50.9915,
+    "population": 26866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Qaşr-e Shīrīn",
+    "region": "Kermanshah",
+    "lat": 34.2,
+    "lon": 45.6333,
+    "population": 26863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahriz-e Baba Hoseyn",
+    "region": "Hamadan",
+    "lat": 35.5339,
+    "lon": 47.9403,
+    "population": 26820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qazi Mardan",
+    "region": "Hamadan",
+    "lat": 34.7769,
+    "lon": 48.0142,
+    "population": 26686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zehak",
+    "region": "Sistan and Baluchestan",
+    "lat": 30.8667,
+    "lon": 61.5667,
+    "population": 26665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luluhar",
+    "region": "Hamadan",
+    "lat": 34.3161,
+    "lon": 48.4542,
+    "population": 26613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Faryazan",
+    "region": "Hamadan",
+    "lat": 34.5231,
+    "lon": 48.3325,
+    "population": 26596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Badreh",
+    "region": "Ilam",
+    "lat": 33,
+    "lon": 47.25,
+    "population": 26517,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deh Ful",
+    "region": "Hamadan",
+    "lat": 34.2269,
+    "lon": 48.3139,
+    "population": 26472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirjan",
+    "region": "Kerman",
+    "lat": 29.4514,
+    "lon": 55.6809,
+    "population": 26426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nahandar",
+    "region": "Hamadan",
+    "lat": 34.1494,
+    "lon": 48.9683,
+    "population": 26421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rūdbār",
+    "region": "Gilan",
+    "lat": 36.8,
+    "lon": 49.6,
+    "population": 26389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarāvān",
+    "region": "Sistan and Baluchestan",
+    "lat": 27.3235,
+    "lon": 62.568,
+    "population": 26385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Najafābād",
+    "region": "Isfahan",
+    "lat": 32.6344,
+    "lon": 51.3668,
+    "population": 26350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohajeran",
+    "region": "Hamadan",
+    "lat": 35.0739,
+    "lon": 48.6167,
+    "population": 26309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Termianak",
+    "region": "Hamadan",
+    "lat": 34.6319,
+    "lon": 48.1736,
+    "population": 26309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yekleh",
+    "region": "Hamadan",
+    "lat": 34.8778,
+    "lon": 49.0067,
+    "population": 26295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrak-e Emām Ḩasan",
+    "region": "Tehran",
+    "lat": 35.4885,
+    "lon": 51.3457,
+    "population": 26246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mīnāb",
+    "region": "Hormozgan",
+    "lat": 26.9333,
+    "lon": 57.2833,
+    "population": 26228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abu ol Fathabad",
+    "region": "Hamadan",
+    "lat": 34.0567,
+    "lon": 48.5092,
+    "population": 26209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Īlām",
+    "region": "Ilam",
+    "lat": 33.6833,
+    "lon": 46.25,
+    "population": 26173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deh Chaneh",
+    "region": "Hamadan",
+    "lat": 34.1053,
+    "lon": 49.1203,
+    "population": 26151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golparabad",
+    "region": "Hamadan",
+    "lat": 34.155,
+    "lon": 49.0578,
+    "population": 26140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rūdsar",
+    "region": "Gilan",
+    "lat": 36.8667,
+    "lon": 50.3,
+    "population": 26139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasht",
+    "region": "Gilan",
+    "lat": 37.2761,
+    "lon": 49.5886,
+    "population": 26040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Orzū‘īyeh",
+    "region": "Kerman",
+    "lat": 28.4667,
+    "lon": 56.5333,
+    "population": 26040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahriz-e Boqazi",
+    "region": "Hamadan",
+    "lat": 35.5114,
+    "lon": 48.8183,
+    "population": 26001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaghlijeh",
+    "region": "Hamadan",
+    "lat": 35.1528,
+    "lon": 49.3758,
+    "population": 25968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarik Darreh-ye Bala",
+    "region": "Hamadan",
+    "lat": 34.2733,
+    "lon": 47.9392,
+    "population": 25915,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fasā",
+    "region": "Fars",
+    "lat": 28.9667,
+    "lon": 53.7667,
+    "population": 25890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sīb va Sūrān",
+    "region": "Sistan and Baluchestan",
+    "lat": 27.3333,
+    "lon": 61.9167,
+    "population": 25857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fareydūnshahr",
+    "region": "Isfahan",
+    "lat": 32.8667,
+    "lon": 49.9833,
+    "population": 25832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Borkhvār",
+    "region": "Isfahan",
+    "lat": 32.9833,
+    "lon": 51.7667,
+    "population": 25770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varqestan",
+    "region": "Hamadan",
+    "lat": 35.3964,
+    "lon": 49.0092,
+    "population": 25752,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Band Aman",
+    "region": "Hamadan",
+    "lat": 34.2239,
+    "lon": 48.2286,
+    "population": 25662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasaj",
+    "region": "Hamadan",
+    "lat": 34.3206,
+    "lon": 48.2258,
+    "population": 25631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khvāf",
+    "region": "Razavi Khorasan",
+    "lat": 34.5,
+    "lon": 60,
+    "population": 25617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarbāz",
+    "region": "Sistan and Baluchestan",
+    "lat": 26.4339,
+    "lon": 61.4818,
+    "population": 25554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Eyvān",
+    "region": "Ilam",
+    "lat": 33.9,
+    "lon": 46.1667,
+    "population": 25516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bāft",
+    "region": "Kerman",
+    "lat": 29.1,
+    "lon": 56.5167,
+    "population": 25512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naţanz",
+    "region": "Isfahan",
+    "lat": 33.5112,
+    "lon": 51.9181,
+    "population": 25481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Farahān",
+    "region": "Markazi",
+    "lat": 34.6,
+    "lon": 49.6333,
+    "population": 25480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ţāleb ābād",
+    "region": "Tehran",
+    "lat": 35.5013,
+    "lon": 51.5315,
+    "population": 25475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahriz-e Salim",
+    "region": "Hamadan",
+    "lat": 34.3289,
+    "lon": 48.1622,
+    "population": 25445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kangāvar",
+    "region": "Kermanshah",
+    "lat": 34.4833,
+    "lon": 47.9333,
+    "population": 25436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nehenjeh",
+    "region": "Hamadan",
+    "lat": 34.5411,
+    "lon": 48.7172,
+    "population": 25424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mobārakeh",
+    "region": "Isfahan",
+    "lat": 32.2667,
+    "lon": 51.4833,
+    "population": 25379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sheykh Jarrah",
+    "region": "Hamadan",
+    "lat": 35.5022,
+    "lon": 48.2225,
+    "population": 25334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bowyer Aḩmad",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.7833,
+    "lon": 51.1167,
+    "population": 25331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Golpāyegān",
+    "region": "Isfahan",
+    "lat": 33.5,
+    "lon": 50.3333,
+    "population": 25281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuchaqaz",
+    "region": "Hamadan",
+    "lat": 34.2997,
+    "lon": 48.715,
+    "population": 25266,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bid Korpeh-ye Sofla",
+    "region": "Hamadan",
+    "lat": 34.0211,
+    "lon": 48.8917,
+    "population": 25181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Arsanjān",
+    "region": "Fars",
+    "lat": 29.8,
+    "lon": 53.4167,
+    "population": 25154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Owrteh Qamish",
+    "region": "Hamadan",
+    "lat": 35.5708,
+    "lon": 48.6292,
+    "population": 25123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varchaq",
+    "region": "Hamadan",
+    "lat": 34.3717,
+    "lon": 48.8978,
+    "population": 25115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isti Bolagh",
+    "region": "Hamadan",
+    "lat": 35.695,
+    "lon": 48.2661,
+    "population": 25095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fareydūnshahr",
+    "region": "Isfahan",
+    "lat": 32.941,
+    "lon": 50.121,
+    "population": 25051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nā’īn",
+    "region": "Isfahan",
+    "lat": 32.8601,
+    "lon": 53.0875,
+    "population": 25037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Pārsīān",
+    "region": "Hormozgan",
+    "lat": 27.1667,
+    "lon": 53.2667,
+    "population": 24970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fasijan",
+    "region": "Hamadan",
+    "lat": 34.8367,
+    "lon": 48.3047,
+    "population": 24932,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nūrābād",
+    "region": "Fars",
+    "lat": 30.114,
+    "lon": 51.5217,
+    "population": 24895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarpol-e Z̄ahāb",
+    "region": "Kermanshah",
+    "lat": 34.5,
+    "lon": 45.85,
+    "population": 24872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abarlaq-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.6714,
+    "lon": 48.2283,
+    "population": 24849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ardakān",
+    "region": "Yazd",
+    "lat": 32.31,
+    "lon": 54.0175,
+    "population": 24829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ījrūd",
+    "region": "Zanjan",
+    "lat": 36.3333,
+    "lon": 48.25,
+    "population": 24816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Behshahr",
+    "region": "Mazandaran",
+    "lat": 36.6923,
+    "lon": 53.5526,
+    "population": 24799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kur Kahriz",
+    "region": "Hamadan",
+    "lat": 34.7172,
+    "lon": 48.7733,
+    "population": 24790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nakilabad",
+    "region": "Hamadan",
+    "lat": 34.3678,
+    "lon": 48.6569,
+    "population": 24756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khorrambīd",
+    "region": "Fars",
+    "lat": 30.5,
+    "lon": 53.0833,
+    "population": 24640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yarom Qayah",
+    "region": "Hamadan",
+    "lat": 35.0689,
+    "lon": 49.3817,
+    "population": 24624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solulan",
+    "region": "Hamadan",
+    "lat": 34.8261,
+    "lon": 48.4294,
+    "population": 24587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahr-e Kord",
+    "region": "Chaharmahal and Bakhtiari",
+    "lat": 32.3261,
+    "lon": 50.8572,
+    "population": 24566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dowlatābād",
+    "region": "Isfahan",
+    "lat": 32.7998,
+    "lon": 51.6955,
+    "population": 24486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gashani",
+    "region": "Hamadan",
+    "lat": 34.6606,
+    "lon": 48.3914,
+    "population": 24476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bardsīr",
+    "region": "Kerman",
+    "lat": 29.9227,
+    "lon": 56.5743,
+    "population": 24407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanaj",
+    "region": "Hamadan",
+    "lat": 35.1222,
+    "lon": 49.0256,
+    "population": 24397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamar Boneh",
+    "region": "Hamadan",
+    "lat": 34.175,
+    "lon": 48.635,
+    "population": 24352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bījār",
+    "region": "Kurdistan",
+    "lat": 35.8667,
+    "lon": 47.6,
+    "population": 24303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sar Duran",
+    "region": "Hamadan",
+    "lat": 34.2031,
+    "lon": 48.2639,
+    "population": 24298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qater Owlan",
+    "region": "Hamadan",
+    "lat": 35.3753,
+    "lon": 48.9317,
+    "population": 24257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sib Dar",
+    "region": "Hamadan",
+    "lat": 34.2169,
+    "lon": 48.7847,
+    "population": 24237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khvānsār",
+    "region": "Isfahan",
+    "lat": 33.25,
+    "lon": 50.3333,
+    "population": 24212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashmizan",
+    "region": "Hamadan",
+    "lat": 34.1036,
+    "lon": 48.8844,
+    "population": 24204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Maḩmūdābād",
+    "region": "Mazandaran",
+    "lat": 36.6,
+    "lon": 52.3667,
+    "population": 24182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāfq",
+    "region": "Yazd",
+    "lat": 31.6035,
+    "lon": 55.4025,
+    "population": 24174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dargaz",
+    "region": "Razavi Khorasan",
+    "lat": 37.3333,
+    "lon": 59.0833,
+    "population": 24153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Īz̄eh",
+    "region": "Khuzestan",
+    "lat": 31.9167,
+    "lon": 49.9833,
+    "population": 24142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bījār",
+    "region": "Kurdistan",
+    "lat": 35.8668,
+    "lon": 47.6051,
+    "population": 24122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bostānābād",
+    "region": "East Azerbaijan",
+    "lat": 37.8333,
+    "lon": 46.8333,
+    "population": 24119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karafs",
+    "region": "Hamadan",
+    "lat": 35.3633,
+    "lon": 49.2989,
+    "population": 24112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bardaskan",
+    "region": "Razavi Khorasan",
+    "lat": 35.2667,
+    "lon": 57.4833,
+    "population": 24082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āstārā",
+    "region": "Gilan",
+    "lat": 38.4291,
+    "lon": 48.872,
+    "population": 24030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ābādeh",
+    "region": "Fars",
+    "lat": 31.25,
+    "lon": 52.5,
+    "population": 24015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poshtjin",
+    "region": "Hamadan",
+    "lat": 35.3142,
+    "lon": 49.0717,
+    "population": 23931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dashtestān",
+    "region": "Bushehr",
+    "lat": 29.2833,
+    "lon": 51.25,
+    "population": 23790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Lenjān",
+    "region": "Isfahan",
+    "lat": 32.3667,
+    "lon": 51.2,
+    "population": 23785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masjedin",
+    "region": "Hamadan",
+    "lat": 35.5428,
+    "lon": 48.2633,
+    "population": 23626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shilandar-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.6675,
+    "lon": 48.1686,
+    "population": 23554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khamīr",
+    "region": "Hormozgan",
+    "lat": 27.2667,
+    "lon": 55.55,
+    "population": 23544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golpāyegān",
+    "region": "Isfahan",
+    "lat": 33.4537,
+    "lon": 50.2884,
+    "population": 23538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gālīkesh",
+    "region": "Golestan",
+    "lat": 37.3,
+    "lon": 55.65,
+    "population": 23535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Milab",
+    "region": "Hamadan",
+    "lat": 34.0528,
+    "lon": 48.4797,
+    "population": 23485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khāsh",
+    "region": "Sistan and Baluchestan",
+    "lat": 28.2211,
+    "lon": 61.2158,
+    "population": 23483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rayegan-e Sofla",
+    "region": "Hamadan",
+    "lat": 35.0711,
+    "lon": 48.6633,
+    "population": 23482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fāryāb",
+    "region": "Kerman",
+    "lat": 28.2,
+    "lon": 57.2167,
+    "population": 23467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ojaq",
+    "region": "Hamadan",
+    "lat": 35.64,
+    "lon": 48.8458,
+    "population": 23438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alīgūdarz",
+    "region": "Lorestan",
+    "lat": 33.404,
+    "lon": 49.6918,
+    "population": 23430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rud-e Hasan-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.1244,
+    "lon": 48.3717,
+    "population": 23418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sahamabad",
+    "region": "Hamadan",
+    "lat": 34.5539,
+    "lon": 48.3047,
+    "population": 23364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akanlu",
+    "region": "Hamadan",
+    "lat": 35.6142,
+    "lon": 48.1881,
+    "population": 23275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arzan Fud",
+    "region": "Hamadan",
+    "lat": 34.6553,
+    "lon": 48.6542,
+    "population": 23179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bastak",
+    "region": "Hormozgan",
+    "lat": 27.2,
+    "lon": 54.3667,
+    "population": 23169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangāvar",
+    "region": "Kermanshah",
+    "lat": 34.5043,
+    "lon": 47.9653,
+    "population": 23098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamadan",
+    "region": "Hamadan",
+    "lat": 34.8,
+    "lon": 48.5167,
+    "population": 23048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sardasht",
+    "region": "West Azarbaijan",
+    "lat": 36.2167,
+    "lon": 45.4832,
+    "population": 23040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ab Meshkin",
+    "region": "Hamadan",
+    "lat": 35.6131,
+    "lon": 48.2692,
+    "population": 22973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simin-e Abaru",
+    "region": "Hamadan",
+    "lat": 34.6825,
+    "lon": 48.5858,
+    "population": 22947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Semīrom",
+    "region": "Isfahan",
+    "lat": 31.4167,
+    "lon": 51.5667,
+    "population": 22921,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kartilabad",
+    "region": "Hamadan",
+    "lat": 34.3136,
+    "lon": 48.6492,
+    "population": 22884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Pāveh",
+    "region": "Kermanshah",
+    "lat": 35.05,
+    "lon": 46.2667,
+    "population": 22874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sefid Khaneh",
+    "region": "Hamadan",
+    "lat": 34.0697,
+    "lon": 48.5081,
+    "population": 22778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonbad-e Kāvūs",
+    "region": "Golestan",
+    "lat": 37.25,
+    "lon": 55.1672,
+    "population": 22765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonābād",
+    "region": "Razavi Khorasan",
+    "lat": 34.3529,
+    "lon": 58.6837,
+    "population": 22727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qabanqoli",
+    "region": "Hamadan",
+    "lat": 35.1983,
+    "lon": 49.1783,
+    "population": 22724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kal Kabud",
+    "region": "Hamadan",
+    "lat": 35.4808,
+    "lon": 48.8528,
+    "population": 22655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Razaj",
+    "region": "Hamadan",
+    "lat": 34.8953,
+    "lon": 49.1467,
+    "population": 22630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāmshīr",
+    "region": "Khuzestan",
+    "lat": 30.8931,
+    "lon": 49.4079,
+    "population": 22556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Īstgāh-e Rāh Āhan-e Garmsār",
+    "region": "Semnan",
+    "lat": 35.2345,
+    "lon": 52.3094,
+    "population": 22553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Būkān",
+    "region": "West Azarbaijan",
+    "lat": 36.6,
+    "lon": 46.1666,
+    "population": 22549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bojnūrd",
+    "region": "North Khorasan",
+    "lat": 37.4747,
+    "lon": 57.329,
+    "population": 22512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dehlorān",
+    "region": "Ilam",
+    "lat": 32.6833,
+    "lon": 47.2667,
+    "population": 22510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abadan",
+    "region": "Khuzestan",
+    "lat": 30.3392,
+    "lon": 48.3043,
+    "population": 22462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gonbad-e Kabud",
+    "region": "Hamadan",
+    "lat": 34.2172,
+    "lon": 48.1478,
+    "population": 22439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ābyek",
+    "region": "Markazi",
+    "lat": 36.0667,
+    "lon": 50.55,
+    "population": 22435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bāfq",
+    "region": "Yazd",
+    "lat": 31.6667,
+    "lon": 55.4167,
+    "population": 22398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahar",
+    "region": "East Azerbaijan",
+    "lat": 38.4774,
+    "lon": 47.0699,
+    "population": 22377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kesb",
+    "region": "Hamadan",
+    "lat": 34.4142,
+    "lon": 48.7225,
+    "population": 22296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Takāb",
+    "region": "West Azarbaijan",
+    "lat": 36.4009,
+    "lon": 47.1133,
+    "population": 22295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Langarūd",
+    "region": "Gilan",
+    "lat": 37.1955,
+    "lon": 50.1526,
+    "population": 22207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bandar ‘Abbās",
+    "region": "Hormozgan",
+    "lat": 27.55,
+    "lon": 56.2833,
+    "population": 22184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Behābād",
+    "region": "Yazd",
+    "lat": 32.0167,
+    "lon": 56.15,
+    "population": 22128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Durijan",
+    "region": "Hamadan",
+    "lat": 34.3056,
+    "lon": 48.4897,
+    "population": 22060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dorcheh Pīāz",
+    "region": "Isfahan",
+    "lat": 32.6153,
+    "lon": 51.5556,
+    "population": 22056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dāmghān",
+    "region": "Semnan",
+    "lat": 36.1679,
+    "lon": 54.3429,
+    "population": 22002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jijan Kuh",
+    "region": "Hamadan",
+    "lat": 34.4811,
+    "lon": 48.5069,
+    "population": 22001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heydareh-ye Dar-e Emam",
+    "region": "Hamadan",
+    "lat": 34.8206,
+    "lon": 48.3469,
+    "population": 21997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jerbanlu",
+    "region": "Hamadan",
+    "lat": 35.5864,
+    "lon": 48.9292,
+    "population": 21991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khomeygan",
+    "region": "Hamadan",
+    "lat": 35.3697,
+    "lon": 49.0233,
+    "population": 21956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damaq",
+    "region": "Hamadan",
+    "lat": 35.4428,
+    "lon": 48.8231,
+    "population": 21933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tazehnab-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.0978,
+    "lon": 48.3153,
+    "population": 21919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shīrāz",
+    "region": "Fars",
+    "lat": 29.5833,
+    "lon": 52.5,
+    "population": 21710,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hamoon",
+    "region": "Sistan and Baluchestan",
+    "lat": 30.9369,
+    "lon": 61.3369,
+    "population": 21624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Choqa Sarahi",
+    "region": "Hamadan",
+    "lat": 34.3153,
+    "lon": 48.0489,
+    "population": 21614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malusan",
+    "region": "Hamadan",
+    "lat": 34.3233,
+    "lon": 48.33,
+    "population": 21602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zeraq",
+    "region": "Hamadan",
+    "lat": 35.0714,
+    "lon": 49.1694,
+    "population": 21585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khorramābād",
+    "region": "Lorestan",
+    "lat": 33.3833,
+    "lon": 48.5833,
+    "population": 21480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Keykaleh",
+    "region": "Hamadan",
+    "lat": 34.115,
+    "lon": 48.9392,
+    "population": 21473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nurabad-e Simineh",
+    "region": "Hamadan",
+    "lat": 34.8219,
+    "lon": 48.2928,
+    "population": 21373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dālāhū",
+    "region": "Kermanshah",
+    "lat": 34.4167,
+    "lon": 46.25,
+    "population": 21304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohara",
+    "region": "Hamadan",
+    "lat": 34.5553,
+    "lon": 48.8686,
+    "population": 21196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ţāleqān",
+    "region": "Alborz",
+    "lat": 36.2053,
+    "lon": 50.7761,
+    "population": 21193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kand Halan",
+    "region": "Hamadan",
+    "lat": 34.5011,
+    "lon": 48.7819,
+    "population": 21173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khvajeh Kandi",
+    "region": "Hamadan",
+    "lat": 35.3619,
+    "lon": 48.385,
+    "population": 21165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharifabad-e Tajar",
+    "region": "Hamadan",
+    "lat": 34.2647,
+    "lon": 48.6383,
+    "population": 21136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rāmshīr",
+    "region": "Khuzestan",
+    "lat": 30.9667,
+    "lon": 49.3833,
+    "population": 21121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yasuj",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.6682,
+    "lon": 51.588,
+    "population": 21104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rastguyan",
+    "region": "Hamadan",
+    "lat": 34.9167,
+    "lon": 48.2167,
+    "population": 21060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zahedan",
+    "region": "Sistan and Baluchestan",
+    "lat": 29.4963,
+    "lon": 60.8629,
+    "population": 21053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Salmās",
+    "region": "West Azarbaijan",
+    "lat": 38.1833,
+    "lon": 44.7333,
+    "population": 20991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshm",
+    "region": "Hormozgan",
+    "lat": 26.7833,
+    "lon": 55.8667,
+    "population": 20990,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tarkhinabad",
+    "region": "Hamadan",
+    "lat": 34.8153,
+    "lon": 48.1225,
+    "population": 20935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gonābād",
+    "region": "Razavi Khorasan",
+    "lat": 34.3833,
+    "lon": 58.95,
+    "population": 20837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bid Korpeh-ye Vosta",
+    "region": "Hamadan",
+    "lat": 34.0194,
+    "lon": 48.8872,
+    "population": 20827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pāveh",
+    "region": "Kermanshah",
+    "lat": 35.0434,
+    "lon": 46.3565,
+    "population": 20812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bīleh Savār",
+    "region": "Ardabil",
+    "lat": 39.3667,
+    "lon": 47.9667,
+    "population": 20787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehnow-e Avarzaman",
+    "region": "Hamadan",
+    "lat": 34.3069,
+    "lon": 48.5569,
+    "population": 20770,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baba Khanjar",
+    "region": "Hamadan",
+    "lat": 35.5517,
+    "lon": 48.5497,
+    "population": 20720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Īlām",
+    "region": "Ilam",
+    "lat": 33.6374,
+    "lon": 46.4227,
+    "population": 20675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vezendan",
+    "region": "Hamadan",
+    "lat": 34.9581,
+    "lon": 49.3125,
+    "population": 20673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fīrūzābād",
+    "region": "Fars",
+    "lat": 28.9167,
+    "lon": 52.5667,
+    "population": 20650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kerman",
+    "region": "Kerman",
+    "lat": 30.2832,
+    "lon": 57.0788,
+    "population": 20617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parluk",
+    "region": "Hamadan",
+    "lat": 35.0656,
+    "lon": 48.2461,
+    "population": 20594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āq Qāyeh",
+    "region": "Golestan",
+    "lat": 37.2747,
+    "lon": 55.1589,
+    "population": 20556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sarbīsheh",
+    "region": "South Khorasan",
+    "lat": 32.4,
+    "lon": 60.0833,
+    "population": 20530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rivasijan",
+    "region": "Hamadan",
+    "lat": 34.5772,
+    "lon": 48.4319,
+    "population": 20403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Āshtīān",
+    "region": "Markazi",
+    "lat": 34.45,
+    "lon": 50.05,
+    "population": 20340,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarāb",
+    "region": "East Azerbaijan",
+    "lat": 37.9408,
+    "lon": 47.5367,
+    "population": 20206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peyhan",
+    "region": "Hamadan",
+    "lat": 34.1297,
+    "lon": 48.8675,
+    "population": 20183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kahkadan",
+    "region": "Hamadan",
+    "lat": 34.1439,
+    "lon": 48.6581,
+    "population": 20177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yeganeh",
+    "region": "Hamadan",
+    "lat": 34.8072,
+    "lon": 48.6378,
+    "population": 20099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Galūgāh",
+    "region": "Mazandaran",
+    "lat": 36.7167,
+    "lon": 53.8667,
+    "population": 20035,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bāft",
+    "region": "Kerman",
+    "lat": 29.2331,
+    "lon": 56.6022,
+    "population": 19907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ganj Tappeh",
+    "region": "Hamadan",
+    "lat": 34.9333,
+    "lon": 48.4636,
+    "population": 19871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mashhad",
+    "region": "Razavi Khorasan",
+    "lat": 36.3156,
+    "lon": 59.568,
+    "population": 19841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parvaraq",
+    "region": "Hamadan",
+    "lat": 35.1558,
+    "lon": 48.7678,
+    "population": 19836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ajorlu",
+    "region": "Hamadan",
+    "lat": 35.1383,
+    "lon": 49.2294,
+    "population": 19806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Khodaverdi",
+    "region": "Hamadan",
+    "lat": 34.325,
+    "lon": 48.9286,
+    "population": 19786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qom",
+    "region": "Qom",
+    "lat": 34.6401,
+    "lon": 50.8764,
+    "population": 19748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hizaj",
+    "region": "Hamadan",
+    "lat": 34.93,
+    "lon": 49.1433,
+    "population": 19724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pīshvā",
+    "region": "Tehran",
+    "lat": 35.308,
+    "lon": 51.7267,
+    "population": 19699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohr",
+    "region": "Fars",
+    "lat": 27.5552,
+    "lon": 52.8836,
+    "population": 19696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darreh Shahr",
+    "region": "Ilam",
+    "lat": 33.1445,
+    "lon": 47.3799,
+    "population": 19667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heydareh-ye Posht-e Shahr",
+    "region": "Hamadan",
+    "lat": 34.8025,
+    "lon": 48.4575,
+    "population": 19646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Zanjān",
+    "region": "Zanjan",
+    "lat": 36.5833,
+    "lon": 48.25,
+    "population": 19579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khodā Āfarīn",
+    "region": "East Azerbaijan",
+    "lat": 39.0667,
+    "lon": 46.95,
+    "population": 19559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buyaqchi",
+    "region": "Hamadan",
+    "lat": 34.8475,
+    "lon": 49.0892,
+    "population": 19423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kand-e Bolaghi",
+    "region": "Hamadan",
+    "lat": 35.43,
+    "lon": 48.3228,
+    "population": 19398,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soltaniyeh",
+    "region": "Zanjan",
+    "lat": 36.4323,
+    "lon": 48.7939,
+    "population": 19387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korzan",
+    "region": "Hamadan",
+    "lat": 34.5944,
+    "lon": 48.3536,
+    "population": 19375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanandaj",
+    "region": "Kurdistan",
+    "lat": 35.315,
+    "lon": 46.9988,
+    "population": 19348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Setaq",
+    "region": "Hamadan",
+    "lat": 35.0458,
+    "lon": 49.2964,
+    "population": 19299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tangestān",
+    "region": "Bushehr",
+    "lat": 28.8833,
+    "lon": 51.2667,
+    "population": 19233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Āq Qalā",
+    "region": "Golestan",
+    "lat": 37.1667,
+    "lon": 54.5833,
+    "population": 19207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simin-e Zagheh",
+    "region": "Hamadan",
+    "lat": 34.8767,
+    "lon": 48.3217,
+    "population": 19199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Eshtehārd",
+    "region": "Alborz",
+    "lat": 35.7281,
+    "lon": 50.4142,
+    "population": 19173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Zarrīn Dasht",
+    "region": "Fars",
+    "lat": 28.3,
+    "lon": 54.4667,
+    "population": 19166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shādegān",
+    "region": "Khuzestan",
+    "lat": 30.6492,
+    "lon": 48.665,
+    "population": 19009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marīvān",
+    "region": "Kurdistan",
+    "lat": 35.5183,
+    "lon": 46.183,
+    "population": 18931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siravand",
+    "region": "Hamadan",
+    "lat": 34.7953,
+    "lon": 47.9964,
+    "population": 18930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Malekān",
+    "region": "East Azerbaijan",
+    "lat": 37.1334,
+    "lon": 46.2167,
+    "population": 18929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Lāhījān",
+    "region": "Gilan",
+    "lat": 37.2167,
+    "lon": 50.0167,
+    "population": 18920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nūrābād",
+    "region": "Lorestan",
+    "lat": 34.0734,
+    "lon": 47.9725,
+    "population": 18904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Do Rudan",
+    "region": "Hamadan",
+    "lat": 34.5597,
+    "lon": 48.4147,
+    "population": 18888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Robāţ Karīm",
+    "region": "Tehran",
+    "lat": 35.5211,
+    "lon": 51.0307,
+    "population": 18887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "‘Ajab Shīr",
+    "region": "East Azerbaijan",
+    "lat": 37.4776,
+    "lon": 45.8943,
+    "population": 18873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anjir Baghi",
+    "region": "Hamadan",
+    "lat": 35.1925,
+    "lon": 48.5317,
+    "population": 18848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zarrin Bagh",
+    "region": "Hamadan",
+    "lat": 34.2947,
+    "lon": 48.0519,
+    "population": 18826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Pīrānshahr",
+    "region": "West Azarbaijan",
+    "lat": 36.7,
+    "lon": 45.1667,
+    "population": 18821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rafsanjān",
+    "region": "Kerman",
+    "lat": 30.5333,
+    "lon": 55.95,
+    "population": 18801,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mesinak",
+    "region": "Hamadan",
+    "lat": 35.2722,
+    "lon": 49.1511,
+    "population": 18784,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shatzal",
+    "region": "Hamadan",
+    "lat": 34.3031,
+    "lon": 47.9739,
+    "population": 18751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarakhs",
+    "region": "Razavi Khorasan",
+    "lat": 36.5449,
+    "lon": 61.1577,
+    "population": 18748,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tālesh",
+    "region": "Gilan",
+    "lat": 37.9,
+    "lon": 48.7833,
+    "population": 18709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Neyrīz",
+    "region": "Fars",
+    "lat": 29.3333,
+    "lon": 54.3333,
+    "population": 18654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naqadeh",
+    "region": "West Azarbaijan",
+    "lat": 36.9553,
+    "lon": 45.388,
+    "population": 18638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zamanabad-e Mohammadabad",
+    "region": "Hamadan",
+    "lat": 34.4125,
+    "lon": 48.6422,
+    "population": 18571,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arzuvaj",
+    "region": "Hamadan",
+    "lat": 34.6544,
+    "lon": 48.3731,
+    "population": 18530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beshik Tappeh",
+    "region": "Hamadan",
+    "lat": 35.5361,
+    "lon": 48.4181,
+    "population": 18479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Raz and Jargalan",
+    "region": "North Khorasan",
+    "lat": 37.9306,
+    "lon": 57.1194,
+    "population": 18437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tavaneh",
+    "region": "Hamadan",
+    "lat": 34.2114,
+    "lon": 48.1858,
+    "population": 18392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rāvar",
+    "region": "Kerman",
+    "lat": 31.2656,
+    "lon": 56.8055,
+    "population": 18328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaleh Kand",
+    "region": "Hamadan",
+    "lat": 35.275,
+    "lon": 48.2994,
+    "population": 18314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravand-e Vosta",
+    "region": "Hamadan",
+    "lat": 34.1333,
+    "lon": 48.3492,
+    "population": 18309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ovraqin",
+    "region": "Hamadan",
+    "lat": 35.2822,
+    "lon": 48.6911,
+    "population": 18253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mīnūdasht",
+    "region": "Golestan",
+    "lat": 37.1167,
+    "lon": 55.45,
+    "population": 18250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azandarian",
+    "region": "Hamadan",
+    "lat": 34.5089,
+    "lon": 48.6867,
+    "population": 18226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bandar-e Anzalī",
+    "region": "Gilan",
+    "lat": 37.45,
+    "lon": 49.3667,
+    "population": 18226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delījān",
+    "region": "Markazi",
+    "lat": 33.9905,
+    "lon": 50.6838,
+    "population": 18139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Dūreh",
+    "region": "Lorestan",
+    "lat": 33.6167,
+    "lon": 47.9167,
+    "population": 18016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qolqolabad",
+    "region": "Hamadan",
+    "lat": 35.1308,
+    "lon": 49.2908,
+    "population": 17983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.7008,
+    "lon": 49.0697,
+    "population": 17975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mokarrabi",
+    "region": "Hamadan",
+    "lat": 34.625,
+    "lon": 48.6978,
+    "population": 17927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sulijeh",
+    "region": "Hamadan",
+    "lat": 35.2686,
+    "lon": 48.3344,
+    "population": 17888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Şowme‘eh Sarā",
+    "region": "Gilan",
+    "lat": 37.3333,
+    "lon": 49.3,
+    "population": 17886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rāmīān",
+    "region": "Golestan",
+    "lat": 36.9333,
+    "lon": 55.0833,
+    "population": 17840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vali Sir Ab",
+    "region": "Hamadan",
+    "lat": 34.2328,
+    "lon": 48.1894,
+    "population": 17837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bardsīr",
+    "region": "Kerman",
+    "lat": 29.8333,
+    "lon": 56.5833,
+    "population": 17810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Famast",
+    "region": "Hamadan",
+    "lat": 34.039,
+    "lon": 48.4626,
+    "population": 17793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Marāveh Tappeh",
+    "region": "Golestan",
+    "lat": 37.85,
+    "lon": 55.9167,
+    "population": 17744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Omīdīyeh",
+    "region": "Khuzestan",
+    "lat": 30.75,
+    "lon": 49.7,
+    "population": 17737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khaku",
+    "region": "Hamadan",
+    "lat": 34.7264,
+    "lon": 48.5364,
+    "population": 17675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dārān",
+    "region": "Isfahan",
+    "lat": 32.9887,
+    "lon": 50.4127,
+    "population": 17669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tulki Tappeh",
+    "region": "Hamadan",
+    "lat": 35.4953,
+    "lon": 48.9578,
+    "population": 17484,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kasavand",
+    "region": "Hamadan",
+    "lat": 34.1522,
+    "lon": 48.9697,
+    "population": 17477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Najafiyeh",
+    "region": "Hamadan",
+    "lat": 34.555,
+    "lon": 48.3864,
+    "population": 17468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sonqor",
+    "region": "Kermanshah",
+    "lat": 34.7819,
+    "lon": 47.5994,
+    "population": 17459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khūr",
+    "region": "Isfahan",
+    "lat": 33.7751,
+    "lon": 55.0833,
+    "population": 17439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fereydūnkenār",
+    "region": "Mazandaran",
+    "lat": 36.6864,
+    "lon": 52.5226,
+    "population": 17384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alvand",
+    "region": "Zanjan",
+    "lat": 36.3188,
+    "lon": 49.1677,
+    "population": 17377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mīāndoāb",
+    "region": "West Azarbaijan",
+    "lat": 36.9667,
+    "lon": 46.1096,
+    "population": 17364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silvar",
+    "region": "Hamadan",
+    "lat": 34.7458,
+    "lon": 48.5067,
+    "population": 17337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molham Darreh",
+    "region": "Hamadan",
+    "lat": 34.8314,
+    "lon": 48.1453,
+    "population": 17280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chenārān",
+    "region": "Razavi Khorasan",
+    "lat": 36.6455,
+    "lon": 59.1212,
+    "population": 17240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Anbar",
+    "region": "Hamadan",
+    "lat": 35.2425,
+    "lon": 48.5136,
+    "population": 17217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaromjeh Bagh",
+    "region": "Hamadan",
+    "lat": 35.5175,
+    "lon": 48.6764,
+    "population": 17132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mohammadiyeh-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.1461,
+    "lon": 48.3386,
+    "population": 17091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bāneh",
+    "region": "Kurdistan",
+    "lat": 35.9833,
+    "lon": 45.8167,
+    "population": 17063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omīdcheh",
+    "region": "Ardabil",
+    "lat": 38.2867,
+    "lon": 48.1414,
+    "population": 16871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasīān",
+    "region": "Lorestan",
+    "lat": 33.4908,
+    "lon": 48.0492,
+    "population": 16869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bonāb",
+    "region": "East Azerbaijan",
+    "lat": 37.3334,
+    "lon": 46.0001,
+    "population": 16852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darreh-ye Ebrahim",
+    "region": "Hamadan",
+    "lat": 34.1017,
+    "lon": 48.3944,
+    "population": 16793,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Farāshband",
+    "region": "Fars",
+    "lat": 28.75,
+    "lon": 52.25,
+    "population": 16790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alborz",
+    "region": "Qazvin",
+    "lat": 36.1886,
+    "lon": 50.0783,
+    "population": 16743,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qajar Ab-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.4353,
+    "lon": 48.9753,
+    "population": 16728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaramin-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.1936,
+    "lon": 48.3,
+    "population": 16687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Būshehr",
+    "region": "Bushehr",
+    "lat": 29.1419,
+    "lon": 50.9816,
+    "population": 16653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gholam Veys",
+    "region": "Hamadan",
+    "lat": 35.63,
+    "lon": 48.5258,
+    "population": 16634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ardabīl",
+    "region": "Ardabil",
+    "lat": 38.2498,
+    "lon": 48.2933,
+    "population": 16591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emamzadeh Pir Nahan",
+    "region": "Hamadan",
+    "lat": 35.0114,
+    "lon": 49.0411,
+    "population": 16561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varvazin",
+    "region": "Hamadan",
+    "lat": 35.3658,
+    "lon": 48.9606,
+    "population": 16556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamishlu",
+    "region": "Hamadan",
+    "lat": 35.2458,
+    "lon": 48.9767,
+    "population": 16554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e ‘Alīābād",
+    "region": "Golestan",
+    "lat": 36.8333,
+    "lon": 54.8833,
+    "population": 16499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horhoreh",
+    "region": "Hamadan",
+    "lat": 34.3911,
+    "lon": 48.3603,
+    "population": 16474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahr-e Bābak",
+    "region": "Kerman",
+    "lat": 30.1165,
+    "lon": 55.1186,
+    "population": 16444,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salilak",
+    "region": "Hamadan",
+    "lat": 35.2528,
+    "lon": 49.1189,
+    "population": 16413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fārūj",
+    "region": "North Khorasan",
+    "lat": 37.2167,
+    "lon": 58.2167,
+    "population": 16325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Germī",
+    "region": "Ardabil",
+    "lat": 39,
+    "lon": 47.95,
+    "population": 16317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Darmīān",
+    "region": "South Khorasan",
+    "lat": 32.95,
+    "lon": 60.1667,
+    "population": 16296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vandarabad",
+    "region": "Hamadan",
+    "lat": 34.6697,
+    "lon": 48.0789,
+    "population": 16240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Nā’īn",
+    "region": "Isfahan",
+    "lat": 33.4666,
+    "lon": 53.7167,
+    "population": 16239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehlorān",
+    "region": "Ilam",
+    "lat": 32.6941,
+    "lon": 47.2679,
+    "population": 16162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barzul",
+    "region": "Hamadan",
+    "lat": 34.2128,
+    "lon": 48.2589,
+    "population": 16160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gushalan",
+    "region": "Hamadan",
+    "lat": 34.835,
+    "lon": 48.3225,
+    "population": 16157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Āzādshahr",
+    "region": "Golestan",
+    "lat": 36.9667,
+    "lon": 55.3167,
+    "population": 16137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahar",
+    "region": "Hamadan",
+    "lat": 34.9069,
+    "lon": 48.4414,
+    "population": 16134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pir Badam",
+    "region": "Hamadan",
+    "lat": 35.5672,
+    "lon": 48.1389,
+    "population": 16128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reẕvānshahr",
+    "region": "Gilan",
+    "lat": 37.5498,
+    "lon": 49.137,
+    "population": 16060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baba Qasem",
+    "region": "Hamadan",
+    "lat": 34.08,
+    "lon": 48.4481,
+    "population": 16008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Roshtkhvār",
+    "region": "Razavi Khorasan",
+    "lat": 34.9167,
+    "lon": 59.3667,
+    "population": 15999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vahnan",
+    "region": "Hamadan",
+    "lat": 34.79,
+    "lon": 48.2886,
+    "population": 15973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kitu",
+    "region": "Hamadan",
+    "lat": 35.3197,
+    "lon": 48.1533,
+    "population": 15955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Anār",
+    "region": "Kerman",
+    "lat": 30.85,
+    "lon": 55.35,
+    "population": 15880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ābdānān",
+    "region": "Ilam",
+    "lat": 32.8833,
+    "lon": 47.5,
+    "population": 15817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kord Bolagh",
+    "region": "Hamadan",
+    "lat": 34.7672,
+    "lon": 48.6528,
+    "population": 15794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avarzaman",
+    "region": "Hamadan",
+    "lat": 34.2664,
+    "lon": 48.5122,
+    "population": 15790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qadimi",
+    "region": "Hamadan",
+    "lat": 34.6519,
+    "lon": 48.7367,
+    "population": 15787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shiraz",
+    "region": "Fars",
+    "lat": 29.6103,
+    "lon": 52.5311,
+    "population": 15740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangavar-e Kohneh",
+    "region": "Hamadan",
+    "lat": 34.3419,
+    "lon": 47.9761,
+    "population": 15619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pādegān-e Manjīl",
+    "region": "Gilan",
+    "lat": 36.7415,
+    "lon": 49.4161,
+    "population": 15588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Herīs",
+    "region": "East Azerbaijan",
+    "lat": 38.2306,
+    "lon": 46.8401,
+    "population": 15549,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Javānrūd",
+    "region": "Kermanshah",
+    "lat": 34.8667,
+    "lon": 46.3,
+    "population": 15472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ahvāz",
+    "region": "Khuzestan",
+    "lat": 31.25,
+    "lon": 48.65,
+    "population": 15429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hom-e Khosrow",
+    "region": "Hamadan",
+    "lat": 34.3147,
+    "lon": 48.01,
+    "population": 15406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khomeynī Shahr",
+    "region": "Isfahan",
+    "lat": 32.65,
+    "lon": 51.5,
+    "population": 15395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Varāmīn",
+    "region": "Tehran",
+    "lat": 35.3308,
+    "lon": 51.6412,
+    "population": 15382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Fūman",
+    "region": "Gilan",
+    "lat": 37.1667,
+    "lon": 49.1833,
+    "population": 15375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qūchān",
+    "region": "Razavi Khorasan",
+    "lat": 37.106,
+    "lon": 58.5095,
+    "population": 15368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ţārom",
+    "region": "Zanjan",
+    "lat": 36.95,
+    "lon": 48.9,
+    "population": 15306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gerāsh",
+    "region": "Fars",
+    "lat": 27.6697,
+    "lon": 54.1359,
+    "population": 15287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahreẕā",
+    "region": "Isfahan",
+    "lat": 32.0089,
+    "lon": 51.8668,
+    "population": 15246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Nūr",
+    "region": "Mazandaran",
+    "lat": 36.3167,
+    "lon": 51.9833,
+    "population": 15238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sari",
+    "region": "Mazandaran",
+    "lat": 36.5633,
+    "lon": 53.0601,
+    "population": 15231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joveyn",
+    "region": "Razavi Khorasan",
+    "lat": 36.5833,
+    "lon": 57.5167,
+    "population": 15226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Hashtrūd",
+    "region": "East Azerbaijan",
+    "lat": 37.4667,
+    "lon": 46.9168,
+    "population": 15159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ravānsar",
+    "region": "Kermanshah",
+    "lat": 34.75,
+    "lon": 46.65,
+    "population": 15139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasan Kusej",
+    "region": "Hamadan",
+    "lat": 34.2483,
+    "lon": 48.5753,
+    "population": 15032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gotvand",
+    "region": "Khuzestan",
+    "lat": 32.2167,
+    "lon": 48.8,
+    "population": 15012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zanjān",
+    "region": "Zanjan",
+    "lat": 36.6764,
+    "lon": 48.4963,
+    "population": 15004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Takāb",
+    "region": "West Azarbaijan",
+    "lat": 36.5335,
+    "lon": 47.1667,
+    "population": 14960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Bandar-e Māhshahr",
+    "region": "Khuzestan",
+    "lat": 30.6333,
+    "lon": 49.1167,
+    "population": 14934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baba Pir",
+    "region": "Hamadan",
+    "lat": 34.6142,
+    "lon": 48.4019,
+    "population": 14874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Selseleh",
+    "region": "Lorestan",
+    "lat": 33.8333,
+    "lon": 48.1667,
+    "population": 14873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dehāqān",
+    "region": "Isfahan",
+    "lat": 31.94,
+    "lon": 51.6479,
+    "population": 14852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Javar Sajin",
+    "region": "Hamadan",
+    "lat": 35.2858,
+    "lon": 49.2214,
+    "population": 14780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borūjerd",
+    "region": "Lorestan",
+    "lat": 33.8973,
+    "lon": 48.7516,
+    "population": 14734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sūsangerd",
+    "region": "Khuzestan",
+    "lat": 31.5635,
+    "lon": 48.1896,
+    "population": 14714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negar Khatun",
+    "region": "Hamadan",
+    "lat": 35.1186,
+    "lon": 48.9256,
+    "population": 14703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kūhdasht",
+    "region": "Lorestan",
+    "lat": 33.5333,
+    "lon": 47.61,
+    "population": 14595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kelīshād va Sūdarjān",
+    "region": "Isfahan",
+    "lat": 32.5512,
+    "lon": 51.5276,
+    "population": 14551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Yazd",
+    "region": "Yazd",
+    "lat": 31.8898,
+    "lon": 54.3607,
+    "population": 14546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamuzan",
+    "region": "Hamadan",
+    "lat": 35.2797,
+    "lon": 49.1328,
+    "population": 14473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rūdān",
+    "region": "Hormozgan",
+    "lat": 27.5333,
+    "lon": 57.1167,
+    "population": 14435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahmadabad-e Tappeh",
+    "region": "Hamadan",
+    "lat": 34.6128,
+    "lon": 48.9928,
+    "population": 14396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khvajeh Hoseyni",
+    "region": "Hamadan",
+    "lat": 34.155,
+    "lon": 48.3786,
+    "population": 14390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khārk",
+    "region": "Bushehr",
+    "lat": 29.2614,
+    "lon": 50.3306,
+    "population": 14371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Givaki",
+    "region": "Hamadan",
+    "lat": 34.2725,
+    "lon": 48.0811,
+    "population": 14370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Āstāneh-ye Ashrafīyeh",
+    "region": "Gilan",
+    "lat": 37.3167,
+    "lon": 49.9667,
+    "population": 14344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Garmsār",
+    "region": "Semnan",
+    "lat": 34.9636,
+    "lon": 52.2127,
+    "population": 14257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barreh Farakh",
+    "region": "Hamadan",
+    "lat": 34.3856,
+    "lon": 48.0864,
+    "population": 14242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amzajerd",
+    "region": "Hamadan",
+    "lat": 34.9367,
+    "lon": 48.5325,
+    "population": 14213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kermān",
+    "region": "Kerman",
+    "lat": 30.3333,
+    "lon": 58,
+    "population": 14134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamazan",
+    "region": "Hamadan",
+    "lat": 34.1508,
+    "lon": 48.9533,
+    "population": 14115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pāsārgād",
+    "region": "Fars",
+    "lat": 30.2019,
+    "lon": 53.18,
+    "population": 14111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piranshahr",
+    "region": "West Azarbaijan",
+    "lat": 36.701,
+    "lon": 45.1413,
+    "population": 14056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harsīn",
+    "region": "Kermanshah",
+    "lat": 34.2721,
+    "lon": 47.5861,
+    "population": 14048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darreh Chenar",
+    "region": "Hamadan",
+    "lat": 34.0994,
+    "lon": 48.8031,
+    "population": 14034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qā’en",
+    "region": "South Khorasan",
+    "lat": 33.7265,
+    "lon": 59.1844,
+    "population": 13992,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Qīr va Kārzīn",
+    "region": "Fars",
+    "lat": 28.3167,
+    "lon": 52.9,
+    "population": 13845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rud Avar",
+    "region": "Hamadan",
+    "lat": 34.5506,
+    "lon": 48.4106,
+    "population": 13833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zapon",
+    "region": "Hamadan",
+    "lat": 34.3839,
+    "lon": 48.1894,
+    "population": 13788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dali Chu",
+    "region": "Hamadan",
+    "lat": 35.5214,
+    "lon": 48.0203,
+    "population": 13781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dow Baraleh",
+    "region": "Hamadan",
+    "lat": 34.9022,
+    "lon": 48.0336,
+    "population": 13781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arges-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.0739,
+    "lon": 48.8639,
+    "population": 13750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konjineh",
+    "region": "Hamadan",
+    "lat": 34.7922,
+    "lon": 48.6297,
+    "population": 13697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tusk-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.25,
+    "lon": 48.99,
+    "population": 13696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yazd",
+    "region": "Yazd",
+    "lat": 31.8972,
+    "lon": 54.3675,
+    "population": 13562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rāmsar",
+    "region": "Mazandaran",
+    "lat": 36.7667,
+    "lon": 50.5333,
+    "population": 13529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sirvan",
+    "region": "Ilam",
+    "lat": 33.7546,
+    "lon": 46.5665,
+    "population": 13521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Valiollah",
+    "region": "Hamadan",
+    "lat": 34.3522,
+    "lon": 48.2242,
+    "population": 13501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sāveh",
+    "region": "Markazi",
+    "lat": 35.0213,
+    "lon": 50.3566,
+    "population": 13494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iraneh",
+    "region": "Hamadan",
+    "lat": 34.2431,
+    "lon": 48.5975,
+    "population": 13405,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ābdānān",
+    "region": "Ilam",
+    "lat": 32.9926,
+    "lon": 47.4198,
+    "population": 13397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khaleq Verdi",
+    "region": "Hamadan",
+    "lat": 35.4108,
+    "lon": 48.1811,
+    "population": 13395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dar Qeshlaq",
+    "region": "Hamadan",
+    "lat": 35.4922,
+    "lon": 48.0558,
+    "population": 13394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golushjerd",
+    "region": "Hamadan",
+    "lat": 34.3661,
+    "lon": 48.79,
+    "population": 13282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tonekābon",
+    "region": "Mazandaran",
+    "lat": 36.8163,
+    "lon": 50.8738,
+    "population": 13251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrīār",
+    "region": "Tehran",
+    "lat": 35.6588,
+    "lon": 51.0577,
+    "population": 13247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Payandeh",
+    "region": "Hamadan",
+    "lat": 35.4419,
+    "lon": 48.8531,
+    "population": 13242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nosratabad-e Laklak",
+    "region": "Hamadan",
+    "lat": 34.6647,
+    "lon": 47.9628,
+    "population": 13188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deylam",
+    "region": "Bushehr",
+    "lat": 30.0229,
+    "lon": 50.3559,
+    "population": 13176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asadabad",
+    "region": "Hamadan",
+    "lat": 34.7822,
+    "lon": 48.1183,
+    "population": 13166,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aqaj",
+    "region": "Hamadan",
+    "lat": 34.9558,
+    "lon": 49.3242,
+    "population": 13152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Langarūd",
+    "region": "Gilan",
+    "lat": 37.15,
+    "lon": 50.1167,
+    "population": 13151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Davijan",
+    "region": "Hamadan",
+    "lat": 34.2203,
+    "lon": 48.8583,
+    "population": 13132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Razan",
+    "region": "Hamadan",
+    "lat": 35.3864,
+    "lon": 49.0336,
+    "population": 13112,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tappeh-ye Dibi",
+    "region": "Hamadan",
+    "lat": 35.4292,
+    "lon": 48.6942,
+    "population": 12948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abdalan",
+    "region": "Hamadan",
+    "lat": 34.6528,
+    "lon": 48.2456,
+    "population": 12928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Oshnavīyeh",
+    "region": "West Azarbaijan",
+    "lat": 37.05,
+    "lon": 45.0833,
+    "population": 12886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cheshmeh Qareh",
+    "region": "Hamadan",
+    "lat": 34.9061,
+    "lon": 47.8711,
+    "population": 12866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hudaraj",
+    "region": "Hamadan",
+    "lat": 34.7336,
+    "lon": 48.1619,
+    "population": 12849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kutah Darreh",
+    "region": "Hamadan",
+    "lat": 34.3206,
+    "lon": 47.9539,
+    "population": 12825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarkan",
+    "region": "Hamadan",
+    "lat": 34.6017,
+    "lon": 48.4506,
+    "population": 12806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chabahar",
+    "region": "Sistan and Baluchestan",
+    "lat": 25.2919,
+    "lon": 60.643,
+    "population": 12782,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hajji Kheder",
+    "region": "Hamadan",
+    "lat": 34.1272,
+    "lon": 48.7483,
+    "population": 12725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chulak Qapanuri",
+    "region": "Hamadan",
+    "lat": 34.2347,
+    "lon": 48.3,
+    "population": 12708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanjuzan",
+    "region": "Hamadan",
+    "lat": 34.6561,
+    "lon": 48.3933,
+    "population": 12476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shāhīn Dezh",
+    "region": "West Azarbaijan",
+    "lat": 36.6793,
+    "lon": 46.5669,
+    "population": 12473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varāmīn",
+    "region": "Tehran",
+    "lat": 35.3242,
+    "lon": 51.6457,
+    "population": 12441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gerāsh",
+    "region": "Fars",
+    "lat": 27.65,
+    "lon": 53.65,
+    "population": 12438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Mohammadi",
+    "region": "Hamadan",
+    "lat": 34.0667,
+    "lon": 48.9167,
+    "population": 12429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qazvin",
+    "region": "Qazvin",
+    "lat": 36.2688,
+    "lon": 50.0041,
+    "population": 12425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahvaz",
+    "region": "Khuzestan",
+    "lat": 31.319,
+    "lon": 48.6842,
+    "population": 12351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qarah Day",
+    "region": "Hamadan",
+    "lat": 35.1253,
+    "lon": 49.2822,
+    "population": 12276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Darsibeh",
+    "region": "Hamadan",
+    "lat": 34.2697,
+    "lon": 48.0069,
+    "population": 12260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iranshahr",
+    "region": "Sistan and Baluchestan",
+    "lat": 27.2024,
+    "lon": 60.6848,
+    "population": 12201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Qeshlaq-e Qobad",
+    "region": "Hamadan",
+    "lat": 34.5878,
+    "lon": 48.8958,
+    "population": 12060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunestan",
+    "region": "Hamadan",
+    "lat": 34.0303,
+    "lon": 48.9183,
+    "population": 12055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torkaman",
+    "region": "Golestan",
+    "lat": 36.9,
+    "lon": 54.1667,
+    "population": 12039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fīrūzābād",
+    "region": "Fars",
+    "lat": 28.8438,
+    "lon": 52.5707,
+    "population": 12026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Oskū",
+    "region": "East Azerbaijan",
+    "lat": 37.95,
+    "lon": 45.8834,
+    "population": 11933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rūdsar",
+    "region": "Gilan",
+    "lat": 37.137,
+    "lon": 50.2917,
+    "population": 11875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Pīshvā",
+    "region": "Tehran",
+    "lat": 35.35,
+    "lon": 51.7167,
+    "population": 11820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tajar-e Samen",
+    "region": "Hamadan",
+    "lat": 34.2256,
+    "lon": 48.665,
+    "population": 11810,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Rūdbār-e Jonūbī",
+    "region": "Kerman",
+    "lat": 27.9,
+    "lon": 58.4667,
+    "population": 11704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bīleh Savār",
+    "region": "Ardabil",
+    "lat": 39.3796,
+    "lon": 48.3546,
+    "population": 11688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ārādān",
+    "region": "Semnan",
+    "lat": 34.9,
+    "lon": 52.6167,
+    "population": 11631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sīrjān",
+    "region": "Kerman",
+    "lat": 29.3667,
+    "lon": 55.65,
+    "population": 11544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malayer",
+    "region": "Hamadan",
+    "lat": 34.2942,
+    "lon": 48.82,
+    "population": 11539,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yalfan",
+    "region": "Hamadan",
+    "lat": 34.7364,
+    "lon": 48.6111,
+    "population": 11537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shademaneh",
+    "region": "Hamadan",
+    "lat": 34.3617,
+    "lon": 48.2806,
+    "population": 11436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Khātam",
+    "region": "Yazd",
+    "lat": 30.3833,
+    "lon": 54.2,
+    "population": 11419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karun",
+    "region": "Khuzestan",
+    "lat": 31.2762,
+    "lon": 48.6417,
+    "population": 11348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chardavol County",
+    "region": "Ilam",
+    "lat": 33.7591,
+    "lon": 46.5698,
+    "population": 11329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Torbat-e Ḩeydarīyeh",
+    "region": "Razavi Khorasan",
+    "lat": 35.4667,
+    "lon": 59.1,
+    "population": 11195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamak-e Sofla",
+    "region": "Hamadan",
+    "lat": 34.8875,
+    "lon": 47.9686,
+    "population": 11076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kūh Sefīd",
+    "region": "Kerman",
+    "lat": 29.2762,
+    "lon": 56.8014,
+    "population": 11033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aq Bolagh-e Aqdaq",
+    "region": "Hamadan",
+    "lat": 35.6117,
+    "lon": 48.4414,
+    "population": 11004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahbar",
+    "region": "Hamadan",
+    "lat": 34.8761,
+    "lon": 48.8078,
+    "population": 10925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chasht Khvoreh",
+    "region": "Hamadan",
+    "lat": 34.4644,
+    "lon": 48.2669,
+    "population": 10901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Sārī",
+    "region": "Mazandaran",
+    "lat": 36.3333,
+    "lon": 53.2833,
+    "population": 10899,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ashkez̄ar",
+    "region": "Yazd",
+    "lat": 32,
+    "lon": 53.6667,
+    "population": 10898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kermānshāh",
+    "region": "Kermanshah",
+    "lat": 34.3333,
+    "lon": 47,
+    "population": 10893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Hīrmand",
+    "region": "Sistan and Baluchestan",
+    "lat": 31.25,
+    "lon": 61.6167,
+    "population": 10858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Farasfaj",
+    "region": "Hamadan",
+    "lat": 34.4861,
+    "lon": 48.2856,
+    "population": 10822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hoseynabad-e Shamlu",
+    "region": "Hamadan",
+    "lat": 34.4461,
+    "lon": 48.6206,
+    "population": 10786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamasb",
+    "region": "Hamadan",
+    "lat": 34.04,
+    "lon": 48.465,
+    "population": 10785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aq Chay",
+    "region": "Hamadan",
+    "lat": 35.4792,
+    "lon": 49.1039,
+    "population": 10760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Ḩājjīābād",
+    "region": "Hormozgan",
+    "lat": 28.3333,
+    "lon": 55.8333,
+    "population": 10757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emamzadeh Khatun",
+    "region": "Hamadan",
+    "lat": 34.0497,
+    "lon": 48.9522,
+    "population": 10751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Naz̧arābād",
+    "region": "Alborz",
+    "lat": 35.9137,
+    "lon": 50.5168,
+    "population": 10699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Pārsābād",
+    "region": "Ardabil",
+    "lat": 39.5833,
+    "lon": 47.9167,
+    "population": 10690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abrīsham",
+    "region": "Isfahan",
+    "lat": 32.5561,
+    "lon": 51.5733,
+    "population": 10670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Tabrīz",
+    "region": "East Azerbaijan",
+    "lat": 38.0833,
+    "lon": 46.2833,
+    "population": 10668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Kohgīlūyeh",
+    "region": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 31.0333,
+    "lon": 50.45,
+    "population": 10585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirza Hesari",
+    "region": "Hamadan",
+    "lat": 35.1275,
+    "lon": 48.4594,
+    "population": 10565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mihamleh-ye Sofla",
+    "region": "Hamadan",
+    "lat": 35.1,
+    "lon": 48.3081,
+    "population": 10516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timi Jan",
+    "region": "Hamadan",
+    "lat": 34.6903,
+    "lon": 48.3414,
+    "population": 10505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Shūshtar",
+    "region": "Khuzestan",
+    "lat": 31.9,
+    "lon": 48.85,
+    "population": 10498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gorgān",
+    "region": "Golestan",
+    "lat": 36.7333,
+    "lon": 54.5167,
+    "population": 10402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arteh Bolagh",
+    "region": "Hamadan",
+    "lat": 34.3264,
+    "lon": 48.5492,
+    "population": 10367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Naz̧arābād",
+    "region": "Alborz",
+    "lat": 35.9541,
+    "lon": 50.6061,
+    "population": 10350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zirabiyeh",
+    "region": "Hamadan",
+    "lat": 34.4133,
+    "lon": 48.6169,
+    "population": 10336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gol Heydar",
+    "region": "Hamadan",
+    "lat": 34.0625,
+    "lon": 48.4167,
+    "population": 10313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Meyvaleh",
+    "region": "Hamadan",
+    "lat": 34.8319,
+    "lon": 47.8553,
+    "population": 10275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Āmol",
+    "region": "Mazandaran",
+    "lat": 36.4696,
+    "lon": 52.3507,
+    "population": 10273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Āz̄arshahr",
+    "region": "East Azerbaijan",
+    "lat": 37.75,
+    "lon": 45.8333,
+    "population": 10173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nanaj",
+    "region": "Hamadan",
+    "lat": 34.42,
+    "lon": 48.7539,
+    "population": 10128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piruz",
+    "region": "Hamadan",
+    "lat": 34.135,
+    "lon": 49.0453,
+    "population": 10117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Mehrān",
+    "region": "Ilam",
+    "lat": 33.2833,
+    "lon": 46.1667,
+    "population": 10094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vardavard-e Vosta",
+    "region": "Hamadan",
+    "lat": 34.7044,
+    "lon": 48.3017,
+    "population": 10082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Jāsk",
+    "region": "Hormozgan",
+    "lat": 25.8833,
+    "lon": 58.2,
+    "population": 10050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shahrestān-e Gomīshān",
+    "region": "Golestan",
+    "lat": 37.15,
+    "lon": 54.15,
+    "population": 10047,
+    "timezone": "UTC"
+  }
+]

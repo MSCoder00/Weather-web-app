@@ -1,0 +1,12 @@
+[phases.build]
+cmds = ["npm install", "npm run build"]
+
+[phases.install]
+cmds = ["npm install"]
+
+[start]
+cmd = "npm start"
+
+[[healthchecks]]
+type = "http"
+path = "/"

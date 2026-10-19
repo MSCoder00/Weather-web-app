@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Stari Bar",
+    "region": "Bar Municipality",
+    "lat": 42.097,
+    "lon": 19.136,
+    "population": 49744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrota",
+    "region": "Kotor Municipality",
+    "lat": 42.4542,
+    "lon": 18.7683,
+    "population": 49090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plužine",
+    "region": "Plužine Municipality",
+    "lat": 43.1528,
+    "lon": 18.8394,
+    "population": 49077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tuzi",
+    "region": "Podgorica Municipality",
+    "lat": 42.3656,
+    "lon": 19.3314,
+    "population": 43222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rožaje",
+    "region": "Rožaje Municipality",
+    "lat": 42.833,
+    "lon": 20.1665,
+    "population": 42106,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goričani",
+    "region": "Podgorica Municipality",
+    "lat": 42.3322,
+    "lon": 19.2119,
+    "population": 40271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pljevlja",
+    "region": "Pljevlja Municipality",
+    "lat": 43.3567,
+    "lon": 19.3584,
+    "population": 39781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plav",
+    "region": "Plav Municipality",
+    "lat": 42.5969,
+    "lon": 19.9456,
+    "population": 39551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolašin",
+    "region": "Kolašin Municipality",
+    "lat": 42.8223,
+    "lon": 19.5165,
+    "population": 39433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bijelo Polje",
+    "region": "Bijelo Polje Municipality",
+    "lat": 43.0383,
+    "lon": 19.7476,
+    "population": 37872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrovac na Moru",
+    "region": "Budva Municipality",
+    "lat": 42.2056,
+    "lon": 18.9425,
+    "population": 37013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Danilovgrad",
+    "region": "Danilovgrad Municipality",
+    "lat": 42.5538,
+    "lon": 19.1461,
+    "population": 36802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Golubovci",
+    "region": "Podgorica Municipality",
+    "lat": 42.335,
+    "lon": 19.2311,
+    "population": 36563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tivat",
+    "region": "Tivat Municipality",
+    "lat": 42.4364,
+    "lon": 18.6961,
+    "population": 36418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mojanovići",
+    "region": "Podgorica Municipality",
+    "lat": 42.3417,
+    "lon": 19.2214,
+    "population": 32351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bar",
+    "region": "Bar Municipality",
+    "lat": 42.0931,
+    "lon": 19.1003,
+    "population": 29860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Risan",
+    "region": "Kotor Municipality",
+    "lat": 42.515,
+    "lon": 18.6956,
+    "population": 29566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotor",
+    "region": "Kotor Municipality",
+    "lat": 42.4207,
+    "lon": 18.7682,
+    "population": 28613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulcinj",
+    "region": "Ulcinj Municipality",
+    "lat": 41.9294,
+    "lon": 19.2244,
+    "population": 26096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nikšić",
+    "region": "Nikšić Municipality",
+    "lat": 42.7731,
+    "lon": 18.9445,
+    "population": 23361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šušanj",
+    "region": "Bar Municipality",
+    "lat": 42.1156,
+    "lon": 19.0883,
+    "population": 22041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mataguži",
+    "region": "Podgorica Municipality",
+    "lat": 42.3236,
+    "lon": 19.2728,
+    "population": 21960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andrijevica",
+    "region": "Andrijevica Municipality",
+    "lat": 42.7339,
+    "lon": 19.7919,
+    "population": 21230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Šavnik",
+    "region": "Šavnik Municipality",
+    "lat": 42.9564,
+    "lon": 19.0967,
+    "population": 21191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mojkovac",
+    "region": "Mojkovac Municipality",
+    "lat": 42.9604,
+    "lon": 19.5833,
+    "population": 17149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gusinje",
+    "region": "Gusinje Municipality",
+    "lat": 42.5619,
+    "lon": 19.8339,
+    "population": 15783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sutomore",
+    "region": "Bar Municipality",
+    "lat": 42.1428,
+    "lon": 19.0467,
+    "population": 15751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cetinje",
+    "region": "Old Royal Capital Cetinje",
+    "lat": 42.3906,
+    "lon": 18.9142,
+    "population": 15532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Podgorica",
+    "region": "Podgorica Municipality",
+    "lat": 42.4411,
+    "lon": 19.2636,
+    "population": 14431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Žabljak",
+    "region": "Žabljak Municipality",
+    "lat": 43.1542,
+    "lon": 19.1232,
+    "population": 14165,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Budva",
+    "region": "Budva Municipality",
+    "lat": 42.2864,
+    "lon": 18.84,
+    "population": 13965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Spuž",
+    "region": "Danilovgrad Municipality",
+    "lat": 42.515,
+    "lon": 19.195,
+    "population": 13391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prčanj",
+    "region": "Kotor Municipality",
+    "lat": 42.4575,
+    "lon": 18.7422,
+    "population": 12416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berane",
+    "region": "Berane Municipality",
+    "lat": 42.8425,
+    "lon": 19.8733,
+    "population": 11270,
+    "timezone": "UTC"
+  }
+]

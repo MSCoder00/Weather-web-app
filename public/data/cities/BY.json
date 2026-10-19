@@ -1,0 +1,2634 @@
+[
+  {
+    "name": "Chervyen’",
+    "region": "Minsk Region",
+    "lat": 53.7059,
+    "lon": 28.4313,
+    "population": 49901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazyr",
+    "region": "Gomel Region",
+    "lat": 52.0495,
+    "lon": 29.2456,
+    "population": 49897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashmyanski Rayon",
+    "region": "Grodno Region",
+    "lat": 54.4167,
+    "lon": 25.9167,
+    "population": 49881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsimkavichy",
+    "region": "Minsk Region",
+    "lat": 53.0672,
+    "lon": 26.9902,
+    "population": 49644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahilyowski Rayon",
+    "region": "Mogilev Region",
+    "lat": 53.8333,
+    "lon": 30.25,
+    "population": 49580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slawharad",
+    "region": "Mogilev Region",
+    "lat": 53.4429,
+    "lon": 31.0014,
+    "population": 49463,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krasnosel’skiy",
+    "region": "Grodno Region",
+    "lat": 53.2645,
+    "lon": 24.4301,
+    "population": 49458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byalynitski Rayon",
+    "region": "Mogilev Region",
+    "lat": 54,
+    "lon": 29.75,
+    "population": 49317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yel’sk",
+    "region": "Gomel Region",
+    "lat": 51.8141,
+    "lon": 29.1522,
+    "population": 49234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kreva",
+    "region": "Grodno Region",
+    "lat": 54.3118,
+    "lon": 26.2916,
+    "population": 49051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dowsk",
+    "region": "Gomel Region",
+    "lat": 53.1571,
+    "lon": 30.4601,
+    "population": 48845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyntupy",
+    "region": "Vitebsk Region",
+    "lat": 55.0516,
+    "lon": 26.3103,
+    "population": 48758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loyew",
+    "region": "Gomel Region",
+    "lat": 51.9458,
+    "lon": 30.7953,
+    "population": 48738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byaroza",
+    "region": "Brest Region",
+    "lat": 52.5314,
+    "lon": 24.9786,
+    "population": 48537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khal’ch",
+    "region": "Gomel Region",
+    "lat": 52.5643,
+    "lon": 31.1364,
+    "population": 48422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novosel’ye",
+    "region": "Minsk Region",
+    "lat": 53.9162,
+    "lon": 27.2009,
+    "population": 48367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drahichynski Rayon",
+    "region": "Brest Region",
+    "lat": 52.1667,
+    "lon": 25,
+    "population": 48195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Syanno",
+    "region": "Vitebsk Region",
+    "lat": 54.8108,
+    "lon": 29.7086,
+    "population": 48043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hlybokaye",
+    "region": "Vitebsk Region",
+    "lat": 55.1384,
+    "lon": 27.6905,
+    "population": 48026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aktsyabrski",
+    "region": "Gomel Region",
+    "lat": 52.644,
+    "lon": 28.8801,
+    "population": 47951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosty",
+    "region": "Grodno Region",
+    "lat": 53.4122,
+    "lon": 24.5387,
+    "population": 47845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klyetski Rayon",
+    "region": "Minsk Region",
+    "lat": 53,
+    "lon": 26.6667,
+    "population": 47792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyakhavichy",
+    "region": "Brest Region",
+    "lat": 53.0388,
+    "lon": 26.2656,
+    "population": 47630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karma",
+    "region": "Gomel Region",
+    "lat": 53.1301,
+    "lon": 30.8016,
+    "population": 47555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turets-Bayary",
+    "region": "Minsk Region",
+    "lat": 54.3785,
+    "lon": 26.6581,
+    "population": 47431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samakhvalavichy",
+    "region": "Minsk Region",
+    "lat": 53.7396,
+    "lon": 27.5037,
+    "population": 47051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byarezinski Rayon",
+    "region": "Minsk Region",
+    "lat": 53.8333,
+    "lon": 29,
+    "population": 46879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krasnaye",
+    "region": "Minsk Region",
+    "lat": 54.2438,
+    "lon": 27.0758,
+    "population": 46872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frunzyenski Rayon",
+    "region": "Minsk",
+    "lat": 53.9006,
+    "lon": 27.495,
+    "population": 46811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pruzhany",
+    "region": "Brest Region",
+    "lat": 52.556,
+    "lon": 24.4573,
+    "population": 46802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyel’chytski Rayon",
+    "region": "Gomel Region",
+    "lat": 51.8333,
+    "lon": 28.25,
+    "population": 46724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Schomyslitsa",
+    "region": "Minsk Region",
+    "lat": 53.8211,
+    "lon": 27.4522,
+    "population": 46525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyuban’",
+    "region": "Minsk Region",
+    "lat": 52.7985,
+    "lon": 28.0048,
+    "population": 46154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yalizava",
+    "region": "Mogilev Region",
+    "lat": 53.3994,
+    "lon": 29.0048,
+    "population": 46124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horad Zhodzina",
+    "region": "Minsk Region",
+    "lat": 54.0985,
+    "lon": 28.3331,
+    "population": 46025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhlobin",
+    "region": "Gomel Region",
+    "lat": 52.8926,
+    "lon": 30.024,
+    "population": 45905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamyanyets",
+    "region": "Brest Region",
+    "lat": 52.4001,
+    "lon": 23.81,
+    "population": 45318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myorski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.5833,
+    "lon": 27.8333,
+    "population": 45280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Partyzanski Rayon",
+    "region": "Minsk",
+    "lat": 53.8803,
+    "lon": 27.67,
+    "population": 45138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanawski Rayon",
+    "region": "Brest Region",
+    "lat": 52.1667,
+    "lon": 25.5833,
+    "population": 45050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyakhachava",
+    "region": "Brest Region",
+    "lat": 52.644,
+    "lon": 25.2027,
+    "population": 44928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Usiazh",
+    "region": "Minsk Region",
+    "lat": 54.076,
+    "lon": 28.007,
+    "population": 44927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blon’",
+    "region": "Minsk Region",
+    "lat": 53.5269,
+    "lon": 28.1732,
+    "population": 44908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kobryn",
+    "region": "Brest Region",
+    "lat": 52.2138,
+    "lon": 24.3564,
+    "population": 44700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Motal’",
+    "region": "Brest Region",
+    "lat": 52.3138,
+    "lon": 25.6072,
+    "population": 44570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luhavaya Slabada",
+    "region": "Minsk Region",
+    "lat": 53.7823,
+    "lon": 27.8434,
+    "population": 44423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baruny",
+    "region": "Grodno Region",
+    "lat": 54.3171,
+    "lon": 26.1376,
+    "population": 44327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Michanovichi",
+    "region": "Minsk Region",
+    "lat": 53.7394,
+    "lon": 27.6928,
+    "population": 44325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dokshytsy",
+    "region": "Vitebsk Region",
+    "lat": 54.8918,
+    "lon": 27.7667,
+    "population": 44163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shchuchyn",
+    "region": "Grodno Region",
+    "lat": 53.6014,
+    "lon": 24.7465,
+    "population": 44096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polatsk",
+    "region": "Vitebsk Region",
+    "lat": 55.4879,
+    "lon": 28.7856,
+    "population": 44029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brahin",
+    "region": "Gomel Region",
+    "lat": 51.787,
+    "lon": 30.2677,
+    "population": 43925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stawbtsowski Rayon",
+    "region": "Minsk Region",
+    "lat": 53.5833,
+    "lon": 26.6667,
+    "population": 43604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novaya Huta",
+    "region": "Gomel Region",
+    "lat": 52.1032,
+    "lon": 30.9837,
+    "population": 43425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Staradarozhski Rayon",
+    "region": "Minsk Region",
+    "lat": 53,
+    "lon": 28.1667,
+    "population": 43352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yubilyeyny",
+    "region": "Minsk Region",
+    "lat": 53.8191,
+    "lon": 27.5215,
+    "population": 43287,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyatryshki",
+    "region": "Minsk Region",
+    "lat": 54.0686,
+    "lon": 27.2179,
+    "population": 43162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Davyd-Haradok",
+    "region": "Brest Region",
+    "lat": 52.0566,
+    "lon": 27.2161,
+    "population": 43134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Posëlok Voskhod",
+    "region": "Mogilev Region",
+    "lat": 53.7766,
+    "lon": 30.3497,
+    "population": 43122,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pastavy",
+    "region": "Vitebsk Region",
+    "lat": 55.1168,
+    "lon": 26.8326,
+    "population": 43016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zamostochye",
+    "region": "Minsk Region",
+    "lat": 53.8198,
+    "lon": 27.8685,
+    "population": 42985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krasnapol’ski Rayon",
+    "region": "Mogilev Region",
+    "lat": 53.3333,
+    "lon": 31.4167,
+    "population": 42935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savyetski Rayon",
+    "region": "Minsk",
+    "lat": 53.9178,
+    "lon": 27.5942,
+    "population": 42911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slutski Rayon",
+    "region": "Minsk Region",
+    "lat": 53,
+    "lon": 27.6667,
+    "population": 42808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stan’kava",
+    "region": "Minsk Region",
+    "lat": 53.6292,
+    "lon": 27.229,
+    "population": 42621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palykavichy Pyershyya",
+    "region": "Mogilev Region",
+    "lat": 53.9854,
+    "lon": 30.36,
+    "population": 42445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanava",
+    "region": "Brest Region",
+    "lat": 52.1451,
+    "lon": 25.5365,
+    "population": 42073,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rudzyensk",
+    "region": "Minsk Region",
+    "lat": 53.5983,
+    "lon": 27.8621,
+    "population": 42016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pruzhanski Rayon",
+    "region": "Brest Region",
+    "lat": 52.6667,
+    "lon": 24.5833,
+    "population": 41997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrush",
+    "region": "Gomel Region",
+    "lat": 52.4089,
+    "lon": 31.3237,
+    "population": 41952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smilavichy",
+    "region": "Minsk Region",
+    "lat": 53.7496,
+    "lon": 28.0115,
+    "population": 41951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sapotskin",
+    "region": "Grodno Region",
+    "lat": 53.8329,
+    "lon": 23.6598,
+    "population": 41814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Syenitsa",
+    "region": "Minsk Region",
+    "lat": 53.8313,
+    "lon": 27.5343,
+    "population": 41714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uzda",
+    "region": "Minsk Region",
+    "lat": 53.4627,
+    "lon": 27.2137,
+    "population": 41688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horki",
+    "region": "Mogilev Region",
+    "lat": 54.2862,
+    "lon": 30.9863,
+    "population": 41673,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karelitski Rayon",
+    "region": "Grodno Region",
+    "lat": 53.5,
+    "lon": 26.25,
+    "population": 41660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sasnovy Bor",
+    "region": "Gomel Region",
+    "lat": 52.5194,
+    "lon": 29.5988,
+    "population": 41588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slutsk",
+    "region": "Minsk Region",
+    "lat": 53.0274,
+    "lon": 27.5597,
+    "population": 41496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vyalikaya Byerastavitsa",
+    "region": "Grodno Region",
+    "lat": 53.196,
+    "lon": 24.0166,
+    "population": 41262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baran’",
+    "region": "Vitebsk Region",
+    "lat": 54.4784,
+    "lon": 30.3159,
+    "population": 41229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braslawski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.5597,
+    "lon": 27,
+    "population": 41143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kosava",
+    "region": "Brest Region",
+    "lat": 52.7583,
+    "lon": 25.1554,
+    "population": 41111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drybinski Rayon",
+    "region": "Mogilev Region",
+    "lat": 54.0833,
+    "lon": 31,
+    "population": 41054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hantsavitski Rayon",
+    "region": "Brest Region",
+    "lat": 52.6667,
+    "lon": 26.5,
+    "population": 40919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khotsimski Rayon",
+    "region": "Mogilev Region",
+    "lat": 53.4167,
+    "lon": 32.5,
+    "population": 40875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hatava",
+    "region": "Minsk Region",
+    "lat": 53.7829,
+    "lon": 27.6407,
+    "population": 40764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shklowski Rayon",
+    "region": "Mogilev Region",
+    "lat": 54.1667,
+    "lon": 30.3333,
+    "population": 40594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Staryya Darohi",
+    "region": "Minsk Region",
+    "lat": 53.0402,
+    "lon": 28.267,
+    "population": 40536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khodasy",
+    "region": "Mogilev Region",
+    "lat": 53.9266,
+    "lon": 31.4779,
+    "population": 40437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slonim",
+    "region": "Grodno Region",
+    "lat": 53.0869,
+    "lon": 25.3163,
+    "population": 40237,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smalyavitski Rayon",
+    "region": "Minsk Region",
+    "lat": 54,
+    "lon": 28.1667,
+    "population": 40232,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antopal’",
+    "region": "Brest Region",
+    "lat": 52.2038,
+    "lon": 24.7863,
+    "population": 40033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bal’shavik",
+    "region": "Minsk Region",
+    "lat": 54.0036,
+    "lon": 27.5669,
+    "population": 40030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hal’shany",
+    "region": "Grodno Region",
+    "lat": 54.2585,
+    "lon": 26.0144,
+    "population": 39960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Voranava",
+    "region": "Grodno Region",
+    "lat": 54.1492,
+    "lon": 25.3112,
+    "population": 39888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakaw",
+    "region": "Minsk Region",
+    "lat": 53.9674,
+    "lon": 27.0562,
+    "population": 39521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maladzyechna",
+    "region": "Minsk Region",
+    "lat": 54.3167,
+    "lon": 26.854,
+    "population": 39494,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasilyevichy",
+    "region": "Gomel Region",
+    "lat": 52.2512,
+    "lon": 29.8288,
+    "population": 39454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mahilyow",
+    "region": "Mogilev Region",
+    "lat": 53.9168,
+    "lon": 30.3449,
+    "population": 39437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haradotski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.6667,
+    "lon": 30.1667,
+    "population": 39202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhlobinski Rayon",
+    "region": "Gomel Region",
+    "lat": 52.75,
+    "lon": 29.8333,
+    "population": 39189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horad Hrodna",
+    "region": "Grodno Region",
+    "lat": 53.6833,
+    "lon": 23.8333,
+    "population": 39136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klimavichy",
+    "region": "Mogilev Region",
+    "lat": 53.6079,
+    "lon": 31.9586,
+    "population": 38611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barysaw",
+    "region": "Minsk Region",
+    "lat": 54.2279,
+    "lon": 28.505,
+    "population": 38588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soly",
+    "region": "Grodno Region",
+    "lat": 54.513,
+    "lon": 26.1938,
+    "population": 38448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Damachava",
+    "region": "Brest Region",
+    "lat": 51.75,
+    "lon": 23.6,
+    "population": 38434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stowbtsy",
+    "region": "Minsk Region",
+    "lat": 53.4785,
+    "lon": 26.7434,
+    "population": 38381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhaludok",
+    "region": "Grodno Region",
+    "lat": 53.5974,
+    "lon": 24.9828,
+    "population": 38226,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyoznyenski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55,
+    "lon": 30.6667,
+    "population": 37582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pyetrykaw",
+    "region": "Gomel Region",
+    "lat": 52.1289,
+    "lon": 28.4921,
+    "population": 37578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machulishchy",
+    "region": "Minsk Region",
+    "lat": 53.7788,
+    "lon": 27.5948,
+    "population": 37563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vysokaye",
+    "region": "Brest Region",
+    "lat": 52.3709,
+    "lon": 23.3708,
+    "population": 37558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Azyartso",
+    "region": "Minsk Region",
+    "lat": 53.8397,
+    "lon": 27.3917,
+    "population": 37522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stolinski Rayon",
+    "region": "Brest Region",
+    "lat": 52,
+    "lon": 27,
+    "population": 37480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dashkawka",
+    "region": "Mogilev Region",
+    "lat": 53.7352,
+    "lon": 30.2625,
+    "population": 37476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhabinkawski Rayon",
+    "region": "Brest Region",
+    "lat": 52.1667,
+    "lon": 24.0833,
+    "population": 37115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastsyukovichy",
+    "region": "Mogilev Region",
+    "lat": 53.3525,
+    "lon": 32.0514,
+    "population": 36962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baranovichi",
+    "region": "Brest Region",
+    "lat": 53.1327,
+    "lon": 26.0139,
+    "population": 36961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pinsk",
+    "region": "Brest Region",
+    "lat": 52.1229,
+    "lon": 26.0951,
+    "population": 36746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chavusy",
+    "region": "Mogilev Region",
+    "lat": 53.8098,
+    "lon": 30.9717,
+    "population": 36682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haradzishcha",
+    "region": "Brest Region",
+    "lat": 53.3247,
+    "lon": 26.0107,
+    "population": 36640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Navapolatsk",
+    "region": "Vitebsk Region",
+    "lat": 55.5318,
+    "lon": 28.5987,
+    "population": 36491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vyaliki Trastsyanets",
+    "region": "Minsk Region",
+    "lat": 53.851,
+    "lon": 27.7139,
+    "population": 36214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vishnyeva",
+    "region": "Grodno Region",
+    "lat": 54.7102,
+    "lon": 26.5228,
+    "population": 36092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirawsk",
+    "region": "Mogilev Region",
+    "lat": 53.2693,
+    "lon": 29.4752,
+    "population": 36033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Volkovysk",
+    "region": "Grodno Region",
+    "lat": 53.1561,
+    "lon": 24.4513,
+    "population": 35948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivatsevichy",
+    "region": "Brest Region",
+    "lat": 52.709,
+    "lon": 25.3401,
+    "population": 35690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyepyel’",
+    "region": "Vitebsk Region",
+    "lat": 54.8814,
+    "lon": 28.699,
+    "population": 35689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stolin",
+    "region": "Brest Region",
+    "lat": 51.8912,
+    "lon": 26.846,
+    "population": 35631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borovlyany",
+    "region": "Minsk Region",
+    "lat": 54.0022,
+    "lon": 27.6754,
+    "population": 35528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shklow",
+    "region": "Mogilev Region",
+    "lat": 54.2131,
+    "lon": 30.2877,
+    "population": 35503,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krychaw",
+    "region": "Mogilev Region",
+    "lat": 53.7125,
+    "lon": 31.717,
+    "population": 35480,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kryvichy",
+    "region": "Minsk Region",
+    "lat": 54.7132,
+    "lon": 27.2886,
+    "population": 35466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kholopenichi",
+    "region": "Minsk Region",
+    "lat": 54.5175,
+    "lon": 28.9565,
+    "population": 35234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krasnyy Bereg",
+    "region": "Mogilev Region",
+    "lat": 53.3291,
+    "lon": 30.1929,
+    "population": 35174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruzhany",
+    "region": "Brest Region",
+    "lat": 52.8632,
+    "lon": 24.8936,
+    "population": 35142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svislach",
+    "region": "Grodno Region",
+    "lat": 53.0347,
+    "lon": 24.0983,
+    "population": 35134,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vishow",
+    "region": "Mogilev Region",
+    "lat": 53.9805,
+    "lon": 29.9925,
+    "population": 35069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mstsislaw",
+    "region": "Mogilev Region",
+    "lat": 54.0185,
+    "lon": 31.7217,
+    "population": 34972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chyst’",
+    "region": "Minsk Region",
+    "lat": 54.2698,
+    "lon": 27.1067,
+    "population": 34924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fanipol",
+    "region": "Minsk Region",
+    "lat": 53.75,
+    "lon": 27.3334,
+    "population": 34867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharkawshchyna",
+    "region": "Vitebsk Region",
+    "lat": 55.3689,
+    "lon": 27.4686,
+    "population": 34827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lahishyn",
+    "region": "Brest Region",
+    "lat": 52.339,
+    "lon": 25.9867,
+    "population": 34745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myazhysyatki",
+    "region": "Mogilev Region",
+    "lat": 53.7776,
+    "lon": 30.1765,
+    "population": 34688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baranovichskiy Rayon",
+    "region": "Brest Region",
+    "lat": 53.1667,
+    "lon": 25.8333,
+    "population": 34633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Korolëv Stan",
+    "region": "Minsk Region",
+    "lat": 53.9865,
+    "lon": 27.7982,
+    "population": 34504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krasnapollye",
+    "region": "Mogilev Region",
+    "lat": 53.3353,
+    "lon": 31.3999,
+    "population": 34460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Druzhny",
+    "region": "Minsk Region",
+    "lat": 53.6238,
+    "lon": 27.8977,
+    "population": 34458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamyanyuki",
+    "region": "Brest Region",
+    "lat": 52.5576,
+    "lon": 23.8053,
+    "population": 34445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mikashevichy",
+    "region": "Brest Region",
+    "lat": 52.2173,
+    "lon": 27.476,
+    "population": 34426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzyarzhynsk",
+    "region": "Minsk Region",
+    "lat": 53.6832,
+    "lon": 27.138,
+    "population": 34382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slabada",
+    "region": "Minsk Region",
+    "lat": 54.0087,
+    "lon": 27.8866,
+    "population": 34228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Urechcha",
+    "region": "Minsk Region",
+    "lat": 52.9479,
+    "lon": 27.893,
+    "population": 34041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramanavichy",
+    "region": "Mogilev Region",
+    "lat": 53.8653,
+    "lon": 30.5597,
+    "population": 33874,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsyelyakhany",
+    "region": "Brest Region",
+    "lat": 52.5175,
+    "lon": 25.8429,
+    "population": 33821,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haradzyeya",
+    "region": "Minsk Region",
+    "lat": 53.3121,
+    "lon": 26.538,
+    "population": 33753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vidzy",
+    "region": "Vitebsk Region",
+    "lat": 55.3945,
+    "lon": 26.6305,
+    "population": 33583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilyeyski Rayon",
+    "region": "Minsk Region",
+    "lat": 54.5,
+    "lon": 27.0833,
+    "population": 33569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sharkawshchynski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.4167,
+    "lon": 27.4167,
+    "population": 33520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bykhaw",
+    "region": "Mogilev Region",
+    "lat": 53.521,
+    "lon": 30.2454,
+    "population": 33412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lida",
+    "region": "Grodno Region",
+    "lat": 53.8833,
+    "lon": 25.2997,
+    "population": 33318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talachyn",
+    "region": "Vitebsk Region",
+    "lat": 54.4087,
+    "lon": 29.6955,
+    "population": 33198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asipovitski Rayon",
+    "region": "Mogilev Region",
+    "lat": 53.3333,
+    "lon": 28.75,
+    "population": 33195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lidski Rayon",
+    "region": "Grodno Region",
+    "lat": 53.6667,
+    "lon": 25.25,
+    "population": 32984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ross’",
+    "region": "Grodno Region",
+    "lat": 53.2845,
+    "lon": 24.4033,
+    "population": 32707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pukhavichy Raion",
+    "region": "Minsk Region",
+    "lat": 53.5,
+    "lon": 28,
+    "population": 32657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapyl’ski Rayon",
+    "region": "Minsk Region",
+    "lat": 53.1667,
+    "lon": 27.0833,
+    "population": 32399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokhanava",
+    "region": "Vitebsk Region",
+    "lat": 54.4611,
+    "lon": 30.0018,
+    "population": 32353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nasilava",
+    "region": "Minsk Region",
+    "lat": 54.3044,
+    "lon": 26.7821,
+    "population": 31980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barysawski Rayon",
+    "region": "Minsk Region",
+    "lat": 54.3333,
+    "lon": 28.5833,
+    "population": 31880,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasony",
+    "region": "Vitebsk Region",
+    "lat": 55.9058,
+    "lon": 28.8135,
+    "population": 31826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drahichyn",
+    "region": "Brest Region",
+    "lat": 52.1874,
+    "lon": 25.1597,
+    "population": 31753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivyanyets",
+    "region": "Minsk Region",
+    "lat": 53.8864,
+    "lon": 26.7432,
+    "population": 31422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chashnitski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 54.75,
+    "lon": 29.25,
+    "population": 31191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Homyel'",
+    "region": "Gomel Region",
+    "lat": 52.4345,
+    "lon": 30.9754,
+    "population": 30724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Turaw",
+    "region": "Gomel Region",
+    "lat": 52.0683,
+    "lon": 27.735,
+    "population": 30510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babruyski Rayon",
+    "region": "Mogilev Region",
+    "lat": 53.0833,
+    "lon": 29.1667,
+    "population": 30471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orsha",
+    "region": "Vitebsk Region",
+    "lat": 54.5081,
+    "lon": 30.4172,
+    "population": 30338,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pastawski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.0833,
+    "lon": 26.9167,
+    "population": 30327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dyatlovo",
+    "region": "Grodno Region",
+    "lat": 53.4631,
+    "lon": 25.4068,
+    "population": 30192,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hlusk",
+    "region": "Mogilev Region",
+    "lat": 52.903,
+    "lon": 28.6845,
+    "population": 30061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Znamenka",
+    "region": "Brest Region",
+    "lat": 51.8817,
+    "lon": 23.6554,
+    "population": 30051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novolukoml’",
+    "region": "Vitebsk Region",
+    "lat": 54.6619,
+    "lon": 29.1502,
+    "population": 29900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hlusha",
+    "region": "Mogilev Region",
+    "lat": 53.0868,
+    "lon": 28.8567,
+    "population": 29894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ashmyany",
+    "region": "Grodno Region",
+    "lat": 54.421,
+    "lon": 25.936,
+    "population": 29825,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peramoga",
+    "region": "Gomel Region",
+    "lat": 52.3973,
+    "lon": 31.071,
+    "population": 29528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyeninski Rayon",
+    "region": "Minsk",
+    "lat": 53.8594,
+    "lon": 27.5878,
+    "population": 29418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vyerkhnyadzvinski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.75,
+    "lon": 28.1667,
+    "population": 29276,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astrashytski Haradok",
+    "region": "Minsk Region",
+    "lat": 54.0651,
+    "lon": 27.695,
+    "population": 29263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veyno",
+    "region": "Mogilev Region",
+    "lat": 53.8333,
+    "lon": 30.3833,
+    "population": 29182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braslaw",
+    "region": "Vitebsk Region",
+    "lat": 55.6413,
+    "lon": 27.0418,
+    "population": 29104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dukora",
+    "region": "Minsk Region",
+    "lat": 53.6786,
+    "lon": 27.94,
+    "population": 28965,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astravyetski Rayon",
+    "region": "Grodno Region",
+    "lat": 54.6667,
+    "lon": 26,
+    "population": 28894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarachy",
+    "region": "Minsk Region",
+    "lat": 52.7867,
+    "lon": 28.0186,
+    "population": 28886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chacherski Rayon",
+    "region": "Gomel Region",
+    "lat": 52.9167,
+    "lon": 31.0833,
+    "population": 28579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyasny",
+    "region": "Minsk Region",
+    "lat": 54.0072,
+    "lon": 27.6963,
+    "population": 28558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haradok",
+    "region": "Vitebsk Region",
+    "lat": 55.4624,
+    "lon": 29.9845,
+    "population": 28312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Snow",
+    "region": "Minsk Region",
+    "lat": 53.2201,
+    "lon": 26.401,
+    "population": 28217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plyeshchanitsy",
+    "region": "Minsk Region",
+    "lat": 54.4235,
+    "lon": 27.8301,
+    "population": 28184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyeranyony",
+    "region": "Grodno Region",
+    "lat": 54.1159,
+    "lon": 25.5773,
+    "population": 27943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ushachy",
+    "region": "Vitebsk Region",
+    "lat": 55.179,
+    "lon": 28.6158,
+    "population": 27729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loshnitsa",
+    "region": "Minsk Region",
+    "lat": 54.2796,
+    "lon": 28.7649,
+    "population": 27643,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Astravyets",
+    "region": "Grodno Region",
+    "lat": 54.6138,
+    "lon": 25.9554,
+    "population": 27577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Prawdzinski",
+    "region": "Minsk Region",
+    "lat": 53.5248,
+    "lon": 27.8303,
+    "population": 27453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enyerhyetykaw",
+    "region": "Minsk Region",
+    "lat": 53.5871,
+    "lon": 27.0535,
+    "population": 27213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyepyel’ski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 54.8333,
+    "lon": 28.6667,
+    "population": 27207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horad Smalyavichy",
+    "region": "Minsk Region",
+    "lat": 54.0249,
+    "lon": 28.0894,
+    "population": 27170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rechytsa",
+    "region": "Gomel Region",
+    "lat": 52.3617,
+    "lon": 30.3916,
+    "population": 27056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chervyen’ski Rayon",
+    "region": "Minsk Region",
+    "lat": 53.75,
+    "lon": 28.5,
+    "population": 26847,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uzdzyenski Rayon",
+    "region": "Minsk Region",
+    "lat": 53.4167,
+    "lon": 27.3333,
+    "population": 26666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chashniki",
+    "region": "Vitebsk Region",
+    "lat": 54.8584,
+    "lon": 29.1608,
+    "population": 26630,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svislach",
+    "region": "Minsk Region",
+    "lat": 53.6404,
+    "lon": 27.9199,
+    "population": 26565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mir",
+    "region": "Grodno Region",
+    "lat": 53.4544,
+    "lon": 26.467,
+    "population": 26312,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shumilinski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.3333,
+    "lon": 29.5,
+    "population": 26255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Syennyenski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 54.8333,
+    "lon": 29.8333,
+    "population": 26069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khatsyezhyna",
+    "region": "Minsk Region",
+    "lat": 53.9094,
+    "lon": 27.3069,
+    "population": 25962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Indura",
+    "region": "Grodno Region",
+    "lat": 53.4605,
+    "lon": 23.8823,
+    "population": 25857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lahoysk",
+    "region": "Minsk Region",
+    "lat": 54.2064,
+    "lon": 27.8512,
+    "population": 25723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osveya",
+    "region": "Vitebsk Region",
+    "lat": 56.0147,
+    "lon": 28.1105,
+    "population": 25613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horad Brest",
+    "region": "Brest Region",
+    "lat": 52.1,
+    "lon": 23.7,
+    "population": 25460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zel’va",
+    "region": "Grodno Region",
+    "lat": 53.1504,
+    "lon": 24.8153,
+    "population": 25265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narach",
+    "region": "Minsk Region",
+    "lat": 54.9102,
+    "lon": 26.708,
+    "population": 25251,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyeskawka",
+    "region": "Minsk Region",
+    "lat": 54.0024,
+    "lon": 27.7108,
+    "population": 25219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svyetlahorsk",
+    "region": "Gomel Region",
+    "lat": 52.6329,
+    "lon": 29.7389,
+    "population": 25055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rasonski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.8333,
+    "lon": 28.9167,
+    "population": 25034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byerazino",
+    "region": "Minsk Region",
+    "lat": 53.8391,
+    "lon": 28.9879,
+    "population": 24978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kapyl’",
+    "region": "Minsk Region",
+    "lat": 53.1516,
+    "lon": 27.0913,
+    "population": 24843,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mar’’ina Horka",
+    "region": "Minsk Region",
+    "lat": 53.509,
+    "lon": 28.147,
+    "population": 24809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brest",
+    "region": "Brest Region",
+    "lat": 52.0975,
+    "lon": 23.6878,
+    "population": 24650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chyrvonaya Slabada",
+    "region": "Minsk Region",
+    "lat": 52.8522,
+    "lon": 27.1698,
+    "population": 24493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Druya",
+    "region": "Vitebsk Region",
+    "lat": 55.7906,
+    "lon": 27.4505,
+    "population": 24026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastrychnitski Rayon",
+    "region": "Minsk",
+    "lat": 53.8567,
+    "lon": 27.5414,
+    "population": 23976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kruhlaye",
+    "region": "Mogilev Region",
+    "lat": 54.2497,
+    "lon": 29.7968,
+    "population": 23888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buynichy",
+    "region": "Mogilev Region",
+    "lat": 53.8536,
+    "lon": 30.2671,
+    "population": 23646,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vyetkawski Rayon",
+    "region": "Gomel Region",
+    "lat": 52.6667,
+    "lon": 31.25,
+    "population": 23515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzisna",
+    "region": "Vitebsk Region",
+    "lat": 55.5676,
+    "lon": 28.2076,
+    "population": 23460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyozna",
+    "region": "Vitebsk Region",
+    "lat": 55.0247,
+    "lon": 30.797,
+    "population": 23026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maskowski Rayon",
+    "region": "Minsk",
+    "lat": 53.8742,
+    "lon": 27.5028,
+    "population": 22787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Homyel’ski Rayon",
+    "region": "Gomel Region",
+    "lat": 52.3333,
+    "lon": 31,
+    "population": 22577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horad Baranavichy",
+    "region": "Brest Region",
+    "lat": 53.1333,
+    "lon": 26.0333,
+    "population": 22522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Il’ya",
+    "region": "Minsk Region",
+    "lat": 54.4167,
+    "lon": 27.2958,
+    "population": 22489,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vyerkhnyadzvinsk",
+    "region": "Vitebsk Region",
+    "lat": 55.7777,
+    "lon": 27.9389,
+    "population": 22120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byalynichy",
+    "region": "Mogilev Region",
+    "lat": 53.9994,
+    "lon": 29.7141,
+    "population": 22081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khoyniki",
+    "region": "Gomel Region",
+    "lat": 51.8911,
+    "lon": 29.9552,
+    "population": 21373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hantsavichy",
+    "region": "Brest Region",
+    "lat": 52.758,
+    "lon": 26.43,
+    "population": 21254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byarozawski Rayon",
+    "region": "Brest Region",
+    "lat": 52.5,
+    "lon": 25,
+    "population": 21130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iwye",
+    "region": "Grodno Region",
+    "lat": 53.9299,
+    "lon": 25.7727,
+    "population": 20980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamyanyetski Rayon",
+    "region": "Brest Region",
+    "lat": 52.4167,
+    "lon": 23.6667,
+    "population": 20657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minsk",
+    "region": "Minsk",
+    "lat": 53.9,
+    "lon": 27.5667,
+    "population": 20620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drybin",
+    "region": "Mogilev Region",
+    "lat": 54.1192,
+    "lon": 31.0939,
+    "population": 20558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klyetsk",
+    "region": "Minsk Region",
+    "lat": 53.0635,
+    "lon": 26.6321,
+    "population": 20368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karelichy",
+    "region": "Grodno Region",
+    "lat": 53.5648,
+    "lon": 26.1406,
+    "population": 20244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krupki",
+    "region": "Minsk Region",
+    "lat": 54.3178,
+    "lon": 29.1374,
+    "population": 20093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cherykaw",
+    "region": "Mogilev Region",
+    "lat": 53.5689,
+    "lon": 31.3831,
+    "population": 20080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pukhavichy",
+    "region": "Minsk Region",
+    "lat": 53.5297,
+    "lon": 28.2467,
+    "population": 20072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsentral’ny Rayon",
+    "region": "Minsk",
+    "lat": 53.9178,
+    "lon": 27.5633,
+    "population": 19964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Konstantinovo",
+    "region": "Vitebsk Region",
+    "lat": 54.6593,
+    "lon": 29.2684,
+    "population": 19487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brahinski Rayon",
+    "region": "Gomel Region",
+    "lat": 51.6667,
+    "lon": 30.3333,
+    "population": 19437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parychy",
+    "region": "Gomel Region",
+    "lat": 52.8042,
+    "lon": 29.4176,
+    "population": 19382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chavuski Rayon",
+    "region": "Mogilev Region",
+    "lat": 53.8333,
+    "lon": 30.9167,
+    "population": 19365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myshkavichy",
+    "region": "Mogilev Region",
+    "lat": 53.2172,
+    "lon": 29.512,
+    "population": 19176,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horatski Rayon",
+    "region": "Mogilev Region",
+    "lat": 54.3333,
+    "lon": 31,
+    "population": 19049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyasvizh",
+    "region": "Minsk Region",
+    "lat": 53.2189,
+    "lon": 26.6779,
+    "population": 18787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhytkavichy",
+    "region": "Gomel Region",
+    "lat": 52.2168,
+    "lon": 27.8561,
+    "population": 18724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charnawchytsy",
+    "region": "Brest Region",
+    "lat": 52.2195,
+    "lon": 23.7404,
+    "population": 18502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polatski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.5833,
+    "lon": 29,
+    "population": 18212,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kamyennyya Lavy",
+    "region": "Mogilev Region",
+    "lat": 54.0898,
+    "lon": 30.2962,
+    "population": 18195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buda-Kashalyova",
+    "region": "Gomel Region",
+    "lat": 52.7179,
+    "lon": 30.5701,
+    "population": 18123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novy Svyerzhan’",
+    "region": "Minsk Region",
+    "lat": 53.4542,
+    "lon": 26.7301,
+    "population": 17740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dubrowna",
+    "region": "Vitebsk Region",
+    "lat": 54.5716,
+    "lon": 30.691,
+    "population": 17705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byeshankovitski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55,
+    "lon": 29.5,
+    "population": 17474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hlybotski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 55.1667,
+    "lon": 27.8333,
+    "population": 17414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smarhon’",
+    "region": "Grodno Region",
+    "lat": 54.4798,
+    "lon": 26.3957,
+    "population": 17245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bobr",
+    "region": "Minsk Region",
+    "lat": 54.342,
+    "lon": 29.2736,
+    "population": 17152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balbasava",
+    "region": "Vitebsk Region",
+    "lat": 54.4207,
+    "lon": 30.2909,
+    "population": 17061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atolina",
+    "region": "Minsk Region",
+    "lat": 53.7817,
+    "lon": 27.4346,
+    "population": 16802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Октябрьский",
+    "region": "Minsk Region",
+    "lat": 54.0406,
+    "lon": 28.1981,
+    "population": 16459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dokshytski Rayon",
+    "region": "Vitebsk Region",
+    "lat": 54.8333,
+    "lon": 27.9167,
+    "population": 16442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyasvizhski Rayon",
+    "region": "Minsk Region",
+    "lat": 53.25,
+    "lon": 26.6667,
+    "population": 16285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cherykawski Rayon",
+    "region": "Mogilev Region",
+    "lat": 53.6667,
+    "lon": 31.3333,
+    "population": 16278,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myadzyel",
+    "region": "Minsk Region",
+    "lat": 54.8789,
+    "lon": 26.9371,
+    "population": 15979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brestski Rayon",
+    "region": "Brest Region",
+    "lat": 52,
+    "lon": 23.75,
+    "population": 15746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byahoml’",
+    "region": "Vitebsk Region",
+    "lat": 54.7316,
+    "lon": 28.0577,
+    "population": 15738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skidel’",
+    "region": "Grodno Region",
+    "lat": 53.5904,
+    "lon": 24.2478,
+    "population": 15590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Starobin",
+    "region": "Minsk Region",
+    "lat": 52.7267,
+    "lon": 27.4606,
+    "population": 15513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hrodna",
+    "region": "Grodno Region",
+    "lat": 53.6884,
+    "lon": 23.8258,
+    "population": 15289,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vyetka",
+    "region": "Gomel Region",
+    "lat": 52.5591,
+    "lon": 31.1794,
+    "population": 15189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myory",
+    "region": "Vitebsk Region",
+    "lat": 55.6222,
+    "lon": 27.6281,
+    "population": 15185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vitebsk",
+    "region": "Vitebsk Region",
+    "lat": 55.1904,
+    "lon": 30.2049,
+    "population": 14954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salihorsk",
+    "region": "Minsk Region",
+    "lat": 52.7876,
+    "lon": 27.5415,
+    "population": 14930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kastsyukowka",
+    "region": "Gomel Region",
+    "lat": 52.5387,
+    "lon": 30.9173,
+    "population": 14875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karanyowka",
+    "region": "Gomel Region",
+    "lat": 52.3506,
+    "lon": 31.1121,
+    "population": 14836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malaryta",
+    "region": "Brest Region",
+    "lat": 51.7905,
+    "lon": 24.074,
+    "population": 14634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhabinka",
+    "region": "Brest Region",
+    "lat": 52.1984,
+    "lon": 24.0115,
+    "population": 14052,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mosar",
+    "region": "Vitebsk Region",
+    "lat": 55.2232,
+    "lon": 27.4609,
+    "population": 13808,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klichaw",
+    "region": "Mogilev Region",
+    "lat": 53.4923,
+    "lon": 29.3356,
+    "population": 13635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyel’chytsy",
+    "region": "Gomel Region",
+    "lat": 51.7862,
+    "lon": 28.3288,
+    "population": 13583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalodzishchy",
+    "region": "Minsk Region",
+    "lat": 53.944,
+    "lon": 27.7823,
+    "population": 13454,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zavodski Rayon",
+    "region": "Minsk",
+    "lat": 53.8619,
+    "lon": 27.6622,
+    "population": 13438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Syomkava",
+    "region": "Minsk Region",
+    "lat": 54.0101,
+    "lon": 27.441,
+    "population": 13385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shchuchynski Rayon",
+    "region": "Grodno Region",
+    "lat": 53.5833,
+    "lon": 24.6667,
+    "population": 13229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaslawye",
+    "region": "Minsk Region",
+    "lat": 54.0114,
+    "lon": 27.2695,
+    "population": 13177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valozhyn",
+    "region": "Minsk Region",
+    "lat": 54.0892,
+    "lon": 26.5266,
+    "population": 13044,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Narowlya",
+    "region": "Gomel Region",
+    "lat": 51.7961,
+    "lon": 29.5004,
+    "population": 12941,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rahachow",
+    "region": "Gomel Region",
+    "lat": 53.0934,
+    "lon": 30.0495,
+    "population": 12891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilyeyka",
+    "region": "Minsk Region",
+    "lat": 54.4914,
+    "lon": 26.9111,
+    "population": 12791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rahachowski Rayon",
+    "region": "Gomel Region",
+    "lat": 53.1667,
+    "lon": 30.1667,
+    "population": 12609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazyrski Rayon",
+    "region": "Gomel Region",
+    "lat": 52,
+    "lon": 29,
+    "population": 12530,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luninyets",
+    "region": "Brest Region",
+    "lat": 52.2472,
+    "lon": 26.8047,
+    "population": 12353,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svir",
+    "region": "Minsk Region",
+    "lat": 54.8517,
+    "lon": 26.395,
+    "population": 12316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyubcha",
+    "region": "Grodno Region",
+    "lat": 53.7522,
+    "lon": 26.0603,
+    "population": 12100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Babruysk",
+    "region": "Mogilev Region",
+    "lat": 53.1384,
+    "lon": 29.2214,
+    "population": 11803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hotsk",
+    "region": "Minsk Region",
+    "lat": 52.5215,
+    "lon": 27.1385,
+    "population": 11704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myadzyel’ski Rayon",
+    "region": "Minsk Region",
+    "lat": 54.8333,
+    "lon": 27,
+    "population": 11518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kadino",
+    "region": "Mogilev Region",
+    "lat": 53.8839,
+    "lon": 30.5203,
+    "population": 11205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asipovichy",
+    "region": "Mogilev Region",
+    "lat": 53.3011,
+    "lon": 28.6386,
+    "population": 11183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Khotsimsk",
+    "region": "Mogilev Region",
+    "lat": 53.4086,
+    "lon": 32.578,
+    "population": 11160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radashkovichy",
+    "region": "Minsk Region",
+    "lat": 54.1554,
+    "lon": 27.2412,
+    "population": 11143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asnyezhytsy",
+    "region": "Brest Region",
+    "lat": 52.1891,
+    "lon": 26.1299,
+    "population": 10993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalinkavichy",
+    "region": "Gomel Region",
+    "lat": 52.1323,
+    "lon": 29.3257,
+    "population": 10967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byarozawka",
+    "region": "Grodno Region",
+    "lat": 53.7241,
+    "lon": 25.4971,
+    "population": 10890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novogrudok",
+    "region": "Grodno Region",
+    "lat": 53.5942,
+    "lon": 25.8191,
+    "population": 10852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zyembin",
+    "region": "Minsk Region",
+    "lat": 54.3579,
+    "lon": 28.2207,
+    "population": 10815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pryvol’ny",
+    "region": "Minsk Region",
+    "lat": 53.7969,
+    "lon": 27.7967,
+    "population": 10573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grodnenskiy Rayon",
+    "region": "Grodno Region",
+    "lat": 53.6667,
+    "lon": 24,
+    "population": 10559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhirovichi",
+    "region": "Grodno Region",
+    "lat": 53.0131,
+    "lon": 25.3443,
+    "population": 10496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chachersk",
+    "region": "Gomel Region",
+    "lat": 52.9164,
+    "lon": 30.9179,
+    "population": 10352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zhdanovichy",
+    "region": "Minsk Region",
+    "lat": 53.9432,
+    "lon": 27.425,
+    "population": 10114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byelaazyorsk",
+    "region": "Brest Region",
+    "lat": 52.4731,
+    "lon": 25.1784,
+    "population": 10097,
+    "timezone": "UTC"
+  }
+]

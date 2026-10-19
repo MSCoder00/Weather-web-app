@@ -1,0 +1,6402 @@
+[
+  {
+    "name": "Tygelsjö",
+    "region": "Skåne County",
+    "lat": 55.5167,
+    "lon": 13,
+    "population": 49882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vi",
+    "region": "Västernorrland County",
+    "lat": 62.4333,
+    "lon": 17.4167,
+    "population": 49851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veddige",
+    "region": "Halland County",
+    "lat": 57.2659,
+    "lon": 12.3322,
+    "population": 49832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holmsund",
+    "region": "Västerbotten County",
+    "lat": 63.706,
+    "lon": 20.3641,
+    "population": 49823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vimmerby",
+    "region": "Kalmar County",
+    "lat": 57.6659,
+    "lon": 15.8552,
+    "population": 49785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvänum",
+    "region": "Västra Götaland County",
+    "lat": 58.3,
+    "lon": 13.1833,
+    "population": 49682,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Halmstad",
+    "region": "Halland County",
+    "lat": 56.6745,
+    "lon": 12.8568,
+    "population": 49602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boo",
+    "region": "Stockholm County",
+    "lat": 59.3333,
+    "lon": 18.2833,
+    "population": 49585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenkullen",
+    "region": "Västra Götaland County",
+    "lat": 57.7948,
+    "lon": 12.3169,
+    "population": 49561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Leksand",
+    "region": "Dalarna County",
+    "lat": 60.7303,
+    "lon": 14.9999,
+    "population": 49556,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ursviken",
+    "region": "Västerbotten County",
+    "lat": 64.7126,
+    "lon": 21.1658,
+    "population": 49546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mjölby",
+    "region": "Östergötland County",
+    "lat": 58.3259,
+    "lon": 15.1236,
+    "population": 49532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bredbyn",
+    "region": "Västernorrland County",
+    "lat": 63.4466,
+    "lon": 18.1102,
+    "population": 49497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hällbybrunn",
+    "region": "Södermanland County",
+    "lat": 59.3915,
+    "lon": 16.4223,
+    "population": 49497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munkfors",
+    "region": "Värmland County",
+    "lat": 59.8386,
+    "lon": 13.5436,
+    "population": 49272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billingsfors",
+    "region": "Västra Götaland County",
+    "lat": 58.9833,
+    "lon": 12.25,
+    "population": 49199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frövi",
+    "region": "Örebro County",
+    "lat": 59.4667,
+    "lon": 15.3667,
+    "population": 49163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kungsängen",
+    "region": "Stockholm County",
+    "lat": 59.4786,
+    "lon": 17.7483,
+    "population": 49125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åkarp",
+    "region": "Västra Götaland County",
+    "lat": 58.2333,
+    "lon": 13.65,
+    "population": 49125,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storuman",
+    "region": "Västerbotten County",
+    "lat": 65.0959,
+    "lon": 17.1173,
+    "population": 49077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marieberg",
+    "region": "Uppsala County",
+    "lat": 60.2333,
+    "lon": 18.5,
+    "population": 49028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomelilla",
+    "region": "Skåne County",
+    "lat": 55.5429,
+    "lon": 13.9546,
+    "population": 49006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skutskär",
+    "region": "Uppsala County",
+    "lat": 60.6251,
+    "lon": 17.4155,
+    "population": 48936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ankarsrum",
+    "region": "Kalmar County",
+    "lat": 57.699,
+    "lon": 16.3341,
+    "population": 48873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storfors",
+    "region": "Värmland County",
+    "lat": 59.5318,
+    "lon": 14.272,
+    "population": 48844,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marielund",
+    "region": "Norrbotten County",
+    "lat": 65.8531,
+    "lon": 24.1049,
+    "population": 48798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sösdala",
+    "region": "Skåne County",
+    "lat": 56.0399,
+    "lon": 13.6781,
+    "population": 48723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljungsbro",
+    "region": "Östergötland County",
+    "lat": 58.5167,
+    "lon": 15.5,
+    "population": 48704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blomstermåla",
+    "region": "Kalmar County",
+    "lat": 56.9833,
+    "lon": 16.3333,
+    "population": 48544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljungskile",
+    "region": "Västra Götaland County",
+    "lat": 58.2245,
+    "lon": 11.9201,
+    "population": 48531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Töcksfors",
+    "region": "Värmland County",
+    "lat": 59.5082,
+    "lon": 11.8443,
+    "population": 48527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jordbro",
+    "region": "Stockholm County",
+    "lat": 59.1497,
+    "lon": 18.1167,
+    "population": 48433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sundsbruk",
+    "region": "Västernorrland County",
+    "lat": 62.4581,
+    "lon": 17.3489,
+    "population": 48425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenhamra",
+    "region": "Stockholm County",
+    "lat": 59.3344,
+    "lon": 17.6884,
+    "population": 48395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morgongåva",
+    "region": "Uppsala County",
+    "lat": 59.934,
+    "lon": 16.9635,
+    "population": 48389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gammelstad",
+    "region": "Norrbotten County",
+    "lat": 65.6393,
+    "lon": 22.0114,
+    "population": 48327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storå",
+    "region": "Örebro County",
+    "lat": 59.7141,
+    "lon": 15.1317,
+    "population": 48306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallda",
+    "region": "Halland County",
+    "lat": 57.4775,
+    "lon": 12.0014,
+    "population": 48164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergsjö",
+    "region": "Gävleborg County",
+    "lat": 61.9825,
+    "lon": 17.0637,
+    "population": 48132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Göteborgs stad",
+    "region": "Västra Götaland County",
+    "lat": 57.7229,
+    "lon": 11.9458,
+    "population": 48019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilafors",
+    "region": "Gävleborg County",
+    "lat": 61.2333,
+    "lon": 16.5667,
+    "population": 47960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strövelstorp",
+    "region": "Skåne County",
+    "lat": 56.1698,
+    "lon": 12.8392,
+    "population": 47929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bromma",
+    "region": "Stockholm County",
+    "lat": 59.34,
+    "lon": 17.94,
+    "population": 47916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billdal",
+    "region": "Västra Götaland County",
+    "lat": 57.5667,
+    "lon": 11.9333,
+    "population": 47837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lödöse",
+    "region": "Västra Götaland County",
+    "lat": 58.0299,
+    "lon": 12.1593,
+    "population": 47776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veinge",
+    "region": "Halland County",
+    "lat": 56.55,
+    "lon": 13.0667,
+    "population": 47769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Länghem",
+    "region": "Västra Götaland County",
+    "lat": 57.6,
+    "lon": 13.2333,
+    "population": 47481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Särö",
+    "region": "Halland County",
+    "lat": 57.5058,
+    "lon": 11.9321,
+    "population": 47412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sävast",
+    "region": "Norrbotten County",
+    "lat": 65.77,
+    "lon": 21.7311,
+    "population": 47384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sturefors",
+    "region": "Östergötland County",
+    "lat": 58.3333,
+    "lon": 15.7333,
+    "population": 47349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljunghusen",
+    "region": "Skåne County",
+    "lat": 55.3979,
+    "lon": 12.9249,
+    "population": 47347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surte",
+    "region": "Västra Götaland County",
+    "lat": 57.8253,
+    "lon": 12.016,
+    "population": 47326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skillingaryd",
+    "region": "Jönköping County",
+    "lat": 57.4304,
+    "lon": 14.0938,
+    "population": 47291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibbhult",
+    "region": "Skåne County",
+    "lat": 56.2667,
+    "lon": 14.2,
+    "population": 47285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Johannedal",
+    "region": "Västernorrland County",
+    "lat": 62.4342,
+    "lon": 17.3727,
+    "population": 47186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ärla",
+    "region": "Södermanland County",
+    "lat": 59.2798,
+    "lon": 16.679,
+    "population": 47078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariefred",
+    "region": "Södermanland County",
+    "lat": 59.2596,
+    "lon": 17.223,
+    "population": 47068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mörrum",
+    "region": "Blekinge",
+    "lat": 56.1928,
+    "lon": 14.7474,
+    "population": 47041,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalby",
+    "region": "Skåne County",
+    "lat": 55.6666,
+    "lon": 13.3498,
+    "population": 46938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nynäshamn",
+    "region": "Stockholm County",
+    "lat": 58.9034,
+    "lon": 17.9479,
+    "population": 46737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlstad",
+    "region": "Värmland County",
+    "lat": 59.3793,
+    "lon": 13.5036,
+    "population": 46720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stöpen",
+    "region": "Västra Götaland County",
+    "lat": 58.478,
+    "lon": 13.8661,
+    "population": 46477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stehag",
+    "region": "Skåne County",
+    "lat": 55.9019,
+    "lon": 13.3958,
+    "population": 46420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljusne",
+    "region": "Gävleborg County",
+    "lat": 61.2117,
+    "lon": 17.1279,
+    "population": 46419,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ornäs",
+    "region": "Dalarna County",
+    "lat": 60.5094,
+    "lon": 15.5413,
+    "population": 46404,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Öckerö",
+    "region": "Västra Götaland County",
+    "lat": 57.7081,
+    "lon": 11.6558,
+    "population": 46393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bromölla",
+    "region": "Skåne County",
+    "lat": 56.0755,
+    "lon": 14.4696,
+    "population": 46392,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sjöbo",
+    "region": "Skåne County",
+    "lat": 55.6313,
+    "lon": 13.7062,
+    "population": 46297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hunnebostrand",
+    "region": "Västra Götaland County",
+    "lat": 58.4413,
+    "lon": 11.3032,
+    "population": 46218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Björneborg",
+    "region": "Värmland County",
+    "lat": 59.2412,
+    "lon": 14.2494,
+    "population": 46211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saltsjöbaden",
+    "region": "Stockholm County",
+    "lat": 59.2833,
+    "lon": 18.3,
+    "population": 46184,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bodafors",
+    "region": "Jönköping County",
+    "lat": 57.5,
+    "lon": 14.7,
+    "population": 46180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grebo",
+    "region": "Östergötland County",
+    "lat": 58.3015,
+    "lon": 15.8709,
+    "population": 46053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tvååker",
+    "region": "Halland County",
+    "lat": 57.0415,
+    "lon": 12.3995,
+    "population": 46027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grästorp",
+    "region": "Västra Götaland County",
+    "lat": 58.3322,
+    "lon": 12.6812,
+    "population": 45903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Handen",
+    "region": "Stockholm County",
+    "lat": 59.1681,
+    "lon": 18.138,
+    "population": 45903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arvika",
+    "region": "Värmland County",
+    "lat": 59.6553,
+    "lon": 12.5852,
+    "population": 45890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hallstavik",
+    "region": "Stockholm County",
+    "lat": 60.05,
+    "lon": 18.6,
+    "population": 45879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rimforsa",
+    "region": "Östergötland County",
+    "lat": 58.1362,
+    "lon": 15.6865,
+    "population": 45879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djursholm",
+    "region": "Stockholm County",
+    "lat": 59.3993,
+    "lon": 18.0562,
+    "population": 45846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Östhammar",
+    "region": "Uppsala County",
+    "lat": 60.2591,
+    "lon": 18.3741,
+    "population": 45805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hallsberg",
+    "region": "Örebro County",
+    "lat": 59.0646,
+    "lon": 15.1099,
+    "population": 45792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Charlottenberg",
+    "region": "Värmland County",
+    "lat": 59.8842,
+    "lon": 12.304,
+    "population": 45696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skänninge",
+    "region": "Stockholm County",
+    "lat": 59.9333,
+    "lon": 18.4833,
+    "population": 45623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landsbro",
+    "region": "Jönköping County",
+    "lat": 57.3667,
+    "lon": 14.9,
+    "population": 45618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergsviken",
+    "region": "Norrbotten County",
+    "lat": 65.3,
+    "lon": 21.3833,
+    "population": 45501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bredaryd",
+    "region": "Jönköping County",
+    "lat": 57.1734,
+    "lon": 13.7379,
+    "population": 45323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landskrona",
+    "region": "Skåne County",
+    "lat": 55.8862,
+    "lon": 12.8588,
+    "population": 45322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skänninge",
+    "region": "Östergötland County",
+    "lat": 58.3943,
+    "lon": 15.0866,
+    "population": 45270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nolvik",
+    "region": "Västra Götaland County",
+    "lat": 57.775,
+    "lon": 11.8333,
+    "population": 45263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kramfors",
+    "region": "Västernorrland County",
+    "lat": 62.9316,
+    "lon": 17.7765,
+    "population": 45259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veberöd",
+    "region": "Skåne County",
+    "lat": 55.6333,
+    "lon": 13.4833,
+    "population": 45228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åsele",
+    "region": "Västerbotten County",
+    "lat": 64.1603,
+    "lon": 17.3476,
+    "population": 45182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kungälv",
+    "region": "Västra Götaland County",
+    "lat": 57.871,
+    "lon": 11.9805,
+    "population": 45156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyltebruk",
+    "region": "Halland County",
+    "lat": 56.9989,
+    "lon": 13.2396,
+    "population": 45150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sävja",
+    "region": "Uppsala County",
+    "lat": 59.8187,
+    "lon": 17.6996,
+    "population": 45121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tollarp",
+    "region": "Skåne County",
+    "lat": 55.9333,
+    "lon": 13.9833,
+    "population": 45089,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gärsnäs",
+    "region": "Skåne County",
+    "lat": 55.5495,
+    "lon": 14.1792,
+    "population": 45072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åkers Styckebruk",
+    "region": "Södermanland County",
+    "lat": 59.25,
+    "lon": 17.0833,
+    "population": 45017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smedjebacken",
+    "region": "Dalarna County",
+    "lat": 60.1418,
+    "lon": 15.4142,
+    "population": 44989,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hällevik",
+    "region": "Blekinge",
+    "lat": 56.0167,
+    "lon": 14.7,
+    "population": 44972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Motala",
+    "region": "Östergötland County",
+    "lat": 58.5371,
+    "lon": 15.0365,
+    "population": 44957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anderslöv",
+    "region": "Skåne County",
+    "lat": 55.4384,
+    "lon": 13.3197,
+    "population": 44925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svenljunga",
+    "region": "Västra Götaland County",
+    "lat": 57.4955,
+    "lon": 13.1108,
+    "population": 44918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Umeå",
+    "region": "Västerbotten County",
+    "lat": 63.8284,
+    "lon": 20.2597,
+    "population": 44879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vrigstad",
+    "region": "Jönköping County",
+    "lat": 57.35,
+    "lon": 14.4667,
+    "population": 44785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vibble",
+    "region": "Gotland County",
+    "lat": 57.6045,
+    "lon": 18.256,
+    "population": 44757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arjeplog",
+    "region": "Norrbotten County",
+    "lat": 66.0517,
+    "lon": 17.8861,
+    "population": 44678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norrtälje",
+    "region": "Stockholm County",
+    "lat": 59.758,
+    "lon": 18.705,
+    "population": 44623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boden",
+    "region": "Norrbotten County",
+    "lat": 65.8252,
+    "lon": 21.6886,
+    "population": 44569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svalsta",
+    "region": "Södermanland County",
+    "lat": 58.7427,
+    "lon": 16.8698,
+    "population": 44569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hortlax",
+    "region": "Norrbotten County",
+    "lat": 65.2819,
+    "lon": 21.4054,
+    "population": 44382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brevik",
+    "region": "Stockholm County",
+    "lat": 59.35,
+    "lon": 18.2,
+    "population": 44368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Påarp",
+    "region": "Skåne County",
+    "lat": 56.0333,
+    "lon": 12.8167,
+    "population": 44258,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Högsby",
+    "region": "Kalmar County",
+    "lat": 57.166,
+    "lon": 16.0256,
+    "population": 44218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kungsholmen",
+    "region": "Stockholm County",
+    "lat": 59.3318,
+    "lon": 18.0412,
+    "population": 44197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fjärås kyrkby",
+    "region": "Halland County",
+    "lat": 57.4591,
+    "lon": 12.1751,
+    "population": 44101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjärred",
+    "region": "Skåne County",
+    "lat": 55.7167,
+    "lon": 13.0167,
+    "population": 44084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åled",
+    "region": "Halland County",
+    "lat": 56.75,
+    "lon": 12.9333,
+    "population": 44071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bureå",
+    "region": "Västerbotten County",
+    "lat": 64.6167,
+    "lon": 21.2,
+    "population": 44070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malung",
+    "region": "Dalarna County",
+    "lat": 60.6833,
+    "lon": 13.7154,
+    "population": 43907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gustavsberg",
+    "region": "Stockholm County",
+    "lat": 59.3268,
+    "lon": 18.3897,
+    "population": 43905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knislinge",
+    "region": "Skåne County",
+    "lat": 56.1833,
+    "lon": 14.0833,
+    "population": 43842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lövstalöt",
+    "region": "Uppsala County",
+    "lat": 59.9574,
+    "lon": 17.5783,
+    "population": 43765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Järna",
+    "region": "Stockholm County",
+    "lat": 59.0917,
+    "lon": 17.5662,
+    "population": 43721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Målilla",
+    "region": "Kalmar County",
+    "lat": 57.3877,
+    "lon": 15.8067,
+    "population": 43502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rottne",
+    "region": "Kronoberg County",
+    "lat": 57.0167,
+    "lon": 14.9,
+    "population": 43496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sjuntorp",
+    "region": "Västra Götaland County",
+    "lat": 58.2,
+    "lon": 12.2167,
+    "population": 43308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lidingö",
+    "region": "Stockholm County",
+    "lat": 59.363,
+    "lon": 18.151,
+    "population": 43286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pålsboda",
+    "region": "Örebro County",
+    "lat": 59.0656,
+    "lon": 15.3375,
+    "population": 43175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Floby",
+    "region": "Västra Götaland County",
+    "lat": 58.1333,
+    "lon": 13.3333,
+    "population": 43090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindholmen",
+    "region": "Stockholm County",
+    "lat": 59.5833,
+    "lon": 18.1,
+    "population": 43033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byske",
+    "region": "Västerbotten County",
+    "lat": 64.9526,
+    "lon": 21.2058,
+    "population": 42958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åmål",
+    "region": "Västra Götaland County",
+    "lat": 59.051,
+    "lon": 12.7049,
+    "population": 42929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lycksele",
+    "region": "Västerbotten County",
+    "lat": 64.5954,
+    "lon": 18.6735,
+    "population": 42912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horndal",
+    "region": "Dalarna County",
+    "lat": 60.3,
+    "lon": 16.4167,
+    "population": 42900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gunnebo",
+    "region": "Kalmar County",
+    "lat": 57.7167,
+    "lon": 16.5333,
+    "population": 42898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bräkne-Hoby",
+    "region": "Blekinge",
+    "lat": 56.2333,
+    "lon": 15.1167,
+    "population": 42878,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tärnsjö",
+    "region": "Uppsala County",
+    "lat": 60.15,
+    "lon": 16.9333,
+    "population": 42859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skärblacka",
+    "region": "Östergötland County",
+    "lat": 58.5667,
+    "lon": 15.9,
+    "population": 42753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skanör med Falsterbo",
+    "region": "Skåne County",
+    "lat": 55.4,
+    "lon": 12.85,
+    "population": 42737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Överum",
+    "region": "Kalmar County",
+    "lat": 57.9886,
+    "lon": 16.3139,
+    "population": 42731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bankeryd",
+    "region": "Jönköping County",
+    "lat": 57.8602,
+    "lon": 14.124,
+    "population": 42634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kista",
+    "region": "Stockholm County",
+    "lat": 59.4032,
+    "lon": 17.9448,
+    "population": 42634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pershagen",
+    "region": "Stockholm County",
+    "lat": 59.1549,
+    "lon": 17.6534,
+    "population": 42589,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Västervik",
+    "region": "Kalmar County",
+    "lat": 57.7584,
+    "lon": 16.6373,
+    "population": 42567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rävlanda",
+    "region": "Västra Götaland County",
+    "lat": 57.6534,
+    "lon": 12.4979,
+    "population": 42546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kummelnäs",
+    "region": "Stockholm County",
+    "lat": 59.35,
+    "lon": 18.2833,
+    "population": 42431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rönninge",
+    "region": "Stockholm County",
+    "lat": 59.2,
+    "lon": 17.7333,
+    "population": 42431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hemse",
+    "region": "Gotland County",
+    "lat": 57.2379,
+    "lon": 18.3744,
+    "population": 42424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Råtorp",
+    "region": "Värmland County",
+    "lat": 59.402,
+    "lon": 13.4914,
+    "population": 42413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torshälla",
+    "region": "Södermanland County",
+    "lat": 59.4167,
+    "lon": 16.4667,
+    "population": 42351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anderstorp",
+    "region": "Jönköping County",
+    "lat": 57.2833,
+    "lon": 13.6333,
+    "population": 42337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Östra Ljungby",
+    "region": "Skåne County",
+    "lat": 56.196,
+    "lon": 13.092,
+    "population": 42260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ersmark",
+    "region": "Västerbotten County",
+    "lat": 63.8833,
+    "lon": 20.3167,
+    "population": 42231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orust",
+    "region": "Västra Götaland County",
+    "lat": 58.1803,
+    "lon": 11.6342,
+    "population": 41962,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekerö",
+    "region": "Stockholm County",
+    "lat": 59.291,
+    "lon": 17.8121,
+    "population": 41931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Solna",
+    "region": "Stockholm County",
+    "lat": 59.36,
+    "lon": 18.0009,
+    "population": 41865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Askersund",
+    "region": "Örebro County",
+    "lat": 58.8799,
+    "lon": 14.9023,
+    "population": 41836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sorsele",
+    "region": "Västerbotten County",
+    "lat": 65.5348,
+    "lon": 17.537,
+    "population": 41787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timrå",
+    "region": "Västernorrland County",
+    "lat": 62.4865,
+    "lon": 17.3261,
+    "population": 41778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åseda",
+    "region": "Kronoberg County",
+    "lat": 57.1701,
+    "lon": 15.3443,
+    "population": 41711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vårgårda",
+    "region": "Västra Götaland County",
+    "lat": 58.0371,
+    "lon": 12.8091,
+    "population": 41611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alsike",
+    "region": "Uppsala County",
+    "lat": 59.7532,
+    "lon": 17.7733,
+    "population": 41592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timmernabben",
+    "region": "Kalmar County",
+    "lat": 56.9667,
+    "lon": 16.4333,
+    "population": 41548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krokek",
+    "region": "Östergötland County",
+    "lat": 58.6723,
+    "lon": 16.3674,
+    "population": 41542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skövde",
+    "region": "Västra Götaland County",
+    "lat": 58.3912,
+    "lon": 13.8451,
+    "population": 41491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammar",
+    "region": "Skåne County",
+    "lat": 56.0167,
+    "lon": 14.2167,
+    "population": 41446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Långsele",
+    "region": "Västernorrland County",
+    "lat": 63.1833,
+    "lon": 17.0667,
+    "population": 41294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moheda",
+    "region": "Kronoberg County",
+    "lat": 57,
+    "lon": 14.5667,
+    "population": 41273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smedby",
+    "region": "Dalarna County",
+    "lat": 60.7,
+    "lon": 15.05,
+    "population": 41202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rimbo",
+    "region": "Stockholm County",
+    "lat": 59.75,
+    "lon": 18.3667,
+    "population": 41151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hanaskog",
+    "region": "Skåne County",
+    "lat": 56.1606,
+    "lon": 14.0931,
+    "population": 41124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olofstorp",
+    "region": "Västra Götaland County",
+    "lat": 57.8044,
+    "lon": 12.1713,
+    "population": 41096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Katrineholm",
+    "region": "Södermanland County",
+    "lat": 58.9959,
+    "lon": 16.2072,
+    "population": 41006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Robertsfors",
+    "region": "Västerbotten County",
+    "lat": 64.1932,
+    "lon": 20.8481,
+    "population": 40856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariannelund",
+    "region": "Jönköping County",
+    "lat": 57.6167,
+    "lon": 15.5667,
+    "population": 40840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skegrie",
+    "region": "Skåne County",
+    "lat": 55.4063,
+    "lon": 13.0769,
+    "population": 40778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Långvik",
+    "region": "Stockholm County",
+    "lat": 59.2458,
+    "lon": 18.5167,
+    "population": 40688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grebbestad",
+    "region": "Västra Götaland County",
+    "lat": 58.7025,
+    "lon": 11.2574,
+    "population": 40679,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindö",
+    "region": "Östergötland County",
+    "lat": 58.6167,
+    "lon": 16.25,
+    "population": 40631,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fristad",
+    "region": "Västra Götaland County",
+    "lat": 57.8248,
+    "lon": 13.0106,
+    "population": 40585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bro",
+    "region": "Stockholm County",
+    "lat": 59.5167,
+    "lon": 17.6333,
+    "population": 40581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marieholm",
+    "region": "Skåne County",
+    "lat": 55.8667,
+    "lon": 13.15,
+    "population": 40565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hindås",
+    "region": "Västra Götaland County",
+    "lat": 57.7034,
+    "lon": 12.4466,
+    "population": 40520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlsborg",
+    "region": "Västra Götaland County",
+    "lat": 58.5372,
+    "lon": 14.5047,
+    "population": 40504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gullbrandstorp",
+    "region": "Halland County",
+    "lat": 56.7,
+    "lon": 12.7333,
+    "population": 40500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nykvarn",
+    "region": "Stockholm County",
+    "lat": 59.8,
+    "lon": 18.3,
+    "population": 40439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Deje",
+    "region": "Värmland County",
+    "lat": 59.603,
+    "lon": 13.472,
+    "population": 40425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Östervåla",
+    "region": "Uppsala County",
+    "lat": 60.1833,
+    "lon": 17.1833,
+    "population": 40393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Genarp",
+    "region": "Skåne County",
+    "lat": 55.5991,
+    "lon": 13.3982,
+    "population": 40297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mörarp",
+    "region": "Skåne County",
+    "lat": 56.0575,
+    "lon": 12.8802,
+    "population": 40187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valdemarsvik",
+    "region": "Östergötland County",
+    "lat": 58.2031,
+    "lon": 16.6023,
+    "population": 40183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lövgärdet",
+    "region": "Västra Götaland County",
+    "lat": 57.8156,
+    "lon": 12.0386,
+    "population": 40139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sätofta",
+    "region": "Skåne County",
+    "lat": 55.9167,
+    "lon": 13.55,
+    "population": 40115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viken",
+    "region": "Västerbotten County",
+    "lat": 64.7259,
+    "lon": 20.9155,
+    "population": 40064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hästveda",
+    "region": "Skåne County",
+    "lat": 56.2847,
+    "lon": 13.9355,
+    "population": 40025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marieholm",
+    "region": "Jönköping County",
+    "lat": 57.3833,
+    "lon": 13.85,
+    "population": 39938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindome",
+    "region": "Västra Götaland County",
+    "lat": 57.5667,
+    "lon": 12.0833,
+    "population": 39916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Köpmanholmen",
+    "region": "Västernorrland County",
+    "lat": 63.1667,
+    "lon": 18.5667,
+    "population": 39908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gimo",
+    "region": "Uppsala County",
+    "lat": 60.173,
+    "lon": 18.1851,
+    "population": 39792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Onsala",
+    "region": "Halland County",
+    "lat": 57.4253,
+    "lon": 12.029,
+    "population": 39792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalmar",
+    "region": "Kalmar County",
+    "lat": 56.6616,
+    "lon": 16.3616,
+    "population": 39785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bålsta",
+    "region": "Uppsala County",
+    "lat": 59.5671,
+    "lon": 17.5278,
+    "population": 39769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alvesta",
+    "region": "Kronoberg County",
+    "lat": 56.8993,
+    "lon": 14.5556,
+    "population": 39744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malå",
+    "region": "Västerbotten County",
+    "lat": 65.185,
+    "lon": 18.7424,
+    "population": 39660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tibro",
+    "region": "Västra Götaland County",
+    "lat": 58.4245,
+    "lon": 14.1616,
+    "population": 39621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergeforsen",
+    "region": "Västernorrland County",
+    "lat": 62.5307,
+    "lon": 17.3812,
+    "population": 39617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Övertorneå",
+    "region": "Norrbotten County",
+    "lat": 66.3878,
+    "lon": 23.6543,
+    "population": 39609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Säffle",
+    "region": "Värmland County",
+    "lat": 59.1323,
+    "lon": 12.9289,
+    "population": 39495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gagnef",
+    "region": "Dalarna County",
+    "lat": 60.5986,
+    "lon": 15.0775,
+    "population": 39465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hillerstorp",
+    "region": "Jönköping County",
+    "lat": 57.3129,
+    "lon": 13.8844,
+    "population": 39316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matfors",
+    "region": "Västernorrland County",
+    "lat": 62.3486,
+    "lon": 17.0317,
+    "population": 39223,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjurholm",
+    "region": "Västerbotten County",
+    "lat": 63.9303,
+    "lon": 19.2137,
+    "population": 39206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rönnäng",
+    "region": "Västra Götaland County",
+    "lat": 57.9333,
+    "lon": 11.5833,
+    "population": 39191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandviken",
+    "region": "Gävleborg County",
+    "lat": 60.6167,
+    "lon": 16.7667,
+    "population": 39191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enbacka",
+    "region": "Dalarna County",
+    "lat": 60.4099,
+    "lon": 15.5958,
+    "population": 39114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olstorp",
+    "region": "Södermanland County",
+    "lat": 58.8167,
+    "lon": 16.6333,
+    "population": 39091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stockvik",
+    "region": "Västernorrland County",
+    "lat": 62.3367,
+    "lon": 17.3658,
+    "population": 39011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bor",
+    "region": "Jönköping County",
+    "lat": 57.1167,
+    "lon": 14.1667,
+    "population": 38986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Söderköping",
+    "region": "Östergötland County",
+    "lat": 58.4806,
+    "lon": 16.3222,
+    "population": 38940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nacka",
+    "region": "Stockholm County",
+    "lat": 59.3105,
+    "lon": 18.1637,
+    "population": 38934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uddevalla",
+    "region": "Västra Götaland County",
+    "lat": 58.3478,
+    "lon": 11.9424,
+    "population": 38897,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bunkeflostrand",
+    "region": "Skåne County",
+    "lat": 55.5448,
+    "lon": 12.9238,
+    "population": 38858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jokkmokk",
+    "region": "Norrbotten County",
+    "lat": 66.6067,
+    "lon": 19.8232,
+    "population": 38827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Filipstad",
+    "region": "Värmland County",
+    "lat": 59.7124,
+    "lon": 14.1683,
+    "population": 38660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vännäs",
+    "region": "Västerbotten County",
+    "lat": 63.9068,
+    "lon": 19.7571,
+    "population": 38626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekshärad",
+    "region": "Värmland County",
+    "lat": 60.1728,
+    "lon": 13.4965,
+    "population": 38614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tillberga",
+    "region": "Västmanland County",
+    "lat": 59.6833,
+    "lon": 16.6167,
+    "population": 38543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lessebo",
+    "region": "Kronoberg County",
+    "lat": 56.7518,
+    "lon": 15.2697,
+    "population": 38537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vålberg",
+    "region": "Värmland County",
+    "lat": 59.3914,
+    "lon": 13.1863,
+    "population": 38440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Södra Sandby",
+    "region": "Kalmar County",
+    "lat": 56.5667,
+    "lon": 16.6167,
+    "population": 38410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Töre",
+    "region": "Norrbotten County",
+    "lat": 65.9124,
+    "lon": 22.6513,
+    "population": 38336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjärup",
+    "region": "Skåne County",
+    "lat": 55.6688,
+    "lon": 13.1393,
+    "population": 38270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Broby",
+    "region": "Skåne County",
+    "lat": 56.2552,
+    "lon": 14.078,
+    "population": 38246,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lomma",
+    "region": "Skåne County",
+    "lat": 55.6724,
+    "lon": 13.0685,
+    "population": 38098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forsbacka",
+    "region": "Gävleborg County",
+    "lat": 60.6167,
+    "lon": 16.8833,
+    "population": 38088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ramnäs",
+    "region": "Västmanland County",
+    "lat": 59.7667,
+    "lon": 16.2,
+    "population": 38082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Öjersjö",
+    "region": "Västra Götaland County",
+    "lat": 57.6988,
+    "lon": 12.1345,
+    "population": 38063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Järbo",
+    "region": "Gävleborg County",
+    "lat": 60.7167,
+    "lon": 16.6,
+    "population": 37957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smygehamn",
+    "region": "Skåne County",
+    "lat": 55.3434,
+    "lon": 13.3699,
+    "population": 37837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vara",
+    "region": "Västra Götaland County",
+    "lat": 58.2623,
+    "lon": 12.9541,
+    "population": 37772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hönö",
+    "region": "Västra Götaland County",
+    "lat": 57.6897,
+    "lon": 11.6497,
+    "population": 37578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Älta",
+    "region": "Stockholm County",
+    "lat": 59.2667,
+    "lon": 18.1833,
+    "population": 37561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mellbystrand",
+    "region": "Halland County",
+    "lat": 56.4856,
+    "lon": 12.9396,
+    "population": 37481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hököpinge",
+    "region": "Skåne County",
+    "lat": 55.4941,
+    "lon": 13.0078,
+    "population": 37411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Österbymo",
+    "region": "Östergötland County",
+    "lat": 57.8246,
+    "lon": 15.2736,
+    "population": 37296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Degerfors",
+    "region": "Örebro County",
+    "lat": 59.238,
+    "lon": 14.4308,
+    "population": 37291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skogstorp",
+    "region": "Södermanland County",
+    "lat": 59.3247,
+    "lon": 16.4828,
+    "population": 37285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borgholm",
+    "region": "Kalmar County",
+    "lat": 56.8793,
+    "lon": 16.6563,
+    "population": 37057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borensberg",
+    "region": "Östergötland County",
+    "lat": 58.5667,
+    "lon": 15.2833,
+    "population": 36998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anderstorp",
+    "region": "Västra Götaland County",
+    "lat": 58.8833,
+    "lon": 14.2833,
+    "population": 36984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linghem",
+    "region": "Östergötland County",
+    "lat": 58.4333,
+    "lon": 15.7833,
+    "population": 36852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odensjö",
+    "region": "Jönköping County",
+    "lat": 57.7167,
+    "lon": 14.1667,
+    "population": 36846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frösakull",
+    "region": "Halland County",
+    "lat": 56.6833,
+    "lon": 12.7333,
+    "population": 36838,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mörbylånga",
+    "region": "Kalmar County",
+    "lat": 56.5248,
+    "lon": 16.3788,
+    "population": 36799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Getinge",
+    "region": "Halland County",
+    "lat": 56.8167,
+    "lon": 12.7333,
+    "population": 36794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kungshamn",
+    "region": "Västra Götaland County",
+    "lat": 58.3631,
+    "lon": 11.2594,
+    "population": 36754,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ånge",
+    "region": "Västernorrland County",
+    "lat": 62.5249,
+    "lon": 15.659,
+    "population": 36727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tidaholm",
+    "region": "Västra Götaland County",
+    "lat": 58.1803,
+    "lon": 13.9582,
+    "population": 36693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stora Höga",
+    "region": "Västra Götaland County",
+    "lat": 58.0167,
+    "lon": 11.8333,
+    "population": 36633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mullsjö",
+    "region": "Jönköping County",
+    "lat": 57.9171,
+    "lon": 13.8783,
+    "population": 36626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tranemo",
+    "region": "Västra Götaland County",
+    "lat": 57.4833,
+    "lon": 13.35,
+    "population": 36625,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eskilstuna",
+    "region": "Södermanland County",
+    "lat": 59.3666,
+    "lon": 16.5077,
+    "population": 36537,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hörby",
+    "region": "Skåne County",
+    "lat": 55.8524,
+    "lon": 13.6609,
+    "population": 36508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ryd",
+    "region": "Östergötland County",
+    "lat": 58.6667,
+    "lon": 15.0833,
+    "population": 36368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glumslöv",
+    "region": "Skåne County",
+    "lat": 55.9409,
+    "lon": 12.8093,
+    "population": 36322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Röbäck",
+    "region": "Västerbotten County",
+    "lat": 63.8088,
+    "lon": 20.189,
+    "population": 36245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eriksberg",
+    "region": "Stockholm County",
+    "lat": 59.2424,
+    "lon": 17.8163,
+    "population": 36224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Västra Hagen",
+    "region": "Halland County",
+    "lat": 57.4244,
+    "lon": 11.9358,
+    "population": 36183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ås",
+    "region": "Västernorrland County",
+    "lat": 63.3667,
+    "lon": 16.5833,
+    "population": 36148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rinkabyholm",
+    "region": "Kalmar County",
+    "lat": 56.6497,
+    "lon": 16.2667,
+    "population": 36069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mellerud",
+    "region": "Västra Götaland County",
+    "lat": 58.6998,
+    "lon": 12.4531,
+    "population": 36054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sörforsa",
+    "region": "Gävleborg County",
+    "lat": 61.7333,
+    "lon": 16.9833,
+    "population": 36051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kisa",
+    "region": "Östergötland County",
+    "lat": 57.9878,
+    "lon": 15.633,
+    "population": 36023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hudiksvall",
+    "region": "Gävleborg County",
+    "lat": 61.7274,
+    "lon": 17.1056,
+    "population": 35933,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Överkalix",
+    "region": "Norrbotten County",
+    "lat": 66.3275,
+    "lon": 22.8441,
+    "population": 35700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viken",
+    "region": "Skåne County",
+    "lat": 56.1506,
+    "lon": 12.5743,
+    "population": 35662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oskarström",
+    "region": "Halland County",
+    "lat": 56.8,
+    "lon": 12.9667,
+    "population": 35445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borlänge",
+    "region": "Dalarna County",
+    "lat": 60.4858,
+    "lon": 15.4371,
+    "population": 35420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiruna",
+    "region": "Norrbotten County",
+    "lat": 67.8557,
+    "lon": 20.2251,
+    "population": 35410,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skelleftehamn",
+    "region": "Västerbotten County",
+    "lat": 64.6833,
+    "lon": 21.2333,
+    "population": 35347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjästa",
+    "region": "Västernorrland County",
+    "lat": 63.2,
+    "lon": 18.5,
+    "population": 35325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Södertälje",
+    "region": "Stockholm County",
+    "lat": 59.1955,
+    "lon": 17.6253,
+    "population": 35300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gotland",
+    "region": "Gotland County",
+    "lat": 57.5,
+    "lon": 18.5,
+    "population": 35248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perstorp",
+    "region": "Skåne County",
+    "lat": 56.1383,
+    "lon": 13.3948,
+    "population": 35187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norrfjärden",
+    "region": "Norrbotten County",
+    "lat": 65.418,
+    "lon": 21.5015,
+    "population": 35152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinninga",
+    "region": "Västra Götaland County",
+    "lat": 58.45,
+    "lon": 13.2667,
+    "population": 35144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andalen",
+    "region": "Västra Götaland County",
+    "lat": 57.7004,
+    "lon": 11.7614,
+    "population": 35101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malmköping",
+    "region": "Södermanland County",
+    "lat": 59.1333,
+    "lon": 16.7333,
+    "population": 35012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nässjö",
+    "region": "Jönköping County",
+    "lat": 57.6531,
+    "lon": 14.6968,
+    "population": 35011,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åhus",
+    "region": "Skåne County",
+    "lat": 55.9167,
+    "lon": 14.2833,
+    "population": 34998,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tyringe",
+    "region": "Skåne County",
+    "lat": 56.1604,
+    "lon": 13.5981,
+    "population": 34956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vänersborg",
+    "region": "Västra Götaland County",
+    "lat": 58.3807,
+    "lon": 12.3234,
+    "population": 34931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skärhamn",
+    "region": "Västra Götaland County",
+    "lat": 57.9866,
+    "lon": 11.5574,
+    "population": 34926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lagan",
+    "region": "Kronoberg County",
+    "lat": 56.9167,
+    "lon": 13.9833,
+    "population": 34912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gårdsten",
+    "region": "Västra Götaland County",
+    "lat": 57.8048,
+    "lon": 12.0288,
+    "population": 34890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Avesta",
+    "region": "Dalarna County",
+    "lat": 60.1427,
+    "lon": 16.1629,
+    "population": 34887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enköping",
+    "region": "Uppsala County",
+    "lat": 59.6361,
+    "lon": 17.0777,
+    "population": 34870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Surahammar",
+    "region": "Västmanland County",
+    "lat": 59.7073,
+    "lon": 16.2219,
+    "population": 34865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gråbo",
+    "region": "Västra Götaland County",
+    "lat": 57.8362,
+    "lon": 12.2995,
+    "population": 34836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ulricehamn",
+    "region": "Västra Götaland County",
+    "lat": 57.7916,
+    "lon": 13.4142,
+    "population": 34788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mora",
+    "region": "Dalarna County",
+    "lat": 61.007,
+    "lon": 14.5432,
+    "population": 34750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sollebrunn",
+    "region": "Västra Götaland County",
+    "lat": 58.1167,
+    "lon": 12.5333,
+    "population": 34719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjuv",
+    "region": "Skåne County",
+    "lat": 56.0837,
+    "lon": 12.9191,
+    "population": 34650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valla",
+    "region": "Södermanland County",
+    "lat": 59.0167,
+    "lon": 16.3833,
+    "population": 34640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Älmsta",
+    "region": "Stockholm County",
+    "lat": 59.9667,
+    "lon": 18.8,
+    "population": 34599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svanesund",
+    "region": "Västra Götaland County",
+    "lat": 58.1429,
+    "lon": 11.8182,
+    "population": 34397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forsbacka",
+    "region": "Västerbotten County",
+    "lat": 64.7667,
+    "lon": 20.5,
+    "population": 34375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brunn",
+    "region": "Stockholm County",
+    "lat": 59.28,
+    "lon": 18.43,
+    "population": 34330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Näsum",
+    "region": "Skåne County",
+    "lat": 56.1769,
+    "lon": 14.4971,
+    "population": 34269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Älvängen",
+    "region": "Västra Götaland County",
+    "lat": 57.9587,
+    "lon": 12.1235,
+    "population": 34249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norsjö",
+    "region": "Västerbotten County",
+    "lat": 64.9121,
+    "lon": 19.4815,
+    "population": 34221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Insjön",
+    "region": "Dalarna County",
+    "lat": 60.6769,
+    "lon": 15.0949,
+    "population": 34200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torekov",
+    "region": "Skåne County",
+    "lat": 56.425,
+    "lon": 12.6333,
+    "population": 34136,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hammarkullen",
+    "region": "Västra Götaland County",
+    "lat": 57.7805,
+    "lon": 12.036,
+    "population": 34111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Södra Sandby",
+    "region": "Skåne County",
+    "lat": 55.7168,
+    "lon": 13.3466,
+    "population": 34082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Styrsö",
+    "region": "Västra Götaland County",
+    "lat": 57.6164,
+    "lon": 11.7856,
+    "population": 34043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kopparberg",
+    "region": "Örebro County",
+    "lat": 59.876,
+    "lon": 14.9944,
+    "population": 34039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munka-Ljungby",
+    "region": "Skåne County",
+    "lat": 56.25,
+    "lon": 12.9667,
+    "population": 34029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rydsgård",
+    "region": "Skåne County",
+    "lat": 55.4729,
+    "lon": 13.5883,
+    "population": 33924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ödsmål",
+    "region": "Västra Götaland County",
+    "lat": 58.1,
+    "lon": 11.85,
+    "population": 33830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tensta",
+    "region": "Stockholm County",
+    "lat": 59.3939,
+    "lon": 17.9011,
+    "population": 33828,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Heby",
+    "region": "Uppsala County",
+    "lat": 59.9382,
+    "lon": 16.8622,
+    "population": 33819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ystad",
+    "region": "Skåne County",
+    "lat": 55.4297,
+    "lon": 13.8204,
+    "population": 33767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stångby",
+    "region": "Skåne County",
+    "lat": 55.7503,
+    "lon": 13.198,
+    "population": 33600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flen",
+    "region": "Södermanland County",
+    "lat": 59.0583,
+    "lon": 16.5878,
+    "population": 33554,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyköping",
+    "region": "Södermanland County",
+    "lat": 58.753,
+    "lon": 17.0079,
+    "population": 33451,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mölltorp",
+    "region": "Västra Götaland County",
+    "lat": 58.5,
+    "lon": 14.4,
+    "population": 33441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svalöv",
+    "region": "Skåne County",
+    "lat": 55.9134,
+    "lon": 13.1076,
+    "population": 33382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergshamra",
+    "region": "Stockholm County",
+    "lat": 59.3808,
+    "lon": 18.0343,
+    "population": 33366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjo",
+    "region": "Västra Götaland County",
+    "lat": 58.3013,
+    "lon": 14.2878,
+    "population": 33334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hällefors",
+    "region": "Örebro County",
+    "lat": 59.7839,
+    "lon": 14.522,
+    "population": 33283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaggeryd",
+    "region": "Jönköping County",
+    "lat": 57.4981,
+    "lon": 14.1484,
+    "population": 33271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Örnsköldsvik",
+    "region": "Västernorrland County",
+    "lat": 63.2909,
+    "lon": 18.7153,
+    "population": 33213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Göteborg",
+    "region": "Västra Götaland County",
+    "lat": 57.7072,
+    "lon": 11.9668,
+    "population": 33196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Båstad",
+    "region": "Skåne County",
+    "lat": 56.4269,
+    "lon": 12.8534,
+    "population": 33115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Furulund",
+    "region": "Västra Götaland County",
+    "lat": 57.7167,
+    "lon": 12.1333,
+    "population": 33092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torslanda",
+    "region": "Västra Götaland County",
+    "lat": 57.7243,
+    "lon": 11.7701,
+    "population": 33072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Härnösand",
+    "region": "Västernorrland County",
+    "lat": 62.6323,
+    "lon": 17.9379,
+    "population": 33023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alafors",
+    "region": "Västra Götaland County",
+    "lat": 57.9258,
+    "lon": 12.0784,
+    "population": 32977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borås",
+    "region": "Västra Götaland County",
+    "lat": 57.7378,
+    "lon": 12.9408,
+    "population": 32936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingared",
+    "region": "Västra Götaland County",
+    "lat": 57.8599,
+    "lon": 12.4516,
+    "population": 32804,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angered",
+    "region": "Västra Götaland County",
+    "lat": 57.7863,
+    "lon": 12.0985,
+    "population": 32802,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frillesås",
+    "region": "Halland County",
+    "lat": 57.3167,
+    "lon": 12.1667,
+    "population": 32647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hälleforsnäs",
+    "region": "Södermanland County",
+    "lat": 59.1521,
+    "lon": 16.497,
+    "population": 32543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mölndal",
+    "region": "Västra Götaland County",
+    "lat": 57.6554,
+    "lon": 12.0138,
+    "population": 32490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hasslö",
+    "region": "Blekinge",
+    "lat": 56.1167,
+    "lon": 15.4833,
+    "population": 32474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaxholmen",
+    "region": "Jönköping County",
+    "lat": 57.8535,
+    "lon": 14.3046,
+    "population": 32325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lund",
+    "region": "Skåne County",
+    "lat": 55.7058,
+    "lon": 13.1932,
+    "population": 32321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Segeltorp",
+    "region": "Stockholm County",
+    "lat": 59.276,
+    "lon": 17.9307,
+    "population": 32295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skivarp",
+    "region": "Skåne County",
+    "lat": 55.4167,
+    "lon": 13.5667,
+    "population": 32270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hittarp",
+    "region": "Skåne County",
+    "lat": 56.1,
+    "lon": 12.6333,
+    "population": 32208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fisksätra",
+    "region": "Stockholm County",
+    "lat": 59.2915,
+    "lon": 18.2549,
+    "population": 32153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bollebygd",
+    "region": "Västra Götaland County",
+    "lat": 57.6687,
+    "lon": 12.5727,
+    "population": 32150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Partille",
+    "region": "Västra Götaland County",
+    "lat": 57.7395,
+    "lon": 12.1064,
+    "population": 32090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Södra Vi",
+    "region": "Kalmar County",
+    "lat": 57.7399,
+    "lon": 15.7939,
+    "population": 32067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Södermalm",
+    "region": "Stockholm County",
+    "lat": 59.3128,
+    "lon": 18.0758,
+    "population": 32045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ronneby",
+    "region": "Blekinge",
+    "lat": 56.21,
+    "lon": 15.276,
+    "population": 31869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hökåsen",
+    "region": "Västmanland County",
+    "lat": 59.6667,
+    "lon": 16.5833,
+    "population": 31836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bälinge",
+    "region": "Uppsala County",
+    "lat": 59.95,
+    "lon": 17.5333,
+    "population": 31835,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grängesberg",
+    "region": "Dalarna County",
+    "lat": 60.0746,
+    "lon": 15.0078,
+    "population": 31829,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abborrberget",
+    "region": "Dalarna County",
+    "lat": 60.15,
+    "lon": 14.8,
+    "population": 31807,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åby",
+    "region": "Östergötland County",
+    "lat": 58.6667,
+    "lon": 16.1833,
+    "population": 31654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vännäsby",
+    "region": "Västerbotten County",
+    "lat": 63.9156,
+    "lon": 19.8244,
+    "population": 31608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Färila",
+    "region": "Gävleborg County",
+    "lat": 61.8001,
+    "lon": 15.8442,
+    "population": 31586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storvik",
+    "region": "Gävleborg County",
+    "lat": 60.5833,
+    "lon": 16.5333,
+    "population": 31497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Älvsbyn",
+    "region": "Norrbotten County",
+    "lat": 65.6762,
+    "lon": 21.0016,
+    "population": 31422,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljusdal",
+    "region": "Gävleborg County",
+    "lat": 61.8288,
+    "lon": 16.0913,
+    "population": 31386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klågerup",
+    "region": "Skåne County",
+    "lat": 55.5942,
+    "lon": 13.2457,
+    "population": 31381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lysekil",
+    "region": "Västra Götaland County",
+    "lat": 58.2743,
+    "lon": 11.4358,
+    "population": 31264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nyhammar",
+    "region": "Dalarna County",
+    "lat": 60.2833,
+    "lon": 14.9667,
+    "population": 31253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sätila",
+    "region": "Västra Götaland County",
+    "lat": 57.5417,
+    "lon": 12.4343,
+    "population": 31250,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brunna",
+    "region": "Dalarna County",
+    "lat": 60.2625,
+    "lon": 16.0103,
+    "population": 31171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalarö",
+    "region": "Stockholm County",
+    "lat": 59.1331,
+    "lon": 18.4064,
+    "population": 31115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sala",
+    "region": "Västmanland County",
+    "lat": 59.9199,
+    "lon": 16.6065,
+    "population": 31068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mönsterås",
+    "region": "Kalmar County",
+    "lat": 57.0413,
+    "lon": 16.4446,
+    "population": 31053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jönköping",
+    "region": "Jönköping County",
+    "lat": 57.7814,
+    "lon": 14.1562,
+    "population": 31048,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vårsta",
+    "region": "Stockholm County",
+    "lat": 59.1653,
+    "lon": 17.7972,
+    "population": 31006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Piteå",
+    "region": "Norrbotten County",
+    "lat": 65.3172,
+    "lon": 21.4794,
+    "population": 30970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slottsbron",
+    "region": "Värmland County",
+    "lat": 59.3227,
+    "lon": 13.1027,
+    "population": 30950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mölnbo",
+    "region": "Stockholm County",
+    "lat": 59.05,
+    "lon": 17.4167,
+    "population": 30929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Helsingborg",
+    "region": "Skåne County",
+    "lat": 56.0565,
+    "lon": 12.7872,
+    "population": 30918,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blentarp",
+    "region": "Skåne County",
+    "lat": 55.5833,
+    "lon": 13.6,
+    "population": 30911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tierp",
+    "region": "Uppsala County",
+    "lat": 60.3427,
+    "lon": 17.5181,
+    "population": 30882,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glimåkra",
+    "region": "Skåne County",
+    "lat": 56.3,
+    "lon": 14.1333,
+    "population": 30726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hovsta",
+    "region": "Örebro County",
+    "lat": 59.35,
+    "lon": 15.2167,
+    "population": 30697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vaxholm",
+    "region": "Stockholm County",
+    "lat": 59.4023,
+    "lon": 18.3532,
+    "population": 30622,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åmotfors",
+    "region": "Värmland County",
+    "lat": 59.7619,
+    "lon": 12.3621,
+    "population": 30619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gemla",
+    "region": "Kronoberg County",
+    "lat": 56.8675,
+    "lon": 14.6438,
+    "population": 30583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uppsala",
+    "region": "Uppsala County",
+    "lat": 59.8588,
+    "lon": 17.6389,
+    "population": 30570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vislanda",
+    "region": "Kronoberg County",
+    "lat": 56.7833,
+    "lon": 14.45,
+    "population": 30516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Annelund",
+    "region": "Västra Götaland County",
+    "lat": 57.9884,
+    "lon": 13.0748,
+    "population": 30511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hölö",
+    "region": "Stockholm County",
+    "lat": 59.0167,
+    "lon": 17.5333,
+    "population": 30496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Degeberga",
+    "region": "Skåne County",
+    "lat": 55.8333,
+    "lon": 14.0833,
+    "population": 30485,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lenhovda",
+    "region": "Kronoberg County",
+    "lat": 57,
+    "lon": 15.2833,
+    "population": 30442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fittja",
+    "region": "Stockholm County",
+    "lat": 59.2487,
+    "lon": 17.8599,
+    "population": 30264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lönsboda",
+    "region": "Skåne County",
+    "lat": 56.4,
+    "lon": 14.3167,
+    "population": 30260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Löberöd",
+    "region": "Skåne County",
+    "lat": 55.7761,
+    "lon": 13.5241,
+    "population": 30196,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grycksbo",
+    "region": "Dalarna County",
+    "lat": 60.6875,
+    "lon": 15.4851,
+    "population": 30175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ockelbo",
+    "region": "Gävleborg County",
+    "lat": 60.8912,
+    "lon": 16.7185,
+    "population": 30168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ängelholm",
+    "region": "Skåne County",
+    "lat": 56.2428,
+    "lon": 12.8622,
+    "population": 30123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lammhult",
+    "region": "Kronoberg County",
+    "lat": 57.1667,
+    "lon": 14.5833,
+    "population": 30110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sköllersta",
+    "region": "Örebro County",
+    "lat": 59.1374,
+    "lon": 15.3394,
+    "population": 30008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Insjön",
+    "region": "Västerbotten County",
+    "lat": 64.4,
+    "lon": 17.4833,
+    "population": 29935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gävle",
+    "region": "Gävleborg County",
+    "lat": 60.6745,
+    "lon": 17.1417,
+    "population": 29919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kristdala",
+    "region": "Kalmar County",
+    "lat": 57.4007,
+    "lon": 16.205,
+    "population": 29833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Henån",
+    "region": "Västra Götaland County",
+    "lat": 58.2385,
+    "lon": 11.676,
+    "population": 29800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sollentuna",
+    "region": "Stockholm County",
+    "lat": 59.428,
+    "lon": 17.9509,
+    "population": 29648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trönninge",
+    "region": "Halland County",
+    "lat": 56.6167,
+    "lon": 12.9333,
+    "population": 29587,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vadstena",
+    "region": "Östergötland County",
+    "lat": 58.4486,
+    "lon": 14.8897,
+    "population": 29586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Furulund",
+    "region": "Skåne County",
+    "lat": 55.7738,
+    "lon": 13.0902,
+    "population": 29403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storvik",
+    "region": "Västerbotten County",
+    "lat": 65.15,
+    "lon": 20.7333,
+    "population": 29343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Visby",
+    "region": "Gotland County",
+    "lat": 57.6409,
+    "lon": 18.296,
+    "population": 29322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Höviksnäs",
+    "region": "Västra Götaland County",
+    "lat": 58.0333,
+    "lon": 11.7667,
+    "population": 29284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vikingstad",
+    "region": "Östergötland County",
+    "lat": 58.383,
+    "lon": 15.432,
+    "population": 29243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ed",
+    "region": "Västra Götaland County",
+    "lat": 58.9125,
+    "lon": 11.9331,
+    "population": 29240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hässleholm",
+    "region": "Skåne County",
+    "lat": 56.1591,
+    "lon": 13.7664,
+    "population": 29056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vejbystrand",
+    "region": "Skåne County",
+    "lat": 56.3178,
+    "lon": 12.7672,
+    "population": 28973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alingsås",
+    "region": "Västra Götaland County",
+    "lat": 57.9303,
+    "lon": 12.5335,
+    "population": 28948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habo",
+    "region": "Jönköping County",
+    "lat": 57.9119,
+    "lon": 14.0744,
+    "population": 28877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svärdsjö",
+    "region": "Dalarna County",
+    "lat": 60.7402,
+    "lon": 15.9017,
+    "population": 28814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storebro",
+    "region": "Kalmar County",
+    "lat": 57.5833,
+    "lon": 15.85,
+    "population": 28781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stigtomta",
+    "region": "Södermanland County",
+    "lat": 58.8,
+    "lon": 16.7833,
+    "population": 28760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vagnhärad",
+    "region": "Södermanland County",
+    "lat": 58.9459,
+    "lon": 17.4876,
+    "population": 28618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iggesund",
+    "region": "Gävleborg County",
+    "lat": 61.6422,
+    "lon": 17.0748,
+    "population": 28533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gnesta",
+    "region": "Södermanland County",
+    "lat": 59.0475,
+    "lon": 17.3119,
+    "population": 28483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svedala",
+    "region": "Skåne County",
+    "lat": 55.5079,
+    "lon": 13.2352,
+    "population": 28433,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billesholm",
+    "region": "Skåne County",
+    "lat": 56.05,
+    "lon": 13,
+    "population": 28352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djurö",
+    "region": "Stockholm County",
+    "lat": 59.3265,
+    "lon": 18.7115,
+    "population": 28329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markaryd",
+    "region": "Kronoberg County",
+    "lat": 56.4614,
+    "lon": 13.5964,
+    "population": 28305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosersberg",
+    "region": "Stockholm County",
+    "lat": 59.5833,
+    "lon": 17.8833,
+    "population": 28160,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlholmsbruk",
+    "region": "Uppsala County",
+    "lat": 60.5209,
+    "lon": 17.6315,
+    "population": 28114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Önnestad",
+    "region": "Skåne County",
+    "lat": 56.0575,
+    "lon": 14.0223,
+    "population": 28076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekenässjön",
+    "region": "Jönköping County",
+    "lat": 57.4918,
+    "lon": 15.0223,
+    "population": 28004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Järna",
+    "region": "Dalarna County",
+    "lat": 60.5333,
+    "lon": 14.3667,
+    "population": 27981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fyllinge",
+    "region": "Halland County",
+    "lat": 56.65,
+    "lon": 12.9167,
+    "population": 27958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sollefteå",
+    "region": "Västernorrland County",
+    "lat": 63.1667,
+    "lon": 17.2667,
+    "population": 27926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alby",
+    "region": "Stockholm County",
+    "lat": 59.2335,
+    "lon": 17.8538,
+    "population": 27912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergkvara",
+    "region": "Kalmar County",
+    "lat": 56.3906,
+    "lon": 16.0727,
+    "population": 27905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svärtinge",
+    "region": "Östergötland County",
+    "lat": 58.6551,
+    "lon": 16.0282,
+    "population": 27885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glommen",
+    "region": "Halland County",
+    "lat": 56.9333,
+    "lon": 12.35,
+    "population": 27705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rödeby",
+    "region": "Blekinge",
+    "lat": 56.2608,
+    "lon": 15.6214,
+    "population": 27500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Häljarp",
+    "region": "Skåne County",
+    "lat": 55.85,
+    "lon": 12.9167,
+    "population": 27448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limmared",
+    "region": "Västra Götaland County",
+    "lat": 57.5359,
+    "lon": 13.3557,
+    "population": 27350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skåre",
+    "region": "Skåne County",
+    "lat": 55.3833,
+    "lon": 13.05,
+    "population": 27272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berg",
+    "region": "Östergötland County",
+    "lat": 58.4883,
+    "lon": 15.5297,
+    "population": 27143,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anneberg",
+    "region": "Uppsala County",
+    "lat": 60.2417,
+    "lon": 18.4167,
+    "population": 27111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekängen",
+    "region": "Östergötland County",
+    "lat": 58.4667,
+    "lon": 15.6333,
+    "population": 27102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torsby",
+    "region": "Värmland County",
+    "lat": 60.1353,
+    "lon": 13.0082,
+    "population": 27092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tjuvkil",
+    "region": "Västra Götaland County",
+    "lat": 57.9,
+    "lon": 11.7333,
+    "population": 27068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knäred",
+    "region": "Halland County",
+    "lat": 56.5186,
+    "lon": 13.3242,
+    "population": 26936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Höllviken",
+    "region": "Skåne County",
+    "lat": 55.4098,
+    "lon": 12.9558,
+    "population": 26935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taberg",
+    "region": "Jönköping County",
+    "lat": 57.6772,
+    "lon": 14.0888,
+    "population": 26927,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Östermalm",
+    "region": "Stockholm County",
+    "lat": 59.3388,
+    "lon": 18.0849,
+    "population": 26917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hofterup",
+    "region": "Skåne County",
+    "lat": 55.8049,
+    "lon": 12.9797,
+    "population": 26888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falun",
+    "region": "Dalarna County",
+    "lat": 60.6036,
+    "lon": 15.626,
+    "population": 26881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arlöv",
+    "region": "Skåne County",
+    "lat": 55.6325,
+    "lon": 13.0714,
+    "population": 26787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harplinge",
+    "region": "Halland County",
+    "lat": 56.7449,
+    "lon": 12.7276,
+    "population": 26708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Romme",
+    "region": "Dalarna County",
+    "lat": 60.4333,
+    "lon": 15.5,
+    "population": 26618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sigtuna",
+    "region": "Stockholm County",
+    "lat": 59.6173,
+    "lon": 17.7236,
+    "population": 26617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamleby",
+    "region": "Kalmar County",
+    "lat": 57.8948,
+    "lon": 16.4051,
+    "population": 26508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haninge",
+    "region": "Stockholm County",
+    "lat": 59.1677,
+    "lon": 18.1448,
+    "population": 26471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Munkedal",
+    "region": "Västra Götaland County",
+    "lat": 58.4663,
+    "lon": 11.6735,
+    "population": 26470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Backa",
+    "region": "Västerbotten County",
+    "lat": 64.9833,
+    "lon": 21.0667,
+    "population": 26460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huddinge",
+    "region": "Stockholm County",
+    "lat": 59.2371,
+    "lon": 17.9819,
+    "population": 26388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kungsör",
+    "region": "Västmanland County",
+    "lat": 59.4224,
+    "lon": 16.0966,
+    "population": 26291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gusum",
+    "region": "Östergötland County",
+    "lat": 58.2688,
+    "lon": 16.4989,
+    "population": 26283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gränna",
+    "region": "Jönköping County",
+    "lat": 58.0167,
+    "lon": 14.4667,
+    "population": 26201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sålanda",
+    "region": "Västra Götaland County",
+    "lat": 57.9833,
+    "lon": 12.2167,
+    "population": 26145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ödåkra",
+    "region": "Skåne County",
+    "lat": 56.1041,
+    "lon": 12.7477,
+    "population": 26098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hultsfred",
+    "region": "Kalmar County",
+    "lat": 57.4881,
+    "lon": 15.8436,
+    "population": 26046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Västerås",
+    "region": "Västmanland County",
+    "lat": 59.6491,
+    "lon": 16.5645,
+    "population": 26029,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gnosjö",
+    "region": "Jönköping County",
+    "lat": 57.3585,
+    "lon": 13.7369,
+    "population": 26012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simrishamn",
+    "region": "Skåne County",
+    "lat": 55.5565,
+    "lon": 14.3504,
+    "population": 25986,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lilla Edet",
+    "region": "Västra Götaland County",
+    "lat": 58.1333,
+    "lon": 12.1333,
+    "population": 25951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ingelstad",
+    "region": "Kronoberg County",
+    "lat": 56.75,
+    "lon": 14.9167,
+    "population": 25905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kristinehamn",
+    "region": "Värmland County",
+    "lat": 59.3098,
+    "lon": 14.1081,
+    "population": 25896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åsbro",
+    "region": "Örebro County",
+    "lat": 59,
+    "lon": 15.05,
+    "population": 25848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rydebäck",
+    "region": "Skåne County",
+    "lat": 55.9667,
+    "lon": 12.7667,
+    "population": 25795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindesberg",
+    "region": "Örebro County",
+    "lat": 59.592,
+    "lon": 15.2304,
+    "population": 25778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Husum",
+    "region": "Västernorrland County",
+    "lat": 63.3333,
+    "lon": 19.1667,
+    "population": 25732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vansbro",
+    "region": "Dalarna County",
+    "lat": 60.5089,
+    "lon": 14.2246,
+    "population": 25731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strömsnäsbruk",
+    "region": "Kronoberg County",
+    "lat": 56.55,
+    "lon": 13.7167,
+    "population": 25609,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hallstahammar",
+    "region": "Västmanland County",
+    "lat": 59.614,
+    "lon": 16.2285,
+    "population": 25448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eriksbo",
+    "region": "Västra Götaland County",
+    "lat": 57.7714,
+    "lon": 12.0418,
+    "population": 25445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sävar",
+    "region": "Västerbotten County",
+    "lat": 63.9038,
+    "lon": 20.5501,
+    "population": 25431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kungsbacka",
+    "region": "Halland County",
+    "lat": 57.4872,
+    "lon": 12.0761,
+    "population": 25400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenungsund",
+    "region": "Västra Götaland County",
+    "lat": 58.0705,
+    "lon": 11.8181,
+    "population": 25373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nordmaling",
+    "region": "Västerbotten County",
+    "lat": 63.5685,
+    "lon": 19.5024,
+    "population": 25368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trelleborg",
+    "region": "Skåne County",
+    "lat": 55.3751,
+    "lon": 13.1569,
+    "population": 25361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mockfjärd",
+    "region": "Dalarna County",
+    "lat": 60.5,
+    "lon": 14.9667,
+    "population": 25356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Värnamo",
+    "region": "Jönköping County",
+    "lat": 57.186,
+    "lon": 14.04,
+    "population": 25342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kopparmora",
+    "region": "Stockholm County",
+    "lat": 59.3331,
+    "lon": 18.5831,
+    "population": 25308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hagfors",
+    "region": "Värmland County",
+    "lat": 60.0238,
+    "lon": 13.6721,
+    "population": 25292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malmslätt",
+    "region": "Östergötland County",
+    "lat": 58.411,
+    "lon": 15.5165,
+    "population": 25193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalix",
+    "region": "Norrbotten County",
+    "lat": 65.853,
+    "lon": 23.1564,
+    "population": 25181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Staffanstorp",
+    "region": "Skåne County",
+    "lat": 55.6428,
+    "lon": 13.2064,
+    "population": 25174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enebyberg",
+    "region": "Stockholm County",
+    "lat": 59.4333,
+    "lon": 18.05,
+    "population": 25152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falkenberg",
+    "region": "Halland County",
+    "lat": 56.9055,
+    "lon": 12.4912,
+    "population": 25094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Storvreta",
+    "region": "Uppsala County",
+    "lat": 59.9593,
+    "lon": 17.7059,
+    "population": 25055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sjömarken",
+    "region": "Västra Götaland County",
+    "lat": 57.7153,
+    "lon": 12.8349,
+    "population": 25042,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malmbäck",
+    "region": "Jönköping County",
+    "lat": 57.5767,
+    "lon": 14.4617,
+    "population": 25034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenstorp",
+    "region": "Västra Götaland County",
+    "lat": 58.2725,
+    "lon": 13.7145,
+    "population": 25033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tallboda",
+    "region": "Östergötland County",
+    "lat": 58.4252,
+    "lon": 15.6815,
+    "population": 25017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hestra",
+    "region": "Jönköping County",
+    "lat": 57.4423,
+    "lon": 13.5958,
+    "population": 25013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kävlinge",
+    "region": "Skåne County",
+    "lat": 55.7919,
+    "lon": 13.1102,
+    "population": 24869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ösmo",
+    "region": "Stockholm County",
+    "lat": 58.9833,
+    "lon": 17.9,
+    "population": 24570,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vikarbyn",
+    "region": "Dalarna County",
+    "lat": 60.9167,
+    "lon": 15.0167,
+    "population": 24551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grums",
+    "region": "Värmland County",
+    "lat": 59.3514,
+    "lon": 13.1111,
+    "population": 24496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bollnäs",
+    "region": "Gävleborg County",
+    "lat": 61.3482,
+    "lon": 16.3946,
+    "population": 24467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Reftele",
+    "region": "Jönköping County",
+    "lat": 57.1747,
+    "lon": 13.595,
+    "population": 24467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mantorp",
+    "region": "Östergötland County",
+    "lat": 58.35,
+    "lon": 15.2833,
+    "population": 24291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torsås",
+    "region": "Kalmar County",
+    "lat": 56.4125,
+    "lon": 15.9984,
+    "population": 24181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osby",
+    "region": "Skåne County",
+    "lat": 56.3817,
+    "lon": 13.9936,
+    "population": 24175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trollhättan",
+    "region": "Västra Götaland County",
+    "lat": 58.2121,
+    "lon": 12.3503,
+    "population": 24111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Delsbo",
+    "region": "Gävleborg County",
+    "lat": 61.801,
+    "lon": 16.5557,
+    "population": 24055,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stenstorp",
+    "region": "Östergötland County",
+    "lat": 58.4833,
+    "lon": 15.0667,
+    "population": 24030,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Björkö",
+    "region": "Västra Götaland County",
+    "lat": 57.7322,
+    "lon": 11.6792,
+    "population": 23981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanumshede",
+    "region": "Västra Götaland County",
+    "lat": 58.7238,
+    "lon": 11.3259,
+    "population": 23943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jörlanda",
+    "region": "Västra Götaland County",
+    "lat": 57.9863,
+    "lon": 11.8294,
+    "population": 23940,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arbrå",
+    "region": "Gävleborg County",
+    "lat": 61.4667,
+    "lon": 16.3833,
+    "population": 23925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skultorp",
+    "region": "Västra Götaland County",
+    "lat": 58.35,
+    "lon": 13.8333,
+    "population": 23864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Källby",
+    "region": "Västra Götaland County",
+    "lat": 58.51,
+    "lon": 13.3058,
+    "population": 23796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asmundtorp",
+    "region": "Skåne County",
+    "lat": 55.8833,
+    "lon": 12.9333,
+    "population": 23785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Edsbyn",
+    "region": "Gävleborg County",
+    "lat": 61.3769,
+    "lon": 15.8175,
+    "population": 23772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rannebergen",
+    "region": "Västra Götaland County",
+    "lat": 57.8024,
+    "lon": 12.0713,
+    "population": 23739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Södra Sunderbyn",
+    "region": "Norrbotten County",
+    "lat": 65.6598,
+    "lon": 21.94,
+    "population": 23738,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saxtorpsskogen",
+    "region": "Skåne County",
+    "lat": 55.8321,
+    "lon": 12.9443,
+    "population": 23721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rindö",
+    "region": "Stockholm County",
+    "lat": 59.3969,
+    "lon": 18.3943,
+    "population": 23618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gullspång",
+    "region": "Västra Götaland County",
+    "lat": 58.9862,
+    "lon": 14.0964,
+    "population": 23592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torup",
+    "region": "Halland County",
+    "lat": 56.9566,
+    "lon": 13.0772,
+    "population": 23581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hedemora",
+    "region": "Dalarna County",
+    "lat": 60.2797,
+    "lon": 15.9886,
+    "population": 23468,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laholm",
+    "region": "Halland County",
+    "lat": 56.5121,
+    "lon": 13.0437,
+    "population": 23389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arnö",
+    "region": "Södermanland County",
+    "lat": 58.7268,
+    "lon": 17.0232,
+    "population": 23371,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strömstad",
+    "region": "Västra Götaland County",
+    "lat": 58.9395,
+    "lon": 11.1712,
+    "population": 23346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Älmhult",
+    "region": "Kronoberg County",
+    "lat": 56.5515,
+    "lon": 14.1383,
+    "population": 23330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haverdal",
+    "region": "Halland County",
+    "lat": 56.7222,
+    "lon": 12.6719,
+    "population": 23302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burträsk",
+    "region": "Västerbotten County",
+    "lat": 64.5167,
+    "lon": 20.65,
+    "population": 23256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Enhagen-Ekbacken",
+    "region": "Västmanland County",
+    "lat": 59.5654,
+    "lon": 16.5304,
+    "population": 23218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Akalla",
+    "region": "Stockholm County",
+    "lat": 59.4147,
+    "lon": 17.914,
+    "population": 23197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Luleå",
+    "region": "Norrbotten County",
+    "lat": 65.5841,
+    "lon": 22.1547,
+    "population": 23193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolbäck",
+    "region": "Västmanland County",
+    "lat": 59.5652,
+    "lon": 16.2304,
+    "population": 23149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kåge",
+    "region": "Västerbotten County",
+    "lat": 64.8357,
+    "lon": 20.9845,
+    "population": 23116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rosvik",
+    "region": "Norrbotten County",
+    "lat": 65.4333,
+    "lon": 21.7,
+    "population": 23113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergnäset",
+    "region": "Norrbotten County",
+    "lat": 65.5779,
+    "lon": 22.1084,
+    "population": 23027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norrköping",
+    "region": "Östergötland County",
+    "lat": 58.5942,
+    "lon": 16.1826,
+    "population": 23025,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Påskallavik",
+    "region": "Kalmar County",
+    "lat": 57.1667,
+    "lon": 16.45,
+    "population": 23004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinna",
+    "region": "Västra Götaland County",
+    "lat": 57.5073,
+    "lon": 12.6946,
+    "population": 22980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Donsö",
+    "region": "Västra Götaland County",
+    "lat": 57.6,
+    "lon": 11.7992,
+    "population": 22884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boxholm",
+    "region": "Östergötland County",
+    "lat": 58.1972,
+    "lon": 15.0538,
+    "population": 22863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kristianstad",
+    "region": "Skåne County",
+    "lat": 56.0313,
+    "lon": 14.1524,
+    "population": 22790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlshamn",
+    "region": "Blekinge",
+    "lat": 56.1706,
+    "lon": 14.8619,
+    "population": 22783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ludvika",
+    "region": "Dalarna County",
+    "lat": 60.1496,
+    "lon": 15.1878,
+    "population": 22777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laxå",
+    "region": "Örebro County",
+    "lat": 58.9863,
+    "lon": 14.619,
+    "population": 22762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Örsundsbro",
+    "region": "Uppsala County",
+    "lat": 59.7333,
+    "lon": 17.3,
+    "population": 22746,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irsta",
+    "region": "Västmanland County",
+    "lat": 59.6,
+    "lon": 16.7,
+    "population": 22674,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Långshyttan",
+    "region": "Dalarna County",
+    "lat": 60.4524,
+    "lon": 16.0383,
+    "population": 22626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Färlöv",
+    "region": "Skåne County",
+    "lat": 56.0667,
+    "lon": 14.0833,
+    "population": 22550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mjällby",
+    "region": "Blekinge",
+    "lat": 56.05,
+    "lon": 14.6833,
+    "population": 22509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kågeröd",
+    "region": "Skåne County",
+    "lat": 55.9998,
+    "lon": 13.0879,
+    "population": 22394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oxelösund",
+    "region": "Södermanland County",
+    "lat": 58.6706,
+    "lon": 17.1015,
+    "population": 22374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljungby",
+    "region": "Kronoberg County",
+    "lat": 56.8332,
+    "lon": 13.9408,
+    "population": 22254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diseröd",
+    "region": "Västra Götaland County",
+    "lat": 57.9264,
+    "lon": 12.026,
+    "population": 22239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hörnefors",
+    "region": "Västerbotten County",
+    "lat": 63.6231,
+    "lon": 19.9086,
+    "population": 22168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamla Stan",
+    "region": "Stockholm County",
+    "lat": 59.3263,
+    "lon": 18.0725,
+    "population": 22162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stockholm",
+    "region": "Stockholm County",
+    "lat": 59.3326,
+    "lon": 18.0649,
+    "population": 22158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nora",
+    "region": "Örebro County",
+    "lat": 59.5193,
+    "lon": 15.0398,
+    "population": 22072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Söderfors",
+    "region": "Västerbotten County",
+    "lat": 64.8167,
+    "lon": 18.05,
+    "population": 22014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Finspång",
+    "region": "Östergötland County",
+    "lat": 58.7058,
+    "lon": 15.7674,
+    "population": 21980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garphyttan",
+    "region": "Örebro County",
+    "lat": 59.3043,
+    "lon": 14.9462,
+    "population": 21608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tenhult",
+    "region": "Jönköping County",
+    "lat": 57.7076,
+    "lon": 14.3221,
+    "population": 21601,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljungbyholm",
+    "region": "Kalmar County",
+    "lat": 56.6333,
+    "lon": 16.1667,
+    "population": 21553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skepplanda",
+    "region": "Västra Götaland County",
+    "lat": 57.9833,
+    "lon": 12.2,
+    "population": 21345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Grillby",
+    "region": "Uppsala County",
+    "lat": 59.626,
+    "lon": 17.2579,
+    "population": 21329,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Löddeköpinge",
+    "region": "Skåne County",
+    "lat": 55.7667,
+    "lon": 13.0167,
+    "population": 21222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvidinge",
+    "region": "Skåne County",
+    "lat": 56.1339,
+    "lon": 13.0468,
+    "population": 21156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dorotea",
+    "region": "Västerbotten County",
+    "lat": 64.2618,
+    "lon": 16.4131,
+    "population": 21047,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jämshög",
+    "region": "Blekinge",
+    "lat": 56.2333,
+    "lon": 14.5167,
+    "population": 21045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gamla Uppsala",
+    "region": "Uppsala County",
+    "lat": 59.8982,
+    "lon": 17.6339,
+    "population": 21039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjärnarp",
+    "region": "Skåne County",
+    "lat": 56.3167,
+    "lon": 12.9167,
+    "population": 21015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kimstad",
+    "region": "Östergötland County",
+    "lat": 58.5497,
+    "lon": 15.963,
+    "population": 21008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nybro",
+    "region": "Kalmar County",
+    "lat": 56.7446,
+    "lon": 15.9071,
+    "population": 20951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Köpingebro",
+    "region": "Skåne County",
+    "lat": 55.4553,
+    "lon": 13.9345,
+    "population": 20908,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vinslöv",
+    "region": "Skåne County",
+    "lat": 56.1,
+    "lon": 13.9167,
+    "population": 20832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malmö",
+    "region": "Skåne County",
+    "lat": 55.6059,
+    "lon": 13.0007,
+    "population": 20822,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valje",
+    "region": "Skåne County",
+    "lat": 56.0628,
+    "lon": 14.5439,
+    "population": 20818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallentuna",
+    "region": "Stockholm County",
+    "lat": 59.5344,
+    "lon": 18.0776,
+    "population": 20714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djurås",
+    "region": "Dalarna County",
+    "lat": 60.5606,
+    "lon": 15.1328,
+    "population": 20667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Älvkarleby",
+    "region": "Uppsala County",
+    "lat": 60.5708,
+    "lon": 17.4489,
+    "population": 20661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forsheda",
+    "region": "Jönköping County",
+    "lat": 57.1641,
+    "lon": 13.8302,
+    "population": 20659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rydaholm",
+    "region": "Jönköping County",
+    "lat": 56.9839,
+    "lon": 14.3085,
+    "population": 20629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Axvall",
+    "region": "Västra Götaland County",
+    "lat": 58.3833,
+    "lon": 13.5667,
+    "population": 20558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skurup",
+    "region": "Skåne County",
+    "lat": 55.4784,
+    "lon": 13.5019,
+    "population": 20536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malmberget",
+    "region": "Norrbotten County",
+    "lat": 67.1753,
+    "lon": 20.6549,
+    "population": 20509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norberg",
+    "region": "Västmanland County",
+    "lat": 60.065,
+    "lon": 15.9237,
+    "population": 20473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sölvesborg",
+    "region": "Blekinge",
+    "lat": 56.0521,
+    "lon": 14.5753,
+    "population": 20458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klintehamn",
+    "region": "Gotland County",
+    "lat": 57.3867,
+    "lon": 18.2037,
+    "population": 20426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skinnskatteberg",
+    "region": "Västmanland County",
+    "lat": 59.8303,
+    "lon": 15.6934,
+    "population": 20382,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skultuna",
+    "region": "Västmanland County",
+    "lat": 59.7167,
+    "lon": 16.4167,
+    "population": 20349,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tullinge",
+    "region": "Stockholm County",
+    "lat": 59.2,
+    "lon": 17.9,
+    "population": 20264,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kallinge",
+    "region": "Blekinge",
+    "lat": 56.2484,
+    "lon": 15.2872,
+    "population": 20247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolsva",
+    "region": "Västmanland County",
+    "lat": 59.6,
+    "lon": 15.8333,
+    "population": 20205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forshaga",
+    "region": "Värmland County",
+    "lat": 59.5254,
+    "lon": 13.4813,
+    "population": 20203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilhelmina",
+    "region": "Västerbotten County",
+    "lat": 64.6242,
+    "lon": 16.656,
+    "population": 20148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Märsta",
+    "region": "Stockholm County",
+    "lat": 59.6216,
+    "lon": 17.8548,
+    "population": 20138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arnö",
+    "region": "Stockholm County",
+    "lat": 60.1167,
+    "lon": 18.6333,
+    "population": 20108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gällivare",
+    "region": "Norrbotten County",
+    "lat": 67.1339,
+    "lon": 20.6528,
+    "population": 20084,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hjuvik",
+    "region": "Västra Götaland County",
+    "lat": 57.7017,
+    "lon": 11.7164,
+    "population": 20081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Öregrund",
+    "region": "Uppsala County",
+    "lat": 60.3333,
+    "lon": 18.4333,
+    "population": 20062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alfta",
+    "region": "Gävleborg County",
+    "lat": 61.3468,
+    "lon": 16.075,
+    "population": 20058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aneby",
+    "region": "Jönköping County",
+    "lat": 57.8389,
+    "lon": 14.8102,
+    "population": 19981,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Söderfors",
+    "region": "Uppsala County",
+    "lat": 60.3833,
+    "lon": 17.2333,
+    "population": 19977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjursås",
+    "region": "Dalarna County",
+    "lat": 60.7373,
+    "lon": 15.4529,
+    "population": 19924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kode",
+    "region": "Västra Götaland County",
+    "lat": 57.9426,
+    "lon": 11.8505,
+    "population": 19911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Landvetter",
+    "region": "Västra Götaland County",
+    "lat": 57.6867,
+    "lon": 12.2117,
+    "population": 19789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gånghester",
+    "region": "Västra Götaland County",
+    "lat": 57.7,
+    "lon": 13.0167,
+    "population": 19763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lidköping",
+    "region": "Västra Götaland County",
+    "lat": 58.5052,
+    "lon": 13.1577,
+    "population": 19699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlskrona",
+    "region": "Blekinge",
+    "lat": 56.1616,
+    "lon": 15.5866,
+    "population": 19694,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Björkskatan",
+    "region": "Norrbotten County",
+    "lat": 65.6137,
+    "lon": 22.177,
+    "population": 19520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Upplands Väsby",
+    "region": "Stockholm County",
+    "lat": 59.5184,
+    "lon": 17.9113,
+    "population": 19403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fjälkinge",
+    "region": "Skåne County",
+    "lat": 56.0436,
+    "lon": 14.2756,
+    "population": 19297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mörtnäs",
+    "region": "Stockholm County",
+    "lat": 59.3186,
+    "lon": 18.4431,
+    "population": 19279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sundbyberg",
+    "region": "Stockholm County",
+    "lat": 59.3613,
+    "lon": 17.9711,
+    "population": 19265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obbola",
+    "region": "Västerbotten County",
+    "lat": 63.7,
+    "lon": 20.3167,
+    "population": 19252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skoghall",
+    "region": "Värmland County",
+    "lat": 59.3232,
+    "lon": 13.4655,
+    "population": 19118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlskoga",
+    "region": "Örebro County",
+    "lat": 59.3267,
+    "lon": 14.5239,
+    "population": 19040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jonstorp",
+    "region": "Västra Götaland County",
+    "lat": 58,
+    "lon": 12.7167,
+    "population": 18976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jämjö",
+    "region": "Blekinge",
+    "lat": 56.1919,
+    "lon": 15.8412,
+    "population": 18919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandared",
+    "region": "Västra Götaland County",
+    "lat": 57.7099,
+    "lon": 12.7924,
+    "population": 18663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mölnlycke",
+    "region": "Västra Götaland County",
+    "lat": 57.6589,
+    "lon": 12.1179,
+    "population": 18655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Höör",
+    "region": "Skåne County",
+    "lat": 55.9344,
+    "lon": 13.5385,
+    "population": 18644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Örkelljunga",
+    "region": "Skåne County",
+    "lat": 56.2834,
+    "lon": 13.2777,
+    "population": 18546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gnarp",
+    "region": "Gävleborg County",
+    "lat": 62.0487,
+    "lon": 17.2586,
+    "population": 18450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kumla",
+    "region": "Örebro County",
+    "lat": 59.1277,
+    "lon": 15.1434,
+    "population": 18403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skattkärr",
+    "region": "Värmland County",
+    "lat": 59.4121,
+    "lon": 13.6708,
+    "population": 18397,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strömma",
+    "region": "Stockholm County",
+    "lat": 59.2833,
+    "lon": 18.5333,
+    "population": 18359,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fellingsbro",
+    "region": "Örebro County",
+    "lat": 59.4333,
+    "lon": 15.5833,
+    "population": 18282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vetlanda",
+    "region": "Jönköping County",
+    "lat": 57.4289,
+    "lon": 15.0776,
+    "population": 18272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Myggenäs",
+    "region": "Västra Götaland County",
+    "lat": 58.0618,
+    "lon": 11.7494,
+    "population": 18242,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nossebro",
+    "region": "Västra Götaland County",
+    "lat": 58.1881,
+    "lon": 12.716,
+    "population": 18207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hällabrottet",
+    "region": "Örebro County",
+    "lat": 59.1167,
+    "lon": 15.2,
+    "population": 18169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åkarp",
+    "region": "Skåne County",
+    "lat": 55.654,
+    "lon": 13.1111,
+    "population": 18027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rolfs",
+    "region": "Norrbotten County",
+    "lat": 65.85,
+    "lon": 23.1167,
+    "population": 17999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tollarp1",
+    "region": "Skåne County",
+    "lat": 56.1667,
+    "lon": 14.2833,
+    "population": 17905,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brunna",
+    "region": "Stockholm County",
+    "lat": 59.5167,
+    "lon": 17.75,
+    "population": 17901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kil",
+    "region": "Värmland County",
+    "lat": 59.5023,
+    "lon": 13.3128,
+    "population": 17836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smögen",
+    "region": "Västra Götaland County",
+    "lat": 58.3559,
+    "lon": 11.2241,
+    "population": 17836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ödeshög",
+    "region": "Östergötland County",
+    "lat": 58.2295,
+    "lon": 14.6529,
+    "population": 17773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hova",
+    "region": "Västra Götaland County",
+    "lat": 58.8536,
+    "lon": 14.2191,
+    "population": 17749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trekanten",
+    "region": "Kalmar County",
+    "lat": 56.7,
+    "lon": 16.1167,
+    "population": 17718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herrestad",
+    "region": "Östergötland County",
+    "lat": 58.3833,
+    "lon": 14.8,
+    "population": 17639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lindsdal",
+    "region": "Kalmar County",
+    "lat": 56.7333,
+    "lon": 16.3,
+    "population": 17603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sundsvall",
+    "region": "Västernorrland County",
+    "lat": 62.3913,
+    "lon": 17.3063,
+    "population": 17596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sävsjö",
+    "region": "Jönköping County",
+    "lat": 57.4033,
+    "lon": 14.6624,
+    "population": 17584,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hyllinge",
+    "region": "Skåne County",
+    "lat": 56.1,
+    "lon": 12.85,
+    "population": 17442,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Götene",
+    "region": "Västra Götaland County",
+    "lat": 58.5282,
+    "lon": 13.4946,
+    "population": 17293,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Höganäs",
+    "region": "Skåne County",
+    "lat": 56.1997,
+    "lon": 12.5579,
+    "population": 17135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Växjö",
+    "region": "Kronoberg County",
+    "lat": 56.8777,
+    "lon": 14.8091,
+    "population": 17012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Förslöv",
+    "region": "Skåne County",
+    "lat": 56.35,
+    "lon": 12.8167,
+    "population": 16913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Orsa",
+    "region": "Dalarna County",
+    "lat": 61.1203,
+    "lon": 14.6155,
+    "population": 16896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajala",
+    "region": "Norrbotten County",
+    "lat": 67.2128,
+    "lon": 23.3661,
+    "population": 16839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stavsnäs",
+    "region": "Stockholm County",
+    "lat": 59.2833,
+    "lon": 18.6833,
+    "population": 16718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Irsta",
+    "region": "Uppsala County",
+    "lat": 59.7,
+    "lon": 16.9333,
+    "population": 16716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariestad",
+    "region": "Västra Götaland County",
+    "lat": 58.7097,
+    "lon": 13.8237,
+    "population": 16619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Söråker",
+    "region": "Västernorrland County",
+    "lat": 62.5056,
+    "lon": 17.5103,
+    "population": 16603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molkom",
+    "region": "Värmland County",
+    "lat": 59.6006,
+    "lon": 13.7211,
+    "population": 16343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eksjö",
+    "region": "Jönköping County",
+    "lat": 57.6664,
+    "lon": 14.972,
+    "population": 16255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hovmantorp",
+    "region": "Kronoberg County",
+    "lat": 56.7869,
+    "lon": 15.1402,
+    "population": 16244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skottsund",
+    "region": "Västernorrland County",
+    "lat": 62.2906,
+    "lon": 17.3869,
+    "population": 16201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olofström",
+    "region": "Blekinge",
+    "lat": 56.2773,
+    "lon": 14.534,
+    "population": 16138,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vingåker",
+    "region": "Södermanland County",
+    "lat": 59.0433,
+    "lon": 15.8737,
+    "population": 16100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skåre",
+    "region": "Värmland County",
+    "lat": 59.4333,
+    "lon": 13.4333,
+    "population": 16080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vårby",
+    "region": "Stockholm County",
+    "lat": 59.2667,
+    "lon": 17.8841,
+    "population": 16034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ljungbyhed",
+    "region": "Skåne County",
+    "lat": 56.0744,
+    "lon": 13.2401,
+    "population": 15900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vellinge",
+    "region": "Skåne County",
+    "lat": 55.4712,
+    "lon": 13.0197,
+    "population": 15725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandarne",
+    "region": "Gävleborg County",
+    "lat": 61.2589,
+    "lon": 17.1528,
+    "population": 15715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barkarö",
+    "region": "Västmanland County",
+    "lat": 59.5493,
+    "lon": 16.5074,
+    "population": 15551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Söderhamn",
+    "region": "Gävleborg County",
+    "lat": 61.3037,
+    "lon": 17.0592,
+    "population": 15551,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Björlanda",
+    "region": "Västra Götaland County",
+    "lat": 57.7667,
+    "lon": 11.8333,
+    "population": 15548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åtvidaberg",
+    "region": "Östergötland County",
+    "lat": 58.2015,
+    "lon": 15.9977,
+    "population": 15542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Täfteå",
+    "region": "Västerbotten County",
+    "lat": 63.8397,
+    "lon": 20.4786,
+    "population": 15439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fagersta",
+    "region": "Västmanland County",
+    "lat": 60.0042,
+    "lon": 15.7932,
+    "population": 15360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sunne",
+    "region": "Värmland County",
+    "lat": 59.8376,
+    "lon": 13.143,
+    "population": 15314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Säter",
+    "region": "Dalarna County",
+    "lat": 60.3478,
+    "lon": 15.7505,
+    "population": 15302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvissleby",
+    "region": "Västernorrland County",
+    "lat": 62.2936,
+    "lon": 17.375,
+    "population": 15220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skrea",
+    "region": "Halland County",
+    "lat": 56.8833,
+    "lon": 12.5667,
+    "population": 15191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Emmaboda",
+    "region": "Kalmar County",
+    "lat": 56.6327,
+    "lon": 15.5365,
+    "population": 15141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Göta",
+    "region": "Västra Götaland County",
+    "lat": 58.1062,
+    "lon": 12.1525,
+    "population": 15088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekeby",
+    "region": "Skåne County",
+    "lat": 56,
+    "lon": 12.9667,
+    "population": 15062,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brålanda",
+    "region": "Västra Götaland County",
+    "lat": 58.5634,
+    "lon": 12.3492,
+    "population": 15026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bara",
+    "region": "Skåne County",
+    "lat": 55.5816,
+    "lon": 13.1786,
+    "population": 14977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalsjöfors",
+    "region": "Västra Götaland County",
+    "lat": 57.7167,
+    "lon": 13.0833,
+    "population": 14972,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krylbo",
+    "region": "Dalarna County",
+    "lat": 60.1333,
+    "lon": 16.2167,
+    "population": 14967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årsta",
+    "region": "Stockholm County",
+    "lat": 59.2978,
+    "lon": 18.0514,
+    "population": 14934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Töreboda",
+    "region": "Västra Götaland County",
+    "lat": 58.7074,
+    "lon": 14.126,
+    "population": 14873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bara",
+    "region": "Södermanland County",
+    "lat": 58.6833,
+    "lon": 17.0667,
+    "population": 14841,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kvicksund",
+    "region": "Södermanland County",
+    "lat": 59.451,
+    "lon": 16.3213,
+    "population": 14776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bjärnum",
+    "region": "Skåne County",
+    "lat": 56.2903,
+    "lon": 13.7113,
+    "population": 14658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linköping",
+    "region": "Östergötland County",
+    "lat": 58.4109,
+    "lon": 15.6216,
+    "population": 14654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fränsta",
+    "region": "Västernorrland County",
+    "lat": 62.4986,
+    "lon": 16.1702,
+    "population": 14641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Träslövsläge",
+    "region": "Halland County",
+    "lat": 57.0542,
+    "lon": 12.279,
+    "population": 14641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nättraby",
+    "region": "Blekinge",
+    "lat": 56.2,
+    "lon": 15.5167,
+    "population": 14617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gislaved",
+    "region": "Jönköping County",
+    "lat": 57.3044,
+    "lon": 13.5408,
+    "population": 14504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knivsta",
+    "region": "Uppsala County",
+    "lat": 59.7256,
+    "lon": 17.7875,
+    "population": 14390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Älvdalen",
+    "region": "Dalarna County",
+    "lat": 61.2277,
+    "lon": 14.0394,
+    "population": 14302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Färgelanda",
+    "region": "Västra Götaland County",
+    "lat": 58.5682,
+    "lon": 11.9924,
+    "population": 14285,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Råneå",
+    "region": "Norrbotten County",
+    "lat": 65.8548,
+    "lon": 22.2913,
+    "population": 14262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alunda",
+    "region": "Uppsala County",
+    "lat": 60.2667,
+    "lon": 18.4,
+    "population": 14245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arboga",
+    "region": "Västmanland County",
+    "lat": 59.3939,
+    "lon": 15.8388,
+    "population": 14217,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bergby",
+    "region": "Gävleborg County",
+    "lat": 60.9293,
+    "lon": 17.0419,
+    "population": 14202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vattholma",
+    "region": "Uppsala County",
+    "lat": 60.0167,
+    "lon": 17.7333,
+    "population": 14197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ekeby-Almby",
+    "region": "Örebro County",
+    "lat": 59.26,
+    "lon": 15.33,
+    "population": 14129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bollmora",
+    "region": "Stockholm County",
+    "lat": 59.242,
+    "lon": 18.2276,
+    "population": 14123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hedesunda",
+    "region": "Gävleborg County",
+    "lat": 60.4,
+    "lon": 17,
+    "population": 14082,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Eslöv",
+    "region": "Skåne County",
+    "lat": 55.8393,
+    "lon": 13.3039,
+    "population": 14077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Herrljunga",
+    "region": "Västra Götaland County",
+    "lat": 58.0774,
+    "lon": 13.0266,
+    "population": 14060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siljansnäs",
+    "region": "Dalarna County",
+    "lat": 60.7833,
+    "lon": 14.85,
+    "population": 13974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valbo",
+    "region": "Gävleborg County",
+    "lat": 60.65,
+    "lon": 17.0333,
+    "population": 13872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bårslöv",
+    "region": "Skåne County",
+    "lat": 56.0091,
+    "lon": 12.8058,
+    "population": 13796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haparanda",
+    "region": "Norrbotten County",
+    "lat": 65.8355,
+    "lon": 24.1368,
+    "population": 13768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Köping",
+    "region": "Västmanland County",
+    "lat": 59.514,
+    "lon": 15.9925,
+    "population": 13724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bollstabruk",
+    "region": "Västernorrland County",
+    "lat": 62.9978,
+    "lon": 17.6735,
+    "population": 13695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Steninge",
+    "region": "Halland County",
+    "lat": 56.769,
+    "lon": 12.6303,
+    "population": 13567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vindeln",
+    "region": "Västerbotten County",
+    "lat": 64.2018,
+    "lon": 19.7194,
+    "population": 13558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viskafors",
+    "region": "Västra Götaland County",
+    "lat": 57.6294,
+    "lon": 12.8489,
+    "population": 13482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Björboholm",
+    "region": "Västra Götaland County",
+    "lat": 57.871,
+    "lon": 12.3255,
+    "population": 13471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rättvik",
+    "region": "Dalarna County",
+    "lat": 60.8863,
+    "lon": 15.1179,
+    "population": 13425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teckomatorp",
+    "region": "Skåne County",
+    "lat": 55.8667,
+    "lon": 13.0833,
+    "population": 13214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bengtsfors",
+    "region": "Västra Götaland County",
+    "lat": 59.0291,
+    "lon": 12.2321,
+    "population": 13135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fritsla",
+    "region": "Västra Götaland County",
+    "lat": 57.5566,
+    "lon": 12.7846,
+    "population": 13127,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Forserum",
+    "region": "Jönköping County",
+    "lat": 57.7,
+    "lon": 14.4667,
+    "population": 13105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årjäng",
+    "region": "Värmland County",
+    "lat": 59.3922,
+    "lon": 12.1334,
+    "population": 13061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Braås",
+    "region": "Kronoberg County",
+    "lat": 57.0667,
+    "lon": 15.05,
+    "population": 13034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strängnäs",
+    "region": "Södermanland County",
+    "lat": 59.3774,
+    "lon": 17.0312,
+    "population": 12901,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åsa",
+    "region": "Halland County",
+    "lat": 57.35,
+    "lon": 12.1167,
+    "population": 12853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skellefteå",
+    "region": "Västerbotten County",
+    "lat": 64.7507,
+    "lon": 20.9528,
+    "population": 12833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Örbyhus",
+    "region": "Uppsala County",
+    "lat": 60.2241,
+    "lon": 17.7014,
+    "population": 12761,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Björklinge",
+    "region": "Uppsala County",
+    "lat": 60.03,
+    "lon": 17.552,
+    "population": 12750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Västra Frölunda",
+    "region": "Västra Götaland County",
+    "lat": 57.6467,
+    "lon": 11.9294,
+    "population": 12745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vintrosa",
+    "region": "Örebro County",
+    "lat": 59.25,
+    "lon": 14.95,
+    "population": 12708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kållered",
+    "region": "Västra Götaland County",
+    "lat": 57.6099,
+    "lon": 12.0511,
+    "population": 12687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roknäs",
+    "region": "Norrbotten County",
+    "lat": 65.35,
+    "lon": 21.2,
+    "population": 12687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smedby",
+    "region": "Kalmar County",
+    "lat": 56.6741,
+    "lon": 16.2432,
+    "population": 12648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stallarholmen",
+    "region": "Södermanland County",
+    "lat": 59.3667,
+    "lon": 17.2,
+    "population": 12407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jakobsberg",
+    "region": "Stockholm County",
+    "lat": 59.4227,
+    "lon": 17.8351,
+    "population": 12378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Skara",
+    "region": "Västra Götaland County",
+    "lat": 58.3866,
+    "lon": 13.4384,
+    "population": 12367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Örebro",
+    "region": "Örebro County",
+    "lat": 59.2741,
+    "lon": 15.2066,
+    "population": 12320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ellös",
+    "region": "Västra Götaland County",
+    "lat": 58.1833,
+    "lon": 11.4667,
+    "population": 12318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jursla",
+    "region": "Östergötland County",
+    "lat": 58.6667,
+    "lon": 16.1833,
+    "population": 12284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jonstorp",
+    "region": "Skåne County",
+    "lat": 56.2338,
+    "lon": 12.6718,
+    "population": 12225,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dals Långed",
+    "region": "Västra Götaland County",
+    "lat": 58.9256,
+    "lon": 12.3087,
+    "population": 12216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tranås",
+    "region": "Jönköping County",
+    "lat": 58.0372,
+    "lon": 14.9782,
+    "population": 12171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åstorp",
+    "region": "Skåne County",
+    "lat": 56.1357,
+    "lon": 12.9443,
+    "population": 12140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Långsele",
+    "region": "Västerbotten County",
+    "lat": 64.8167,
+    "lon": 20.25,
+    "population": 12111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boliden",
+    "region": "Västerbotten County",
+    "lat": 64.8667,
+    "lon": 20.3833,
+    "population": 12046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Järvsö",
+    "region": "Gävleborg County",
+    "lat": 61.7167,
+    "lon": 16.1667,
+    "population": 11980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Råsunda",
+    "region": "Stockholm County",
+    "lat": 59.3659,
+    "lon": 17.9957,
+    "population": 11958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Falköping",
+    "region": "Västra Götaland County",
+    "lat": 58.1735,
+    "lon": 13.5507,
+    "population": 11872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trosa",
+    "region": "Södermanland County",
+    "lat": 58.8962,
+    "lon": 17.5481,
+    "population": 11869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vargön",
+    "region": "Västra Götaland County",
+    "lat": 58.356,
+    "lon": 12.3906,
+    "population": 11668,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smålandsstenar",
+    "region": "Jönköping County",
+    "lat": 57.1624,
+    "lon": 13.4121,
+    "population": 11538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Billeberga",
+    "region": "Skåne County",
+    "lat": 55.8833,
+    "lon": 13,
+    "population": 11521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Resarö",
+    "region": "Stockholm County",
+    "lat": 59.4291,
+    "lon": 18.3339,
+    "population": 11520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Horred",
+    "region": "Västra Götaland County",
+    "lat": 57.3548,
+    "lon": 12.4778,
+    "population": 11491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bua",
+    "region": "Halland County",
+    "lat": 57.2378,
+    "lon": 12.1219,
+    "population": 11445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Odensbacken",
+    "region": "Örebro County",
+    "lat": 59.1667,
+    "lon": 15.5333,
+    "population": 11435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gantofta",
+    "region": "Skåne County",
+    "lat": 55.9873,
+    "lon": 12.8048,
+    "population": 11408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tingsryd",
+    "region": "Kronoberg County",
+    "lat": 56.5247,
+    "lon": 14.979,
+    "population": 11207,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Njurundabommen",
+    "region": "Västernorrland County",
+    "lat": 62.2634,
+    "lon": 17.3835,
+    "population": 11191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Färjestaden",
+    "region": "Kalmar County",
+    "lat": 56.6499,
+    "lon": 16.4686,
+    "population": 11054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arvidsjaur",
+    "region": "Norrbotten County",
+    "lat": 65.5903,
+    "lon": 19.1668,
+    "population": 11053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mjällby",
+    "region": "Halland County",
+    "lat": 56.6833,
+    "lon": 12.7667,
+    "population": 10952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Åkersberga",
+    "region": "Stockholm County",
+    "lat": 59.4794,
+    "lon": 18.2997,
+    "population": 10916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Årsunda",
+    "region": "Gävleborg County",
+    "lat": 60.5164,
+    "lon": 16.7344,
+    "population": 10890,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Norra Åsum",
+    "region": "Skåne County",
+    "lat": 55.9833,
+    "lon": 14.15,
+    "population": 10873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hemmesta",
+    "region": "Stockholm County",
+    "lat": 59.3227,
+    "lon": 18.4868,
+    "population": 10762,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tumba",
+    "region": "Stockholm County",
+    "lat": 59.1986,
+    "lon": 17.8332,
+    "population": 10747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olstorp",
+    "region": "Västra Götaland County",
+    "lat": 57.8228,
+    "lon": 12.277,
+    "population": 10728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svängsta",
+    "region": "Blekinge",
+    "lat": 56.2667,
+    "lon": 14.7667,
+    "population": 10720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vasastan",
+    "region": "Stockholm County",
+    "lat": 59.3457,
+    "lon": 18.0498,
+    "population": 10705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lerum",
+    "region": "Västra Götaland County",
+    "lat": 57.7705,
+    "lon": 12.269,
+    "population": 10671,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nolby",
+    "region": "Västernorrland County",
+    "lat": 62.2875,
+    "lon": 17.3692,
+    "population": 10669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Majorna",
+    "region": "Västra Götaland County",
+    "lat": 57.6919,
+    "lon": 11.9161,
+    "population": 10613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oxie",
+    "region": "Skåne County",
+    "lat": 55.5401,
+    "lon": 13.096,
+    "population": 10577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stockaryd",
+    "region": "Jönköping County",
+    "lat": 57.3174,
+    "lon": 14.5934,
+    "population": 10566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sturkö",
+    "region": "Blekinge",
+    "lat": 56.0833,
+    "lon": 15.7,
+    "population": 10472,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dingtuna",
+    "region": "Västmanland County",
+    "lat": 59.5728,
+    "lon": 16.3872,
+    "population": 10460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klippan",
+    "region": "Skåne County",
+    "lat": 56.1356,
+    "lon": 13.1309,
+    "population": 10402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Virserum",
+    "region": "Kalmar County",
+    "lat": 57.3167,
+    "lon": 15.5833,
+    "population": 10386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fjugesta",
+    "region": "Örebro County",
+    "lat": 59.1737,
+    "lon": 14.8723,
+    "population": 10331,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ryd",
+    "region": "Kronoberg County",
+    "lat": 56.4667,
+    "lon": 14.6833,
+    "population": 10317,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varberg",
+    "region": "Halland County",
+    "lat": 57.1056,
+    "lon": 12.2508,
+    "population": 10313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oskarshamn",
+    "region": "Kalmar County",
+    "lat": 57.2645,
+    "lon": 16.4484,
+    "population": 10300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Österbybruk",
+    "region": "Uppsala County",
+    "lat": 60.2,
+    "lon": 17.9,
+    "population": 10257,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huskvarna",
+    "region": "Jönköping County",
+    "lat": 57.786,
+    "lon": 14.3021,
+    "population": 10252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hofors",
+    "region": "Gävleborg County",
+    "lat": 60.5457,
+    "lon": 16.2867,
+    "population": 10215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tormestorp",
+    "region": "Skåne County",
+    "lat": 56.1135,
+    "lon": 13.7452,
+    "population": 10189,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brastad",
+    "region": "Västra Götaland County",
+    "lat": 58.3833,
+    "lon": 11.4833,
+    "population": 10105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vittsjö",
+    "region": "Skåne County",
+    "lat": 56.3437,
+    "lon": 13.6608,
+    "population": 10019,
+    "timezone": "UTC"
+  }
+]

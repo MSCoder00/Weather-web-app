@@ -1,0 +1,4034 @@
+[
+  {
+    "name": "Obshtina Dolni Dabnik",
+    "region": "Pleven Province",
+    "lat": 43.3667,
+    "lon": 24.4167,
+    "population": 49875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boynitsa",
+    "region": "Vidin Province",
+    "lat": 43.9565,
+    "lon": 22.5326,
+    "population": 49766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Glavinitsa",
+    "region": "Silistra Province",
+    "lat": 43.95,
+    "lon": 26.85,
+    "population": 49665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bozhurishte",
+    "region": "Sofia Province",
+    "lat": 42.75,
+    "lon": 23.2,
+    "population": 49531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Alfatar",
+    "region": "Silistra Province",
+    "lat": 43.9,
+    "lon": 27.3333,
+    "population": 49400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stamboliyski",
+    "region": "Plovdiv Province",
+    "lat": 42.1333,
+    "lon": 24.5333,
+    "population": 49386,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Belene",
+    "region": "Pleven Province",
+    "lat": 43.6333,
+    "lon": 25.1333,
+    "population": 49265,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Oryahovo",
+    "region": "Vratsa Province",
+    "lat": 43.6904,
+    "lon": 23.9864,
+    "population": 49142,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Veliko Tŭrnovo",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.0824,
+    "lon": 25.632,
+    "population": 49088,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asparuhovo",
+    "region": "Varna Province",
+    "lat": 43.1807,
+    "lon": 27.8882,
+    "population": 49077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Opaka",
+    "region": "Targovishte Province",
+    "lat": 43.45,
+    "lon": 26.1667,
+    "population": 48731,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Veliko Tŭrnovo",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.0812,
+    "lon": 25.629,
+    "population": 48633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dragoman",
+    "region": "Sofia Province",
+    "lat": 42.9219,
+    "lon": 22.9311,
+    "population": 48599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Belovo",
+    "region": "Pazardzhik Province",
+    "lat": 42.2,
+    "lon": 23.9333,
+    "population": 48483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Samokov",
+    "region": "Sofia Province",
+    "lat": 42.3333,
+    "lon": 23.55,
+    "population": 48477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Yakoruda",
+    "region": "Blagoevgrad Province",
+    "lat": 42.0833,
+    "lon": 23.7,
+    "population": 48372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dobrich-Selska",
+    "region": "Dobrich Province",
+    "lat": 43.6333,
+    "lon": 27.7333,
+    "population": 48323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Harmanli",
+    "region": "Haskovo Province",
+    "lat": 41.9333,
+    "lon": 25.9833,
+    "population": 48255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byala",
+    "region": "Varna Province",
+    "lat": 42.8743,
+    "lon": 27.8886,
+    "population": 48107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Nova Zagora",
+    "region": "Sliven Province",
+    "lat": 42.45,
+    "lon": 26.05,
+    "population": 48070,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nevestino",
+    "region": "Kyustendil Province",
+    "lat": 42.2555,
+    "lon": 22.8517,
+    "population": 47982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlataritsa",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.05,
+    "lon": 25.9,
+    "population": 47916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kirkovo",
+    "region": "Kardzhali Province",
+    "lat": 41.3582,
+    "lon": 25.3373,
+    "population": 47903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Bobov Dol",
+    "region": "Kyustendil Province",
+    "lat": 42.3167,
+    "lon": 22.9833,
+    "population": 47775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pernik",
+    "region": "Pernik Province",
+    "lat": 42.6,
+    "lon": 23.0333,
+    "population": 47728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samuil",
+    "region": "Razgrad Province",
+    "lat": 43.5167,
+    "lon": 26.75,
+    "population": 47616,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Chepelare",
+    "region": "Smolyan Province",
+    "lat": 41.8,
+    "lon": 24.6833,
+    "population": 47326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belene",
+    "region": "Pleven Province",
+    "lat": 43.6459,
+    "lon": 25.1263,
+    "population": 47313,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mineralni Bani",
+    "region": "Haskovo Province",
+    "lat": 41.9167,
+    "lon": 25.35,
+    "population": 47268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Valchidol",
+    "region": "Varna Province",
+    "lat": 43.45,
+    "lon": 27.5,
+    "population": 47191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Gotse Delchev",
+    "region": "Blagoevgrad Province",
+    "lat": 41.6333,
+    "lon": 23.6833,
+    "population": 47091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dzhebel",
+    "region": "Kardzhali Province",
+    "lat": 41.5,
+    "lon": 25.2667,
+    "population": 47086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krushari",
+    "region": "Dobrich Province",
+    "lat": 43.8167,
+    "lon": 27.7555,
+    "population": 47063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kostinbrod",
+    "region": "Sofia Province",
+    "lat": 42.8833,
+    "lon": 23.2,
+    "population": 46938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topolovgrad",
+    "region": "Haskovo Province",
+    "lat": 42.0833,
+    "lon": 26.3333,
+    "population": 46864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Satovcha",
+    "region": "Blagoevgrad Province",
+    "lat": 41.5985,
+    "lon": 24.0078,
+    "population": 46846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dimovo",
+    "region": "Vidin Province",
+    "lat": 43.7417,
+    "lon": 22.7269,
+    "population": 46773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Debelets",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.0333,
+    "lon": 25.6167,
+    "population": 46708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlatograd",
+    "region": "Smolyan Province",
+    "lat": 41.3795,
+    "lon": 25.0961,
+    "population": 46654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Razlog",
+    "region": "Blagoevgrad Province",
+    "lat": 41.8863,
+    "lon": 23.4671,
+    "population": 46633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sitovo",
+    "region": "Silistra Province",
+    "lat": 44.0167,
+    "lon": 27,
+    "population": 46567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kostenets",
+    "region": "Sofia Province",
+    "lat": 42.3,
+    "lon": 23.8667,
+    "population": 46545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shipka",
+    "region": "Stara Zagora Province",
+    "lat": 42.7167,
+    "lon": 25.3333,
+    "population": 46330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Beloslav",
+    "region": "Varna Province",
+    "lat": 43.1896,
+    "lon": 27.7043,
+    "population": 46261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byala Slatina",
+    "region": "Vratsa Province",
+    "lat": 43.4667,
+    "lon": 23.9333,
+    "population": 46023,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lukovit",
+    "region": "Lovech Province",
+    "lat": 43.2,
+    "lon": 24.1667,
+    "population": 46022,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boboshevo",
+    "region": "Kyustendil Province",
+    "lat": 42.153,
+    "lon": 23.0015,
+    "population": 45980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pazardzhik",
+    "region": "Pazardzhik Province",
+    "lat": 42.2,
+    "lon": 24.3333,
+    "population": 45703,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koynare",
+    "region": "Pleven Province",
+    "lat": 43.35,
+    "lon": 24.1333,
+    "population": 45695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ahtopol",
+    "region": "Burgas Province",
+    "lat": 42.0977,
+    "lon": 27.9396,
+    "population": 45453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dryanovo",
+    "region": "Gabrovo Province",
+    "lat": 42.979,
+    "lon": 25.4785,
+    "population": 45380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perushtitsa",
+    "region": "Plovdiv Province",
+    "lat": 42.05,
+    "lon": 24.55,
+    "population": 45215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shumen",
+    "region": "Shumen",
+    "lat": 43.2833,
+    "lon": 26.9333,
+    "population": 45206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Zemen",
+    "region": "Pernik Province",
+    "lat": 42.5507,
+    "lon": 22.7144,
+    "population": 45015,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pordim",
+    "region": "Pleven Province",
+    "lat": 43.3833,
+    "lon": 24.85,
+    "population": 44967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svilengrad",
+    "region": "Haskovo Province",
+    "lat": 41.7667,
+    "lon": 26.2,
+    "population": 44931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bratsigovo",
+    "region": "Pazardzhik Province",
+    "lat": 42.0167,
+    "lon": 24.3667,
+    "population": 44919,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolarovo",
+    "region": "Blagoevgrad Province",
+    "lat": 41.3638,
+    "lon": 23.1067,
+    "population": 44580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsar Kaloyan",
+    "region": "Razgrad Province",
+    "lat": 43.6167,
+    "lon": 26.25,
+    "population": 44557,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Opaka",
+    "region": "Targovishte Province",
+    "lat": 43.4667,
+    "lon": 26.15,
+    "population": 44459,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Polski Trambesh",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.35,
+    "lon": 25.5833,
+    "population": 44271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorna Oryahovitsa",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.1278,
+    "lon": 25.7017,
+    "population": 44144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dimovo",
+    "region": "Vidin Province",
+    "lat": 43.75,
+    "lon": 22.8167,
+    "population": 43987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Aytos",
+    "region": "Burgas Province",
+    "lat": 42.7,
+    "lon": 27.25,
+    "population": 43842,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Balchik",
+    "region": "Dobrich Province",
+    "lat": 43.5,
+    "lon": 28.1333,
+    "population": 43764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Saedinenie",
+    "region": "Plovdiv Province",
+    "lat": 42.3167,
+    "lon": 24.5833,
+    "population": 43591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuprene",
+    "region": "Vidin Province",
+    "lat": 43.5181,
+    "lon": 22.6661,
+    "population": 43481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banite",
+    "region": "Smolyan Province",
+    "lat": 41.6167,
+    "lon": 25.0167,
+    "population": 43460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Ivanovo",
+    "region": "Ruse Province",
+    "lat": 43.7,
+    "lon": 25.9833,
+    "population": 43407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Targovishte",
+    "region": "Targovishte Province",
+    "lat": 43.25,
+    "lon": 26.5667,
+    "population": 43383,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Silistra",
+    "region": "Silistra Province",
+    "lat": 44.0333,
+    "lon": 27.2,
+    "population": 43347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strelcha",
+    "region": "Pazardzhik Province",
+    "lat": 42.5,
+    "lon": 24.3167,
+    "population": 43259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Chernoochene",
+    "region": "Kardzhali Province",
+    "lat": 41.7833,
+    "lon": 25.25,
+    "population": 43206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Svoge",
+    "region": "Sofia Province",
+    "lat": 43,
+    "lon": 23.4,
+    "population": 43028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Smolyan",
+    "region": "Smolyan Province",
+    "lat": 41.5752,
+    "lon": 24.713,
+    "population": 42964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolna Mitropolia",
+    "region": "Pleven Province",
+    "lat": 43.4667,
+    "lon": 24.5333,
+    "population": 42935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dimitrovgrad",
+    "region": "Haskovo Province",
+    "lat": 42.05,
+    "lon": 25.6,
+    "population": 42893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Nedelino",
+    "region": "Smolyan Province",
+    "lat": 41.4689,
+    "lon": 25.0948,
+    "population": 42886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slavyanovo",
+    "region": "Pleven Province",
+    "lat": 43.4667,
+    "lon": 24.8667,
+    "population": 42851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gurkovo",
+    "region": "Stara Zagora Province",
+    "lat": 42.6667,
+    "lon": 25.8,
+    "population": 42820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina General Toshevo",
+    "region": "Dobrich Province",
+    "lat": 43.7333,
+    "lon": 28.0833,
+    "population": 42778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lakatnik",
+    "region": "Sofia Province",
+    "lat": 43.05,
+    "lon": 23.4,
+    "population": 42545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slivo Pole",
+    "region": "Ruse Province",
+    "lat": 43.9425,
+    "lon": 26.2046,
+    "population": 42465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tran",
+    "region": "Pernik Province",
+    "lat": 42.8353,
+    "lon": 22.6517,
+    "population": 42450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pravets",
+    "region": "Sofia Province",
+    "lat": 42.9667,
+    "lon": 23.9833,
+    "population": 42372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borino",
+    "region": "Smolyan Province",
+    "lat": 41.6841,
+    "lon": 24.293,
+    "population": 42347,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Provadia",
+    "region": "Varna Province",
+    "lat": 43.1833,
+    "lon": 27.4333,
+    "population": 42296,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stara Kresna",
+    "region": "Blagoevgrad Province",
+    "lat": 41.8,
+    "lon": 23.1833,
+    "population": 42248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Boynitsa",
+    "region": "Vidin Province",
+    "lat": 44,
+    "lon": 22.55,
+    "population": 42215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Momchilgrad",
+    "region": "Kardzhali Province",
+    "lat": 41.5333,
+    "lon": 25.5,
+    "population": 41955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sapareva Banya",
+    "region": "Kyustendil Province",
+    "lat": 42.2833,
+    "lon": 23.3167,
+    "population": 41898,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madzharovo",
+    "region": "Haskovo Province",
+    "lat": 41.6346,
+    "lon": 25.8644,
+    "population": 41853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Slivnitsa",
+    "region": "Sofia Province",
+    "lat": 42.85,
+    "lon": 22.9833,
+    "population": 41696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chelopech",
+    "region": "Sofia Province",
+    "lat": 42.7,
+    "lon": 24.0833,
+    "population": 41385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirdop",
+    "region": "Sofia Province",
+    "lat": 42.7,
+    "lon": 24.1833,
+    "population": 41343,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Galabovo",
+    "region": "Stara Zagora Province",
+    "lat": 42.15,
+    "lon": 25.9667,
+    "population": 41333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sapareva Banya",
+    "region": "Kyustendil Province",
+    "lat": 42.2833,
+    "lon": 23.2667,
+    "population": 41284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kresna",
+    "region": "Blagoevgrad Province",
+    "lat": 41.7333,
+    "lon": 23.15,
+    "population": 41269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kostinbrod",
+    "region": "Sofia Province",
+    "lat": 42.8167,
+    "lon": 23.2167,
+    "population": 41210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Stara Zagora",
+    "region": "Stara Zagora Province",
+    "lat": 42.4167,
+    "lon": 25.6333,
+    "population": 41135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kuklen",
+    "region": "Plovdiv Province",
+    "lat": 42.0373,
+    "lon": 24.7795,
+    "population": 41111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Tsar Kaloyan",
+    "region": "Razgrad Province",
+    "lat": 43.6,
+    "lon": 26.2167,
+    "population": 41080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Madan",
+    "region": "Smolyan Province",
+    "lat": 41.5333,
+    "lon": 24.9667,
+    "population": 41075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vetovo",
+    "region": "Ruse Province",
+    "lat": 43.7,
+    "lon": 26.2667,
+    "population": 40873,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aytos",
+    "region": "Burgas Province",
+    "lat": 42.7,
+    "lon": 27.25,
+    "population": 40725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Maglizh",
+    "region": "Stara Zagora Province",
+    "lat": 42.6333,
+    "lon": 25.6167,
+    "population": 40608,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Burgas",
+    "region": "Burgas Province",
+    "lat": 42.5,
+    "lon": 27.4667,
+    "population": 40491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Byala Cherkva",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.2,
+    "lon": 25.3,
+    "population": 40426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Targovishte",
+    "region": "Targovishte Province",
+    "lat": 43.2512,
+    "lon": 26.5722,
+    "population": 40168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Klisura",
+    "region": "Plovdiv Province",
+    "lat": 42.7,
+    "lon": 24.45,
+    "population": 40119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topolovo",
+    "region": "Plovdiv Province",
+    "lat": 41.9,
+    "lon": 25,
+    "population": 39948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pavlikeni",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.2833,
+    "lon": 25.35,
+    "population": 39772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Cherven Bryag",
+    "region": "Pleven Province",
+    "lat": 43.3333,
+    "lon": 24.1333,
+    "population": 39759,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Gorna Malina",
+    "region": "Sofia Province",
+    "lat": 42.7167,
+    "lon": 23.8,
+    "population": 39717,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Elena",
+    "region": "Veliko Tarnovo Province",
+    "lat": 42.9167,
+    "lon": 25.95,
+    "population": 39590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krichim",
+    "region": "Plovdiv Province",
+    "lat": 42.05,
+    "lon": 24.4667,
+    "population": 39568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivanovo",
+    "region": "Ruse Province",
+    "lat": 43.6857,
+    "lon": 25.9556,
+    "population": 39500,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ihtiman",
+    "region": "Sofia Province",
+    "lat": 42.4333,
+    "lon": 23.8167,
+    "population": 39467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sungurlare",
+    "region": "Burgas Province",
+    "lat": 42.8333,
+    "lon": 26.8333,
+    "population": 39452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ardino",
+    "region": "Kardzhali Province",
+    "lat": 41.5833,
+    "lon": 25.1333,
+    "population": 39375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Makresh",
+    "region": "Vidin Province",
+    "lat": 43.7679,
+    "lon": 22.6641,
+    "population": 39348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dupnitsa",
+    "region": "Kyustendil Province",
+    "lat": 42.2833,
+    "lon": 23.15,
+    "population": 39139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kardzhali",
+    "region": "Kardzhali Province",
+    "lat": 41.65,
+    "lon": 25.3667,
+    "population": 39033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruen",
+    "region": "Burgas Province",
+    "lat": 42.8,
+    "lon": 27.2833,
+    "population": 38976,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Varshets",
+    "region": "Montana Province",
+    "lat": 43.2167,
+    "lon": 23.3333,
+    "population": 38907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruzhintsi",
+    "region": "Vidin Province",
+    "lat": 43.6218,
+    "lon": 22.8329,
+    "population": 38887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elin Pelin",
+    "region": "Sofia Province",
+    "lat": 42.6667,
+    "lon": 23.6,
+    "population": 38865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Opan",
+    "region": "Stara Zagora Province",
+    "lat": 42.2167,
+    "lon": 25.7,
+    "population": 38846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kalofer",
+    "region": "Plovdiv Province",
+    "lat": 42.6167,
+    "lon": 24.9833,
+    "population": 38817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tervel",
+    "region": "Dobrich Province",
+    "lat": 43.7479,
+    "lon": 27.4091,
+    "population": 38755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Polski Trambesh",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.3723,
+    "lon": 25.6352,
+    "population": 38744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Karnobat",
+    "region": "Burgas Province",
+    "lat": 42.65,
+    "lon": 26.9833,
+    "population": 38708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarafovo",
+    "region": "Burgas Province",
+    "lat": 42.5608,
+    "lon": 27.522,
+    "population": 38614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belitsa",
+    "region": "Blagoevgrad Province",
+    "lat": 41.9569,
+    "lon": 23.5725,
+    "population": 38469,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dryanovo",
+    "region": "Gabrovo Province",
+    "lat": 43,
+    "lon": 25.4667,
+    "population": 38456,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sliven",
+    "region": "Sliven Province",
+    "lat": 42.6667,
+    "lon": 26.3167,
+    "population": 38367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rila",
+    "region": "Kyustendil Province",
+    "lat": 42.1333,
+    "lon": 23.1333,
+    "population": 38233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kotel",
+    "region": "Sliven Province",
+    "lat": 42.8833,
+    "lon": 26.45,
+    "population": 38200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strumyani",
+    "region": "Blagoevgrad Province",
+    "lat": 41.6333,
+    "lon": 23.2,
+    "population": 38152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Strumyani",
+    "region": "Blagoevgrad Province",
+    "lat": 41.6333,
+    "lon": 23.2,
+    "population": 38124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlatni Pyasatsi",
+    "region": "Varna Province",
+    "lat": 43.285,
+    "lon": 28.0418,
+    "population": 38045,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Suvorovo",
+    "region": "Varna Province",
+    "lat": 43.3333,
+    "lon": 27.65,
+    "population": 37977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balgarevo",
+    "region": "Varna Province",
+    "lat": 43.403,
+    "lon": 28.4119,
+    "population": 37950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Slivnitsa",
+    "region": "Sofia Province",
+    "lat": 42.8518,
+    "lon": 23.0379,
+    "population": 37872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Breznik",
+    "region": "Pernik Province",
+    "lat": 42.7409,
+    "lon": 22.9072,
+    "population": 37718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loznitsa",
+    "region": "Razgrad Province",
+    "lat": 43.3667,
+    "lon": 26.6,
+    "population": 37564,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Antonovo",
+    "region": "Targovishte Province",
+    "lat": 43.1167,
+    "lon": 26.2,
+    "population": 37553,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Ivaylovgrad",
+    "region": "Haskovo Province",
+    "lat": 41.4833,
+    "lon": 26,
+    "population": 37528,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Balchik",
+    "region": "Dobrich Province",
+    "lat": 43.4217,
+    "lon": 28.1585,
+    "population": 37516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Roman",
+    "region": "Vratsa Province",
+    "lat": 43.15,
+    "lon": 23.9167,
+    "population": 37492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Boboshevo",
+    "region": "Kyustendil Province",
+    "lat": 42.1833,
+    "lon": 23.0273,
+    "population": 37436,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dolna Banya",
+    "region": "Sofia Province",
+    "lat": 42.3,
+    "lon": 23.7667,
+    "population": 37366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laki",
+    "region": "Plovdiv Province",
+    "lat": 41.85,
+    "lon": 24.8167,
+    "population": 37275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Rodopi",
+    "region": "Plovdiv Province",
+    "lat": 42.0333,
+    "lon": 24.6833,
+    "population": 37000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Svilengrad",
+    "region": "Haskovo Province",
+    "lat": 41.8667,
+    "lon": 26.3167,
+    "population": 36692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kubrat",
+    "region": "Razgrad Province",
+    "lat": 43.7966,
+    "lon": 26.5006,
+    "population": 36598,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petrich",
+    "region": "Blagoevgrad Province",
+    "lat": 41.3985,
+    "lon": 23.207,
+    "population": 36536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Aksakovo",
+    "region": "Varna Province",
+    "lat": 43.3167,
+    "lon": 27.85,
+    "population": 36521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koprivshtitsa",
+    "region": "Sofia Province",
+    "lat": 42.6333,
+    "lon": 24.35,
+    "population": 36486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Knezha",
+    "region": "Pleven Province",
+    "lat": 43.5,
+    "lon": 24.1167,
+    "population": 36345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gramada",
+    "region": "Vidin Province",
+    "lat": 43.8374,
+    "lon": 22.6528,
+    "population": 35964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiten",
+    "region": "Varna Province",
+    "lat": 43.0833,
+    "lon": 27.3167,
+    "population": 35725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Godech",
+    "region": "Sofia Province",
+    "lat": 43.0168,
+    "lon": 23.0485,
+    "population": 35715,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devin",
+    "region": "Smolyan Province",
+    "lat": 41.7433,
+    "lon": 24.4,
+    "population": 35690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gulyantsi",
+    "region": "Pleven Province",
+    "lat": 43.6411,
+    "lon": 24.6937,
+    "population": 35684,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Byala",
+    "region": "Varna Province",
+    "lat": 42.8833,
+    "lon": 27.8167,
+    "population": 35659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Velingrad",
+    "region": "Pazardzhik Province",
+    "lat": 42.0275,
+    "lon": 23.9916,
+    "population": 35542,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dragoman",
+    "region": "Sofia Province",
+    "lat": 42.9333,
+    "lon": 22.9333,
+    "population": 35521,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nikolaevo",
+    "region": "Stara Zagora Province",
+    "lat": 42.6333,
+    "lon": 25.8,
+    "population": 35407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ugarchin",
+    "region": "Lovech Province",
+    "lat": 43.1,
+    "lon": 24.4167,
+    "population": 35387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bobov Dol",
+    "region": "Kyustendil Province",
+    "lat": 42.3626,
+    "lon": 23.0032,
+    "population": 35360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belogradchik",
+    "region": "Vidin Province",
+    "lat": 43.6272,
+    "lon": 22.6836,
+    "population": 35292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pleven",
+    "region": "Pleven Province",
+    "lat": 43.4167,
+    "lon": 24.6167,
+    "population": 35273,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Nevestino",
+    "region": "Kyustendil Province",
+    "lat": 42.1667,
+    "lon": 22.8333,
+    "population": 35216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsarevo",
+    "region": "Burgas Province",
+    "lat": 42.1696,
+    "lon": 27.8454,
+    "population": 35198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maglizh",
+    "region": "Stara Zagora Province",
+    "lat": 42.6,
+    "lon": 25.55,
+    "population": 35140,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Tsenovo",
+    "region": "Ruse Province",
+    "lat": 43.5833,
+    "lon": 25.6167,
+    "population": 35101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asen",
+    "region": "Stara Zagora Province",
+    "lat": 42.65,
+    "lon": 25.2,
+    "population": 34868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Gorna Oryahovitsa",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.2167,
+    "lon": 25.75,
+    "population": 34819,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Malko Tarnovo",
+    "region": "Burgas Province",
+    "lat": 42.0833,
+    "lon": 27.5333,
+    "population": 34545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Rakovski",
+    "region": "Plovdiv Province",
+    "lat": 42.2667,
+    "lon": 24.9833,
+    "population": 34458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Avren",
+    "region": "Varna Province",
+    "lat": 43.1,
+    "lon": 27.7167,
+    "population": 34407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pordim",
+    "region": "Pleven Province",
+    "lat": 43.3833,
+    "lon": 24.9,
+    "population": 34406,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senovo",
+    "region": "Ruse Province",
+    "lat": 43.65,
+    "lon": 26.3667,
+    "population": 34384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kazanlak",
+    "region": "Stara Zagora Province",
+    "lat": 42.6167,
+    "lon": 25.4,
+    "population": 34310,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teteven",
+    "region": "Lovech Province",
+    "lat": 42.9167,
+    "lon": 24.2667,
+    "population": 34280,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chernomorets",
+    "region": "Burgas Province",
+    "lat": 42.4441,
+    "lon": 27.639,
+    "population": 34253,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dobrich",
+    "region": "Dobrich Province",
+    "lat": 43.5667,
+    "lon": 27.8333,
+    "population": 34248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Borovan",
+    "region": "Vratsa Province",
+    "lat": 43.4333,
+    "lon": 23.75,
+    "population": 34170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alfatar",
+    "region": "Silistra Province",
+    "lat": 43.9453,
+    "lon": 27.2875,
+    "population": 34057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Shabla",
+    "region": "Dobrich Province",
+    "lat": 43.6167,
+    "lon": 28.5167,
+    "population": 33987,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kovachevtsi",
+    "region": "Pernik Province",
+    "lat": 42.55,
+    "lon": 22.8333,
+    "population": 33904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Razlog",
+    "region": "Blagoevgrad Province",
+    "lat": 41.95,
+    "lon": 23.4667,
+    "population": 33846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hisarya",
+    "region": "Plovdiv Province",
+    "lat": 42.5,
+    "lon": 24.7,
+    "population": 33780,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Silistra",
+    "region": "Silistra Province",
+    "lat": 44.1171,
+    "lon": 27.2606,
+    "population": 33709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kotel",
+    "region": "Sliven Province",
+    "lat": 42.8833,
+    "lon": 26.45,
+    "population": 33654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolni Dabnik",
+    "region": "Pleven Province",
+    "lat": 43.4,
+    "lon": 24.4333,
+    "population": 33607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dimitrovgrad",
+    "region": "Haskovo Province",
+    "lat": 42.05,
+    "lon": 25.6,
+    "population": 33395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Troyan",
+    "region": "Lovech Province",
+    "lat": 42.8943,
+    "lon": 24.7159,
+    "population": 33229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dolna Mitropolia",
+    "region": "Pleven Province",
+    "lat": 43.5833,
+    "lon": 24.4167,
+    "population": 33033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zavet",
+    "region": "Razgrad Province",
+    "lat": 43.7604,
+    "lon": 26.6806,
+    "population": 32939,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kameno",
+    "region": "Burgas Province",
+    "lat": 42.5167,
+    "lon": 27.1833,
+    "population": 32769,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Iskar",
+    "region": "Pleven Province",
+    "lat": 43.5,
+    "lon": 24.2833,
+    "population": 32729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Plovdiv",
+    "region": "Plovdiv Province",
+    "lat": 42.15,
+    "lon": 24.75,
+    "population": 32667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elena",
+    "region": "Veliko Tarnovo Province",
+    "lat": 42.9333,
+    "lon": 25.8833,
+    "population": 32538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Zlatitsa",
+    "region": "Sofia Province",
+    "lat": 42.7,
+    "lon": 24.1333,
+    "population": 32493,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Slivo Pole",
+    "region": "Ruse Province",
+    "lat": 43.9667,
+    "lon": 26.3,
+    "population": 32476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sofia",
+    "region": "Sofia City Province",
+    "lat": 42.6975,
+    "lon": 23.3241,
+    "population": 32452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valchedram",
+    "region": "Montana Province",
+    "lat": 43.6928,
+    "lon": 23.4452,
+    "population": 32425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isperih",
+    "region": "Razgrad Province",
+    "lat": 43.7167,
+    "lon": 26.8333,
+    "population": 32355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Mineralni Bani",
+    "region": "Haskovo Province",
+    "lat": 41.9,
+    "lon": 25.3333,
+    "population": 32231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kozloduy",
+    "region": "Vratsa Province",
+    "lat": 43.7786,
+    "lon": 23.7206,
+    "population": 32215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorna Malina",
+    "region": "Sofia Province",
+    "lat": 42.6833,
+    "lon": 23.7,
+    "population": 32159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Yambol",
+    "region": "Yambol Province",
+    "lat": 42.4833,
+    "lon": 26.5,
+    "population": 32118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarnitsa",
+    "region": "Pazardzhik Province",
+    "lat": 41.7383,
+    "lon": 24.0243,
+    "population": 32113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Gurkovo",
+    "region": "Stara Zagora Province",
+    "lat": 42.7167,
+    "lon": 25.8,
+    "population": 32061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiprovtsi",
+    "region": "Montana Province",
+    "lat": 43.3842,
+    "lon": 22.8808,
+    "population": 31967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Karlovo",
+    "region": "Plovdiv Province",
+    "lat": 42.6833,
+    "lon": 24.6667,
+    "population": 31893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pirdop",
+    "region": "Sofia Province",
+    "lat": 42.7,
+    "lon": 24.2333,
+    "population": 31749,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sliven",
+    "region": "Sliven Province",
+    "lat": 42.6858,
+    "lon": 26.3292,
+    "population": 31735,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kaloyanovo",
+    "region": "Plovdiv Province",
+    "lat": 42.3833,
+    "lon": 24.8167,
+    "population": 31696,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Mirkovo",
+    "region": "Sofia Province",
+    "lat": 42.6667,
+    "lon": 23.9667,
+    "population": 31687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Hisarya",
+    "region": "Plovdiv Province",
+    "lat": 42.5,
+    "lon": 24.6,
+    "population": 31627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varna",
+    "region": "Varna Province",
+    "lat": 43.2167,
+    "lon": 27.9167,
+    "population": 31619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iskar",
+    "region": "Pleven Province",
+    "lat": 43.45,
+    "lon": 24.2667,
+    "population": 31562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaynardzha",
+    "region": "Silistra Province",
+    "lat": 43.9928,
+    "lon": 27.5071,
+    "population": 31559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sredets",
+    "region": "Burgas Province",
+    "lat": 42.3475,
+    "lon": 27.179,
+    "population": 31523,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nesebar",
+    "region": "Burgas Province",
+    "lat": 42.6592,
+    "lon": 27.736,
+    "population": 31515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suhindol",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.1917,
+    "lon": 25.1811,
+    "population": 31447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rudozem",
+    "region": "Smolyan Province",
+    "lat": 41.4875,
+    "lon": 24.8495,
+    "population": 31320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Plovdiv",
+    "region": "Plovdiv Province",
+    "lat": 42.15,
+    "lon": 24.75,
+    "population": 31286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aheloy",
+    "region": "Burgas Province",
+    "lat": 42.6499,
+    "lon": 27.6484,
+    "population": 31162,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Garmen",
+    "region": "Blagoevgrad Province",
+    "lat": 41.7,
+    "lon": 23.85,
+    "population": 31161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dzhebel",
+    "region": "Kardzhali Province",
+    "lat": 41.4957,
+    "lon": 25.3036,
+    "population": 31105,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dolni Chiflik",
+    "region": "Varna Province",
+    "lat": 42.9667,
+    "lon": 27.6833,
+    "population": 31063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kozloduy",
+    "region": "Vratsa Province",
+    "lat": 43.7167,
+    "lon": 23.7333,
+    "population": 30946,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Berkovitsa",
+    "region": "Montana Province",
+    "lat": 43.2358,
+    "lon": 23.1274,
+    "population": 30892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Anton",
+    "region": "Sofia Province",
+    "lat": 42.75,
+    "lon": 24.2833,
+    "population": 30818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Georgi Damyanovo",
+    "region": "Montana Province",
+    "lat": 43.35,
+    "lon": 23,
+    "population": 30794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Svishtov",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.5333,
+    "lon": 25.35,
+    "population": 30755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medovene",
+    "region": "Razgrad Province",
+    "lat": 43.7667,
+    "lon": 26.5167,
+    "population": 30745,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sozopol",
+    "region": "Burgas Province",
+    "lat": 42.418,
+    "lon": 27.6956,
+    "population": 30409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kocherinovo",
+    "region": "Kyustendil Province",
+    "lat": 42.0844,
+    "lon": 23.0571,
+    "population": 30326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Provadia",
+    "region": "Varna Province",
+    "lat": 43.1833,
+    "lon": 27.4,
+    "population": 30252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Simitli",
+    "region": "Blagoevgrad Province",
+    "lat": 41.8833,
+    "lon": 23.1667,
+    "population": 30164,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valchidol",
+    "region": "Varna Province",
+    "lat": 43.4,
+    "lon": 27.55,
+    "population": 30037,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Septemvri",
+    "region": "Pazardzhik Province",
+    "lat": 42.2667,
+    "lon": 24.1333,
+    "population": 30027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Ruse",
+    "region": "Ruse Province",
+    "lat": 43.85,
+    "lon": 26.0833,
+    "population": 30014,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Byala",
+    "region": "Ruse Province",
+    "lat": 43.4167,
+    "lon": 25.8333,
+    "population": 29971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karnobat",
+    "region": "Burgas Province",
+    "lat": 42.65,
+    "lon": 26.9833,
+    "population": 29917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tutrakan",
+    "region": "Silistra Province",
+    "lat": 44.0491,
+    "lon": 26.6121,
+    "population": 29907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kaynardzha",
+    "region": "Silistra Province",
+    "lat": 43.95,
+    "lon": 27.5333,
+    "population": 29773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stara Zagora",
+    "region": "Stara Zagora Province",
+    "lat": 42.4328,
+    "lon": 25.6419,
+    "population": 29687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Haskovo",
+    "region": "Haskovo Province",
+    "lat": 41.9342,
+    "lon": 25.5556,
+    "population": 29686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Lovech",
+    "region": "Lovech Province",
+    "lat": 43.1667,
+    "lon": 24.8,
+    "population": 29641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Tvarditsa",
+    "region": "Sliven Province",
+    "lat": 42.7333,
+    "lon": 26,
+    "population": 29633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aksakovo",
+    "region": "Varna Province",
+    "lat": 43.2561,
+    "lon": 27.821,
+    "population": 29597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Hayredin",
+    "region": "Vratsa Province",
+    "lat": 43.5833,
+    "lon": 23.6667,
+    "population": 29591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brusartsi",
+    "region": "Montana Province",
+    "lat": 43.6608,
+    "lon": 23.0673,
+    "population": 29588,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bansko",
+    "region": "Blagoevgrad Province",
+    "lat": 41.8383,
+    "lon": 23.4885,
+    "population": 29507,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Anton",
+    "region": "Sofia Province",
+    "lat": 42.7667,
+    "lon": 24.3,
+    "population": 29473,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svoge",
+    "region": "Sofia Province",
+    "lat": 42.9667,
+    "lon": 23.35,
+    "population": 29417,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Gabrovo",
+    "region": "Gabrovo Province",
+    "lat": 42.9,
+    "lon": 25.3,
+    "population": 29366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hayredin",
+    "region": "Vratsa Province",
+    "lat": 43.6019,
+    "lon": 23.6613,
+    "population": 29252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Borino",
+    "region": "Smolyan Province",
+    "lat": 41.6483,
+    "lon": 24.3169,
+    "population": 29218,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Chirpan",
+    "region": "Stara Zagora Province",
+    "lat": 42.2333,
+    "lon": 25.3833,
+    "population": 29215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krivodol",
+    "region": "Vratsa Province",
+    "lat": 43.3744,
+    "lon": 23.4844,
+    "population": 28888,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Mezdra",
+    "region": "Vratsa Province",
+    "lat": 43.1333,
+    "lon": 23.7333,
+    "population": 28790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Straldzha",
+    "region": "Yambol Province",
+    "lat": 42.4833,
+    "lon": 26.7833,
+    "population": 28606,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Madzharovo",
+    "region": "Haskovo Province",
+    "lat": 41.6833,
+    "lon": 25.9,
+    "population": 28501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gabrovo",
+    "region": "Gabrovo Province",
+    "lat": 42.8747,
+    "lon": 25.3342,
+    "population": 28499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Panagyurishte",
+    "region": "Pazardzhik Province",
+    "lat": 42.5,
+    "lon": 24.1667,
+    "population": 28448,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Strazhitsa",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.2667,
+    "lon": 25.9833,
+    "population": 28370,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Smolyan",
+    "region": "Smolyan Province",
+    "lat": 41.5744,
+    "lon": 24.712,
+    "population": 28272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nikopol",
+    "region": "Pleven Province",
+    "lat": 43.7053,
+    "lon": 24.8952,
+    "population": 28081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Medkovets",
+    "region": "Montana Province",
+    "lat": 43.624,
+    "lon": 23.1688,
+    "population": 28034,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tvarditsa",
+    "region": "Sliven Province",
+    "lat": 42.7,
+    "lon": 25.9,
+    "population": 27985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Parvomay",
+    "region": "Plovdiv Province",
+    "lat": 42.0333,
+    "lon": 25.2,
+    "population": 27960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gyovren",
+    "region": "Smolyan Province",
+    "lat": 41.6633,
+    "lon": 24.3756,
+    "population": 27845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Blagoevgrad",
+    "region": "Blagoevgrad Province",
+    "lat": 42.0167,
+    "lon": 23.1667,
+    "population": 27792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Bratsigovo",
+    "region": "Pazardzhik Province",
+    "lat": 42,
+    "lon": 24.4,
+    "population": 27777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Devnya",
+    "region": "Varna Province",
+    "lat": 43.2206,
+    "lon": 27.6005,
+    "population": 27426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Toshevo",
+    "region": "Dobrich Province",
+    "lat": 43.7012,
+    "lon": 28.0379,
+    "population": 27269,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Rudozem",
+    "region": "Smolyan Province",
+    "lat": 41.4544,
+    "lon": 24.8369,
+    "population": 27260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dve Mogili",
+    "region": "Ruse Province",
+    "lat": 43.5926,
+    "lon": 25.8749,
+    "population": 27157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sevlievo",
+    "region": "Gabrovo Province",
+    "lat": 43.0167,
+    "lon": 25.1,
+    "population": 27153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saedinenie",
+    "region": "Plovdiv Province",
+    "lat": 42.2667,
+    "lon": 24.55,
+    "population": 27150,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sevlievo",
+    "region": "Gabrovo Province",
+    "lat": 43.0258,
+    "lon": 25.1136,
+    "population": 27081,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Brezovo",
+    "region": "Plovdiv Province",
+    "lat": 42.35,
+    "lon": 25.0833,
+    "population": 27009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Elhovo",
+    "region": "Yambol Province",
+    "lat": 42.1167,
+    "lon": 26.6167,
+    "population": 26953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Chavdar",
+    "region": "Sofia Province",
+    "lat": 42.6167,
+    "lon": 24.0833,
+    "population": 26860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kardzhali",
+    "region": "Kardzhali Province",
+    "lat": 41.6833,
+    "lon": 25.4333,
+    "population": 26845,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pleven",
+    "region": "Pleven Province",
+    "lat": 43.4,
+    "lon": 24.7,
+    "population": 26840,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Haskovo",
+    "region": "Haskovo Province",
+    "lat": 41.8833,
+    "lon": 25.6167,
+    "population": 26722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Levski",
+    "region": "Pleven Province",
+    "lat": 43.3667,
+    "lon": 25.1333,
+    "population": 26691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Bozhurishte",
+    "region": "Sofia Province",
+    "lat": 42.7833,
+    "lon": 23.1167,
+    "population": 26676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dve Mogili",
+    "region": "Ruse Province",
+    "lat": 43.5167,
+    "lon": 25.9667,
+    "population": 26640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vetrino",
+    "region": "Varna Province",
+    "lat": 43.3167,
+    "lon": 27.4333,
+    "population": 26607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ruse",
+    "region": "Ruse Province",
+    "lat": 43.8487,
+    "lon": 25.9534,
+    "population": 26558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Stamboliyski",
+    "region": "Plovdiv Province",
+    "lat": 42.1167,
+    "lon": 24.5167,
+    "population": 26245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Novo Selo",
+    "region": "Vidin Province",
+    "lat": 44.1621,
+    "lon": 22.7838,
+    "population": 26210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Straldzha",
+    "region": "Yambol Province",
+    "lat": 42.6,
+    "lon": 26.6833,
+    "population": 26195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Vratsa",
+    "region": "Vratsa Province",
+    "lat": 43.2833,
+    "lon": 23.6,
+    "population": 26072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antonovo",
+    "region": "Targovishte Province",
+    "lat": 43.15,
+    "lon": 26.1667,
+    "population": 26057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Montana",
+    "region": "Montana Province",
+    "lat": 43.4125,
+    "lon": 23.225,
+    "population": 26002,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Beloslav",
+    "region": "Varna Province",
+    "lat": 43.2,
+    "lon": 27.7333,
+    "population": 25983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kyustendil",
+    "region": "Kyustendil Province",
+    "lat": 42.2833,
+    "lon": 22.6833,
+    "population": 25866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dospat",
+    "region": "Smolyan Province",
+    "lat": 41.6323,
+    "lon": 24.1877,
+    "population": 25719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kocherinovo",
+    "region": "Kyustendil Province",
+    "lat": 42.0991,
+    "lon": 23.0294,
+    "population": 25409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Petrich",
+    "region": "Blagoevgrad Province",
+    "lat": 41.45,
+    "lon": 23.1667,
+    "population": 25111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sozopol",
+    "region": "Burgas Province",
+    "lat": 42.3112,
+    "lon": 27.5173,
+    "population": 25078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Chelopech",
+    "region": "Sofia Province",
+    "lat": 42.7167,
+    "lon": 24.0667,
+    "population": 24952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalgopol",
+    "region": "Varna Province",
+    "lat": 43.05,
+    "lon": 27.35,
+    "population": 24937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Tundzha",
+    "region": "Yambol Province",
+    "lat": 42.35,
+    "lon": 26.45,
+    "population": 24867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kilifarevo",
+    "region": "Veliko Tarnovo Province",
+    "lat": 42.9833,
+    "lon": 25.6333,
+    "population": 24741,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obzor",
+    "region": "Burgas Province",
+    "lat": 42.82,
+    "lon": 27.8801,
+    "population": 24605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bata",
+    "region": "Burgas Province",
+    "lat": 42.738,
+    "lon": 27.4964,
+    "population": 24307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Boychinovtsi",
+    "region": "Montana Province",
+    "lat": 43.5333,
+    "lon": 23.4333,
+    "population": 24305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borovo",
+    "region": "Ruse Province",
+    "lat": 43.5009,
+    "lon": 25.8099,
+    "population": 24300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sandanski",
+    "region": "Blagoevgrad Province",
+    "lat": 41.5667,
+    "lon": 23.2833,
+    "population": 24259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Batak",
+    "region": "Pazardzhik Province",
+    "lat": 41.8667,
+    "lon": 24.2167,
+    "population": 24097,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Vetovo",
+    "region": "Ruse Province",
+    "lat": 43.7167,
+    "lon": 26.3333,
+    "population": 24053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Omurtag",
+    "region": "Targovishte Province",
+    "lat": 43.1,
+    "lon": 26.4167,
+    "population": 24006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Strelcha",
+    "region": "Pazardzhik Province",
+    "lat": 42.4667,
+    "lon": 24.3667,
+    "population": 23884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yakimovo",
+    "region": "Montana Province",
+    "lat": 43.6347,
+    "lon": 23.3535,
+    "population": 23855,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Radomir",
+    "region": "Pernik Province",
+    "lat": 42.4667,
+    "lon": 23.0167,
+    "population": 23774,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chirpan",
+    "region": "Stara Zagora Province",
+    "lat": 42.2,
+    "lon": 25.3333,
+    "population": 23611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Satovcha",
+    "region": "Blagoevgrad Province",
+    "lat": 41.6167,
+    "lon": 23.9833,
+    "population": 23426,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Velingrad",
+    "region": "Pazardzhik Province",
+    "lat": 41.9667,
+    "lon": 23.9333,
+    "population": 23402,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Tutrakan",
+    "region": "Silistra Province",
+    "lat": 44,
+    "lon": 26.6,
+    "population": 23401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Knezha",
+    "region": "Pleven Province",
+    "lat": 43.5,
+    "lon": 24.0833,
+    "population": 23245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sopot",
+    "region": "Plovdiv Province",
+    "lat": 42.6521,
+    "lon": 24.7431,
+    "population": 23169,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Razgrad",
+    "region": "Razgrad Province",
+    "lat": 43.5333,
+    "lon": 26.5167,
+    "population": 22809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gŭlŭbovo",
+    "region": "Stara Zagora Province",
+    "lat": 42.1333,
+    "lon": 25.85,
+    "population": 22787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gotse Delchev",
+    "region": "Blagoevgrad Province",
+    "lat": 41.5667,
+    "lon": 23.7333,
+    "population": 22753,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boychinovtsi",
+    "region": "Montana Province",
+    "lat": 43.4722,
+    "lon": 23.3358,
+    "population": 22705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Levski",
+    "region": "Pleven Province",
+    "lat": 43.4333,
+    "lon": 25.1,
+    "population": 22627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Tryavna",
+    "region": "Gabrovo Province",
+    "lat": 42.85,
+    "lon": 25.55,
+    "population": 22438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Nikolaevo",
+    "region": "Stara Zagora Province",
+    "lat": 42.6,
+    "lon": 25.7833,
+    "population": 22357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lom",
+    "region": "Montana Province",
+    "lat": 43.8211,
+    "lon": 23.2368,
+    "population": 22341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Primorsko",
+    "region": "Burgas Province",
+    "lat": 42.2679,
+    "lon": 27.7561,
+    "population": 22121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yambol",
+    "region": "Yambol Province",
+    "lat": 42.4833,
+    "lon": 26.5,
+    "population": 21968,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Nikopol",
+    "region": "Pleven Province",
+    "lat": 43.6,
+    "lon": 24.9333,
+    "population": 21958,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sarnitsa Obshtina",
+    "region": "Pazardzhik Province",
+    "lat": 41.7333,
+    "lon": 24.0333,
+    "population": 21887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Yakimovo",
+    "region": "Montana Province",
+    "lat": 43.6333,
+    "lon": 23.3333,
+    "population": 21768,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batak",
+    "region": "Pazardzhik Province",
+    "lat": 41.9423,
+    "lon": 24.2184,
+    "population": 21680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kermen",
+    "region": "Sliven Province",
+    "lat": 42.5,
+    "lon": 26.25,
+    "population": 21675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Banite",
+    "region": "Smolyan Province",
+    "lat": 41.7,
+    "lon": 25,
+    "population": 21582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Svishtov",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.6187,
+    "lon": 25.3503,
+    "population": 21560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peshtera",
+    "region": "Pazardzhik Province",
+    "lat": 42.0337,
+    "lon": 24.2999,
+    "population": 21409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Radnevo",
+    "region": "Stara Zagora Province",
+    "lat": 42.3,
+    "lon": 25.9333,
+    "population": 21379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Rila",
+    "region": "Kyustendil Province",
+    "lat": 42.15,
+    "lon": 23.3167,
+    "population": 20999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pernik",
+    "region": "Pernik Province",
+    "lat": 42.6167,
+    "lon": 23.0833,
+    "population": 20974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Lyaskovets",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.1333,
+    "lon": 25.85,
+    "population": 20951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parvomay",
+    "region": "Plovdiv Province",
+    "lat": 42.1,
+    "lon": 25.2167,
+    "population": 20893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radomir",
+    "region": "Pernik Province",
+    "lat": 42.5457,
+    "lon": 22.9655,
+    "population": 20881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Letnitsa",
+    "region": "Lovech Province",
+    "lat": 43.3117,
+    "lon": 25.0733,
+    "population": 20866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hadzhidimovo",
+    "region": "Blagoevgrad Province",
+    "lat": 41.5222,
+    "lon": 23.8686,
+    "population": 20831,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Ruzhintsi",
+    "region": "Vidin Province",
+    "lat": 43.65,
+    "lon": 22.9,
+    "population": 20791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Borovo",
+    "region": "Ruse Province",
+    "lat": 43.6,
+    "lon": 25.8,
+    "population": 20786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kubrat",
+    "region": "Razgrad Province",
+    "lat": 43.8667,
+    "lon": 26.4833,
+    "population": 20524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Suvorovo",
+    "region": "Varna Province",
+    "lat": 43.3306,
+    "lon": 27.5991,
+    "population": 20524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Krushari",
+    "region": "Dobrich Province",
+    "lat": 43.8833,
+    "lon": 27.75,
+    "population": 20467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Lom",
+    "region": "Montana Province",
+    "lat": 43.8167,
+    "lon": 23.2333,
+    "population": 20462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sungurlare",
+    "region": "Burgas Province",
+    "lat": 42.7667,
+    "lon": 26.7833,
+    "population": 20395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Koprivshtitsa",
+    "region": "Sofia Province",
+    "lat": 42.6167,
+    "lon": 24.3833,
+    "population": 20373,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kula",
+    "region": "Vidin Province",
+    "lat": 43.8883,
+    "lon": 22.5214,
+    "population": 20325,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malko Tarnovo",
+    "region": "Burgas Province",
+    "lat": 41.9796,
+    "lon": 27.5248,
+    "population": 20314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Krumovgrad",
+    "region": "Kardzhali Province",
+    "lat": 41.4713,
+    "lon": 25.6548,
+    "population": 20268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Etropole",
+    "region": "Sofia Province",
+    "lat": 42.8333,
+    "lon": 24,
+    "population": 20183,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dupnitsa",
+    "region": "Kyustendil Province",
+    "lat": 42.2667,
+    "lon": 23.1167,
+    "population": 20096,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Zlatograd",
+    "region": "Smolyan Province",
+    "lat": 41.4003,
+    "lon": 25.0459,
+    "population": 19952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pavel Banya",
+    "region": "Stara Zagora Province",
+    "lat": 42.6,
+    "lon": 25.2,
+    "population": 19870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kazanlŭk",
+    "region": "Stara Zagora Province",
+    "lat": 42.6194,
+    "lon": 25.3988,
+    "population": 19826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Glavinitsa",
+    "region": "Silistra Province",
+    "lat": 43.9167,
+    "lon": 26.8333,
+    "population": 19629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Ardino",
+    "region": "Kardzhali Province",
+    "lat": 41.6,
+    "lon": 25.15,
+    "population": 19617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Bansko",
+    "region": "Blagoevgrad Province",
+    "lat": 41.8,
+    "lon": 23.6,
+    "population": 19604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Krivodol",
+    "region": "Vratsa Province",
+    "lat": 43.3833,
+    "lon": 23.4833,
+    "population": 19400,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dalgopol",
+    "region": "Varna Province",
+    "lat": 43.05,
+    "lon": 27.35,
+    "population": 19381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dulovo",
+    "region": "Silistra Province",
+    "lat": 43.8167,
+    "lon": 27.0833,
+    "population": 19327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oryahovo",
+    "region": "Vratsa Province",
+    "lat": 43.7362,
+    "lon": 23.9605,
+    "population": 19228,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chavdar",
+    "region": "Sofia Province",
+    "lat": 42.65,
+    "lon": 24.05,
+    "population": 19214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kaloyanovo",
+    "region": "Plovdiv Province",
+    "lat": 42.35,
+    "lon": 24.7333,
+    "population": 19167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Isperih",
+    "region": "Razgrad Province",
+    "lat": 43.7167,
+    "lon": 26.8333,
+    "population": 19149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Asenovgrad",
+    "region": "Plovdiv Province",
+    "lat": 41.95,
+    "lon": 24.9667,
+    "population": 19079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pazardzhik",
+    "region": "Pazardzhik Province",
+    "lat": 42.2,
+    "lon": 24.3333,
+    "population": 18948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mizia",
+    "region": "Vratsa Province",
+    "lat": 43.6862,
+    "lon": 23.8537,
+    "population": 18879,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Apriltsi",
+    "region": "Lovech Province",
+    "lat": 42.8414,
+    "lon": 24.9176,
+    "population": 18877,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tsenovo",
+    "region": "Ruse Province",
+    "lat": 43.5359,
+    "lon": 25.6576,
+    "population": 18711,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Belitsa",
+    "region": "Blagoevgrad Province",
+    "lat": 42.0167,
+    "lon": 23.5833,
+    "population": 18432,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kyustendil",
+    "region": "Kyustendil Province",
+    "lat": 42.2839,
+    "lon": 22.6911,
+    "population": 18401,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Elhovo",
+    "region": "Yambol Province",
+    "lat": 42.1667,
+    "lon": 26.5667,
+    "population": 18275,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Razgrad",
+    "region": "Razgrad Province",
+    "lat": 43.5333,
+    "lon": 26.5167,
+    "population": 18182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pavel Banya",
+    "region": "Stara Zagora Province",
+    "lat": 42.6333,
+    "lon": 25.1333,
+    "population": 18024,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sitovo",
+    "region": "Silistra Province",
+    "lat": 44.0273,
+    "lon": 27.0198,
+    "population": 17832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakitovo",
+    "region": "Pazardzhik Province",
+    "lat": 41.9901,
+    "lon": 24.0873,
+    "population": 17787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chepelare",
+    "region": "Smolyan Province",
+    "lat": 41.7333,
+    "lon": 24.6833,
+    "population": 17672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Varna",
+    "region": "Varna Province",
+    "lat": 43.2167,
+    "lon": 27.9167,
+    "population": 17659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yakoruda",
+    "region": "Blagoevgrad Province",
+    "lat": 42.0253,
+    "lon": 23.6842,
+    "population": 17475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Septemvri",
+    "region": "Pazardzhik Province",
+    "lat": 42.2114,
+    "lon": 24.1295,
+    "population": 17428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lesichovo",
+    "region": "Pazardzhik Province",
+    "lat": 42.3563,
+    "lon": 24.1119,
+    "population": 17187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Devin",
+    "region": "Smolyan Province",
+    "lat": 41.7435,
+    "lon": 24.4019,
+    "population": 17115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyubimets",
+    "region": "Haskovo Province",
+    "lat": 41.8333,
+    "lon": 26.0833,
+    "population": 17107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kavarna",
+    "region": "Dobrich Province",
+    "lat": 43.436,
+    "lon": 28.3395,
+    "population": 17093,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Belovo",
+    "region": "Pazardzhik Province",
+    "lat": 42.2124,
+    "lon": 24.0208,
+    "population": 17091,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kavarna",
+    "region": "Dobrich Province",
+    "lat": 43.5,
+    "lon": 28.3833,
+    "population": 17085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buhovo",
+    "region": "Sofia City Province",
+    "lat": 42.7667,
+    "lon": 23.5667,
+    "population": 17006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Montana",
+    "region": "Montana Province",
+    "lat": 43.4667,
+    "lon": 23.2,
+    "population": 16680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dospat",
+    "region": "Smolyan Province",
+    "lat": 41.6446,
+    "lon": 24.1586,
+    "population": 16592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Elin Pelin",
+    "region": "Sofia Province",
+    "lat": 42.6667,
+    "lon": 23.6,
+    "population": 16505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sandanski",
+    "region": "Blagoevgrad Province",
+    "lat": 41.5667,
+    "lon": 23.45,
+    "population": 16320,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pavlikeni",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.2428,
+    "lon": 25.3219,
+    "population": 16260,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dunavtsi",
+    "region": "Vidin Province",
+    "lat": 43.9211,
+    "lon": 22.8211,
+    "population": 16194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Harmanli",
+    "region": "Haskovo Province",
+    "lat": 41.9333,
+    "lon": 25.9,
+    "population": 16063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Peshtera",
+    "region": "Pazardzhik Province",
+    "lat": 42.0333,
+    "lon": 24.3,
+    "population": 16051,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Popovo",
+    "region": "Targovishte Province",
+    "lat": 43.35,
+    "lon": 26.2333,
+    "population": 16027,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kameno",
+    "region": "Burgas Province",
+    "lat": 42.5708,
+    "lon": 27.2987,
+    "population": 16009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kula",
+    "region": "Vidin Province",
+    "lat": 43.9,
+    "lon": 22.5667,
+    "population": 15983,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Devnya",
+    "region": "Varna Province",
+    "lat": 43.2222,
+    "lon": 27.5694,
+    "population": 15975,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batanovtsi",
+    "region": "Pernik Province",
+    "lat": 42.5969,
+    "lon": 22.9563,
+    "population": 15909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sadovo",
+    "region": "Plovdiv Province",
+    "lat": 42.1318,
+    "lon": 24.94,
+    "population": 15903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Stolichna Obshtina",
+    "region": "Sofia City Province",
+    "lat": 42.6865,
+    "lon": 23.3056,
+    "population": 15852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kirkovo",
+    "region": "Kardzhali Province",
+    "lat": 41.3272,
+    "lon": 25.3638,
+    "population": 15720,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Ugarchin",
+    "region": "Lovech Province",
+    "lat": 43.1,
+    "lon": 24.4167,
+    "population": 15719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Karlovo",
+    "region": "Plovdiv Province",
+    "lat": 42.6333,
+    "lon": 24.8,
+    "population": 15705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Maritsa",
+    "region": "Plovdiv Province",
+    "lat": 42.2333,
+    "lon": 24.8,
+    "population": 15568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Dobrich",
+    "region": "Dobrich Province",
+    "lat": 43.5776,
+    "lon": 27.8063,
+    "population": 15538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolyarovo",
+    "region": "Yambol Province",
+    "lat": 42.1496,
+    "lon": 26.8112,
+    "population": 15511,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Samuil",
+    "region": "Razgrad Province",
+    "lat": 43.6,
+    "lon": 26.8,
+    "population": 15458,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Belogradchik",
+    "region": "Vidin Province",
+    "lat": 43.65,
+    "lon": 22.6,
+    "population": 15440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Drenovets",
+    "region": "Vidin Province",
+    "lat": 43.6913,
+    "lon": 22.9736,
+    "population": 15337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lovech",
+    "region": "Lovech Province",
+    "lat": 43.1333,
+    "lon": 24.7167,
+    "population": 15270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simitli",
+    "region": "Blagoevgrad Province",
+    "lat": 41.8833,
+    "lon": 23.1167,
+    "population": 15209,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Vetrino",
+    "region": "Varna Province",
+    "lat": 43.3167,
+    "lon": 27.4333,
+    "population": 15119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mezdra",
+    "region": "Vratsa Province",
+    "lat": 43.15,
+    "lon": 23.7,
+    "population": 14947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pomorie",
+    "region": "Burgas Province",
+    "lat": 42.5633,
+    "lon": 27.6299,
+    "population": 14924,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Shabla",
+    "region": "Dobrich Province",
+    "lat": 43.5398,
+    "lon": 28.5343,
+    "population": 14923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Etropole",
+    "region": "Sofia Province",
+    "lat": 42.85,
+    "lon": 24.0333,
+    "population": 14920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mirkovo",
+    "region": "Sofia Province",
+    "lat": 42.7,
+    "lon": 23.9833,
+    "population": 14811,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Gulyantsi",
+    "region": "Pleven Province",
+    "lat": 43.6833,
+    "lon": 24.65,
+    "population": 14798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parvomaytsi",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.15,
+    "lon": 25.65,
+    "population": 14776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Treklyano",
+    "region": "Kyustendil Province",
+    "lat": 42.55,
+    "lon": 22.6,
+    "population": 14705,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pravets",
+    "region": "Sofia Province",
+    "lat": 42.8833,
+    "lon": 23.9167,
+    "population": 14670,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vidin",
+    "region": "Vidin Province",
+    "lat": 43.9916,
+    "lon": 22.8824,
+    "population": 14637,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Kresna",
+    "region": "Blagoevgrad Province",
+    "lat": 41.7667,
+    "lon": 23.2333,
+    "population": 14624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Borovan",
+    "region": "Vratsa Province",
+    "lat": 43.4333,
+    "lon": 23.75,
+    "population": 14423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Tervel",
+    "region": "Dobrich Province",
+    "lat": 43.75,
+    "lon": 27.4,
+    "population": 14416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Botevgrad",
+    "region": "Sofia Province",
+    "lat": 42.95,
+    "lon": 23.75,
+    "population": 14372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madan",
+    "region": "Smolyan Province",
+    "lat": 41.4987,
+    "lon": 24.9397,
+    "population": 14244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Omurtag",
+    "region": "Targovishte Province",
+    "lat": 43.0833,
+    "lon": 26.4833,
+    "population": 14224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Valchedram",
+    "region": "Montana Province",
+    "lat": 43.7167,
+    "lon": 23.5167,
+    "population": 14168,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Lesichovo",
+    "region": "Pazardzhik Province",
+    "lat": 42.3667,
+    "lon": 24.15,
+    "population": 14016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nova Zagora",
+    "region": "Sliven Province",
+    "lat": 42.4833,
+    "lon": 26.0167,
+    "population": 13914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Simeonovgrad",
+    "region": "Haskovo Province",
+    "lat": 42.0333,
+    "lon": 25.8333,
+    "population": 13909,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lyaskovets",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.1111,
+    "lon": 25.7283,
+    "population": 13863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Garmen",
+    "region": "Blagoevgrad Province",
+    "lat": 41.6,
+    "lon": 23.8167,
+    "population": 13800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Perushtitsa",
+    "region": "Plovdiv Province",
+    "lat": 42.0667,
+    "lon": 24.55,
+    "population": 13790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samokov",
+    "region": "Sofia Province",
+    "lat": 42.337,
+    "lon": 23.5528,
+    "population": 13776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ivaylovgrad",
+    "region": "Haskovo Province",
+    "lat": 41.5267,
+    "lon": 26.1249,
+    "population": 13767,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Burgas",
+    "region": "Burgas Province",
+    "lat": 42.5061,
+    "lon": 27.4678,
+    "population": 13722,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Vidin",
+    "region": "Vidin Province",
+    "lat": 44,
+    "lon": 22.8333,
+    "population": 13709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rakovski",
+    "region": "Plovdiv Province",
+    "lat": 42.2741,
+    "lon": 24.9408,
+    "population": 13623,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sveti Vlas",
+    "region": "Burgas Province",
+    "lat": 42.7136,
+    "lon": 27.7587,
+    "population": 13413,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Roman",
+    "region": "Vratsa Province",
+    "lat": 43.15,
+    "lon": 23.9167,
+    "population": 13288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Zavet",
+    "region": "Razgrad Province",
+    "lat": 43.7667,
+    "lon": 26.6833,
+    "population": 13231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Rakitovo",
+    "region": "Pazardzhik Province",
+    "lat": 41.9997,
+    "lon": 24.1088,
+    "population": 13203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Strazhitsa",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.2333,
+    "lon": 25.9667,
+    "population": 13092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yablanitsa",
+    "region": "Lovech Province",
+    "lat": 43.0314,
+    "lon": 24.1128,
+    "population": 13092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Sadovo",
+    "region": "Plovdiv Province",
+    "lat": 42.1333,
+    "lon": 25,
+    "population": 12959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Primorsko",
+    "region": "Burgas Province",
+    "lat": 42.25,
+    "lon": 27.6333,
+    "population": 12853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varshets",
+    "region": "Montana Province",
+    "lat": 43.1936,
+    "lon": 23.2868,
+    "population": 12827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asenovgrad",
+    "region": "Plovdiv Province",
+    "lat": 42.0167,
+    "lon": 24.8667,
+    "population": 12812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Radnevo",
+    "region": "Stara Zagora Province",
+    "lat": 42.3,
+    "lon": 25.9333,
+    "population": 12690,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolni Chiflik",
+    "region": "Varna Province",
+    "lat": 42.993,
+    "lon": 27.716,
+    "population": 12632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Pomorie",
+    "region": "Burgas Province",
+    "lat": 42.7333,
+    "lon": 27.55,
+    "population": 12476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolna Banya",
+    "region": "Sofia Province",
+    "lat": 42.3,
+    "lon": 23.7667,
+    "population": 12441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Nesebar",
+    "region": "Burgas Province",
+    "lat": 42.7833,
+    "lon": 27.7333,
+    "population": 12416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nedelino",
+    "region": "Smolyan Province",
+    "lat": 41.456,
+    "lon": 25.0801,
+    "population": 12351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Stambolovo",
+    "region": "Haskovo Province",
+    "lat": 41.7333,
+    "lon": 25.7,
+    "population": 12299,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kiten",
+    "region": "Burgas Province",
+    "lat": 42.2342,
+    "lon": 27.7749,
+    "population": 12231,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tryavna",
+    "region": "Gabrovo Province",
+    "lat": 42.8667,
+    "lon": 25.5,
+    "population": 12170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Krichim",
+    "region": "Plovdiv Province",
+    "lat": 42.0044,
+    "lon": 24.4723,
+    "population": 12103,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Blagoevgrad",
+    "region": "Blagoevgrad Province",
+    "lat": 42.0167,
+    "lon": 23.1,
+    "population": 12092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Bolyarovo",
+    "region": "Yambol Province",
+    "lat": 42.15,
+    "lon": 26.85,
+    "population": 12058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zlatitsa",
+    "region": "Sofia Province",
+    "lat": 42.7167,
+    "lon": 24.1333,
+    "population": 11756,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Suhindol",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.1667,
+    "lon": 25.2,
+    "population": 11640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dulovo",
+    "region": "Silistra Province",
+    "lat": 43.8167,
+    "lon": 27.15,
+    "population": 11581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vratsa",
+    "region": "Vratsa Province",
+    "lat": 43.21,
+    "lon": 23.5625,
+    "population": 11560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Popovo",
+    "region": "Targovishte Province",
+    "lat": 43.35,
+    "lon": 26.2333,
+    "population": 11439,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cherven Bryag",
+    "region": "Pleven Province",
+    "lat": 43.2667,
+    "lon": 24.1,
+    "population": 11428,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Bratya Daskalovi",
+    "region": "Stara Zagora Province",
+    "lat": 42.3,
+    "lon": 25.2167,
+    "population": 11377,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Mizia",
+    "region": "Vratsa Province",
+    "lat": 43.6333,
+    "lon": 23.85,
+    "population": 11214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ravda",
+    "region": "Burgas Province",
+    "lat": 42.6418,
+    "lon": 27.6771,
+    "population": 11213,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Zlataritsa",
+    "region": "Veliko Tarnovo Province",
+    "lat": 43.0667,
+    "lon": 25.9833,
+    "population": 11203,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Botevgrad",
+    "region": "Sofia Province",
+    "lat": 42.9,
+    "lon": 23.7833,
+    "population": 11092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Loznitsa",
+    "region": "Razgrad Province",
+    "lat": 43.4167,
+    "lon": 26.5833,
+    "population": 10920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Laki",
+    "region": "Plovdiv Province",
+    "lat": 41.8167,
+    "lon": 24.85,
+    "population": 10912,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Gramada",
+    "region": "Vidin Province",
+    "lat": 43.8333,
+    "lon": 22.65,
+    "population": 10691,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zemen",
+    "region": "Pernik Province",
+    "lat": 42.4789,
+    "lon": 22.7492,
+    "population": 10634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Topolovgrad",
+    "region": "Haskovo Province",
+    "lat": 42.0833,
+    "lon": 26.3333,
+    "population": 10619,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panagyurishte",
+    "region": "Pazardzhik Province",
+    "lat": 42.4952,
+    "lon": 24.1902,
+    "population": 10453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Chiprovtsi",
+    "region": "Montana Province",
+    "lat": 43.4167,
+    "lon": 22.9,
+    "population": 10308,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bregovo",
+    "region": "Vidin Province",
+    "lat": 44.1517,
+    "lon": 22.6425,
+    "population": 10297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Obshtina Teteven",
+    "region": "Lovech Province",
+    "lat": 42.9167,
+    "lon": 24.2667,
+    "population": 10175,
+    "timezone": "UTC"
+  }
+]

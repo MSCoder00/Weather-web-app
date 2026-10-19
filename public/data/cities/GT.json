@@ -1,0 +1,3058 @@
+[
+  {
+    "name": "Cuilco",
+    "region": "Huehuetenango Department",
+    "lat": 15.4072,
+    "lon": -91.9467,
+    "population": 49982,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Siquinalá",
+    "region": "Escuintla Department",
+    "lat": 14.3061,
+    "lon": -90.965,
+    "population": 49895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olopa",
+    "region": "Chiquimula Department",
+    "lat": 14.6923,
+    "lon": -89.35,
+    "population": 49849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quezaltepeque",
+    "region": "Chiquimula Department",
+    "lat": 14.6355,
+    "lon": -89.4424,
+    "population": 49709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo Jocopilas",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5888,
+    "lon": -91.4519,
+    "population": 49653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jacinto",
+    "region": "Chiquimula Department",
+    "lat": 14.6667,
+    "lon": -89.5,
+    "population": 49600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Ciudad Vieja",
+    "region": "Sacatepéquez Department",
+    "lat": 14.508,
+    "lon": -90.7703,
+    "population": 49579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "San Marcos Department",
+    "lat": 14.9327,
+    "lon": -92.0041,
+    "population": 49445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chahal Guatemala",
+    "region": "Alta Verapaz Department",
+    "lat": 15.7912,
+    "lon": -89.6052,
+    "population": 49350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Cunén",
+    "region": "Quiché Department",
+    "lat": 15.3631,
+    "lon": -91.0189,
+    "population": 49240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lucas Sacatepéquez",
+    "region": "Sacatepéquez Department",
+    "lat": 14.6107,
+    "lon": -90.6568,
+    "population": 49224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quesada",
+    "region": "Jutiapa Department",
+    "lat": 14.2703,
+    "lon": -90.0403,
+    "population": 49222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cajolá",
+    "region": "Quetzaltenango Department",
+    "lat": 14.9221,
+    "lon": -91.6148,
+    "population": 49191,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis Jilotepeque",
+    "region": "Jalapa Department",
+    "lat": 14.65,
+    "lon": -89.7333,
+    "population": 49180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Chinique",
+    "region": "Quiché Department",
+    "lat": 15.0695,
+    "lon": -91.018,
+    "population": 49130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José Chacayá",
+    "region": "Sololá Department",
+    "lat": 14.771,
+    "lon": -91.2156,
+    "population": 49121,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Conguaco",
+    "region": "Jutiapa Department",
+    "lat": 14.0442,
+    "lon": -90.0311,
+    "population": 49032,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tactic",
+    "region": "Alta Verapaz Department",
+    "lat": 15.3222,
+    "lon": -90.3545,
+    "population": 48894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parramos",
+    "region": "Chimaltenango Department",
+    "lat": 14.6089,
+    "lon": -90.803,
+    "population": 48860,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bartolomé Jocotenango",
+    "region": "Quiché Department",
+    "lat": 15.1915,
+    "lon": -91.0781,
+    "population": 48760,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guanagazapa",
+    "region": "Escuintla Department",
+    "lat": 14.2253,
+    "lon": -90.6433,
+    "population": 48695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Catarina Mita",
+    "region": "Jutiapa Department",
+    "lat": 14.45,
+    "lon": -89.75,
+    "population": 48695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz La Laguna",
+    "region": "Sololá Department",
+    "lat": 14.7442,
+    "lon": -91.2072,
+    "population": 48583,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Coatepeque",
+    "region": "Quetzaltenango Department",
+    "lat": 14.6431,
+    "lon": -91.9793,
+    "population": 48495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Flores",
+    "region": "Petén Department",
+    "lat": 16.9238,
+    "lon": -89.8971,
+    "population": 48309,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zapotitlán",
+    "region": "Jutiapa Department",
+    "lat": 14.1333,
+    "lon": -89.8333,
+    "population": 47763,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Masagua",
+    "region": "Escuintla Department",
+    "lat": 14.2031,
+    "lon": -90.8481,
+    "population": 47543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa Cruz La Laguna",
+    "region": "Sololá Department",
+    "lat": 14.7432,
+    "lon": -91.2218,
+    "population": 47466,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Gomera",
+    "region": "Escuintla Department",
+    "lat": 14.0821,
+    "lon": -91.0538,
+    "population": 47431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mixco",
+    "region": "Guatemala Department",
+    "lat": 14.6308,
+    "lon": -90.6071,
+    "population": 47151,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palestina de los Altos",
+    "region": "Quetzaltenango Department",
+    "lat": 14.9334,
+    "lon": -91.694,
+    "population": 47128,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Joyabaj",
+    "region": "Quiché Department",
+    "lat": 14.9807,
+    "lon": -90.8208,
+    "population": 46903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zunilito",
+    "region": "Suchitepéquez Department",
+    "lat": 14.6126,
+    "lon": -91.5098,
+    "population": 46836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pédro Jocopilas",
+    "region": "Quiché Department",
+    "lat": 15.0953,
+    "lon": -91.1513,
+    "population": 46611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín Sacatepéquez",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8244,
+    "lon": -91.6419,
+    "population": 46569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Tinta",
+    "region": "Alta Verapaz Department",
+    "lat": 15.3167,
+    "lon": -89.8833,
+    "population": 46560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel Chicaj",
+    "region": "Baja Verapaz Department",
+    "lat": 15.0947,
+    "lon": -90.3944,
+    "population": 46482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Totonicapán",
+    "region": "Totonicapán Department",
+    "lat": 14.9117,
+    "lon": -91.3611,
+    "population": 46210,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Almolonga",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8112,
+    "lon": -91.4835,
+    "population": 46187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Bravo",
+    "region": "Suchitepéquez Department",
+    "lat": 14.4004,
+    "lon": -91.3171,
+    "population": 46141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción Chiquirichapa",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8551,
+    "lon": -91.6236,
+    "population": 46028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Palmar",
+    "region": "Quetzaltenango Department",
+    "lat": 14.6508,
+    "lon": -91.578,
+    "population": 45816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Tomás La Unión",
+    "region": "Suchitepéquez Department",
+    "lat": 14.6322,
+    "lon": -91.4107,
+    "population": 45591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José El Ídolo",
+    "region": "Suchitepéquez Department",
+    "lat": 14.4502,
+    "lon": -91.4222,
+    "population": 45513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tejar",
+    "region": "Chimaltenango Department",
+    "lat": 14.6468,
+    "lon": -90.7912,
+    "population": 45501,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro La Laguna",
+    "region": "Sololá Department",
+    "lat": 14.693,
+    "lon": -91.272,
+    "population": 45381,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Zacualpa",
+    "region": "Quiché Department",
+    "lat": 15.0924,
+    "lon": -90.8851,
+    "population": 45326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sanarate",
+    "region": "El Progreso Department",
+    "lat": 14.7883,
+    "lon": -90.1988,
+    "population": 44977,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Chamelco",
+    "region": "Alta Verapaz Department",
+    "lat": 15.4333,
+    "lon": -90.3333,
+    "population": 44966,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Ixcoy",
+    "region": "Huehuetenango Department",
+    "lat": 15.6002,
+    "lon": -91.4464,
+    "population": 44701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucia La Reforma",
+    "region": "Totonicapán Department",
+    "lat": 15.1282,
+    "lon": -91.2362,
+    "population": 44698,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Senahú",
+    "region": "Alta Verapaz Department",
+    "lat": 15.4,
+    "lon": -89.8333,
+    "population": 44578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan La Laguna",
+    "region": "Sololá Department",
+    "lat": 14.6945,
+    "lon": -91.2867,
+    "population": 44171,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huehuetenango",
+    "region": "Huehuetenango Department",
+    "lat": 15.3192,
+    "lon": -91.4724,
+    "population": 44132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barberena",
+    "region": "Santa Rosa Department",
+    "lat": 14.3074,
+    "lon": -90.3616,
+    "population": 43973,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo San Carlos",
+    "region": "Retalhuleu Department",
+    "lat": 14.593,
+    "lon": -91.6939,
+    "population": 43967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Poptún",
+    "region": "Petén Department",
+    "lat": 16.3569,
+    "lon": -89.5891,
+    "population": 43916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael La Independencia",
+    "region": "Huehuetenango Department",
+    "lat": 15.7015,
+    "lon": -91.5355,
+    "population": 43902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián Huehuetenango",
+    "region": "Huehuetenango Department",
+    "lat": 15.3877,
+    "lon": -91.6153,
+    "population": 43481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Todos Santos Cuchumatán",
+    "region": "Huehuetenango Department",
+    "lat": 15.5085,
+    "lon": -91.6038,
+    "population": 43429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Alotenango",
+    "region": "Sacatepéquez Department",
+    "lat": 14.4649,
+    "lon": -90.8277,
+    "population": 43224,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa Bárbara",
+    "region": "Suchitepéquez Department",
+    "lat": 14.4732,
+    "lon": -91.2469,
+    "population": 43170,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente Pacaya",
+    "region": "Escuintla Department",
+    "lat": 14.4147,
+    "lon": -90.6361,
+    "population": 43153,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa Ana",
+    "region": "Petén Department",
+    "lat": 16.7731,
+    "lon": -89.6688,
+    "population": 42658,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa María Chiquimula",
+    "region": "Totonicapán Department",
+    "lat": 15.0289,
+    "lon": -91.3292,
+    "population": 42094,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto San José",
+    "region": "Escuintla Department",
+    "lat": 13.9274,
+    "lon": -90.8217,
+    "population": 42056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal Totonicapán",
+    "region": "Totonicapán Department",
+    "lat": 14.9168,
+    "lon": -91.4406,
+    "population": 41872,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flores Costa Cuca",
+    "region": "Quetzaltenango Department",
+    "lat": 14.6324,
+    "lon": -91.8634,
+    "population": 41758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana Huista",
+    "region": "Huehuetenango Department",
+    "lat": 15.6808,
+    "lon": -91.82,
+    "population": 41701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis Ixcán",
+    "region": "Quiché Department",
+    "lat": 15.7872,
+    "lon": -91.095,
+    "population": 41569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Malacatán",
+    "region": "San Marcos Department",
+    "lat": 14.9183,
+    "lon": -92.1055,
+    "population": 41407,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alotenango",
+    "region": "Sacatepéquez Department",
+    "lat": 14.4803,
+    "lon": -90.8075,
+    "population": 41319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Jícaro",
+    "region": "El Progreso Department",
+    "lat": 14.9167,
+    "lon": -89.9,
+    "population": 41003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos La Laguna",
+    "region": "Sololá Department",
+    "lat": 14.725,
+    "lon": -91.2584,
+    "population": 40544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio La Paz",
+    "region": "El Progreso Department",
+    "lat": 14.7589,
+    "lon": -90.2849,
+    "population": 40418,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ipala",
+    "region": "Chiquimula Department",
+    "lat": 14.6167,
+    "lon": -89.6167,
+    "population": 40249,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Chichicastenango",
+    "region": "Quiché Department",
+    "lat": 14.892,
+    "lon": -91.0881,
+    "population": 40229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sansare",
+    "region": "El Progreso Department",
+    "lat": 14.7457,
+    "lon": -90.1162,
+    "population": 40086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Momostenango",
+    "region": "Totonicapán Department",
+    "lat": 15.0444,
+    "lon": -91.4086,
+    "population": 40076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Playa Grande",
+    "region": "Quiché Department",
+    "lat": 15.9333,
+    "lon": -90.7333,
+    "population": 39657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jocotán",
+    "region": "Chiquimula Department",
+    "lat": 14.8207,
+    "lon": -89.3899,
+    "population": 39618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Jerónimo",
+    "region": "Baja Verapaz Department",
+    "lat": 15.0603,
+    "lon": -90.2405,
+    "population": 39477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Quetzal",
+    "region": "San Marcos Department",
+    "lat": 14.7686,
+    "lon": -91.8176,
+    "population": 39159,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Magdalena Milpas Altas",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5421,
+    "lon": -90.6755,
+    "population": 39060,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nebaj",
+    "region": "Quiché Department",
+    "lat": 15.4061,
+    "lon": -91.1468,
+    "population": 39040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Vieja",
+    "region": "Sacatepéquez Department",
+    "lat": 14.524,
+    "lon": -90.7631,
+    "population": 39006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camotán",
+    "region": "Chiquimula Department",
+    "lat": 14.8202,
+    "lon": -89.3722,
+    "population": 38930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinique",
+    "region": "Quiché Department",
+    "lat": 15.0415,
+    "lon": -91.0259,
+    "population": 38640,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés Sajcabajá",
+    "region": "Quiché Department",
+    "lat": 15.176,
+    "lon": -90.9422,
+    "population": 38597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pasaco",
+    "region": "Jutiapa Department",
+    "lat": 13.9772,
+    "lon": -90.2064,
+    "population": 38445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín Zapotitlán",
+    "region": "Retalhuleu Department",
+    "lat": 14.6079,
+    "lon": -91.6061,
+    "population": 38291,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ocós",
+    "region": "San Marcos Department",
+    "lat": 14.51,
+    "lon": -92.193,
+    "population": 37704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dolores",
+    "region": "Petén Department",
+    "lat": 16.5118,
+    "lon": -89.417,
+    "population": 37367,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Momostenango",
+    "region": "Totonicapán Department",
+    "lat": 15.0473,
+    "lon": -91.4063,
+    "population": 37321,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Gaspar Ixchil",
+    "region": "Huehuetenango Department",
+    "lat": 15.388,
+    "lon": -91.7256,
+    "population": 37178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Concepción Chiquirichapa",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8462,
+    "lon": -91.6185,
+    "population": 37008,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tecpán Guatemala",
+    "region": "Chimaltenango Department",
+    "lat": 14.7618,
+    "lon": -90.9925,
+    "population": 36757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Guazacapán",
+    "region": "Santa Rosa Department",
+    "lat": 14.0179,
+    "lon": -90.434,
+    "population": 36739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Casillas",
+    "region": "Santa Rosa Department",
+    "lat": 14.3785,
+    "lon": -90.1726,
+    "population": 36729,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coatepeque",
+    "region": "Quetzaltenango Department",
+    "lat": 14.7041,
+    "lon": -91.8643,
+    "population": 36704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel Sigüilá",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8955,
+    "lon": -91.6146,
+    "population": 36700,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zunil",
+    "region": "Quetzaltenango Department",
+    "lat": 14.7846,
+    "lon": -91.4835,
+    "population": 36633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Pinula",
+    "region": "Jalapa Department",
+    "lat": 14.6667,
+    "lon": -89.85,
+    "population": 36535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Suchitepéquez Department",
+    "lat": 14.4356,
+    "lon": -91.2268,
+    "population": 36527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fraijanes",
+    "region": "Guatemala Department",
+    "lat": 14.4653,
+    "lon": -90.4408,
+    "population": 36063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pajapita",
+    "region": "San Marcos Department",
+    "lat": 14.7215,
+    "lon": -92.0352,
+    "population": 36017,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía Cotzumalguapa",
+    "region": "Escuintla Department",
+    "lat": 14.3351,
+    "lon": -91.0234,
+    "population": 35979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "Petén Department",
+    "lat": 16.7885,
+    "lon": -90.117,
+    "population": 35959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Sacatepéquez",
+    "region": "Guatemala Department",
+    "lat": 14.6861,
+    "lon": -90.6425,
+    "population": 35887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Chicaman",
+    "region": "Quiché Department",
+    "lat": 15.3483,
+    "lon": -90.7994,
+    "population": 35661,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio Ilotenango",
+    "region": "Quiché Department",
+    "lat": 15.0547,
+    "lon": -91.2299,
+    "population": 35651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Necta",
+    "region": "Huehuetenango Department",
+    "lat": 15.4914,
+    "lon": -91.7655,
+    "population": 35618,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Concepción Tutuapa",
+    "region": "San Marcos Department",
+    "lat": 15.288,
+    "lon": -91.8674,
+    "population": 35544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Jocotenango",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5866,
+    "lon": -90.7358,
+    "population": 35360,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiquimula",
+    "region": "Chiquimula Department",
+    "lat": 14.8,
+    "lon": -89.5458,
+    "population": 35255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Chajul",
+    "region": "Quiché Department",
+    "lat": 15.4871,
+    "lon": -91.0379,
+    "population": 35229,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo Viñas",
+    "region": "Santa Rosa Department",
+    "lat": 14.2258,
+    "lon": -90.4761,
+    "population": 35069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huitán",
+    "region": "Quetzaltenango Department",
+    "lat": 15.0492,
+    "lon": -91.6394,
+    "population": 35056,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Pedro Jocopilas",
+    "region": "Quiché Department",
+    "lat": 15.1547,
+    "lon": -91.1561,
+    "population": 34920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Agua Blanca",
+    "region": "Jutiapa Department",
+    "lat": 14.5,
+    "lon": -89.65,
+    "population": 34875,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Patzité",
+    "region": "Quiché Department",
+    "lat": 14.971,
+    "lon": -91.1972,
+    "population": 34579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel Panán",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5287,
+    "lon": -91.3673,
+    "population": 34487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Catarina Barahona",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5513,
+    "lon": -90.786,
+    "population": 34385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía Utatlán",
+    "region": "Sololá Department",
+    "lat": 14.7713,
+    "lon": -91.267,
+    "population": 34222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iztapa",
+    "region": "Escuintla Department",
+    "lat": 13.9333,
+    "lon": -90.7075,
+    "population": 34221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Democracia",
+    "region": "Escuintla Department",
+    "lat": 14.2308,
+    "lon": -90.9472,
+    "population": 34175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sipacapa",
+    "region": "San Marcos Department",
+    "lat": 15.2125,
+    "lon": -91.6342,
+    "population": 34141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Estor",
+    "region": "Izabal Department",
+    "lat": 15.5333,
+    "lon": -89.35,
+    "population": 34046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Morales",
+    "region": "Izabal Department",
+    "lat": 15.4449,
+    "lon": -88.7665,
+    "population": 34028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cunén",
+    "region": "Quiché Department",
+    "lat": 15.3363,
+    "lon": -91.0278,
+    "population": 33955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián",
+    "region": "Retalhuleu Department",
+    "lat": 14.5618,
+    "lon": -91.6487,
+    "population": 33916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Samayac",
+    "region": "Quetzaltenango Department",
+    "lat": 14.5808,
+    "lon": -91.4613,
+    "population": 33757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal Acasaguastlán",
+    "region": "El Progreso Department",
+    "lat": 14.9167,
+    "lon": -89.8833,
+    "population": 33709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Barrios",
+    "region": "Izabal Department",
+    "lat": 15.7278,
+    "lon": -88.5944,
+    "population": 33520,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petapa",
+    "region": "Guatemala Department",
+    "lat": 14.5019,
+    "lon": -90.562,
+    "population": 33421,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimaltenango",
+    "region": "Chimaltenango Department",
+    "lat": 14.6611,
+    "lon": -90.8194,
+    "population": 33403,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tucurú",
+    "region": "Alta Verapaz Department",
+    "lat": 15.3,
+    "lon": -90.0667,
+    "population": 33286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Sayaxché",
+    "region": "Petén Department",
+    "lat": 16.3316,
+    "lon": -90.1634,
+    "population": 33230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Cantel",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8166,
+    "lon": -91.4378,
+    "population": 33214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ixtahuacán",
+    "region": "Huehuetenango Department",
+    "lat": 15.4169,
+    "lon": -91.7693,
+    "population": 33185,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tejutla",
+    "region": "San Marcos Department",
+    "lat": 15.1225,
+    "lon": -91.8063,
+    "population": 33167,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lívingston",
+    "region": "Izabal Department",
+    "lat": 15.8283,
+    "lon": -88.7504,
+    "population": 33077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Pachalum",
+    "region": "Quiché Department",
+    "lat": 14.918,
+    "lon": -90.6544,
+    "population": 32970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ostuncalco",
+    "region": "Quetzaltenango Department",
+    "lat": 14.869,
+    "lon": -91.6214,
+    "population": 32963,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco El Alto",
+    "region": "Totonicapán Department",
+    "lat": 14.9449,
+    "lon": -91.4431,
+    "population": 32929,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tumbador",
+    "region": "San Marcos Department",
+    "lat": 14.8637,
+    "lon": -91.9342,
+    "population": 32655,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melchor de Mencos",
+    "region": "Petén Department",
+    "lat": 17.0661,
+    "lon": -89.1523,
+    "population": 32632,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Esperanza",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8717,
+    "lon": -91.5614,
+    "population": 32600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Marcos",
+    "region": "San Marcos Department",
+    "lat": 14.9639,
+    "lon": -91.7944,
+    "population": 32541,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciudad Tecún Umán",
+    "region": "San Marcos Department",
+    "lat": 14.6774,
+    "lon": -92.1404,
+    "population": 32335,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pachalum",
+    "region": "Quiché Department",
+    "lat": 14.9247,
+    "lon": -90.6628,
+    "population": 32233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Acatenango",
+    "region": "Chimaltenango Department",
+    "lat": 14.5545,
+    "lon": -90.9437,
+    "population": 32193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María de Jesús",
+    "region": "Sacatepéquez Department",
+    "lat": 14.4945,
+    "lon": -90.7104,
+    "population": 31883,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Catarina Pinula",
+    "region": "Guatemala Department",
+    "lat": 14.5705,
+    "lon": -90.4993,
+    "population": 31450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colomba",
+    "region": "Quetzaltenango Department",
+    "lat": 14.7073,
+    "lon": -91.7317,
+    "population": 31438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patulul",
+    "region": "Suchitepéquez Department",
+    "lat": 14.4232,
+    "lon": -91.1605,
+    "population": 31156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malacatancito",
+    "region": "Huehuetenango Department",
+    "lat": 15.2446,
+    "lon": -91.499,
+    "population": 31154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Ana",
+    "region": "Petén Department",
+    "lat": 16.8,
+    "lon": -89.8333,
+    "population": 30839,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Lucía Milpas Altas",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5765,
+    "lon": -90.6763,
+    "population": 30594,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Clara La Laguna",
+    "region": "Sololá Department",
+    "lat": 14.7151,
+    "lon": -91.3036,
+    "population": 30543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés Villa Seca",
+    "region": "Retalhuleu Department",
+    "lat": 14.578,
+    "lon": -91.5854,
+    "population": 30478,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José Ojetenam",
+    "region": "San Marcos Department",
+    "lat": 15.2344,
+    "lon": -91.9732,
+    "population": 30391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Poptún",
+    "region": "Petén Department",
+    "lat": 16.3311,
+    "lon": -89.4169,
+    "population": 30361,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chajul",
+    "region": "Quiché Department",
+    "lat": 15.4852,
+    "lon": -91.0352,
+    "population": 30270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guastatoya",
+    "region": "El Progreso Department",
+    "lat": 14.8542,
+    "lon": -90.0694,
+    "population": 29957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco",
+    "region": "Petén Department",
+    "lat": 16.8,
+    "lon": -89.9333,
+    "population": 29832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nentón",
+    "region": "Huehuetenango Department",
+    "lat": 15.8007,
+    "lon": -91.7546,
+    "population": 29818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cantel",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8115,
+    "lon": -91.4554,
+    "population": 29800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco Zapotitlán",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5894,
+    "lon": -91.5214,
+    "population": 29723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chuarrancho",
+    "region": "Guatemala Department",
+    "lat": 14.8179,
+    "lon": -90.5157,
+    "population": 29555,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mataquescuintla",
+    "region": "Jalapa Department",
+    "lat": 14.5292,
+    "lon": -90.1842,
+    "population": 29546,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Magdalena Milpas Altas",
+    "region": "Sacatepéquez Department",
+    "lat": 14.548,
+    "lon": -90.6748,
+    "population": 29395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salcajá",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8796,
+    "lon": -91.457,
+    "population": 29161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa Catarina Palopó",
+    "region": "Sololá Department",
+    "lat": 14.7179,
+    "lon": -91.1306,
+    "population": 29107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Asunción Mita",
+    "region": "Jutiapa Department",
+    "lat": 14.3033,
+    "lon": -89.6762,
+    "population": 28892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Mataquescuintla",
+    "region": "Jalapa Department",
+    "lat": 14.5478,
+    "lon": -90.2001,
+    "population": 28864,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo Suchitepéquez",
+    "region": "Suchitepéquez Department",
+    "lat": 14.479,
+    "lon": -91.4833,
+    "population": 28688,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Atitán",
+    "region": "Huehuetenango Department",
+    "lat": 15.4289,
+    "lon": -91.624,
+    "population": 28653,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bartolomé Milpas Altas",
+    "region": "Sacatepéquez Department",
+    "lat": 14.6069,
+    "lon": -90.6781,
+    "population": 28455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa María de Jesús",
+    "region": "Sacatepéquez Department",
+    "lat": 14.4785,
+    "lon": -90.6999,
+    "population": 28374,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tectitán",
+    "region": "Huehuetenango Department",
+    "lat": 15.3063,
+    "lon": -92.0605,
+    "population": 28100,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Atescatempa",
+    "region": "Jutiapa Department",
+    "lat": 14.1744,
+    "lon": -89.7425,
+    "population": 28064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos Sija",
+    "region": "Quetzaltenango Department",
+    "lat": 14.9844,
+    "lon": -91.5491,
+    "population": 27956,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Nueva",
+    "region": "Guatemala Department",
+    "lat": 14.5251,
+    "lon": -90.5854,
+    "population": 27894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Felipe",
+    "region": "Retalhuleu Department",
+    "lat": 14.623,
+    "lon": -91.595,
+    "population": 27723,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio Suchitepéquez",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5394,
+    "lon": -91.4144,
+    "population": 27685,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Juan Cotzal",
+    "region": "Quiché Department",
+    "lat": 15.427,
+    "lon": -91.021,
+    "population": 27596,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Felipe",
+    "region": "Retalhuleu Department",
+    "lat": 14.6301,
+    "lon": -91.6026,
+    "population": 27543,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Catarina Palopó",
+    "region": "Sololá Department",
+    "lat": 14.7233,
+    "lon": -91.1343,
+    "population": 27516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción Tutuapa",
+    "region": "San Marcos Department",
+    "lat": 15.2394,
+    "lon": -91.8446,
+    "population": 27387,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Eulalia",
+    "region": "Huehuetenango Department",
+    "lat": 15.7306,
+    "lon": -91.4585,
+    "population": 27350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ixchiguán",
+    "region": "San Marcos Department",
+    "lat": 15.1638,
+    "lon": -91.9326,
+    "population": 27222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Gabriel",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5108,
+    "lon": -91.5075,
+    "population": 27211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Benito",
+    "region": "Petén Department",
+    "lat": 16.9168,
+    "lon": -89.919,
+    "population": 27197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morazán",
+    "region": "El Progreso Department",
+    "lat": 14.9328,
+    "lon": -90.1431,
+    "population": 27149,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz del Quiché",
+    "region": "Quiché Department",
+    "lat": 15.0308,
+    "lon": -91.1487,
+    "population": 27043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Asintal",
+    "region": "Retalhuleu Department",
+    "lat": 14.5963,
+    "lon": -91.7274,
+    "population": 26865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Canillá",
+    "region": "Quiché Department",
+    "lat": 15.1955,
+    "lon": -90.8597,
+    "population": 26836,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casillas",
+    "region": "Santa Rosa Department",
+    "lat": 14.4222,
+    "lon": -90.2442,
+    "population": 26792,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jutiapa",
+    "region": "Jutiapa Department",
+    "lat": 14.2917,
+    "lon": -89.8958,
+    "population": 26771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chisec",
+    "region": "Alta Verapaz Department",
+    "lat": 15.8167,
+    "lon": -90.2833,
+    "population": 26656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Raimundo",
+    "region": "Guatemala Department",
+    "lat": 14.7646,
+    "lon": -90.5949,
+    "population": 26578,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Nahualá",
+    "region": "Sololá Department",
+    "lat": 14.7755,
+    "lon": -91.4162,
+    "population": 26430,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quetzaltenango",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8347,
+    "lon": -91.5181,
+    "population": 26337,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Cotzal",
+    "region": "Quiché Department",
+    "lat": 15.4337,
+    "lon": -91.0348,
+    "population": 26233,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuilapa",
+    "region": "Santa Rosa Department",
+    "lat": 14.2764,
+    "lon": -90.2989,
+    "population": 26177,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Almolonga",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8159,
+    "lon": -91.4946,
+    "population": 25886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Sololá Department",
+    "lat": 14.7842,
+    "lon": -91.1475,
+    "population": 25806,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Colomba",
+    "region": "Quetzaltenango Department",
+    "lat": 14.71,
+    "lon": -91.7469,
+    "population": 25635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Puerto Barrios",
+    "region": "Izabal Department",
+    "lat": 15.7175,
+    "lon": -88.5852,
+    "population": 25504,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal Cucho",
+    "region": "San Marcos Department",
+    "lat": 14.905,
+    "lon": -91.7812,
+    "population": 25453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chichicastenango",
+    "region": "Quiché Department",
+    "lat": 14.9433,
+    "lon": -91.1112,
+    "population": 25394,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Francisco",
+    "region": "Petén Department",
+    "lat": 16.7243,
+    "lon": -89.9088,
+    "population": 25364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo La Laguna",
+    "region": "Sololá Department",
+    "lat": 14.7209,
+    "lon": -91.2724,
+    "population": 25145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Antigua Guatemala",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5431,
+    "lon": -90.7268,
+    "population": 25018,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yupiltepeque",
+    "region": "Jutiapa Department",
+    "lat": 14.2,
+    "lon": -89.7833,
+    "population": 24434,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Adelanto",
+    "region": "Jutiapa Department",
+    "lat": 14.1667,
+    "lon": -89.8333,
+    "population": 24288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pochuta",
+    "region": "Chimaltenango Department",
+    "lat": 14.5445,
+    "lon": -91.089,
+    "population": 24281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés Semetabaj",
+    "region": "Sololá Department",
+    "lat": 14.745,
+    "lon": -91.1334,
+    "population": 24124,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Sebastián Coatán",
+    "region": "Huehuetenango Department",
+    "lat": 15.7358,
+    "lon": -91.5628,
+    "population": 24038,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Reforma",
+    "region": "San Marcos Department",
+    "lat": 14.801,
+    "lon": -91.8223,
+    "population": 23943,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés Xecul",
+    "region": "Totonicapán Department",
+    "lat": 14.9048,
+    "lon": -91.4831,
+    "population": 23920,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Flores",
+    "region": "Petén Department",
+    "lat": 16.9226,
+    "lon": -89.8994,
+    "population": 23757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Santa Rosa",
+    "region": "Santa Rosa Department",
+    "lat": 14.3811,
+    "lon": -90.2761,
+    "population": 23724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Juan Ostuncalco",
+    "region": "Quetzaltenango Department",
+    "lat": 14.8748,
+    "lon": -91.6884,
+    "population": 23712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Escuintla",
+    "region": "Escuintla Department",
+    "lat": 14.305,
+    "lon": -90.785,
+    "population": 23707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalapa",
+    "region": "Jalapa Department",
+    "lat": 14.6347,
+    "lon": -89.9889,
+    "population": 23681,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Barillas",
+    "region": "Huehuetenango Department",
+    "lat": 15.8036,
+    "lon": -91.3158,
+    "population": 23664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palencia",
+    "region": "Guatemala Department",
+    "lat": 14.6671,
+    "lon": -90.3572,
+    "population": 23532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palín",
+    "region": "Escuintla Department",
+    "lat": 14.4036,
+    "lon": -90.6966,
+    "population": 23505,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jerez",
+    "region": "Jutiapa Department",
+    "lat": 14.1,
+    "lon": -89.75,
+    "population": 23455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael Petzal",
+    "region": "Huehuetenango Department",
+    "lat": 15.4049,
+    "lon": -91.6645,
+    "population": 23379,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Huehuetenango Department",
+    "lat": 15.3162,
+    "lon": -91.6328,
+    "population": 23277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patzún",
+    "region": "Chimaltenango Department",
+    "lat": 14.6819,
+    "lon": -91.014,
+    "population": 23271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esquipulas",
+    "region": "Chiquimula Department",
+    "lat": 14.5657,
+    "lon": -89.3517,
+    "population": 23111,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Oratorio",
+    "region": "Santa Rosa Department",
+    "lat": 14.2281,
+    "lon": -90.1758,
+    "population": 22950,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patzité",
+    "region": "Quiché Department",
+    "lat": 14.9643,
+    "lon": -91.2079,
+    "population": 22868,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "region": "Suchitepéquez Department",
+    "lat": 14.6471,
+    "lon": -91.5395,
+    "population": 22846,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Martín Jilotepeque",
+    "region": "Chimaltenango Department",
+    "lat": 14.7801,
+    "lon": -90.7926,
+    "population": 22728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Manuel Chaparrón",
+    "region": "Jalapa Department",
+    "lat": 14.5167,
+    "lon": -89.7667,
+    "population": 22582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguacatán",
+    "region": "Huehuetenango Department",
+    "lat": 15.3422,
+    "lon": -91.3114,
+    "population": 22453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Flores Costa Cuca",
+    "region": "Quetzaltenango Department",
+    "lat": 14.6324,
+    "lon": -91.8634,
+    "population": 22389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés",
+    "region": "Petén Department",
+    "lat": 16.9667,
+    "lon": -89.9167,
+    "population": 22322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo Xenacoj",
+    "region": "Sacatepéquez Department",
+    "lat": 14.6806,
+    "lon": -90.7001,
+    "population": 22158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Sacatepéquez",
+    "region": "San Marcos Department",
+    "lat": 14.9681,
+    "lon": -91.7617,
+    "population": 22077,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cahabón",
+    "region": "Alta Verapaz Department",
+    "lat": 15.5667,
+    "lon": -89.8167,
+    "population": 22054,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canillá",
+    "region": "Quiché Department",
+    "lat": 15.1655,
+    "lon": -90.8526,
+    "population": 21944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz Naranjo",
+    "region": "Santa Rosa Department",
+    "lat": 14.3881,
+    "lon": -90.3697,
+    "population": 21818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comapa",
+    "region": "Jutiapa Department",
+    "lat": 14.1167,
+    "lon": -89.9167,
+    "population": 21805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago Atitlán",
+    "region": "Sololá Department",
+    "lat": 14.6382,
+    "lon": -91.229,
+    "population": 21795,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaragoza",
+    "region": "Chimaltenango Department",
+    "lat": 14.6497,
+    "lon": -90.8903,
+    "population": 21620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Andrés Itzapa",
+    "region": "Chimaltenango Department",
+    "lat": 14.6222,
+    "lon": -90.8431,
+    "population": 21512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiquisate",
+    "region": "Escuintla Department",
+    "lat": 14.2836,
+    "lon": -91.3606,
+    "population": 21270,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Jalapa",
+    "region": "Jalapa Department",
+    "lat": 14.6327,
+    "lon": -90.033,
+    "population": 21238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olintepeque",
+    "region": "Quetzaltenango Department",
+    "lat": 14.886,
+    "lon": -91.5147,
+    "population": 21080,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Bautista",
+    "region": "Suchitepéquez Department",
+    "lat": 14.4227,
+    "lon": -91.179,
+    "population": 20886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José",
+    "region": "Petén Department",
+    "lat": 16.9833,
+    "lon": -89.9,
+    "population": 20865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esquipulas Palo Gordo",
+    "region": "San Marcos Department",
+    "lat": 14.9413,
+    "lon": -91.8256,
+    "population": 20859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiantla",
+    "region": "Huehuetenango Department",
+    "lat": 15.3548,
+    "lon": -91.4581,
+    "population": 20689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jacaltenango",
+    "region": "Huehuetenango Department",
+    "lat": 15.6666,
+    "lon": -91.7118,
+    "population": 20626,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Rodeo",
+    "region": "San Marcos Department",
+    "lat": 14.9145,
+    "lon": -91.9763,
+    "population": 20613,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tacaná",
+    "region": "San Marcos Department",
+    "lat": 15.2406,
+    "lon": -92.0672,
+    "population": 20342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamá",
+    "region": "Baja Verapaz Department",
+    "lat": 15.1028,
+    "lon": -90.3181,
+    "population": 20281,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José Ojetenán",
+    "region": "San Marcos Department",
+    "lat": 15.2167,
+    "lon": -91.9667,
+    "population": 20267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Totonicapán",
+    "region": "Totonicapán Department",
+    "lat": 14.9019,
+    "lon": -91.32,
+    "population": 20254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mazatenango",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5342,
+    "lon": -91.5033,
+    "population": 20132,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibinal",
+    "region": "San Marcos Department",
+    "lat": 15.1496,
+    "lon": -92.0489,
+    "population": 20117,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moyuta",
+    "region": "Jutiapa Department",
+    "lat": 14.0386,
+    "lon": -90.0808,
+    "population": 20101,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz Muluá",
+    "region": "Retalhuleu Department",
+    "lat": 14.5815,
+    "lon": -91.6244,
+    "population": 20009,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "Suchitepéquez Department",
+    "lat": 14.4861,
+    "lon": -91.5126,
+    "population": 19994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María Visitación",
+    "region": "Sololá Department",
+    "lat": 14.7172,
+    "lon": -91.3084,
+    "population": 19900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago Chimaltenango",
+    "region": "Huehuetenango Department",
+    "lat": 15.4766,
+    "lon": -91.6966,
+    "population": 19815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Tecuaco",
+    "region": "Santa Rosa Department",
+    "lat": 14.0836,
+    "lon": -90.2665,
+    "population": 19787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabricán",
+    "region": "Quetzaltenango Department",
+    "lat": 15.0748,
+    "lon": -91.648,
+    "population": 19595,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiquimulilla",
+    "region": "Santa Rosa Department",
+    "lat": 14.0838,
+    "lon": -90.3855,
+    "population": 19565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Agustín Acasaguastlán",
+    "region": "El Progreso Department",
+    "lat": 14.95,
+    "lon": -89.9667,
+    "population": 19565,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Andrés",
+    "region": "Petén Department",
+    "lat": 17.4954,
+    "lon": -90.3988,
+    "population": 19483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Blanco",
+    "region": "San Marcos Department",
+    "lat": 15.0382,
+    "lon": -91.6846,
+    "population": 19452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monjas",
+    "region": "Jalapa Department",
+    "lat": 14.5,
+    "lon": -89.8667,
+    "population": 19380,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Uspantán",
+    "region": "Quiché Department",
+    "lat": 15.3467,
+    "lon": -90.8705,
+    "population": 19194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio Aguas Calientes",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5468,
+    "lon": -90.7805,
+    "population": 19161,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Génova",
+    "region": "Quetzaltenango Department",
+    "lat": 14.6167,
+    "lon": -91.8333,
+    "population": 19139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tamahú",
+    "region": "Alta Verapaz Department",
+    "lat": 15.3089,
+    "lon": -90.236,
+    "population": 19130,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amatitlán",
+    "region": "Guatemala Department",
+    "lat": 14.4774,
+    "lon": -90.6349,
+    "population": 19113,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zacualpa",
+    "region": "Quiché Department",
+    "lat": 15.0268,
+    "lon": -90.8782,
+    "population": 18884,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malacatán",
+    "region": "San Marcos Department",
+    "lat": 14.9113,
+    "lon": -92.0579,
+    "population": 18725,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Purulhá",
+    "region": "Baja Verapaz Department",
+    "lat": 15.2667,
+    "lon": -90.2,
+    "population": 18566,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción Las Minas",
+    "region": "Chiquimula Department",
+    "lat": 14.5217,
+    "lon": -89.4572,
+    "population": 18563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Panajachel",
+    "region": "Sololá Department",
+    "lat": 14.7468,
+    "lon": -91.1493,
+    "population": 18518,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio Sacatepéquez",
+    "region": "San Marcos Department",
+    "lat": 14.9606,
+    "lon": -91.7315,
+    "population": 18388,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pastores",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5943,
+    "lon": -90.7547,
+    "population": 18336,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sololá",
+    "region": "Sololá Department",
+    "lat": 14.7722,
+    "lon": -91.1833,
+    "population": 18328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chinautla",
+    "region": "Guatemala Department",
+    "lat": 14.7029,
+    "lon": -90.4998,
+    "population": 18254,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chicacao",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5429,
+    "lon": -91.3264,
+    "population": 18155,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lorenzo",
+    "region": "San Marcos Department",
+    "lat": 15.0309,
+    "lon": -91.7353,
+    "population": 18078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael Las Flores",
+    "region": "Santa Rosa Department",
+    "lat": 14.4814,
+    "lon": -90.1733,
+    "population": 18040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristóbal Verapaz",
+    "region": "Alta Verapaz Department",
+    "lat": 15.3963,
+    "lon": -90.5651,
+    "population": 17974,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rabinal",
+    "region": "Baja Verapaz Department",
+    "lat": 15.0853,
+    "lon": -90.4925,
+    "population": 17886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guatemala City",
+    "region": "Guatemala Department",
+    "lat": 14.6407,
+    "lon": -90.5133,
+    "population": 17837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Chiquimulilla",
+    "region": "Santa Rosa Department",
+    "lat": 14.0972,
+    "lon": -90.379,
+    "population": 17803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Uspantán",
+    "region": "Quiché Department",
+    "lat": 15.4439,
+    "lon": -90.844,
+    "population": 17499,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cuyotenango",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5401,
+    "lon": -91.5718,
+    "population": 17324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José Pinula",
+    "region": "Guatemala Department",
+    "lat": 14.546,
+    "lon": -90.4129,
+    "population": 17302,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panzós",
+    "region": "Alta Verapaz Department",
+    "lat": 15.4,
+    "lon": -89.6667,
+    "population": 17279,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catarina",
+    "region": "San Marcos Department",
+    "lat": 14.8535,
+    "lon": -92.0768,
+    "population": 17019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago Sacatepéquez",
+    "region": "Sacatepéquez Department",
+    "lat": 14.6351,
+    "lon": -90.6765,
+    "population": 16925,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Amates",
+    "region": "Izabal Department",
+    "lat": 15.2564,
+    "lon": -89.0972,
+    "population": 16837,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Carchá",
+    "region": "Alta Verapaz Department",
+    "lat": 15.4833,
+    "lon": -90.2667,
+    "population": 16718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Sacatepéquez",
+    "region": "Guatemala Department",
+    "lat": 14.7189,
+    "lon": -90.6442,
+    "population": 16657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz Verapaz",
+    "region": "Alta Verapaz Department",
+    "lat": 15.3667,
+    "lon": -90.4333,
+    "population": 16536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José del Golfo",
+    "region": "Guatemala Department",
+    "lat": 14.7641,
+    "lon": -90.3723,
+    "population": 16341,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nahualá",
+    "region": "Sololá Department",
+    "lat": 14.8429,
+    "lon": -91.318,
+    "population": 16219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Canales",
+    "region": "Guatemala Department",
+    "lat": 14.4828,
+    "lon": -90.5343,
+    "population": 16076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sacapulas",
+    "region": "Quiché Department",
+    "lat": 15.288,
+    "lon": -91.0891,
+    "population": 15944,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Catarina Ixtahuacán",
+    "region": "Sololá Department",
+    "lat": 14.798,
+    "lon": -91.3587,
+    "population": 15712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción Huista",
+    "region": "Huehuetenango Department",
+    "lat": 15.6238,
+    "lon": -91.6652,
+    "population": 15559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Lucas Tolimán",
+    "region": "Sololá Department",
+    "lat": 14.5947,
+    "lon": -91.1466,
+    "population": 15408,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Mateo Ixtatán",
+    "region": "Huehuetenango Department",
+    "lat": 15.8319,
+    "lon": -91.4781,
+    "population": 15288,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retalhuleu",
+    "region": "Retalhuleu Department",
+    "lat": 14.5361,
+    "lon": -91.6778,
+    "population": 15197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Andrés Sajcabajá",
+    "region": "Quiché Department",
+    "lat": 15.2253,
+    "lon": -90.9302,
+    "population": 15141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Ixcan",
+    "region": "Quiché Department",
+    "lat": 15.9833,
+    "lon": -90.7667,
+    "population": 14970,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio Huista",
+    "region": "Huehuetenango Department",
+    "lat": 15.6501,
+    "lon": -91.7716,
+    "population": 14947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sumpango",
+    "region": "Sacatepéquez Department",
+    "lat": 14.6462,
+    "lon": -90.7343,
+    "population": 14893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Granados",
+    "region": "Baja Verapaz Department",
+    "lat": 14.9165,
+    "lon": -90.5229,
+    "population": 14820,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jalpatagua",
+    "region": "Jutiapa Department",
+    "lat": 14.1417,
+    "lon": -90.0086,
+    "population": 14755,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jocotenango",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5781,
+    "lon": -90.738,
+    "population": 14697,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morales",
+    "region": "Izabal Department",
+    "lat": 15.4833,
+    "lon": -88.8167,
+    "population": 14544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Progreso",
+    "region": "Jutiapa Department",
+    "lat": 14.35,
+    "lon": -89.85,
+    "population": 14348,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María Ixhuatán",
+    "region": "Santa Rosa Department",
+    "lat": 14.19,
+    "lon": -90.2747,
+    "population": 14297,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Mateo",
+    "region": "Quetzaltenango Department",
+    "lat": 14.858,
+    "lon": -91.59,
+    "population": 14271,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panajachel",
+    "region": "Sololá Department",
+    "lat": 14.7418,
+    "lon": -91.1568,
+    "population": 14179,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José Poaquil",
+    "region": "Chimaltenango Department",
+    "lat": 14.8181,
+    "lon": -90.9125,
+    "population": 14071,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Antonio Suchitepéquez",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5184,
+    "lon": -91.4044,
+    "population": 14050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Champerico",
+    "region": "Retalhuleu Department",
+    "lat": 14.2934,
+    "lon": -91.9121,
+    "population": 13791,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Petén Department",
+    "lat": 16.1989,
+    "lon": -89.4403,
+    "population": 13757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Miguel Panán",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5053,
+    "lon": -91.3596,
+    "population": 13545,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cubulco",
+    "region": "Baja Verapaz Department",
+    "lat": 15.1045,
+    "lon": -90.6287,
+    "population": 13483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel Acatán",
+    "region": "Huehuetenango Department",
+    "lat": 15.704,
+    "lon": -91.5977,
+    "population": 13283,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cobán",
+    "region": "Alta Verapaz Department",
+    "lat": 15.4708,
+    "lon": -90.3708,
+    "population": 13252,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yepocapa",
+    "region": "Chimaltenango Department",
+    "lat": 14.502,
+    "lon": -90.954,
+    "population": 13247,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanquín",
+    "region": "Alta Verapaz Department",
+    "lat": 15.5667,
+    "lon": -89.9667,
+    "population": 13198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Antonio Ilotenango",
+    "region": "Quiché Department",
+    "lat": 15.049,
+    "lon": -91.2087,
+    "population": 13090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Rosa de Lima",
+    "region": "Santa Rosa Department",
+    "lat": 14.3881,
+    "lon": -90.2956,
+    "population": 12937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guazacapán",
+    "region": "Santa Rosa Department",
+    "lat": 14.0742,
+    "lon": -90.4167,
+    "population": 12934,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José La Arada",
+    "region": "Chiquimula Department",
+    "lat": 14.7167,
+    "lon": -89.5833,
+    "population": 12914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Chol",
+    "region": "Baja Verapaz Department",
+    "lat": 14.9605,
+    "lon": -90.488,
+    "population": 12913,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comitancillo",
+    "region": "San Marcos Department",
+    "lat": 15.0894,
+    "lon": -91.7497,
+    "population": 12891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María Chiquimula",
+    "region": "Totonicapán Department",
+    "lat": 15.0299,
+    "lon": -91.3292,
+    "population": 12639,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chicamán",
+    "region": "Quiché Department",
+    "lat": 15.3479,
+    "lon": -90.7997,
+    "population": 12633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Benito",
+    "region": "Petén Department",
+    "lat": 16.9129,
+    "lon": -89.9098,
+    "population": 12497,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Chiché",
+    "region": "Quiché Department",
+    "lat": 15.012,
+    "lon": -91.0384,
+    "population": 12368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antigua Guatemala",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5611,
+    "lon": -90.7344,
+    "population": 12303,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan Ermita",
+    "region": "Chiquimula Department",
+    "lat": 14.7647,
+    "lon": -89.4301,
+    "population": 12268,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibilia",
+    "region": "Quetzaltenango Department",
+    "lat": 14.9939,
+    "lon": -91.6237,
+    "population": 12119,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiché",
+    "region": "Quiché Department",
+    "lat": 15.0089,
+    "lon": -91.0638,
+    "population": 12110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel Ixtahuacán",
+    "region": "San Marcos Department",
+    "lat": 15.2725,
+    "lon": -91.7478,
+    "population": 12033,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Francisco la Unión",
+    "region": "Quetzaltenango Department",
+    "lat": 14.9235,
+    "lon": -91.5416,
+    "population": 11914,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Apolonia",
+    "region": "Chimaltenango Department",
+    "lat": 14.7905,
+    "lon": -90.9727,
+    "population": 11708,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Sipacapa",
+    "region": "San Marcos Department",
+    "lat": 15.1924,
+    "lon": -91.6554,
+    "population": 11567,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bernardino",
+    "region": "Suchitepéquez Department",
+    "lat": 14.5424,
+    "lon": -91.4581,
+    "population": 11515,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José Acatempa",
+    "region": "Jutiapa Department",
+    "lat": 14.2653,
+    "lon": -90.1269,
+    "population": 11492,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Concepción",
+    "region": "Escuintla Department",
+    "lat": 14.2,
+    "lon": -91.3,
+    "population": 11416,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Asunción Mita",
+    "region": "Jutiapa Department",
+    "lat": 14.3308,
+    "lon": -89.7108,
+    "population": 11415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro Ayampuc",
+    "region": "Guatemala Department",
+    "lat": 14.7794,
+    "lon": -90.4532,
+    "population": 11385,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Patzicía",
+    "region": "Chimaltenango Department",
+    "lat": 14.6319,
+    "lon": -90.9266,
+    "population": 11356,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa Lucía Milpas Altas",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5675,
+    "lon": -90.6755,
+    "population": 11346,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tajumulco",
+    "region": "San Marcos Department",
+    "lat": 15.0835,
+    "lon": -91.9223,
+    "population": 11248,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio Palopó",
+    "region": "Sololá Department",
+    "lat": 14.6923,
+    "lon": -91.1164,
+    "population": 11178,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bartolo",
+    "region": "Totonicapán Department",
+    "lat": 15.0844,
+    "lon": -91.4561,
+    "population": 11154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Tejutla",
+    "region": "San Marcos Department",
+    "lat": 15.1564,
+    "lon": -91.8246,
+    "population": 11139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Cabricán",
+    "region": "Quetzaltenango Department",
+    "lat": 15.103,
+    "lon": -91.6492,
+    "population": 11068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz Balanyá",
+    "region": "Chimaltenango Department",
+    "lat": 14.6852,
+    "lon": -90.9191,
+    "population": 11050,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colotenango",
+    "region": "Huehuetenango Department",
+    "lat": 15.406,
+    "lon": -91.7127,
+    "population": 11026,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soloma",
+    "region": "Huehuetenango Department",
+    "lat": 15.6584,
+    "lon": -91.4299,
+    "population": 10881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Joyabaj",
+    "region": "Quiché Department",
+    "lat": 14.9931,
+    "lon": -90.8016,
+    "population": 10771,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael Pie de la Cuesta",
+    "region": "San Marcos Department",
+    "lat": 14.9305,
+    "lon": -91.9139,
+    "population": 10758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevo Progreso",
+    "region": "San Marcos Department",
+    "lat": 14.7917,
+    "lon": -91.9195,
+    "population": 10650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taxisco",
+    "region": "Santa Rosa Department",
+    "lat": 14.0672,
+    "lon": -90.4679,
+    "population": 10573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comalapa",
+    "region": "Chimaltenango Department",
+    "lat": 14.7409,
+    "lon": -90.8876,
+    "population": 10529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sayaxché",
+    "region": "Petén Department",
+    "lat": 16.5245,
+    "lon": -90.188,
+    "population": 10412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel Dueñas",
+    "region": "Sacatepéquez Department",
+    "lat": 14.5224,
+    "lon": -90.7994,
+    "population": 10129,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Libertad",
+    "region": "Huehuetenango Department",
+    "lat": 15.5142,
+    "lon": -91.8694,
+    "population": 10024,
+    "timezone": "UTC"
+  }
+]

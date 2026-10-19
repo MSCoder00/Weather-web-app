@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Bétérou",
+    "region": "Borgou Department",
+    "lat": 9.1992,
+    "lon": 2.2586,
+    "population": 49680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cové",
+    "region": "Zou Department",
+    "lat": 7.221,
+    "lon": 2.3402,
+    "population": 47852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tanguieta",
+    "region": "Atakora Department",
+    "lat": 11.0362,
+    "lon": 1.4176,
+    "population": 47457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djougou",
+    "region": "Donga Department",
+    "lat": 9.7085,
+    "lon": 1.666,
+    "population": 47431,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abomey",
+    "region": "Zou Department",
+    "lat": 7.1829,
+    "lon": 1.9912,
+    "population": 45146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bassila",
+    "region": "Donga Department",
+    "lat": 9.0081,
+    "lon": 1.6654,
+    "population": 44519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parakou",
+    "region": "Borgou Department",
+    "lat": 9.3372,
+    "lon": 2.6303,
+    "population": 43959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hinvi",
+    "region": "Atlantique Department",
+    "lat": 6.7667,
+    "lon": 2.1667,
+    "population": 40580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guilmaro",
+    "region": "Atakora Department",
+    "lat": 10.5658,
+    "lon": 1.7244,
+    "population": 39750,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bohicon",
+    "region": "Zou Department",
+    "lat": 7.1783,
+    "lon": 2.0667,
+    "population": 38935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bembèrèkè",
+    "region": "Borgou Department",
+    "lat": 10.2283,
+    "lon": 2.6633,
+    "population": 38617,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hévié",
+    "region": "Atlantique Department",
+    "lat": 6.4167,
+    "lon": 2.25,
+    "population": 38324,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pobé",
+    "region": "Plateau Department",
+    "lat": 6.9801,
+    "lon": 2.6649,
+    "population": 37744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Commune of Athieme",
+    "region": "Mono Department",
+    "lat": 6.5692,
+    "lon": 1.7026,
+    "population": 36314,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djakotomey",
+    "region": "Kouffo Department",
+    "lat": 6.9,
+    "lon": 1.7167,
+    "population": 35396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banikoara",
+    "region": "Alibori Department",
+    "lat": 11.2985,
+    "lon": 2.4386,
+    "population": 34531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Allada",
+    "region": "Atlantique Department",
+    "lat": 6.6655,
+    "lon": 2.1514,
+    "population": 32123,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Natitingou",
+    "region": "Atakora Department",
+    "lat": 10.3042,
+    "lon": 1.3796,
+    "population": 31764,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sakété",
+    "region": "Plateau Department",
+    "lat": 6.7362,
+    "lon": 2.6587,
+    "population": 31376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kétou",
+    "region": "Plateau Department",
+    "lat": 7.3633,
+    "lon": 2.5998,
+    "population": 30669,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tchaourou",
+    "region": "Borgou Department",
+    "lat": 8.8865,
+    "lon": 2.5975,
+    "population": 24719,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malanville",
+    "region": "Alibori Department",
+    "lat": 11.8682,
+    "lon": 3.3833,
+    "population": 24376,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abomey-Calavi",
+    "region": "Atlantique Department",
+    "lat": 6.4485,
+    "lon": 2.3557,
+    "population": 22739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Commune of Djougou",
+    "region": "Donga Department",
+    "lat": 9.643,
+    "lon": 1.896,
+    "population": 21871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lokossa",
+    "region": "Mono Department",
+    "lat": 6.6387,
+    "lon": 1.7167,
+    "population": 20896,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dogbo",
+    "region": "Kouffo Department",
+    "lat": 6.7991,
+    "lon": 1.7807,
+    "population": 20322,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cotonou",
+    "region": "Littoral Department",
+    "lat": 6.3654,
+    "lon": 2.4183,
+    "population": 18779,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ouidah",
+    "region": "Atlantique Department",
+    "lat": 6.3631,
+    "lon": 2.0851,
+    "population": 17812,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savalou",
+    "region": "Collines Department",
+    "lat": 7.9281,
+    "lon": 1.9756,
+    "population": 16947,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Comé",
+    "region": "Collines Department",
+    "lat": 6.4076,
+    "lon": 1.882,
+    "population": 15740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kandi",
+    "region": "Alibori Department",
+    "lat": 11.1342,
+    "lon": 2.9386,
+    "population": 14611,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Savé",
+    "region": "Collines Department",
+    "lat": 8.0342,
+    "lon": 2.4866,
+    "population": 14602,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dassa-Zoumé",
+    "region": "Collines Department",
+    "lat": 7.75,
+    "lon": 2.1833,
+    "population": 14461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porto-Novo",
+    "region": "Ouémé Department",
+    "lat": 6.4965,
+    "lon": 2.6036,
+    "population": 13809,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nikki",
+    "region": "Borgou Department",
+    "lat": 9.9401,
+    "lon": 3.2107,
+    "population": 12853,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Commune of Agbangnizoun",
+    "region": "Zou Department",
+    "lat": 7.076,
+    "lon": 1.961,
+    "population": 12313,
+    "timezone": "UTC"
+  }
+]

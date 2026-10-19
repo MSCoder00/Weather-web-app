@@ -1,0 +1,2770 @@
+[
+  {
+    "name": "Licantén",
+    "region": "Maule",
+    "lat": -34.9833,
+    "lon": -72,
+    "population": 49979,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lampa",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.2863,
+    "lon": -70.8756,
+    "population": 49951,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hijuelas",
+    "region": "Valparaíso",
+    "lat": -32.8,
+    "lon": -71.1667,
+    "population": 49849,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paine",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.808,
+    "lon": -70.7411,
+    "population": 49832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vicuña",
+    "region": "Coquimbo",
+    "lat": -30.0354,
+    "lon": -70.7127,
+    "population": 49660,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chile Chico",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -46.5376,
+    "lon": -71.7293,
+    "population": 49629,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Longaví",
+    "region": "Maule",
+    "lat": -35.965,
+    "lon": -71.6836,
+    "population": 49620,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Independencia",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4167,
+    "lon": -70.6333,
+    "population": 49579,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fresia",
+    "region": "Los Lagos",
+    "lat": -41.1536,
+    "lon": -73.421,
+    "population": 49576,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huara",
+    "region": "Tarapacá",
+    "lat": -19.9667,
+    "lon": -69.7667,
+    "population": 49462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mejillones",
+    "region": "Antofagasta",
+    "lat": -23.1,
+    "lon": -70.45,
+    "population": 49323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pichilemu",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.3833,
+    "lon": -72,
+    "population": 49187,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paihuano",
+    "region": "Coquimbo",
+    "lat": -30.0288,
+    "lon": -70.5171,
+    "population": 49053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabrero",
+    "region": "Biobío",
+    "lat": -37.0339,
+    "lon": -72.4047,
+    "population": 48903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calle Larga",
+    "region": "Valparaíso",
+    "lat": -32.85,
+    "lon": -70.6333,
+    "population": 48796,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Galvarino",
+    "region": "La Araucanía",
+    "lat": -38.4,
+    "lon": -72.7833,
+    "population": 48462,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Molina",
+    "region": "Maule",
+    "lat": -35.1143,
+    "lon": -71.2823,
+    "population": 48461,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Doñihue",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.2333,
+    "lon": -70.9667,
+    "population": 48342,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Gregorio",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -52.3167,
+    "lon": -69.6833,
+    "population": 48244,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Sauces",
+    "region": "La Araucanía",
+    "lat": -37.9667,
+    "lon": -72.8333,
+    "population": 48234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timaukel",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -53.6667,
+    "lon": -69.9,
+    "population": 48079,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laguna Blanca",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -52.25,
+    "lon": -71.9167,
+    "population": 48057,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sierra Gorda",
+    "region": "Antofagasta",
+    "lat": -22.8833,
+    "lon": -69.3167,
+    "population": 48049,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cobquecura",
+    "region": "Ñuble",
+    "lat": -36.1333,
+    "lon": -72.7833,
+    "population": 47904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limache",
+    "region": "Valparaíso",
+    "lat": -33.0167,
+    "lon": -71.2667,
+    "population": 47892,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Catemu",
+    "region": "Valparaíso",
+    "lat": -32.6333,
+    "lon": -71.0333,
+    "population": 47826,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Ligua",
+    "region": "Valparaíso",
+    "lat": -32.4524,
+    "lon": -71.2311,
+    "population": 47800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curacautín",
+    "region": "La Araucanía",
+    "lat": -38.4405,
+    "lon": -71.9054,
+    "population": 47797,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Saavedra",
+    "region": "La Araucanía",
+    "lat": -38.7833,
+    "lon": -73.4,
+    "population": 47786,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huasco",
+    "region": "Atacama",
+    "lat": -28.45,
+    "lon": -71.2167,
+    "population": 47663,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pablo",
+    "region": "Los Lagos",
+    "lat": -40.4,
+    "lon": -73.0167,
+    "population": 47272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curanilahue",
+    "region": "Biobío",
+    "lat": -37.4779,
+    "lon": -73.3449,
+    "population": 47208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puyehue",
+    "region": "Los Lagos",
+    "lat": -40.7097,
+    "lon": -72.6419,
+    "population": 47181,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Octay",
+    "region": "Los Lagos",
+    "lat": -40.9667,
+    "lon": -72.9,
+    "population": 47120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corral",
+    "region": "Los Ríos",
+    "lat": -39.8873,
+    "lon": -73.431,
+    "population": 46728,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Retiro",
+    "region": "Maule",
+    "lat": -36.05,
+    "lon": -71.7667,
+    "population": 46707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mostazal",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -33.9833,
+    "lon": -70.7,
+    "population": 46676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valdivia",
+    "region": "Los Ríos",
+    "lat": -39.8142,
+    "lon": -73.2459,
+    "population": 46675,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tirúa",
+    "region": "Biobío",
+    "lat": -38.3333,
+    "lon": -73.5,
+    "population": 46476,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camiña",
+    "region": "Tarapacá",
+    "lat": -19.3,
+    "lon": -69.4167,
+    "population": 46345,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pemuco",
+    "region": "Ñuble",
+    "lat": -36.9667,
+    "lon": -72.1,
+    "population": 46221,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alhué",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -34.0333,
+    "lon": -71.1,
+    "population": 46211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nancagua",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.6667,
+    "lon": -71.2167,
+    "population": 46201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peralillo",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.4833,
+    "lon": -71.4833,
+    "population": 46098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antártica",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -75,
+    "lon": -71.5,
+    "population": 46066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Bárbara",
+    "region": "Biobío",
+    "lat": -37.6667,
+    "lon": -72.0167,
+    "population": 45928,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Natales",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -51.7333,
+    "lon": -72.5167,
+    "population": 45739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llanquihue",
+    "region": "Los Lagos",
+    "lat": -41.3428,
+    "lon": -72.658,
+    "population": 45706,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de Atacama",
+    "region": "Antofagasta",
+    "lat": -22.9111,
+    "lon": -68.2011,
+    "population": 45635,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antuco",
+    "region": "Biobío",
+    "lat": -37.3333,
+    "lon": -71.6833,
+    "population": 45086,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perquenco",
+    "region": "La Araucanía",
+    "lat": -38.4167,
+    "lon": -72.3833,
+    "population": 45053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Toltén",
+    "region": "La Araucanía",
+    "lat": -39.1785,
+    "lon": -73.1645,
+    "population": 44823,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Valparaíso",
+    "region": "Valparaíso",
+    "lat": -33.036,
+    "lon": -71.6296,
+    "population": 44724,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coronel",
+    "region": "Biobío",
+    "lat": -37.0339,
+    "lon": -73.1402,
+    "population": 44460,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camarones",
+    "region": "Arica y Parinacota",
+    "lat": -19.0167,
+    "lon": -69.8667,
+    "population": 44441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Frutillar",
+    "region": "Los Lagos",
+    "lat": -41.0872,
+    "lon": -73.0956,
+    "population": 44429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Antofagasta",
+    "region": "Antofagasta",
+    "lat": -23.6524,
+    "lon": -70.3954,
+    "population": 44234,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panquehue",
+    "region": "Valparaíso",
+    "lat": -32.8,
+    "lon": -70.8333,
+    "population": 44216,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chiguayante",
+    "region": "Biobío",
+    "lat": -36.9256,
+    "lon": -73.0284,
+    "population": 44158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Imperial",
+    "region": "La Araucanía",
+    "lat": -38.7445,
+    "lon": -72.9502,
+    "population": 44016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5,
+    "lon": -70.6667,
+    "population": 43935,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto Hospicio",
+    "region": "Tarapacá",
+    "lat": -20.25,
+    "lon": -70.1167,
+    "population": 43867,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Negrete",
+    "region": "Biobío",
+    "lat": -37.5833,
+    "lon": -72.5167,
+    "population": 43817,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Alemana",
+    "region": "Valparaíso",
+    "lat": -33.0422,
+    "lon": -71.3733,
+    "population": 43751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Iquique",
+    "region": "Tarapacá",
+    "lat": -20.2133,
+    "lon": -70.1503,
+    "population": 43712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Machalí",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.1808,
+    "lon": -70.6493,
+    "population": 43529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lota",
+    "region": "Biobío",
+    "lat": -37.0899,
+    "lon": -73.1577,
+    "population": 43527,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pucón",
+    "region": "La Araucanía",
+    "lat": -39.2822,
+    "lon": -71.9543,
+    "population": 43498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilicura",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.3667,
+    "lon": -70.75,
+    "population": 43438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Canela",
+    "region": "Coquimbo",
+    "lat": -31.4,
+    "lon": -71.45,
+    "population": 43390,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lo Espejo",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5333,
+    "lon": -70.7167,
+    "population": 43350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Conchalí",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.35,
+    "lon": -70.6167,
+    "population": 43286,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villa Alegre",
+    "region": "Maule",
+    "lat": -35.6667,
+    "lon": -71.75,
+    "population": 43208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Angol",
+    "region": "La Araucanía",
+    "lat": -37.7952,
+    "lon": -72.7164,
+    "population": 43145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Macul",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5,
+    "lon": -70.5667,
+    "population": 43098,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Portezuelo",
+    "region": "Ñuble",
+    "lat": -36.5333,
+    "lon": -72.4333,
+    "population": 42605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Higuera",
+    "region": "Coquimbo",
+    "lat": -29.5,
+    "lon": -71.2667,
+    "population": 42471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tiltil",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.0833,
+    "lon": -70.9333,
+    "population": 42441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cochamó",
+    "region": "Los Lagos",
+    "lat": -41.5,
+    "lon": -72.3167,
+    "population": 42372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Taltal",
+    "region": "Antofagasta",
+    "lat": -25.4071,
+    "lon": -70.4855,
+    "population": 42316,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilaco",
+    "region": "Biobío",
+    "lat": -37.6844,
+    "lon": -72.0064,
+    "population": 42010,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curacaví",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4694,
+    "lon": -70.7261,
+    "population": 41852,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Combarbalá",
+    "region": "Coquimbo",
+    "lat": -31.1667,
+    "lon": -71.05,
+    "population": 41687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Nicolás",
+    "region": "Ñuble",
+    "lat": -36.5,
+    "lon": -72.2167,
+    "population": 41200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelluhue",
+    "region": "Maule",
+    "lat": -35.8333,
+    "lon": -72.6333,
+    "population": 41102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puchuncaví",
+    "region": "Valparaíso",
+    "lat": -32.7257,
+    "lon": -71.4151,
+    "population": 41087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tucapel",
+    "region": "Biobío",
+    "lat": -37.2833,
+    "lon": -71.95,
+    "population": 41064,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Bernardo",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5922,
+    "lon": -70.6996,
+    "population": 41001,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Claro",
+    "region": "Maule",
+    "lat": -35.2833,
+    "lon": -71.2667,
+    "population": 40814,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Bosque",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5667,
+    "lon": -70.7,
+    "population": 40757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sagrada Familia",
+    "region": "Maule",
+    "lat": -35,
+    "lon": -71.3833,
+    "population": 40693,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Andes",
+    "region": "Valparaíso",
+    "lat": -32.8337,
+    "lon": -70.5983,
+    "population": 40644,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto del Carmen",
+    "region": "Atacama",
+    "lat": -28.9336,
+    "lon": -70.4623,
+    "population": 40519,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ninhue",
+    "region": "Ñuble",
+    "lat": -36.4,
+    "lon": -72.4,
+    "population": 40474,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calbuco",
+    "region": "Los Lagos",
+    "lat": -41.7734,
+    "lon": -73.1305,
+    "population": 40424,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olmué",
+    "region": "Valparaíso",
+    "lat": -33,
+    "lon": -71.2,
+    "population": 40354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Juan Fernández",
+    "region": "Valparaíso",
+    "lat": -30.0256,
+    "lon": -82.0519,
+    "population": 40175,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Futaleufú",
+    "region": "Los Lagos",
+    "lat": -43.1849,
+    "lon": -71.8672,
+    "population": 40061,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Providencia",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4333,
+    "lon": -70.6167,
+    "population": 39999,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pelarco",
+    "region": "Maule",
+    "lat": -35.3833,
+    "lon": -71.45,
+    "population": 39997,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maipú",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5167,
+    "lon": -70.7667,
+    "population": 39955,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vallenar",
+    "region": "Atacama",
+    "lat": -28.5762,
+    "lon": -70.7594,
+    "population": 39818,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pumanque",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.6,
+    "lon": -71.6667,
+    "population": 39680,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Monte",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.6797,
+    "lon": -70.9848,
+    "population": 39654,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Porvenir",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -53.3,
+    "lon": -70.3667,
+    "population": 39633,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pudahuel",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4188,
+    "lon": -70.9146,
+    "population": 39524,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Monte Patria",
+    "region": "Coquimbo",
+    "lat": -30.695,
+    "lon": -70.9577,
+    "population": 39455,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Torres del Paine",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -51.2667,
+    "lon": -72.35,
+    "population": 39393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Vilos",
+    "region": "Coquimbo",
+    "lat": -31.9,
+    "lon": -71.5167,
+    "population": 39333,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Condes",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4167,
+    "lon": -70.5833,
+    "population": 39284,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talca",
+    "region": "Maule",
+    "lat": -35.4264,
+    "lon": -71.6554,
+    "population": 39263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Purén",
+    "region": "La Araucanía",
+    "lat": -38.0167,
+    "lon": -73.0833,
+    "population": 39199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paillaco",
+    "region": "Los Ríos",
+    "lat": -40.0706,
+    "lon": -72.8727,
+    "population": 39188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Felipe",
+    "region": "Valparaíso",
+    "lat": -32.7498,
+    "lon": -70.7258,
+    "population": 39173,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chimbarongo",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.7125,
+    "lon": -71.0434,
+    "population": 38961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quinta de Tilcoco",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.3555,
+    "lon": -70.9653,
+    "population": 38863,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Máfil",
+    "region": "Los Ríos",
+    "lat": -39.65,
+    "lon": -72.95,
+    "population": 38851,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerrillos",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5023,
+    "lon": -70.7301,
+    "population": 38672,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Recoleta",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4167,
+    "lon": -70.65,
+    "population": 38599,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peñalolén",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4833,
+    "lon": -70.5333,
+    "population": 38532,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peñaflor",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.6063,
+    "lon": -70.8765,
+    "population": 38509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diego de Almagro",
+    "region": "Atacama",
+    "lat": -26.3667,
+    "lon": -70.05,
+    "population": 38495,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Casablanca",
+    "region": "Valparaíso",
+    "lat": -33.3167,
+    "lon": -71.4167,
+    "population": 38477,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rosendo",
+    "region": "Biobío",
+    "lat": -37.2667,
+    "lon": -72.7167,
+    "population": 37916,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lanco",
+    "region": "Los Ríos",
+    "lat": -39.4525,
+    "lon": -72.7712,
+    "population": 37765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Renca",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4,
+    "lon": -70.7333,
+    "population": 37699,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro de la Paz",
+    "region": "Biobío",
+    "lat": -36.8408,
+    "lon": -73.1031,
+    "population": 37425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chonchi",
+    "region": "Los Lagos",
+    "lat": -42.6239,
+    "lon": -73.775,
+    "population": 37332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chépica",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.7333,
+    "lon": -71.2833,
+    "population": 37205,
+    "timezone": "UTC"
+  },
+  {
+    "name": "General Lagos",
+    "region": "Arica y Parinacota",
+    "lat": -17.5667,
+    "lon": -69.5,
+    "population": 37194,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calera de Tango",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.65,
+    "lon": -70.8167,
+    "population": 37152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quellón",
+    "region": "Los Lagos",
+    "lat": -43.1182,
+    "lon": -73.6166,
+    "population": 37043,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concón",
+    "region": "Valparaíso",
+    "lat": -32.9167,
+    "lon": -71.5167,
+    "population": 36751,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ancud",
+    "region": "Los Lagos",
+    "lat": -41.8707,
+    "lon": -73.8162,
+    "population": 36509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rengo",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.4064,
+    "lon": -70.8583,
+    "population": 36471,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maule",
+    "region": "Maule",
+    "lat": -35.5333,
+    "lon": -71.7,
+    "population": 36452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Tabo",
+    "region": "Valparaíso",
+    "lat": -33.45,
+    "lon": -71.6667,
+    "population": 36352,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colchane",
+    "region": "Tarapacá",
+    "lat": -19.2754,
+    "lon": -68.6396,
+    "population": 35930,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ercilla",
+    "region": "La Araucanía",
+    "lat": -38.05,
+    "lon": -72.3833,
+    "population": 35648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabildo",
+    "region": "Valparaíso",
+    "lat": -32.4174,
+    "lon": -70.8243,
+    "population": 35558,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Unión",
+    "region": "Los Ríos",
+    "lat": -40.2931,
+    "lon": -73.0817,
+    "population": 35443,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dalcahue",
+    "region": "Los Lagos",
+    "lat": -42.3785,
+    "lon": -73.6501,
+    "population": 35420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chanco",
+    "region": "Maule",
+    "lat": -35.7333,
+    "lon": -72.5333,
+    "population": 34895,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de Maipo",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.6333,
+    "lon": -70.3667,
+    "population": 34830,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Petorca",
+    "region": "Valparaíso",
+    "lat": -32.25,
+    "lon": -70.9333,
+    "population": 34803,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rinconada",
+    "region": "Valparaíso",
+    "lat": -32.8333,
+    "lon": -70.7,
+    "population": 34747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caldera",
+    "region": "Atacama",
+    "lat": -27.0667,
+    "lon": -70.8167,
+    "population": 34645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Andacollo",
+    "region": "Coquimbo",
+    "lat": -30.2167,
+    "lon": -71.0833,
+    "population": 34452,
+    "timezone": "UTC"
+  },
+  {
+    "name": "María Pinto",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5333,
+    "lon": -71.1333,
+    "population": 34449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arica",
+    "region": "Arica y Parinacota",
+    "lat": -18.4746,
+    "lon": -70.2979,
+    "population": 34445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Bueno",
+    "region": "Los Ríos",
+    "lat": -40.3349,
+    "lon": -72.9556,
+    "population": 34365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Estación Central",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4519,
+    "lon": -70.6789,
+    "population": 34206,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Codegua",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.0333,
+    "lon": -70.6667,
+    "population": 34163,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Joaquín",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5,
+    "lon": -70.6167,
+    "population": 34157,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coínco",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.2667,
+    "lon": -70.9667,
+    "population": 33937,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Victoria",
+    "region": "La Araucanía",
+    "lat": -38.2329,
+    "lon": -72.3329,
+    "population": 33893,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lautaro",
+    "region": "La Araucanía",
+    "lat": -38.5307,
+    "lon": -72.4365,
+    "population": 33614,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melipilla",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.6891,
+    "lon": -71.2153,
+    "population": 33536,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Futrono",
+    "region": "Los Ríos",
+    "lat": -40.1333,
+    "lon": -72.4,
+    "population": 33470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aysén",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -45.403,
+    "lon": -72.6918,
+    "population": 33238,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Negro",
+    "region": "Los Lagos",
+    "lat": -40.7961,
+    "lon": -73.2161,
+    "population": 33156,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rauco",
+    "region": "Maule",
+    "lat": -34.9255,
+    "lon": -71.3172,
+    "population": 33039,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quirihue",
+    "region": "Ñuble",
+    "lat": -36.28,
+    "lon": -72.5412,
+    "population": 32923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Serena",
+    "region": "Coquimbo",
+    "lat": -29.9045,
+    "lon": -71.2489,
+    "population": 32794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chillán",
+    "region": "Ñuble",
+    "lat": -36.6066,
+    "lon": -72.1034,
+    "population": 32721,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teno",
+    "region": "Maule",
+    "lat": -34.8706,
+    "lon": -71.1622,
+    "population": 32607,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punta Arenas",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -53.1627,
+    "lon": -70.9081,
+    "population": 32411,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Romeral",
+    "region": "Maule",
+    "lat": -34.9667,
+    "lon": -71.1333,
+    "population": 32344,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Concepción",
+    "region": "Biobío",
+    "lat": -36.827,
+    "lon": -73.0498,
+    "population": 32282,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pozo Almonte",
+    "region": "Tarapacá",
+    "lat": -20.2597,
+    "lon": -69.7862,
+    "population": 32230,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmilla",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.6,
+    "lon": -71.3667,
+    "population": 32115,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cisnes",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -44.7275,
+    "lon": -72.6805,
+    "population": 31964,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quinchao",
+    "region": "Los Lagos",
+    "lat": -42.5333,
+    "lon": -73.4167,
+    "population": 31709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Requínoa",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.2833,
+    "lon": -70.8333,
+    "population": 31522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yungay",
+    "region": "Ñuble",
+    "lat": -37.1167,
+    "lon": -72.0167,
+    "population": 31357,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Primavera",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -52.7167,
+    "lon": -69.25,
+    "population": 31267,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Juan de la Costa",
+    "region": "Los Lagos",
+    "lat": -40.5167,
+    "lon": -73.4,
+    "population": 31195,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chañaral",
+    "region": "Atacama",
+    "lat": -26.3479,
+    "lon": -70.6224,
+    "population": 31146,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Penco",
+    "region": "Biobío",
+    "lat": -36.7407,
+    "lon": -72.9953,
+    "population": 31095,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cartagena",
+    "region": "Valparaíso",
+    "lat": -33.5538,
+    "lon": -71.6076,
+    "population": 30996,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pinto",
+    "region": "Ñuble",
+    "lat": -36.7,
+    "lon": -71.9,
+    "population": 30815,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Vicente",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.4386,
+    "lon": -71.0775,
+    "population": 30508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curicó",
+    "region": "Maule",
+    "lat": -34.9828,
+    "lon": -71.2394,
+    "population": 30365,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gorbea",
+    "region": "La Araucanía",
+    "lat": -39.1,
+    "lon": -72.6833,
+    "population": 30364,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4569,
+    "lon": -70.6483,
+    "population": 30306,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Clemente",
+    "region": "Maule",
+    "lat": -35.5378,
+    "lon": -71.487,
+    "population": 30272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ránquil",
+    "region": "Ñuble",
+    "lat": -36.65,
+    "lon": -72.55,
+    "population": 30262,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ñuñoa",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4667,
+    "lon": -70.6,
+    "population": 30204,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padre Las Casas",
+    "region": "La Araucanía",
+    "lat": -38.7667,
+    "lon": -72.6,
+    "population": 30180,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lo Prado",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4443,
+    "lon": -70.7255,
+    "population": 30058,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pirque",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.7186,
+    "lon": -70.5066,
+    "population": 29856,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fernando",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.7433,
+    "lon": -70.6033,
+    "population": 29788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nogales",
+    "region": "Valparaíso",
+    "lat": -32.7167,
+    "lon": -71.2333,
+    "population": 29777,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zapallar",
+    "region": "Valparaíso",
+    "lat": -32.5539,
+    "lon": -71.4577,
+    "population": 29650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ñiquén",
+    "region": "Ñuble",
+    "lat": -36.3,
+    "lon": -71.9,
+    "population": 29648,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Illapel",
+    "region": "Coquimbo",
+    "lat": -31.6335,
+    "lon": -71.1697,
+    "population": 29604,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Placilla",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.6333,
+    "lon": -71.1167,
+    "population": 29414,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cholchol",
+    "region": "La Araucanía",
+    "lat": -38.6,
+    "lon": -72.85,
+    "population": 29239,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualpén",
+    "region": "Biobío",
+    "lat": -36.7833,
+    "lon": -73.0833,
+    "population": 29036,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Queilén",
+    "region": "Los Lagos",
+    "lat": -42.8557,
+    "lon": -73.5644,
+    "population": 28816,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Malloa",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.45,
+    "lon": -70.95,
+    "population": 28713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puqueldón",
+    "region": "Los Lagos",
+    "lat": -42.6,
+    "lon": -73.6746,
+    "population": 28686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vitacura",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4,
+    "lon": -70.6,
+    "population": 28641,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Parral",
+    "region": "Maule",
+    "lat": -36.1431,
+    "lon": -71.826,
+    "population": 28538,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Osorno",
+    "region": "Los Lagos",
+    "lat": -40.574,
+    "lon": -73.1335,
+    "population": 28531,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Quisco",
+    "region": "Valparaíso",
+    "lat": -33.4,
+    "lon": -71.7,
+    "population": 28522,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualaihué",
+    "region": "Los Lagos",
+    "lat": -42.0167,
+    "lon": -72.6833,
+    "population": 28491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tortel",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -47.8333,
+    "lon": -73.5667,
+    "population": 28491,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Melipeuco",
+    "region": "La Araucanía",
+    "lat": -38.85,
+    "lon": -71.7,
+    "population": 28450,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Graneros",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.0686,
+    "lon": -70.7275,
+    "population": 28074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Carmen",
+    "region": "Ñuble",
+    "lat": -36.9,
+    "lon": -72.0333,
+    "population": 28020,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Buin",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.7326,
+    "lon": -70.7428,
+    "population": 27790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puente Alto",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.6117,
+    "lon": -70.5758,
+    "population": 27659,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colina",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.2,
+    "lon": -70.6833,
+    "population": 27559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colbún",
+    "region": "Maule",
+    "lat": -35.6949,
+    "lon": -71.4057,
+    "population": 27529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Huechuraba",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.3693,
+    "lon": -70.6648,
+    "population": 27330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Carahue",
+    "region": "La Araucanía",
+    "lat": -38.7112,
+    "lon": -73.161,
+    "population": 27199,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guaitecas",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -43.8833,
+    "lon": -73.7333,
+    "population": 27197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curarrehue",
+    "region": "La Araucanía",
+    "lat": -39.35,
+    "lon": -71.5833,
+    "population": 27110,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Llaillay",
+    "region": "Valparaíso",
+    "lat": -32.8404,
+    "lon": -70.9562,
+    "population": 27068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pencahue",
+    "region": "Maule",
+    "lat": -35.4,
+    "lon": -71.8167,
+    "population": 27053,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talagante",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.6639,
+    "lon": -70.9273,
+    "population": 26985,
+    "timezone": "UTC"
+  },
+  {
+    "name": "O'Higgins",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -48.4667,
+    "lon": -72.5667,
+    "population": 26917,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pichidegua",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.35,
+    "lon": -71.3,
+    "population": 26832,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cochrane",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -47.2539,
+    "lon": -72.5732,
+    "population": 26664,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yumbel",
+    "region": "Biobío",
+    "lat": -37.0982,
+    "lon": -72.5608,
+    "population": 26647,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vilcún",
+    "region": "La Araucanía",
+    "lat": -38.6688,
+    "lon": -72.2257,
+    "population": 26615,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pica",
+    "region": "Tarapacá",
+    "lat": -20.5,
+    "lon": -69.3333,
+    "population": 26535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Castro",
+    "region": "Los Lagos",
+    "lat": -42.4721,
+    "lon": -73.7732,
+    "population": 26525,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Navidad",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -33.9333,
+    "lon": -71.8333,
+    "population": 26513,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isla de Maipo",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.75,
+    "lon": -70.9,
+    "population": 26510,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arauco",
+    "region": "Biobío",
+    "lat": -37.2463,
+    "lon": -73.3175,
+    "population": 26396,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pitrufquén",
+    "region": "La Araucanía",
+    "lat": -38.9864,
+    "lon": -72.6372,
+    "population": 26107,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ramón",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5378,
+    "lon": -70.6518,
+    "population": 25952,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Pedro",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.9,
+    "lon": -71.4667,
+    "population": 25886,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lago Verde",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -44.2403,
+    "lon": -71.8495,
+    "population": 25858,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mulchén",
+    "region": "Biobío",
+    "lat": -37.7189,
+    "lon": -72.241,
+    "population": 25713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Montt",
+    "region": "Los Lagos",
+    "lat": -41.4693,
+    "lon": -72.9424,
+    "population": 25512,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Hurtado",
+    "region": "Coquimbo",
+    "lat": -30.2667,
+    "lon": -70.7,
+    "population": 25445,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Muermos",
+    "region": "Los Lagos",
+    "lat": -41.4,
+    "lon": -73.4833,
+    "population": 25429,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio",
+    "region": "Valparaíso",
+    "lat": -33.5947,
+    "lon": -71.6075,
+    "population": 25366,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Ángeles",
+    "region": "Biobío",
+    "lat": -37.4697,
+    "lon": -72.3537,
+    "population": 25328,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Esteban",
+    "region": "Valparaíso",
+    "lat": -32.8,
+    "lon": -70.5833,
+    "population": 24798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coihueco",
+    "region": "Ñuble",
+    "lat": -36.6279,
+    "lon": -71.8307,
+    "population": 24781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chillán Viejo",
+    "region": "Ñuble",
+    "lat": -36.6229,
+    "lon": -72.1317,
+    "population": 24773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curaco de Vélez",
+    "region": "Los Lagos",
+    "lat": -42.4397,
+    "lon": -73.6029,
+    "population": 24621,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quemchi",
+    "region": "Los Lagos",
+    "lat": -42.1333,
+    "lon": -73.5167,
+    "population": 24441,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Granja",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5431,
+    "lon": -70.6319,
+    "population": 24290,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabo de Hornos",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -54.9333,
+    "lon": -67.6167,
+    "population": 23483,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Collipulli",
+    "region": "La Araucanía",
+    "lat": -37.9545,
+    "lon": -72.4344,
+    "population": 23378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Traiguén",
+    "region": "La Araucanía",
+    "lat": -38.2496,
+    "lon": -72.6703,
+    "population": 23332,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quinta Normal",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.45,
+    "lon": -70.7,
+    "population": 23215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chaitén",
+    "region": "Los Lagos",
+    "lat": -42.916,
+    "lon": -72.7063,
+    "population": 23202,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nacimiento",
+    "region": "Biobío",
+    "lat": -37.5025,
+    "lon": -72.6731,
+    "population": 23099,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Renaico",
+    "region": "La Araucanía",
+    "lat": -37.7178,
+    "lon": -72.5757,
+    "population": 22656,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Ignacio",
+    "region": "Ñuble",
+    "lat": -36.8,
+    "lon": -72.0421,
+    "population": 22634,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Talcahuano",
+    "region": "Biobío",
+    "lat": -36.7249,
+    "lon": -73.1168,
+    "population": 22624,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Curepto",
+    "region": "Maule",
+    "lat": -35.0833,
+    "lon": -72.0167,
+    "population": 22389,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Teodoro Schmidt",
+    "region": "La Araucanía",
+    "lat": -38.9667,
+    "lon": -73.05,
+    "population": 22292,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Álamos",
+    "region": "Biobío",
+    "lat": -37.6167,
+    "lon": -73.4667,
+    "population": 22256,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Ibáñez",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -46.3,
+    "lon": -71.9333,
+    "population": 22000,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Olivar",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.2116,
+    "lon": -70.8201,
+    "population": 21931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bulnes",
+    "region": "Ñuble",
+    "lat": -36.7423,
+    "lon": -72.2985,
+    "population": 21833,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coelemu",
+    "region": "Ñuble",
+    "lat": -36.4833,
+    "lon": -72.7,
+    "population": 21465,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lebu",
+    "region": "Biobío",
+    "lat": -37.6082,
+    "lon": -73.6536,
+    "population": 21446,
+    "timezone": "UTC"
+  },
+  {
+    "name": "María Elena",
+    "region": "Antofagasta",
+    "lat": -22.35,
+    "lon": -69.6667,
+    "population": 21351,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Juana",
+    "region": "Biobío",
+    "lat": -37.1667,
+    "lon": -72.9333,
+    "population": 21245,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Litueche",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.1167,
+    "lon": -71.7333,
+    "population": 21220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ollagüe",
+    "region": "Antofagasta",
+    "lat": -21.225,
+    "lon": -68.2535,
+    "population": 21063,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Loncoche",
+    "region": "La Araucanía",
+    "lat": -39.3671,
+    "lon": -72.6309,
+    "population": 21040,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Rafael",
+    "region": "Maule",
+    "lat": -35.3167,
+    "lon": -71.5333,
+    "population": 21013,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cunco",
+    "region": "La Araucanía",
+    "lat": -38.9167,
+    "lon": -72.0333,
+    "population": 20869,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariquina",
+    "region": "Los Ríos",
+    "lat": -39.5167,
+    "lon": -72.9667,
+    "population": 20781,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Freire",
+    "region": "La Araucanía",
+    "lat": -38.9525,
+    "lon": -72.6265,
+    "population": 20695,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualañé",
+    "region": "Maule",
+    "lat": -34.9765,
+    "lon": -71.8048,
+    "population": 20550,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florida",
+    "region": "Biobío",
+    "lat": -36.8167,
+    "lon": -72.6667,
+    "population": 20440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Paredones",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.7833,
+    "lon": -71.1667,
+    "population": 20409,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilpué",
+    "region": "Valparaíso",
+    "lat": -33.0475,
+    "lon": -71.4425,
+    "population": 20355,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calama",
+    "region": "Antofagasta",
+    "lat": -22.4567,
+    "lon": -68.9237,
+    "population": 20354,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Papudo",
+    "region": "Valparaíso",
+    "lat": -32.5167,
+    "lon": -71.45,
+    "population": 20330,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Algarrobo",
+    "region": "Valparaíso",
+    "lat": -33.3693,
+    "lon": -71.6681,
+    "population": 20076,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Verde",
+    "region": "Magallanes y de la Antártica Chilena",
+    "lat": -52.65,
+    "lon": -71.4833,
+    "population": 20019,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Laja",
+    "region": "Biobío",
+    "lat": -37.2841,
+    "lon": -72.7111,
+    "population": 19857,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lumaco",
+    "region": "La Araucanía",
+    "lat": -38.15,
+    "lon": -72.9167,
+    "population": 19850,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viña del Mar",
+    "region": "Valparaíso",
+    "lat": -33.0246,
+    "lon": -71.5518,
+    "population": 19776,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Fabián",
+    "region": "Ñuble",
+    "lat": -36.55,
+    "lon": -71.55,
+    "population": 19590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Peumo",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.4,
+    "lon": -71.1667,
+    "population": 19498,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.6388,
+    "lon": -71.3658,
+    "population": 19399,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Linares",
+    "region": "Maule",
+    "lat": -35.8467,
+    "lon": -71.5931,
+    "population": 18907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Cabras",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.3,
+    "lon": -71.3167,
+    "population": 18859,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Freirina",
+    "region": "Atacama",
+    "lat": -28.5,
+    "lon": -71.0667,
+    "population": 18757,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lolol",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.7286,
+    "lon": -71.6447,
+    "population": 18435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vichuquén",
+    "region": "Maule",
+    "lat": -34.8833,
+    "lon": -72,
+    "population": 18074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Empedrado",
+    "region": "Maule",
+    "lat": -35.6,
+    "lon": -72.2833,
+    "population": 18016,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Varas",
+    "region": "Los Lagos",
+    "lat": -41.3195,
+    "lon": -72.9854,
+    "population": 17667,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yerbas Buenas",
+    "region": "Maule",
+    "lat": -35.75,
+    "lon": -71.5833,
+    "population": 17586,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Estrella",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.2,
+    "lon": -71.6667,
+    "population": 17327,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Copiapó",
+    "region": "Atacama",
+    "lat": -27.3665,
+    "lon": -70.3323,
+    "population": 17074,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro Aguirre Cerda",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4667,
+    "lon": -70.6333,
+    "population": 16789,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putaendo",
+    "region": "Valparaíso",
+    "lat": -32.6333,
+    "lon": -70.7333,
+    "population": 16788,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palena",
+    "region": "Los Lagos",
+    "lat": -43.6188,
+    "lon": -71.8043,
+    "population": 16575,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isla de Pascua",
+    "region": "Valparaíso",
+    "lat": -27.1105,
+    "lon": -109.2975,
+    "population": 16384,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cauquenes",
+    "region": "Maule",
+    "lat": -35.9671,
+    "lon": -72.3225,
+    "population": 16219,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Padre Hurtado",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5667,
+    "lon": -70.8333,
+    "population": 16069,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lonquimay",
+    "region": "La Araucanía",
+    "lat": -38.4333,
+    "lon": -71.2333,
+    "population": 15984,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Salamanca",
+    "region": "Coquimbo",
+    "lat": -31.7792,
+    "lon": -70.9639,
+    "population": 15561,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Villarrica",
+    "region": "La Araucanía",
+    "lat": -39.2857,
+    "lon": -72.2279,
+    "population": 15220,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Carlos",
+    "region": "Ñuble",
+    "lat": -36.4248,
+    "lon": -71.958,
+    "population": 15104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Florida",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.55,
+    "lon": -70.5667,
+    "population": 14967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Purranque",
+    "region": "Los Lagos",
+    "lat": -40.913,
+    "lon": -73.1591,
+    "population": 14949,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cañete",
+    "region": "Biobío",
+    "lat": -37.8013,
+    "lon": -73.3962,
+    "population": 14775,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quintero",
+    "region": "Valparaíso",
+    "lat": -32.7833,
+    "lon": -71.5333,
+    "population": 14689,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lago Ranco",
+    "region": "Los Ríos",
+    "lat": -40.3167,
+    "lon": -72.5,
+    "population": 14591,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tierra Amarilla",
+    "region": "Atacama",
+    "lat": -27.4667,
+    "lon": -70.2667,
+    "population": 14003,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quilleco",
+    "region": "Biobío",
+    "lat": -37.4667,
+    "lon": -71.9667,
+    "population": 13969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Calera",
+    "region": "Valparaíso",
+    "lat": -32.7833,
+    "lon": -71.2167,
+    "population": 13772,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Temuco",
+    "region": "La Araucanía",
+    "lat": -38.7396,
+    "lon": -72.5984,
+    "population": 13718,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cruz",
+    "region": "Valparaíso",
+    "lat": -32.8167,
+    "lon": -71.2333,
+    "population": 13707,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Putre",
+    "region": "Arica y Parinacota",
+    "lat": -18.1964,
+    "lon": -69.5592,
+    "population": 13678,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ovalle",
+    "region": "Coquimbo",
+    "lat": -30.6011,
+    "lon": -71.199,
+    "population": 13577,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alto Biobío",
+    "region": "Biobío",
+    "lat": -38.05,
+    "lon": -71.3167,
+    "population": 13569,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quillón",
+    "region": "Ñuble",
+    "lat": -36.7333,
+    "lon": -72.4667,
+    "population": 13560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Valparaíso",
+    "lat": -33.6472,
+    "lon": -71.6353,
+    "population": 13447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Constitución",
+    "region": "Maule",
+    "lat": -35.3332,
+    "lon": -72.4116,
+    "population": 13145,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Hualqui",
+    "region": "Biobío",
+    "lat": -36.9727,
+    "lon": -72.9356,
+    "population": 13046,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Marchigüe",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.4,
+    "lon": -71.6333,
+    "population": 13012,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Panguipulli",
+    "region": "Los Ríos",
+    "lat": -39.6435,
+    "lon": -72.3327,
+    "population": 13006,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Punitaqui",
+    "region": "Coquimbo",
+    "lat": -30.9,
+    "lon": -71.2667,
+    "population": 12969,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coyhaique",
+    "region": "Aisén del General Carlos Ibañez del Campo",
+    "lat": -45.5752,
+    "lon": -72.0662,
+    "population": 12657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rancagua",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.1708,
+    "lon": -70.7444,
+    "population": 12597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contulmo",
+    "region": "Biobío",
+    "lat": -38,
+    "lon": -73.2333,
+    "population": 12580,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa María",
+    "region": "Valparaíso",
+    "lat": -32.75,
+    "lon": -70.6667,
+    "population": 12193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro Navia",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.4252,
+    "lon": -70.7841,
+    "population": 11904,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Reina",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.45,
+    "lon": -70.55,
+    "population": 11870,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quillota",
+    "region": "Valparaíso",
+    "lat": -32.8834,
+    "lon": -71.2488,
+    "population": 11790,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tomé",
+    "region": "Biobío",
+    "lat": -36.6176,
+    "lon": -72.9559,
+    "population": 11590,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coltauco",
+    "region": "Libertador General Bernardo O'Higgins",
+    "lat": -34.3,
+    "lon": -71.1,
+    "population": 11509,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Coquimbo",
+    "region": "Coquimbo",
+    "lat": -29.9533,
+    "lon": -71.3395,
+    "population": 11438,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Javier",
+    "region": "Maule",
+    "lat": -35.5952,
+    "lon": -71.7292,
+    "population": 11425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Lagos",
+    "region": "Los Ríos",
+    "lat": -39.85,
+    "lon": -72.8333,
+    "population": 11319,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lo Barnechea",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.35,
+    "lon": -70.5167,
+    "population": 10936,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Pintana",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.5833,
+    "lon": -70.6342,
+    "population": 10866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maullín",
+    "region": "Los Lagos",
+    "lat": -41.6167,
+    "lon": -73.6,
+    "population": 10744,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Treguaco",
+    "region": "Ñuble",
+    "lat": -36.4333,
+    "lon": -72.6667,
+    "population": 10323,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Cisterna",
+    "region": "Región Metropolitana de Santiago",
+    "lat": -33.55,
+    "lon": -70.6833,
+    "population": 10144,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Tocopilla",
+    "region": "Antofagasta",
+    "lat": -22.092,
+    "lon": -70.1979,
+    "population": 10009,
+    "timezone": "UTC"
+  }
+]

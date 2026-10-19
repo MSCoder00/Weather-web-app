@@ -1,0 +1,1498 @@
+[
+  {
+    "name": "San Nicolás de Bari",
+    "region": "Mayabeque Province",
+    "lat": 22.7844,
+    "lon": -81.9133,
+    "population": 49889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Sancti Spíritus",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.8218,
+    "lon": -79.5104,
+    "population": 49529,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camagüey",
+    "region": "Camagüey Province",
+    "lat": 21.3808,
+    "lon": -77.9169,
+    "population": 49415,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Caibarién",
+    "region": "Villa Clara Province",
+    "lat": 22.52,
+    "lon": -79.466,
+    "population": 49363,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Güines",
+    "region": "Mayabeque Province",
+    "lat": 22.7871,
+    "lon": -82.016,
+    "population": 49102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jobabo",
+    "region": "Las Tunas Province",
+    "lat": 20.9075,
+    "lon": -77.2819,
+    "population": 48948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rancho Veloz",
+    "region": "Villa Clara Province",
+    "lat": 22.8804,
+    "lon": -80.391,
+    "population": 48885,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Habana Vieja",
+    "region": "Havana Province",
+    "lat": 23.1303,
+    "lon": -82.3531,
+    "population": 48871,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Primero de Enero",
+    "region": "Ciego de Ávila Province",
+    "lat": 21.945,
+    "lon": -78.4313,
+    "population": 48737,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Contramaestre",
+    "region": "Santiago de Cuba Province",
+    "lat": 20.2988,
+    "lon": -76.2451,
+    "population": 48732,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jobabo",
+    "region": "Holguín Province",
+    "lat": 20.9692,
+    "lon": -76.2994,
+    "population": 48305,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banes",
+    "region": "Holguín Province",
+    "lat": 20.9612,
+    "lon": -75.722,
+    "population": 48300,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Salud",
+    "region": "Mayabeque Province",
+    "lat": 22.872,
+    "lon": -82.4233,
+    "population": 48261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pinar del Río",
+    "region": "Pinar del Río Province",
+    "lat": 22.4167,
+    "lon": -83.6967,
+    "population": 48222,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Cabaiguán",
+    "region": "Sancti Spíritus Province",
+    "lat": 22.0833,
+    "lon": -79.5,
+    "population": 48066,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Güira de Melena",
+    "region": "Artemisa Province",
+    "lat": 22.7961,
+    "lon": -82.5067,
+    "population": 47881,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio del Sur",
+    "region": "Guantánamo Province",
+    "lat": 20.0556,
+    "lon": -74.8075,
+    "population": 47716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Guane",
+    "region": "Pinar del Río Province",
+    "lat": 22.2459,
+    "lon": -84.0366,
+    "population": 47692,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San José de las Lajas",
+    "region": "Mayabeque Province",
+    "lat": 22.9614,
+    "lon": -82.1511,
+    "population": 47666,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Artemisa",
+    "region": "Artemisa Province",
+    "lat": 22.8167,
+    "lon": -82.7594,
+    "population": 47263,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Trinidad",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.8319,
+    "lon": -79.8836,
+    "population": 47188,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bauta",
+    "region": "Artemisa Province",
+    "lat": 22.9823,
+    "lon": -82.5472,
+    "population": 46714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baraguá",
+    "region": "Ciego de Ávila Province",
+    "lat": 21.6822,
+    "lon": -78.6257,
+    "population": 45911,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esperanza",
+    "region": "Villa Clara Province",
+    "lat": 22.4468,
+    "lon": -80.0971,
+    "population": 45866,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Morón",
+    "region": "Ciego de Ávila Province",
+    "lat": 22.1077,
+    "lon": -78.6267,
+    "population": 45516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santo Domingo",
+    "region": "Villa Clara Province",
+    "lat": 22.5868,
+    "lon": -80.2426,
+    "population": 45120,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palmira",
+    "region": "Cienfuegos Province",
+    "lat": 22.2413,
+    "lon": -80.3911,
+    "population": 45118,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Topes de Collantes",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.9152,
+    "lon": -80.0193,
+    "population": 44994,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Melena del Sur",
+    "region": "Mayabeque Province",
+    "lat": 22.7882,
+    "lon": -82.1511,
+    "population": 44727,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Florida",
+    "region": "Camagüey Province",
+    "lat": 21.4658,
+    "lon": -78.3485,
+    "population": 44304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz del Sur",
+    "region": "Camagüey Province",
+    "lat": 20.7163,
+    "lon": -77.9982,
+    "population": 43953,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Venezuela",
+    "region": "Ciego de Ávila Province",
+    "lat": 21.7375,
+    "lon": -78.7934,
+    "population": 43910,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jiguaní",
+    "region": "Granma Province",
+    "lat": 20.3679,
+    "lon": -76.4274,
+    "population": 43900,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manatí",
+    "region": "Las Tunas Province",
+    "lat": 21.3107,
+    "lon": -76.934,
+    "population": 43798,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Bayamo",
+    "region": "Granma Province",
+    "lat": 20.4251,
+    "lon": -76.6861,
+    "population": 43475,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calimete",
+    "region": "Matanzas Province",
+    "lat": 22.5342,
+    "lon": -80.9111,
+    "population": 43375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Manzanillo",
+    "region": "Granma Province",
+    "lat": 20.2473,
+    "lon": -77.1027,
+    "population": 43350,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Arroyo Naranjo",
+    "region": "Havana Province",
+    "lat": 23.0368,
+    "lon": -82.3694,
+    "population": 43307,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Media Luna",
+    "region": "Granma Province",
+    "lat": 20.143,
+    "lon": -77.4353,
+    "population": 43154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Viñales",
+    "region": "Pinar del Río Province",
+    "lat": 22.6189,
+    "lon": -83.7069,
+    "population": 42834,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santiago de Cuba",
+    "region": "Santiago de Cuba Province",
+    "lat": 20.0062,
+    "lon": -75.7082,
+    "population": 42709,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Banes",
+    "region": "Holguín Province",
+    "lat": 20.9801,
+    "lon": -75.7493,
+    "population": 42198,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Placetas",
+    "region": "Villa Clara Province",
+    "lat": 22.2225,
+    "lon": -79.7427,
+    "population": 42031,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Condado",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.8767,
+    "lon": -79.8401,
+    "population": 41959,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Padre",
+    "region": "Las Tunas Province",
+    "lat": 21.1952,
+    "lon": -76.6036,
+    "population": 41891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guayos",
+    "region": "Sancti Spíritus Province",
+    "lat": 22.0496,
+    "lon": -79.4611,
+    "population": 41603,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de las Vegas",
+    "region": "Havana Province",
+    "lat": 22.97,
+    "lon": -82.3869,
+    "population": 41423,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guanabacoa",
+    "region": "Havana Province",
+    "lat": 23.1236,
+    "lon": -82.3008,
+    "population": 41154,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gibara",
+    "region": "Holguín Province",
+    "lat": 21.1099,
+    "lon": -76.1315,
+    "population": 40907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Maisí",
+    "region": "Guantánamo Province",
+    "lat": 20.2467,
+    "lon": -74.1518,
+    "population": 40562,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Matanzas",
+    "region": "Matanzas Province",
+    "lat": 23.0411,
+    "lon": -81.5775,
+    "population": 40508,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Cienfuegos",
+    "region": "Cienfuegos Province",
+    "lat": 22.15,
+    "lon": -80.45,
+    "population": 40378,
+    "timezone": "UTC"
+  },
+  {
+    "name": "La Sierpe",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.7724,
+    "lon": -79.2683,
+    "population": 40368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Clara",
+    "region": "Villa Clara Province",
+    "lat": 22.4069,
+    "lon": -79.9647,
+    "population": 39805,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Cristobal",
+    "region": "Artemisa Province",
+    "lat": 22.7166,
+    "lon": -83.0565,
+    "population": 39662,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Ciego de Ávila",
+    "region": "Ciego de Ávila Province",
+    "lat": 21.85,
+    "lon": -78.7667,
+    "population": 39573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Pinar del Río Province",
+    "lat": 22.279,
+    "lon": -83.7596,
+    "population": 39440,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Consolación del Sur",
+    "region": "Pinar del Río Province",
+    "lat": 22.441,
+    "lon": -83.4198,
+    "population": 39412,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Perico",
+    "region": "Matanzas Province",
+    "lat": 22.7699,
+    "lon": -81.0183,
+    "population": 39393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alamar",
+    "region": "Havana Province",
+    "lat": 23.1579,
+    "lon": -82.2784,
+    "population": 39295,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Consolación del Sur",
+    "region": "Pinar del Río Province",
+    "lat": 22.5042,
+    "lon": -83.5144,
+    "population": 38827,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Calabazar de Sagua",
+    "region": "Villa Clara Province",
+    "lat": 22.6452,
+    "lon": -79.8951,
+    "population": 38799,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Palma Soriano",
+    "region": "Santiago de Cuba Province",
+    "lat": 20.2113,
+    "lon": -75.9936,
+    "population": 38787,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cruces",
+    "region": "Cienfuegos Province",
+    "lat": 22.342,
+    "lon": -80.2702,
+    "population": 38294,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Artemisa",
+    "region": "Artemisa Province",
+    "lat": 22.7738,
+    "lon": -82.8042,
+    "population": 38114,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Lajas",
+    "region": "Cienfuegos Province",
+    "lat": 22.4148,
+    "lon": -80.2931,
+    "population": 38028,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Cauto",
+    "region": "Granma Province",
+    "lat": 20.5597,
+    "lon": -76.9167,
+    "population": 37971,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cauto Cristo",
+    "region": "Granma Province",
+    "lat": 20.5571,
+    "lon": -76.4727,
+    "population": 37957,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Esmeralda",
+    "region": "Camagüey Province",
+    "lat": 21.8514,
+    "lon": -78.1172,
+    "population": 37645,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colón",
+    "region": "Matanzas Province",
+    "lat": 22.7206,
+    "lon": -80.9049,
+    "population": 37514,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciego de Ávila",
+    "region": "Ciego de Ávila Province",
+    "lat": 21.84,
+    "lon": -78.7619,
+    "population": 37375,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guane",
+    "region": "Pinar del Río Province",
+    "lat": 22.2018,
+    "lon": -84.0848,
+    "population": 37108,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Corralillo",
+    "region": "Villa Clara Province",
+    "lat": 22.9821,
+    "lon": -80.5856,
+    "population": 36533,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Boyeros",
+    "region": "Havana Province",
+    "lat": 23.0072,
+    "lon": -82.4017,
+    "population": 36395,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Placetas",
+    "region": "Villa Clara Province",
+    "lat": 22.3118,
+    "lon": -79.6544,
+    "population": 36007,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manicaragua",
+    "region": "Villa Clara Province",
+    "lat": 22.1502,
+    "lon": -79.9787,
+    "population": 35716,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Moa",
+    "region": "Holguín Province",
+    "lat": 20.6578,
+    "lon": -74.9507,
+    "population": 35701,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bartolomé Masó",
+    "region": "Granma Province",
+    "lat": 20.1664,
+    "lon": -76.9429,
+    "population": 35488,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quemado de Güines",
+    "region": "Villa Clara Province",
+    "lat": 22.7882,
+    "lon": -80.2523,
+    "population": 35447,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guanajay",
+    "region": "Artemisa Province",
+    "lat": 22.9264,
+    "lon": -82.6875,
+    "population": 35391,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yaguajay",
+    "region": "Sancti Spíritus Province",
+    "lat": 22.3269,
+    "lon": -79.2357,
+    "population": 35243,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Diego de Los Baños",
+    "region": "Pinar del Río Province",
+    "lat": 22.6467,
+    "lon": -83.3697,
+    "population": 35104,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Encrucijada",
+    "region": "Villa Clara Province",
+    "lat": 22.618,
+    "lon": -79.866,
+    "population": 34988,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Varadero",
+    "region": "Matanzas Province",
+    "lat": 23.1568,
+    "lon": -81.2444,
+    "population": 34785,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Jatibonico",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.9333,
+    "lon": -79.1667,
+    "population": 34393,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cárdenas",
+    "region": "Matanzas Province",
+    "lat": 23.0366,
+    "lon": -81.206,
+    "population": 34277,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Unión de Reyes",
+    "region": "Matanzas Province",
+    "lat": 22.795,
+    "lon": -81.5362,
+    "population": 34102,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Aguada de Pasajeros",
+    "region": "Cienfuegos Province",
+    "lat": 22.3852,
+    "lon": -80.8479,
+    "population": 34092,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yara",
+    "region": "Granma Province",
+    "lat": 20.2747,
+    "lon": -76.9513,
+    "population": 33712,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guantánamo",
+    "region": "Guantánamo Province",
+    "lat": 20.1444,
+    "lon": -75.2092,
+    "population": 33676,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abreus",
+    "region": "Cienfuegos Province",
+    "lat": 22.278,
+    "lon": -80.5693,
+    "population": 33453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Guantánamo",
+    "region": "Guantánamo Province",
+    "lat": 20.2672,
+    "lon": -75.1555,
+    "population": 33186,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Rodas",
+    "region": "Cienfuegos Province",
+    "lat": 22.3418,
+    "lon": -80.556,
+    "population": 32713,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alacranes",
+    "region": "Matanzas Province",
+    "lat": 22.7672,
+    "lon": -81.568,
+    "population": 32420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baracoa",
+    "region": "Guantánamo Province",
+    "lat": 20.3471,
+    "lon": -74.4962,
+    "population": 31865,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Candelaria",
+    "region": "Artemisa Province",
+    "lat": 22.7406,
+    "lon": -82.9591,
+    "population": 31800,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jovellanos",
+    "region": "Matanzas Province",
+    "lat": 22.8038,
+    "lon": -81.1913,
+    "population": 31573,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Zaza del Medio",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.9971,
+    "lon": -79.3668,
+    "population": 31559,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bahía Honda",
+    "region": "Artemisa Province",
+    "lat": 22.9033,
+    "lon": -83.1599,
+    "population": 31021,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Los Palacios",
+    "region": "Pinar del Río Province",
+    "lat": 22.5833,
+    "lon": -83.25,
+    "population": 30948,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sagua de Tánamo",
+    "region": "Holguín Province",
+    "lat": 20.5827,
+    "lon": -75.2412,
+    "population": 30581,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minas",
+    "region": "Camagüey Province",
+    "lat": 21.488,
+    "lon": -77.6103,
+    "population": 30135,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Diez de Octubre",
+    "region": "Havana Province",
+    "lat": 23.0881,
+    "lon": -82.3597,
+    "population": 30059,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Habana del Este",
+    "region": "Havana Province",
+    "lat": 23.1592,
+    "lon": -82.3306,
+    "population": 29773,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Colombia",
+    "region": "Las Tunas Province",
+    "lat": 20.9881,
+    "lon": -77.426,
+    "population": 29600,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sibanicú",
+    "region": "Camagüey Province",
+    "lat": 21.2363,
+    "lon": -77.5256,
+    "population": 29420,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Bauta",
+    "region": "Artemisa Province",
+    "lat": 22.9696,
+    "lon": -82.5,
+    "population": 29208,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Centro Habana",
+    "region": "Havana Province",
+    "lat": 23.1383,
+    "lon": -82.3642,
+    "population": 28938,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Fomento",
+    "region": "Sancti Spíritus Province",
+    "lat": 22.1047,
+    "lon": -79.7214,
+    "population": 28778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Güines",
+    "region": "Mayabeque Province",
+    "lat": 22.8373,
+    "lon": -82.0264,
+    "population": 28642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mariel",
+    "region": "Artemisa Province",
+    "lat": 22.9893,
+    "lon": -82.7538,
+    "population": 28304,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jamaica",
+    "region": "Mayabeque Province",
+    "lat": 22.9756,
+    "lon": -82.1685,
+    "population": 28211,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Santa Clara",
+    "region": "Villa Clara Province",
+    "lat": 22.4,
+    "lon": -79.9667,
+    "population": 28126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Madruga",
+    "region": "Mayabeque Province",
+    "lat": 22.91,
+    "lon": -81.8564,
+    "population": 27993,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guáimaro",
+    "region": "Camagüey Province",
+    "lat": 21.0522,
+    "lon": -77.3499,
+    "population": 27907,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Guisa",
+    "region": "Granma Province",
+    "lat": 20.2549,
+    "lon": -76.5393,
+    "population": 27502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Isabela de Sagua",
+    "region": "Villa Clara Province",
+    "lat": 22.9392,
+    "lon": -80.0118,
+    "population": 26368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Cobre",
+    "region": "Santiago de Cuba Province",
+    "lat": 20.0485,
+    "lon": -75.9458,
+    "population": 26261,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jatibonico",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.9433,
+    "lon": -79.1691,
+    "population": 26158,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Morón",
+    "region": "Ciego de Ávila Province",
+    "lat": 22.2998,
+    "lon": -78.5687,
+    "population": 25783,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Matanzas",
+    "region": "Matanzas Province",
+    "lat": 23.05,
+    "lon": -81.5833,
+    "population": 25535,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Regla",
+    "region": "Havana Province",
+    "lat": 23.125,
+    "lon": -82.3319,
+    "population": 25298,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mantua",
+    "region": "Pinar del Río Province",
+    "lat": 22.2906,
+    "lon": -84.286,
+    "population": 25215,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Puerto Esperanza",
+    "region": "Pinar del Río Province",
+    "lat": 22.7704,
+    "lon": -83.7314,
+    "population": 24961,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Holguín",
+    "region": "Holguín Province",
+    "lat": 20.9119,
+    "lon": -76.2706,
+    "population": 24891,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Cárdenas",
+    "region": "Matanzas Province",
+    "lat": 22.9898,
+    "lon": -81.2352,
+    "population": 23765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Trinidad",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.8022,
+    "lon": -79.9847,
+    "population": 23758,
+    "timezone": "UTC"
+  },
+  {
+    "name": "El Caney",
+    "region": "Camagüey Province",
+    "lat": 21.3,
+    "lon": -78.4833,
+    "population": 22766,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de San Cristóbal",
+    "region": "Artemisa Province",
+    "lat": 22.7145,
+    "lon": -83.0456,
+    "population": 22651,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Limonar",
+    "region": "Matanzas Province",
+    "lat": 22.9504,
+    "lon": -81.4106,
+    "population": 21960,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cerro",
+    "region": "Havana Province",
+    "lat": 23.1086,
+    "lon": -82.3778,
+    "population": 21334,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bejucal",
+    "region": "Mayabeque Province",
+    "lat": 22.9286,
+    "lon": -82.3886,
+    "population": 21326,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Campechuela",
+    "region": "Granma Province",
+    "lat": 20.2333,
+    "lon": -77.2799,
+    "population": 21201,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sancti Spíritus",
+    "region": "Sancti Spíritus Province",
+    "lat": 21.9297,
+    "lon": -79.4425,
+    "population": 21072,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cacocum",
+    "region": "Holguín Province",
+    "lat": 20.7377,
+    "lon": -76.3257,
+    "population": 20848,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Batabanó",
+    "region": "Mayabeque Province",
+    "lat": 22.7179,
+    "lon": -82.2896,
+    "population": 20516,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Luis",
+    "region": "Santiago de Cuba Province",
+    "lat": 20.1881,
+    "lon": -75.8503,
+    "population": 20486,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nuevitas",
+    "region": "Camagüey Province",
+    "lat": 21.5459,
+    "lon": -77.265,
+    "population": 20467,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Guanajay",
+    "region": "Artemisa Province",
+    "lat": 22.8922,
+    "lon": -82.7087,
+    "population": 20372,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Soroa",
+    "region": "Artemisa Province",
+    "lat": 22.8,
+    "lon": -83.0167,
+    "population": 20067,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niquero",
+    "region": "Granma Province",
+    "lat": 20.047,
+    "lon": -77.5809,
+    "population": 19605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florencia",
+    "region": "Ciego de Ávila Province",
+    "lat": 22.1461,
+    "lon": -78.9733,
+    "population": 19255,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Abreus",
+    "region": "Cienfuegos Province",
+    "lat": 22.1923,
+    "lon": -80.7147,
+    "population": 18368,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Arabos",
+    "region": "Matanzas Province",
+    "lat": 22.7297,
+    "lon": -80.7208,
+    "population": 18200,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de La Palma",
+    "region": "Pinar del Río Province",
+    "lat": 22.75,
+    "lon": -83.55,
+    "population": 17687,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manzanillo",
+    "region": "Granma Province",
+    "lat": 20.3417,
+    "lon": -77.1213,
+    "population": 17650,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ciro Redondo",
+    "region": "Ciego de Ávila Province",
+    "lat": 22.0192,
+    "lon": -78.7036,
+    "population": 17560,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Palma Soriano",
+    "region": "Santiago de Cuba Province",
+    "lat": 20.209,
+    "lon": -76.0578,
+    "population": 17496,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jesús Menéndez",
+    "region": "Las Tunas Province",
+    "lat": 21.1614,
+    "lon": -76.4792,
+    "population": 17487,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bolondrón",
+    "region": "Matanzas Province",
+    "lat": 22.7631,
+    "lon": -81.4478,
+    "population": 17241,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Los Palacios",
+    "region": "Pinar del Río Province",
+    "lat": 22.5888,
+    "lon": -83.2467,
+    "population": 17139,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Holguín",
+    "region": "Holguín Province",
+    "lat": 20.8872,
+    "lon": -76.2631,
+    "population": 17004,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bayamo",
+    "region": "Granma Province",
+    "lat": 20.3742,
+    "lon": -76.6436,
+    "population": 16926,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Havana",
+    "region": "Havana Province",
+    "lat": 23.133,
+    "lon": -82.383,
+    "population": 16734,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Nuevitas",
+    "region": "Camagüey Province",
+    "lat": 21.55,
+    "lon": -77.2667,
+    "population": 16726,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Mariel",
+    "region": "Artemisa Province",
+    "lat": 22.9652,
+    "lon": -82.8032,
+    "population": 16597,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Nueva Gerona",
+    "region": "Isla de la Juventud",
+    "lat": 21.8867,
+    "lon": -82.8056,
+    "population": 16481,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ranchuelo",
+    "region": "Villa Clara Province",
+    "lat": 22.3727,
+    "lon": -80.1505,
+    "population": 16470,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cienfuegos",
+    "region": "Cienfuegos Province",
+    "lat": 22.1496,
+    "lon": -80.4466,
+    "population": 16425,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Florida",
+    "region": "Camagüey Province",
+    "lat": 21.5254,
+    "lon": -78.2258,
+    "population": 16087,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Las Tunas",
+    "region": "Las Tunas Province",
+    "lat": 20.9617,
+    "lon": -76.9511,
+    "population": 16068,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Quivicán",
+    "region": "Mayabeque Province",
+    "lat": 22.8231,
+    "lon": -82.3556,
+    "population": 15889,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Germán",
+    "region": "Holguín Province",
+    "lat": 20.6001,
+    "lon": -76.1336,
+    "population": 15214,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Camajuaní",
+    "region": "Villa Clara Province",
+    "lat": 22.4833,
+    "lon": -79.75,
+    "population": 15174,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cueto",
+    "region": "Holguín Province",
+    "lat": 20.6486,
+    "lon": -75.9297,
+    "population": 15126,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cifuentes",
+    "region": "Villa Clara Province",
+    "lat": 22.6493,
+    "lon": -80.0494,
+    "population": 15078,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabaiguán",
+    "region": "Sancti Spíritus Province",
+    "lat": 22.0787,
+    "lon": -79.4973,
+    "population": 14747,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cabañas",
+    "region": "Artemisa Province",
+    "lat": 22.9794,
+    "lon": -82.9221,
+    "population": 14638,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Minas de Matahambre",
+    "region": "Pinar del Río Province",
+    "lat": 22.5869,
+    "lon": -83.9455,
+    "population": 14449,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cumanayagua",
+    "region": "Cienfuegos Province",
+    "lat": 22.1525,
+    "lon": -80.2035,
+    "population": 14152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Chambas",
+    "region": "Ciego de Ávila Province",
+    "lat": 22.1953,
+    "lon": -78.9123,
+    "population": 13627,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Río Guayabal de Yateras",
+    "region": "Guantánamo Province",
+    "lat": 20.3667,
+    "lon": -75.0167,
+    "population": 13582,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sagua la Grande",
+    "region": "Villa Clara Province",
+    "lat": 22.8067,
+    "lon": -80.0756,
+    "population": 13362,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Pedro Betancourt",
+    "region": "Matanzas Province",
+    "lat": 22.7271,
+    "lon": -81.2896,
+    "population": 13240,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Alquízar",
+    "region": "Artemisa Province",
+    "lat": 22.8052,
+    "lon": -82.5839,
+    "population": 13116,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Martí",
+    "region": "Matanzas Province",
+    "lat": 22.9471,
+    "lon": -80.919,
+    "population": 12861,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santa Cruz del Norte",
+    "region": "Mayabeque Province",
+    "lat": 23.1542,
+    "lon": -81.9256,
+    "population": 12714,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Manguito",
+    "region": "Matanzas Province",
+    "lat": 22.5873,
+    "lon": -80.9145,
+    "population": 12193,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jimaguayú",
+    "region": "Camagüey Province",
+    "lat": 21.2422,
+    "lon": -77.8263,
+    "population": 12137,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Municipio de Niquero",
+    "region": "Granma Province",
+    "lat": 19.9391,
+    "lon": -77.5708,
+    "population": 11967,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Santiago de Cuba",
+    "region": "Santiago de Cuba Province",
+    "lat": 20.0208,
+    "lon": -75.8267,
+    "population": 11923,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Miguel del Padrón",
+    "region": "Havana Province",
+    "lat": 23.0664,
+    "lon": -82.2947,
+    "population": 11794,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Amancio",
+    "region": "Las Tunas Province",
+    "lat": 20.8191,
+    "lon": -77.5796,
+    "population": 11437,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Vertientes",
+    "region": "Camagüey Province",
+    "lat": 21.2582,
+    "lon": -78.1498,
+    "population": 11152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jagüey Grande",
+    "region": "Matanzas Province",
+    "lat": 22.5269,
+    "lon": -81.1286,
+    "population": 10894,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San Antonio de los Baños",
+    "region": "Artemisa Province",
+    "lat": 22.8902,
+    "lon": -82.501,
+    "population": 10453,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Jaruco",
+    "region": "Mayabeque Province",
+    "lat": 23.0442,
+    "lon": -82.0092,
+    "population": 10308,
+    "timezone": "UTC"
+  }
+]

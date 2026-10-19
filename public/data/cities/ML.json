@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Kolokani",
+    "region": "Koulikoro Region",
+    "lat": 13.5728,
+    "lon": -8.0339,
+    "population": 49991,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ké-Macina",
+    "region": "Ségou Region",
+    "lat": 13.9641,
+    "lon": -5.3579,
+    "population": 49765,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kolondiéba",
+    "region": "Sikasso Region",
+    "lat": 11.0894,
+    "lon": -6.8929,
+    "population": 48902,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douentza",
+    "region": "Mopti Region",
+    "lat": 15.0015,
+    "lon": -2.9498,
+    "population": 47544,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ntossoni",
+    "region": "Sikasso Region",
+    "lat": 12.5304,
+    "lon": -5.77,
+    "population": 47318,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Niafunké",
+    "region": "Tombouctou Region",
+    "lat": 15.9322,
+    "lon": -3.9906,
+    "population": 47182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Yorosso",
+    "region": "Sikasso Region",
+    "lat": 12.3581,
+    "lon": -4.7769,
+    "population": 44435,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kita",
+    "region": "Kayes Region",
+    "lat": 13.0349,
+    "lon": -9.4895,
+    "population": 44197,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ségou",
+    "region": "Ségou Region",
+    "lat": 13.4317,
+    "lon": -6.2157,
+    "population": 43141,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kidal",
+    "region": "Kidal Region",
+    "lat": 18.4411,
+    "lon": 1.4078,
+    "population": 42585,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ansongo",
+    "region": "Gao Region",
+    "lat": 15.6597,
+    "lon": 0.5022,
+    "population": 42272,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sagalo",
+    "region": "Kayes Region",
+    "lat": 12.2,
+    "lon": -10.7,
+    "population": 41563,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kokofata",
+    "region": "Kayes Region",
+    "lat": 12.8833,
+    "lon": -9.95,
+    "population": 41479,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Baroueli",
+    "region": "Ségou Region",
+    "lat": 13.0749,
+    "lon": -6.5717,
+    "population": 40568,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Djénné",
+    "region": "Mopti Region",
+    "lat": 13.9061,
+    "lon": -4.5533,
+    "population": 39954,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sikasso",
+    "region": "Sikasso Region",
+    "lat": 11.3176,
+    "lon": -5.6665,
+    "population": 37642,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Sokolo",
+    "region": "Ségou Region",
+    "lat": 14.7328,
+    "lon": -6.1219,
+    "population": 36548,
+    "timezone": "UTC"
+  },
+  {
+    "name": "San",
+    "region": "Ségou Region",
+    "lat": 13.3034,
+    "lon": -4.8956,
+    "population": 36482,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koutiala Cercle",
+    "region": "Sikasso Region",
+    "lat": 12.3531,
+    "lon": -5.5839,
+    "population": 35502,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Markala",
+    "region": "Ségou Region",
+    "lat": 13.7021,
+    "lon": -6.0659,
+    "population": 35236,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Douentza Cercle",
+    "region": "Mopti Region",
+    "lat": 15.0695,
+    "lon": -2.4087,
+    "population": 32887,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Araouane",
+    "region": "Tombouctou Region",
+    "lat": 18.9048,
+    "lon": -3.5265,
+    "population": 32686,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Banamba",
+    "region": "Koulikoro Region",
+    "lat": 13.5477,
+    "lon": -7.4481,
+    "population": 31980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kinmparana",
+    "region": "Ségou Region",
+    "lat": 12.8422,
+    "lon": -4.9245,
+    "population": 31592,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gourma-Rharous Cercle",
+    "region": "Tombouctou Region",
+    "lat": 16.0798,
+    "lon": -1.7698,
+    "population": 29704,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kangaba",
+    "region": "Koulikoro Region",
+    "lat": 11.9333,
+    "lon": -8.4167,
+    "population": 29605,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Abeïbara",
+    "region": "Kidal Region",
+    "lat": 19.1167,
+    "lon": 1.75,
+    "population": 29457,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gao",
+    "region": "Gao Region",
+    "lat": 16.2717,
+    "lon": -0.0447,
+    "population": 28980,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bandiagara",
+    "region": "Mopti Region",
+    "lat": 14.35,
+    "lon": -3.6104,
+    "population": 28931,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Inékar",
+    "region": "Gao Region",
+    "lat": 15.9594,
+    "lon": 3.1411,
+    "population": 27085,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bougouni",
+    "region": "Sikasso Region",
+    "lat": 11.4177,
+    "lon": -7.4832,
+    "population": 26778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kayes",
+    "region": "Kayes Region",
+    "lat": 14.4469,
+    "lon": -11.4445,
+    "population": 26665,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Mopti",
+    "region": "Mopti Region",
+    "lat": 14.4843,
+    "lon": -4.183,
+    "population": 24740,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Dire",
+    "region": "Tombouctou Region",
+    "lat": 16.2802,
+    "lon": -3.313,
+    "population": 24739,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Goundam",
+    "region": "Tombouctou Region",
+    "lat": 16.4145,
+    "lon": -3.6707,
+    "population": 24464,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cercle d’Abeïbara",
+    "region": "Kidal Region",
+    "lat": 19.4888,
+    "lon": 2.2003,
+    "population": 22259,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koutiala",
+    "region": "Sikasso Region",
+    "lat": 12.3917,
+    "lon": -5.4642,
+    "population": 21182,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cercle de Bourem",
+    "region": "Gao Region",
+    "lat": 17.7119,
+    "lon": -0.3428,
+    "population": 19778,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Koulikoro",
+    "region": "Koulikoro Region",
+    "lat": 12.8627,
+    "lon": -7.5598,
+    "population": 15903,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Timbuktu",
+    "region": "Tombouctou Region",
+    "lat": 16.7735,
+    "lon": -3.0074,
+    "population": 13490,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Kati",
+    "region": "Koulikoro Region",
+    "lat": 12.7441,
+    "lon": -8.0726,
+    "population": 13152,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bamako",
+    "region": "Bamako",
+    "lat": 12.65,
+    "lon": -8,
+    "population": 13148,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Ténenkou",
+    "region": "Mopti Region",
+    "lat": 14.4572,
+    "lon": -4.9169,
+    "population": 12978,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Gao Cercle",
+    "region": "Gao Region",
+    "lat": 16.7224,
+    "lon": 0.4398,
+    "population": 12075,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Bafoulabé",
+    "region": "Kayes Region",
+    "lat": 13.8065,
+    "lon": -10.8321,
+    "population": 11090,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cercle de Goundam",
+    "region": "Tombouctou Region",
+    "lat": 18.6003,
+    "lon": -4.9931,
+    "population": 10657,
+    "timezone": "UTC"
+  },
+  {
+    "name": "Cercle de San",
+    "region": "Ségou Region",
+    "lat": 13.179,
+    "lon": -5.0162,
+    "population": 10285,
+    "timezone": "UTC"
+  }
+]
